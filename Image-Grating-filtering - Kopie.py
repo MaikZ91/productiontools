@@ -313,14 +313,16 @@ print("init succeed")
 #Set output range  
 DAC.set_DAC_outrange(OUTPUT_RANGE_10V)
 
-while True:
-    DAC.set_DAC_out_voltage(0, 1)     # Setzt die Spannung auf 0 V
-    time.sleep(1)                     # Wartet 2 Sekunden
-    DAC.set_DAC_out_voltage(10000, 1) # Setzt die Spannung auf 10 V
-    time.sleep(1)
+def moveGitter():
+    while True:
+        DAC.set_DAC_out_voltage(0, 1)     # Setzt die Spannung auf 0 V
+        move_to_pos(19, 0)
+        time.sleep(1)                     # Wartet 2 Sekunden
+        DAC.set_DAC_out_voltage(10000, 1) # Setzt die Spannung auf 10 V
+        move_to_pos(19, 215000)
+        time.sleep(1)
 
-
-    
+moveGitter()
 
     
    
