@@ -1,13 +1,13 @@
 from __future__ import print_function
-#import cv2
-#import numpy as np
-#import matplotlib.pyplot as plt
+import cv2
+import numpy as np
+import matplotlib.pyplot as plt
 import serial
-#from tkinter import Tk, Scale, HORIZONTAL, Label, Button
-#import threading
+from tkinter import Tk, Scale, HORIZONTAL, Label, Button
+import threading
 #import time
 #from PIL import Image, ImageEnhance, ImageFilter
-#import pandas as pd
+import pandas as pd
 #from mayavi import mlab
 #lsuimport seaborn as sns
 import sys
@@ -278,28 +278,16 @@ def createGUI():
 
     autofocus_button = Button(root, text="Autofocus", command=autofocus)
     autofocus_button.pack()
+    
+    angle_button = Button(root, text="Angle", command=angle)
+    angle_button.pack()
 
     start_live_feed()
 
     root.mainloop()
 
     dino_lite.release()
-
-def startpos():
-    move_to_pos(18, 0)
-    move_to_pos(19, 215000)
-    move_to_pos(20, 60000)
-    #time.sleep(5)
-    #move_to_pos(18, 40000)
-    #move_to_pos(19, 175000)
-    #move_to_pos(20, 60000) 
     
-    
-#measure_distance()
-#dino_lite = DinoLiteController()
-pos = 0
-startpos()
-#createGUI()
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 from DFRobot_GP8403 import *
@@ -313,16 +301,72 @@ print("init succeed")
 #Set output range  
 DAC.set_DAC_outrange(OUTPUT_RANGE_10V)
 
-def moveGitter():
-    while True:
-        DAC.set_DAC_out_voltage(0, 1)     # Setzt die Spannung auf 0 V
-        move_to_pos(19, 0)
-        time.sleep(1)                     # Wartet 2 Sekunden
-        DAC.set_DAC_out_voltage(10000, 1) # Setzt die Spannung auf 10 V
-        move_to_pos(19, 215000)
-        time.sleep(1)
 
-moveGitter()
+def angle():
+    
+    move_to_pos(19, 210000)
+    DAC.set_DAC_out_voltage(0, 1)   
+    image_start = dino_lite.capture_image()
+    least_squares_sums = []
+    positions = list(range(0, 10000, 250))
+    time.sleep(1)
+    for posy in positions:
+        image_pos = dino_lite.capture_image()
+        cv2.imwrite(f'/home/pi/Gitterschieber/angle_{posy}.png', image_pos)
+        
+        difference = image_start.astype(np.float32) - image_pos.astype(np.float32)
+        squared_difference = np.square(difference)
+        least_squares_sum = np.sum(squared_difference)
+        print(f"Position {posy}, Least Squares Sum: {least_squares_sum}")
+        least_squares_sums.append(least_squares_sum)
+        DAC.set_DAC_out_voltage(posy, 1)
+        time.sleep(1)
+    
+    min_index = np.argmin(least_squares_sums)
+    min_value = least_squares_sums[min_index]
+
+    df = pd.DataFrame({'Position': positions,'LeastSqaure': least_squares_sums})
+    df.to_excel('Rohdaten.xlsx')
+    plt.plot(positions, least_squares_sums, marker='o', linewidth=0.1)
+    
+    plt.title('Least Squares Summen für verschiedene Positionen')
+    plt.xlabel('Position')
+    plt.ylabel('Least Squares Summe')
+    plt.grid(True)
+    plt.scatter(positions[min_index], min_value, color='red', zorder=5)
+    plt.annotate(f'Min: {min_value:.2f}', (positions[min_index], min_value), textcoords="offset points", xytext=(0,10), ha='center', color='red')
+    plt.savefig('deine_abbildung.png')
+    #plt.show()
+
+def angle2():
+    move_to_pos(19, 210000)
+    time.sleep(1)
+    image_start = dino_lite.capture_image()
+    move_to_pos(19, 211788)
+    time.sleep(1)
+    image_pos = dino_lite.capture_image()
+    difference = image_start.astype(np.float32) - image_pos.astype(np.float32)
+    least_squares_sum = np.sum(squared_difference)
+    print(least_squares_sum)
+
+def startpos():
+    move_to_pos(18, 0)
+    move_to_pos(19, 215000)
+    move_to_pos(20, 60000)
+    #time.sleep(5)
+    #move_to_pos(18, 40000)
+    #move_to_pos(19, 175000)
+    #move_to_pos(20, 60000) 
+    
+    
+#measure_distance()
+dino_lite = DinoLiteController()
+pos = 0
+startpos()
+#stitch()
+createGUI()
+
+
 
     
    
