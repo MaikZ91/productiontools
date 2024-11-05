@@ -14,7 +14,6 @@ import pandas as pd
 #from mpl_toolkits.mplot3d import Axes3D
 import tkinter as tk
 
-root = tk.Tk()
 #root.attributes("-fullscreen", True)
 
 
