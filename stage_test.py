@@ -13,13 +13,14 @@ import pandas as pd
 #from sklearn.metrics import r2_score
 #from mpl_toolkits.mplot3d import Axes3D
 import tkinter as tk
+os.environ.pop("QT_QPA_PLATFORM_PLUGIN_PATH")
 
 #root.attributes("-fullscreen", True)
 
 
 picam2 = Picamera2()
 picam2.configure(picam2.create_preview_configuration({'size': (1000, 1000)}))
-
+#root = tk.Tk()
 motorsteps = 0
 pos, x_coord, y_coord, x_coord2, y_coord2 = [], [], [], [], []
 count = 0
@@ -102,11 +103,11 @@ def process_image(motor, axis):
     cv2.circle(np_img, (int(x),int(y)), 2, (255, 255, 255), -1)
     cv2.circle(np_img2, (int(x2), int(y2)), 2, (255, 255, 255), -1)
     
-    cv2.imwrite(f'cam1_{motorsteps}.tif',np_img)
-    cv2.imwrite(f'cam2_{motorsteps}.tif',np_img2)
+    #cv2.imwrite(f'cam1_{motorsteps}.tif',np_img)
+    #cv2.imwrite(f'cam2_{motorsteps}.tif',np_img2)
     
     if axis == 'Y':
-        motorsteps += 100
+        motorsteps += 20000
     if axis == 'Z':
         motorsteps += 50
     
@@ -177,20 +178,20 @@ def int_to_bytes(n, length):
 
 def showResults(axis):
     global pos
-    x1, x_fit1,dis_x1,poly_x1 = berechne_ausgleichsgerade(pos, x_coord)
-    x2, x_fit2,dis_x2,poly_x2 = berechne_ausgleichsgerade(pos, x_coord2)
-    y1, y_fit1,dis_y1,poly_y1 = berechne_ausgleichsgerade(pos, y_coord)
-    y2, y_fit2,dis_y2,poly_y2 = berechne_ausgleichsgerade(pos, y_coord2)
+    x1, x_fit1,dis_x1,poly_x1,x1_derivative,x1_max_slope = berechne_ausgleichsgerade(pos, x_coord)
+    x2, x_fit2,dis_x2,poly_x2,x2_derivative,x2_max_slope  = berechne_ausgleichsgerade(pos, x_coord2)
+    y1, y_fit1,dis_y1,poly_y1,y1_derivative,y1_max_slope  = berechne_ausgleichsgerade(pos, y_coord)
+    y2, y_fit2,dis_y2,poly_y2,y2_derivative,y2_max_slope = berechne_ausgleichsgerade(pos, y_coord2)
     
-    pos = np.array(pos)*(48000/321000)
+    #pos = np.array(pos)*(48000/321000)
     
     fig, (ax1, ax2, ax3, ax4) = plt.subplots(1, 4, figsize=(15, 6))
     
-    
+    x_fine = np.linspace(min(pos), max(pos), 100)
     ax1.plot(pos, y1, label='Cam 1', color='blue',linewidth=1)
     ax1.plot(pos, y2, label='Cam 2', color='red')
-    ax1.plot(pos, y_fit1, linestyle=':', color='blue', linewidth=1)
-    ax1.plot(pos, y_fit2, linestyle=':', color='red', linewidth=1)
+    ax1.plot(x_fine, y_fit1, linestyle=':', color='blue', linewidth=1)
+    ax1.plot(x_fine, y_fit2, linestyle=':', color='red', linewidth=1)
     ax1.text(20, 6.5, f'ΔGlobal Tilt: {round(poly_y1,2)} µm', fontsize=10, color='blue', ha='center', va='center')
     ax1.text(20, 5.5, f'ΔGlobal Tilt: {round(poly_y2,2)} µm', fontsize=10, color='red', ha='center', va='center')
     
@@ -210,9 +211,9 @@ def showResults(axis):
         x_fit1=x_fit1*-1
     
     ax3.plot(pos, x1, label='Cam 1', color='blue',linewidth=1)
-    ax3.plot(pos, x_fit1, linestyle=':', color='blue', linewidth=1)
+    ax3.plot(x_fine, x_fit1, linestyle=':', color='blue', linewidth=1)
     ax3.plot(pos, x2, label='Cam 2', color='red')
-    ax3.plot(pos, x_fit2, linestyle=':', color='red', linewidth=1)
+    ax3.plot(x_fine, x_fit2, linestyle=':', color='red', linewidth=1)
     ax3.text(20, 6.5, f'ΔGlobal Tilt: {round(poly_x1,2)} µm', fontsize=10, color='blue', ha='center', va='center')
     ax3.text(20, 5.5, f'ΔGlobal Tilt: {round(poly_x2,2)} µm', fontsize=10, color='red', ha='center', va='center')
     ax3.set_xlabel(f'Bewegung Stage in {axis}[µm]')
@@ -225,7 +226,7 @@ def showResults(axis):
     colors = ['blue', 'red']
     for patch, color in zip(bp['boxes'], colors):
         patch.set_facecolor(color)
-    plt.savefig('/home/stagetest/Desktop/auswertung.png')
+    plt.savefig('/home/pi/stage_test/auswertung.png')
     fig = plt.figure()
     ax = fig.add_subplot(111, projection='3d')
     
@@ -235,8 +236,8 @@ def showResults(axis):
         ax.plot(pos, x1, y1, label='Cam 1', color='blue')
 
 
-    ax.plot(pos,[0] * len(y_fit1),y_fit1, linestyle=':', color='black', linewidth=1)
-    ax.plot(pos,x_fit1*-1,[0] * len(x_fit1*-1),linestyle=':', color='black', linewidth=1)
+    ax.plot(x_fine,[0] * len(y_fit1),y_fit1, linestyle=':', color='black', linewidth=1)
+    ax.plot(x_fine,x_fit1*-1,[0] * len(x_fit1*-1),linestyle=':', color='black', linewidth=1)
 
  
     ax.set_xlabel(f'Bewegung Stage in {axis}[µm]')  
@@ -244,10 +245,34 @@ def showResults(axis):
     ax.set_zlabel('Auslenkung in Z[µm]')
     
     df = pd.DataFrame({'Position': pos,'Z- Auslenkung_Cam1': y1,'X-Auslenkung_Cam1': x1,'Z- Auslenkung_Cam2': y2,'X-Auslenkung_Cam2': x2,'Tilt_Cam1_Z':poly_y1,'Tilt_Cam2_Z':poly_y2,'Tilt_Cam1_X':poly_x1,'Tilt_Cam2_X':poly_x2})
-    df.to_excel('/home/stagetest/Desktop/Rohdaten.xlsx')
+    df.to_excel('/home/pi/stage_test/Rohdaten.xlsx')
 
     
     plt.show()
+    
+    plt.figure(figsize=(12, 6))
+    # Original-Polynom
+    plt.subplot(1, 2, 1)
+    plt.plot(x_fine, y_fit2, label='Polynom (Grad 10)', color='blue')
+    plt.xlabel('x')
+    plt.ylabel('y')
+    plt.title('Polynom Anpassung')
+    plt.legend()
+
+    # Ableitung des Polynoms
+    
+    plt.subplot(1, 2, 2)
+    plt.plot(x_fine, y2_derivative, label="Ableitung des Polynoms", color='orange')
+    plt.xlabel('x')
+    plt.ylabel("Ableitung von y")
+    plt.title("Ableitung der Polynom-Anpassung")
+    plt.legend()
+    plt.text(0.05, 0.9, f"Maximale Steigung: {x1_max_slope :.5f}", transform=plt.gca().transAxes, fontsize=10, color="red")
+
+
+    plt.tight_layout()
+    plt.savefig(f"polynom_und_ableitung_cam{axis}.png", format='png', dpi=300)
+    plt.close()
     
  
     #clear_list()
@@ -260,13 +285,22 @@ def berechne_ausgleichsgerade(x_werte, y_werte):
     steigung,_ = np.polyfit(x_werte, y_werte, 1)
     y_slope_korrigiert = y_werte - np.array(pos)*steigung
     y_baseline = y_slope_korrigiert - np.mean(y_slope_korrigiert)
-    coefficients = np.polyfit(x_werte, y_baseline, 2)
+
+    coefficients = np.polyfit(x_werte, y_baseline, 10)
     poly_function = np.poly1d(coefficients)
-    y_fit = poly_function(x_werte)
-    delta_y= abs(y_baseline-y_fit)
+    x_fine = np.linspace(min(x_werte), max(x_werte), 100)
+    y_fit_grob = poly_function(x_werte)
+    y_fit = poly_function(x_fine)
+
+    poly_derivative = poly_function.deriv()
+    
+    y_derivative = poly_derivative(x_fine)
+    max_slope = np.max(np.abs(y_derivative))
+    
+    delta_y= abs(y_baseline- y_fit_grob)
     delta_poly= abs(max(y_fit)-min(y_fit))
     
-    return y_baseline, y_fit,delta_y,delta_poly
+    return y_baseline, y_fit,delta_y,delta_poly,y_derivative,max_slope
 
 def clear_list():
     pos.clear()
@@ -336,7 +370,8 @@ def measure_all_axis():
     
         
 def create_gui():
-    root = tk.Tk()
+    global steps_label
+    
     root.title("Laser-Messsystem")
     root.configure(bg="orange")
 
