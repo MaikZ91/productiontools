@@ -17,7 +17,6 @@ os.environ.pop("QT_QPA_PLATFORM_PLUGIN_PATH")
 
 #root.attributes("-fullscreen", True)
 
-
 picam2 = Picamera2()
 picam2.configure(picam2.create_preview_configuration({'size': (1000, 1000)}))
 #root = tk.Tk()
@@ -107,7 +106,7 @@ def process_image(motor, axis):
     #cv2.imwrite(f'cam2_{motorsteps}.tif',np_img2)
     
     if axis == 'Y':
-        motorsteps += 20000
+        motorsteps += 1000
     if axis == 'Z':
         motorsteps += 50
     
@@ -178,101 +177,137 @@ def int_to_bytes(n, length):
 
 def showResults(axis):
     global pos
+
     x1, x_fit1,dis_x1,poly_x1,x1_derivative,x1_max_slope = berechne_ausgleichsgerade(pos, x_coord)
     x2, x_fit2,dis_x2,poly_x2,x2_derivative,x2_max_slope  = berechne_ausgleichsgerade(pos, x_coord2)
     y1, y_fit1,dis_y1,poly_y1,y1_derivative,y1_max_slope  = berechne_ausgleichsgerade(pos, y_coord)
     y2, y_fit2,dis_y2,poly_y2,y2_derivative,y2_max_slope = berechne_ausgleichsgerade(pos, y_coord2)
-    
-    #pos = np.array(pos)*(48000/321000)
-    
-    fig, (ax1, ax2, ax3, ax4) = plt.subplots(1, 4, figsize=(15, 6))
-    
-    x_fine = np.linspace(min(pos), max(pos), 100)
-    ax1.plot(pos, y1, label='Cam 1', color='blue',linewidth=1)
-    ax1.plot(pos, y2, label='Cam 2', color='red')
-    ax1.plot(x_fine, y_fit1, linestyle=':', color='blue', linewidth=1)
-    ax1.plot(x_fine, y_fit2, linestyle=':', color='red', linewidth=1)
-    ax1.text(20, 6.5, f'ΔGlobal Tilt: {round(poly_y1,2)} µm', fontsize=10, color='blue', ha='center', va='center')
-    ax1.text(20, 5.5, f'ΔGlobal Tilt: {round(poly_y2,2)} µm', fontsize=10, color='red', ha='center', va='center')
-    
-    ax1.set_xlabel(f'Bewegung Stage in {axis}[µm]')
-    ax1.set_ylabel('Auslenkung in Z[µm]' if axis == 'Y' else 'Auslenkung in Y[µm]')
 
+    sample_pos_x, cam1_x, cam2_x, fov_x = calculate_slide_of_view(x2, x1)
+    sample_pos_y, cam1_y, cam2_y, fov_y= calculate_slide_of_view(y2, y1)
+
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12, 6))
+
+    # Plot für die X-Richtung
+    ax1.plot(pos, sample_pos_x, label="Sample Pos X",linewidth=1)
+    ax1.plot(pos, cam1_x,linestyle='--', label="Cam 1 X",linewidth=1)
+    ax1.plot(pos, cam2_x, linestyle='--', label="Cam 2 X",linewidth=1)
+    ax1.plot(pos[1:-1], fov_x, label="FOV X", color='black',linewidth=1)
+    ax1.set_title("Positions in X Direction")
+    ax1.set_xlabel("Position")
+    ax1.set_ylabel("X-Werte")
     ax1.legend()
+
+    # Plot für die Y-Richtung
+    ax2.plot(pos, sample_pos_y,label="Sample Pos Y",linewidth=1)
+    ax2.plot(pos, cam1_y, linestyle='--', label="Cam 1 Y",linewidth=1)
+    ax2.plot(pos, cam2_y,  linestyle='--', label="Cam 2 Y",linewidth=1)
+    ax2.plot(pos[1:-1], fov_y, label="FOV Y", color='black',linewidth=1)
+    ax2.set_title("Positions in Y Direction")
+    ax2.set_xlabel("Position")
+    ax2.set_ylabel("Y-Werte")
+    ax2.legend()
+
+    # Layout anpassen und speichern
+    plt.tight_layout()
+    plt.savefig('/home/pi/stage_test/auswertung_xy_directions.png')
+    # plt.show()  # Zum Anzeigen, falls benötigt
+
     
-    dataz = [dis_y1,dis_y2]  
-    bp=ax2.boxplot(dataz, patch_artist=True)
-    colors = ['blue', 'red']
-    for patch, color in zip(bp['boxes'], colors):
-        patch.set_facecolor(color)
+    # ax1.plot(pos,slope_x, label='X', color='blue',linewidth=1)
+    # ax1.plot(pos,slope_y, label='Y', color='blue',linewidth=1)
+    # ax1.plot(pos,slope_y, label='Y', color='blue',linewidth=1)
+
+    # #pos = np.array(pos)*(48000/321000)
+    
+    # fig, (ax1, ax2, ax3, ax4) = plt.subplots(1, 4, figsize=(15, 6))
+    
+    # x_fine = np.linspace(min(pos), max(pos), 100)
+    # ax1.plot(pos, y1, label='Cam 1', color='blue',linewidth=1)
+    # ax1.plot(pos, y2, label='Cam 2', color='red')
+    # ax1.plot(x_fine, y_fit1, linestyle=':', color='blue', linewidth=1)
+    # ax1.plot(x_fine, y_fit2, linestyle=':', color='red', linewidth=1)
+    # ax1.text(20, 6.5, f'ΔGlobal Tilt: {round(poly_y1,2)} µm', fontsize=10, color='blue', ha='center', va='center')
+    # ax1.text(20, 5.5, f'ΔGlobal Tilt: {round(poly_y2,2)} µm', fontsize=10, color='red', ha='center', va='center')
+    
+    # ax1.set_xlabel(f'Bewegung Stage in {axis}[µm]')
+    # ax1.set_ylabel('Auslenkung in Z[µm]' if axis == 'Y' else 'Auslenkung in Y[µm]')
+
+    # ax1.legend()
+    
+    # dataz = [dis_y1,dis_y2]  
+    # bp=ax2.boxplot(dataz, patch_artist=True)
+    # colors = ['blue', 'red']
+    # for patch, color in zip(bp['boxes'], colors):
+    #     patch.set_facecolor(color)
         
-    if axis=='Y':
-        x1=x1*-1
-        x_fit1=x_fit1*-1
+    # if axis=='Y':
+    #     x1=x1*-1
+    #     x_fit1=x_fit1*-1
     
-    ax3.plot(pos, x1, label='Cam 1', color='blue',linewidth=1)
-    ax3.plot(x_fine, x_fit1, linestyle=':', color='blue', linewidth=1)
-    ax3.plot(pos, x2, label='Cam 2', color='red')
-    ax3.plot(x_fine, x_fit2, linestyle=':', color='red', linewidth=1)
-    ax3.text(20, 6.5, f'ΔGlobal Tilt: {round(poly_x1,2)} µm', fontsize=10, color='blue', ha='center', va='center')
-    ax3.text(20, 5.5, f'ΔGlobal Tilt: {round(poly_x2,2)} µm', fontsize=10, color='red', ha='center', va='center')
-    ax3.set_xlabel(f'Bewegung Stage in {axis}[µm]')
-    ax3.set_ylabel('Auslenkung in X[µm]')
-    ax3.legend()
+    # ax3.plot(pos, x1, label='Cam 1', color='blue',linewidth=1)
+    # ax3.plot(x_fine, x_fit1, linestyle=':', color='blue', linewidth=1)
+    # ax3.plot(pos, x2, label='Cam 2', color='red')
+    # ax3.plot(x_fine, x_fit2, linestyle=':', color='red', linewidth=1)
+    # ax3.text(20, 6.5, f'ΔGlobal Tilt: {round(poly_x1,2)} µm', fontsize=10, color='blue', ha='center', va='center')
+    # ax3.text(20, 5.5, f'ΔGlobal Tilt: {round(poly_x2,2)} µm', fontsize=10, color='red', ha='center', va='center')
+    # ax3.set_xlabel(f'Bewegung Stage in {axis}[µm]')
+    # ax3.set_ylabel('Auslenkung in X[µm]')
+    # ax3.legend()
     
     
-    datax = [dis_x1,dis_x2]  
-    bp=ax4.boxplot(datax, patch_artist=True)
-    colors = ['blue', 'red']
-    for patch, color in zip(bp['boxes'], colors):
-        patch.set_facecolor(color)
-    plt.savefig('/home/pi/stage_test/auswertung.png')
-    fig = plt.figure()
-    ax = fig.add_subplot(111, projection='3d')
+    # datax = [dis_x1,dis_x2]  
+    # bp=ax4.boxplot(datax, patch_artist=True)
+    # colors = ['blue', 'red']
+    # for patch, color in zip(bp['boxes'], colors):
+    #     patch.set_facecolor(color)
+    # plt.savefig('/home/pi/stage_test/auswertung.png')
+    # fig = plt.figure()
+    # ax = fig.add_subplot(111, projection='3d')
     
-    if axis == 'Y':
-        ax.plot(pos, x1 * -1, y1, label='Cam 1', color='blue')
-    else:
-        ax.plot(pos, x1, y1, label='Cam 1', color='blue')
+    # if axis == 'Y':
+    #     ax.plot(pos, x1 * -1, y1, label='Cam 1', color='blue')
+    # else:
+    #     ax.plot(pos, x1, y1, label='Cam 1', color='blue')
 
 
-    ax.plot(x_fine,[0] * len(y_fit1),y_fit1, linestyle=':', color='black', linewidth=1)
-    ax.plot(x_fine,x_fit1*-1,[0] * len(x_fit1*-1),linestyle=':', color='black', linewidth=1)
+    # ax.plot(x_fine,[0] * len(y_fit1),y_fit1, linestyle=':', color='black', linewidth=1)
+    # ax.plot(x_fine,x_fit1*-1,[0] * len(x_fit1*-1),linestyle=':', color='black', linewidth=1)
 
  
-    ax.set_xlabel(f'Bewegung Stage in {axis}[µm]')  
-    ax.set_ylabel('Auslenkung in X [µm]')
-    ax.set_zlabel('Auslenkung in Z[µm]')
+    # ax.set_xlabel(f'Bewegung Stage in {axis}[µm]')  
+    # ax.set_ylabel('Auslenkung in X [µm]')
+    # ax.set_zlabel('Auslenkung in Z[µm]')
     
-    df = pd.DataFrame({'Position': pos,'Z- Auslenkung_Cam1': y1,'X-Auslenkung_Cam1': x1,'Z- Auslenkung_Cam2': y2,'X-Auslenkung_Cam2': x2,'Tilt_Cam1_Z':poly_y1,'Tilt_Cam2_Z':poly_y2,'Tilt_Cam1_X':poly_x1,'Tilt_Cam2_X':poly_x2})
-    df.to_excel('/home/pi/stage_test/Rohdaten.xlsx')
+    # df = pd.DataFrame({'Position': pos,'Z- Auslenkung_Cam1': y1,'X-Auslenkung_Cam1': x1,'Z- Auslenkung_Cam2': y2,'X-Auslenkung_Cam2': x2,'Tilt_Cam1_Z':poly_y1,'Tilt_Cam2_Z':poly_y2,'Tilt_Cam1_X':poly_x1,'Tilt_Cam2_X':poly_x2})
+    # df.to_excel('/home/pi/stage_test/Rohdaten.xlsx')
 
     
-    plt.show()
+    # plt.show()
     
-    plt.figure(figsize=(12, 6))
-    # Original-Polynom
-    plt.subplot(1, 2, 1)
-    plt.plot(x_fine, y_fit2, label='Polynom (Grad 10)', color='blue')
-    plt.xlabel('x')
-    plt.ylabel('y')
-    plt.title('Polynom Anpassung')
-    plt.legend()
+    # plt.figure(figsize=(12, 6))
+    # # Original-Polynom
+    # plt.subplot(1, 2, 1)
+    # plt.plot(x_fine, y_fit2, label='Polynom (Grad 10)', color='blue')
+    # plt.xlabel('x')
+    # plt.ylabel('y')
+    # plt.title('Polynom Anpassung')
+    # plt.legend()
 
-    # Ableitung des Polynoms
+    # # Ableitung des Polynoms
     
-    plt.subplot(1, 2, 2)
-    plt.plot(x_fine, y2_derivative, label="Ableitung des Polynoms", color='orange')
-    plt.xlabel('x')
-    plt.ylabel("Ableitung von y")
-    plt.title("Ableitung der Polynom-Anpassung")
-    plt.legend()
-    plt.text(0.05, 0.9, f"Maximale Steigung: {x1_max_slope :.5f}", transform=plt.gca().transAxes, fontsize=10, color="red")
+    # plt.subplot(1, 2, 2)
+    # plt.plot(x_fine, y2_derivative, label="Ableitung des Polynoms", color='orange')
+    # plt.xlabel('x')
+    # plt.ylabel("Ableitung von y")
+    # plt.title("Ableitung der Polynom-Anpassung")
+    # plt.legend()
+    # plt.text(0.05, 0.9, f"Maximale Steigung: {x1_max_slope :.5f}", transform=plt.gca().transAxes, fontsize=10, color="red")
 
 
-    plt.tight_layout()
-    plt.savefig(f"polynom_und_ableitung_cam{axis}.png", format='png', dpi=300)
-    plt.close()
+    # plt.tight_layout()
+    # plt.savefig(f"polynom_und_ableitung_cam{axis}.png", format='png', dpi=300)
+    # plt.close()
     
  
     #clear_list()
@@ -301,6 +336,25 @@ def berechne_ausgleichsgerade(x_werte, y_werte):
     delta_poly= abs(max(y_fit)-min(y_fit))
     
     return y_baseline, y_fit,delta_y,delta_poly,y_derivative,max_slope
+
+def calculate_slide_of_view(cam_1, cam_2):
+
+    slope = (cam_1-cam_2)/(60-0)
+
+    sample_pos = slope*70
+    cam1 = slope*60 + cam_2
+    cam2 = slope*0 + cam_2
+
+    fov = []
+
+    for i in range(len(sample_pos) - 2):
+        three_values = sample_pos[i:i+3]
+        delta = max(three_values) - min(three_values)
+        fov.append(delta)
+
+    return sample_pos, cam1, cam2, fov
+
+
 
 def clear_list():
     pos.clear()
