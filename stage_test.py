@@ -186,27 +186,38 @@ def showResults(axis):
     sample_pos_x, cam1_x, cam2_x, fov_x = calculate_slide_of_view(x2, x1)
     sample_pos_y, cam1_y, cam2_y, fov_y= calculate_slide_of_view(y2, y1)
 
-    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12, 6))
+    fig, (ax1, ax2, ax3, ax4) = plt.subplots(1, 4, figsize=(14, 6))
 
-    # Plot für die X-Richtung
-    ax1.plot(pos, sample_pos_x, label="Sample Pos X",linewidth=1)
-    ax1.plot(pos, cam1_x,linestyle='--', label="Cam 1 X",linewidth=1)
-    ax1.plot(pos, cam2_x, linestyle='--', label="Cam 2 X",linewidth=1)
+    pos = np.array(pos)*(48000/321000)
+
     ax1.plot(pos[1:-1], fov_x, label="FOV X", color='black',linewidth=1)
-    ax1.set_title("Positions in X Direction")
-    ax1.set_xlabel("Position")
+    ax1.set_title("Field of View X")
+    ax1.set_xlabel("Position[µm]")
     ax1.set_ylabel("X-Werte")
     ax1.legend()
 
-    # Plot für die Y-Richtung
-    ax2.plot(pos, sample_pos_y,label="Sample Pos Y",linewidth=1)
-    ax2.plot(pos, cam1_y, linestyle='--', label="Cam 1 Y",linewidth=1)
-    ax2.plot(pos, cam2_y,  linestyle='--', label="Cam 2 Y",linewidth=1)
-    ax2.plot(pos[1:-1], fov_y, label="FOV Y", color='black',linewidth=1)
-    ax2.set_title("Positions in Y Direction")
-    ax2.set_xlabel("Position")
-    ax2.set_ylabel("Y-Werte")
+    ax2.plot(pos, sample_pos_x, label="Sample Pos X", color='black', linewidth=1)
+    ax2.plot(pos, cam1_x,linestyle='--', label="Cam 1 X",color='red',linewidth=1)
+    ax2.plot(pos, cam2_x, linestyle='--', label="Cam 2 X",color='blue',linewidth=1)
+    ax2.set_title("Positions in X Direction")
+    ax2.set_xlabel("Position[µm]")
+    ax2.set_ylabel("X-Werte")
     ax2.legend()
+
+    ax3.plot(pos[1:-1], fov_y, label="FOV Z", color='black',linewidth=1)
+    ax3.set_title("Field of View Z")
+    ax3.set_xlabel("Position[µm]")
+    ax3.set_ylabel("Z-Werte")
+    ax3.legend()
+
+    ax4.plot(pos, sample_pos_y,label="Sample Pos Z",color='black',linewidth=1)
+    ax4.plot(pos, cam1_y, linestyle='--', label="Cam 1 Z",color='red',linewidth=1)
+    ax4.plot(pos, cam2_y,  linestyle='--', label="Cam 2 Z",color='blue',linewidth=1)
+    
+    ax4.set_title("Positions in Z Direction")
+    ax4.set_xlabel("Position[µm]")
+    ax4.set_ylabel("Z-Werte")
+    ax4.legend()
 
     # Layout anpassen und speichern
     plt.tight_layout()
@@ -218,7 +229,7 @@ def showResults(axis):
     # ax1.plot(pos,slope_y, label='Y', color='blue',linewidth=1)
     # ax1.plot(pos,slope_y, label='Y', color='blue',linewidth=1)
 
-    # #pos = np.array(pos)*(48000/321000)
+    # #
     
     # fig, (ax1, ax2, ax3, ax4) = plt.subplots(1, 4, figsize=(15, 6))
     
@@ -341,8 +352,8 @@ def calculate_slide_of_view(cam_1, cam_2):
 
     slope = (cam_1-cam_2)/(60-0)
 
-    sample_pos = slope*70
-    cam1 = slope*60 + cam_2
+    sample_pos = slope*52
+    cam1 = slope*44 + cam_2
     cam2 = slope*0 + cam_2
 
     fov = []
