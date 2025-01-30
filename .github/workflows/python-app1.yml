@@ -1,0 +1,27 @@
+name: Run Python Scraper
+
+on:
+  push:   # Startet das Skript automatisch, wenn du Änderungen am Code machst
+    branches:
+      - master  # Ändere das, falls dein Haupt-Branch anders heißt
+  schedule:
+    - cron: "0 * * * *"  # Führt das Skript jede Stunde aus
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        
+      - name: Install Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.9"
+
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt || echo "Keine Abhängigkeiten erforderlich"
+
+      - name: Run Python Script
+        run: python events.py
