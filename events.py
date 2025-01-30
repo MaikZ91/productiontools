@@ -436,7 +436,7 @@ if __name__ == '__main__':
     with open('events.json', 'w') as file:
         json.dump(events, file, indent=4)
 
-    json_url = upload_json_to_wix("events.json")
+    #json_url = upload_json_to_wix("events.json")
 
     
     
