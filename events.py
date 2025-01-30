@@ -10,7 +10,7 @@ import traceback
 import re
 import requests
 
-current_month = datetime.now().strftime("%m")
+current_month = '2'
 bielefeld_guide = 'https://www.bielefeld-guide.de/events/weekend-guide/'
 bielefeld_jetzt = 'https://www.bielefeld.jetzt/termine/suche?dateFrom=2025-02-01&dateTo=2025-02-28&rubrik%5B0%5D=k24&rubrik%5B1%5D=k246&rubrik%5B2%5D=k215&ort=0&stadtbezirk=0&freitext='
 forum = 'https://forum-bielefeld.com/category/veranstaltungen/'
