@@ -91,7 +91,7 @@ def scrape_events(base_url):
                         "Peter-und-Pauls-Kirche Heepen (ev.)",
                         "Neustädter Marienkirche (ev.)",
                         "Kirche Brake (ev.)",
-                        "Haus der Kirche"
+                        "Haus der Kirche",
                         "Capella Hospitalis",
                         "Thomaskirche Schildesche (ev.)",
                         "Eckardtsheim",
