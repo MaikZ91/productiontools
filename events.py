@@ -10,7 +10,8 @@ import traceback
 import re
 import requests
 
-current_month = '2'
+current_month = '02'
+#datetime.datetime.now().strftime('%m'))
 bielefeld_guide = 'https://www.bielefeld-guide.de/events/weekend-guide/'
 bielefeld_jetzt = 'https://www.bielefeld.jetzt/termine/suche?dateFrom=2025-02-01&dateTo=2025-02-28&rubrik%5B0%5D=k24&rubrik%5B1%5D=k246&rubrik%5B2%5D=k215&ort=0&stadtbezirk=0&freitext='
 forum = 'https://forum-bielefeld.com/category/veranstaltungen/'
@@ -22,8 +23,7 @@ platzhirsch = 'https://www.facebook.com/search/top?q=platzhirsch'
 irish_pub = 'https://www.irishpub-bielefeld.de/'
 f2f = 'https://face-to-face-dating.de/bielefeld'
 stereo = 'https://stereo-bielefeld.de/programm/'
-WIX_API_KEY = "IST.eyJraWQiOiJQb3pIX2FDMiIsImFsZyI6IlJTMjU2In0.eyJkYXRhIjoie1wiaWRcIjpcIjQ1NWE0Mjk4LWM3YTItNGQyZC05MzkxLTZiZDhmZDJjZjdlYVwiLFwiaWRlbnRpdHlcIjp7XCJ0eXBlXCI6XCJhcHBsaWNhdGlvblwiLFwiaWRcIjpcImJhNDRlZTE0LTVjYzQtNGIxMS1hZWFhLTk5YzA2YWE2YmY3NVwifSxcInRlbmFudFwiOntcInR5cGVcIjpcImFjY291bnRcIixcImlkXCI6XCI5N2MyYTlkZS1kNmRmLTQwYTctYTM1Mi00NWVkMTlkMzRhZmFcIn19IiwiaWF0IjoxNzM4MjM1NzM0fQ.FlD5JV0H2q70QdCYN3-ILBIPDQ11za4ErT_nOg8kp_ppgOztCgDsLsZQP1Qk1ssrcV0Y8SZn4DFLv4i6YAd7vZqyGaxVI4l1DmC07NDQbYxhNZ9REVTy4Y4HW3UiJBVXaj-hSuG6QnfA3cRqtTQlVLaiewYWqgvksVOGuWEs5SEe81w_slJYuu9ZYd72lORAKJWU3YY5geKQjgAqiV9v2dRYi8FUSm7tzok-WW3jAAuNj0qzlxw_XgqtoGE-dJ6dsJCvOuuIUE8Q9XxkofrzCMswYwFLj4W974liJqTeFL3bhiAzU973HhFDqfuXeII0FD0Z69zRVov7MPGDXOh4Pg"
-WIX_MEDIA_UPLOAD_URL = "https://www.wix.com/_api/media/upload/file"  
+
 
 
 def scrape_events(base_url):
@@ -91,7 +91,7 @@ def scrape_events(base_url):
                         "Peter-und-Pauls-Kirche Heepen (ev.)",
                         "Neustädter Marienkirche (ev.)",
                         "Kirche Brake (ev.)",
-                        "Haus der Kirche",
+                        "Haus der Kirche"
                         "Capella Hospitalis",
                         "Thomaskirche Schildesche (ev.)",
                         "Eckardtsheim",
@@ -407,21 +407,7 @@ def add_new_events(events, event_date, event_name, base_url):
         'event': event_name,
         'link': base_url,
     })
-def upload_json_to_wix(json_file_path):
-    headers = {
-        "Authorization": WIX_API_KEY
-    }
-    files = {
-        "file": open(json_file_path, "rb")
-    }
-    response = requests.post(WIX_MEDIA_UPLOAD_URL, headers=headers, files=files)
 
-    if response.status_code == 200:
-        json_url = response.json().get("fileUrl")
-        print(f"✅ JSON-Datei hochgeladen: {json_url}")
-        return json_url
-    else:
-        print(f"❌ Fehler beim Hochladen: {response.text}")
 
 if __name__ == '__main__':
     events = scrape_events(bielefeld_jetzt) + scrape_events(
@@ -435,7 +421,6 @@ if __name__ == '__main__':
     with open('events.json', 'w') as file:
         json.dump(events, file, indent=4)
 
-    #json_url = upload_json_to_wix("events.json")
 
     
     
