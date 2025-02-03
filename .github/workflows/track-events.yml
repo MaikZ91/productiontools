@@ -1,0 +1,18 @@
+name: Track Events
+
+on:
+  push:
+    paths:
+      - 'events.json'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Send notification
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "New events have been added to events.json" | mail -s "New Events Added" maikz@miltenyi.com
