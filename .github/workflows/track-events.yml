@@ -15,4 +15,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "New events have been added to events.json" | mail -s "New Events Added" maikz@miltenyi.com
+          echo "New events have been added to events.json" | mail -s "New Events Added" maik.z@gmx.de
