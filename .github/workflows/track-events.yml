@@ -40,7 +40,11 @@ jobs:
           echo "From: maik.z@gmx.de" >> event_changes.txt
           echo "" >> event_changes.txt
           echo "New events have been added to events.json:" >> event_changes.txt
-          git diff --unified=0 HEAD^ HEAD -- events.json | grep '^+' | grep -v '+++' >> event_changes.txt
+          if git rev-parse HEAD^ >/dev/null 2>&1; then
+            git diff --unified=0 HEAD^ HEAD -- events.json | grep '^+' | grep -v '+++' >> event_changes.txt
+          else
+            echo "This is the first commit, no previous changes to show." >> event_changes.txt
+          fi
 
       - name: Send notification
         run: |
