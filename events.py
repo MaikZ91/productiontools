@@ -23,6 +23,7 @@ platzhirsch = 'https://www.facebook.com/search/top?q=platzhirsch'
 irish_pub = 'https://www.irishpub-bielefeld.de/'
 f2f = 'https://face-to-face-dating.de/bielefeld'
 stereo = 'https://stereo-bielefeld.de/programm/'
+cafe= "https://cafeeuropa.de/"
 
 
 
