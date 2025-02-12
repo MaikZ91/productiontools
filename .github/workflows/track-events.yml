@@ -26,6 +26,7 @@ jobs:
           echo "auth on" >> ~/.msmtprc
           echo "user maik.z@gmx.de" >> ~/.msmtprc
           echo "password ${{ secrets.GMX }}" >> ~/.msmtprc
+          echo "from maik.z@gmx.de" >> ~/.msmtprc
           echo "tls on" >> ~/.msmtprc
           echo "tls_starttls on" >> ~/.msmtprc
           echo "logfile ~/.msmtp.log" >> ~/.msmtprc
