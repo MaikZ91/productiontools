@@ -258,39 +258,6 @@ def scrape_events(base_url):
                     "link": url
                 })
 
-
-                script_tags = soup.find_all("script", type="application/ld+json")
-    if (base_url == cafe):
-        for script in script_tags:
-            try:
-                data = json.loads(script.string)
-            except json.JSONDecodeError as e:
-                print("Fehler beim Parsen des JSON:", e)
-                continue
-
-            # Falls 'data' kein Array ist, in eine Liste packen
-            if not isinstance(data, list):
-                data = [data]
-
-            # Alle Elemente der Liste durchgehen
-            for item in data:
-                # Nur Objekte mit "@type" == "Event" verarbeiten
-                if isinstance(item, dict) and item.get("@type") == "Event":
-                    event_name = item.get("name", "Kein Name")
-                    start_date = item.get("startDate", "")
-                    try:
-                        dt = datetime.fromisoformat(start_date)
-                        formatted_date = dt.strftime("%Y-%m-%d %H:%M")
-                    except Exception:
-                        formatted_date = start_date
-
-                    # Event zur einzigen Liste hinzufügen
-                    events.append({
-                        "date": formatted_date,
-                        "event": f"{event_name} (@Stereo)",
-                        "link": item.get("url", "")
-                    })
-
     if (base_url == f2f):
 
         container = soup.find('div', class_='wpf2f-public-widget')
@@ -455,3 +422,7 @@ if __name__ == '__main__':
     # +
     with open('events.json', 'w') as file:
         json.dump(events, file, indent=4)
+
+
+    
+    
