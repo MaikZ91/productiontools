@@ -11,8 +11,33 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-      - name: Send notification
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Install msmtp
         run: |
-          echo "New events have been added to events.json" | mail -s "New Events Added" maik.z@gmx.de
+          sudo apt-get update
+          sudo apt-get install -y msmtp msmtp-mta
+
+      - name: Configure SMTP for GMX
+        run: |
+          echo "defaults" > ~/.msmtprc
+          echo "account gmx" >> ~/.msmtprc
+          echo "host mail.gmx.net" >> ~/.msmtprc
+          echo "port 587" >> ~/.msmtprc
+          echo "auth on" >> ~/.msmtprc
+          echo "user maik.z@gmx.de" >> ~/.msmtprc
+          echo "password ${{ secrets.GMX }}" >> ~/.msmtprc
+          echo "tls on" >> ~/.msmtprc
+          echo "tls_starttls on" >> ~/.msmtprc
+          echo "logfile ~/.msmtp.log" >> ~/.msmtprc
+          echo "account default : gmx" >> ~/.msmtprc
+          chmod 600 ~/.msmtprc
+
+      - name: Send notification
+        run: |
+          echo "New events have been added to events.json" | msmtp -a default -t <<EOF
+          To: maik.z@gmx.de
+          From: maik.z@gmx.de
+          Subject: New Events Added
+          
+          New events have been added to events.json.
+          EOF
