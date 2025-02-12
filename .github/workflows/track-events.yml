@@ -34,10 +34,4 @@ jobs:
 
       - name: Send notification
         run: |
-          echo "New events have been added to events.json" | msmtp -a default -t <<EOF
-          To: maik.z@gmx.de
-          From: maik.z@gmx.de
-          Subject: New Events Added
-          
-          New events have been added to events.json.
-          EOF
+          echo -e "Subject: New Events Added\nTo: maik.z@gmx.de\nFrom: maik.z@gmx.de\n\nNew events have been added to events.json." | msmtp -a default maik.z@gmx.de
