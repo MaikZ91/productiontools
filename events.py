@@ -96,7 +96,8 @@ def scrape_events(base_url):
                         "Capella Hospitalis",
                         "Thomaskirche Schildesche (ev.)",
                         "Eckardtsheim","Ev.-Luth. Bartholomäus-Kirchengemeinde Bielefeld-Brackwede",
-                        "Bartholomäuskirche Brackwede (ev.-luth.)"
+                        "Bartholomäuskirche Brackwede (ev.-luth.)",
+"St. Jodokus-Kirche (kath.)"
                 ]):
                     events.append({
                         'date': formatted_event_date,
