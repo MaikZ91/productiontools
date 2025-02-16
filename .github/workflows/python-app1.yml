@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: "0 8 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -27,22 +27,34 @@ jobs:
       - name: Run Python Script
         run: python events.py
 
+      - name: Check for Changes in events.json
+        run: |
+          if git diff --quiet events.json; then
+            echo "Keine Änderungen in events.json, kein Commit erforderlich."
+            echo "NO_CHANGES=true" >> $GITHUB_ENV
+          else
+            echo "NO_CHANGES=false" >> $GITHUB_ENV
+          fi
+
       - name: Commit und Push JSON-Datei
+        if: env.NO_CHANGES == 'false'
         run: |
           git config --global user.email "maikz@miltenyi.com"
           git config --global user.name "MaikZ91"
           export GIT_COMMITTER_NAME="MaikZ91"
           export GIT_COMMITTER_EMAIL="maikz@miltenyi.com"
           git add events.json
-          git commit -m "Automatische Aktualisierung der Events [GitHub Actions]" || echo "Keine Änderungen zum Commit"
+          git commit -m "Automatische Aktualisierung der Events [GitHub Actions]"
           git push https://${{ secrets.PAT_TOKEN }}@github.com/MaikZ91/productiontools.git master
 
       - name: Install msmtp
+        if: env.NO_CHANGES == 'false'
         run: |
           sudo apt-get update
           sudo apt-get install -y msmtp msmtp-mta
 
       - name: Configure SMTP for GMX
+        if: env.NO_CHANGES == 'false'
         run: |
           echo "defaults" > ~/.msmtprc
           echo "account gmx" >> ~/.msmtprc
@@ -59,17 +71,23 @@ jobs:
           chmod 600 ~/.msmtprc
 
       - name: Create Email Content
+        if: env.NO_CHANGES == 'false'
         run: |
-          echo "Subject: New Events Added" > event_changes.txt
+          echo "Subject: Neue Events hinzugefügt" > event_changes.txt
           echo "To: maik.z@gmx.de" >> event_changes.txt
           echo "From: maik.z@gmx.de" >> event_changes.txt
           echo "" >> event_changes.txt
-          echo "New events have been added to events.json:" >> event_changes.txt
-          if git rev-parse HEAD^ >/dev/null 2>&1; then
+          echo "Neue Events wurden in events.json hinzugefügt:" >> event_changes.txt
+          
+          NEW_EVENTS=$(git diff --unified=0 HEAD^ HEAD -- events.json | grep '^+' | grep -v '+++' | wc -l)
+
+          if [ "$NEW_EVENTS" -gt 0 ]; then
             git diff --unified=0 HEAD^ HEAD -- events.json | grep '^+' | grep -v '+++' >> event_changes.txt
           else
-            echo "This is the first commit, no previous changes to show." >> event_changes.txt
+            echo "Keine neuen Events gefunden." >> event_changes.txt
+            echo "NO_NEW_EVENTS=true" >> $GITHUB_ENV
           fi
 
       - name: Send Notification
+        if: env.NO_NEW_EVENTS != 'true'
         run: cat event_changes.txt | msmtp -a default maik.z@gmx.de
