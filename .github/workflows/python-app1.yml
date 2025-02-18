@@ -89,5 +89,5 @@ jobs:
           fi
 
       - name: Send Notification
-        if: env.NO_NEW_EVENTS != 'true'
+        if: env.NO_CHANGES == 'false' && env.NO_NEW_EVENTS != 'true'
         run: cat event_changes.txt | msmtp -a default maik.z@gmx.de
