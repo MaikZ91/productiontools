@@ -140,12 +140,13 @@ def scrape_events(base_url):
             "November": "11",
             "Dezember": "12"
         }
+
+        # Finde alle Links mit "Tickets kaufen"
         ticket_links = soup.find_all(
             'a', string=lambda s: s and "Tickets kaufen" in s)
+
         for link in ticket_links:
-            # Versuche, vom Link aus den Eventtitel zu finden.
-            # Häufig steht der Titel in einem nahegelegenen Header-Element, z.B. <h2>, <h3> oder <h4>,
-            # der typischerweise ein "•" enthält (z.B. "MI • WYLD WEDNESDAY").
+            # Suche nach einem nahegelegenen Header (z.B. <h2>, <h3>, <h4>) mit "•" im Text
             title_elem = link.find_previous(
                 lambda tag: tag.name in ['h2', 'h3', 'h4'
                                          ] and "•" in tag.get_text())
@@ -153,18 +154,15 @@ def scrape_events(base_url):
                 continue
             event_title = title_elem.get_text(strip=True)
 
-            # Gehe einen Schritt weiter zurück, um das Datum zu finden.
-            # Hierzu suchen wir nach einem Text, der z. B. "19. Februar" enthält.
-            date_text = ""
+            # Suche nach einem Text in der Nähe, der ein Datum im Format "19. Februar" enthält
             prev_text = title_elem.find_previous(
                 string=re.compile(r'\d{1,2}\.\s*[A-Za-zäöüÄÖÜ]+'))
             if prev_text:
                 date_text = prev_text.strip()
             else:
-                # Falls kein Datum gefunden wurde, überspringe dieses Event
                 continue
 
-            # Extrahiere Tag und Monatsnamen aus z.B. "19. Februar"
+            # Extrahiere Tag und Monatsnamen
             m = re.search(r'(\d{1,2})\.\s*([A-Za-zäöüÄÖÜ]+)', date_text)
             if m:
                 day = m.group(1)
@@ -173,26 +171,40 @@ def scrape_events(base_url):
             else:
                 continue
 
-            # Versuche, den Wochentag aus dem Titel abzulesen – üblicherweise stehen am Anfang Kürzel wie "MI" oder "FR".
-            # Andernfalls kann man alternativ über datetime den Wochentag errechnen (vorausgesetzt, man hat das Jahr).
-            weekday_candidate = event_title.split("•")[0].strip()
-            # Falls das Kürzel zwei Zeichen lang ist, verwenden wir es; ansonsten nutzen wir eine Berechnung (hier als Fallback)
-            if len(weekday_candidate) != 2:
-                try:
-                    # Verwenden wir das aktuelle Jahr und den gefundenen Tag/Monat
-                    event_date = datetime.datetime(
-                        datetime.datetime.now().year, int(month_number),
-                        int(day))
-                    weekday_candidate = event_date.strftime("%a")
-                except Exception:
-                    weekday_candidate = ""
+            # Berechne das korrekte Jahr anhand des aktuellen Datums
+            now = datetime.datetime.now()
+            candidate_date = datetime.datetime(now.year, int(month_number),
+                                               int(day))
+            if candidate_date.date() < now.date():
+                event_year = now.year + 1
+            else:
+                event_year = now.year
+            event_date = datetime.datetime(event_year, int(month_number),
+                                           int(day))
 
-            # Formatierung des Datums wie gewünscht: z.B. "MI, 19.02"
-            date_str = f"{weekday_candidate}, {day}.{month_number}"
+            # Subtrahiere einen Tag, um den Vortag (anstatt des Enddatums) zu erhalten
+            adjusted_date = event_date - datetime.timedelta(days=1)
+
+            # Berechne den Wochentag und übersetze in deutsche Abkürzungen
+            weekday_candidate = adjusted_date.strftime("%a")  # z.B. "Wed"
+            weekday_map = {
+                "Mon": "Mo",
+                "Tue": "Di",
+                "Wed": "Mi",
+                "Thu": "Do",
+                "Fri": "Fr",
+                "Sat": "Sa",
+                "Sun": "So"
+            }
+            weekday_candidate = weekday_map.get(weekday_candidate,
+                                                weekday_candidate)
+
+            # Formatierung des Datums (z.B. "Mi, 18.02")
+            date_str = f"{weekday_candidate}, {adjusted_date.day:02d}.{adjusted_date.month:02d}"
 
             # Vollständige URL zum Event
             full_link = urljoin(base_url, link.get('href'))
-            # Eventtitel um den Hinweis auf die Quelle ergänzen
+            # Füge einen Hinweis zur Quelle an den Eventtitel
             event_title += " (@CafeEuropa)"
 
             events.append({
@@ -484,7 +496,10 @@ def add_new_events(events, event_date, event_name, base_url):
 
 
 if __name__ == '__main__':
-    sources = [bielefeld_jetzt, forum, platzhirsch, irish_pub,f2f, sams, movie, nrzp, bunker, stereo, cafe]
+    sources = [
+        bielefeld_jetzt, forum, platzhirsch, irish_pub, f2f, sams, movie, nrzp,
+        bunker, stereo, cafe
+    ]
     events = [event for source in sources for event in scrape_events(source)]
 
     with open('events.json', 'w') as file:
