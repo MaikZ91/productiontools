@@ -23,8 +23,7 @@ platzhirsch = 'https://www.facebook.com/search/top?q=platzhirsch'
 irish_pub = 'https://www.irishpub-bielefeld.de/'
 f2f = 'https://face-to-face-dating.de/bielefeld'
 stereo = 'https://stereo-bielefeld.de/programm/'
-cafe= "https://cafeeuropa.de/"
-
+cafe = "https://cafeeuropa.de/"
 
 
 def scrape_events(base_url):
@@ -81,23 +80,19 @@ def scrape_events(base_url):
                 formatted_event_name = f"{event_name} (@{event_location})"
 
                 if not any(substring in event_location for substring in [
-                        "Nr. z. P",
-                        "Bunker Ulmenwall",
-                        "Forum",
+                        "Nr. z. P", "Bunker Ulmenwall", "Forum",
                         "Johanneskirche Quelle (ev.)",
                         "Zionskirche Bethel (ev.)",
                         "Altstädter Nicolaikirche (ev.)",
                         "Peterskirche Kirchdornberg (ev.)",
                         "Johanniskirche (ev.)",
                         "Peter-und-Pauls-Kirche Heepen (ev.)",
-                        "Neustädter Marienkirche (ev.)",
-                        "Kirche Brake (ev.)",
-                        "Haus der Kirche",
-                        "Capella Hospitalis",
-                        "Thomaskirche Schildesche (ev.)",
-                        "Eckardtsheim","Ev.-Luth. Bartholomäus-Kirchengemeinde Bielefeld-Brackwede",
+                        "Neustädter Marienkirche (ev.)", "Kirche Brake (ev.)",
+                        "Haus der Kirche", "Capella Hospitalis",
+                        "Thomaskirche Schildesche (ev.)", "Eckardtsheim",
+                        "Ev.-Luth. Bartholomäus-Kirchengemeinde Bielefeld-Brackwede",
                         "Bartholomäuskirche Brackwede (ev.-luth.)",
-"St. Jodokus-Kirche (kath.)"
+                        "St. Jodokus-Kirche (kath.)"
                 ]):
                     events.append({
                         'date': formatted_event_date,
@@ -129,6 +124,82 @@ def scrape_events(base_url):
                             'event': event,
                             'link': full_link
                         })
+    if base_url == cafe:
+
+        MONTHS = {
+            "Januar": "01",
+            "Februar": "02",
+            "März": "03",
+            "April": "04",
+            "Mai": "05",
+            "Juni": "06",
+            "Juli": "07",
+            "August": "08",
+            "September": "09",
+            "Oktober": "10",
+            "November": "11",
+            "Dezember": "12"
+        }
+        ticket_links = soup.find_all(
+            'a', string=lambda s: s and "Tickets kaufen" in s)
+        for link in ticket_links:
+            # Versuche, vom Link aus den Eventtitel zu finden.
+            # Häufig steht der Titel in einem nahegelegenen Header-Element, z.B. <h2>, <h3> oder <h4>,
+            # der typischerweise ein "•" enthält (z.B. "MI • WYLD WEDNESDAY").
+            title_elem = link.find_previous(
+                lambda tag: tag.name in ['h2', 'h3', 'h4'
+                                         ] and "•" in tag.get_text())
+            if not title_elem:
+                continue
+            event_title = title_elem.get_text(strip=True)
+
+            # Gehe einen Schritt weiter zurück, um das Datum zu finden.
+            # Hierzu suchen wir nach einem Text, der z. B. "19. Februar" enthält.
+            date_text = ""
+            prev_text = title_elem.find_previous(
+                string=re.compile(r'\d{1,2}\.\s*[A-Za-zäöüÄÖÜ]+'))
+            if prev_text:
+                date_text = prev_text.strip()
+            else:
+                # Falls kein Datum gefunden wurde, überspringe dieses Event
+                continue
+
+            # Extrahiere Tag und Monatsnamen aus z.B. "19. Februar"
+            m = re.search(r'(\d{1,2})\.\s*([A-Za-zäöüÄÖÜ]+)', date_text)
+            if m:
+                day = m.group(1)
+                month_name = m.group(2)
+                month_number = MONTHS.get(month_name, "00")
+            else:
+                continue
+
+            # Versuche, den Wochentag aus dem Titel abzulesen – üblicherweise stehen am Anfang Kürzel wie "MI" oder "FR".
+            # Andernfalls kann man alternativ über datetime den Wochentag errechnen (vorausgesetzt, man hat das Jahr).
+            weekday_candidate = event_title.split("•")[0].strip()
+            # Falls das Kürzel zwei Zeichen lang ist, verwenden wir es; ansonsten nutzen wir eine Berechnung (hier als Fallback)
+            if len(weekday_candidate) != 2:
+                try:
+                    # Verwenden wir das aktuelle Jahr und den gefundenen Tag/Monat
+                    event_date = datetime.datetime(
+                        datetime.datetime.now().year, int(month_number),
+                        int(day))
+                    weekday_candidate = event_date.strftime("%a")
+                except Exception:
+                    weekday_candidate = ""
+
+            # Formatierung des Datums wie gewünscht: z.B. "MI, 19.02"
+            date_str = f"{weekday_candidate}, {day}.{month_number}"
+
+            # Vollständige URL zum Event
+            full_link = urljoin(base_url, link.get('href'))
+            # Eventtitel um den Hinweis auf die Quelle ergänzen
+            event_title += " (@CafeEuropa)"
+
+            events.append({
+                "date": date_str,
+                "event": event_title,
+                "link": full_link
+            })
     if base_url == nrzp:
         articles = soup.find_all('div', class_='eventcalender-row')
 
@@ -413,17 +484,8 @@ def add_new_events(events, event_date, event_name, base_url):
 
 
 if __name__ == '__main__':
-    events = scrape_events(bielefeld_jetzt) + scrape_events(
-        forum) + scrape_events(platzhirsch) + scrape_events(
-            irish_pub) + scrape_events(f2f) + scrape_events(
-                sams) + scrape_events(movie) + scrape_events(
-                    nrzp) + scrape_events(bunker) + scrape_events(stereo)
-    #scrape_events(bielefeld_guide)
+    sources = [bielefeld_jetzt, forum, platzhirsch, irish_pub,f2f, sams, movie, nrzp, bunker, stereo, cafe]
+    events = [event for source in sources for event in scrape_events(source)]
 
-    # +
     with open('events.json', 'w') as file:
         json.dump(events, file, indent=4)
-
-
-    
-    
