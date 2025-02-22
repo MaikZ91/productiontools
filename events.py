@@ -97,7 +97,12 @@ def scrape_events(base_url):
                         "Thomaskirche Schildesche (ev.)", "Eckardtsheim",
                         "Ev.-Luth. Bartholomäus-Kirchengemeinde Bielefeld-Brackwede",
                         "Bartholomäuskirche Brackwede (ev.-luth.)",
-                        "St. Jodokus-Kirche (kath.)"
+                        "St. Jodokus-Kirche (kath.)","Theaterwerkstatt Bethel","Pappelkrug","Marienkirche Jöllenbeck (ev.)",
+                        "Haus Wellensiek","Neue Schmiede","Movement-Theater","Musik- und Kunstschule","Bielefeld-Schildesche",
+                        "Kreuzkirche Sennestadt (ev.)","Museum Peter August Böckstiegel","Bielefeld-Gadderbaum",
+                        
+                        
+                        
                     ]):
                         events.append({
                             'date': formatted_event_date,
