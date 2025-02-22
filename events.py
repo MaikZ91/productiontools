@@ -11,7 +11,7 @@ import traceback
 # Zieljahr definieren (z. B. 2025)
 TARGET_YEAR = 2025
 
-# Für manche Quellen muss der Datumsbereich angepasst werden:
+# URLs der Quellen (angepasst für das gesamte Jahr)
 bielefeld_guide = 'https://www.bielefeld-guide.de/events/weekend-guide/'
 bielefeld_jetzt = f'https://www.bielefeld.jetzt/termine/suche?dateFrom={TARGET_YEAR}-01-01&dateTo={TARGET_YEAR}-12-31&rubrik%5B0%5D=k24&rubrik%5B1%5D=k246&rubrik%5B2%5D=k215&ort=0&stadtbezirk=0&freitext='
 forum = 'https://forum-bielefeld.com/category/veranstaltungen/'
@@ -24,9 +24,6 @@ irish_pub = 'https://www.irishpub-bielefeld.de/'
 f2f = 'https://face-to-face-dating.de/bielefeld'
 stereo = 'https://stereo-bielefeld.de/programm/'
 cafe = "https://cafeeuropa.de/"
-
-# Falls in manchen Funktionen nur ein Teil des Datums vorhanden ist, kann man hier eine Standardbehandlung vornehmen.
-# Ursprünglich wurde hier current_month als String definiert – nun arbeiten wir über TARGET_YEAR und ggf. den kompletten Datumswert.
 
 def scrape_events(base_url):
     events = []
@@ -43,11 +40,9 @@ def scrape_events(base_url):
             href = link['href']
             text = link.get_text()
             full_link = urljoin(base_url, href)
-
             date_match = re.search(r'\[(.*?)\]', text)
             if date_match:
                 date = date_match.group(1)
-                # Annahme: der Text enthält z. B. "[Mi, 02] Eventname"
                 try:
                     event = text.split('] ')[1].strip()
                 except IndexError:
@@ -87,12 +82,28 @@ def scrape_events(base_url):
                     event_location = p_tags[2].get_text(strip=True)
                     formatted_event_date = format_date(raw_event_date)
                     formatted_event_name = f"{event_name} (@{event_location})"
-                    # Hier werden nun alle Events erfasst – ohne Einschränkung auf einen bestimmten Monat
-                    events.append({
-                        'date': formatted_event_date,
-                        'event': formatted_event_name,
-                        'link': urljoin(base_url, event_link)
-                    })
+                    
+                    # Filter: Ausschließen bestimmter Veranstaltungsorte
+                    if not any(substring in event_location for substring in [
+                        "Nr. z. P", "Bunker Ulmenwall", "Forum",
+                        "Johanneskirche Quelle (ev.)",
+                        "Zionskirche Bethel (ev.)",
+                        "Altstädter Nicolaikirche (ev.)",
+                        "Peterskirche Kirchdornberg (ev.)",
+                        "Johanniskirche (ev.)",
+                        "Peter-und-Pauls-Kirche Heepen (ev.)",
+                        "Neustädter Marienkirche (ev.)", "Kirche Brake (ev.)",
+                        "Haus der Kirche", "Capella Hospitalis",
+                        "Thomaskirche Schildesche (ev.)", "Eckardtsheim",
+                        "Ev.-Luth. Bartholomäus-Kirchengemeinde Bielefeld-Brackwede",
+                        "Bartholomäuskirche Brackwede (ev.-luth.)",
+                        "St. Jodokus-Kirche (kath.)"
+                    ]):
+                        events.append({
+                            'date': formatted_event_date,
+                            'event': formatted_event_name,
+                            'link': urljoin(base_url, event_link)
+                        })
             except Exception as e:
                 print(f"Fehler bei bielefeld.jetzt: {e}")
                 continue
@@ -189,7 +200,6 @@ def scrape_events(base_url):
             match = re.match(r'(\w{2})\. (\d{2}) (\d{2})', event_date)
             if match:
                 day_name, day, month = match.groups()
-                # Hier wird nicht mehr gefiltert – alle Monate werden aufgenommen
                 event_date = f"{day_name}, {day}.{month}"
                 next_link = article.find_next_sibling('a', class_='menu_btn')
                 if next_link:
@@ -226,7 +236,6 @@ def scrape_events(base_url):
             except Exception:
                 continue
             month_name = months.get(month_name, month_name)
-            # Hier wird das Datum nur teilweise formatiert (ohne Jahr)
             event_date = f"{day_name}, {day}{datetime.datetime.strptime(month_name, '%B').strftime('%m')}"
             event_name_tag = article.find('h2', class_='entry-title')
             event_name = f"{event_name_tag.get_text(strip=True)} (@Bunker Ulmenwall)"
@@ -267,7 +276,6 @@ def scrape_events(base_url):
                 start_date_str = re.search(r'startDate": "(.*?)"', cleaned).group(1)
                 url_match = re.search(r'url": "(.*?)"', cleaned)
                 url_extracted = url_match.group(1) if url_match else base_url
-
                 start_date_str_parts = start_date_str.split('T')
                 date_part = start_date_str_parts[0].split('-')
                 time_part = start_date_str_parts[1]
@@ -298,7 +306,6 @@ def scrape_events(base_url):
                     link = event['href']
                     events.append({"date": date, "event": event_name, 'link': link})
 
-    # Für Quellen, die wiederkehrende Events nutzen, iteriere über alle Monate des Zieljahres
     if base_url in [movie, platzhirsch, irish_pub]:
         if base_url == movie:
             add_recurring_events(events, "Salsa Party (@Movie)", "THURSDAY", movie, 'weekly', None)
@@ -317,17 +324,13 @@ def scrape_events(base_url):
             add_recurring_events(events, "*TRIBE CREATIVE CIRCLES*", "FRIDAY",
                                  'https://www.instagram.com/reel/DBwDGB9IL3_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==',
                                  'monthly_last', None)
-
     return events
 
 def split_dates(date_string):
-    # Entfernt eckige Klammern
     date_string = date_string.strip('[]')
     day_part, date_part = date_string.split(', ')
     days = day_part.split(' + ')
     dates = date_part.split(' + ')
-    # Hier könnte man die Logik anpassen – statt current_month wird ggf. der Monat dynamisch ergänzt
-    # Für dieses Beispiel nehmen wir an, dass die Angaben bereits korrekt sind
     return [f'{day}, {date}' for day, date in zip(days, dates)]
 
 def split_dates2(date_string):
@@ -354,8 +357,8 @@ def format_date(date_str):
         return date_str
 
 def format_date2(date_str):
-    input_format = "%d.%m.%y"  # Beispiel: "20.09.24"
-    output_format = "%a, %d.%m"  # Beispiel: "Tu, 10.09"
+    input_format = "%d.%m.%y"
+    output_format = "%a, %d.%m"
     try:
         date_obj = dt.strptime(date_str, input_format)
         return date_obj.strftime(output_format)
@@ -363,19 +366,14 @@ def format_date2(date_str):
         return "Invalid date format"
 
 def add_recurring_events(events, event_name, day_name, base_url, frequency, nth):
-    # Iteriere über alle Monate des TARGET_YEAR
     cal = calendar.Calendar()
-    # Ermittle den Wochentag als Zahl (z.B. MONDAY=0, ...)
     day_name_upper = day_name.upper()
     try:
         weekday_number = getattr(calendar, day_name_upper)
     except AttributeError:
-        # Falls day_name nicht als Attribut verfügbar ist, versuche es über einen manuellen Map
         weekday_map = {"MONDAY":0, "TUESDAY":1, "WEDNESDAY":2, "THURSDAY":3, "FRIDAY":4, "SATURDAY":5, "SUNDAY":6}
         weekday_number = weekday_map.get(day_name_upper, 0)
-
     def add_event(month, day):
-        # Nutzt die ersten zwei Buchstaben als Abkürzung (z.B. "Mo" für Montag)
         day_abbr = day_name[:2].capitalize()
         event_date = f"{day_abbr}, {str(day).zfill(2)}.{str(month).zfill(2)}"
         events.append({
@@ -383,15 +381,12 @@ def add_recurring_events(events, event_name, day_name, base_url, frequency, nth)
             'event': event_name,
             'link': base_url
         })
-
     for month in range(1, 13):
         if frequency == 'weekly':
-            # Alle Vorkommen des gewünschten Wochentags im Monat
             for day, weekday in cal.itermonthdays2(TARGET_YEAR, month):
                 if day != 0 and weekday == weekday_number:
                     add_event(month, day)
         elif frequency == 'monthly_last':
-            # Letzter Vorkommnis des gewünschten Wochentags im Monat
             month_calendar = calendar.monthcalendar(TARGET_YEAR, month)
             last_occurrence = None
             for week in month_calendar:
@@ -413,7 +408,6 @@ if __name__ == '__main__':
         bielefeld_jetzt, forum, platzhirsch, irish_pub, f2f, sams, movie, nrzp,
         bunker, stereo, cafe
     ]
-    # Für jede Quelle werden nun alle gefundenen Events (über das gesamte Jahr) zusammengetragen.
     events = []
     for source in sources:
         try:
@@ -421,6 +415,5 @@ if __name__ == '__main__':
         except Exception as e:
             print(f"Fehler beim Verarbeiten der Quelle {source}: {e}")
             traceback.print_exc()
-
-    with open('events.json', 'w') as file:
+    with open('events.json', 'w', encoding='utf-8') as file:
         json.dump(events, file, indent=4, ensure_ascii=False)
