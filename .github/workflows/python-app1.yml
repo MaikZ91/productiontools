@@ -88,6 +88,6 @@ jobs:
             echo "NO_NEW_EVENTS=true" >> $GITHUB_ENV
           fi
 
-      - name: Send Notification
-        if: env.NO_CHANGES == 'false' && env.NO_NEW_EVENTS != 'true'
-        run: cat event_changes.txt | msmtp -a default maik.z@gmx.de
+   #   - name: Send Notification
+    #    if: env.NO_CHANGES == 'false' && env.NO_NEW_EVENTS != 'true'
+     #   run: cat event_changes.txt | msmtp -a default maik.z@gmx.de
