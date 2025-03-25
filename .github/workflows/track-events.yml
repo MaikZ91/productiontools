@@ -46,6 +46,6 @@ jobs:
             echo "This is the first commit, no previous changes to show." >> event_changes.txt
           fi
 
-      - name: Send notification
-        run: |
-          cat event_changes.txt | msmtp -a default maik.z@gmx.de
+      #- name: Send notification
+       # run: |
+        #  cat event_changes.txt | msmtp -a default maik.z@gmx.de
