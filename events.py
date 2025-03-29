@@ -100,6 +100,7 @@ def scrape_events(base_url):
                         "St. Jodokus-Kirche (kath.)","Theaterwerkstatt Bethel","Pappelkrug","Marienkirche Jöllenbeck (ev.)",
                         "Haus Wellensiek","Neue Schmiede","Movement-Theater","Musik- und Kunstschule","Bielefeld-Schildesche",
                         "Kreuzkirche Sennestadt (ev.)","Museum Peter August Böckstiegel","Bielefeld-Gadderbaum",
+                        "Süsterkirche (ev.-ref.)","Ev. Kirche Ummeln"
                         
                         
                         
