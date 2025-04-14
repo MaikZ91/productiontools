@@ -314,24 +314,24 @@ def scrape_events(base_url):
                     events.append({"date": date, "event": event_name, 'link': link})
 
     if base_url == arminia:
-            for item in soup.select(".spielplan-item"):
-        date_tag = item.select_one(".spielplan-datum")
-        team_tag = item.select_one(".spielplan-vereine")
-    
-        if not date_tag or not team_tag:
-            continue
-    
-        date = date_tag.get_text(strip=True)
-        teams = team_tag.get_text(strip=True).replace("\n", "").replace("\t", "")
-    
-        # Nur Heimspiele (Arminia steht links)
-        if teams.startswith("Arminia Bielefeld"):
-            gegner = teams.replace("Arminia Bielefeld", "").strip()
-            heimspiele.append({
-                "date": date,
-                "event": f"Arminia vs. {gegner}",
-                "link": url
-            })
+        for item in soup.select(".spielplan-item"):
+            date_tag = item.select_one(".spielplan-datum")
+            team_tag = item.select_one(".spielplan-vereine")
+        
+            if not date_tag or not team_tag:
+                continue
+        
+            date = date_tag.get_text(strip=True)
+            teams = team_tag.get_text(strip=True).replace("\n", "").replace("\t", "")
+        
+            # Nur Heimspiele (Arminia steht links)
+            if teams.startswith("Arminia Bielefeld"):
+                gegner = teams.replace("Arminia Bielefeld", "").strip()
+                heimspiele.append({
+                    "date": date,
+                    "event": f"Arminia vs. {gegner}",
+                    "link": url
+                })
         
 
     if base_url in [movie, platzhirsch, irish_pub]:
