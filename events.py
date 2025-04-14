@@ -83,7 +83,7 @@ def scrape_events(base_url):
                     event_location = p_tags[2].get_text(strip=True)
                     formatted_event_date = format_date(raw_event_date)
                     formatted_event_name = f"{event_name} (@{event_location})"
-                    
+
                     # Filter: Ausschließen bestimmter Veranstaltungsorte
                     if not any(substring in event_location for substring in [
                         "Nr. z. P", "Bunker Ulmenwall", "Forum",
@@ -102,9 +102,9 @@ def scrape_events(base_url):
                         "Haus Wellensiek","Neue Schmiede","Movement-Theater","Musik- und Kunstschule","Bielefeld-Schildesche",
                         "Kreuzkirche Sennestadt (ev.)","Museum Peter August Böckstiegel","Bielefeld-Gadderbaum",
                         "Süsterkirche (ev.-ref.)","Ev. Kirche Ummeln"
-                        
-                        
-                        
+
+
+
                     ]):
                         events.append({
                             'date': formatted_event_date,
@@ -314,25 +314,34 @@ def scrape_events(base_url):
                     events.append({"date": date, "event": event_name, 'link': link})
 
     if base_url == arminia:
-        for item in soup.select(".spielplan-item"):
-            date_tag = item.select_one(".spielplan-datum")
-            team_tag = item.select_one(".spielplan-vereine")
         
-            if not date_tag or not team_tag:
-                continue
-        
-            date = date_tag.get_text(strip=True)
-            teams = team_tag.get_text(strip=True).replace("\n", "").replace("\t", "")
-        
-            # Nur Heimspiele (Arminia steht links)
-            if teams.startswith("Arminia Bielefeld"):
-                gegner = teams.replace("Arminia Bielefeld", "").strip()
-                heimspiele.append({
-                    "date": date,
-                    "event": f"Arminia vs. {gegner}",
-                    "link": url
-                })
-        
+        all_divs = soup.find_all("div")
+
+    
+        for i in range(len(all_divs) - 4):
+           
+                date_block = all_divs[i]
+                team1_block = all_divs[i + 1]
+                team2_block = all_divs[i + 2]
+
+
+                team1 = team1_block.get_text(strip=True)
+                team2 = team2_block.get_text(strip=True)
+
+                if team1 == "Arminia Bielefeld":
+                    datum_raw = date_block.get_text(separator="\n").strip()
+                    datum = datum_raw.split("\n")[-1].strip()#
+                    if "2025" in datum:
+                        gegner = team2
+                        datum = datum[4:].strip()
+                        datum_dt = dt.strptime(datum, "%d.%m.%Y %H:%M")
+                        formatted = datum_dt.strftime("%a, %d.%m")
+                        events.append({
+                            "date": formatted,
+                            "event": f"Arminia vs. {gegner}",
+                            "link": base_url
+                        })
+
 
     if base_url in [movie, platzhirsch, irish_pub]:
         if base_url == movie:
