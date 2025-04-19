@@ -351,7 +351,10 @@ def scrape_events(base_url):
         elif base_url == irish_pub:
             add_recurring_events(events, "Pub Quiz (@Irish Pub)", "MONDAY", irish_pub, 'weekly', None)
             add_recurring_events(events, "Karaoke (@Irish Pub)", "WEDNESDAY", irish_pub, 'weekly', None)
-            add_recurring_events(events, "*TRIBE TUESDAY RUN(@GELLERSHAGEN PARK)*", "TUESDAY",
+            add_recurring_events(events, "*TRIBE TUESDAY RUN(@GELLERSHAGEN PARK TEICH)*", "TUESDAY",
+                                 'https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==',
+                                 'weekly', None)
+            add_recurring_events(events, "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK)*", "THURSDAY",
                                  'https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==',
                                  'weekly', None)
             add_recurring_events(events, "*TRIBE KENNENLERNABEND*", "SUNDAY",
