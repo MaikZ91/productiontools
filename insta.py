@@ -1,158 +1,127 @@
 #!/usr/bin/env python3
 """
-insta.py  –  Events-Bild erzeugen, im Repo speichern, auf Instagram posten
-===========================================================================
-
-• Karten­höhe 170 px, Grundschrift 64 pt (fällt nur bis 36 pt, wenn nötig)
-• Langer Titel? -> Halbautomatischer Umbruch auf max. zwei Zeilen
-• Dateiname: images/YYYY/MM/dd/HHmm_events.jpg (eindeutig pro Lauf)
-
-Benötigte ENV-Variablen:
-  IG_ACCESS_TOKEN   –  Instagram Graph API Token (Secret)
-  IG_USER_ID        –  IG Business-User-ID (Secret)
-  GITHUB_TOKEN      –  vom Runner oder per PAT via Workflow
-  GITHUB_REPOSITORY –  owner/repo (Runner)
+insta.py – Events-Bild für Instagram erstellen und posten
 """
-
 import os, io, base64, requests, pytz, textwrap
 from datetime import datetime
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
-# ────────────────── Layout-Konstanten ──────────────────
+# ───────────── Konstante Parameter ─────────────
+WIDTH, PAD, HBAR = 1080, 40, 130          # breiterer Nutzenbereich
+CARD_H, RADIUS   = 140, 25                # flachere Karten
+TITLE_PT         = 78                     # Header-Schrift
+TXT_COL          = (17,17,17)             # fast Schwarz
+CARD_BG          = (250,250,250)
+GRAD_TOP, GRAD_BOT= (225,30,30), (90,0,0)
 EVENTS_URL = ("https://raw.githubusercontent.com/"
               "MaikZ91/productiontools/master/events.json")
-
 CAPTION = ("🔥 TRIBE WORKOUT – jeden Donnerstag! 💪 "
            "Kostenlos & offen für alle. #tribe #bielefeld #workout")
 
-WIDTH, PAD, HBAR  = 1080, 50, 140            # Bildbreite, Außen­abstand, Headerhöhe
-CARD_H, RADIUS    = 170, 25                  # Karten­höhe & Rundung
-MAX_FONT, MIN_FONT= 64, 36                   # Schriftgrößen­range
-RED_TOP, RED_BOT  = (200,20,20), (80,0,0)    # Hintergrund­gradient
-CARD_BG, TXT_COL  = (250,250,250), (0,0,0)
-TITLECOL          = (255,255,255)
-
-# ────────────────── Basisfunktionen ──────────────────
-def font(pt: int) -> ImageFont.FreeTypeFont:
-    try:  return ImageFont.truetype("arial.ttf", pt)
+def font(sz:int):
+    try: return ImageFont.truetype("arial.ttf", sz)
     except: return ImageFont.load_default()
 
-def gradient(draw: ImageDraw.ImageDraw, h: int):
-    for y in range(h):
-        t = y / (h-1)
-        col = tuple(int(RED_TOP[i]*(1-t)+RED_BOT[i]*t) for i in range(3))
-        draw.line([(0,y),(WIDTH,y)], fill=col)
-
-def fetch_today_events() -> list[dict]:
-    tz  = pytz.timezone("Europe/Berlin")
-    dm  = datetime.now(tz).strftime("%d.%m")
-    data = requests.get(EVENTS_URL, timeout=10).json()
+# ───────────── Daten laden ─────────────
+def today_events():
+    tz=pytz.timezone("Europe/Berlin")
+    dm=datetime.now(tz).strftime("%d.%m")
+    data=requests.get(EVENTS_URL,timeout=10).json()
     return [e for e in data if e["date"].endswith(dm)] or [{"event":"Keine Events gefunden"}]
 
-# ────────── Text → Font-Größe + Zeilenumbruch ──────────
-def fit_text(draw: ImageDraw.ImageDraw, text: str, max_w: int):
-    """
-    Versucht Schrift in MAX_FONT..MIN_FONT.
-    Gibt (font, lines) zurück, wobei lines max. 2 Zeilen sind.
-    """
-    for size in range(MAX_FONT, MIN_FONT-1, -2):
-        fnt = font(size)
-        # erst ohne Umbruch testen
-        if draw.textbbox((0,0), text, font=fnt)[2] <= max_w:
-            return fnt, [text]
+# ───────────── Hilfsfunktionen ─────────────
+def gradient(draw,h):
+    for y in range(h):
+        t=y/(h-1)
+        col=tuple(int(GRAD_TOP[i]*(1-t)+GRAD_BOT[i]*t) for i in range(3))
+        draw.line([(0,y),(WIDTH,y)],fill=col)
 
-        # sonst versuchen, in 2 Zeilen zu umbrechen
-        wrap = textwrap.wrap(text, width=42)  # grober Richtwert
-        if len(wrap) <= 2 and all(draw.textbbox((0,0), ln, font=fnt)[2] <= max_w for ln in wrap):
-            return fnt, wrap[:2]
-    # Fallback kleinste Größe
-    fnt = font(MIN_FONT)
-    return fnt, textwrap.wrap(text, width=48)[:2]
+def wrap_text(draw,text,max_w,max_lines,base_size):
+    """finde größte Schrift, max 2 Zeilen"""
+    for pt in range(base_size,38,-2):
+        f=font(pt)
+        w=draw.textbbox((0,0),text,font=f)[2]
+        if w<=max_w:
+            return f,[text]
+        # Umbruch
+        wrap=textwrap.wrap(text,width=40)
+        if len(wrap)<=max_lines and all(draw.textbbox((0,0),ln,font=f)[2]<=max_w for ln in wrap):
+            return f,wrap
+    f=font(38)
+    return f,textwrap.wrap(text,width=45)[:max_lines]
 
-# ────────────────── Bild bauen ──────────────────
-def build_image(events: list[dict]) -> Image.Image:
-    n   = len(events)
-    H   = PAD + HBAR + PAD + n*CARD_H + max(n-1,0)*PAD + PAD
-    img = Image.new("RGB", (WIDTH, H))
-    d   = ImageDraw.Draw(img)
-    gradient(d, H)
+# ───────────── Bild bauen ─────────────
+def build_img(events):
+    n=len(events)
+    H=PAD+HBAR+PAD+n*CARD_H+max(0,n-1)*PAD+PAD
+    img=Image.new("RGB",(WIDTH,H))
+    d=ImageDraw.Draw(img)
+    gradient(d,H)
 
-    tz  = pytz.timezone("Europe/Berlin")
-    dm  = datetime.now(tz).strftime("%d.%m")
-    header = Image.new("RGBA", (WIDTH-2*PAD, HBAR), (255,255,255,40))
-    img.paste(header, (PAD,PAD), header)
-    d.text((PAD*1.5, PAD+35),
-           f"🔥  Events in Bielefeld – {dm}",
-           font=font(70), fill=TITLECOL)
+    tz=pytz.timezone("Europe/Berlin")
+    dm=datetime.now(tz).strftime("%d.%m")
+    header=Image.new("RGBA",(WIDTH-2*PAD,HBAR),(255,255,255,40))
+    img.paste(header,(PAD,PAD),header)
+    d.text((PAD*1.2,PAD+28),f"🔥 Events in Bielefeld – {dm}",
+           font=font(TITLE_PT),fill=(255,255,255))
 
-    y = PAD + HBAR + PAD
+    y=PAD+HBAR+PAD
+    max_text_w=WIDTH-4*PAD
+    base_pt=int(CARD_H*0.7)              # grob 70 % der Kartenhöhe
     for ev in events:
-        card = Image.new("RGBA", (WIDTH-2*PAD, CARD_H), CARD_BG+(255,))
-        card = card.filter(ImageFilter.GaussianBlur(0.5))
-        mask = Image.new("L", card.size, 0)
-        ImageDraw.Draw(mask).rounded_rectangle([0,0,*card.size], RADIUS, fill=255)
-        img.paste(card, (PAD,y), mask)
+        card=Image.new("RGBA",(WIDTH-2*PAD,CARD_H),CARD_BG+(255,))
+        card=card.filter(ImageFilter.GaussianBlur(0.4))
+        mask=Image.new("L",card.size,0)
+        ImageDraw.Draw(mask).rounded_rectangle([0,0,*card.size],RADIUS,fill=255)
+        img.paste(card,(PAD,y),mask)
 
-        txt = ev["event"]
-        fnt, lines = fit_text(d, txt, WIDTH-4*PAD)
-        total_h = sum(d.textbbox((0,0), ln, font=fnt)[3] for ln in lines)
-        offset_y = y + (CARD_H - total_h)//2
-
+        fnt,lines=wrap_text(d,ev["event"],max_text_w,2,base_pt)
+        total_h=sum(d.textbbox((0,0),ln,font=fnt)[3] for ln in lines)
+        cur_y=y+(CARD_H-total_h)//2
         for ln in lines:
-            d.text((PAD*2, offset_y), ln, font=fnt, fill=TXT_COL)
-            offset_y += d.textbbox((0,0), ln, font=fnt)[3]
+            d.text((PAD*2,cur_y),ln,font=fnt,fill=TXT_COL)
+            cur_y+=d.textbbox((0,0),ln,font=fnt)[3]
 
-        y += CARD_H + PAD
+        y+=CARD_H+PAD
     return img
 
-# ────────────────── GitHub Upload ──────────────────
-def upload_to_repo(img_bytes: bytes, repo: str, token: str, branch=None) -> str:
-    tz   = pytz.timezone("Europe/Berlin")
-    path = datetime.now(tz).strftime("images/%Y/%m/%d/%H%M_events.jpg")
-    url  = f"https://api.github.com/repos/{repo}/contents/{path}"
-    data = {
-        "message": "auto-upload events image",
-        "content": base64.b64encode(img_bytes).decode()
-    }
-    if branch: data["branch"] = branch
-    hdr = {"Authorization": f"token {token}",
-           "Accept": "application/vnd.github+json"}
-    res = requests.put(url, headers=hdr, json=data, timeout=15).json()
-    if "content" not in res:
-        raise RuntimeError(f"GitHub-Upload fehlgeschlagen: {res}")
-    return res["content"]["download_url"]
+# ───────────── GitHub + Instagram ─────────────
+def upload(img_b,re,tk):
+    tz=pytz.timezone("Europe/Berlin")
+    path=datetime.now(tz).strftime("images/%Y/%m/%d/%H%M_events.jpg")
+    url=f"https://api.github.com/repos/{re}/contents/{path}"
+    body={"message":"auto-upload events image",
+          "content":base64.b64encode(img_b).decode()}
+    hd={"Authorization":f"token {tk}","Accept":"application/vnd.github+json"}
+    r=requests.put(url,headers=hd,json=body,timeout=15).json()
+    if "content" not in r: raise RuntimeError(r)
+    return r["content"]["download_url"]
 
-# ────────────────── Instagram ──────────────────
-def insta_post(raw_url, caption, uid, token, ver="v21.0"):
-    base=f"https://graph.facebook.com/{ver}/{uid}"
-    media = requests.post(f"{base}/media", data={
-        "image_url":raw_url, "caption":caption, "access_token":token
-    }, timeout=15).json()
-    cid=media.get("id")
-    if not cid: raise RuntimeError(f"Container-Fehler: {media}")
-    pub = requests.post(f"{base}/media_publish", data={
-        "creation_id":cid, "access_token":token
-    }, timeout=15).json()
-    if "id" not in pub: raise RuntimeError(f"Publish-Fehler: {pub}")
-    return pub["id"]
+def post_insta(raw,cap,uid,tok):
+    base=f"https://graph.facebook.com/v21.0/{uid}"
+    cid=requests.post(f"{base}/media",data={
+        "image_url":raw,"caption":cap,"access_token":tok},timeout=15).json().get("id")
+    if not cid: raise RuntimeError("container error")
+    res=requests.post(f"{base}/media_publish",data={
+        "creation_id":cid,"access_token":tok},timeout=15).json()
+    if "id" not in res: raise RuntimeError("publish error")
+    return res["id"]
 
-# ────────────────── Main ──────────────────
 def main():
-    gh_tok = os.getenv("GITHUB_TOKEN")
-    gh_rep = os.getenv("GITHUB_REPOSITORY")
-    ig_tok = os.getenv("IG_ACCESS_TOKEN")
-    ig_uid = os.getenv("IG_USER_ID")
-    if not all([gh_tok, gh_rep, ig_tok, ig_uid]):
-        raise SystemExit("ENV-Variablen fehlen!")
+    gh_tok=os.getenv("GITHUB_TOKEN")
+    gh_rep=os.getenv("GITHUB_REPOSITORY")
+    ig_tok=os.getenv("IG_ACCESS_TOKEN")
+    ig_uid=os.getenv("IG_USER_ID")
+    if not all([gh_tok,gh_rep,ig_tok,ig_uid]):
+        raise SystemExit("ENV fehlt")
 
-    img = build_image(fetch_today_events())
-    buf = io.BytesIO(); img.save(buf, "JPEG", quality=95)
+    pic=build_img(today_events())
+    buf=io.BytesIO(); pic.save(buf,"JPEG",quality=96)
 
-    raw = upload_to_repo(buf.getvalue(), gh_rep, gh_tok)
-    print("✅ Bild gespeichert:", raw)
+    raw=upload(buf.getvalue(),gh_rep,gh_tok)
+    print("✅ Bild URL:",raw)
+    pid=post_insta(raw,CAPTION,ig_uid,ig_tok)
+    print("🎉 Insta-Post ID:",pid)
 
-    pid = insta_post(raw, CAPTION, ig_uid, ig_tok)
-    print("🎉 Instagram-Post ID:", pid)
-
-if __name__ == "__main__":
+if __name__=="__main__":
     main()
