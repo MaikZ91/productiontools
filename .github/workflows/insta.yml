@@ -1,29 +1,44 @@
-name: Save events image
+name: Post events image            # erscheint im Actions-Tab
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:               # manueller Button
   schedule:
-    - cron: "0 6 * * *"        # 06:00 UTC = 08:00 Berlin
+    - cron: "0 6 * * *"            # 06 UTC = 08 Uhr Berlin (Sommerzeit)
 
+# GITHUB_TOKEN soll Dateien ins Repo schreiben dürfen
 permissions:
-  contents: write              # nötig, damit GITHUB_TOKEN commiten darf
+  contents: write
 
 jobs:
-  build:
+  post:
     runs-on: ubuntu-latest
 
     steps:
+      # 1) Quellcode klonen
       - uses: actions/checkout@v4
 
+      # 2) Python 3.11 installieren
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install Python dependencies
+      # 3) Abhängigkeiten
+      - name: Install deps
         run: pip install Pillow requests pytz
 
-      - name: Generate → upload → post on Instagram
+      # 4) Debug – zeigt, welche ENV-Variablen gesetzt sind
+      - name: Debug env variables
         env:
-          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}   # ← deine Secrets
-          IG_USER_ID:      ${{ secrets.IG_USER_ID }}        # ← deine Secrets
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID:      ${{ secrets.IG_USER_ID }}
+        run: |
+          for V in GITHUB_TOKEN GITHUB_REPOSITORY IG_ACCESS_TOKEN IG_USER_ID; do
+            echo "$V=${!V:+✅ gesetzt}"
+          done
+
+      # 5) Bild generieren, ins Repo laden, auf Instagram posten
+      - name: Run insta.py
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID:      ${{ secrets.IG_USER_ID }}
         run: python insta.py
