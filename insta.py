@@ -123,7 +123,7 @@ def main():
     caption="Weitere Events und Infos findest du in unserer App (Alle Angaben ohne Gewähr auf Richtigkeit)➡ Link in Bio 🔗\n\n" + "\n".join(f"• {e['event']}" for e in events)
     post_id=insta_post(raw_url, caption, ig_uid, ig_tok)
 
-    if weekday == 2:                         
+    if weekday == 3:                         
         caption = "Tribe Powerworkout 💪\nMehr in der Bio 🔗"
         insta_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/Unbenannt.png"
 , caption, ig_uid, ig_tok)
