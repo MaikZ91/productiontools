@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+r#!/usr/bin/env python3
 """
 insta_cards_uploader.py
 -----------------------
@@ -119,7 +119,7 @@ def main():
 
     # Upload + Post
     raw_url=gh_upload(buf.getvalue(), gh_repo, gh_tok)
-    caption="Alle Infos ➡ Link in Bio 🔗\n\n" + "\n".join(f"• {e['event']}" for e in events)
+    caption="Weitere Events und Infos findest du in unserer App (Alle Angaben ohne Gewähr auf Richtigkeit)➡ Link in Bio 🔗\n\n" + "\n".join(f"• {e['event']}" for e in events)
     post_id=insta_post(raw_url, caption, ig_uid, ig_tok)
 
     print("✅ Bild:", raw_url)
