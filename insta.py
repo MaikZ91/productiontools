@@ -1,36 +1,40 @@
 #!/usr/bin/env python3
 """
-insta.py  –  Alle heutigen Events als 1-Slide posten
-----------------------------------------------------
-Bild: 1080 × dynamisch, Kartenhöhe 180 px, Grundschrift 90 pt
-Caption: "Aktuelle Events in #Liebefeld" + Bullet-Liste
+insta.py  –  Alle heutigen Events auf EINER Slide (1080×1350) posten
+--------------------------------------------------------------------
+• Schriftgröße adaptiv: bis 120 pt, niemals kleiner als 44 pt
+• Kartenhöhe = Schrift × 1.3  (optisch stimmig)
+• Nur zwei Secrets nötig: IG_ACCESS_TOKEN, IG_USER_ID
 """
 
-import os, io, base64, requests, pytz, textwrap
+import os, io, base64, requests, pytz
 from datetime import datetime
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
-# ───────────── Grund­parameter ─────────────
-WIDTH, PAD, HBAR = 1080, 40, 140
-CARD_H, RADIUS   = 180, 30
-FONT_MAX, FONT_MIN = 90, 44
-TXT_COL, CARD_BG = (15,15,15), (250,250,250)
-GRAD_TOP, GRAD_BOT = (220,25,25), (85,0,0)
-
+# ───────────── Konstanten ─────────────
+WIDTH, HEIGHT = 1080, 1350          # Portrait-Format
+PAD, HBAR     = 40, 160             # Außenabstand, Header-Höhe
+FONT_MAX, FONT_MIN = 120, 44
+TXT_COL       = (17,17,17)          # fast Schwarz
+CARD_BG       = (250,250,250)
+GRAD_TOP, GRAD_BOT = (230,30,30), (80,0,0)
 EVENTS_URL = ("https://raw.githubusercontent.com/"
               "MaikZ91/productiontools/master/events.json")
 
-# ───────────── Font-Loader ─────────────
-def font(pt:int):
-    try:  return ImageFont.truetype("arial.ttf", pt)
-    except: return ImageFont.load_default()
+CAPTION_HEAD = "🔥 Aktuelle Events in Bielefeld"
 
-# ───────────── Util ─────────────
-def gradient(d,h):
+# ───────────── Helpers ─────────────
+def load_font(pt:int):
+    for name in ("arialbd.ttf","arial.ttf"):
+        try: return ImageFont.truetype(name, pt)
+        except: pass
+    return ImageFont.load_default()
+
+def gradient(draw,h):
     for y in range(h):
         t=y/(h-1)
         col=tuple(int(GRAD_TOP[i]*(1-t)+GRAD_BOT[i]*t) for i in range(3))
-        d.line([(0,y),(WIDTH,y)],fill=col)
+        draw.line([(0,y),(WIDTH,y)],fill=col)
 
 def today_events():
     tz=pytz.timezone("Europe/Berlin")
@@ -38,96 +42,92 @@ def today_events():
     data=requests.get(EVENTS_URL,timeout=10).json()
     return [e for e in data if e["date"].endswith(dm)] or [{"event":"Keine Events gefunden"}]
 
-def best_font(d,text,max_w):
-    for pt in range(FONT_MAX, FONT_MIN-1, -2):
-        if d.textbbox((0,0),text,font(font(pt)))[2]<=max_w:
-            return font(pt)
-    return font(FONT_MIN)
-
-# ───────────── Bild-Generator ─────────────
+# ───────────── Bild bauen ─────────────
 def build_image(events):
     n=len(events)
-    H=PAD+HBAR+PAD+n*CARD_H+max(n-1,0)*PAD+PAD
-    img=Image.new("RGB",(WIDTH,H))
-    d=ImageDraw.Draw(img)
-    gradient(d,H)
+    # Dynamische Schriftgröße: 60 % des pro Event verfügbaren Vertikalraums
+    avail_h = HEIGHT - PAD - HBAR - PAD          # Platz unter dem Header
+    per_ev  = avail_h / n
+    font_size = int(min(FONT_MAX, max(FONT_MIN, per_ev * 0.6)))
+    font_ev   = load_font(font_size)
+    card_h    = int(font_size * 1.3)
 
-    tz=pytz.timezone("Europe/Berlin")
-    dm=datetime.now(tz).strftime("%d.%m")
-    header=Image.new("RGBA",(WIDTH-2*PAD,HBAR),(255,255,255,40))
+    img = Image.new("RGB",(WIDTH,HEIGHT))
+    d   = ImageDraw.Draw(img)
+    gradient(d, HEIGHT)
+
+    # Header
+    header = Image.new("RGBA",(WIDTH-2*PAD,HBAR),(255,255,255,40))
     img.paste(header,(PAD,PAD),header)
-    d.text((PAD*1.2,PAD+32),f"🔥  Events in Liebefeld – {dm}",
-           font=font(78),fill=(255,255,255))
+    tz=pytz.timezone("Europe/Berlin")
+    d.text((PAD*1.2,PAD+40),
+           f"{CAPTION_HEAD} – {datetime.now(tz).strftime('%d.%m')}",
+           font=load_font(88), fill=(255,255,255))
 
-    y=PAD+HBAR+PAD
-    max_w=WIDTH-4*PAD
+    # Events
+    y_start = PAD + HBAR + PAD
     for ev in events:
-        card=Image.new("RGBA",(WIDTH-2*PAD,CARD_H),CARD_BG+(255,))
-        card=card.filter(ImageFilter.GaussianBlur(0.5))
-        mask=Image.new("L",card.size,0)
-        ImageDraw.Draw(mask).rounded_rectangle([0,0,*card.size],RADIUS,fill=255)
-        img.paste(card,(PAD,y),mask)
+        # Card-Hintergrund
+        card = Image.new("RGBA",(WIDTH-2*PAD,card_h),CARD_BG+(255,))
+        card = card.filter(ImageFilter.GaussianBlur(0.4))
+        ms   = Image.new("L",card.size,0)
+        ImageDraw.Draw(ms).rounded_rectangle([0,0,*card.size],25,fill=255)
+        img.paste(card,(PAD,y_start),ms)
 
-        txt=ev["event"]
-        fnt=best_font(d,txt,max_w)
-        th=d.textbbox((0,0),txt,font=fnt)[3]
-        d.text((PAD*2,y+(CARD_H-th)//2),txt,font=fnt,fill=TXT_COL)
+        text = ev["event"]
+        tw   = d.textbbox((0,0),text,font=font_ev)[2]
+        d.text((PAD*2, y_start + (card_h - font_size)//2),
+               text,font=font_ev, fill=TXT_COL)
 
-        y+=CARD_H+PAD
-    return img
+        y_start += card_h + PAD
+    return img, font_size
 
-# ───────────── Caption-Builder ─────────────
-def build_caption(ev_list):
-    lines=["Aktuelle Events in #Liebefeld"]
-    for ev in ev_list:
-        name = ev["event"]
-        link = ev.get("link","🔗")
-        at   = ev.get("at","📍")
-        lines.append(f"• {name}  –  {link}  {at}")
+# ───────────── Caption ─────────────
+def build_caption(events):
+    lines=[CAPTION_HEAD,"","Mehr Infos ➡ Link in Bio"]
+    for ev in events:
+        lines.append(f"• {ev['event']}")
     return "\n".join(lines)
 
 # ───────────── GitHub + Instagram ─────────────
-def upload(img_bytes,repo,token):
+def upload_to_repo(img_bytes,repo,token):
     tz=pytz.timezone("Europe/Berlin")
     path=datetime.now(tz).strftime("images/%Y/%m/%d/%H%M_events.jpg")
     url=f"https://api.github.com/repos/{repo}/contents/{path}"
-    data={"message":"auto-upload events image",
-          "content":base64.b64encode(img_bytes).decode()}
     hdr={"Authorization":f"token {token}",
          "Accept":"application/vnd.github+json"}
-    res=requests.put(url,headers=hdr,json=data,timeout=15).json()
-    if "content" not in res: raise RuntimeError(res)
-    return res["content"]["download_url"]
+    data={"message":"auto-upload events image",
+          "content":base64.b64encode(img_bytes).decode()}
+    r=requests.put(url,headers=hdr,json=data,timeout=15).json()
+    if "content" not in r: raise RuntimeError(r)
+    return r["content"]["download_url"]
 
-def post_insta(raw,caption,uid,token):
+def insta_post(raw,caption,uid,token):
     base=f"https://graph.facebook.com/v21.0/{uid}"
     cid=requests.post(f"{base}/media",data={
         "image_url":raw,"caption":caption,"access_token":token},timeout=15).json().get("id")
-    if not cid: raise RuntimeError("container fail")
+    if not cid: raise RuntimeError("container error")
     pub=requests.post(f"{base}/media_publish",data={
         "creation_id":cid,"access_token":token},timeout=15).json()
-    if "id" not in pub: raise RuntimeError("publish fail")
+    if "id" not in pub: raise RuntimeError("publish error")
     return pub["id"]
 
 # ───────────── Main ─────────────
 def main():
     gh_tok=os.getenv("GITHUB_TOKEN")
-    gh_repo=os.getenv("GITHUB_REPOSITORY")
+    gh_rep=os.getenv("GITHUB_REPOSITORY")
     ig_tok=os.getenv("IG_ACCESS_TOKEN")
     ig_uid=os.getenv("IG_USER_ID")
-    if not all([gh_tok,gh_repo,ig_tok,ig_uid]):
-        raise SystemExit("ENV fehlt")
+    if not all([gh_tok,gh_rep,ig_tok,ig_uid]):
+        raise SystemExit("ENV fehlt!")
 
     events=today_events()
-    img=build_image(events)
+    img,_=build_image(events)
     buf=io.BytesIO(); img.save(buf,"JPEG",quality=96)
 
-    raw=upload(buf.getvalue(),gh_repo,gh_tok)
-    caption=build_caption(events)
-    print("✅ Bild-URL:",raw)
-    print("📝 Caption:\n",caption)
-
-    post_id=post_insta(raw,caption,ig_uid,ig_tok)
+    raw=upload_to_repo(buf.getvalue(),gh_rep,gh_tok)
+    post_id=insta_post(raw,build_caption(events),ig_uid,ig_tok)
+    print("✅ Bild URL:",raw)
     print("🎉 Insta-Post ID:",post_id)
 
 if __name__=="__main__":
