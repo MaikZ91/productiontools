@@ -24,7 +24,7 @@ jobs:
 
       # 3) Abhängigkeiten
       - name: Install Python deps
-        run: pip install Pillow requests pytz
+        run: pip install Pillow requests pytz matplotlib	
 
       # 4) Debug-Step – prüft, ob alle Variablen gesetzt sind
       - name: Debug env variables
