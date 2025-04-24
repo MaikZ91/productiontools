@@ -129,7 +129,7 @@ def main():
         ImageDraw.Draw(fixed).text((40, 40), datetime.now(tz).strftime("%d.%m"), font=font(90), fill="white")
         buf = io.BytesIO()
         fixed.save(buf, "JPEG", quality=95)
-        url_wed = gh_upload(buf.getvalue(), "midweek")
+        url_wed = gh_upload(buf.getvalue(), gh_repo, gh_tok)
         insta_post(url_wed, "Tribe Powerworkout", ig_uid, ig_tok)
 
     print("✅ Bild:", raw_url)
