@@ -21,6 +21,7 @@ RED_TOP, RED_BOT = (200,20,20), (80,0,0)
 CARD_BG   = (250,250,250)
 TXT_COL   = (0,0,0)
 TITLECOL  = (255,255,255)
+weekday  = datetime.now(tz).weekday() 
 
 def font(pt:int):
     """Robuster Font-Loader: Arial → DejaVu → Bitmap"""
@@ -121,6 +122,16 @@ def main():
     raw_url=gh_upload(buf.getvalue(), gh_repo, gh_tok)
     caption="Weitere Events und Infos findest du in unserer App (Alle Angaben ohne Gewähr auf Richtigkeit)➡ Link in Bio 🔗\n\n" + "\n".join(f"• {e['event']}" for e in events)
     post_id=insta_post(raw_url, caption, ig_uid, ig_tok)
+
+    if weekday == 2:                          
+        fixed = Image.open("assets/midweek_special.jpg").convert("RGB")
+        # optional Overlay
+        d=ImageDraw.Draw(fixed)
+        d.text((40,40), today_dm, font=font(90), fill="white")
+        buf2=io.BytesIO(); fixed.save(buf2,"JPEG",quality=95)
+        url_wed=gh_upload(buf2.getvalue(),"midweek")
+        insta_post(url_wed, "Tribe Powerworkout")
+        print("🎉 Mittwoch-Post erledigt")
 
     print("✅ Bild:", raw_url)
     print("🎉 IG-Post ID:", post_id)
