@@ -123,15 +123,14 @@ def main():
     caption="Weitere Events und Infos findest du in unserer App (Alle Angaben ohne Gewähr auf Richtigkeit)➡ Link in Bio 🔗\n\n" + "\n".join(f"• {e['event']}" for e in events)
     post_id=insta_post(raw_url, caption, ig_uid, ig_tok)
 
-    if weekday == 2:                          
-        fixed = Image.open("assets/midweek_special.jpg").convert("RGB")
-        # optional Overlay
-        d=ImageDraw.Draw(fixed)
-        d.text((40,40), today_dm, font=font(90), fill="white")
-        buf2=io.BytesIO(); fixed.save(buf2,"JPEG",quality=95)
-        url_wed=gh_upload(buf2.getvalue(),"midweek")
-        insta_post(url_wed, "Tribe Powerworkout")
-        print("🎉 Mittwoch-Post erledigt")
+    if weekday == 3:
+        img_bytes = requests.get("https://raw.githubusercontent.com/MaikZ91/productiontools/master/Unbenannt.png").content
+        fixed = Image.open(io.BytesIO(img_bytes)).convert("RGB")
+        ImageDraw.Draw(fixed).text((40, 40), today_dm, font=font(90), fill="white")
+        buf = io.BytesIO()
+        fixed.save(buf, "JPEG", quality=95)
+        url_wed = gh_upload(buf.getvalue(), "midweek")
+        insta_post(url_wed, "Tribe Powerworkout", ig_uid, ig_tok)
 
     print("✅ Bild:", raw_url)
     print("🎉 IG-Post ID:", post_id)
