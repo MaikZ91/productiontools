@@ -1,4 +1,4 @@
-r#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 insta_cards_uploader.py
 -----------------------
