@@ -124,10 +124,15 @@ def main():
     post_id=insta_post(raw_url, caption, ig_uid, ig_tok)
 
     if weekday == 2:                         
-        caption = "Tribe Powerworkout 💪\nMehr in der Bio 🔗"
+        caption = "Tribe Powerworkout 💪\n Anmeldung in Community, Link in der Bio 🔗"
         insta_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/Unbenannt.png"
 , caption, ig_uid, ig_tok)
-        print("🎉 Mittwoch-Post erledigt")
+
+    if weekday == 3:                         
+        caption = "TUESDAY RUN 💪\n Anmeldung in Community, Link in der Bio🔗"
+        insta_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/ChatGPT%20Image%20Apr%2024%2C%202025%2C%2012_58_30%20PM.png"
+, caption, ig_uid, ig_tok)
+    
 
     print("✅ Bild:", raw_url)
     print("🎉 IG-Post ID:", post_id)
