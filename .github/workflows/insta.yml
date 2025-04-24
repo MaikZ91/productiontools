@@ -1,20 +1,20 @@
-name: Post events image            # erscheint im Actions-Tab
+# .github/workflows/post_events_image.yml
+# Lädt Events-Bild ins Repo und postet es auf Instagram.
+# Nutzt dein **PAT_TOKEN** statt des automatisch erzeugten GITHUB_TOKEN.
+
+name: Post events image
 
 on:
-  workflow_dispatch:               # manueller Button
+  workflow_dispatch:                # manueller Button
   schedule:
-    - cron: "0 6 * * *"            # 06 UTC = 08 Uhr Berlin (Sommerzeit)
-
-# GITHUB_TOKEN soll Dateien ins Repo schreiben dürfen
-permissions:
-  contents: write
+    - cron: "0 6 * * *"             # 06 UTC = 08 Uhr Berlin (Sommerzeit)
 
 jobs:
   post:
     runs-on: ubuntu-latest
 
     steps:
-      # 1) Quellcode klonen
+      # 1) Repository auschecken
       - uses: actions/checkout@v4
 
       # 2) Python 3.11 installieren
@@ -23,22 +23,25 @@ jobs:
           python-version: "3.11"
 
       # 3) Abhängigkeiten
-      - name: Install deps
+      - name: Install Python deps
         run: pip install Pillow requests pytz
 
-      # 4) Debug – zeigt, welche ENV-Variablen gesetzt sind
+      # 4) Debug-Step – prüft, ob alle Variablen gesetzt sind
       - name: Debug env variables
         env:
-          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
-          IG_USER_ID:      ${{ secrets.IG_USER_ID }}
+          GITHUB_TOKEN:   ${{ secrets.PAT_TOKEN }}        # ← dein PAT
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }} # bereits angelegt
+          IG_USER_ID:      ${{ secrets.IG_USER_ID }}      # bereits angelegt
         run: |
+          echo "🔎 Prüfe erforderliche ENV-Variablen:"
           for V in GITHUB_TOKEN GITHUB_REPOSITORY IG_ACCESS_TOKEN IG_USER_ID; do
-            echo "$V=${!V:+✅ gesetzt}"
+            [ -n "${!V}" ] && echo "$V = ✅ gesetzt" || echo "$V = ❌ fehlt!"
           done
 
-      # 5) Bild generieren, ins Repo laden, auf Instagram posten
-      - name: Run insta.py
+      # 5) Bild generieren, ins Repo laden & auf Instagram posten
+      - name: Generate, upload & post image
         env:
+          GITHUB_TOKEN:   ${{ secrets.PAT_TOKEN }}        # PAT → insta.py
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID:      ${{ secrets.IG_USER_ID }}
         run: python insta.py
