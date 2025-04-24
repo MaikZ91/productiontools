@@ -126,7 +126,7 @@ def main():
     if weekday == 3:
         img_bytes = requests.get("https://raw.githubusercontent.com/MaikZ91/productiontools/master/Unbenannt.png").content
         fixed = Image.open(io.BytesIO(img_bytes)).convert("RGB")
-        ImageDraw.Draw(fixed).text((40, 40), today_dm, font=font(90), fill="white")
+        ImageDraw.Draw(fixed).text((40, 40), datetime.now(tz).strftime("%d.%m"), font=font(90), fill="white")
         buf = io.BytesIO()
         fixed.save(buf, "JPEG", quality=95)
         url_wed = gh_upload(buf.getvalue(), "midweek")
