@@ -1,0 +1,45 @@
+name: Save events image                       # frei wählbar
+
+# ────────────────────────────────────────────
+# 1️⃣ Wann soll der Workflow laufen?
+#    • manuell über „Run workflow“
+#    • automatisch jeden Tag um 06:00 UTC (= 08:00 Berlin bei Sommerzeit)
+# ────────────────────────────────────────────
+on:
+  workflow_dispatch:                          # manueller Button im Actions-Tab
+  schedule:
+    - cron:  "0 9 * * *"                      # POSIX-Cron in **UTC** :contentReference[oaicite:0]{index=0}
+
+# ────────────────────────────────────────────
+# 2️⃣ Welche Rechte braucht das Job-Token?
+#    Das mitgelieferte secrets.GITHUB_TOKEN
+#    bekommt hier explizit Schreibrechte auf
+#    Repo-Dateien („contents: write“).
+# ────────────────────────────────────────────
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # a) Repo klonen
+      - uses: actions/checkout@v4
+
+      # b) Python einrichten
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # c) Abhängigkeiten installieren
+      - name: Install Python dependencies
+        run: pip install Pillow requests pytz
+
+      # d) Skript ausführen
+      - name: Generate & upload events image
+        env:
+          GH_TOKEN:        ${{ secrets.GITHUB_TOKEN }}   # Token → Skript-ENV
+          GH_OWNER_REPO:   ${{ github.repository }}      # z. B. “MaikZ91/productiontools”
+        run: |
+          python save_events_image_to_repo.py
