@@ -21,7 +21,7 @@ RED_TOP, RED_BOT = (200,20,20), (80,0,0)
 CARD_BG   = (250,250,250)
 TXT_COL   = (0,0,0)
 TITLECOL  = (255,255,255)
-weekday  = datetime.now(tz).weekday() 
+weekday  = datetime.now(pytz.timezone("Europe/Berlin")).weekday() 
 
 def font(pt:int):
     """Robuster Font-Loader: Arial → DejaVu → Bitmap"""
