@@ -125,7 +125,8 @@ def main():
 
     if weekday == 2:                         
         caption = "Tribe Powerworkout 💪\nMehr in der Bio 🔗"
-        insta_post(RAW_WED_URL, caption, ig_uid, ig_tok)
+        insta_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/Unbenannt.png"
+, caption, ig_uid, ig_tok)
         print("🎉 Mittwoch-Post erledigt")
 
     print("✅ Bild:", raw_url)
