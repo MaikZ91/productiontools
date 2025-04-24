@@ -63,7 +63,14 @@ def make_image(events):
         y += CARD_H + PAD
     return base
 
-def upload_to_github(img_bytes, repo, token, branch="main"):
+def upload_to_github(img_bytes, repo, token, branch=None):
+    """
+    Lädt Datei hoch und committet wahlweise in `branch`.
+    Wenn branch=None → GitHub nimmt den Default-Branch (z. B. master).
+    """
+    import base64, requests, pytz
+    from datetime import datetime
+
     tz      = pytz.timezone("Europe/Berlin")
     today   = datetime.now(tz).strftime("%Y/%m/%d")
     path    = f"images/{today}/events_today.jpg"
@@ -73,11 +80,13 @@ def upload_to_github(img_bytes, repo, token, branch="main"):
         "Authorization": f"token {token}",
         "Accept":        "application/vnd.github+json"
     }
-    body    = {
+    body = {
         "message": "auto-upload events image",
-        "content": base64.b64encode(img_bytes).decode(),
-        "branch":  branch
+        "content": base64.b64encode(img_bytes).decode()
     }
+    if branch:                    # nur setzen, wenn explizit gewünscht
+        body["branch"] = branch
+
     resp = requests.put(url, headers=headers, json=body, timeout=15).json()
     if "content" not in resp:
         raise RuntimeError(f"GitHub-Upload fehlgeschlagen: {resp}")
