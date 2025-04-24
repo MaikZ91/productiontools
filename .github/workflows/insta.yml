@@ -42,4 +42,4 @@ jobs:
           GH_TOKEN:        ${{ secrets.GITHUB_TOKEN }}   # Token → Skript-ENV
           GH_OWNER_REPO:   ${{ github.repository }}      # z. B. “MaikZ91/productiontools”
         run: |
-          python save_events_image_to_repo.py
+          python insta.py
