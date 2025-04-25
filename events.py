@@ -276,20 +276,29 @@ def scrape_events(base_url):
                 'link': event_link
             })
 
-    if base_url == cutie:
-        L=Instaloader(); L.load_session_from_file("media_engineering.ai", "session-media_engineering.ai")
-        s=L.context._session
+     if base_url == cutie:
+       
+        raw_url = "https://raw.githubusercontent.com/MaikZ91/productiontools/master/session-media_engineering.ai"
+        r = requests.get(raw_url)
+        r.raise_for_status()
+        with open("session-media_engineering.ai", "wb") as f:
+            f.write(r.content)
+        L = Instaloader()
+        L.load_session_from_file("media_engineering.ai", "session-media_engineering.ai")
+        s = L.context._session
         s.headers.update({
             "User-Agent": L.context.user_agent,
             "Accept": "application/json",
-            "Referer": f"https://www.instagram.com/{"cutiebielefeld"}/",
+            "Referer": f"https://www.instagram.com/{target_profile}/",
             "x-ig-app-id": "936619743392459"
         })
-        data=s.get(f"https://i.instagram.com/api/v1/users/web_profile_info/?username={"cutiebielefeld"}").json()
-        cap=data["data"]["user"]["edge_owner_to_timeline_media"]["edges"][0]["node"]["edge_media_to_caption"]["edges"][0]["node"]["text"] or ""
-        d=re.search(r'(\d{1,2}\.\d{1,2}\.)', cap)
-        e=re.search(r'(?:„|"|»)?([\w\s@()&\.-]+?)(?:“|"|«)?(?=\s|$)', cap)
-        l=re.search(r'(https?://[^\s]+)', cap)
+        url = f"https://i.instagram.com/api/v1/users/web_profile_info/?username={target_profile}"
+        data = s.get(url).json()
+        cap = data["data"]["user"]["edge_owner_to_timeline_media"]["edges"][0]\
+                   ["node"]["edge_media_to_caption"]["edges"][0]["node"]["text"] or ""
+        d = re.search(r'(\d{1,2}\.\d{1,2}\.)', cap)
+        e = re.search(r'(?:„|"|»)?([\w\s@()&\.-]+?)(?:“|"|«)?(?=\s|$)', cap)
+        l = re.search(r'(https?://[^\s]+)', cap)
         events.append({
             "date":  d.group(1)           if d else "",
             "event": e.group(1).strip()  if e else "",
