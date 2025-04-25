@@ -1,158 +1,79 @@
-#!/usr/bin/env python3
-"""
-insta_cards_uploader.py
------------------------
-• Erstellt das gewohnte Card-Bild
-• Lädt es nach images/YYYY/MM/dd/HHMM_events.jpg ins Repo
-• Postet den Feed-Beitrag bei Instagram
-"""
-
-# ───────── 1. Dein ursprünglicher Bild-Generator ─────────
-import requests, json, pytz, io, base64, os
+import requests, json
 from datetime import datetime
-from PIL import Image, ImageDraw, ImageFont, ImageFilter
+from PIL import Image, ImageDraw, ImageFont
 
+# ── SETTINGS ───────────────────────────────────────────────────
 URL       = "https://raw.githubusercontent.com/MaikZ91/productiontools/master/events.json"
-W, PAD    = 1080, 50
-HBAR      = 140
+WIDTH     = 1080
+PADDING   = 50
+HEADER_H  = 140
 CARD_H    = 110
 RADIUS    = 25
-RED_TOP, RED_BOT = (200,20,20), (80,0,0)
-CARD_BG   = (250,250,250)
-TXT_COL   = (0,0,0)
-TITLECOL  = (255,255,255)
-weekday  = datetime.now(pytz.timezone("Europe/Berlin")).weekday() 
+TOP_RED   = (200, 20, 20)
+BOT_RED   = ( 80,  0,  0)
+WHITE     = (255,255,255)
+BLACK     = (  0,  0,  0)
 
-def font(pt:int):
-    """Robuster Font-Loader: Arial → DejaVu → Bitmap"""
-    for name in ("arialbd.ttf","arial.ttf"):
-        try:
-            return ImageFont.truetype(name, pt)
-        except OSError:
-            pass
-    try:
-        return ImageFont.truetype("DejaVuSans-Bold.ttf", pt)
-    except OSError:
-        return ImageFont.load_default()
+def load_font(sz):
+    try:    return ImageFont.truetype("arial.ttf", sz)
+    except: return ImageFont.load_default()
 
-def red_grad(d,h):
-    for y in range(h):
-        t=y/(h-1)
-        c=tuple(int(RED_TOP[i]*(1-t)+RED_BOT[i]*t) for i in range(3))
-        d.line([(0,y),(W,y)],fill=c)
+# ── 1. Events filtern ──────────────────────────────────────────
+today = datetime.now().strftime("%d.%m")
+events = [e for e in json.loads(requests.get(URL).text)
+          if e["date"].endswith(today)]
 
-def build_image(events):
-    n=len(events) or 1
-    H=PAD+HBAR+PAD + n*CARD_H + max(n-1,0)*PAD + PAD
+# ── 2. Höhe dynamisch berechnen ───────────────────────────────
+n       = max(1, len(events))
+needed  = HEADER_H + PADDING + n*(CARD_H + PADDING) + PADDING
+HEIGHT  = max(1080, needed)
 
-    base=Image.new("RGB",(W,H))
-    draw=ImageDraw.Draw(base); red_grad(draw,H)
+# ── 3. Canvas + Gradient ──────────────────────────────────────
+img  = Image.new("RGB", (WIDTH, HEIGHT))
+draw = ImageDraw.Draw(img)
+for y in range(HEIGHT):
+    t = y/(HEIGHT-1)
+    col = (
+        int(TOP_RED[0]*(1-t) + BOT_RED[0]*t),
+        int(TOP_RED[1]*(1-t) + BOT_RED[1]*t),
+        int(TOP_RED[2]*(1-t) + BOT_RED[2]*t),
+    )
+    draw.line([(0,y),(WIDTH,y)], fill=col)
 
-    tz=pytz.timezone("Europe/Berlin")
-    dm=datetime.now(tz).strftime("%d.%m")
-    header=Image.new("RGBA",(W-2*PAD,HBAR),(255,255,255,40))
-    base.paste(header,(PAD,PAD),header)
-    draw.text((PAD*1.5,PAD+35),
-              f"🔥  Events in Bielefeld – {dm}",
-              font=font(60), fill=TITLECOL)
+# ── 4. Header ─────────────────────────────────────────────────
+draw.rectangle([0,0,WIDTH,HEADER_H], fill=(255,255,255,40))
+draw.text(
+    (PADDING, PADDING+35),
+    f"🔥 Events in Bielefeld – {today}",
+    font=load_font(60),
+    fill=WHITE
+)
 
-    y=PAD+HBAR+PAD
-    for ev in events or [{"event":"Keine Events gefunden"}]:
-        card=Image.new("RGBA",(W-2*PAD,CARD_H),CARD_BG+(255,))
-        card=card.filter(ImageFilter.GaussianBlur(0.5))
-        mask=Image.new("L",card.size,0)
-        ImageDraw.Draw(mask).rounded_rectangle([0,0,*card.size],
-                                               RADIUS,fill=255)
-        base.paste(card,(PAD,y),mask)
+# ── 5. Event-Cards ────────────────────────────────────────────
+y = HEADER_H + PADDING
+f_evt = load_font(34)
+for ev in events or [{"event":"Keine Events gefunden"}]:
+    draw.rounded_rectangle(
+        [PADDING, y, WIDTH-PADDING, y+CARD_H],
+        radius=RADIUS,
+        fill=WHITE
+    )
+    # Text vertikal zentriert
+    bbox = draw.textbbox((0,0), ev["event"], font=f_evt)
+    th   = bbox[3] - bbox[1]
+    draw.text(
+        (PADDING*2, y + (CARD_H-th)//2),
+        ev["event"], font=f_evt, fill=BLACK
+    )
+    y += CARD_H + PADDING
 
-        txt=ev["event"]
-        d=ImageDraw.Draw(base)
-        bbox=d.textbbox((0,0),txt,font=font(34))
-        th=bbox[3]-bbox[1]
-        d.text((PAD*2, y+(CARD_H-th)//2), txt,
-               font=font(34), fill=TXT_COL)
-        y += CARD_H + PAD
-    return base
+# ── 6. Crop auf max. 4:5 (0.8) Ratio → max Höhe = 1080/0.8 = 1350 px ─
+max_h = int(WIDTH / 0.8)
+if HEIGHT > max_h:
+    img = img.crop((0, 0, WIDTH, max_h))
+    HEIGHT = max_h
 
-# ───────── 2. GitHub-Upload ─────────
-def gh_upload(img_bytes, repo, token):
-    tz=pytz.timezone("Europe/Berlin")
-    path=datetime.now(tz).strftime("images/%Y/%m/%d/%H%M_events.jpg")
-    url=f"https://api.github.com/repos/{repo}/contents/{path}"
-    hdr={"Authorization":f"token {token}",
-         "Accept":"application/vnd.github+json"}
-    body={"message":"auto-upload events image",
-          "content":base64.b64encode(img_bytes).decode()}
-    res=requests.put(url,headers=hdr,json=body,timeout=15).json()
-    if "content" not in res:
-        raise RuntimeError(f"GitHub upload failed: {res}")
-    return res["content"]["download_url"]
-
-# ───────── 3. Instagram-Publish ─────────
-def insta_post(url: str, caption: str, uid: str, token: str) -> str | None:
-    """Kompakte Version mit Debug-Output; gibt Post-ID oder None zurück."""
-    base = f"https://graph.facebook.com/v21.0/{uid}"
-    def dbg(tag, r):
-        print(f"\n{tag} {r.status_code} – {r.text[:300]}")
-        return r.json()
-
-    # Container anlegen
-    cid = dbg("🆙 /media", requests.post(
-        f"{base}/media",
-        data={"image_url": url, "caption": caption, "access_token": token},
-        timeout=20
-    )).get("id")
-    if not cid:
-        return None                  # Fehler bereits gedruckt
-
-    time.sleep(15)                   # kurz warten
-
-    # Container veröffentlichen
-    pid = dbg("🚀 /media_publish", requests.post(
-        f"{base}/media_publish",
-        data={"creation_id": cid, "access_token": token},
-        timeout=20
-    )).get("id")
-    return pid
-
-# ───────── 4. Haupt-Flow ─────────
-def main():
-    # Events laden
-    tz=pytz.timezone("Europe/Berlin")
-    dm=datetime.now(tz).strftime("%d.%m")
-    raw=requests.get(URL,timeout=10).text
-    events=[e for e in json.loads(raw) if e["date"].endswith(dm)]
-
-    # Bild rendern
-    img=build_image(events)
-    buf=io.BytesIO(); img.save(buf,"JPEG",quality=95)
-
-    # ENV
-    gh_tok=os.getenv("GITHUB_TOKEN"); gh_repo=os.getenv("GITHUB_REPOSITORY")
-    ig_tok=os.getenv("IG_ACCESS_TOKEN"); ig_uid=os.getenv("IG_USER_ID")
-    if not all([gh_tok,gh_repo,ig_tok,ig_uid]):
-        raise SystemExit("Fehlende ENV-Variablen!")
-
-    # Upload + Post
-    raw_url=gh_upload(buf.getvalue(), gh_repo, gh_tok)
-    caption="Weitere Events und Infos findest du in unserer App (Alle Angaben ohne Gewähr auf Richtigkeit)➡ Link in Bio 🔗\n\n" + "\n".join(f"• {e['event']}" for e in events)
-    post_id=insta_post(raw_url, caption, ig_uid, ig_tok)
-
-    if weekday == 0:                         
-        caption = "TUESDAY RUN 💪\n Anmeldung in Community, Link in der Bio🔗"
-        insta_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/ChatGPT%20Image%20Apr%2024%2C%202025%2C%2012_58_30%20PM.png"
-, caption, ig_uid, ig_tok)
-
-    if weekday == 2:                         
-        caption = "Tribe Powerworkout 💪\n Anmeldung in Community, Link in der Bio 🔗"
-        insta_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/Unbenannt.png"
-, caption, ig_uid, ig_tok)
-
-   
-    
-
-    print("✅ Bild:", raw_url)
-    print("🎉 IG-Post ID:", post_id)
-
-if __name__=="__main__":
-    main()
+# ── 7. Speichern ──────────────────────────────────────────────
+out = "events_dynamic_cropped.png"
+img.save(out)
+print(f"✅ Bild gespeichert: {out}  (Höhe: {HEIGHT}px)")
