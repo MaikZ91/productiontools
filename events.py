@@ -7,6 +7,7 @@ from datetime import datetime as dt
 from urllib.parse import urljoin
 import calendar
 import traceback
+import instaloader
 
 # Zieljahr definieren (z. B. 2025)
 TARGET_YEAR = 2025
@@ -25,6 +26,7 @@ f2f = 'https://face-to-face-dating.de/bielefeld'
 stereo = 'https://stereo-bielefeld.de/programm/'
 cafe = "https://cafeeuropa.de/"
 arminia = "https://www.arminia.de/profis/saison/arminia-spiele"
+cutie = "https://www.instagram.com/cutiebielefeld/?hl=de"
 
 def scrape_events(base_url):
     events = []
@@ -274,6 +276,26 @@ def scrape_events(base_url):
                 'link': event_link
             })
 
+    if base_url == cutie:
+        L=Instaloader(); L.load_session_from_file(ig_user, session_file)
+        s=L.context._session
+        s.headers.update({
+            "User-Agent": L.context.user_agent,
+            "Accept": "application/json",
+            "Referer": f"https://www.instagram.com/{target_profile}/",
+            "x-ig-app-id": "936619743392459"
+        })
+        data=s.get(f"https://i.instagram.com/api/v1/users/web_profile_info/?username={target_profile}").json()
+        cap=data["data"]["user"]["edge_owner_to_timeline_media"]["edges"][0]["node"]["edge_media_to_caption"]["edges"][0]["node"]["text"] or ""
+        d=re.search(r'(\d{1,2}\.\d{1,2}\.)', cap)
+        e=re.search(r'(?:„|"|»)?([\w\s@()&\.-]+?)(?:“|"|«)?(?=\s|$)', cap)
+        l=re.search(r'(https?://[^\s]+)', cap)
+        events.append({
+            "date":  d.group(1)           if d else "",
+            "event": e.group(1).strip()  if e else "",
+            "link":  l.group(1)           if l else ""
+        })
+
     if base_url == stereo:
         for event in soup.find_all('div', class_='evo_event_schema'):
             script_tag = event.find('script', type='application/ld+json')
@@ -447,7 +469,7 @@ def add_recurring_events(events, event_name, day_name, base_url, frequency, nth)
 if __name__ == '__main__':
     sources = [
         bielefeld_jetzt, forum, platzhirsch, irish_pub, f2f, sams, movie, nrzp,
-        bunker, stereo, cafe, arminia
+        bunker, stereo, cafe, arminia, cutie
     ]
     events = []
     for source in sources:
