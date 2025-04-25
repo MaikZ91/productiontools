@@ -123,7 +123,7 @@ def main():
     caption="Weitere Events und Infos findest du in unserer App (Alle Angaben ohne Gewähr auf Richtigkeit)➡ Link in Bio 🔗\n\n" + "\n".join(f"• {e['event']}" for e in events)
     post_id=insta_post(raw_url, caption, ig_uid, ig_tok)
 
-     if weekday == 0:                         
+    if weekday == 0:                         
         caption = "TUESDAY RUN 💪\n Anmeldung in Community, Link in der Bio🔗"
         insta_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/ChatGPT%20Image%20Apr%2024%2C%202025%2C%2012_58_30%20PM.png"
 , caption, ig_uid, ig_tok)
