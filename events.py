@@ -275,18 +275,6 @@ def scrape_events(base_url):
                 'link': event_link
             })
 
-    if base_url == cutie:
-        tp="cutiebielefeld"; ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
-        h={"User-Agent":ua,"Accept-Language":"en-US,en;q=0.9"}
-        html=requests.get(f"https://www.instagram.com/{tp}/", headers=h).text
-        raw=re.search(r'__additionalDataLoaded\("profilePage_.*?",\s*(\{.*?\})\);', html).group(1)
-        j=json.loads(raw)
-        n=j["graphql"]["user"]["edge_owner_to_timeline_media"]["edges"][0]["node"]
-        c=n["edge_media_to_caption"]["edges"][0]["node"]["text"]
-        dm=re.search(r"(\d{1,2}\.\d{1,2}\.)", c); em=re.search(r'(?:„|"|»)?([\w\s@()&\.-]+?)(?:“|"|«)?(?=\s|$)', c); lm=re.search(r"(https?://[^\s]+)", c)
-        print({"date": dm.group(1), "event": em.group(1).strip(), "link": lm.group(1)})
-        events.append({"date": dm.group(1), "event": em.group(1).strip(), "link": lm.group(1)})
-
     if base_url == stereo:
         for event in soup.find_all('div', class_='evo_event_schema'):
             script_tag = event.find('script', type='application/ld+json')
@@ -460,7 +448,7 @@ def add_recurring_events(events, event_name, day_name, base_url, frequency, nth)
 if __name__ == '__main__':
     sources = [
         bielefeld_jetzt, forum, platzhirsch, irish_pub, f2f, sams, movie, nrzp,
-        bunker, stereo, cafe, arminia, cutie
+        bunker, stereo, cafe, arminia
     ]
     events = []
     for source in sources:
