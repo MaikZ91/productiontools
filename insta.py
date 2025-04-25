@@ -89,15 +89,30 @@ def gh_upload(img_bytes, repo, token):
     return res["content"]["download_url"]
 
 # ───────── 3. Instagram-Publish ─────────
-def insta_post(img_url, caption, uid, token):
-    base=f"https://graph.facebook.com/v21.0/{uid}"
-    cid=requests.post(f"{base}/media", data={
-        "image_url":img_url,
-        "caption":caption,
-        "access_token":token}, timeout=15).json()["id"]
-    pid=requests.post(f"{base}/media_publish", data={
-        "creation_id":cid,
-        "access_token":token}, timeout=15).json()["id"]
+def insta_post(url: str, caption: str, uid: str, token: str) -> str | None:
+    """Kompakte Version mit Debug-Output; gibt Post-ID oder None zurück."""
+    base = f"https://graph.facebook.com/v21.0/{uid}"
+    def dbg(tag, r):
+        print(f"\n{tag} {r.status_code} – {r.text[:300]}")
+        return r.json()
+
+    # Container anlegen
+    cid = dbg("🆙 /media", requests.post(
+        f"{base}/media",
+        data={"image_url": url, "caption": caption, "access_token": token},
+        timeout=20
+    )).get("id")
+    if not cid:
+        return None                  # Fehler bereits gedruckt
+
+    time.sleep(15)                   # kurz warten
+
+    # Container veröffentlichen
+    pid = dbg("🚀 /media_publish", requests.post(
+        f"{base}/media_publish",
+        data={"creation_id": cid, "access_token": token},
+        timeout=20
+    )).get("id")
     return pid
 
 # ───────── 4. Haupt-Flow ─────────
