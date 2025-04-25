@@ -275,7 +275,7 @@ def scrape_events(base_url):
                 'link': event_link
             })
 
-     if base_url == cutie:
+    if base_url == cutie:
         tp="cutiebielefeld"; ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
         h={"User-Agent":ua,"Accept-Language":"en-US,en;q=0.9"}
         html=requests.get(f"https://www.instagram.com/{tp}/", headers=h).text
@@ -326,12 +326,12 @@ def scrape_events(base_url):
                     events.append({"date": date, "event": event_name, 'link': link})
 
     if base_url == arminia:
-        
+
         all_divs = soup.find_all("div")
 
-    
+
         for i in range(len(all_divs) - 4):
-           
+
                 date_block = all_divs[i]
                 team1_block = all_divs[i + 1]
                 team2_block = all_divs[i + 2]
