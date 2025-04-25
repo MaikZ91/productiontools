@@ -284,6 +284,7 @@ def scrape_events(base_url):
         n=j["graphql"]["user"]["edge_owner_to_timeline_media"]["edges"][0]["node"]
         c=n["edge_media_to_caption"]["edges"][0]["node"]["text"]
         dm=re.search(r"(\d{1,2}\.\d{1,2}\.)", c); em=re.search(r'(?:„|"|»)?([\w\s@()&\.-]+?)(?:“|"|«)?(?=\s|$)', c); lm=re.search(r"(https?://[^\s]+)", c)
+        print({"date": dm.group(1), "event": em.group(1).strip(), "link": lm.group(1)})
         events.append({"date": dm.group(1), "event": em.group(1).strip(), "link": lm.group(1)})
 
     if base_url == stereo:
