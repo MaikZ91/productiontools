@@ -7,7 +7,6 @@ from datetime import datetime as dt
 from urllib.parse import urljoin
 import calendar
 import traceback
-import instaloader
 
 # Zieljahr definieren (z. B. 2025)
 TARGET_YEAR = 2025
@@ -277,33 +276,15 @@ def scrape_events(base_url):
             })
 
      if base_url == cutie:
-       
-        raw_url = "https://raw.githubusercontent.com/MaikZ91/productiontools/master/session-media_engineering.ai"
-        r = requests.get(raw_url)
-        r.raise_for_status()
-        with open("session-media_engineering.ai", "wb") as f:
-            f.write(r.content)
-        L = Instaloader()
-        L.load_session_from_file("media_engineering.ai", "session-media_engineering.ai")
-        s = L.context._session
-        s.headers.update({
-            "User-Agent": L.context.user_agent,
-            "Accept": "application/json",
-            "Referer": f"https://www.instagram.com/{target_profile}/",
-            "x-ig-app-id": "936619743392459"
-        })
-        url = f"https://i.instagram.com/api/v1/users/web_profile_info/?username={target_profile}"
-        data = s.get(url).json()
-        cap = data["data"]["user"]["edge_owner_to_timeline_media"]["edges"][0]\
-                   ["node"]["edge_media_to_caption"]["edges"][0]["node"]["text"] or ""
-        d = re.search(r'(\d{1,2}\.\d{1,2}\.)', cap)
-        e = re.search(r'(?:„|"|»)?([\w\s@()&\.-]+?)(?:“|"|«)?(?=\s|$)', cap)
-        l = re.search(r'(https?://[^\s]+)', cap)
-        events.append({
-            "date":  d.group(1)           if d else "",
-            "event": e.group(1).strip()  if e else "",
-            "link":  l.group(1)           if l else ""
-        })
+        tp="cutiebielefeld"; ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+        h={"User-Agent":ua,"Accept-Language":"en-US,en;q=0.9"}
+        html=requests.get(f"https://www.instagram.com/{tp}/", headers=h).text
+        raw=re.search(r'__additionalDataLoaded\("profilePage_.*?",\s*(\{.*?\})\);', html).group(1)
+        j=json.loads(raw)
+        n=j["graphql"]["user"]["edge_owner_to_timeline_media"]["edges"][0]["node"]
+        c=n["edge_media_to_caption"]["edges"][0]["node"]["text"]
+        dm=re.search(r"(\d{1,2}\.\d{1,2}\.)", c); em=re.search(r'(?:„|"|»)?([\w\s@()&\.-]+?)(?:“|"|«)?(?=\s|$)', c); lm=re.search(r"(https?://[^\s]+)", c)
+        events.append({{"date": dm.group(1), "event": em.group(1).strip(), "link": lm.group(1)})
 
     if base_url == stereo:
         for event in soup.find_all('div', class_='evo_event_schema'):
