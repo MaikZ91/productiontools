@@ -277,15 +277,15 @@ def scrape_events(base_url):
             })
 
     if base_url == cutie:
-        L=Instaloader(); L.load_session_from_file(ig_user, session_file)
+        L=Instaloader(); L.load_session_from_file("media_engineering.ai", "session-media_engineering.ai")
         s=L.context._session
         s.headers.update({
             "User-Agent": L.context.user_agent,
             "Accept": "application/json",
-            "Referer": f"https://www.instagram.com/{target_profile}/",
+            "Referer": f"https://www.instagram.com/{"cutiebielefeld"}/",
             "x-ig-app-id": "936619743392459"
         })
-        data=s.get(f"https://i.instagram.com/api/v1/users/web_profile_info/?username={target_profile}").json()
+        data=s.get(f"https://i.instagram.com/api/v1/users/web_profile_info/?username={"cutiebielefeld"}").json()
         cap=data["data"]["user"]["edge_owner_to_timeline_media"]["edges"][0]["node"]["edge_media_to_caption"]["edges"][0]["node"]["text"] or ""
         d=re.search(r'(\d{1,2}\.\d{1,2}\.)', cap)
         e=re.search(r'(?:„|"|»)?([\w\s@()&\.-]+?)(?:“|"|«)?(?=\s|$)', cap)
