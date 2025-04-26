@@ -131,7 +131,7 @@ def scrape_events(base_url):
                 date = f"{dayname}, {day}.{month_number}"
                 title_div = article.find('div', class_='entry-title')
                 if title_div:
-                    event = f"{title_div.get_text(strip=True)} (@Forum)"
+                    event = f"{title_div.get_text(strip=True)} (@forum_bielefeld)"
                     full_link = urljoin(base_url, title_div.find('a')['href'])
                     events.append({
                         'date': date,
@@ -193,7 +193,7 @@ def scrape_events(base_url):
             weekday_candidate = weekday_map.get(weekday_candidate, weekday_candidate)
             date_str = f"{weekday_candidate}, {adjusted_date.day:02d}.{adjusted_date.month:02d}"
             full_link = urljoin(base_url, link.get('href'))
-            event_title += " (@CafeEuropa)"
+            event_title += " (@cafe_europa_bi)"
             events.append({
                 "date": date_str,
                 "event": event_title,
@@ -211,14 +211,14 @@ def scrape_events(base_url):
                 event_date = f"{day_name}, {day}.{month}"
                 next_link = article.find_next_sibling('a', class_='menu_btn')
                 if next_link:
-                    event_name = f"{next_link.find('span', class_='span_left').get_text(strip=True)} (@Nr.z.P.)"
+                    event_name = f"{next_link.find('span', class_='span_left').get_text(strip=True)} (@nr.z.p)"
                     event_link = next_link['href']
                     events.append({
                         'date': event_date,
                         'event': event_name,
                         'link': event_link
                     })
-        add_recurring_events(events, "PingPong(@Nr.z.P.)", "THURSDAY", nrzp, 'weekly', None)
+        add_recurring_events(events, "PingPong(@nr.z.p)", "THURSDAY", nrzp, 'weekly', None)
 
     if base_url == bunker:
         months = {
@@ -246,7 +246,7 @@ def scrape_events(base_url):
             month_name = months.get(month_name, month_name)
             event_date = f"{day_name}, {day}{datetime.datetime.strptime(month_name, '%B').strftime('%m')}"
             event_name_tag = article.find('h2', class_='entry-title')
-            event_name = f"{event_name_tag.get_text(strip=True)} (@Bunker Ulmenwall)"
+            event_name = f"{event_name_tag.get_text(strip=True)} (@bunkerulmenwall)"
             event_link_tag = article.find('a', class_='post-thumbnail')
             event_link = event_link_tag['href']
             events.append({
@@ -261,7 +261,7 @@ def scrape_events(base_url):
             link_tag = col.find('a')
             event_link = urljoin(base_url, link_tag['href'])
             head_tag = col.find('span', class_='head')
-            event_name = f"{head_tag.get_text(strip=True)} (@SAMS)"
+            event_name = f"{head_tag.get_text(strip=True)} (@sams_bielefeld)"
             content_tag = col.find('div', class_='content')
             if content_tag:
                 start_text = content_tag.get_text(strip=True)
@@ -297,7 +297,7 @@ def scrape_events(base_url):
                 formatted_date = parsed_date.strftime('%a, %d.%m')
                 events.append({
                     "date": formatted_date,
-                    "event": f"{event_name} (@Stereo)",
+                    "event": f"{event_name} (@stereobielefeld)",
                     "link": url_extracted
                 })
 
@@ -339,20 +339,20 @@ def scrape_events(base_url):
                         formatted = datum_dt.strftime("%a, %d.%m")
                         events.append({
                             "date": formatted,
-                            "event": f"Arminia vs. {gegner}",
+                            "event": f"Arminia vs. {gegner}(@arminiaofficial)",
                             "link": base_url
                         })
 
 
     if base_url in [movie, platzhirsch, irish_pub]:
         if base_url == movie:
-            add_recurring_events(events, "Salsa Party (@Movie)", "THURSDAY", movie, 'weekly', None)
+            add_recurring_events(events, "Salsa Party (@movie_liveclub)", "THURSDAY", movie, 'weekly', None)
         elif base_url == platzhirsch:
-            add_recurring_events(events, "Afterwork Party (@Platzhirsch)", "THURSDAY", platzhirsch, 'weekly', None)
+            add_recurring_events(events, "Afterwork Party (@platzhirschbielefeld)", "THURSDAY", platzhirsch, 'weekly', None)
         elif base_url == irish_pub:
-            add_recurring_events(events, "Pub Quiz (@Irish Pub)", "MONDAY", irish_pub, 'weekly', None)
-            add_recurring_events(events, "Art Night (@Loom)", "WEDNESDAY",'https://www.loom-bielefeld.de/events/mini-artnight-e49416/', 'weekly', None)
-            add_recurring_events(events, "Karaoke (@Irish Pub)", "WEDNESDAY", irish_pub, 'weekly', None)
+            add_recurring_events(events, "Pub Quiz (@irish_pub_bielefeld)", "MONDAY", irish_pub, 'weekly', None)
+            add_recurring_events(events, "Art Night (@loom_bielefeld)", "WEDNESDAY",'https://www.loom-bielefeld.de/events/mini-artnight-e49416/', 'weekly', None)
+            add_recurring_events(events, "Karaoke (@irish_pub_bielefeld)", "WEDNESDAY", irish_pub, 'weekly', None)
             add_recurring_events(events, "*TRIBE TUESDAY RUN(@GELLERSHAGEN PARK TEICH)*", "TUESDAY",
                                  'https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==',
                                  'weekly', None)
