@@ -22,7 +22,7 @@ movie = 'https://www.movie-bielefeld.de/'
 platzhirsch = 'https://www.facebook.com/search/top?q=platzhirsch'
 irish_pub = 'https://www.irishpub-bielefeld.de/'
 f2f = 'https://face-to-face-dating.de/bielefeld'
-stereo = 'https://stereo-bielefeld.de/programm/'
+stereobielefeld = 'https://stereo-bielefeld.de/programm/'
 cafe = "https://cafeeuropa.de/"
 arminia = "https://www.arminia.de/profis/saison/arminia-spiele"
 cutie = "https://www.instagram.com/cutiebielefeld/?hl=de"
@@ -275,7 +275,7 @@ def scrape_events(base_url):
                 'link': event_link
             })
 
-    if base_url == stereo:
+    if base_url == stereobielefeld:
         for event in soup.find_all('div', class_='evo_event_schema'):
             script_tag = event.find('script', type='application/ld+json')
             if script_tag and script_tag.string:
@@ -448,7 +448,7 @@ def add_recurring_events(events, event_name, day_name, base_url, frequency, nth)
 if __name__ == '__main__':
     sources = [
         bielefeld_jetzt, forum, platzhirsch, irish_pub, f2f, sams, movie, nrzp,
-        bunker, stereo, cafe, arminia
+        bunker, stereobielefeld, cafe, arminia
     ]
     events = []
     for source in sources:
