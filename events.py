@@ -4,6 +4,7 @@ import json
 import re
 import datetime
 from datetime import datetime as dt
+from datetime import timedelta
 from urllib.parse import urljoin
 import calendar
 import traceback
@@ -26,6 +27,7 @@ stereobielefeld = 'https://stereo-bielefeld.de/programm/'
 cafe = "https://cafeeuropa.de/"
 arminia = "https://www.arminia.de/profis/saison/arminia-spiele"
 cutie = "https://www.instagram.com/cutiebielefeld/?hl=de"
+hsp="https://hsp.sport.uni-bielefeld.de/angebote/aktueller_zeitraum/"
 
 def scrape_events(base_url):
     events = []
@@ -343,6 +345,57 @@ def scrape_events(base_url):
                             "link": base_url
                         })
 
+    if base_url == hsp:
+        BASE_URL = base_url
+        INDEX_URL = urljoin(BASE_URL, "m.html")
+
+        session = requests.Session()
+        session.headers.update({"User-Agent": "Mozilla/5.0"})
+
+        resp = session.get(INDEX_URL)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.content, "html.parser")
+
+        wd_map = {"Mo":0, "Di":1, "Mi":2, "Do":3, "Fr":4, "Sa":5, "So":6}
+        weekday_links = {}
+        for a in soup.find_all("a", href=True):
+            href = a["href"]
+            txt = a.get_text(strip=True)
+            if "anmeldung.fcgi" in href and "mode=mobile" in href and txt[:2] in wd_map:
+                weekday_links[txt[:2]] = urljoin(BASE_URL, href)
+
+        time_pattern = re.compile(r"\d{2}:\d{2}-\d{2}:\d{2}$")
+        today = dt.today().date()
+
+        for wd_abbr, page_url in weekday_links.items():
+            target_wd = wd_map[wd_abbr]
+            delta_days = (target_wd - today.weekday()) % 7
+            event_date = today + timedelta(days=delta_days)
+            date_str = event_date.strftime(f"{wd_abbr}, %d.%m.")
+            
+
+            r = session.get(page_url)
+            if r.status_code != 200:
+                continue
+            day_soup = soup = BeautifulSoup(r.content, "html.parser")
+
+            for a in day_soup.find_all("a", href=True):
+                txt = a.get_text(strip=True)
+                m = time_pattern.search(txt)
+                if not m:
+                    continue
+                name_part = txt.split(":",1)[1].rsplit(" ",2)[0].strip()
+                print(name_part)
+                link = urljoin(BASE_URL, a["href"])
+
+                events.append({
+                    "date": date_str,
+                    "event": name_part,
+                    "link": link
+                })
+
+
+
 
     if base_url in [movie, platzhirsch, irish_pub]:
         if base_url == movie:
@@ -448,7 +501,7 @@ def add_recurring_events(events, event_name, day_name, base_url, frequency, nth)
 if __name__ == '__main__':
     sources = [
         bielefeld_jetzt, forum, platzhirsch, irish_pub, f2f, sams, movie, nrzp,
-        bunker, stereobielefeld, cafe, arminia
+        bunker, stereobielefeld, cafe, arminia,hsp
     ]
     events = []
     for source in sources:
