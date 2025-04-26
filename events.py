@@ -346,62 +346,68 @@ def scrape_events(base_url):
 
     if base_url == hsp:
                
-            BASE_URL = base_url
-            INDEX_URL = urljoin(BASE_URL, "m.html")
-
-            session = requests.Session()
-            session.headers.update({"User-Agent": "Mozilla/5.0"})
-
-            resp = session.get(INDEX_URL)
-            resp.raise_for_status()
-            soup = BeautifulSoup(resp.content, "html.parser")
-
-            wd_map = {"Mo": 0, "Di": 1, "Mi": 2, "Do": 3, "Fr": 4, "Sa": 5, "So": 6}
-            weekday_links = {}
-            for a in soup.find_all("a", href=True):
-                href = a["href"]
+        BASE_URL = hsp
+        INDEX_URL = urljoin(BASE_URL, "m.html")
+        session = requests.Session()
+        session.headers.update({"User-Agent": "Mozilla/5.0"})
+    
+        # 1) Index-Seite holen und Links für Mo–So extrahieren
+        resp = session.get(INDEX_URL)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.content, "html.parser")
+    
+        wd_map = {"Mo": 0, "Di": 1, "Mi": 2, "Do": 3, "Fr": 4, "Sa": 5, "So": 6}
+        # Link-Map: z.B. {"Mo": "...", …}
+        weekday_links = {
+            a.get_text(strip=True)[:2]: urljoin(BASE_URL, a["href"])
+            for a in soup.find_all("a", href=True)
+            if "anmeldung.fcgi" in a["href"]
+               and "mode=mobile" in a["href"]
+               and a.get_text(strip=True)[:2] in wd_map
+        }
+    
+        # Reverse-Map: aus Wochentag-Index zurück auf Abkürzung
+        rev_wd = {v: k for k, v in wd_map.items()}
+    
+        # 2) Ab heute für 10 Tage
+        today = dt.today()
+        num_days = 10
+    
+        time_pattern = re.compile(r"\d{2}:\d{2}-\d{2}:\d{2}$")
+        events = []
+        seen = set()
+    
+        for i in range(num_days):
+            date = today + timedelta(days=i)
+            abbr = rev_wd[date.weekday()]        # z.B. "Sa" für Samstag
+            page_url = weekday_links.get(abbr)   # Link für diesen Wochentag
+            if not page_url:
+                continue                         # überspringen, falls kein Link existiert
+    
+            r = session.get(page_url)
+            if r.status_code != 200:
+                continue
+    
+            day_soup = BeautifulSoup(r.content, "html.parser")
+            date_str = date.strftime(f"{abbr}, %d.%m.%Y")
+    
+            for a in day_soup.find_all("a", href=True):
                 txt = a.get_text(strip=True)
-                if "anmeldung.fcgi" in href and "mode=mobile" in href and txt[:2] in wd_map:
-                    weekday_links[txt[:2]] = urljoin(BASE_URL, href)
-
-            time_pattern = re.compile(r"\d{2}:\d{2}-\d{2}:\d{2}$")
-            today = dt.today()
-            end_of_year = dt(today.year, 12, 31)
-
-            events = []
-            seen = set()
-
-            for wd_abbr, page_url in weekday_links.items():
-                target_wd = wd_map[wd_abbr]
-                delta_days = (target_wd - today.weekday()) % 7
-                event_date = today + timedelta(days=delta_days)
-
-                while event_date <= end_of_year:
-                    date_str = event_date.strftime(f"{wd_abbr}, %d.%m.%Y")
-                    r = session.get(page_url)
-                    if r.status_code != 200:
-                        event_date += timedelta(days=7)
-                        continue
-                    day_soup = BeautifulSoup(r.content, "html.parser")
-
-                    for a in day_soup.find_all("a", href=True):
-                        txt = a.get_text(strip=True)
-                        if not time_pattern.search(txt):
-                            continue
-                        name_part = txt.split(":", 1)[1].rsplit(" ", 2)[0].strip()
-                        key = (date_str, name_part)
-                        if key in seen:
-                            continue
-                        seen.add(key)
-                        link = urljoin(BASE_URL, a["href"])
-                        events.append({
-                            "date": date_str,
-                            "event":  f"{name_part}(@hochschulsport_bielefeld)",
-                            "link": link
-                        })
-
-                    event_date += timedelta(days=7)
-
+                if not time_pattern.search(txt):
+                    continue
+    
+                # Event-Name extrahieren
+                name = txt.split(":", 1)[1].rsplit(" ", 2)[0].strip()
+                key = (date_str, name)
+                if key in seen:
+                    continue
+                seen.add(key)
+    
+                events.append({
+                    "date": f"{date_str}(@hochschulsport_bielefeld)",
+                    "event": name,
+                    "link": urljoin(BASE_URL, a["href"])
+                })
 
 
 
