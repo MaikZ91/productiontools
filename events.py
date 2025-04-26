@@ -404,8 +404,8 @@ def scrape_events(base_url):
                 seen.add(key)
     
                 events.append({
-                    "date": f"{date_str}(@hochschulsport_bielefeld)",
-                    "event": name,
+                    "date": date_str,
+                    "event": f"{name}(@hochschulsport_bielefeld)",
                     "link": urljoin(BASE_URL, a["href"])
                 })
 
