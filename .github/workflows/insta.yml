@@ -7,7 +7,7 @@ name: Post events image
 on:
   workflow_dispatch:                # manueller Button
   schedule:
-    - cron: "0 9 * * *"             # 06 UTC = 08 Uhr Berlin (Sommerzeit)
+    - cron: "0 6 * * *"             # 06 UTC = 08 Uhr Berlin (Sommerzeit)
 
 jobs:
   post:
