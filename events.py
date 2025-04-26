@@ -396,7 +396,7 @@ def scrape_events(base_url):
                         link = urljoin(BASE_URL, a["href"])
                         events.append({
                             "date": date_str,
-                            "event":  f"{name_part}(@hsp)",
+                            "event":  f"{name_part}(@hochschulsport_bielefeld)",
                             "link": link
                         })
 
