@@ -516,7 +516,7 @@ def add_recurring_events(events, event_name, day_name, base_url, frequency, nth)
 if __name__ == '__main__':
     sources = [
         bielefeld_jetzt, forum, platzhirsch, irish_pub, f2f, sams, movie, nrzp,
-        bunker, stereobielefeld, cafe, arminia
+        bunker, stereobielefeld, cafe, arminia, hsp
     ]
     events = []
     for source in sources:
