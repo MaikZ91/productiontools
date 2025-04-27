@@ -212,12 +212,7 @@ def main():
     if weekday == 6:
         insta_single_post(
             "https://raw.githubusercontent.com/MaikZ91/productiontools/master/Unbenannt3.png",
-            "Werde Partner – Deine Marke in der Bielefelder Community! Erreiche eine aktive Zielgruppe direkt vor Ort und präsentiere dich authentisch:
-            • Premium Event Postings – Deine Events im Rampenlicht
-            • Workshops & Talks – Teile dein Wissen mit engagierten Menschen
-            • Lokale Werbung – Sichtbarkeit für deine Marke in Bielefeld
-            Lass uns gemeinsam etwas bewegen.
-            Jetzt Partner werden – schreib uns!bielefeld #communitypower #netzwerk #eventsbielefeld #localbusiness #kooperation #sichtbarkeit",
+            "Werde Partner – Deine Marke in der Bielefelder Community! Erreiche eine aktive Zielgruppe direkt vor Ort und präsentiere dich authentisch:",
             ig_uid, ig_tok
         )
 
