@@ -209,7 +209,7 @@ def main():
             "Tribe Powerworkout 💪\n Anmeldung in Community, Link in der Bio 🔗",
             ig_uid, ig_tok
         )
-     if weekday == 6:
+    if weekday == 6:
         insta_single_post(
             "https://raw.githubusercontent.com/MaikZ91/productiontools/master/Unbenannt3.png",
             "Werde Partner – Deine Marke in der Bielefelder Community! Erreiche eine aktive Zielgruppe direkt vor Ort und präsentiere dich authentisch:
@@ -223,7 +223,7 @@ def main():
         )
 
 
-    
+
 
 
     print("✅ Bilder hochgeladen:", image_urls)
