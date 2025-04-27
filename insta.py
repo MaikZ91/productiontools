@@ -217,8 +217,7 @@ def main():
             • Workshops & Talks – Teile dein Wissen mit engagierten Menschen
             • Lokale Werbung – Sichtbarkeit für deine Marke in Bielefeld
             Lass uns gemeinsam etwas bewegen.
-            Jetzt Partner werden – schreib uns!
-            #bielefeld #communitypower #netzwerk #eventsbielefeld #localbusiness #kooperation #sichtbarkeit",
+            Jetzt Partner werden – schreib uns!bielefeld #communitypower #netzwerk #eventsbielefeld #localbusiness #kooperation #sichtbarkeit",
             ig_uid, ig_tok
         )
 
