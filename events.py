@@ -26,7 +26,10 @@ stereobielefeld = 'https://stereo-bielefeld.de/programm/'
 cafe = "https://cafeeuropa.de/"
 arminia = "https://www.arminia.de/profis/saison/arminia-spiele"
 cutie = "https://www.instagram.com/cutiebielefeld/?hl=de"
+
 hsp="https://hsp.sport.uni-bielefeld.de/angebote/aktueller_zeitraum/"
+theater= "https://theaterlabor.eu/veranstaltungskalender/"
+vhs= "https://www.vhs-bielefeld.de"
 
 def scrape_events(base_url):
     events = []
@@ -275,32 +278,40 @@ def scrape_events(base_url):
                 'event': event_name,
                 'link': event_link
             })
-
     if base_url == stereobielefeld:
         for event in soup.find_all('div', class_='evo_event_schema'):
             script_tag = event.find('script', type='application/ld+json')
-            if script_tag and script_tag.string:
-                cleaned = script_tag.string.replace('\n', '').replace('\r', '').replace('\t', '')
-                event_name = re.search(r'name": "(.*?)"', cleaned).group(1)
-                start_date_str = re.search(r'startDate": "(.*?)"', cleaned).group(1)
-                url_match = re.search(r'url": "(.*?)"', cleaned)
-                url_extracted = url_match.group(1) if url_match else base_url
-                start_date_str_parts = start_date_str.split('T')
-                date_part = start_date_str_parts[0].split('-')
-                time_part = start_date_str_parts[1]
-                date_part[1] = date_part[1].zfill(2)
-                date_part[2] = date_part[2].zfill(2)
-                timezone_part = time_part[-6:]
-                adjusted_timezone = timezone_part.replace('+2:00', '+02:00').replace('-2:00', '-02:00')
-                formatted_date_str = f"{date_part[0]}-{date_part[1]}-{date_part[2]}T{time_part[:-6]}{adjusted_timezone}"
-                formatted_date_str = formatted_date_str.replace('+1:00', '+01:00')
-                parsed_date = dt.fromisoformat(formatted_date_str)
-                formatted_date = parsed_date.strftime('%a, %d.%m')
-                events.append({
-                    "date": formatted_date,
-                    "event": f"{event_name} (@stereobielefeld)",
-                    "link": url_extracted
-                })
+            if not (script_tag and script_tag.string):
+                continue
+
+            # clean up the JSON-LD blob
+            cleaned = script_tag.string.replace('\n', '').replace('\r', '').replace('\t', '')
+            event_name    = re.search(r'name":\s*"(.*?)"', cleaned).group(1)
+            start_date_ld = re.search(r'startDate":\s*"(.*?)"', cleaned).group(1)
+            url_match     = re.search(r'url":\s*"(.*?)"', cleaned)
+            url_extracted = url_match.group(1) if url_match else base_url
+
+            # split date vs. time+timezone
+            date_part, time_part = start_date_ld.split('T')
+            year, month, day    = date_part.split('-')
+            month = month.zfill(2)
+            day   = day.zfill(2)
+
+            # normalize the timezone offset
+            tz = time_part[-6:]
+            tz = tz.replace('+2:00', '+02:00').replace('-2:00', '-02:00')
+            time_core = time_part[:-6]
+            iso_str   = f"{year}-{month}-{day}T{time_core}{tz}".replace('+1:00', '+01:00')
+
+            # parse via the module name so we don't shadow anything
+            parsed_date   = datetime.datetime.fromisoformat(iso_str)
+            formatted_date = parsed_date.strftime('%a, %d.%m')
+
+            events.append({
+                "date":  formatted_date,
+                "event": f"{event_name} (@stereobielefeld)",
+                "link":  url_extracted
+            })
 
     if base_url == f2f:
         container = soup.find('div', class_='wpf2f-public-widget')
@@ -314,35 +325,43 @@ def scrape_events(base_url):
                     event_name = event['title'].split("in Bielefeld am ")[0].strip()
                     link = event['href']
                     events.append({"date": date, "event": event_name, 'link': link})
-
     if base_url == arminia:
 
         all_divs = soup.find_all("div")
 
-
         for i in range(len(all_divs) - 4):
+            date_block  = all_divs[i]
+            team1_block = all_divs[i + 1]
+            team2_block = all_divs[i + 2]
 
-                date_block = all_divs[i]
-                team1_block = all_divs[i + 1]
-                team2_block = all_divs[i + 2]
+            team1 = team1_block.get_text(strip=True)
+            team2 = team2_block.get_text(strip=True)
 
+            if team1 == "Arminia Bielefeld":
+                datum_raw = date_block.get_text(separator="\n").strip()
+                # e.g.: "Sa, 05.04.2025 19:00"
+                datum     = datum_raw.split("\n")[-1].strip()
 
-                team1 = team1_block.get_text(strip=True)
-                team2 = team2_block.get_text(strip=True)
+                if "2025" in datum:
+                    # Gegner (away team)
+                    gegner = team2
 
-                if team1 == "Arminia Bielefeld":
-                    datum_raw = date_block.get_text(separator="\n").strip()
-                    datum = datum_raw.split("\n")[-1].strip()#
-                    if "2025" in datum:
-                        gegner = team2
-                        datum = datum[4:].strip()
-                        datum_dt = dt.strptime(datum, "%d.%m.%Y %H:%M")
-                        formatted = datum_dt.strftime("%a, %d.%m")
-                        events.append({
-                            "date": formatted,
-                            "event": f"Arminia vs. {gegner}(@arminiaofficial)",
-                            "link": base_url
-                        })
+                    # Remove weekday prefix up to the comma
+                    if "," in datum:
+                        _, date_str = datum.split(",", 1)
+                        date_str = date_str.strip()
+                    else:
+                        date_str = datum
+
+                    # Parse via the datetime module so we don't touch the local dt name
+                    datum_dt = datetime.datetime.strptime(date_str, "%d.%m.%Y %H:%M")
+                    formatted = datum_dt.strftime("%a, %d.%m")
+
+                    events.append({
+                        "date":  formatted,
+                        "event": f"Arminia vs. {gegner} (@arminiaofficial)",
+                        "link":  base_url
+                    })
 
     if base_url == hsp:
                
@@ -409,7 +428,135 @@ def scrape_events(base_url):
                     "link": urljoin(BASE_URL, a["href"])
                 })
 
+    if base_url == theater:
 
+        HEADERS = {
+            "User-Agent": "Mozilla/5.0 (compatible; KreativScraper/1.0)"
+        }
+
+        MONTH_MAP = {
+            "Januar":   1,  "Februar":  2,  "März":     3,
+            "April":    4,  "Mai":      5,  "Juni":     6,
+            "Juli":     7,  "August":   8,  "September":9,
+            "Oktober": 10,  "November":11,  "Dezember":12
+        }
+        WEEKDAY_ABBR = ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"]
+
+        """
+        Parst den Veranstaltungskalender des Theaterlabors Bielefeld und
+        gibt das Datum im Format 'Mo, 28.04' zurück.
+        """
+        url  = base_url
+        resp = requests.get(url, headers=HEADERS, timeout=10)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, "html.parser")
+
+        events = []
+        # Suche alle <h4> mit Link
+        for h4 in soup.select("h4"):
+            a = h4.find("a", href=True)
+            if not a:
+                continue
+
+            # Datum aus vorhergehendem Geschwister-Knoten (Text oder Tag)
+            raw_date = ""
+            for sib in h4.previous_siblings:
+                txt = sib.strip() if isinstance(sib, str) else sib.get_text(strip=True)
+                m = re.match(
+                    rf"^({'|'.join(MONTH_MAP.keys())})\s+(\d{{1,2}}),\s+(\d{{4}})",
+                    txt
+                )
+                if m:
+                    month_name, day, year = m.groups()
+                    month = MONTH_MAP[month_name]
+                    day   = int(day)
+                    year  = int(year)
+                    # renamed to avoid shadowing the imported `dt`
+                    event_dt = datetime(year, month, day)
+                    wd       = WEEKDAY_ABBR[event_dt.weekday()]
+                    raw_date = f"{wd}, {event_dt.day:02d}.{event_dt.month:02d}"
+                    break
+
+            title = a.get_text(strip=True)
+            link  = a["href"]
+            if link.startswith("/"):
+                link = "https://theaterlabor.eu" + link
+
+            events.append({
+                "Event": title,
+                "Date":  raw_date,
+                "Link":  link
+            })
+    if base_url == vhs:
+        WEEKDAY_MAP = {
+        "Mo": "Mo", "Di": "Di", "Mi": "Mi", "Do": "Do",
+        "Fr": "Fr", "Sa": "Sa", "So": "So"
+    }
+        base = base_url
+        url  = base + "/programm"
+        resp = requests.get(url, headers=HEADERS, timeout=10)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, "html.parser")
+
+        seen_links = set()
+        events     = []
+
+        # Wir selektieren nur Kurs-Links, die '/programm/kurs/' enthalten
+        for a in soup.select("a[href*='/programm/kurs/']"):
+            raw_link = a["href"].split("#")[0]  # ohne Anker
+            link = raw_link if raw_link.startswith("http") else base + raw_link
+            if link in seen_links:
+                continue
+            seen_links.add(link)
+
+            raw_text = a.get_text(" ", strip=True)
+            if not raw_text:
+                continue
+
+            # 1) Titel extrahieren (alles vor 'Wann:')
+            m_title = re.match(r"^(.*?)\s*Wann:", raw_text)
+            title = m_title.group(1).strip() if m_title else raw_text
+
+            # 2) Datum versuchen aus Detailseite
+            date_str = ""
+            try:
+                r2 = requests.get(link + "#inhalt", headers=HEADERS, timeout=10)
+                r2.raise_for_status()
+                doc = BeautifulSoup(r2.text, "html.parser")
+                hdr = doc.find(lambda tag: tag.name in ["h2","h3"] and "Termine" in tag.get_text())
+                if hdr:
+                    tbl = hdr.find_next("table")
+                    if tbl:
+                        first_td = tbl.find("td")
+                        if first_td:
+                            raw = first_td.get_text(strip=True)  # z.B. "13.01.2025"
+                            m = re.match(r"(\d{1,2})\.(\d{1,2})\.(\d{2,4})", raw)
+                            if m:
+                                d, mth, yr = map(int, m.groups())
+                                if yr < 100: yr += 2000
+                                dt = datetime(yr, mth, d)
+                                date_str = f"{WEEKDAYS[dt.weekday()]}, {dt.day:02d}.{dt.month:02d}"
+            except Exception:
+                pass
+
+            # 3) Fallback: Datum per Regex aus raw_text
+            if not date_str:
+                # Muster: "Wann: ab Mo. , 13.01.25, 17.30 Uhr"
+                m_date = re.search(
+                    r"Wann:.*?(Mo|Di|Mi|Do|Fr|Sa|So)\.?\s*,\s*(\d{1,2})\.(\d{1,2})\.(\d{2})",
+                    raw_text
+                )
+                if m_date:
+                    wd_abbr, d, mth, yy = m_date.groups()
+                    day, month, year = int(d), int(mth), 2000 + int(yy)
+                    dt = datetime(year, month, day)
+                    date_str = f"{wd_abbr}, {day:02d}.{month:02d}"
+
+            events.append({
+                "Event": title,
+                "Date":  date_str,
+                "Link":  link
+            })
 
 
     if base_url in [movie, platzhirsch, irish_pub]:
