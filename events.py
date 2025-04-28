@@ -430,7 +430,7 @@ def scrape_events(base_url):
 
     if base_url == theater:
 
-        HEADERS = {
+        theater_headers = {
             "User-Agent": "Mozilla/5.0 (compatible; KreativScraper/1.0)"
         }
 
@@ -442,23 +442,16 @@ def scrape_events(base_url):
         }
         WEEKDAY_ABBR = ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"]
 
-        """
-        Parst den Veranstaltungskalender des Theaterlabors Bielefeld und
-        gibt das Datum im Format 'Mo, 28.04' zurück.
-        """
-        url  = base_url
-        resp = requests.get(url, headers=HEADERS, timeout=10)
+        resp = requests.get(base_url, headers=theater_headers, timeout=10)
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, "html.parser")
 
         events = []
-        # Suche alle <h4> mit Link
         for h4 in soup.select("h4"):
             a = h4.find("a", href=True)
             if not a:
                 continue
 
-            # Datum aus vorhergehendem Geschwister-Knoten (Text oder Tag)
             raw_date = ""
             for sib in h4.previous_siblings:
                 txt = sib.strip() if isinstance(sib, str) else sib.get_text(strip=True)
@@ -471,8 +464,8 @@ def scrape_events(base_url):
                     month = MONTH_MAP[month_name]
                     day   = int(day)
                     year  = int(year)
-                    # renamed to avoid shadowing the imported `dt`
-                    event_dt = datetime(year, month, day)
+                    # ← use dt, not datetime
+                    event_dt = dt(year, month, day)
                     wd       = WEEKDAY_ABBR[event_dt.weekday()]
                     raw_date = f"{wd}, {event_dt.day:02d}.{event_dt.month:02d}"
                     break
@@ -487,14 +480,20 @@ def scrape_events(base_url):
                 "Date":  raw_date,
                 "Link":  link
             })
+
+
     if base_url == vhs:
-        WEEKDAY_MAP = {
-        "Mo": "Mo", "Di": "Di", "Mi": "Mi", "Do": "Do",
-        "Fr": "Fr", "Sa": "Sa", "So": "So"
-    }
+        # German weekday abbreviations for strftime-like lookup
+        WEEKDAY_ABBR = ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"]
+
+        # Only used in this branch
+        vhs_headers = {
+            "User-Agent": "Mozilla/5.0 (compatible; KreativScraper/1.0)"
+        }
+
         base = base_url
         url  = base + "/programm"
-        resp = requests.get(url, headers=HEADERS, timeout=10)
+        resp = requests.get(url, headers=vhs_headers, timeout=10)
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, "html.parser")
 
@@ -520,7 +519,7 @@ def scrape_events(base_url):
             # 2) Datum versuchen aus Detailseite
             date_str = ""
             try:
-                r2 = requests.get(link + "#inhalt", headers=HEADERS, timeout=10)
+                r2 = requests.get(link + "#inhalt", headers=vhs_headers, timeout=10)
                 r2.raise_for_status()
                 doc = BeautifulSoup(r2.text, "html.parser")
                 hdr = doc.find(lambda tag: tag.name in ["h2","h3"] and "Termine" in tag.get_text())
@@ -533,9 +532,11 @@ def scrape_events(base_url):
                             m = re.match(r"(\d{1,2})\.(\d{1,2})\.(\d{2,4})", raw)
                             if m:
                                 d, mth, yr = map(int, m.groups())
-                                if yr < 100: yr += 2000
-                                dt = datetime(yr, mth, d)
-                                date_str = f"{WEEKDAYS[dt.weekday()]}, {dt.day:02d}.{dt.month:02d}"
+                                if yr < 100:
+                                    yr += 2000
+                                # use `dt` (the datetime class), not the module
+                                event_dt = dt(yr, mth, d)
+                                date_str = f"{WEEKDAY_ABBR[event_dt.weekday()]}, {event_dt.day:02d}.{event_dt.month:02d}"
             except Exception:
                 pass
 
@@ -549,8 +550,9 @@ def scrape_events(base_url):
                 if m_date:
                     wd_abbr, d, mth, yy = m_date.groups()
                     day, month, year = int(d), int(mth), 2000 + int(yy)
-                    dt = datetime(year, month, day)
-                    date_str = f"{wd_abbr}, {day:02d}.{month:02d}"
+                    # again, use `dt` for the class
+                    event_dt = dt(year, month, day)
+                    date_str = f"{wd_abbr}, {event_dt.day:02d}.{event_dt.month:02d}"
 
             events.append({
                 "Event": title,
@@ -663,7 +665,7 @@ def add_recurring_events(events, event_name, day_name, base_url, frequency, nth)
 if __name__ == '__main__':
     sources = [
         bielefeld_jetzt, forum, platzhirsch, irish_pub, f2f, sams, movie, nrzp,
-        bunker, stereobielefeld, cafe, arminia, theater, vhs
+        bunker, stereobielefeld, cafe, arminia, hsp, theater, vhs
     ]
     events = []
     for source in sources:
