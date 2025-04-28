@@ -21,6 +21,7 @@ CARD_BG   = (250,250,250)
 TXT_COL   = (0,0,0)
 TITLECOL  = (255,255,255)
 MAX_PER_IMG = 6
+MIN_H         = 1080 
 
 def font(pt:int):
     """Robuster Font-Loader: Arial → DejaVu → Bitmap"""
