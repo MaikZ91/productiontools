@@ -216,7 +216,11 @@ def main():
     if weekday == 0:
         insta_single_post(
             "https://raw.githubusercontent.com/MaikZ91/productiontools/master/ChatGPT%20Image%20Apr%2024%2C%202025%2C%2012_58_30%20PM.png",
-            "TUESDAY RUN 💪\n Anmeldung in Community, Link in der Bio🔗",
+            """TRIBE TUESDAY RUN 💪
+            Jeden Dienstag, 18 Uhr | Gellershagen Park (am Teich)
+            Gemeinsam laufen, motivieren & Spaß haben.
+            Anmeldung in der WhatsApp Community (-> Wöchentliche Umfrage), Link in der Bio🔗
+            #TheTribe #Laufen #TuesdayRun #LiebefeldEvents""",
             ig_uid, ig_tok
         )
     if weekday == 2:
