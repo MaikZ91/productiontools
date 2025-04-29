@@ -245,9 +245,9 @@ def main():
         )
 
     day = datetime.now(tz).day
-    if day in (1, 15):
+    if day in (2, 16):
         insta_single_post(
-            "https://raw.githubusercontent.com/MaikZ91/productiontools/master/media/1.PNG",
+            "https://raw.githubusercontent.com/MaikZ91/productiontools/master/media/Kennenlernen.PNG",
             "TRIBE KENNENLERNABEND - Anmeldung in der Whats App Community",
             ig_uid, ig_tok
         )
