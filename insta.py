@@ -236,6 +236,14 @@ def main():
             ig_uid, ig_tok
         )
 
+    day = datetime.now(tz).day
+    if day in (1, 15):
+        insta_single_post(
+            "https://raw.githubusercontent.com/MaikZ91/productiontools/master/media/1.png",
+            "TRIBE CREATIVE CIRCLE - Dein Talent, deine Bühne. Jeden letzten Fr im Monat. Anmeldung in der Whats App Community",
+            ig_uid, ig_tok
+        )
+
 
 
 
