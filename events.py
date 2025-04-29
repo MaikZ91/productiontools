@@ -445,8 +445,6 @@ def scrape_events(base_url):
         resp = requests.get(base_url, headers=theater_headers, timeout=10)
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, "html.parser")
-
-        events = []
         for h4 in soup.select("h4"):
             a = h4.find("a", href=True)
             if not a:
@@ -476,9 +474,9 @@ def scrape_events(base_url):
                 link = "https://theaterlabor.eu" + link
 
             events.append({
-                "Event": title,
-                "Date":  raw_date,
-                "Link":  link
+                "event": title,
+                "date":  raw_date,
+                "link":  link
             })
 
 
@@ -498,7 +496,6 @@ def scrape_events(base_url):
         soup = BeautifulSoup(resp.text, "html.parser")
 
         seen_links = set()
-        events     = []
 
         # Wir selektieren nur Kurs-Links, die '/programm/kurs/' enthalten
         for a in soup.select("a[href*='/programm/kurs/']"):
@@ -555,9 +552,9 @@ def scrape_events(base_url):
                     date_str = f"{wd_abbr}, {event_dt.day:02d}.{event_dt.month:02d}"
 
             events.append({
-                "Event": title,
-                "Date":  date_str,
-                "Link":  link
+                "event": title,
+                "date":  date_str,
+                "link":  link
             })
 
 
@@ -665,8 +662,7 @@ def add_recurring_events(events, event_name, day_name, base_url, frequency, nth)
 if __name__ == '__main__':
     sources = [
         bielefeld_jetzt, forum, platzhirsch, irish_pub, f2f, sams, movie, nrzp,
-        bunker, stereobielefeld, cafe, arminia, hsp
-        #vhs,theater
+        bunker, stereobielefeld, cafe, arminia, hsp, vhs,theater
     ]
     events = []
     for source in sources:
