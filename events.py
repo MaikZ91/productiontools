@@ -474,7 +474,7 @@ def scrape_events(base_url):
                 link = "https://theaterlabor.eu" + link
 
             events.append({
-                "event": title,
+                "event": f"{title}(@theaterlaborbielefeld)",
                 "date":  raw_date,
                 "link":  link
             })
@@ -552,7 +552,7 @@ def scrape_events(base_url):
                     date_str = f"{wd_abbr}, {event_dt.day:02d}.{event_dt.month:02d}"
 
             events.append({
-                "event": title,
+                "event": f"{title}(@volkshochschule.bielefeld)",
                 "date":  date_str,
                 "link":  link
             })
