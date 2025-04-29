@@ -239,7 +239,7 @@ def main():
     day = datetime.now(tz).day
     if day in (1, 15):
         insta_single_post(
-            "https://raw.githubusercontent.com/MaikZ91/productiontools/master/media/1.PNG",
+            "https://raw.githubusercontent.com/MaikZ91/productiontools/master/media/Craetive.PNG",
             "TRIBE CREATIVE CIRCLE - Dein Talent, deine Bühne. Jeden letzten Fr im Monat. Anmeldung in der Whats App Community",
             ig_uid, ig_tok
         )
