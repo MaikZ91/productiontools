@@ -125,7 +125,8 @@ def main():
     tz=pytz.timezone("Europe/Berlin")
     dm=datetime.now(tz).strftime("%d.%m")
     raw=requests.get(URL,timeout=10).text
-    events=[e for e in json.loads(raw) if e.get("date","?").endswith(dm) and "hochschulsport" not in e.get("event","").lower()]
+    #events=[e for e in json.loads(raw) if e.get("date","?").endswith(dm) and "hochschulsport" not in e.get("event","").lower()]
+    events = [e for e in json.loads(raw) if e.get("date","?").endswith(dm)]
     gh_repo=os.getenv("GITHUB_REPOSITORY");gh_tok=os.getenv("GITHUB_TOKEN")
     save_daily_json(events,gh_repo,gh_tok)
     chunks=[events[i:i+MAX_PER_IMG] for i in range(0,len(events),MAX_PER_IMG)]
