@@ -565,7 +565,7 @@ def scrape_events(base_url):
             add_recurring_events(events, "Afterwork Party (@platzhirschbielefeld)", "THURSDAY", platzhirsch, 'weekly', None)
         elif base_url == irish_pub:
             add_recurring_events(events, "Pub Quiz (@irish_pub_bielefeld)", "MONDAY", irish_pub, 'weekly', None)
-            add_recurring_events(events, "Art Night (@loom_bielefeld)", "WEDNESDAY",'https://www.loom-bielefeld.de/events/mini-artnight-e49416/', 'weekly', None)
+            add_recurring_events(events, "Art Night (@loom_bielefeld)", "WEDNESDAY",'https://www.loom-bielefeld.de/events/mini-artnight-e49416/', 'monthly_nth_weekday', 1)
             add_recurring_events(events, "Karaoke (@irish_pub_bielefeld)", "WEDNESDAY", irish_pub, 'weekly', None)
             add_recurring_events(events, "*TRIBE TUESDAY RUN(@GELLERSHAGEN PARK TEICH)*", "TUESDAY",
                                  'https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==',
@@ -576,7 +576,7 @@ def scrape_events(base_url):
             add_recurring_events(events, "*TRIBE KENNENLERNABEND*", "SUNDAY",
                                  'https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==',
                                  'monthly_last', None)
-            add_recurring_events(events, "*TRIBE WANDERSONNTAG*", "SUNDAY", irish_pub, 'monthly_nth_weekday', 2)
+            add_recurring_events(events, "*TRIBE WANDERSAMSTAG*", "SATURDAY", irish_pub, 'monthly_last', None)
             add_recurring_events(events, "*TRIBE CREATIVE CIRCLES*", "FRIDAY",
                                  'https://www.instagram.com/reel/DBwDGB9IL3_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==',
                                  'monthly_last', None)
