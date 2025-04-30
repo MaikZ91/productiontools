@@ -4,6 +4,7 @@ from datetime import datetime
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 import os, base64, json, requests, pytz
 from datetime import datetime
+from dateutil.parser import parse
 
 URL = "https://raw.githubusercontent.com/MaikZ91/productiontools/master/events.json"
 W, PAD = 1080, 50
