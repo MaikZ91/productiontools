@@ -90,9 +90,11 @@ def save_daily_json(events: list[dict], repo: str, token: str) -> str:
         if not placed: uncategorized.append(ev)
     if uncategorized: categorized["Sonstige"]=uncategorized
     json_bytes=json.dumps(categorized,ensure_ascii=False,indent=2).encode("utf-8")
-    tz=pytz.timezone("Europe/Berlin")
-    timestamp = datetime.utcnow().strftime("%Y%m%dT%H%M%SZ")
-    path=datetime.now(tz).strftime("f"data/%Y/%m/%d/daily{timestamp}.json")
+    tz = pytz.timezone("Europe/Berlin")
+    now = datetime.now(tz)
+    timestamp = now.strftime("%Y%m%dT%H%M%SZ")
+    path = f"data/{now:%Y/%m/%d}/daily{timestamp}.json"
+
     return gh_upload(json_bytes,repo,token,path)
 
 def insta_single_post(image_url:str,caption:str,uid:str,token:str)->str|None:
