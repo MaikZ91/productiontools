@@ -244,7 +244,7 @@ def main():
             ig_uid, ig_tok
         )
     
-     day = datetime.now(tz).day
+    day = datetime.now(tz).day
     if day in (2, 16):
         insta_single_post(
             "https://raw.githubusercontent.com/MaikZ91/productiontools/master/media/Wandern.PNG",
