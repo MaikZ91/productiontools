@@ -18,9 +18,9 @@ MAX_PER_IMG = 6
 MIN_H = 1080
 
 CATEGORY_MAP = {
-    "Ausgehen": ["Party","Kneipe","Bar","Ausgehen","Konzert","Festival","forum","nrzp","sams","bunker","movie","platzhirsch","irish_pub", "f2f","stereobielefeld","cafe","cutie" ],
+    "Ausgehen": ["Party","Kneipe","Bar","Ausgehen","Konzert","Festival","forum","nrzp","sams","bunker","movie","platzhirsch","irish_pub", "f2f","stereobielefeld","cafe","cutie","Lokschuppen"],
     "Sport": ["Laufen","Fitness","Sport","Yoga","Workout","arminia"],
-    "Kreativität": ["Kurs","Workshop","Lesung","Kreativ","Mal","Musik","Krakeln"]
+    "Kreativität": ["Kurs","Workshop","Lesung","Kreativ","Mal","Musik","Krakeln","alarmtheater"]
 }
 
 def font(pt:int):
