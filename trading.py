@@ -25,15 +25,22 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s: %(mes
 
 def get_price():
     global _last_price_ts, _cached_price
+    # eigener Cache
     if time.time() - _last_price_ts < REFRESH_SEC and _cached_price is not None:
         return _cached_price
+
     try:
         p = yf.Ticker("BTC-USD").fast_info["last_price"]
         _cached_price, _last_price_ts = p, time.time()
         logging.info("BTC/USD price: %.2f", p)
         return p
+
     except Exception as e:
-        logging.warning("%s", e)
+        if "Too Many Requests" in str(e):
+            logging.warning("Yahoo 429 – warte 60 s")
+            time.sleep(60)                      # Back-off
+        else:
+            logging.warning("%s", e)
         return None
 
 def alpaca_order(side, qty):
