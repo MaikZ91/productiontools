@@ -1,173 +1,81 @@
-import yfinance
-import matplotlib.pyplot as plt
-from datetime import datetime
+import os
 import time
-import websocket
-import json
-import alpaca_trade_api as tradeapi
+import logging
 import requests
+import yfinance as yf
 
+ALPACA_KEY = os.getenv("ALPACA_KEY")
+ALPACA_SECRET = os.getenv("ALPACA_SECRET")
+ASSET = "BTC/USD"
+ORDERS_URL = "https://api.alpaca.markets/v2/orders"
 
-api_key = 'AKJ9A771I0NI20D4AX1D'
-api_secret = 'd3DAz3dAavtH6MP8aAYv5mrPDyLHNF8swvzAexNZ'
-url1 = 'wss://stream.data.alpaca.markets/v1beta3/crypto/us'
-url2 = 'https://api.alpaca.markets/v2/orders'
+REFRESH_SEC = 10
+POSITION_BTC = 0.026592695
+SELL_EUR = 0.002
+BUY_EUR = -1000
 
-#1018
+_last_price_ts = 0.0
+_cached_price = None
+start_price = None
+start_value = None
+cashflow = 0.0
+position_btc = POSITION_BTC
 
-anteil =0.026592695
+logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s: %(message)s")
 
-cashflow = 0
-start_price = 100
-start_value = 100
-
-# Lists to store data for plotting
-timestamps = []
-prices = []
-values = []
-cashflows = []
-
-
-def on_message(ws, message):
-    data = json.loads(message)
-    if data and isinstance(data, list) and len(data) > 0:
-        first_element = data[0]
-        if 'T' in first_element and first_element['T'] == 'q' and 'S' in first_element and first_element['S'] == 'BTC/USD' and 'bp' in first_element:
-            current_price = first_element['bp']
-            print(current_price)
-
-def on_error(ws, error):
-    print(f"Error: {error}")
-
-def on_close(ws, close_status_code, close_msg):
-    print("Closed WebSocket connection")
-
-def on_open(ws):
-    auth_message = {"action": "auth", "key": api_key, "secret": api_secret}
-    ws.send(json.dumps(auth_message))
-
-    subscribe_message = {"action": "subscribe", "quotes": ["BTC/USD"]}
-    ws.send(json.dumps(subscribe_message))
-
-def getBitcoin():
-    ws = websocket.WebSocketApp(url1, on_message=on_message, on_error=on_error, on_close=on_close)
-    ws.on_open = on_open
-    ws.run_forever()
-
-def get_gold_price():
+def get_price():
+    global _last_price_ts, _cached_price
+    if time.time() - _last_price_ts < REFRESH_SEC and _cached_price is not None:
+        return _cached_price
     try:
-        bitcoin = yfinance.Ticker('BTC-USD')
-        daten = bitcoin.basic_info
-
-        # Überprüfen, ob 'last_price' im Dictionary vorhanden ist
-        if daten['last_price'] is not None:
-            price = daten['last_price']
-            print(price)
-            return price
-        else:
-            return None
-
+        p = yf.Ticker("BTC-USD").fast_info["last_price"]
+        _cached_price, _last_price_ts = p, time.time()
+        return p
     except Exception as e:
-        print(f"Fehler beim Abrufen des Goldpreises: {e}")
+        logging.warning("%s", e)
         return None
 
-def trade_eat_the_win():
-    global start_price, start_value, anteil, cashflow
+def alpaca_order(side, qty):
+    payload = {"symbol": ASSET, "qty": round(qty, 6), "side": side, "type": "market", "time_in_force": "ioc"}
+    headers = {"APCA-API-KEY-ID": ALPACA_KEY, "APCA-API-SECRET-KEY": ALPACA_SECRET, "Content-Type": "application/json"}
+    try:
+        r = requests.post(ORDERS_URL, headers=headers, json=payload, timeout=10)
+        if r.status_code == 200:
+            logging.info("ORDER %s %.6f", side.upper(), qty)
+        else:
+            logging.error("%s: %s", r.status_code, r.text)
+    except Exception as exc:
+        logging.error("%s", exc)
 
-    current_price = get_gold_price()
-
-    if current_price is not None:
+def run():
+    global start_price, start_value, position_btc, cashflow
+    while True:
+        price = get_price()
+        if price is None:
+            time.sleep(REFRESH_SEC)
+            continue
         if start_price is None:
-            start_price = current_price
-            start_value = start_price * anteil
-            prices.append(start_price)
-            values.append(start_value)
-            cashflows.append(cashflow)
-            timestamps.append(datetime.now())
-
-    if current_price is not None:
-        current_value = current_price * anteil
-        harvest = current_value - start_value
-
-        # Update data for plotting
-        timestamps.append(datetime.now())
-        prices.append(current_price)
-        values.append(current_value)
-        cashflows.append(cashflow)
-
-        if harvest > 0.002:
-            anteil -= harvest / current_price
-
+            start_price = price
+            start_value = price * position_btc
+            logging.info("Init %.2f", price)
+            time.sleep(REFRESH_SEC)
+            continue
+        value = price * position_btc
+        harvest = value - start_value
+        if harvest >= SELL_EUR:
+            delta = harvest / price
+            position_btc -= delta
             cashflow += harvest
-            print("Sell")
-            print("Anteil:", anteil)
-            print("Cashflow:", cashflow)
-            order_data = {"symbol": "BTC/USD", "qty": harvest / current_price, "side": "sell", "type": "market", "time_in_force": "ioc"}
-            headers = {'Apca-Api-Key-Id': api_key,'Apca-Api-Secret-Key': api_secret, 'Content-Type': 'application/json'}
-            response = requests.post(url2, headers=headers, json=order_data)
-            if response.status_code == 200:
-                print("Marktorder erfolgreich platziert und sofort ausgeführt.")
-            else:
-                print(f"Fehler bei der Auftragserteilung. Statuscode: {response.status_code}, Antwort: {response.text}")
-
-        if harvest < -1000:
-            anteil -= harvest / current_price
-
+            alpaca_order("sell", delta)
+        elif harvest <= BUY_EUR:
+            delta = -harvest / price
+            position_btc += delta
             cashflow += harvest
-            print("Buy")
-            print("Anteil:", anteil)
-            print("Cashflow:", cashflow)
-            order_data = {"symbol": "BTC/USD", "qty": -1*(harvest/current_price), "side": "buy", "type": "market", "time_in_force": "ioc"}
-            headers = {'Apca-Api-Key-Id': api_key,'Apca-Api-Secret-Key': api_secret, 'Content-Type': 'application/json'}
-            response = requests.post(url2, headers=headers, json=order_data)
-            if response.status_code == 200:
-               print("Marktorder erfolgreich platziert und sofort ausgeführt.")
-            else:
-              print(f"Fehler bei der Auftragserteilung. Statuscode: {response.status_code}, Antwort: {response.text}")
-
-        #plot_real_time_data()
-
-def plot_real_time_data():
-    plt.clf()  # Clear the current figure
-
-    # Plot current price and value as smaller points in the first subplotc
-    plt.subplot(2, 1, 1)
-    plt.scatter(timestamps, prices, label='Current Price', marker='o', color='blue', s=1)
-    plt.scatter(timestamps, values, label='Current Value', marker='o', color='orange', s=1)
-    plt.title('Real-Time Price and Value')
-    plt.xlabel('Time')
-    plt.ylabel('Value')
-    plt.legend()
-    plt.grid(True)
-
-    # Plot cashflow as smaller points in the second subplot
-    plt.subplot(2, 1, 2)
-    plt.scatter(timestamps, cashflows, label='Cashflow', marker='o', color='green', s=1)
-    plt.title('Real-Time Cashflow')
-    plt.xlabel('Time')
-    plt.ylabel('Cashflow')
-    plt.legend()
-    plt.grid(True)
-
-    plt.tight_layout()
-    plt.draw()  # Redraw the plot
-    plt.pause(0.0001)  # Pause for a short time to allow the plot to update
-
-
-def main():
-
-     while True:
-        trade_eat_the_win()
-        
-
-
-
-
-
-
-##getBitcoin()
-
-
+            alpaca_order("buy", delta)
+        logging.debug("P=%.2f V=%.2f H=%.2f CF=%.2f", price, value, harvest, cashflow)
+        time.sleep(REFRESH_SEC)
 
 if __name__ == "__main__":
-    main()
+    if not ALPACA_KEY or not ALPACA_SECRET:
+        raise RuntimeError("Missing Alpaca keys")
+    run()
