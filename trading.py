@@ -30,7 +30,7 @@ def get_price():
     try:
         p = yf.Ticker("BTC-USD").fast_info["last_price"]
         _cached_price, _last_price_ts = p, time.time()
-        print(p)
+        logging.info("BTC/USD price: %.2f", p)
         return p
     except Exception as e:
         logging.warning("%s", e)
