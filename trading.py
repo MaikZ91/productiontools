@@ -18,8 +18,8 @@ url2 = 'https://api.alpaca.markets/v2/orders'
 anteil =0.026592695
 
 cashflow = 0
-start_price = 1900
-start_value = 1900
+start_price = 100
+start_value = 100
 
 # Lists to store data for plotting
 timestamps = []
