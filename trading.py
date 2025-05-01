@@ -30,6 +30,7 @@ def get_price():
     try:
         p = yf.Ticker("BTC-USD").fast_info["last_price"]
         _cached_price, _last_price_ts = p, time.time()
+        print(p)
         return p
     except Exception as e:
         logging.warning("%s", e)
@@ -66,12 +67,12 @@ def run():
             delta = harvest / price
             position_btc -= delta
             cashflow += harvest
-            alpaca_order("sell", delta)
+            #alpaca_order("sell", delta)
         elif harvest <= BUY_EUR:
             delta = -harvest / price
             position_btc += delta
             cashflow += harvest
-            alpaca_order("buy", delta)
+            #alpaca_order("buy", delta)
         logging.debug("P=%.2f V=%.2f H=%.2f CF=%.2f", price, value, harvest, cashflow)
         time.sleep(REFRESH_SEC)
 
