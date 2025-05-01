@@ -1,7 +1,7 @@
-alpaca-py>=1.9.0        # offizielles Alpaca‑SDK (REST + WS)
-aiohttp                 # asynchrones HTTP‑Polling (News)
-websocket-client        # Fallback‑WS, wird von alpaca‑py gezogen
-transformers>=4.37.0    # FinBERT‑Sentiment
-torch                   # Runtime für Transformers
+alpaca-py>=0.40.0,<1.0
+aiohttp
+websocket-client
+transformers>=4.37.0
+torch
 pandas
-python-dotenv           # lokale .env‑Files, falls gewünscht
+python-dotenv
