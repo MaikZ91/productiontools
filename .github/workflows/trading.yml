@@ -2,8 +2,8 @@ name: run-trading-bot
 
 on:
   workflow_dispatch:        # manueller Start
-  schedule:                 # alle 15 Minuten neu starten
-    - cron: "*/15 * * * *"
+  #schedule:                 # alle 15 Minuten neu starten
+    #- cron: "*/15 * * * *"
 
 jobs:
   trade:
