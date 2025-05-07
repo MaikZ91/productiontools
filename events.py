@@ -575,7 +575,7 @@ def scrape_events(base_url):
                                  'weekly', None)
             add_recurring_events(events, "*TRIBE KENNENLERNABEND*", "SUNDAY",
                                  'https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==',
-                                 'monthly_last', None)
+                                 'weekly', None)
             add_recurring_events(events, "*TRIBE WANDERSAMSTAG*", "SATURDAY", irish_pub, 'monthly_last', None)
             add_recurring_events(events, "*TRIBE CREATIVE CIRCLES*", "FRIDAY",
                                  'https://www.instagram.com/reel/DBwDGB9IL3_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==',
