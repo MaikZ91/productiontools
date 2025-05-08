@@ -71,7 +71,7 @@ def build_image(events: List[dict], date_label: str | None = None) -> Image.Imag
     dm = date_label or datetime.now(tz).strftime("%d.%m")
     header = Image.new("RGBA", (W-2*PAD, HBAR), (255,255,255,40))
     base.paste(header, (PAD, PAD+y_off), header)
-    draw.text((PAD*1.5, PAD+35+y_off), f"Events in Bielefeld – {dm}", font=_font(60), fill=TITLE_COL)
+    draw.text((PAD*1.5, PAD+35+y_off), f"Events in Bielefeld – {dm}", font=font(60), fill=TITLE_COL)
 
     # Event-Karten zeichnen
     y = PAD + HBAR + PAD + y_off
