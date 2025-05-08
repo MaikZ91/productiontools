@@ -165,6 +165,12 @@ def weekend_post():
         insta_single_post(urls[0], caption, uid, tok)
     else:
         insta_carousel_post(urls, caption, uid, tok)
+    pid = (
+        insta_single_post(urls[0], caption, uid, tok_ig)
+        if len(urls) == 1
+        else insta_carousel_post(urls, caption, uid, tok_ig)
+    )
+    print("🎉 Weekend‑Post ID:", pid)
 
 def main():
     global events
