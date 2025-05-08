@@ -67,6 +67,7 @@ def build_image(events: List[dict], date_label: str | None = None) -> Image.Imag
         draw.line([(0, y), (W, y)], fill=c)
 
     # Datum verwenden, das dir übergeben wurde
+    tz=pytz.timezone('Europe/Berlin')
     dm = date_label or datetime.now(tz).strftime("%d.%m")
     header = Image.new("RGBA", (W-2*PAD, HBAR), (255,255,255,40))
     base.paste(header, (PAD, PAD+y_off), header)
