@@ -24,8 +24,7 @@ jobs:
 
       # 3) Abhängigkeiten
       - name: Install Python deps
-        run: pip install --upgrade pip
-             pip install Pillow requests pytz matplotlib moviepy
+        run: pip install Pillow requests pytz matplotlib moviepy
       # 4) Debug-Step – prüft, ob alle Variablen gesetzt sind
       - name: Debug env variables
         env:
