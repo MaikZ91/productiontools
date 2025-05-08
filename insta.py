@@ -5,11 +5,19 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter
 import os, base64, json, requests, pytz
 from datetime import datetime
 from dateutil.parser import parse
-from typing import List
+from typing import List, Optional
 from io import BytesIO
+from __future__ import annotations
+import numpy as np
+from pathlib import Path
+from moviepy.editor import VideoFileClip, CompositeVideoClip, ImageClip
 
 
 URL = "https://raw.githubusercontent.com/MaikZ91/productiontools/master/events.json"
+GITHUB_VIDEO_URL = (
+    "https://raw.githubusercontent.com/MaikZ91/productiontools/master/"
+    "media/3188890-hd_1920_1080_25fps.mp4"
+)
 W, PAD = 1080, 50
 HBAR = 140
 CARD_H = 110
@@ -20,6 +28,11 @@ TXT_COL = (0,0,0)
 TITLE_COL = (255,255,255)
 MAX_PER_IMG = 6
 MIN_H = 1080
+FONT_SIZE = 60
+TITLE_FONT_SIZE = 80
+MAX_PER_SLIDE = 6
+SLIDE_DURATION = 5  # Sekunden pro Overlay
+FPS = 24
 
 CATEGORY_MAP = {
     "Ausgehen": ["Party","Kneipe","Bar","Ausgehen","Konzert","Festival","forum","nrzp","sams","bunker","movie","platzhirsch","irish_pub", "f2f","stereobielefeld","cafe","cutie","Lokschuppen"],
@@ -189,6 +202,68 @@ def weekend_post():
     else insta_carousel_post(urls, caption, uid, tok)
     )
     print("🎉 Weekend-Post ID:", pid)
+    
+def build_overlay(events: List[dict], title: str) -> Image.Image:
+    """Erzeuge ein transparentes PNG mit Titel und Text der Events."""
+    img = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    draw = ImageDraw.Draw(img)
+    # Titel zeichnen
+    ft_title = font(TITLE_FONT_SIZE)
+    bbox = draw.textbbox((0, 0), title, font=ft_title)
+    w_title = bbox[2] - bbox[0]
+    h_title = bbox[3] - bbox[1]
+    x_title = (W - w_title) // 2
+    draw.text((x_title, PAD), title, font=ft_title, fill=TXT_COL)
+
+    # Events darunter
+    y_offset = PAD + h_title + PAD
+    ft = font(FONT_SIZE)
+    ascent, descent = ft.getmetrics()
+    line_h = ascent + descent
+    y = y_offset
+    for ev in events or [{"event": "Keine Events gefunden"}]:
+        text = ev.get("event", "")
+        draw.text((PAD, y), text, font=ft, fill=TXT_COL)
+        y += line_h + PAD
+    return img
+
+def daily_video_save(output_path: Optional[str] = None) -> str:
+    """Erzeuge das Video mit Titel und speichere es lokal. Gibt den Pfad zurück."""
+    tz = pytz.timezone("Europe/Berlin")
+    dm = datetime.now(tz)
+    date_label = dm.strftime("%d.%m.%Y")
+    title = f"Events heute – {date_label}"
+
+    all_events = json.loads(requests.get(URL, timeout=10).text)
+    events = [e for e in all_events if e.get("date", "").endswith(dm.strftime("%d.%m"))]
+    chunks = [events[i:i+MAX_PER_SLIDE] for i in range(0, len(events), MAX_PER_SLIDE)] or [[]]
+
+    base_clip = VideoFileClip(GITHUB_VIDEO_URL)
+    overlays = []
+    start = 0.0
+    for chunk in chunks:
+        img = build_overlay(chunk, title)
+        arr = np.array(img)
+        oc = (ImageClip(arr)
+              .set_start(start)
+              .set_duration(SLIDE_DURATION)
+              .set_fps(FPS)
+              .set_position("center")
+        )
+        overlays.append(oc)
+        start += SLIDE_DURATION
+
+    final = CompositeVideoClip([base_clip] + overlays)
+
+    if output_path is None:
+        output_path = "events_video.mp4"
+    final.write_videofile(output_path, codec="libx264", fps=FPS, audio=False, verbose=False, logger=None)
+
+    print(f"✅ Video gespeichert unter: {output_path}")
+    return output_path
+
+
+
 
 def main():
     global events
@@ -222,6 +297,7 @@ def main():
     if day in (1,15):insta_single_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/media/Craetive.jpg","TRIBE CREATIVE CIRCLE - Dein Talent, deine Bühne. Jeden letzten Fr im Monat. Anmeldung in der Whats App Community",ig_uid,ig_tok)
     if day in (2,16):insta_single_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/media/Wandern.jpg","TRIBE WANDERSAMSTAG - Immer am letzten Samstag im Monat. Anmeldung in der Whats App Community",ig_uid,ig_tok)
     if day in (3,17):insta_single_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/media/Kennenlernen.jpg","TRIBE KENNENLERNABEND - Immer am letzten Sonntag im Monat. Anmeldung in der Whats App Community",ig_uid,ig_tok)
+    daily_video_save()
     print("✅ Bilder hochgeladen:",image_urls)
 
 if __name__=="__main__":main()
