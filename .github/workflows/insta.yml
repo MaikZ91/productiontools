@@ -22,77 +22,25 @@ jobs:
         with:
           python-version: "3.11"
 
-      # 3) Debug: Welches Python & Pip?
-      - name: Debug Python & Pip
-        run: |
-          echo "Python executable: $(which python)"
-          python --version
-          echo "Pip executable: $(which pip)"
-          pip --version
-
-      # 4) System-Abhängigkeiten installieren (ffmpeg für MoviePy)
-      - name: Install system deps
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y ffmpeg
-
-      # 5) Python-Abhängigkeiten (mit python -m pip)
+      # 3) Abhängigkeiten
       - name: Install Python deps
-        run: |
-          python -m pip install --upgrade pip
-          python -m pip install Pillow requests pytz matplotlib moviepy
-
-      # 6) Debug: site-packages & Import-Test
-      - name: Debug site-packages & imports
-        run: |
-          python - << 'EOF'
-import sys, os, glob
-from distutils.sysconfig import get_python_lib
-import pkg_resources
-
-print("Python executable:", sys.executable)
-print("sys.path:")
-for p in sys.path:
-    print("  ", p)
-site = get_python_lib()
-print("site-packages dir:", site)
-print("moviepy-Ordner(en):", glob.glob(os.path.join(site, "moviepy*")))
-
-print("\nInstalled packages containing 'moviepy':")
-for p in pkg_resources.working_set:
-    if "moviepy" in p.project_name.lower():
-        print(" ", p)
-
-print("\nTrying imports…")
-try:
-    import moviepy
-    print("✅ import moviepy OK, version:", moviepy.__version__)
-except Exception as e:
-    print("❌ import moviepy failed:", e)
-
-try:
-    from moviepy.editor import VideoFileClip
-    print("✅ import moviepy.editor OK")
-except Exception as e:
-    print("❌ import moviepy.editor failed:", e)
-EOF
-
-      # 7) Debug-Step – prüft, ob alle Variablen gesetzt sind
+        run: pip install Pillow requests pytz matplotlib moviepy
+      # 4) Debug-Step – prüft, ob alle Variablen gesetzt sind
       - name: Debug env variables
         env:
-          GITHUB_TOKEN:    ${{ secrets.PAT_TOKEN }}        # dein PAT
-          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}  # bereits angelegt
-          IG_USER_ID:      ${{ secrets.IG_USER_ID }}       # bereits angelegt
+          GITHUB_TOKEN:   ${{ secrets.PAT_TOKEN }}        # ← dein PAT
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }} # bereits angelegt
+          IG_USER_ID:      ${{ secrets.IG_USER_ID }}      # bereits angelegt
         run: |
           echo "🔎 Prüfe erforderliche ENV-Variablen:"
           for V in GITHUB_TOKEN GITHUB_REPOSITORY IG_ACCESS_TOKEN IG_USER_ID; do
             [ -n "${!V}" ] && echo "$V = ✅ gesetzt" || echo "$V = ❌ fehlt!"
           done
 
-      # 8) Bild generieren, ins Repo laden & auf Instagram posten
+      # 5) Bild generieren, ins Repo laden & auf Instagram posten
       - name: Generate, upload & post image
         env:
-          GITHUB_TOKEN:    ${{ secrets.PAT_TOKEN }}
+          GITHUB_TOKEN:   ${{ secrets.PAT_TOKEN }}        # PAT → insta.py
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID:      ${{ secrets.IG_USER_ID }}
         run: python insta.py
