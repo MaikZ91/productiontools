@@ -49,7 +49,7 @@ def build_image(events: List[dict], date_label: str | None = None):
     draw = ImageDraw.Draw(base)
     red_grad(draw,H)
     tz=pytz.timezone("Europe/Berlin")
-    dm=datetime.now(tz).strftime("%d.%m")
+    dm = date_label or datetime.now(tz).strftime("%d.%m")
     header=Image.new("RGBA",(W-2*PAD,HBAR),(255,255,255,40))
     base.paste(header,(PAD,PAD+y_offset),header)
     draw.text((PAD*1.5,PAD+35+y_offset),f"Events in Bielefeld – {dm}",font=font(60),fill=TITLE_COL)
@@ -161,16 +161,12 @@ def weekend_post():
     caption = "\n".join(caption)
 
     uid, tok = os.getenv("IG_USER_ID"), os.getenv("IG_ACCESS_TOKEN")
-    if len(urls) == 1:
-        insta_single_post(urls[0], caption, uid, tok)
-    else:
-        insta_carousel_post(urls, caption, uid, tok)
     pid = (
-        insta_single_post(urls[0], caption, uid, tok_ig)
-        if len(urls) == 1
-        else insta_carousel_post(urls, caption, uid, tok_ig)
+    insta_single_post(urls[0], caption, uid, tok)
+    if len(urls) == 1
+    else insta_carousel_post(urls, caption, uid, tok)
     )
-    print("🎉 Weekend‑Post ID:", pid)
+    print("🎉 Weekend-Post ID:", pid)
 
 def main():
     global events
