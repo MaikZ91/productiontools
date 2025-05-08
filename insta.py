@@ -27,7 +27,7 @@ CATEGORY_MAP = {
     "Kreativität": ["Kurs","Workshop","Lesung","Kreativ","Mal","Musik","Krakeln","alarmtheater"]
 }
 
-def _font(pt:int):
+def font(pt:int):
     for name in ("arialbd.ttf","arial.ttf"):  
         try: return ImageFont.truetype(name, pt)
         except OSError: pass
@@ -83,9 +83,9 @@ def build_image(events: List[dict], date_label: str | None = None) -> Image.Imag
         base.paste(card, (PAD, y), mask)
 
         txt = ev.get("event", "")
-        bbox = draw.textbbox((0,0), txt, font=_font(34))
+        bbox = draw.textbbox((0,0), txt, font=font(34))
         th = bbox[3] - bbox[1]
-        draw.text((PAD*2, y + (ch - th)//2), txt, font=_font(34), fill=TXT_COL)
+        draw.text((PAD*2, y + (ch - th)//2), txt, font=font(34), fill=TXT_COL)
         y += ch + PAD
 
     return base
