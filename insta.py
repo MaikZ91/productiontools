@@ -10,7 +10,7 @@ from typing import List, Optional
 from io import BytesIO
 import numpy as np
 from pathlib import Path
-import moviepy
+from moviepy import moviepy.editor
 from moviepy.editor import VideoFileClip, CompositeVideoClip, ImageClip
 
 
