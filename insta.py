@@ -38,7 +38,7 @@ def red_grad(d,h):
         c=tuple(int(RED_TOP[i]*(1-t)+RED_BOT[i]*t) for i in range(3))
         d.line([(0,y),(W,y)],fill=c)
 
-def build_image(events: list[dict]) -> Image.Image:
+def build_image(events: List[dict], date_label: str | None = None):
     n = max(len(events),1)
     content_H = PAD+HBAR+PAD + n*CARD_H + max(n-1,0)*PAD + PAD
     H = max(content_H, MIN_H)
