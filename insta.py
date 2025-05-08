@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 import requests, json, pytz, io, base64, os, time
-from datetime import datetime
+from datetime import datetime,timedelta
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 import os, base64, json, requests, pytz
 from datetime import datetime
 from dateutil.parser import parse
+from typing import List
 
 URL = "https://raw.githubusercontent.com/MaikZ91/productiontools/master/events.json"
 W, PAD = 1080, 50
@@ -122,7 +123,37 @@ def insta_carousel_post(image_urls:list[str],caption:str,uid:str,token:str)->str
     r2=requests.post(f"{base}/media_publish",data={"creation_id":carousel_cid,"access_token":token},timeout=20)
     return r2.json().get("id")
 
+def weekend_post():
+    tz=pytz.timezone("Europe/Berlin")
+    today=datetime.now(tz)
+    friday=today+timedelta(days=(4-today.weekday())%7)
+    days=[friday+timedelta(days=i) for i in range(3)]
+    def events_for(d:datetime)->List[dict]:
+        k=d.strftime("%d.%m")
+        return [e for e in events if e.get("date","").endswith(k) and "hochschulsport" not in e.get("event","").lower()]
+    events=[events_for(d) for d in days]
+    try: save_daily_json
+    except NameError: pass
+    else: save_daily_json(sum(events,[]),os.getenv("GITHUB_REPOSITORY"),os.getenv("GITHUB_TOKEN"))
+    urls=[]
+    for d,ev in zip(days,events):
+        img=build_image(ev,d.strftime("%d.%m"))
+        from io import BytesIO
+        buf=BytesIO();img.save(buf,"JPEG",quality=95)
+        urls.append(gh_upload(buf.getvalue(),os.getenv("GITHUB_REPOSITORY"),os.getenv("GITHUB_TOKEN")))
+    caption=["Weitere Events und Infos findest du in unserer App ➡ Link in Bio 🔗",""]
+    day_names={4:"Fr",5:"Sa",6:"So"}
+    for d,ev in zip(days,events):
+        caption.append(f"{day_names[d.weekday()]} {d.strftime('%d.%m')}:")
+        caption+=[f"• {e.get('event','')}" for e in ev]
+        caption.append("")
+    caption="\n".join(caption)
+    uid=os.getenv("IG_USER_ID");tok=os.getenv("IG_ACCESS_TOKEN")
+    if len(urls)==1: insta_single_post(urls[0],caption,uid,tok)
+    else: insta_carousel_post(urls,caption,uid,tok)
+
 def main():
+    global events
     tz=pytz.timezone("Europe/Berlin")
     dm=datetime.now(tz).strftime("%d.%m")
     raw=requests.get(URL,timeout=10).text
@@ -145,6 +176,7 @@ def main():
     if len(image_urls)==1:print("🎉 IG-Post ID:",insta_single_post(image_urls[0],base_caption,ig_uid,ig_tok))
     else:print("🎉 IG-Carousel ID:",insta_carousel_post(image_urls,base_caption,ig_uid,ig_tok))
     weekday=datetime.now(tz).weekday()
+    if weekday==4:weekend_post() 
     if weekday==0:insta_single_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/ChatGPT%20Image%20Apr%2024%2C%202025%2C%2012_58_30%20PM.png","TRIBE TUESDAY RUN 💪\nJeden Dienstag, 18 Uhr | Gellershagen Park (am Teich)\nGemeinsam laufen, motivieren & Spaß haben.\nAnmeldung in der WhatsApp Community (-> Wöchentliche Umfrage), Link in der Bio🔗","",ig_tok)
     if weekday==2:insta_single_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/Unbenannt.png","Tribe Powerworkout 💪\n Anmeldung in Community, Link in der Bio 🔗",ig_uid,ig_tok)
     if weekday==6:insta_single_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/Unbenannt3.png","Werde Partner – Deine Marke in der Bielefelder Community! Erreiche eine aktive Zielgruppe direkt vor Ort und präsentiere dich authentisch:",ig_uid,ig_tok)
