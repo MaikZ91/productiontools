@@ -122,23 +122,13 @@ def insta_carousel_post(image_urls:list[str],caption:str,uid:str,token:str)->str
     r2=requests.post(f"{base}/media_publish",data={"creation_id":carousel_cid,"access_token":token},timeout=20)
     return r2.json().get("id")
 
-def is_today(date_str: str, tz) -> bool:
-    """True, wenn der (beliebig formatierte) date_str auf *heute* fällt."""
-
-    try:
-        # dayfirst=True → "8.05" oder "08.05" wird korrekt als 8. Mai erkannt.
-        d = parse(date_str, dayfirst=True, fuzzy=True).date()
-        return d == datetime.now(tz).date()
-    except ValueError:
-        return False
-
 def main():
     tz=pytz.timezone("Europe/Berlin")
-    dm=datetime.now(tz).strftime("%d.%m")
+    #dm=datetime.now(tz).strftime("%d.%m")
+    dm_2 = today.strftime("%d.%m")         # "08.05"
+    dm_1 = today.strftime("%-d.%m") 
     raw=requests.get(URL,timeout=10).text
-    events = [e for e in json.loads(raw) if is_today(e.get("date", ""), tz) and "hochschulsport" not in e.get("event", "").lower()]
-
-    #events=[e for e in json.loads(raw) if e.get("date","?").endswith(dm) and "hochschulsport" not in e.get("event","").lower()]
+    #events=[e for e in json.loads(raw) if e.get("date","?").endswith(dm_2, dm_1) and "hochschulsport" not in e.get("event","").lower()]
     #events = [e for e in json.loads(raw) if e.get("date","?").endswith(dm)]
     
 
