@@ -124,11 +124,9 @@ def insta_carousel_post(image_urls:list[str],caption:str,uid:str,token:str)->str
 
 def main():
     tz=pytz.timezone("Europe/Berlin")
-    #dm=datetime.now(tz).strftime("%d.%m")
-    dm_2 = datetime.now(tz).strftime("%d.%m")         # "08.05"
-    dm_1 = datetime.now(tz).strftime("%-d.%m") 
+    dm=datetime.now(tz).strftime("%d.%m")
     raw=requests.get(URL,timeout=10).text
-    events=[e for e in json.loads(raw) if e.get("date","?").endswith(dm_2, dm_1) and "hochschulsport" not in e.get("event","").lower()]
+    events=[e for e in json.loads(raw) if e.get("date","?").endswith(dm) and "hochschulsport" not in e.get("event","").lower()]
     #events = [e for e in json.loads(raw) if e.get("date","?").endswith(dm)]
 
     
