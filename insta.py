@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+from __future__ import annotations
 import requests, json, pytz, io, base64, os, time
 from datetime import datetime,timedelta
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
@@ -7,7 +8,6 @@ from datetime import datetime
 from dateutil.parser import parse
 from typing import List, Optional
 from io import BytesIO
-from __future__ import annotations
 import numpy as np
 from pathlib import Path
 from moviepy.editor import VideoFileClip, CompositeVideoClip, ImageClip
