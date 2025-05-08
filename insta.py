@@ -27,7 +27,7 @@ CATEGORY_MAP = {
     "Kreativität": ["Kurs","Workshop","Lesung","Kreativ","Mal","Musik","Krakeln","alarmtheater"]
 }
 
-def font(pt:int):
+def _font(pt:int):
     for name in ("arialbd.ttf","arial.ttf"):  
         try: return ImageFont.truetype(name, pt)
         except OSError: pass
