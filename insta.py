@@ -49,7 +49,7 @@ def build_image(events: list[dict]) -> Image.Image:
     dm=datetime.now(tz).strftime("%d.%m")
     header=Image.new("RGBA",(W-2*PAD,HBAR),(255,255,255,40))
     base.paste(header,(PAD,PAD+y_offset),header)
-    draw.text((PAD*1.5,PAD+35+y_offset),f"🔥  Events in Bielefeld – {dm}",font=font(60),fill=TITLE_COL)
+    draw.text((PAD*1.5,PAD+35+y_offset),f"Events in Bielefeld – {dm}",font=font(60),fill=TITLE_COL)
     y=PAD+HBAR+PAD+y_offset
     for ev in events or [{"event":"Keine Events gefunden"}]:
         card=Image.new("RGBA",(W-2*PAD,CARD_H),CARD_BG+(255,))
