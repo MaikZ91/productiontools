@@ -123,34 +123,46 @@ def insta_carousel_post(image_urls:list[str],caption:str,uid:str,token:str)->str
     r2=requests.post(f"{base}/media_publish",data={"creation_id":carousel_cid,"access_token":token},timeout=20)
     return r2.json().get("id")
 
+
 def weekend_post():
-    tz=pytz.timezone("Europe/Berlin")
-    today=datetime.now(tz)
-    friday=today+timedelta(days=(4-today.weekday())%7)
-    days=[friday+timedelta(days=i) for i in range(3)]
-    def events_for(d:datetime)->List[dict]:
-        k=d.strftime("%d.%m")
-        return [e for e in events if e.get("date","").endswith(k) and "hochschulsport" not in e.get("event","").lower()]
-    events=[events_for(d) for d in days]
-    try: save_daily_json
-    except NameError: pass
-    else: save_daily_json(sum(events,[]),os.getenv("GITHUB_REPOSITORY"),os.getenv("GITHUB_TOKEN"))
-    urls=[]
-    for d,ev in zip(days,events):
-        img=build_image(ev,d.strftime("%d.%m"))
-        from io import BytesIO
-        buf=BytesIO();img.save(buf,"JPEG",quality=95)
-        urls.append(gh_upload(buf.getvalue(),os.getenv("GITHUB_REPOSITORY"),os.getenv("GITHUB_TOKEN")))
-    caption=["Weitere Events und Infos findest du in unserer App ➡ Link in Bio 🔗",""]
-    day_names={4:"Fr",5:"Sa",6:"So"}
-    for d,ev in zip(days,events):
-        caption.append(f"{day_names[d.weekday()]} {d.strftime('%d.%m')}:")
-        caption+=[f"• {e.get('event','')}" for e in ev]
+    tz = pytz.timezone("Europe/Berlin")
+    today = datetime.now(tz)
+    friday = today + timedelta(days=(4 - today.weekday()) % 7)
+    days = [friday + timedelta(days=i) for i in range(3)]
+
+    all_events = json.loads(requests.get(URL, timeout=10).text)
+
+    def events_for(d: datetime):
+        k = d.strftime("%d.%m")
+        return [e for e in all_events if e.get("date", "").endswith(k)
+                and "hochschulsport" not in e.get("event", "").lower()]
+
+    slides = [events_for(d) for d in days]
+
+    if "save_daily_json" in globals():
+        save_daily_json(sum(slides, []), os.getenv("GITHUB_REPOSITORY"),
+                        os.getenv("GITHUB_TOKEN"))
+
+    repo, token = os.getenv("GITHUB_REPOSITORY"), os.getenv("GITHUB_TOKEN")
+    urls = []
+    for d, ev in zip(days, slides):
+        img = build_image(ev, d.strftime("%d.%m"))
+        buf = BytesIO(); img.save(buf, "JPEG", quality=95)
+        urls.append(gh_upload(buf.getvalue(), repo, token))
+
+    caption = ["Weitere Events und Infos findest du in unserer App ➡ Link in Bio 🔗", ""]
+    names = {4: "Fr", 5: "Sa", 6: "So"}
+    for d, ev in zip(days, slides):
+        caption.append(f"{names[d.weekday()]} {d.strftime('%d.%m')}:")
+        caption += [f"• {e.get('event', '')}" for e in ev]
         caption.append("")
-    caption="\n".join(caption)
-    uid=os.getenv("IG_USER_ID");tok=os.getenv("IG_ACCESS_TOKEN")
-    if len(urls)==1: insta_single_post(urls[0],caption,uid,tok)
-    else: insta_carousel_post(urls,caption,uid,tok)
+    caption = "\n".join(caption)
+
+    uid, tok = os.getenv("IG_USER_ID"), os.getenv("IG_ACCESS_TOKEN")
+    if len(urls) == 1:
+        insta_single_post(urls[0], caption, uid, tok)
+    else:
+        insta_carousel_post(urls, caption, uid, tok)
 
 def main():
     global events
