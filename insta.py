@@ -40,32 +40,53 @@ def red_grad(d,h):
         c=tuple(int(RED_TOP[i]*(1-t)+RED_BOT[i]*t) for i in range(3))
         d.line([(0,y),(W,y)],fill=c)
 
-def build_image(events: List[dict], date_label: str | None = None):
-    n = max(len(events),1)
-    content_H = PAD+HBAR+PAD + n*CARD_H + max(n-1,0)*PAD + PAD
-    H = max(content_H, MIN_H)
-    y_offset = (H-content_H)//2
-    base = Image.new("RGB",(W,H))
+def build_image(events: List[dict], date_label: str | None = None) -> Image.Image:
+    from PIL import ImageDraw, Image
+
+    # Höhe fix auf 1080px
+    H = MIN_H
+
+    # Platz oberhalb und unterhalb für Header + Padding
+    available = H - (PAD + HBAR + PAD + PAD)
+    total_gap = (max(len(events),1) - 1) * PAD
+
+    # Karte-Höhe so groß wie möglich, aber min. 40px
+    ch = max((available - total_gap) // max(len(events),1), 40)
+
+    # vertikale Zentrierung
+    content_h = PAD + HBAR + PAD + len(events)*ch + total_gap + PAD
+    y_off = (H - content_h) // 2
+
+    base = Image.new("RGB", (W, H))
     draw = ImageDraw.Draw(base)
-    red_grad(draw,H)
-    tz=pytz.timezone("Europe/Berlin")
-    dm = date_label or datetime.now(tz).strftime("%d.%m")
-    header=Image.new("RGBA",(W-2*PAD,HBAR),(255,255,255,40))
-    base.paste(header,(PAD,PAD+y_offset),header)
-    draw.text((PAD*1.5,PAD+35+y_offset),f"Events in Bielefeld – {dm}",font=font(60),fill=TITLE_COL)
-    y=PAD+HBAR+PAD+y_offset
+
+    # Hintergrund-Gradient
+    for y in range(H):
+        t = y / (H - 1)
+        c = tuple(int(RED_TOP[i]*(1-t) + RED_BOT[i]*t) for i in range(3))
+        draw.line([(0, y), (W, y)], fill=c)
+
+    # Datum verwenden, das dir übergeben wurde
+    dm = date_label or datetime.now(TZ).strftime("%d.%m")
+    header = Image.new("RGBA", (W-2*PAD, HBAR), (255,255,255,40))
+    base.paste(header, (PAD, PAD+y_off), header)
+    draw.text((PAD*1.5, PAD+35+y_off), f"Events in Bielefeld – {dm}", font=_font(60), fill=TITLE_COL)
+
+    # Event-Karten zeichnen
+    y = PAD + HBAR + PAD + y_off
     for ev in events or [{"event":"Keine Events gefunden"}]:
-        card=Image.new("RGBA",(W-2*PAD,CARD_H),CARD_BG+(255,))
-        card=card.filter(ImageFilter.GaussianBlur(0.5))
-        mask=Image.new("L",card.size,0)
-        ImageDraw.Draw(mask).rounded_rectangle([0,0,*card.size],RADIUS,fill=255)
-        base.paste(card,(PAD,y),mask)
-        txt=ev.get("event","")
-        d=ImageDraw.Draw(base)
-        bbox=d.textbbox((0,0),txt,font=font(34))
-        th=bbox[3]-bbox[1]
-        d.text((PAD*2,y+(CARD_H-th)//2),txt,font=font(34),fill=TXT_COL)
-        y+=CARD_H+PAD
+        card = Image.new("RGBA", (W-2*PAD, ch), CARD_BG+(255,))
+        card = card.filter(ImageFilter.GaussianBlur(0.5))
+        mask = Image.new("L", card.size, 0)
+        ImageDraw.Draw(mask).rounded_rectangle([0,0,*card.size], RADIUS, fill=255)
+        base.paste(card, (PAD, y), mask)
+
+        txt = ev.get("event", "")
+        bbox = draw.textbbox((0,0), txt, font=_font(34))
+        th = bbox[3] - bbox[1]
+        draw.text((PAD*2, y + (ch - th)//2), txt, font=_font(34), fill=TXT_COL)
+        y += ch + PAD
+
     return base
 
 
