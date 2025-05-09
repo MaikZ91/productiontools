@@ -584,7 +584,7 @@ def scrape_events(base_url):
                                  'https://www.instagram.com/reel/DBwDGB9IL3_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==',
                                  'monthly_last', None)
             add_recurring_events(events, "Park Run (@Obersee)", "SATURDAY", "https://www.parkrun.com.de/", 'weekly', None)
-            add_recurring_events(events, "Up Runnning Club (@Venue Coffee)", "SUNDAY", "https://www.parkrun.com.de/", 'weekly', None)
+            add_recurring_events(events, "Up Runnning Club (@Venue Coffee)", "SUNDAY", "https://www.instagram.com/uprunningclub/?hl=de", 'weekly', None)
     return events
 
 def split_dates(date_string):
