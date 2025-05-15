@@ -274,7 +274,8 @@ def daily_video_save(path: str | None = None) -> str:
         video_bytes = f.read()
     os.unlink(tmp.name)
     # Video in das Repo hochladen (videos/YYYY/MM/DD/...)
-    url = gh_upload(video_bytes, repo, token, path=path)
+    path = now.strftime("videos/%Y/%m/%d/%H%M_%S_events.mp4")
+    url = gh_upload(video_bytes, repo, token, path)
     print(f"✅ Video gespeichert im Repo: {url}")
     return url
 
