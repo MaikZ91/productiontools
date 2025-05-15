@@ -107,6 +107,7 @@ def build_image(events: List[dict], date_label: str | None = None) -> Image.Imag
 
 def gh_upload(content_bytes: bytes, repo: str, token: str, path: str | None = None) -> str:
     tz=pytz.timezone("Europe/Berlin")
+    now = datetime.now(tz)
     if path is None:
         # Heuristik: MP4 vs. Bild nach Magic‑Bytes
         if content_bytes.startswith(b"\x00\x00\x00\x18ftyp"):
