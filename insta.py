@@ -31,6 +31,7 @@ TITLE_FONT_SIZE = 80
 MAX_PER_SLIDE = 6
 SLIDE_DURATION = 5  # Sekunden pro Overlay
 FPS = 24
+repo, token = os.getenv("GITHUB_REPOSITORY"), os.getenv("GITHUB_TOKEN")
 
 
 CATEGORY_MAP = {
@@ -226,7 +227,7 @@ def build_overlay(events: List[dict], title: str) -> Image.Image:
         y += line_h + PAD
     return img
 
-def daily_video_save(repo: str, token: str, path: str | None = None) -> str:
+def daily_video_save(path: str | None = None) -> str:
     """Erzeugt das Tages‑Video, lädt es sofort ins GitHub‑Repo hoch und gibt die Raw‑URL zurück."""
     tz = pytz.timezone("Europe/Berlin")
     now = datetime.now(tz)
@@ -266,7 +267,6 @@ def daily_video_save(repo: str, token: str, path: str | None = None) -> str:
     with open(tmp.name, "rb") as f:
         video_bytes = f.read()
     os.unlink(tmp.name)
-    repo, token = os.getenv("GITHUB_REPOSITORY"), os.getenv("GITHUB_TOKEN")
     # Video in das Repo hochladen (videos/YYYY/MM/DD/...)
     url = gh_upload(video_bytes, repo, token, path=path)
     print(f"✅ Video gespeichert im Repo: {url}")
