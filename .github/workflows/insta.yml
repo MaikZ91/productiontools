@@ -1,78 +1,46 @@
-# .github/workflows/insta.yml
+# .github/workflows/post_events_image.yml
+# Lädt Events-Bild ins Repo und postet es auf Instagram.
+# Nutzt dein **PAT_TOKEN** statt des automatisch erzeugten GITHUB_TOKEN.
+
 name: Post events image
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:                # manueller Button
   schedule:
-    - cron: "0 6 * * *"   # 06 UTC ≈ 08 Uhr Berlin
+    - cron: "0 6 * * *"             # 06 UTC = 08 Uhr Berlin (Sommerzeit)
 
 jobs:
   post:
     runs-on: ubuntu-latest
 
     steps:
-      # 0) Repo
+      # 1) Repository auschecken
       - uses: actions/checkout@v4
 
-      # 1) Python
+      # 2) Python 3.11 installieren
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # 2) venv + saubere MoviePy-1.0.3-Installation
-      - name: Create & populate venv
-        shell: bash
-        run: |
-          python -m venv .venv
-          source .venv/bin/activate
-
-          # alles löschen, was 'moviepy' heißt (falls doch noch da)
-          python -m pip uninstall -y moviepy || true
-          sitepkgs=$(python - <<'PY'
-          import sysconfig, json, sys; print(sysconfig.get_paths()["purelib"])
-          PY
-          )
-          rm -rf "$sitepkgs/moviepy" "$sitepkgs"/moviepy-*.dist-info || true
-
-          # Pakete installieren
-          python -m pip install --upgrade pip
-          python -m pip install \
-            Pillow \
-            requests \
-            pytz \
-            matplotlib \
-            moviepy==1.0.3 \
-            imageio-ffmpeg
-
-          # Verifizieren
-          python - <<'PY'
-          import moviepy, pathlib, sys
-          print("moviepy-Version:", moviepy.__version__)
-          print("Pfad:", pathlib.Path(moviepy.__file__).resolve())
-          import moviepy.editor
-          print("✅ moviepy.editor import OK")
-          PY
-
-      # 3) Secrets-Check (optional)
+      # 3) Abhängigkeiten
+      - name: Install Python deps
+        run: pip install Pillow requests pytz matplotlib moviepy==1.0.3 imageio-ffmpeg
+      # 4) Debug-Step – prüft, ob alle Variablen gesetzt sind
       - name: Debug env variables
         env:
-          GITHUB_TOKEN:    ${{ secrets.PAT_TOKEN }}
-          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
-          IG_USER_ID:      ${{ secrets.IG_USER_ID }}
-        shell: bash
+          GITHUB_TOKEN:   ${{ secrets.PAT_TOKEN }}        # ← dein PAT
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }} # bereits angelegt
+          IG_USER_ID:      ${{ secrets.IG_USER_ID }}      # bereits angelegt
         run: |
           echo "🔎 Prüfe erforderliche ENV-Variablen:"
           for V in GITHUB_TOKEN GITHUB_REPOSITORY IG_ACCESS_TOKEN IG_USER_ID; do
             [ -n "${!V}" ] && echo "$V = ✅ gesetzt" || echo "$V = ❌ fehlt!"
           done
 
-      # 4) Skript ausführen
+      # 5) Bild generieren, ins Repo laden & auf Instagram posten
       - name: Generate, upload & post image
-        shell: bash
         env:
-          GITHUB_TOKEN:    ${{ secrets.PAT_TOKEN }}
+          GITHUB_TOKEN:   ${{ secrets.PAT_TOKEN }}        # PAT → insta.py
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID:      ${{ secrets.IG_USER_ID }}
-        run: |
-          source .venv/bin/activate
-          python insta.py
+        run: python insta.py
