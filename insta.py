@@ -367,7 +367,7 @@ def main():
     #if len(image_urls)==1:print("🎉 IG-Post ID:",insta_single_post(image_urls[0],base_caption,ig_uid,ig_tok))
     #else:print("🎉 IG-Carousel ID:",insta_carousel_post(image_urls,base_caption,ig_uid,ig_tok))
     weekday=datetime.now(tz).weekday()
-    if weekday==3:weekend_post() 
+    #if weekday==3:weekend_post() 
     if weekday==0:insta_single_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/ChatGPT%20Image%20Apr%2024%2C%202025%2C%2012_58_30%20PM.png","TRIBE TUESDAY RUN 💪\nJeden Dienstag, 18 Uhr | Gellershagen Park (am Teich)\nGemeinsam laufen, motivieren & Spaß haben.\nAnmeldung in der WhatsApp Community (-> Wöchentliche Umfrage), Link in der Bio🔗","",ig_tok)
     if weekday==2:insta_single_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/Unbenannt.png","Tribe Powerworkout 💪\n Anmeldung in Community, Link in der Bio 🔗",ig_uid,ig_tok)
     if weekday==6:insta_single_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/Unbenannt3.png","Werde Partner – Deine Marke in der Bielefelder Community! Erreiche eine aktive Zielgruppe direkt vor Ort und präsentiere dich authentisch:",ig_uid,ig_tok)
