@@ -20,8 +20,7 @@ jobs:
       # 1) Pakete IMMER über dieselbe Runtime installieren
       - name: Install Python deps
         run: |
-          python -m pip install --upgrade pip
-          python -m pip install Pillow requests pytz matplotlib moviepy>=1.0.3 imageio-ffmpeg
+             pip install -r requirements3.txt 
 
       # 2) Kurz prüfen, ob moviepy wirklich importierbar ist
       - name: Verify moviepy is importable
