@@ -31,7 +31,7 @@ TITLE_FONT_SIZE = 80
 MAX_PER_SLIDE = 6
 SLIDE_DURATION = 5  # Sekunden pro Overlay
 FPS = 24
-repo, token = os.getenv("GITHUB_REPOSITORY"), os.getenv("GITHUB_TOKEN")
+
 
 CATEGORY_MAP = {
     "Ausgehen": ["Party","Kneipe","Bar","Ausgehen","Konzert","Festival","forum","nrzp","sams","bunker","movie","platzhirsch","irish_pub", "f2f","stereobielefeld","cafe","cutie","Lokschuppen"],
@@ -266,7 +266,7 @@ def daily_video_save(repo: str, token: str, path: str | None = None) -> str:
     with open(tmp.name, "rb") as f:
         video_bytes = f.read()
     os.unlink(tmp.name)
-
+    repo, token = os.getenv("GITHUB_REPOSITORY"), os.getenv("GITHUB_TOKEN")
     # Video in das Repo hochladen (videos/YYYY/MM/DD/...)
     url = gh_upload(video_bytes, repo, token, path=path)
     print(f"✅ Video gespeichert im Repo: {url}")
