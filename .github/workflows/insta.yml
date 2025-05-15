@@ -20,7 +20,9 @@ jobs:
       # 1) Pakete IMMER über dieselbe Runtime installieren
       - name: Install Python deps
         run: |
-             pip install -r requirements3.txt 
+              python -m pip install --upgrade pip
+              python -m pip install -r requirements3.txt
+      
 
       # 2) Kurz prüfen, ob moviepy wirklich importierbar ist
       - name: Verify moviepy is importable
