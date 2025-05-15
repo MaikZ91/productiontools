@@ -31,6 +31,7 @@ TITLE_FONT_SIZE = 80
 MAX_PER_SLIDE = 6
 SLIDE_DURATION = 5  # Sekunden pro Overlay
 FPS = 24
+repo, token = os.getenv("GITHUB_REPOSITORY"), os.getenv("GITHUB_TOKEN")
 
 CATEGORY_MAP = {
     "Ausgehen": ["Party","Kneipe","Bar","Ausgehen","Konzert","Festival","forum","nrzp","sams","bunker","movie","platzhirsch","irish_pub", "f2f","stereobielefeld","cafe","cutie","Lokschuppen"],
