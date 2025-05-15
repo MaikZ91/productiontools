@@ -1,52 +1,53 @@
-# .github/workflows/post_events_image.yml
 name: Post events image
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 6 * * *"          # 06 UTC ≈ 08 Uhr Berlin
+    - cron: "0 6 * * *"   # 06 UTC ≅ 08 Uhr Berlin
 
 jobs:
   post:
     runs-on: ubuntu-latest
 
     steps:
-      # 0 Repo
+      # 0) Repository auschecken
       - uses: actions/checkout@v4
 
-      # 1 Python
+      # 1) Python 3.11 bereitstellen
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # 2 venv + saubere MoviePy-Installation
+      # 2) Virtuelle Umgebung + saubere MoviePy-Installation
       - name: Create & populate venv
         shell: bash
         run: |
           python -m venv .venv
           source .venv/bin/activate
 
-          # alte MoviePy-Reste löschen
+          # --- alte MoviePy-Reste entfernen -----------------
           sitepkgs=$(python - <<'PY'
-import site,sys; print(site.getsitepackages()[0])
-PY
+          import site, sys
+          print(site.getsitepackages()[0])
+          PY
           )
           rm -rf "$sitepkgs/moviepy" "$sitepkgs"/moviepy-*.dist-info || true
+          # ---------------------------------------------------
 
-          # Pakete installieren
+          # Pakete installieren (Versionen aus requirements3.txt)
           python -m pip install --upgrade pip
           python -m pip install --no-cache-dir -r requirements3.txt
 
-          # Import-Check
+          # Verifizieren, dass moviepy.editor jetzt importierbar ist
           python - <<'PY'
-import moviepy, pathlib, sys
-print("moviepy-Version:", moviepy.__version__)
-print("Pfad:", pathlib.Path(moviepy.__file__).resolve())
-import moviepy.editor
-print("✅ moviepy.editor import OK")
-PY
+          import moviepy, pathlib, sys
+          print("moviepy-Version:", moviepy.__version__)
+          print("Pfad:", pathlib.Path(moviepy.__file__).resolve())
+          import moviepy.editor
+          print("✅ moviepy.editor import OK")
+          PY
 
-      # 3 Secrets-Check
+      # 3) Secrets prüfen (optional)
       - name: Debug env variables
         env:
           GITHUB_TOKEN:    ${{ secrets.PAT_TOKEN }}
@@ -56,10 +57,14 @@ PY
         run: |
           echo "🔎 Prüfe erforderliche ENV-Variablen:"
           for V in GITHUB_TOKEN GITHUB_REPOSITORY IG_ACCESS_TOKEN IG_USER_ID; do
-            [ -n "${!V}" ] && echo "$V = ✅ gesetzt" || echo "$V = ❌ fehlt!"
+            if [ -n "${!V}" ]; then
+              echo "$V = ✅ gesetzt"
+            else
+              echo "$V = ❌ fehlt!"
+            fi
           done
 
-      # 4 Skript ausführen
+      # 4) Hauptskript ausführen
       - name: Generate, upload & post image
         shell: bash
         env:
