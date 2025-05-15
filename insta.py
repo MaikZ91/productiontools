@@ -15,10 +15,7 @@ from moviepy.editor import VideoFileClip, CompositeVideoClip, ImageClip
 
 
 URL = "https://raw.githubusercontent.com/MaikZ91/productiontools/master/events.json"
-GITHUB_VIDEO_URL = (
-    "https://raw.githubusercontent.com/MaikZ91/productiontools/master/"
-    "media/3188890-hd_1920_1080_25fps.mp4"
-)
+GITHUB_VIDEO_FILE = Path(__file__).resolve().parent / "media" / "3188890-hd_1920_1080_25fps.mp4"
 W, PAD = 1080, 50
 HBAR = 140
 CARD_H = 110
@@ -239,7 +236,7 @@ def daily_video_save(output_path: Optional[str] = None) -> str:
     events = [e for e in all_events if e.get("date", "").endswith(dm.strftime("%d.%m"))]
     chunks = [events[i:i+MAX_PER_SLIDE] for i in range(0, len(events), MAX_PER_SLIDE)] or [[]]
 
-    base_clip = VideoFileClip(GITHUB_VIDEO_URL)
+    base_clip = VideoFileClip(str(GITHUB_VIDEO_FILE), audio=False)
     overlays = []
     start = 0.0
     for chunk in chunks:
