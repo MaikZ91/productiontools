@@ -11,43 +11,77 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Repository auschecken
       - uses: actions/checkout@v4
 
+      # Python 3.11 einrichten
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # 1) Pakete IMMER über dieselbe Runtime installieren
-      - name: Install Python deps
+      # ------------------------------
+      # 0) Guard: brich ab, falls im Repo ein 'moviepy'-Modul liegt
+      # ------------------------------
+      - name: Abort if a local module named "moviepy" exists
         run: |
-              python -m pip install --upgrade pip
-              python -m pip install -r requirements3.txt
-      
+          if [ -e moviepy.py ] || [ -d moviepy ]; then
+            echo "::error::Local file or folder 'moviepy' shadows the pip package."
+            exit 1
+          fi
 
-      # 2) Kurz prüfen, ob moviepy wirklich importierbar ist
+      # ------------------------------
+      # 1) Abhängigkeiten installieren
+      # ------------------------------
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements3.txt
+
+      # ------------------------------
+      # 2) Prüfen, ob moviepy korrekt geladen wird
+      # ------------------------------
       - name: Verify moviepy is importable
         run: |
           python - <<'PY'
-          import moviepy, moviepy.editor, pathlib, sys
-          print("moviepy geladen von:", pathlib.Path(moviepy.__file__).resolve())
+          import pathlib, sys
+          try:
+              import moviepy
+              print("moviepy wurde geladen von:", pathlib.Path(moviepy.__file__).resolve())
+          except Exception as e:
+              sys.stderr.write(f"❌ import moviepy schlug fehl: {e}\n")
+              sys.exit(1)
+          try:
+              import moviepy.editor
+              print("✅ moviepy.editor import OK")
+          except ModuleNotFoundError as e:
+              sys.stderr.write(f"❌ moviepy.editor fehlt: {e}\n")
+              sys.exit(1)
           PY
 
-      # 3) Debug-Ausgabe deiner Secrets
-      - name: Debug env variables
+      # ------------------------------
+      # 3) Debug: erforderliche Secrets ausgegeben
+      # ------------------------------
+      - name: Debug environment variables
         env:
-          GITHUB_TOKEN:   ${{ secrets.PAT_TOKEN }}
+          GITHUB_TOKEN:    ${{ secrets.PAT_TOKEN }}      # Personal Access Token
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID:      ${{ secrets.IG_USER_ID }}
         run: |
           echo "🔎 Prüfe erforderliche ENV-Variablen:"
           for V in GITHUB_TOKEN GITHUB_REPOSITORY IG_ACCESS_TOKEN IG_USER_ID; do
-            [ -n "${!V}" ] && echo "$V = ✅ gesetzt" || echo "$V = ❌ fehlt!"
+            if [ -n "${!V}" ]; then
+              echo "$V = ✅ gesetzt"
+            else
+              echo "$V = ❌ fehlt!"
+            fi
           done
 
-      # 4) Skript ausführen
+      # ------------------------------
+      # 4) Hauptskript ausführen
+      # ------------------------------
       - name: Generate, upload & post image
         env:
-          GITHUB_TOKEN:   ${{ secrets.PAT_TOKEN }}
+          GITHUB_TOKEN:    ${{ secrets.PAT_TOKEN }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID:      ${{ secrets.IG_USER_ID }}
         run: python insta.py
