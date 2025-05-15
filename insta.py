@@ -210,6 +210,7 @@ def weekend_post():
     print("🎉 Weekend-Post ID:", pid)
     
 def build_overlay(events: List[dict], title: str) -> Image.Image:
+    TXT_COL = (255,255,255)
     """Erzeuge ein transparentes PNG mit Titel und Text der Events."""
     img = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     draw = ImageDraw.Draw(img)
@@ -233,19 +234,21 @@ def build_overlay(events: List[dict], title: str) -> Image.Image:
         y += line_h + PAD
     return img
 
-def daily_video_save(path: str | None = None) -> str:
-    """Erzeugt das Tages‑Video, lädt es sofort ins GitHub‑Repo hoch und gibt die Raw‑URL zurück."""
+def daily_video_save(path: str | None = None, post_to_instagram: bool = True) -> str:
+    """Erzeugt das Tages-Video, lädt es ins GitHub-Repo und (optional) als Reel auf Instagram hoch.
+       Gibt in jedem Fall die Raw-URL aus dem Repo zurück."""
     tz = pytz.timezone("Europe/Berlin")
     now = datetime.now(tz)
     date_label = now.strftime("%d.%m.%Y")
     title = f"Events heute – {date_label}"
 
+    # ---- Events ----------------------------------------------------------------
     events_json = json.loads(requests.get(URL, timeout=10).text)
     todays = [e for e in events_json if e.get("date", "").endswith(now.strftime("%d.%m"))]
     chunks = [todays[i : i + MAX_PER_SLIDE] for i in range(0, len(todays), MAX_PER_SLIDE)] or [[]]
 
+    # ---- Video bauen ------------------------------------------------------------
     base_clip = VideoFileClip(str(GITHUB_VIDEO_FILE), audio=False)
-
     overlays, start = [], 0.0
     for chunk in chunks:
         arr = np.array(build_overlay(chunk, title))
@@ -260,24 +263,82 @@ def daily_video_save(path: str | None = None) -> str:
 
     final = CompositeVideoClip([base_clip] + overlays)
 
-    tmp = NamedTemporaryFile(delete=False, suffix=".mp4")
-    tmp.close()
-    final.write_videofile(
-        tmp.name,
-        codec="libx264",
-        fps=FPS,
-        audio=False,
-        verbose=False,
-        logger=None,
-    )
+    # ---- Temp-Datei rendern -----------------------------------------------------
+    tmp = NamedTemporaryFile(delete=False, suffix=".mp4"); tmp.close()
+    final.write_videofile(tmp.name, codec="libx264", fps=FPS, audio=False,
+                          verbose=False, logger=None)
     with open(tmp.name, "rb") as f:
         video_bytes = f.read()
     os.unlink(tmp.name)
-    # Video in das Repo hochladen (videos/YYYY/MM/DD/...)
+
+    # ---- GitHub-Upload ----------------------------------------------------------
+    repo, token = os.getenv("GITHUB_REPOSITORY"), os.getenv("GITHUB_TOKEN")
     path = now.strftime("videos/%Y/%m/%d/%H%M_%S_events.mp4")
     url = gh_upload(video_bytes, repo, token, path)
     print(f"✅ Video gespeichert im Repo: {url}")
+
+    # ---- Instagram-Upload (optional) -------------------------------------------
+    if post_to_instagram:
+        video_caption = (
+            f"🎬 Events in Bielefeld am {date_label}\n\n"
+            + "\n".join(f"• {e.get('event', '')}" for e in todays)
+            + "\n\nWeitere Infos in unserer App 🔗"
+        )
+
+        ig_uid = os.getenv("IG_USER_ID")
+        ig_tok = os.getenv("IG_ACCESS_TOKEN")
+        reel_id = insta_video_post(url, video_caption, ig_uid, ig_tok)
+        print("🎥 IG-Reel ID:", reel_id)
+
     return url
+
+def insta_video_post(video_url: str, caption: str, uid: str, token: str) -> str | None:
+    """
+    Lädt ein MP4 (<= 1 GB) als Reel hoch und veröffentlicht es danach.
+    Liefert die Media-ID des fertigen Posts oder None bei Fehlern.
+    """
+    base = f"https://graph.facebook.com/v21.0/{uid}"
+
+    # 1) Container anlegen  (media_type = REELS  ➜  ersetzt seit Nov 2023 das alte VIDEO) 
+    r = requests.post(
+        f"{base}/media",
+        data={
+            "media_type": "REELS",
+            "video_url": video_url,   # muss öffentlich abrufbar sein – GitHub-Raw-URL passt
+            "caption": caption,
+            "share_to_feed": "true",  # sorgt dafür, dass das Reel auch im Feed landet
+            # optional: "thumb_offset": 1000   # Thumbnail-Frame in ms
+            "access_token": token,
+        },
+        timeout=60,
+    )
+    j = r.json()
+    container_id = j.get("id")
+    if not container_id:
+        print("❌ IG-Container konnte nicht erstellt werden:", j)
+        return None
+
+    # 2) Warten, bis Instagram das Video verarbeitet hat
+    for _ in range(40):               # 40 × 5 s  ≈ 3 min 20 s
+        time.sleep(5)
+        status = requests.get(
+            f"https://graph.facebook.com/v21.0/{container_id}",
+            params={"fields": "status_code", "access_token": token},
+            timeout=10,
+        ).json().get("status_code")
+        if status == "FINISHED":
+            break
+        if status == "ERROR":
+            print("❌ Video-Verarbeitung fehlgeschlagen")
+            return None
+
+    # 3) Container veröffentlichen
+    r2 = requests.post(
+        f"{base}/media_publish",
+        data={"creation_id": container_id, "access_token": token},
+        timeout=20,
+    )
+    return r2.json().get("id")
 
 
 
