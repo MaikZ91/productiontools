@@ -1,44 +1,50 @@
+# .github/workflows/insta.yml
 name: Post events image
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 6 * * *"   # 06 UTC ≅ 08 Uhr Berlin
+    - cron: "0 6 * * *"   # 06 UTC ≈ 08 Uhr Berlin
 
 jobs:
   post:
     runs-on: ubuntu-latest
 
     steps:
-      # 0) Repository auschecken
+      # 0) Repo
       - uses: actions/checkout@v4
 
-      # 1) Python 3.11 bereitstellen
+      # 1) Python
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # 2) Virtuelle Umgebung + saubere MoviePy-Installation
+      # 2) venv + saubere MoviePy-1.0.3-Installation
       - name: Create & populate venv
         shell: bash
         run: |
           python -m venv .venv
           source .venv/bin/activate
 
-          # --- alte MoviePy-Reste entfernen -----------------
+          # alles löschen, was 'moviepy' heißt (falls doch noch da)
+          python -m pip uninstall -y moviepy || true
           sitepkgs=$(python - <<'PY'
-          import site, sys
-          print(site.getsitepackages()[0])
+          import sysconfig, json, sys; print(sysconfig.get_paths()["purelib"])
           PY
           )
           rm -rf "$sitepkgs/moviepy" "$sitepkgs"/moviepy-*.dist-info || true
-          # ---------------------------------------------------
 
-          # Pakete installieren (Versionen aus requirements3.txt)
+          # Pakete installieren
           python -m pip install --upgrade pip
-          python -m pip install --no-cache-dir -r requirements3.txt
+          python -m pip install \
+            Pillow \
+            requests \
+            pytz \
+            matplotlib \
+            moviepy==1.0.3 \
+            imageio-ffmpeg
 
-          # Verifizieren, dass moviepy.editor jetzt importierbar ist
+          # Verifizieren
           python - <<'PY'
           import moviepy, pathlib, sys
           print("moviepy-Version:", moviepy.__version__)
@@ -47,7 +53,7 @@ jobs:
           print("✅ moviepy.editor import OK")
           PY
 
-      # 3) Secrets prüfen (optional)
+      # 3) Secrets-Check (optional)
       - name: Debug env variables
         env:
           GITHUB_TOKEN:    ${{ secrets.PAT_TOKEN }}
@@ -57,14 +63,10 @@ jobs:
         run: |
           echo "🔎 Prüfe erforderliche ENV-Variablen:"
           for V in GITHUB_TOKEN GITHUB_REPOSITORY IG_ACCESS_TOKEN IG_USER_ID; do
-            if [ -n "${!V}" ]; then
-              echo "$V = ✅ gesetzt"
-            else
-              echo "$V = ❌ fehlt!"
-            fi
+            [ -n "${!V}" ] && echo "$V = ✅ gesetzt" || echo "$V = ❌ fehlt!"
           done
 
-      # 4) Hauptskript ausführen
+      # 4) Skript ausführen
       - name: Generate, upload & post image
         shell: bash
         env:
