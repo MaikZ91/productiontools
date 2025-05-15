@@ -240,7 +240,7 @@ def daily_video_save(path: str | None = None, post_to_instagram: bool = True) ->
     tz = pytz.timezone("Europe/Berlin")
     now = datetime.now(tz)
     date_label = now.strftime("%d.%m.%Y")
-    title = f"Events heute – {date_label}"
+    title = f"Events heute {date_label}"
 
     # ---- Events ----------------------------------------------------------------
     events_json = json.loads(requests.get(URL, timeout=10).text)
