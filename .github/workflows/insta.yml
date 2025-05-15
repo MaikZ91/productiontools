@@ -1,65 +1,52 @@
+# .github/workflows/post_events_image.yml
 name: Post events image
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 6 * * *"   # 06 UTC ≈ 08 Uhr Berlin (Sommerzeit)
+    - cron: "0 6 * * *"          # 06 UTC ≈ 08 Uhr Berlin
 
 jobs:
   post:
     runs-on: ubuntu-latest
 
     steps:
-      # --------------------------------------- #
-      # 0) Repository auschecken                #
-      # --------------------------------------- #
+      # 0 Repo
       - uses: actions/checkout@v4
 
-      # --------------------------------------- #
-      # 1) Python 3.11 bereitstellen            #
-      # --------------------------------------- #
+      # 1 Python
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # --------------------------------------- #
-      # 2) Virtuelle Umgebung anlegen & füllen  #
-      #    – inklusive hartem Aufräumen alter   #
-      #      MoviePy-Reste                      #
-      # --------------------------------------- #
+      # 2 venv + saubere MoviePy-Installation
       - name: Create & populate venv
         shell: bash
         run: |
           python -m venv .venv
           source .venv/bin/activate
 
-          # Alte MoviePy-Verzeichnisse (z.B. 2.1.1) restlos entfernen
+          # alte MoviePy-Reste löschen
           sitepkgs=$(python - <<'PY'
-import site, sys; print(site.getsitepackages()[0])
+import site,sys; print(site.getsitepackages()[0])
 PY
           )
           rm -rf "$sitepkgs/moviepy" "$sitepkgs"/moviepy-*.dist-info || true
 
-          # Pakete installieren (Versionen aus requirements3.txt)
+          # Pakete installieren
           python -m pip install --upgrade pip
           python -m pip install --no-cache-dir -r requirements3.txt
 
-          # Verifizieren, dass moviepy.editor jetzt verfügbar ist
+          # Import-Check
           python - <<'PY'
 import moviepy, pathlib, sys
 print("moviepy-Version:", moviepy.__version__)
 print("Pfad:", pathlib.Path(moviepy.__file__).resolve())
-try:
-    import moviepy.editor        # muss jetzt funktionieren
-    print("✅ moviepy.editor import OK")
-except ModuleNotFoundError as e:
-    sys.stderr.write("❌ moviepy.editor fehlt: "+str(e)+"\n")
-    sys.exit(1)
+import moviepy.editor
+print("✅ moviepy.editor import OK")
 PY
 
-      # --------------------------------------- #
-      # 3) Secrets check (optional)             #
-      # --------------------------------------- #
+      # 3 Secrets-Check
       - name: Debug env variables
         env:
           GITHUB_TOKEN:    ${{ secrets.PAT_TOKEN }}
@@ -72,9 +59,7 @@ PY
             [ -n "${!V}" ] && echo "$V = ✅ gesetzt" || echo "$V = ❌ fehlt!"
           done
 
-      # --------------------------------------- #
-      # 4) Hauptskript ausführen                #
-      # --------------------------------------- #
+      # 4 Skript ausführen
       - name: Generate, upload & post image
         shell: bash
         env:
