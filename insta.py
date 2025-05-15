@@ -225,40 +225,51 @@ def build_overlay(events: List[dict], title: str) -> Image.Image:
         y += line_h + PAD
     return img
 
-def daily_video_save(output_path: Optional[str] = None) -> str:
-    """Erzeuge das Video mit Titel und speichere es lokal. Gibt den Pfad zurück."""
+def daily_video_save(repo: str, token: str, path: str | None = None) -> str:
+    """Erzeugt das Tages‑Video, lädt es sofort ins GitHub‑Repo hoch und gibt die Raw‑URL zurück."""
     tz = pytz.timezone("Europe/Berlin")
-    dm = datetime.now(tz)
-    date_label = dm.strftime("%d.%m.%Y")
+    now = datetime.now(tz)
+    date_label = now.strftime("%d.%m.%Y")
     title = f"Events heute – {date_label}"
 
-    all_events = json.loads(requests.get(URL, timeout=10).text)
-    events = [e for e in all_events if e.get("date", "").endswith(dm.strftime("%d.%m"))]
-    chunks = [events[i:i+MAX_PER_SLIDE] for i in range(0, len(events), MAX_PER_SLIDE)] or [[]]
+    events_json = requests.get(REPO_EVENTS_JSON, timeout=15).json()
+    todays = [e for e in events_json if e.get("date", "").endswith(now.strftime("%d.%m"))]
+    chunks = [todays[i : i + MAX_PER_SLIDE] for i in range(0, len(todays), MAX_PER_SLIDE)] or [[]]
 
     base_clip = VideoFileClip(str(GITHUB_VIDEO_FILE), audio=False)
-    overlays = []
-    start = 0.0
+
+    overlays, start = [], 0.0
     for chunk in chunks:
-        img = build_overlay(chunk, title)
-        arr = np.array(img)
-        oc = (ImageClip(arr)
-              .set_start(start)
-              .set_duration(SLIDE_DURATION)
-              .set_fps(FPS)
-              .set_position("center")
+        arr = np.array(build_overlay(chunk, title))
+        overlays.append(
+            ImageClip(arr)
+            .set_start(start)
+            .set_duration(SLIDE_DURATION)
+            .set_fps(FPS)
+            .set_position("center")
         )
-        overlays.append(oc)
         start += SLIDE_DURATION
 
     final = CompositeVideoClip([base_clip] + overlays)
 
-    if output_path is None:
-        output_path = "events_video.mp4"
-    final.write_videofile(output_path, codec="libx264", fps=FPS, audio=False, verbose=False, logger=None)
+    tmp = NamedTemporaryFile(delete=False, suffix=".mp4")
+    tmp.close()
+    final.write_videofile(
+        tmp.name,
+        codec="libx264",
+        fps=FPS,
+        audio=False,
+        verbose=False,
+        logger=None,
+    )
+    with open(tmp.name, "rb") as f:
+        video_bytes = f.read()
+    os.unlink(tmp.name)
 
-    print(f"✅ Video gespeichert unter: {output_path}")
-    return output_path
+    # Video in das Repo hochladen (videos/YYYY/MM/DD/...)
+    url = gh_upload(video_bytes, repo, token, path=path)
+    print(f"✅ Video gespeichert im Repo: {url}")
+    return url
 
 
 
