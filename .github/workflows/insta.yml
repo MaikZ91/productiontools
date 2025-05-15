@@ -21,7 +21,7 @@ jobs:
       - name: Install Python deps
         run: |
           python -m pip install --upgrade pip
-          python -m pip install Pillow requests pytz matplotlib moviepy imageio-ffmpeg
+          python -m pip install Pillow requests pytz matplotlib moviepy>=1.0.3 imageio-ffmpeg
 
       # 2) Kurz prüfen, ob moviepy wirklich importierbar ist
       - name: Verify moviepy is importable
