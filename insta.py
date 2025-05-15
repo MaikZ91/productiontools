@@ -16,7 +16,7 @@ from moviepy.editor import VideoFileClip, CompositeVideoClip, ImageClip
 
 URL = "https://raw.githubusercontent.com/MaikZ91/productiontools/master/events.json"
 GITHUB_VIDEO_FILE = Path(__file__).resolve().parent / "media" / "3188890-hd_1920_1080_25fps.mp4"
-W, PAD = 1080, 50
+W, H,  PAD = 1080, 1080, 50
 HBAR = 140
 CARD_H = 110
 RADIUS = 25
