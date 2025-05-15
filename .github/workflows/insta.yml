@@ -4,74 +4,62 @@ name: Post events image
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 6 * * *"   # 06 UTC = 08 Uhr Berlin
+    - cron: "0 6 * * *"   # 06 UTC ≈ 08 Uhr Berlin (Sommerzeit)
 
 jobs:
   post:
     runs-on: ubuntu-latest
 
     steps:
+      # 0) Code auschecken
       - uses: actions/checkout@v4
 
+      # 1) System-Python 3.11 bereitstellen
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # -------------------------------------------------
-      # 0) Debian-Stub entfernen, echte Pakete installieren
-      # -------------------------------------------------
-      - name: Remove distro stub & install wheels
+      # 2) Eigene venv anlegen und aktivieren
+      - name: Create & populate venv
+        shell: bash
         run: |
-          # altes, unvollständiges System-Paket loswerden (falls vorhanden)
-          sudo apt-get remove -y python3-moviepy || true
-          
-          # alles mit exakt derselben Runtime installieren
+          python -m venv .venv
+          source .venv/bin/activate
           python -m pip install --upgrade pip
-          python -m pip install \
-              Pillow \
-              requests \
-              pytz \
-              matplotlib \
-              moviepy==2.1.2 \
-              imageio-ffmpeg
-
-      # -------------------------------------------------
-      # 1) prüfen, dass jetzt moviepy.editor da ist
-      # -------------------------------------------------
-      - name: Verify moviepy is importable
-        run: |
+          # Falls du requirements3.txt nutzt:
+          python -m pip install -r requirements3.txt
+          # oder explizit:
+          # python -m pip install Pillow requests pytz matplotlib \
+          #                       moviepy==2.1.2 imageio-ffmpeg
+          # Prüfen, dass moviepy.editor da ist
           python - <<'PY'
-          import pathlib, sys, importlib
-          import moviepy
+          import moviepy, pathlib
+          print("moviepy-Version:", moviepy.__version__)
           print("moviepy liegt unter:", pathlib.Path(moviepy.__file__).resolve())
-          try:
-              import moviepy.editor as mpy
-              print("✅ moviepy.editor import OK – Version:", moviepy.__version__)
-          except ModuleNotFoundError as e:
-              sys.stderr.write("❌ moviepy.editor fehlt trotz Wheel-Install – Abbruch\n")
-              sys.exit(1)
+          import moviepy.editor         # <- wirft Fehler, wenn etwas noch schief ist
+          print("✅ moviepy.editor import OK")
           PY
 
-      # -------------------------------------------------
-      # 2) Secrets check
-      # -------------------------------------------------
+      # 3) Secrets check (optional, wie gehabt)
       - name: Debug env variables
         env:
           GITHUB_TOKEN:    ${{ secrets.PAT_TOKEN }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID:      ${{ secrets.IG_USER_ID }}
+        shell: bash
         run: |
           echo "🔎 Prüfe erforderliche ENV-Variablen:"
           for V in GITHUB_TOKEN GITHUB_REPOSITORY IG_ACCESS_TOKEN IG_USER_ID; do
             [ -n "${!V}" ] && echo "$V = ✅ gesetzt" || echo "$V = ❌ fehlt!"
           done
 
-      # -------------------------------------------------
-      # 3) Hauptskript ausführen
-      # -------------------------------------------------
+      # 4) Skript in derselben venv ausführen
       - name: Generate, upload & post image
+        shell: bash
         env:
           GITHUB_TOKEN:    ${{ secrets.PAT_TOKEN }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID:      ${{ secrets.IG_USER_ID }}
-        run: python insta.py
+        run: |
+          source .venv/bin/activate
+          python insta.py
