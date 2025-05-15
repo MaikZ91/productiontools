@@ -28,7 +28,7 @@ jobs:
         run: |
           python - <<'PY'
           import moviepy, moviepy.editor, pathlib, sys
-          print("✅ moviepy imported from:", pathlib.Path(moviepy.__file__).resolve())
+          print("moviepy geladen von:", pathlib.Path(moviepy.__file__).resolve())
           PY
 
       # 3) Debug-Ausgabe deiner Secrets
