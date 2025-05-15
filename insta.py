@@ -234,7 +234,7 @@ def daily_video_save(path: str | None = None) -> str:
     date_label = now.strftime("%d.%m.%Y")
     title = f"Events heute – {date_label}"
 
-    events_json = requests.get(REPO_EVENTS_JSON, timeout=15).json()
+    events_json = json.loads(requests.get(URL, timeout=10).text)
     todays = [e for e in events_json if e.get("date", "").endswith(now.strftime("%d.%m"))]
     chunks = [todays[i : i + MAX_PER_SLIDE] for i in range(0, len(todays), MAX_PER_SLIDE)] or [[]]
 
