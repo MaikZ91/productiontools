@@ -30,7 +30,7 @@ MIN_H = 1080
 FONT_SIZE = 60
 TITLE_FONT_SIZE = 80
 MAX_PER_SLIDE = 6
-SLIDE_DURATION = 5  # Sekunden pro Overlay
+SLIDE_DURATION = 7  # Sekunden pro Overlay
 FPS = 24
 repo, token = os.getenv("GITHUB_REPOSITORY"), os.getenv("GITHUB_TOKEN")
 
