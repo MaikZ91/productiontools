@@ -12,6 +12,7 @@ import numpy as np
 from pathlib import Path
 import moviepy.editor
 from moviepy.editor import VideoFileClip, CompositeVideoClip, ImageClip
+from tempfile import NamedTemporaryFile
 
 
 URL = "https://raw.githubusercontent.com/MaikZ91/productiontools/master/events.json"
