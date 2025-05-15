@@ -1,46 +1,52 @@
 # .github/workflows/post_events_image.yml
-# Lädt Events-Bild ins Repo und postet es auf Instagram.
-# Nutzt dein **PAT_TOKEN** statt des automatisch erzeugten GITHUB_TOKEN.
-
 name: Post events image
 
 on:
-  workflow_dispatch:                # manueller Button
+  workflow_dispatch:
   schedule:
-    - cron: "0 6 * * *"             # 06 UTC = 08 Uhr Berlin (Sommerzeit)
+    - cron: "0 6 * * *"   # 06 UTC = 08 Uhr Berlin
 
 jobs:
   post:
     runs-on: ubuntu-latest
 
     steps:
-      # 1) Repository auschecken
       - uses: actions/checkout@v4
 
-      # 2) Python 3.11 installieren
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # 3) Abhängigkeiten
+      # 1) Pakete IMMER über dieselbe Runtime installieren
       - name: Install Python deps
-        run: pip install Pillow requests pytz matplotlib moviepy imageio-ffmpeg
-      # 4) Debug-Step – prüft, ob alle Variablen gesetzt sind
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install Pillow requests pytz matplotlib moviepy imageio-ffmpeg
+
+      # 2) Kurz prüfen, ob moviepy wirklich importierbar ist
+      - name: Verify moviepy is importable
+        run: |
+          python - <<'PY'
+          import moviepy, moviepy.editor, pathlib, sys
+          print("✅ moviepy imported from:", pathlib.Path(moviepy.__file__).resolve())
+          PY
+
+      # 3) Debug-Ausgabe deiner Secrets
       - name: Debug env variables
         env:
-          GITHUB_TOKEN:   ${{ secrets.PAT_TOKEN }}        # ← dein PAT
-          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }} # bereits angelegt
-          IG_USER_ID:      ${{ secrets.IG_USER_ID }}      # bereits angelegt
+          GITHUB_TOKEN:   ${{ secrets.PAT_TOKEN }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID:      ${{ secrets.IG_USER_ID }}
         run: |
           echo "🔎 Prüfe erforderliche ENV-Variablen:"
           for V in GITHUB_TOKEN GITHUB_REPOSITORY IG_ACCESS_TOKEN IG_USER_ID; do
             [ -n "${!V}" ] && echo "$V = ✅ gesetzt" || echo "$V = ❌ fehlt!"
           done
 
-      # 5) Bild generieren, ins Repo laden & auf Instagram posten
+      # 4) Skript ausführen
       - name: Generate, upload & post image
         env:
-          GITHUB_TOKEN:   ${{ secrets.PAT_TOKEN }}        # PAT → insta.py
+          GITHUB_TOKEN:   ${{ secrets.PAT_TOKEN }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID:      ${{ secrets.IG_USER_ID }}
         run: python insta.py
