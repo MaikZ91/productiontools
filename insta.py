@@ -108,7 +108,11 @@ def build_image(events: List[dict], date_label: str | None = None) -> Image.Imag
 def gh_upload(content_bytes: bytes, repo: str, token: str, path: str | None = None) -> str:
     tz=pytz.timezone("Europe/Berlin")
     if path is None:
-        path=datetime.now(tz).strftime("images/%Y/%m/%d/%H%M_%f_events.jpg")
+        # Heuristik: MP4 vs. Bild nach Magic‑Bytes
+        if content_bytes.startswith(b"\x00\x00\x00\x18ftyp"):
+            path = now.strftime("videos/%Y/%m/%d/%H%M_%S_events.mp4")
+        else:
+            path = now.strftime("images/%Y/%m/%d/%H%M_%S_events.jpg")
     url=f"https://api.github.com/repos/{repo}/contents/{path}"
     headers={"Authorization":f"token {token}","Accept":"application/vnd.github+json"}
     body={"message":f"auto-upload {os.path.basename(path)}","content":base64.b64encode(content_bytes).decode()}
