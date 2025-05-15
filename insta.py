@@ -280,7 +280,7 @@ def daily_video_save(path: str | None = None, post_to_instagram: bool = True) ->
     # ---- Instagram-Upload (optional) -------------------------------------------
     if post_to_instagram:
         video_caption = (
-            f"🎬 Events in Bielefeld am {date_label}\n\n"
+            f"🎬 Events heute {date_label}\n\n"
             + "\n".join(f"• {e.get('event', '')}" for e in todays)
             + "\n\nWeitere Infos in unserer App 🔗"
         )
