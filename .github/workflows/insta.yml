@@ -11,74 +11,64 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Repository auschecken
       - uses: actions/checkout@v4
 
-      # Python 3.11 einrichten
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # ------------------------------
-      # 0) Guard: brich ab, falls im Repo ein 'moviepy'-Modul liegt
-      # ------------------------------
-      - name: Abort if a local module named "moviepy" exists
+      # -------------------------------------------------
+      # 0) Debian-Stub entfernen, echte Pakete installieren
+      # -------------------------------------------------
+      - name: Remove distro stub & install wheels
         run: |
-          if [ -e moviepy.py ] || [ -d moviepy ]; then
-            echo "::error::Local file or folder 'moviepy' shadows the pip package."
-            exit 1
-          fi
-
-      # ------------------------------
-      # 1) Abhängigkeiten installieren
-      # ------------------------------
-      - name: Install Python dependencies
-        run: |
+          # altes, unvollständiges System-Paket loswerden (falls vorhanden)
+          sudo apt-get remove -y python3-moviepy || true
+          
+          # alles mit exakt derselben Runtime installieren
           python -m pip install --upgrade pip
-          python -m pip install -r requirements3.txt
+          python -m pip install \
+              Pillow \
+              requests \
+              pytz \
+              matplotlib \
+              moviepy==2.1.2 \
+              imageio-ffmpeg
 
-      # ------------------------------
-      # 2) Prüfen, ob moviepy korrekt geladen wird
-      # ------------------------------
+      # -------------------------------------------------
+      # 1) prüfen, dass jetzt moviepy.editor da ist
+      # -------------------------------------------------
       - name: Verify moviepy is importable
         run: |
           python - <<'PY'
-          import pathlib, sys
+          import pathlib, sys, importlib
+          import moviepy
+          print("moviepy liegt unter:", pathlib.Path(moviepy.__file__).resolve())
           try:
-              import moviepy
-              print("moviepy wurde geladen von:", pathlib.Path(moviepy.__file__).resolve())
-          except Exception as e:
-              sys.stderr.write(f"❌ import moviepy schlug fehl: {e}\n")
-              sys.exit(1)
-          try:
-              import moviepy.editor
-              print("✅ moviepy.editor import OK")
+              import moviepy.editor as mpy
+              print("✅ moviepy.editor import OK – Version:", moviepy.__version__)
           except ModuleNotFoundError as e:
-              sys.stderr.write(f"❌ moviepy.editor fehlt: {e}\n")
+              sys.stderr.write("❌ moviepy.editor fehlt trotz Wheel-Install – Abbruch\n")
               sys.exit(1)
           PY
 
-      # ------------------------------
-      # 3) Debug: erforderliche Secrets ausgegeben
-      # ------------------------------
-      - name: Debug environment variables
+      # -------------------------------------------------
+      # 2) Secrets check
+      # -------------------------------------------------
+      - name: Debug env variables
         env:
-          GITHUB_TOKEN:    ${{ secrets.PAT_TOKEN }}      # Personal Access Token
+          GITHUB_TOKEN:    ${{ secrets.PAT_TOKEN }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID:      ${{ secrets.IG_USER_ID }}
         run: |
           echo "🔎 Prüfe erforderliche ENV-Variablen:"
           for V in GITHUB_TOKEN GITHUB_REPOSITORY IG_ACCESS_TOKEN IG_USER_ID; do
-            if [ -n "${!V}" ]; then
-              echo "$V = ✅ gesetzt"
-            else
-              echo "$V = ❌ fehlt!"
-            fi
+            [ -n "${!V}" ] && echo "$V = ✅ gesetzt" || echo "$V = ❌ fehlt!"
           done
 
-      # ------------------------------
-      # 4) Hauptskript ausführen
-      # ------------------------------
+      # -------------------------------------------------
+      # 3) Hauptskript ausführen
+      # -------------------------------------------------
       - name: Generate, upload & post image
         env:
           GITHUB_TOKEN:    ${{ secrets.PAT_TOKEN }}
