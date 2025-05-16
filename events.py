@@ -667,7 +667,7 @@ def add_recurring_events(events, event_name, day_name, base_url, frequency, nth)
                         add_event(month, day)
                         break
 
-    TODAY = dt.date.today()
+    TODAY = datetime.date.today()
     _WD   = ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"]
 
     def _parse_event_date(s: str) -> _dt.date | None:
