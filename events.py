@@ -675,11 +675,11 @@ def parse_event_date(s: str) -> Optional[datetime.date]:
         if not s:
             return None
         s = s.split(" - ")[0].strip()
-        m = _re.match(r"^[A-Za-z]{2},\s*(\d{1,2})[.](\d{1,2})[.](\d{4})$", s)
+        m = re.match(r"^[A-Za-z]{2},\s*(\d{1,2})[.](\d{1,2})[.](\d{4})$", s)
         if m:
             d, mth, y = map(int, m.groups())
             return datetime.date(y, mth, d)
-        m = _re.match(r"^[A-Za-z]{2},\s*(\d{1,2})[.](\d{1,2})$", s)
+        m = re.match(r"^[A-Za-z]{2},\s*(\d{1,2})[.](\d{1,2})$", s)
         if m:
             d, mth = map(int, m.groups())
             return datetime.date(TODAY.year, mth, d)
