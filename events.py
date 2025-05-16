@@ -672,18 +672,26 @@ TODAY = datetime.date.today()
 _WD   = ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"]
 
 def parse_event_date(s: str) -> Optional[datetime.date]:
-        if not s:
-            return None
-        s = s.split(" - ")[0].strip()
-        m = re.match(r"^[A-Za-z]{2},\s*(\d{1,2})[.](\d{1,2})[.](\d{4})$", s)
-        if m:
-            d, mth, y = map(int, m.groups())
-            return datetime.date(y, mth, d)
-        m = re.match(r"^[A-Za-z]{2},\s*(\d{1,2})[.](\d{1,2})$", s)
-        if m:
-            d, mth = map(int, m.groups())
-            return datetime.date(TODAY.year, mth, d)
+    if not s:
         return None
+
+    s = s.split(" - ")[0].strip()
+
+    #  Mo, 16.05.2025   |  Fri, 16.05.2025
+    m = re.match(r"^[A-Za-z]{2,3}\.?,\s*(\d{1,2})\.(\d{1,2})\.(\d{2,4})$", s)
+    if m:
+        d, mth, y = map(int, m.groups())
+        if y < 100:                       # 25 → 2025
+            y += 2000
+        return datetime.date(y, mth, d)
+
+    #  Mo, 16.05   |  Fri, 16.05
+    m = re.match(r"^[A-Za-z]{2,3}\.?,\s*(\d{1,2})\.(\d{1,2})$", s)
+    if m:
+        d, mth = map(int, m.groups())
+        return datetime.date(TODAY.year, mth, d)
+
+    return None
 
 if __name__ == '__main__':
     sources = [
