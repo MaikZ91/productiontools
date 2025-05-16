@@ -697,11 +697,11 @@ if __name__ == '__main__':
         except Exception as e:
             print(f"Fehler beim Verarbeiten der Quelle {source}: {e}")
             traceback.print_exc()
-
-    filtered_events = [
-    ev for ev in events
-    if (d := _parse_event_date(ev.get("date", ""))) and d >= TODAY
-    ]
+    filtered_events = []
+    for ev in events:
+        ev_date = _parse_event_date(ev.get("date", ""))
+        if ev_date and ev_date >= TODAY:
+            filtered_events.append(ev)
 
     filtered_events.sort(key=lambda e: _parse_event_date(e["date"]))
 
