@@ -667,6 +667,23 @@ def add_recurring_events(events, event_name, day_name, base_url, frequency, nth)
                         add_event(month, day)
                         break
 
+    TODAY = _dt.date.today()
+    _WD   = ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"]
+
+    def _parse_event_date(s: str) -> _dt.date | None:
+        if not s:
+            return None
+        s = s.split(" - ")[0].strip()
+        m = _re.match(r"^[A-Za-z]{2},\s*(\d{1,2})[.](\d{1,2})[.](\d{4})$", s)
+        if m:
+            d, mth, y = map(int, m.groups())
+            return _dt.date(y, mth, d)
+        m = _re.match(r"^[A-Za-z]{2},\s*(\d{1,2})[.](\d{1,2})$", s)
+        if m:
+            d, mth = map(int, m.groups())
+            return _dt.date(TODAY.year, mth, d)
+        return None
+
 if __name__ == '__main__':
     sources = [
         bielefeld_jetzt, forum, platzhirsch, irish_pub, f2f, sams, movie, nrzp,
@@ -680,5 +697,15 @@ if __name__ == '__main__':
         except Exception as e:
             print(f"Fehler beim Verarbeiten der Quelle {source}: {e}")
             traceback.print_exc()
-    with open('events.json', 'w', encoding='utf-8') as file:
-        json.dump(events, file, indent=4, ensure_ascii=False)
+
+    filtered_events = [
+    ev for ev in events
+    if (d := _parse_event_date(ev.get("date", ""))) and d >= TODAY
+    ]
+
+    filtered_events.sort(key=lambda e: _parse_event_date(e["date"]))
+
+    with open("events.json", "w", encoding="utf-8") as f:
+    json.dump(filtered_events, f, indent=4, ensure_ascii=False)
+    #with open('events.json', 'w', encoding='utf-8') as file:
+        #json.dump(events, file, indent=4, ensure_ascii=False)
