@@ -667,7 +667,7 @@ def add_recurring_events(events, event_name, day_name, base_url, frequency, nth)
                         add_event(month, day)
                         break
 
-    TODAY = _dt.date.today()
+    TODAY = dt.date.today()
     _WD   = ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"]
 
     def _parse_event_date(s: str) -> _dt.date | None:
@@ -677,11 +677,11 @@ def add_recurring_events(events, event_name, day_name, base_url, frequency, nth)
         m = _re.match(r"^[A-Za-z]{2},\s*(\d{1,2})[.](\d{1,2})[.](\d{4})$", s)
         if m:
             d, mth, y = map(int, m.groups())
-            return _dt.date(y, mth, d)
+            return dt.date(y, mth, d)
         m = _re.match(r"^[A-Za-z]{2},\s*(\d{1,2})[.](\d{1,2})$", s)
         if m:
             d, mth = map(int, m.groups())
-            return _dt.date(TODAY.year, mth, d)
+            return dt.date(TODAY.year, mth, d)
         return None
 
 if __name__ == '__main__':
