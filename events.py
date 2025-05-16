@@ -7,6 +7,7 @@ from datetime import datetime as dt, timedelta
 from urllib.parse import urljoin
 import calendar
 import traceback
+from typing import Optional
 
 # Zieljahr definieren (z. B. 2025)
 TARGET_YEAR = 2025
@@ -670,7 +671,7 @@ def add_recurring_events(events, event_name, day_name, base_url, frequency, nth)
     TODAY = datetime.date.today()
     _WD   = ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"]
 
-def parse_event_date(s: str) -> datetime.date | None:
+def parse_event_date(s: str) -> Optional[datetime.date]:
         if not s:
             return None
         s = s.split(" - ")[0].strip()
