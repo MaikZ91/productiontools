@@ -670,18 +670,18 @@ def add_recurring_events(events, event_name, day_name, base_url, frequency, nth)
     TODAY = datetime.date.today()
     _WD   = ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"]
 
-    def _parse_event_date(s: str) -> _dt.date | None:
+    def parse_event_date(s: str) -> datetime.date | None:
         if not s:
             return None
         s = s.split(" - ")[0].strip()
         m = _re.match(r"^[A-Za-z]{2},\s*(\d{1,2})[.](\d{1,2})[.](\d{4})$", s)
         if m:
             d, mth, y = map(int, m.groups())
-            return dt.date(y, mth, d)
+            return datetime.date(y, mth, d)
         m = _re.match(r"^[A-Za-z]{2},\s*(\d{1,2})[.](\d{1,2})$", s)
         if m:
             d, mth = map(int, m.groups())
-            return dt.date(TODAY.year, mth, d)
+            return datetime.date(TODAY.year, mth, d)
         return None
 
 if __name__ == '__main__':
@@ -699,11 +699,11 @@ if __name__ == '__main__':
             traceback.print_exc()
     filtered_events = []
     for ev in events:
-        ev_date = _parse_event_date(ev.get("date", ""))
+        ev_date = parse_event_date(ev.get("date", ""))
         if ev_date and ev_date >= TODAY:
             filtered_events.append(ev)
 
-    filtered_events.sort(key=lambda e: _parse_event_date(e["date"]))
+    filtered_events.sort(key=lambda e: parse_event_date(e["date"]))
 
     with open("events.json", "w", encoding="utf-8") as f:
         json.dump(filtered_events, f, indent=4, ensure_ascii=False)
