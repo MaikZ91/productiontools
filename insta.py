@@ -3,6 +3,8 @@ from __future__ import annotations
 import requests, json, pytz, io, base64, os, time
 from datetime import datetime,timedelta
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
+if not hasattr(Image, "ANTIALIAS"):
+    Image.ANTIALIAS = Image.Resampling.LANCZOS
 import os, base64, json, requests, pytz
 from datetime import datetime
 from dateutil.parser import parse
