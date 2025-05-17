@@ -391,7 +391,7 @@ def daily_video() -> Tuple[str, Optional[str]]:
         f"{ig_base}/{IG_USER}/media",
         data={
             "media_type": "STORIES",
-            "video_url": github_url,
+            "video_url": raw_url,
             "caption": caption,
             "access_token": IG_TOKEN,
         },
@@ -402,15 +402,24 @@ def daily_video() -> Tuple[str, Optional[str]]:
     story_container_id = create_story.json().get("id")
     published_story_id = None
     if story_container_id:
-        pub_story = requests.post(
-            f"{ig_base}/{IG_USER}/media_publish",
-            data={"creation_id": story_container_id, "access_token": IG_TOKEN},
-            timeout=60
-        )
-        print("IG PUBLISH STORY:", pub_story.status_code, pub_story.text)
-        pub_story.raise_for_status()
-        published_story_id = pub_story.json().get("id")
-
+        for _ in range(60):
+            time.sleep(5)
+            status = requests.get(
+                f"{ig_base}/{story_container_id}",
+                params={"fields": "status_code", "access_token": IG_TOKEN},
+                timeout=30
+            )
+            print("IG STATUS STORY:", status.status_code, status.text)
+            if status.json().get("status_code") == "FINISHED":
+                pub_story = requests.post(
+                    f"{ig_base}/{IG_USER}/media_publish",
+                    data={"creation_id": story_container_id, "access_token": IG_TOKEN},
+                    timeout=60
+                )
+                print("IG PUBLISH STORY:", pub_story.status_code, pub_story.text)
+                pub_story.raise_for_status()
+                published_story_id = pub_story.json().get("id")
+                break
 
     return github_url, reel_id 
 
