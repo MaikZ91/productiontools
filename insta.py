@@ -253,7 +253,8 @@ def daily_video() -> Tuple[str, Optional[str]]:
         # Text rendern
         dummy = Image.new("RGBA", (1, 1))
         draw = ImageDraw.Draw(dummy)
-        w, h = draw.textsize(text, font=font)
+        bbox = draw.textbbox((0, 0), text, font=font)
+        w, h = bbox[2] - bbox[0], bbox[3] - bbox[1]
         img = Image.new("RGBA", (w + 2 * PADDING, h + 2 * PADDING), (0, 0, 0, 0))
         draw = ImageDraw.Draw(img)
         draw.text((PADDING, PADDING), text, font=font, fill=TXT_COLOR)
