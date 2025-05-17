@@ -296,7 +296,7 @@ def daily_video() -> Tuple[str, Optional[str]]:
     # 5) Hintergrundmusik hinzufügen
     if os.path.isfile(MUSIC_FILE):
         try:
-            audio = AudioFileClip(MUSIC_FILE).subclip(0, duration)
+            audio = AudioFileClip(str(MUSIC_FILE)).subclip(0, duration)
             final = final.set_audio(audio)
         except Exception as e:
             print(f"Fehler beim Laden der Musik: {e}")
