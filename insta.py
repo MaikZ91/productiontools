@@ -11,12 +11,13 @@ from io import BytesIO
 import numpy as np
 from pathlib import Path
 import moviepy.editor
-from moviepy.editor import VideoFileClip, CompositeVideoClip, ImageClip
+from moviepy.editor import VideoFileClip, CompositeVideoClip, ImageClip, AudioFileClip
 from tempfile import NamedTemporaryFile
 
 
 URL = "https://raw.githubusercontent.com/MaikZ91/productiontools/master/events.json"
 GITHUB_VIDEO_FILE = Path(__file__).resolve().parent / "media" / "3188890-hd_1920_1080_25fps.mp4"
+MUSIC_FILE = "brain-implant-cyberpunk-sci-fi-trailer-action-intro-330416.mp3" 
 W, H,  PAD = 1080, 1080, 50
 HBAR = 140
 CARD_H = 110
@@ -234,6 +235,7 @@ def build_overlay(events: List[dict], title: str) -> Image.Image:
         y += line_h + PAD
     return img
 
+
 def daily_video_save(path: str | None = None, post_to_instagram: bool = True) -> str:
     """Erzeugt das Tages-Video, lädt es ins GitHub-Repo und (optional) als Reel auf Instagram hoch.
        Gibt in jedem Fall die Raw-URL aus dem Repo zurück."""
@@ -340,7 +342,94 @@ def insta_video_post(video_url: str, caption: str, uid: str, token: str) -> str 
     )
     return r2.json().get("id")
 
+def daily_video() -> Tuple[str, Optional[str]]:
+    # 1) Events laden
+    today = datetime.now(TZ).strftime("%d.%m")
+    events_data = requests.get(URL_EVENTS, timeout=10).json()
+    events: List[str] = [e.get("event","") for e in events_data if e.get("date","").endswith(today)]
+    if not events:
+        events = ["Keine Events gefunden"]
 
+    # 2) Basis-Video laden
+    base = VideoFileClip(str(GITHUB_VIDEO_FILE), audio=False)
+    duration = base.duration
+
+    # 3) Scroll-Overlay-Clips erstellen
+    clips: List[ImageClip] = []
+    total = len(events)
+    for idx, text in enumerate(events):
+        # Font laden
+        for fp in FONT_PATHS:
+            try:
+                font = ImageFont.truetype(fp, FONT_SIZE)
+                break
+            except OSError:
+                font = ImageFont.load_default()
+        # Text rendern
+        dummy = Image.new("RGBA", (1,1))
+        draw = ImageDraw.Draw(dummy)
+        w, h = draw.textbbox((0,0), text, font=font)[2:]
+        img = Image.new("RGBA", (w+2*PADDING, h+2*PADDING), (0,0,0,0))
+        draw = ImageDraw.Draw(img)
+        draw.text((PADDING,PADDING), text, font=font, fill=TXT_COLOR)
+        arr = np.array(img)
+        clip = ImageClip(arr).set_duration(duration)
+        # Position & Zoom
+        line_h = h + PADDING
+        distance = H + total*line_h + line_h
+        speed = distance/duration*SCROLL_FACTOR
+        start_y = H + idx*line_h
+        def pos(t, start_y=start_y, speed=speed):
+            return (PADDING, start_y - speed*t)
+        def scale(t, line_h=line_h):
+            y = pos(t)[1]
+            center = y + h/2 + PADDING
+            d = abs(center - H/2)
+            return 1 + HIGHLIGHT_SCALE*(1 - d/line_h) if d<=line_h else 1
+        clips.append(clip.set_position(pos).resize(lambda t: scale(t)))
+
+    # 4) Composite
+    final = CompositeVideoClip([base, *clips])
+    # 5) Audio hinzufügen
+    if os.path.isfile(MUSIC_FILE):
+        audio = AudioFileClip(MUSIC_FILE).subclip(0, duration)
+        final = final.set_audio(audio)
+
+    # 6) Render in temp-Datei
+    tmp = NamedTemporaryFile(suffix='.mp4', delete=False)
+    tmp.close()
+    final.write_videofile(tmp.name, codec='libx264', fps=FPS, audio_codec='aac')
+    video_bytes = open(tmp.name,'rb').read()
+    os.unlink(tmp.name)
+
+    # 7) GitHub-Upload
+    path = datetime.now(TZ).strftime("videos/%Y/%m/%d/%H%M_events.mp4")
+    url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{path}"
+    b64 = base64.b64encode(video_bytes).decode()
+    body = {"message": os.path.basename(path), "content": b64}
+    resp = requests.put(url, headers={"Authorization": f"token {GITHUB_TOKEN}"}, json=body).json()
+    github_url = resp["content"]["download_url"]
+
+    # 8) Instagram-Reel posten
+    caption = f"🎬 Events heute – {datetime.now(TZ).strftime('%d.%m.%Y')}\n" + "\n".join(f"• {e}" for e in events)
+    base_ig = f"https://graph.facebook.com/v21.0/{IG_USER}"
+    r = requests.post(f"{base_ig}/media", data={
+        "media_type":"REELS","video_url":github_url,
+        "caption":caption,"share_to_feed":"true",
+        "access_token":IG_TOKEN
+    }, timeout=60)
+    cid = r.json().get("id")
+    if cid:
+        for _ in range(40):
+            time.sleep(5)
+            st = requests.get(f"{base_ig}/{cid}", params={"fields":"status_code","access_token":IG_TOKEN}).json().get("status_code")
+            if st=="FINISHED": break
+        r2 = requests.post(f"{base_ig}/media_publish", data={"creation_id":cid, "access_token":IG_TOKEN})
+        reel_id = r2.json().get("id")
+    else:
+        reel_id = None
+
+    return github_url, reel_id
 
 
 def main():
@@ -367,15 +456,17 @@ def main():
     #if len(image_urls)==1:print("🎉 IG-Post ID:",insta_single_post(image_urls[0],base_caption,ig_uid,ig_tok))
     #else:print("🎉 IG-Carousel ID:",insta_carousel_post(image_urls,base_caption,ig_uid,ig_tok))
     weekday=datetime.now(tz).weekday()
-    #if weekday==3:weekend_post() 
+    if weekday==3:weekend_post() 
     if weekday==0:insta_single_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/ChatGPT%20Image%20Apr%2024%2C%202025%2C%2012_58_30%20PM.png","TRIBE TUESDAY RUN 💪\nJeden Dienstag, 18 Uhr | Gellershagen Park (am Teich)\nGemeinsam laufen, motivieren & Spaß haben.\nAnmeldung in der WhatsApp Community (-> Wöchentliche Umfrage), Link in der Bio🔗","",ig_tok)
     if weekday==2:insta_single_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/Unbenannt.png","Tribe Powerworkout 💪\n Anmeldung in Community, Link in der Bio 🔗",ig_uid,ig_tok)
     if weekday==6:insta_single_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/Unbenannt3.png","Werde Partner – Deine Marke in der Bielefelder Community! Erreiche eine aktive Zielgruppe direkt vor Ort und präsentiere dich authentisch:",ig_uid,ig_tok)
     day=datetime.now(tz).day
     if day in (1,15):insta_single_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/media/Craetive.jpg","TRIBE CREATIVE CIRCLE - Dein Talent, deine Bühne. Jeden letzten Fr im Monat. Anmeldung in der Whats App Community",ig_uid,ig_tok)
     if day in (2,16):insta_single_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/media/Wandern.jpg","TRIBE WANDERSAMSTAG - Immer am letzten Samstag im Monat. Anmeldung in der Whats App Community",ig_uid,ig_tok)
-    if day in (3,17):insta_single_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/media/Kennenlernen.jpg","TRIBE KENNENLERNABEND - Immer am letzten Sonntag im Monat. Anmeldung in der Whats App Community",ig_uid,ig_tok)
-    daily_video_save()
+    #if day in (3,17):insta_single_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/media/Kennenlernen.jpg","TRIBE KENNENLERNABEND - Immer am letzten Sonntag im Monat. Anmeldung in der Whats App Community",ig_uid,ig_tok)
+    #daily_video_save()
+    daily_video()
+    
     print("✅ Bilder hochgeladen:",image_urls)
 
 if __name__=="__main__":main()
