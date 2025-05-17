@@ -387,6 +387,30 @@ def daily_video() -> Tuple[str, Optional[str]]:
                 except requests.RequestException as e:
                     print(f"Fehler beim Veröffentlichen des Reels: {e}")
                 break
+    create_story = requests.post(
+        f"{ig_base}/{IG_USER}/media",
+        data={
+            "media_type": "STORIES",
+            "video_url": raw_url,
+            "caption": caption,
+            "access_token": IG_TOKEN,
+        },
+        timeout=60
+    )
+    print("IG CREATE STORY:", create_story.status_code, create_story.text)
+    create_story.raise_for_status()
+    story_container_id = create_story.json().get("id")
+    published_story_id = None
+    if story_container_id:
+        pub_story = requests.post(
+            f"{ig_base}/{IG_USER}/media_publish",
+            data={"creation_id": story_container_id, "access_token": IG_TOKEN},
+            timeout=60
+        )
+        print("IG PUBLISH STORY:", pub_story.status_code, pub_story.text)
+        pub_story.raise_for_status()
+        published_story_id = pub_story.json().get("id")
+
 
     return github_url, reel_id 
 
