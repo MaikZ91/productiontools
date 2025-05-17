@@ -226,6 +226,7 @@ def daily_video() -> Tuple[str, Optional[str]]:
     Liefert (GitHub-URL, Instagram-Reel-ID).
     """
     # 1) Events abrufen
+    tz=pytz.timezone("Europe/Berlin")
     today = datetime.now(tz).strftime("%d.%m")
     resp = requests.get(URL_EVENTS, timeout=10)
     resp.raise_for_status()
