@@ -391,7 +391,7 @@ def daily_video() -> Tuple[str, Optional[str]]:
         f"{ig_base}/{IG_USER}/media",
         data={
             "media_type": "STORIES",
-            "video_url": raw_url,
+            "video_url": github_url,
             "caption": caption,
             "access_token": IG_TOKEN,
         },
