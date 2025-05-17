@@ -228,7 +228,7 @@ def daily_video() -> Tuple[str, Optional[str]]:
     # 1) Events abrufen
     tz=pytz.timezone("Europe/Berlin")
     today = datetime.now(tz).strftime("%d.%m")
-    resp = requests.get(URL_EVENTS, timeout=10)
+    resp = requests.get(URL, timeout=10)
     resp.raise_for_status()
     data = resp.json()
     events = [e.get("event", "") for e in data if e.get("date", "").endswith(today)]
@@ -370,6 +370,6 @@ def main():
     #daily_video_save()
     daily_video()
     
-    print("✅ Bilder hochgeladen:",image_urls)
+    #print("✅ Bilder hochgeladen:",image_urls)
 
 if __name__=="__main__":main()
