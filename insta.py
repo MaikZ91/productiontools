@@ -226,18 +226,20 @@ def daily_video() -> Tuple[str, Optional[str]]:
     Liefert (GitHub-URL, Instagram-Reel-ID).
     """
     # 1) Events abrufen
-    today = datetime.now(TZ).strftime("%d.%m")
-    data = requests.get(URL_EVENTS, timeout=10).json()
-    events = [e.get("event","") for e in data if e.get("date","").endswith(today)]
+    today = datetime.now(tz).strftime("%d.%m")
+    resp = requests.get(URL_EVENTS, timeout=10)
+    resp.raise_for_status()
+    data = resp.json()
+    events = [e.get("event", "") for e in data if e.get("date", "").endswith(today)]
     if not events:
         events = ["Keine Events gefunden"]
 
     # 2) Basis-Video laden
-    base_clip = VideoFileClip(str(GITHUB_VIDEO_FILE), audio=False)
+    base_clip = VideoFileClip(str(GITHUB_VIDEO_FILE)).without_audio()
     duration = base_clip.duration
 
     # 3) Scroll-Overlay-Clips erzeugen
-    clips: List[ImageClip] = []
+    clips = []
     total = len(events)
     for idx, text in enumerate(events):
         # Font laden
@@ -248,81 +250,98 @@ def daily_video() -> Tuple[str, Optional[str]]:
             except OSError:
                 font = ImageFont.load_default()
         # Text rendern
-        dummy = Image.new("RGBA", (1,1))
+        dummy = Image.new("RGBA", (1, 1))
         draw = ImageDraw.Draw(dummy)
-        w, h = draw.textbbox((0,0), text, font=font)[2:]
-        img = Image.new("RGBA", (w+2*PADDING, h+2*PADDING), (0,0,0,0))
+        w, h = draw.textsize(text, font=font)
+        img = Image.new("RGBA", (w + 2 * PADDING, h + 2 * PADDING), (0, 0, 0, 0))
         draw = ImageDraw.Draw(img)
-        draw.text((PADDING,PADDING), text, font=font, fill=TXT_COLOR)
+        draw.text((PADDING, PADDING), text, font=font, fill=TXT_COLOR)
         arr = np.array(img)
         clip = ImageClip(arr).set_duration(duration)
 
         # Position und Zoom animieren
-        line_h = h + PADDING
-        distance = H + total*line_h + line_h
+        line_h = h + 2 * PADDING
+        distance = H + total * line_h + line_h
         speed = distance / duration * SCROLL_FACTOR
-        start_y = H + idx*line_h
-        def pos(t, sy=start_y, sp=speed):
-            return (PADDING, sy - sp*t)
-        def sc(t, lh=line_h):
-            y = pos(t)[1]
-            center = y + h/2 + PADDING
-            d = abs(center - H/2)
-            return 1 + HIGHLIGHT_SCALE*(1 - d/lh) if d <= lh else 1
-        clips.append(clip.set_position(pos).resize(lambda t: sc(t)))
+        start_y = H + idx * line_h
+        pos_fn = lambda t, sy=start_y, sp=speed: (PADDING, sy - sp * t)
+
+        def scale_fn(t, lh=line_h, sy=start_y, sp=speed):
+            y = sy - sp * t
+            center = y + h / 2 + PADDING
+            d = abs(center - H / 2)
+            return 1 + HIGHLIGHT_SCALE * (1 - d / lh) if d <= lh else 1
+
+        clips.append(clip.set_position(pos_fn).resize(scale_fn))
 
     # 4) Composite
     final = CompositeVideoClip([base_clip, *clips])
-    # 5) Hintergrundmusik
+
+    # 5) Hintergrundmusik hinzufügen
     if os.path.isfile(MUSIC_FILE):
         audio = AudioFileClip(MUSIC_FILE).subclip(0, duration)
         final = final.set_audio(audio)
 
     # 6) Rendern in temporäre Datei
-    tmp = NamedTemporaryFile(suffix='.mp4', delete=False)
-    tmp.close()
-    final.write_videofile(tmp.name, codec='libx264', fps=FPS, audio_codec='aac')
-    with open(tmp.name,'rb') as f:
+    with NamedTemporaryFile(suffix='.mp4', delete=False) as tmp:
+        tmp_path = tmp.name
+    final.write_videofile(tmp_path, codec='libx264', fps=FPS, audio_codec='aac')
+    with open(tmp_path, 'rb') as f:
         video_bytes = f.read()
-    os.unlink(tmp.name)
+    os.remove(tmp_path)
 
     # 7) Upload zu GitHub
-    path = datetime.now(TZ).strftime("videos/%Y/%m/%d/%H%M_events.mp4")
+    path = datetime.now(tz).strftime("videos/%Y/%m/%d/%H%M_events.mp4")
     url_api = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{path}"
     b64 = base64.b64encode(video_bytes).decode()
     body = {"message": os.path.basename(path), "content": b64}
-    resp = requests.put(url_api, headers={"Authorization": f"token {GITHUB_TOKEN}"}, json=body).json()
-    github_url = resp["content"]["download_url"]
+    gh_resp = requests.put(
+        url_api,
+        headers={"Authorization": f"token {GITHUB_TOKEN}"},
+        json=body,
+    )
+    gh_resp.raise_for_status()
+    github_url = gh_resp.json()["content"]["download_url"]
 
     # 8) Instagram-Reel posten
-     caption = (
+    caption = (
         f"🎬 Events heute – {datetime.now(tz).strftime('%d.%m.%Y')}\n"
         + "\n".join(f"• {e}" for e in events)
     )
     ig_base = f"https://graph.facebook.com/v21.0/{IG_USER}"
-    r = requests.post(f"{ig_base}/media", data={
-        "media_type":"REELS","video_url":github_url,
-        "caption":caption,"share_to_feed":"true",
-        "access_token":IG_TOKEN
-    }, timeout=60)
-    cid = r.json().get("id")
+    create_resp = requests.post(
+        f"{ig_base}/media",
+        data={
+            "media_type": "REELS",
+            "video_url": github_url,
+            "caption": caption,
+            "share_to_feed": "true",
+            "access_token": IG_TOKEN,
+        },
+        timeout=60,
+    )
+    create_resp.raise_for_status()
+    creation_id = create_resp.json().get("id")
     reel_id = None
-    if cid:
+    if creation_id:
         for _ in range(40):
             time.sleep(5)
-            status = requests.get(
-                f"{ig_base}/{cid}",
-                params={"fields":"status_code","access_token":IG_TOKEN}
-            ).json().get("status_code")
-            if status == "FINISHED":
+            status_resp = requests.get(
+                f"{ig_base}/{creation_id}",
+                params={"fields": "status_code", "access_token": IG_TOKEN},
+            )
+            status_resp.raise_for_status()
+            if status_resp.json().get("status_code") == "FINISHED":
                 break
-        r2 = requests.post(
+        publish_resp = requests.post(
             f"{ig_base}/media_publish",
-            data={"creation_id":cid, "access_token":IG_TOKEN}
+            data={"creation_id": creation_id, "access_token": IG_TOKEN},
         )
-        reel_id = r2.json().get("id")
+        publish_resp.raise_for_status()
+        reel_id = publish_resp.json().get("id")
 
     return github_url, reel_id
+
 
 def main():
     global events
