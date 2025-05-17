@@ -295,9 +295,10 @@ def daily_video() -> Tuple[str, Optional[str]]:
     github_url = resp["content"]["download_url"]
 
     # 8) Instagram-Reel posten
-    caption = f"🎬 Events heute – {datetime.now(TZ).strftime('%d.%m.%Y')}
-" + "
-".join(f"• {e}" for e in events)
+     caption = (
+        f"🎬 Events heute – {datetime.now(tz).strftime('%d.%m.%Y')}\n"
+        + "\n".join(f"• {e}" for e in events)
+    )
     ig_base = f"https://graph.facebook.com/v21.0/{IG_USER}"
     r = requests.post(f"{ig_base}/media", data={
         "media_type":"REELS","video_url":github_url,
