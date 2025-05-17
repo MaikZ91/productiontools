@@ -19,7 +19,7 @@ from tempfile import NamedTemporaryFile
 
 URL = "https://raw.githubusercontent.com/MaikZ91/productiontools/master/events.json"
 GITHUB_VIDEO_FILE = Path(__file__).resolve().parent / "media" / "3188890-hd_1920_1080_25fps.mp4"
-MUSIC_FILE = "brain-implant-cyberpunk-sci-fi-trailer-action-intro-330416.mp3" 
+MUSIC_FILE = Path(__file__).resolve().parent / "media" / "creative-technology-showreel-241274.mp3" 
 W, H,  PAD = 1080, 1080, 50
 HBAR = 140
 CARD_H = 110
