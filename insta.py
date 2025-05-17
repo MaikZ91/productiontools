@@ -6,7 +6,7 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter
 import os, base64, json, requests, pytz
 from datetime import datetime
 from dateutil.parser import parse
-from typing import List, Optional
+from typing import List, Optional, Tuple
 from io import BytesIO
 import numpy as np
 from pathlib import Path
@@ -32,8 +32,17 @@ FONT_SIZE = 60
 TITLE_FONT_SIZE = 80
 MAX_PER_SLIDE = 6
 SLIDE_DURATION = 7  # Sekunden pro Overlay
+PADDING = 50
+TXT_COLOR = "white"
+FONT_PATHS = ["DejaVuSans-Bold.ttf","DejaVuSans.ttf","arial.ttf"]
 FPS = 24
+SCROLL_FACTOR = 1.0
+HIGHLIGHT_SCALE = 0.4
 repo, token = os.getenv("GITHUB_REPOSITORY"), os.getenv("GITHUB_TOKEN")
+IG_TOKEN = os.getenv("IG_ACCESS_TOKEN")
+IG_USER = os.getenv("IG_USER_ID")
+GITHUB_REPO = os.getenv("GITHUB_REPOSITORY")
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 
 
 CATEGORY_MAP = {
@@ -344,12 +353,11 @@ def insta_video_post(video_url: str, caption: str, uid: str, token: str) -> str 
 
 def daily_video() -> Tuple[str, Optional[str]]:
     # 1) Events laden
-    today = datetime.now(TZ).strftime("%d.%m")
-    events_data = requests.get(URL_EVENTS, timeout=10).json()
-    events: List[str] = [e.get("event","") for e in events_data if e.get("date","").endswith(today)]
-    if not events:
-        events = ["Keine Events gefunden"]
-
+    tz = pytz.timezone("Europe/Berlin")
+    now = datetime.now(tz)
+    events_json = json.loads(requests.get(URL, timeout=10).text)
+    todays = [e for e in events_json if e.get("date", "").endswith(now.strftime("%d.%m"))]
+    
     # 2) Basis-Video laden
     base = VideoFileClip(str(GITHUB_VIDEO_FILE), audio=False)
     duration = base.duration
@@ -411,7 +419,7 @@ def daily_video() -> Tuple[str, Optional[str]]:
     github_url = resp["content"]["download_url"]
 
     # 8) Instagram-Reel posten
-    caption = f"🎬 Events heute – {datetime.now(TZ).strftime('%d.%m.%Y')}\n" + "\n".join(f"• {e}" for e in events)
+    caption = f"🎬 Events heute – {datetime.now(tz).strftime('%d.%m.%Y')}\n" + "\n".join(f"• {e}" for e in events)
     base_ig = f"https://graph.facebook.com/v21.0/{IG_USER}"
     r = requests.post(f"{base_ig}/media", data={
         "media_type":"REELS","video_url":github_url,
