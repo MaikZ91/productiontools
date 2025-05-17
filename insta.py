@@ -45,6 +45,8 @@ IG_TOKEN = os.getenv("IG_ACCESS_TOKEN")
 IG_USER = os.getenv("IG_USER_ID")
 GITHUB_REPO = os.getenv("GITHUB_REPOSITORY")
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+INSTAGRAM_WIDTH = 1080
+INSTAGRAM_HEIGHT = 1920
 
 
 CATEGORY_MAP = {
@@ -223,11 +225,10 @@ def weekend_post():
     
 def daily_video() -> Tuple[str, Optional[str]]:
     """
-    Erstellt ein kontinuierliches Scroll-Video der heutigen Events,
+    Erstellt ein vertikal optimiertes Instagram-Video (9:16),
     lädt es ins GitHub-Repo hoch und postet es als Instagram-Reel.
     Liefert (GitHub-URL, Instagram-Reel-ID).
     """
-    # Zeitzone und Datum
     tz = pytz.timezone("Europe/Berlin")
     today_str = datetime.now(tz).strftime("%d.%m")
 
@@ -237,22 +238,21 @@ def daily_video() -> Tuple[str, Optional[str]]:
         resp.raise_for_status()
         data = resp.json()
         events = [e.get("event", "") for e in data if e.get("date", "").endswith(today_str)]
-    except requests.RequestException as e:
-        print(f"Fehler beim Abrufen der Events: {e}")
+    except requests.RequestException:
         events = []
-
     if not events:
         events = ["Keine Events gefunden"]
 
-    # 2) Basis-Video laden
+    # 2) Basis-Video laden und ins 9:16-Format bringen
     base_clip = VideoFileClip(str(GITHUB_VIDEO_FILE)).without_audio()
+    base_clip = base_clip.resize((INSTAGRAM_WIDTH, INSTAGRAM_HEIGHT))
     duration = base_clip.duration
 
     # 3) Scroll-Overlay-Clips erzeugen
     clips = []
     total = len(events)
     for idx, text in enumerate(events):
-        # Font laden (Fallback auf Default)
+        # Font laden
         for fp in FONT_PATHS:
             try:
                 font = ImageFont.truetype(fp, FONT_SIZE)
@@ -260,7 +260,7 @@ def daily_video() -> Tuple[str, Optional[str]]:
             except OSError:
                 font = ImageFont.load_default()
 
-        # Text rendern
+        # Text als Bild
         dummy = Image.new("RGBA", (1, 1))
         draw = ImageDraw.Draw(dummy)
         bbox = draw.textbbox((0, 0), text, font=font)
@@ -271,37 +271,35 @@ def daily_video() -> Tuple[str, Optional[str]]:
         arr = np.array(img)
         clip = ImageClip(arr).set_duration(duration)
 
-        # Position und Zoom animieren
+        # Animationsparameter
         line_h = h + 2 * PADDING
-        distance = H + total * line_h
+        distance = INSTAGRAM_HEIGHT + total * line_h
         speed = distance / duration * SCROLL_FACTOR
-        start_y = H + idx * line_h
+        start_y = INSTAGRAM_HEIGHT + idx * line_h
 
         def pos_fn(t, sy=start_y, sp=speed):
             return (PADDING, sy - sp * t)
 
         def scale_fn(t, lh=line_h, sy=start_y, sp=speed):
             y = sy - sp * t
-            center = y + h / 2 + PADDING
-            d = abs(center - H / 2)
-            if d <= lh:
-                return 1 + HIGHLIGHT_SCALE * (1 - d / lh)
-            return 1
+            center = y + h/2 + PADDING
+            d = abs(center - INSTAGRAM_HEIGHT/2)
+            return 1 + HIGHLIGHT_SCALE * (1 - d / lh) if d <= lh else 1
 
         clips.append(clip.set_position(pos_fn).resize(scale_fn))
 
-    # 4) Composite
-    final = CompositeVideoClip([base_clip, *clips])
+    # 4) Composite erstellen
+    final = CompositeVideoClip([base_clip, *clips], size=(INSTAGRAM_WIDTH, INSTAGRAM_HEIGHT))
 
-    # 5) Hintergrundmusik hinzufügen
+    # 5) Hintergrundmusik
     if os.path.isfile(MUSIC_FILE):
         try:
             audio = AudioFileClip(str(MUSIC_FILE)).subclip(0, duration)
             final = final.set_audio(audio)
-        except Exception as e:
-            print(f"Fehler beim Laden der Musik: {e}")
+        except Exception:
+            pass
 
-    # 6) Rendern in temporäre Datei
+    # 6) Rendern und temporär speichern
     with NamedTemporaryFile(suffix='.mp4', delete=False) as tmp:
         tmp_path = tmp.name
     final.write_videofile(tmp_path, codec='libx264', fps=FPS, audio_codec='aac')
@@ -309,41 +307,33 @@ def daily_video() -> Tuple[str, Optional[str]]:
         video_bytes = f.read()
     os.remove(tmp_path)
 
-    # 7) Upload zu GitHub (mit SHA-Handling für Updates)
-    path = datetime.now(tz).strftime("videos/%Y/%m/%d/%H%M_events.mp4")
+    # 7) Zu GitHub hochladen
+    path = datetime.now(tz).strftime("videos/%Y/%m/%d/%H%M_instagram.mp4")
     url_content = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{path}"
     headers = {"Authorization": f"token {GITHUB_TOKEN}"}
-
     sha = None
     try:
         get_resp = requests.get(url_content, headers=headers)
         if get_resp.status_code == 200:
             sha = get_resp.json().get("sha")
-    except requests.RequestException as e:
-        print(f"Fehler beim Prüfen vorhandener Datei: {e}")
-
+    except requests.RequestException:
+        pass
     body = {"message": os.path.basename(path), "content": base64.b64encode(video_bytes).decode()}
     if sha:
         body["sha"] = sha
+    put_resp = requests.put(url_content, headers=headers, json=body)
+    put_resp.raise_for_status()
+    github_url = put_resp.json()["content"]["download_url"]
 
-    try:
-        put_resp = requests.put(url_content, headers=headers, json=body)
-        put_resp.raise_for_status()
-        github_url = put_resp.json()["content"]["download_url"]
-    except requests.RequestException as e:
-        print(f"Fehler beim Hochladen zu GitHub: {e}")
-        raise
-
-    # 8) Instagram-Reel posten
+    # 8) Reel posten
     caption = (
         f"🎬 Events heute – {datetime.now(tz).strftime('%d.%m.%Y')}\n"
         + "\n".join(f"• {e}" for e in events)
     )
-    ig_base = f"https://graph.facebook.com/v21.0"
-
+    ig_base = "https://graph.facebook.com/v21.0"
     # Reel erzeugen
     try:
-        create_resp = requests.post(
+        create = requests.post(
             f"{ig_base}/{IG_USER}/media",
             data={
                 "media_type": "REELS",
@@ -354,74 +344,32 @@ def daily_video() -> Tuple[str, Optional[str]]:
             },
             timeout=60,
         )
-        create_resp.raise_for_status()
-        creation_id = create_resp.json().get("id")
-    except requests.RequestException as e:
-        print(f"Fehler beim Erstellen des Reels: {e}")
+        create.raise_for_status()
+        creation_id = create.json().get("id")
+    except requests.RequestException:
         return github_url, None
 
-    reel_id: Optional[str] = None
+    reel_id = None
     if creation_id:
-        poll_url = f"{ig_base}/{creation_id}"
+        poll = f"{ig_base}/{creation_id}"
         for _ in range(40):
             time.sleep(5)
             try:
-                status_resp = requests.get(
-                    poll_url,
-                    params={"fields": "status_code", "access_token": IG_TOKEN},
-                )
-                status_resp.raise_for_status()
-            except requests.RequestException as e:
-                print(f"Fehler beim Polling des Reel-Status: {e}")
+                status = requests.get(poll, params={"fields": "status_code", "access_token": IG_TOKEN})
+                status.raise_for_status()
+            except requests.RequestException:
                 break
-
-            if status_resp.json().get("status_code") == "FINISHED":
-                try:
-                    publish_resp = requests.post(
-                        f"{ig_base}/{IG_USER}/media_publish",
-                        data={"creation_id": creation_id, "access_token": IG_TOKEN},
-                        timeout=60,
-                    )
-                    publish_resp.raise_for_status()
-                    reel_id = publish_resp.json().get("id")
-                except requests.RequestException as e:
-                    print(f"Fehler beim Veröffentlichen des Reels: {e}")
-                break
-    create_story = requests.post(
-        f"{ig_base}/{IG_USER}/media",
-        data={
-            "media_type": "STORIES",
-            "video_url": github_url,
-            "caption": caption,
-            "access_token": IG_TOKEN,
-        },
-        timeout=60
-    )
-    print("IG CREATE STORY:", create_story.status_code, create_story.text)
-    create_story.raise_for_status()
-    story_container_id = create_story.json().get("id")
-    published_story_id = None
-    if story_container_id:
-        for _ in range(60):
-            time.sleep(5)
-            status = requests.get(
-                f"{ig_base}/{story_container_id}",
-                params={"fields": "status_code", "access_token": IG_TOKEN},
-                timeout=30
-            )
-            print("IG STATUS STORY:", status.status_code, status.text)
             if status.json().get("status_code") == "FINISHED":
-                pub_story = requests.post(
+                publish = requests.post(
                     f"{ig_base}/{IG_USER}/media_publish",
-                    data={"creation_id": story_container_id, "access_token": IG_TOKEN},
+                    data={"creation_id": creation_id, "access_token": IG_TOKEN},
                     timeout=60
                 )
-                print("IG PUBLISH STORY:", pub_story.status_code, pub_story.text)
-                pub_story.raise_for_status()
-                published_story_id = pub_story.json().get("id")
+                publish.raise_for_status()
+                reel_id = publish.json().get("id")
                 break
 
-    return github_url, reel_id 
+    return github_url, reel_id
 
 
 
