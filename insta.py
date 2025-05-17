@@ -291,18 +291,23 @@ def daily_video() -> Tuple[str, Optional[str]]:
         video_bytes = f.read()
     os.remove(tmp_path)
 
-    # 7) Upload zu GitHub
+    # 7) Upload zu GitHub (mit SHA-Handling für Updates)
     path = datetime.now(tz).strftime("videos/%Y/%m/%d/%H%M_events.mp4")
-    url_api = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{path}"
+    url_content = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{path}"
+    # Prüfe, ob Datei existiert, um SHA zu erhalten
+    headers = {"Authorization": f"token {GITHUB_TOKEN}"}
+    sha = None
+    get_resp = requests.get(url_content, headers=headers)
+    if get_resp.status_code == 200:
+        sha = get_resp.json().get("sha")
+    # Body mit optionaler SHA
     b64 = base64.b64encode(video_bytes).decode()
     body = {"message": os.path.basename(path), "content": b64}
-    gh_resp = requests.put(
-        url_api,
-        headers={"Authorization": f"token {GITHUB_TOKEN}"},
-        json=body,
-    )
-    gh_resp.raise_for_status()
-    github_url = gh_resp.json()["content"]["download_url"]
+    if sha:
+        body["sha"] = sha
+    put_resp = requests.put(url_content, headers=headers, json=body)
+    put_resp.raise_for_status()
+    github_url = put_resp.json()["content"]["download_url"]
 
     # 8) Instagram-Reel posten
     caption = (
@@ -342,6 +347,7 @@ def daily_video() -> Tuple[str, Optional[str]]:
         reel_id = publish_resp.json().get("id")
 
     return github_url, reel_id
+
 
 
 def main():
