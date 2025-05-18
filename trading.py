@@ -10,8 +10,8 @@ ASSET = "BTC/USD"
 ORDERS_URL = "https://api.alpaca.markets/v2/orders"
 
 REFRESH_SEC = 10
-POSITION_BTC = 0.026592695
-SELL_EUR = 0.002
+POSITION_BTC = 0.000786
+SELL_EUR = 0.2
 BUY_EUR = -1000
 
 _last_price_ts = 0.0
@@ -74,12 +74,12 @@ def run():
             delta = harvest / price
             position_btc -= delta
             cashflow += harvest
-            #alpaca_order("sell", delta)
+            alpaca_order("sell", delta)
         elif harvest <= BUY_EUR:
             delta = -harvest / price
             position_btc += delta
             cashflow += harvest
-            #alpaca_order("buy", delta)
+            alpaca_order("buy", delta)
         logging.debug("P=%.2f V=%.2f H=%.2f CF=%.2f", price, value, harvest, cashflow)
         time.sleep(REFRESH_SEC)
 
