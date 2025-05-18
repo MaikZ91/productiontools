@@ -8,4 +8,5 @@ websocket-client
 yfinance
 alpaca_trade_api
 matplotlib
-requests
+requests>=2.32.0
+urllib3
