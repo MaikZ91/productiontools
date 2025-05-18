@@ -70,7 +70,7 @@ def run():
             continue
         value = price * position_btc
         harvest = value - start_value
-        logging.info("Harvest", harvest)
+        logging.info("Harvest %.2f", harvest)
         if harvest >= SELL_EUR:
             delta = harvest / price
             position_btc -= delta
