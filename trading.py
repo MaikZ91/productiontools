@@ -11,7 +11,7 @@ ORDERS_URL = "https://api.alpaca.markets/v2/orders"
 
 REFRESH_SEC = 10
 POSITION_BTC = 0.000786
-SELL_EUR = 0.2
+SELL_EUR = 0.02
 BUY_EUR = -1000
 
 _last_price_ts = 0.0
@@ -70,6 +70,7 @@ def run():
             continue
         value = price * position_btc
         harvest = value - start_value
+        logging.info("Harvest", harvest)
         if harvest >= SELL_EUR:
             delta = harvest / price
             position_btc -= delta
