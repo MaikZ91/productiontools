@@ -108,7 +108,7 @@ def run():
         time.sleep(REFRESH_SEC)
 
 if __name__ == "__main__":
-    if position_btc == 0
+    if position_btc == 0:
         position_btc = get_btc_position()
         logging.info("Bestand %.2f", position_btc)
 
