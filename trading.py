@@ -10,7 +10,7 @@ ASSET = "BTC/USD"
 ORDERS_URL = "https://api.alpaca.markets/v2/orders"
 
 REFRESH_SEC = 10
-POSITION_BTC = 0.000786
+POSITION_BTC = 0
 SELL_EUR = 0.02
 BUY_EUR = -1000
 
@@ -42,6 +42,29 @@ def get_price():
         else:
             logging.warning("%s", e)
         return None
+
+def get_btc_position():
+    url = "https://api.alpaca.markets/v2/positions/BTC/USD"
+    headers = {
+        "APCA-API-KEY-ID": ALPACA_KEY,
+        "APCA-API-SECRET-KEY": ALPACA_SECRET,
+    }
+    try:
+        r = requests.get(url, headers=headers, timeout=10)
+        if r.status_code == 200:
+            pos = r.json()
+            qty = float(pos["qty"])
+            logging.info("Aktuelle BTC-Position: %.6f", qty)
+            return qty
+        elif r.status_code == 404:
+            logging.info("Keine BTC-Position gefunden.")
+            return 0.0
+        else:
+            logging.error("Fehler beim Abrufen der Position: %s", r.text)
+            return 0.0
+    except Exception as exc:
+        logging.error("Fehler bei Positionsermittlung: %s", exc)
+        return 0.0
 
 def alpaca_order(side, qty):
     payload = {"symbol": ASSET, "qty": round(qty, 6), "side": side, "type": "market", "time_in_force": "ioc"}
@@ -85,6 +108,9 @@ def run():
         time.sleep(REFRESH_SEC)
 
 if __name__ == "__main__":
+    if position_btc == 0
+        position_btc = get_btc_position()
+
     if not ALPACA_KEY or not ALPACA_SECRET:
         raise RuntimeError("Missing Alpaca keys")
     run()
