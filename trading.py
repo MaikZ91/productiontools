@@ -44,7 +44,8 @@ def get_price():
         return None
 
 def get_btc_position():
-    url = "https://api.alpaca.markets/v2/positions/BTC/USD"
+    url = "https://api.alpaca.markets/v2/positions/BTCUSD"
+
     headers = {
         "APCA-API-KEY-ID": ALPACA_KEY,
         "APCA-API-SECRET-KEY": ALPACA_SECRET,
