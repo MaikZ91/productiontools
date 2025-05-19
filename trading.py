@@ -96,9 +96,10 @@ def run():
         logging.info("Harvest %.4f", harvest)
         if harvest >= SELL_EUR:
             delta = harvest / price
-            position_btc -= delta
-            cashflow += harvest
-            alpaca_order("sell", delta)
+            if delta >= 0.00001:
+                position_btc -= delta
+                cashflow += harvest
+                alpaca_order("sell", delta)
         elif harvest <= BUY_EUR:
             delta = -harvest / price
             position_btc += delta
