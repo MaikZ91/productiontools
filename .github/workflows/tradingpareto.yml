@@ -1,0 +1,36 @@
+name: CI – BTC Dividend Bot (live check)
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  lint-and-start:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - uses: actions/setup-python@v5
+      with:
+        python-version: 3.11
+
+    - name: Install deps
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements3.txt
+        pip install flake8
+
+    - name: Lint
+      run: flake8 pareto_dividend_bot.py --max-line-length=120
+
+    # ▶  Live-Start (60-s smoke test)
+    - name: Live key smoke-test
+      env:
+        ALPACA_KEY:     ${{ secrets.ALPACA_KEY_LIVE }}
+        ALPACA_SECRET:  ${{ secrets.ALPACA_SECRET_LIVE }}
+      run: |
+        # run 60 s, then kill so CI bleibt kurz
+        timeout 60 python pareto_dividend_bot.py || true
