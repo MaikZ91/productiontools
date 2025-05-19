@@ -19,7 +19,7 @@ from tempfile import NamedTemporaryFile
 
 URL = "https://raw.githubusercontent.com/MaikZ91/productiontools/master/events.json"
 GITHUB_VIDEO_FILE = Path(__file__).resolve().parent / "media" / "3188890-hd_1920_1080_25fps.mp4"
-MUSIC_FILE = Path(__file__).resolve().parent / "media" / "creative-technology-showreel-241274.mp3" 
+MUSIC_FILE = Path(__file__).resolve().parent / "media" / "INDEPENDENCE. (mp3cut.net).mp3"
 W, H,  PAD = 1080, 1080, 50
 HBAR = 140
 CARD_H = 110
@@ -340,6 +340,7 @@ def daily_video() -> Tuple[str, Optional[str]]:
     caption = (
         f"🎬 Events heute – {datetime.now(tz).strftime('%d.%m.%Y')}\n"
         + "\n".join(f"• {e}" for e in events)
+        
     )
     ig_base = f"https://graph.facebook.com/v21.0"
     try:
