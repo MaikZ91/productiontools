@@ -110,6 +110,7 @@ def run():
 if __name__ == "__main__":
     if position_btc == 0
         position_btc = get_btc_position()
+        logging.info("Bestand %.2f", position_btc)
 
     if not ALPACA_KEY or not ALPACA_SECRET:
         raise RuntimeError("Missing Alpaca keys")
