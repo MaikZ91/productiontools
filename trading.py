@@ -10,7 +10,6 @@ ASSET = "BTC/USD"
 ORDERS_URL = "https://api.alpaca.markets/v2/orders"
 
 REFRESH_SEC = 10
-POSITION_BTC = 0
 SELL_EUR = 0.02
 BUY_EUR = -1000
 
@@ -19,7 +18,7 @@ _cached_price = None
 start_price = None
 start_value = None
 cashflow = 0.0
-position_btc = POSITION_BTC
+position_btc = 0
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s: %(message)s")
 
@@ -111,6 +110,7 @@ def run():
 if __name__ == "__main__":
     if position_btc == 0:
         position_btc = get_btc_position()
+        logging.info("Bestand: %.6f", position_btc)
 
     if not ALPACA_KEY or not ALPACA_SECRET:
         raise RuntimeError("Missing Alpaca keys")
