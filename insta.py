@@ -364,11 +364,15 @@ def daily_video() -> Tuple[str, Optional[str]]:
         raise
 
     # 8) Instagram-Reel posten
-    caption = (
-        f"🎬 Events heute – {datetime.now(tz).strftime('%d.%m.%Y')}\n"
-        + "\n".join(f"• {e}" for e in events)
-        
-    )
+     music_credit = "🎵 Music by @mz.9_nyc"
+     video_credit = "🎥 Video by @sora.ai_"      
+
+     caption = (
+         f"🎬 Events heute – {datetime.now(tz).strftime('%d.%m.%Y')}\n"
+         + "\n".join(f"• {e}" for e in events)
+         + f"\n\n{music_credit}\n{video_credit}" 
+     )
+  
     ig_base = f"https://graph.facebook.com/v21.0"
     try:
         create_resp = requests.post(
