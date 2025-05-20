@@ -364,10 +364,10 @@ def daily_video() -> Tuple[str, Optional[str]]:
         raise
 
     # 8) Instagram-Reel posten
-     music_credit = "🎵 Music by @mz.9_nyc"
-     video_credit = "🎥 Video by @sora.ai_"      
+    music_credit = "🎵 Music by @mz.9_nyc"
+    video_credit = "🎥 Video by @sora.ai_"      
 
-     caption = (
+    caption = (
          f"🎬 Events heute – {datetime.now(tz).strftime('%d.%m.%Y')}\n"
          + "\n".join(f"• {e}" for e in events)
          + f"\n\n{music_credit}\n{video_credit}" 
