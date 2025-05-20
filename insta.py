@@ -48,6 +48,10 @@ GITHUB_REPO = os.getenv("GITHUB_REPOSITORY")
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 INSTAGRAM_WIDTH = 1080
 INSTAGRAM_HEIGHT = 1920
+TITLE_TEXT       = "Heute in Bielfeld" 
+TITLE_FONT_SIZE  = 120                  
+TITLE_DURATION   = 2                    
+TITLE_FADE       = 0.5                 
 
 
 CATEGORY_MAP = {
@@ -262,6 +266,28 @@ def daily_video() -> Tuple[str, Optional[str]]:
     )
     duration = base_clip.duration
 
+    for fp in FONT_PATHS:
+        try:
+            title_font = ImageFont.truetype(fp, TITLE_FONT_SIZE)
+            break
+        except OSError:
+            title_font = ImageFont.load_default()
+    
+    dummy = Image.new("RGBA", (1, 1))
+    draw  = ImageDraw.Draw(dummy)
+    bbox  = draw.textbbox((0, 0), TITLE_TEXT, font=title_font)
+    tw, th = bbox[2] - bbox[0], bbox[3] - bbox[1]
+    
+    title_img = Image.new("RGBA", (tw + 2 * PADDING, th + 2 * PADDING), (0, 0, 0, 0))
+    draw      = ImageDraw.Draw(title_img)
+    draw.text((PADDING, PADDING), TITLE_TEXT, font=title_font, fill=TXT_COLOR)
+    
+    title_clip = (ImageClip(np.array(title_img))
+                  .set_duration(TITLE_DURATION)
+                  .set_position(("center", "center"))
+                  .crossfadeout(TITLE_FADE))          # sanft ausblenden
+
+
     # 3) Scroll-Overlay-Clips erzeugen
     clips = []
     total = len(events)
@@ -280,7 +306,7 @@ def daily_video() -> Tuple[str, Optional[str]]:
         draw = ImageDraw.Draw(img)
         draw.text((PADDING, PADDING), text, font=font, fill=TXT_COLOR)
         arr = np.array(img)
-        clip = ImageClip(arr).set_duration(duration)
+        clip = (ImageClip(arr).set_duration(duration - TITLE_DURATION).set_start(TITLE_DURATION))     
         line_h = h_text + 2 * PADDING
         distance = H + total * line_h
         speed = distance / duration * SCROLL_FACTOR
