@@ -265,6 +265,7 @@ def daily_video() -> Tuple[str, Optional[str]]:
         y_center=base_clip.h / 2
     )
     duration = base_clip.duration
+    scroll_time = duration - TITLE_DURATION 
 
     for fp in FONT_PATHS:
         try:
@@ -306,10 +307,10 @@ def daily_video() -> Tuple[str, Optional[str]]:
         draw = ImageDraw.Draw(img)
         draw.text((PADDING, PADDING), text, font=font, fill=TXT_COLOR)
         arr = np.array(img)
-        clip = (ImageClip(arr).set_duration(duration - TITLE_DURATION).set_start(TITLE_DURATION))     
+        clip = (ImageClip(arr).set_duration(scroll_time).set_start(TITLE_DURATION))
         line_h = h_text + 2 * PADDING
         distance = H + total * line_h
-        speed = distance / duration * SCROLL_FACTOR
+        speed = distance / scroll_time * SCROLL_FACTOR
         start_y = H + idx * line_h
         def pos_fn(t, sy=start_y, sp=speed):
             return (PADDING, sy - sp * t)
@@ -323,8 +324,7 @@ def daily_video() -> Tuple[str, Optional[str]]:
         clips.append(clip.set_position(pos_fn).resize(scale_fn))
 
     # 4) Composite im Instagram-Format
-    final = CompositeVideoClip([base_clip, *clips], size=(W, H))
-
+    final = CompositeVideoClip([base_clip, title_clip, *clips], size=(W, H))
     # 5) Hintergrundmusik hinzufügen
     if os.path.isfile(MUSIC_FILE):
         try:
