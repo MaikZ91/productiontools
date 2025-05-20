@@ -49,7 +49,7 @@ GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 INSTAGRAM_WIDTH = 1080
 INSTAGRAM_HEIGHT = 1920
 TITLE_TEXT       = "Heute in Bielefeld" 
-TITLE_FONT_SIZE  = 110                  
+TITLE_FONT_SIZE  = 100                  
 TITLE_DURATION   = 2                    
 TITLE_FADE       = 0.5                 
 
