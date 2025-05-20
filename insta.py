@@ -18,7 +18,8 @@ from tempfile import NamedTemporaryFile
 
 
 URL = "https://raw.githubusercontent.com/MaikZ91/productiontools/master/events.json"
-GITHUB_VIDEO_FILE = Path(__file__).resolve().parent / "media" / "3188890-hd_1920_1080_25fps.mp4"
+#GITHUB_VIDEO_FILE = Path(__file__).resolve().parent / "media" / "3188890-hd_1920_1080_25fps.mp4"
+GITHUB_VIDEO_FILE = Path(__file__).resolve().parent / "media" / "bielefeldbynight.mp4"
 MUSIC_FILE = Path(__file__).resolve().parent / "media" / "INDEPENDENCE. (mp3cut.net).mp3"
 W, H,  PAD = 1080, 1080, 50
 HBAR = 140
