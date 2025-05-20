@@ -10,7 +10,7 @@ ASSET = "BTC/USD"
 ORDERS_URL = "https://api.alpaca.markets/v2/orders"
 
 REFRESH_SEC = 10
-SELL_EUR = 0.02
+SELL_EUR = 2
 BUY_EUR = -1000
 
 _last_price_ts = 0.0
