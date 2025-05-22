@@ -15,6 +15,7 @@ from pathlib import Path
 import moviepy.editor
 from moviepy.editor import VideoFileClip, CompositeVideoClip, ImageClip, AudioFileClip
 from tempfile import NamedTemporaryFile
+import re
 
 
 URL = "https://raw.githubusercontent.com/MaikZ91/productiontools/master/events.json"
@@ -253,6 +254,16 @@ def daily_video() -> Tuple[str, Optional[str]]:
     if not events:
         events = ["Keine Events gefunden"]
 
+    parsed_events = []
+    for e_str in events:
+        m = re.match(r"^(.*?)\s*\((.*?)\)$", e_str)
+        if m:
+            title, location = m.groups()
+        else:
+            title, location = e_str, ""
+        parsed_events.append((title.strip(), location.strip()))
+
+
     # 2) Basis-Video laden und so skalieren, dass es vollständig füllt (kein Letterboxing)
     base_clip = VideoFileClip(str(GITHUB_VIDEO_FILE)).without_audio()
     orig_w, orig_h = base_clip.w, base_clip.h
@@ -292,21 +303,23 @@ def daily_video() -> Tuple[str, Optional[str]]:
 
     # 3) Scroll-Overlay-Clips erzeugen
     clips = []
-    total = len(events)
-    for idx, text in enumerate(events):
+    total = len(parsed_events)
+    
+    for idx, (title, location) in enumerate(parsed_events):
         for fp in FONT_PATHS:
             try:
                 font = ImageFont.truetype(fp, FONT_SIZE)
                 break
             except OSError:
                 font = ImageFont.load_default()
+        text_block = title + ("\n" + location if location else "")
         dummy = Image.new("RGBA", (1, 1))
         draw = ImageDraw.Draw(dummy)
-        bbox = draw.textbbox((0, 0), text, font=font)
+        bbox = draw.multiline_textbbox((0, 0), text_block, font=font)
         w_text, h_text = bbox[2] - bbox[0], bbox[3] - bbox[1]
         img = Image.new("RGBA", (w_text + 2 * PADDING, h_text + 2 * PADDING), (0, 0, 0, 0))
         draw = ImageDraw.Draw(img)
-        draw.text((PADDING, PADDING), text, font=font, fill=TXT_COLOR)
+        draw.multiline_text((PADDING, PADDING), text_block, font=font, fill=TXT_COLOR)
         arr = np.array(img)
         clip = (ImageClip(arr).set_duration(scroll_time).set_start(TITLE_DURATION))
         line_h = h_text + 2 * PADDING
@@ -366,14 +379,22 @@ def daily_video() -> Tuple[str, Optional[str]]:
 
     # 8) Instagram-Reel posten
     music_credit = "🎵 Music by @mz.9_nyc"
-    video_credit = "🎥 Video by @sora.ai_"      
-
+    video_credit = "🎥 Video by @sora.ai_"
+    
+    # Caption zweizeilig aufbauen
+    caption_lines = []
+    for title, location in parsed_events:
+        if location:
+            caption_lines.append(f"• {title}\n{location}")
+        else:
+            caption_lines.append(f"• {title}")
+    
     caption = (
-         f"🎬 Events heute – {datetime.now(tz).strftime('%d.%m.%Y')}\n"
-         + "\n".join(f"• {e}" for e in events)
-         + f"\n\n{music_credit}\n{video_credit}" 
-     )
-  
+        f"🎬 Events heute – {datetime.now(tz).strftime('%d.%m.%Y')}\n"
+        + "\n".join(caption_lines)
+        + f"\n\n{music_credit}\n{video_credit}"
+    )
+
     ig_base = f"https://graph.facebook.com/v21.0"
     try:
         create_resp = requests.post(
