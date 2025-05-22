@@ -2,8 +2,7 @@
 from __future__ import annotations
 import requests, json, pytz, io, base64, os, time
 from datetime import datetime,timedelta
-from PIL import Image, ImageDraw, ImageFont, ImageFilter
-if not hasattr(Image, "ANTIALIAS"):
+from PIL import Image, ImageDraw, ImageFont, ImageFilterif not hasattr(Image, "ANTIALIAS"):
     Image.ANTIALIAS = Image.Resampling.LANCZOS
 import os, base64, json, requests, pytz
 from datetime import datetime
@@ -21,7 +20,8 @@ import re
 URL = "https://raw.githubusercontent.com/MaikZ91/productiontools/master/events.json"
 #GITHUB_VIDEO_FILE = Path(__file__).resolve().parent / "media" / "3188890-hd_1920_1080_25fps.mp4"
 #GITHUB_VIDEO_FILE = Path(__file__).resolve().parent / "media" / "bielefeldbynight.mp4"
-GITHUB_VIDEO_FILE = Path(__file__).resolve().parent / "media" / "20250520_1822_Vibrant City Billboard_simple_compose_01jvq81fa7eywa1d4r9363dzd0.mp4"
+#GITHUB_VIDEO_FILE = Path(__file__).resolve().parent / "media" / "20250520_1822_Vibrant City Billboard_simple_compose_01jvq81fa7eywa1d4r9363dzd0.mp4"
+GITHUB_VIDEO_FILE = Path(__file__).resolve().parent / "media" / ""
 MUSIC_FILE = Path(__file__).resolve().parent / "media" / "INDEPENDENCE. (mp3cut.net).mp3"
 W, H,  PAD = 1080, 1080, 50
 HBAR = 140
