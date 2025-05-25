@@ -94,9 +94,7 @@ def scrape_events(base_url):
                     # ---------- Datum ----------------------------------------
                     m_date = _date_re.search(raw_event_date)
                     if m_date:
-                        formatted_event_date = dt.strptime(
-                            m_date.group(1), "%d.%m.%Y"
-                        ).strftime("%Y-%m-%d")
+                        formatted_event_date = dt.strptime(m_date.group(1), "%d.%m.%Y").strftime("%a, %d.%m.%Y")    
                     else:
                         formatted_event_date = raw_event_date  # Fallback
 
@@ -730,6 +728,6 @@ if __name__ == '__main__':
     filtered_events.sort(key=lambda e: parse_event_date(e["date"]))
 
     with open("events.json", "w", encoding="utf-8") as f:
-        json.dump(events, f, indent=4, ensure_ascii=False)
+        json.dump(filtered_events, f, indent=4, ensure_ascii=False)
     #with open('events.json', 'w', encoding='utf-8') as file:
         #json.dump(events, file, indent=4, ensure_ascii=False)
