@@ -76,7 +76,9 @@ def scrape_events(base_url):
                         'event': event,
                         'link': full_link
                     })
-
+    
+    _date_re  = re.compile(r'(\d{2}\.\d{2}\.\d{4})')
+    _time_re  = re.compile(r'(\d{1,2}:\d{2})')  
     if base_url == bielefeld_jetzt:
         event_containers = soup.find_all("div", class_="veranstaltung")
         for event_container in event_containers:
