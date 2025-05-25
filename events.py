@@ -94,7 +94,7 @@ def scrape_events(base_url):
                     # ---------- Datum ----------------------------------------
                     m_date = _date_re.search(raw_event_date)
                     if m_date:
-                        formatted_event_date = datetime.strptime(
+                        formatted_event_date = dt.strptime(
                             m_date.group(1), "%d.%m.%Y"
                         ).strftime("%Y-%m-%d")
                     else:
