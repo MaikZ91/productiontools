@@ -234,111 +234,167 @@ def weekend_post():
     
 def daily_video() -> Tuple[str, Optional[str]]:
     """
-    Erstellt ein Scroll-Reel der heutigen Events (inkl. Start-Uhrzeit),
-    lädt es auf GitHub & postet es auf Instagram zurück.
+    Erstellt ein kontinuierliches Scroll-Video der heutigen Events im 9:16-Format,
+    lädt es ins GitHub-Repo hoch und postet es als Instagram-Reel.
+    Liefert (GitHub-Download-URL, Instagram-Reel-ID).
     """
     tz = pytz.timezone("Europe/Berlin")
     today_str = datetime.now(tz).strftime("%d.%m")
 
-    # Ziel-Auflösung
+    # Zielauflösung (Instagram Reels)
     W, H = 1080, 1920
 
-    # 1) Events abrufen  --------------------------------------------------
+    # ─────────────────────────
+    # 1) Events abrufen
+    # ─────────────────────────
     try:
         resp = requests.get(URL, timeout=10)
         resp.raise_for_status()
-        all_events = resp.json()
-        # ganze Dicts behalten – nicht nur den Titel!
-        events = [
-            ev for ev in all_events
-            if ev.get("date", "").endswith(today_str)
+        data = resp.json()                         # erwartet List[dict]
+        raw_events: List[dict] = [
+            e for e in data
+            if e.get("date", "").endswith(today_str)
         ]
     except requests.RequestException as e:
         print(f"Fehler beim Abrufen der Events: {e}")
-        events = []
+        raw_events = []
 
-    if not events:
-        events = [{"event": "Keine Events gefunden", "time": ""}]
+    if not raw_events:
+        raw_events = [{
+            "event": "Keine Events gefunden",
+            "time": "",
+            "location": "",
+        }]
 
-    # Zerlegen: [(title, location, time)]
-    parsed_events = []
-    for ev in events:
-        full = ev.get("event", "")
-        m = re.match(r"^(.*?)\s*\(@(.*?)\)$", full)  # „Titel (@Location)“
-        title, location = m.groups() if m else (full, "")
-        time_str = ev.get("time") or ev.get("start_time") or ""
-        parsed_events.append((title.strip(), location.strip(), time_str.strip()))
+    # ─────────────────────────
+    # 2) Events parsen → (title, location, time)
+    # ─────────────────────────
+    parsed_events: List[Tuple[str, str, str]] = []
+    for ev in raw_events:
+        event_str = ev.get("event", "")
+        # evtl. "Titel (Ort)" innerhalb des einen Strings
+        m = re.match(r"^(.*?)\s*\((.*?)\)$", event_str)
+        if m:
+            title, loc_in_brackets = m.groups()
+            location = loc_in_brackets or ev.get("location", "")
+        else:
+            title = event_str
+            location = ev.get("location", "")
+        time_str = (ev.get("time") or "").strip()
+        parsed_events.append((
+            title.strip(),
+            location.strip(),
+            time_str
+        ))
 
-    # 2) Basis-Video ------------------------------------------------------
+    # ─────────────────────────
+    # 3) Basis-Clip laden & zuschneiden
+    # ─────────────────────────
     base_clip = VideoFileClip(str(GITHUB_VIDEO_FILE)).without_audio()
     scale = max(W / base_clip.w, H / base_clip.h)
-    base_clip = (base_clip.resize(scale)
-                           .crop(width=W, height=H,
-                                 x_center=base_clip.w / 2,
-                                 y_center=base_clip.h / 2))
-    duration     = base_clip.duration
-    scroll_time  = duration - TITLE_DURATION
+    base_clip = (
+        base_clip
+        .resize(scale)
+        .crop(width=W, height=H,
+              x_center=base_clip.w / 2,
+              y_center=base_clip.h / 2)
+    )
 
-    # Title-Overlay -------------------------------------------------------
+    duration      = base_clip.duration
+    scroll_time   = duration - TITLE_DURATION
+
+    # ─────────────────────────
+    # 4) Titel-Overlay
+    # ─────────────────────────
     for fp in FONT_PATHS:
         try:
-            t_font = ImageFont.truetype(fp, TITLE_FONT_SIZE); break
+            title_font = ImageFont.truetype(fp, TITLE_FONT_SIZE)
+            break
         except OSError:
-            t_font = ImageFont.load_default()
-    dummy = Image.new("RGBA", (1, 1)); d = ImageDraw.Draw(dummy)
-    tw, th = d.textbbox((0, 0), TITLE_TEXT, font=t_font)[2:]
+            title_font = ImageFont.load_default()
+    dummy = Image.new("RGBA", (1, 1))
+    draw  = ImageDraw.Draw(dummy)
+    tw, th = draw.textbbox((0, 0), TITLE_TEXT, font=title_font)[2:]
     title_img = Image.new("RGBA", (tw + 2*PADDING, th + 2*PADDING), (0, 0, 0, 0))
-    ImageDraw.Draw(title_img).text((PADDING, PADDING), TITLE_TEXT, font=t_font, fill=TXT_COLOR)
-    title_clip = (ImageClip(np.array(title_img))
-                  .set_duration(TITLE_DURATION)
-                  .set_position(("center", "center"))
-                  .crossfadeout(TITLE_FADE))
+    draw = ImageDraw.Draw(title_img)
+    draw.text((PADDING, PADDING), TITLE_TEXT, font=title_font, fill=TXT_COLOR)
+    title_clip = (
+        ImageClip(np.array(title_img))
+        .set_duration(TITLE_DURATION)
+        .set_position(("center", "center"))
+        .crossfadeout(TITLE_FADE)
+    )
 
-    # 3) Scroll-Clips -----------------------------------------------------
-    clips  = []
-    total  = len(parsed_events)
-    for idx, (title, location, t_str) in enumerate(parsed_events):
+    # ─────────────────────────
+    # 5) Scroll-Overlay erzeugen
+    # ─────────────────────────
+    clips = []
+    total = len(parsed_events)
+    for idx, (title, location, time_str) in enumerate(parsed_events):
 
-        # passende Schrift
+        # passendes Font-Objekt laden
         for fp in FONT_PATHS:
             try:
-                fnt = ImageFont.truetype(fp, FONT_SIZE); break
+                font = ImageFont.truetype(fp, FONT_SIZE)
+                break
             except OSError:
-                fnt = ImageFont.load_default()
+                font = ImageFont.load_default()
 
-        head = f"{t_str}  " if t_str else ""
-        text_block = head + title + ("\n" + location if location else "")
+        # Textblock baustellen
+        first_line = title + (f" – {time_str}" if time_str else "")
+        text_block = first_line + ("\n" + location if location else "")
 
-        dummy = Image.new("RGBA", (1, 1)); d = ImageDraw.Draw(dummy)
-        w_text, h_text = d.multiline_textbbox((0, 0), text_block, font=fnt)[2:]
+        dummy = Image.new("RGBA", (1, 1))
+        draw  = ImageDraw.Draw(dummy)
+        w_text, h_text = draw.multiline_textbbox((0, 0), text_block, font=font)[2:]
 
         img = Image.new("RGBA", (w_text + 2*PADDING, h_text + 2*PADDING), (0, 0, 0, 0))
-        ImageDraw.Draw(img).multiline_text((PADDING, PADDING), text_block, font=fnt, fill=TXT_COLOR)
-        clip = (ImageClip(np.array(img))
-                .set_duration(scroll_time)
-                .set_start(TITLE_DURATION))
+        draw = ImageDraw.Draw(img)
+        draw.multiline_text((PADDING, PADDING), text_block, font=font, fill=TXT_COLOR)
 
+        clip = (
+            ImageClip(np.array(img))
+            .set_duration(scroll_time)
+            .set_start(TITLE_DURATION)
+        )
+
+        # Animation: vertikal scrollen & zentrales Hervorheben
         line_h   = h_text + 2*PADDING
         distance = H + total * line_h
         speed    = distance / scroll_time * SCROLL_FACTOR
         start_y  = H + idx * line_h
 
-        clips.append(
-            clip.set_position(lambda t, sy=start_y, sp=speed: (PADDING, sy - sp*t))
-                .resize(lambda t, lh=line_h, sy=start_y, sp=speed:
-                        1 + HIGHLIGHT_SCALE * max(0, 1 - abs((sy - sp*t) +
-                                                             h_text/2 + PADDING - H/2) / lh))
-        )
+        def pos_fn(t, sy=start_y, sp=speed):
+            return (PADDING, sy - sp * t)
 
-    # 4) Komposition / Musik ---------------------------------------------
-    final = CompositeVideoClip([base_clip, title_clip, *clips], size=(W, H))
+        def scale_fn(t, lh=line_h, sy=start_y, sp=speed):
+            y = sy - sp * t
+            center = y + h_text/2 + PADDING
+            d      = abs(center - H/2)
+            if d <= lh:
+                return 1 + HIGHLIGHT_SCALE * (1 - d/lh)
+            return 1
+
+        clips.append(clip.set_position(pos_fn).resize(scale_fn))
+
+    # ─────────────────────────
+    # 6) Video zusammensetzen + Musik
+    # ─────────────────────────
+    final = CompositeVideoClip(
+        [base_clip, title_clip, *clips],
+        size=(W, H)
+    )
+
     if os.path.isfile(MUSIC_FILE):
         try:
-            final = final.set_audio(AudioFileClip(str(MUSIC_FILE)).subclip(0, duration))
+            audio = AudioFileClip(str(MUSIC_FILE)).subclip(0, duration)
+            final = final.set_audio(audio)
         except Exception as e:
-            print("⚠️  Musikproblem:", e)
+            print(f"Fehler beim Laden der Musik: {e}")
 
-    # 5) Rendern in tmp-File ---------------------------------------------
+    # ─────────────────────────
+    # 7) Rendern
+    # ─────────────────────────
     with NamedTemporaryFile(suffix=".mp4", delete=False) as tmp:
         tmp_path = tmp.name
     final.write_videofile(tmp_path, codec="libx264", fps=FPS, audio_codec="aac")
@@ -346,30 +402,59 @@ def daily_video() -> Tuple[str, Optional[str]]:
         video_bytes = f.read()
     os.remove(tmp_path)
 
-    # 6) GitHub-Upload (gleich wie zuvor) ---------------------------------
+    # ─────────────────────────
+    # 8) Upload zu GitHub
+    # ─────────────────────────
     path = datetime.now(tz).strftime("videos/%Y/%m/%d/%H%M_events.mp4")
     url_content = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{path}"
     headers = {"Authorization": f"token {GITHUB_TOKEN}"}
-    sha = (requests.get(url_content, headers=headers).json().get("sha")
-           if requests.get(url_content, headers=headers).status_code == 200 else None)
-    body = {"message": os.path.basename(path),
-            "content": base64.b64encode(video_bytes).decode()}
-    if sha: body["sha"] = sha
-    github_url = requests.put(url_content, headers=headers, json=body).json()["content"]["download_url"]
 
-    # 7) Caption  ---------------------------------------------------------
-    music_credit = "🎵 Music by @mz.9_nyc"
-    video_credit = "🎥 Video by @sora.ai_"
-    caption_lines = []
-    for title, location, t_str in parsed_events:
-        head = f"{t_str}  " if t_str else ""
-        caption_lines.append(f"• {head}{title}" + (f"\n{location}" if location else ""))
-    caption = ("🎬 Events heute – "
-               + datetime.now(tz).strftime("%d.%m.%Y") + "\n"
-               + "\n".join(caption_lines)
-               + f"\n\n{music_credit}\n{video_credit}")
-    
-    ig_base = f"https://graph.facebook.com/v21.0"
+    sha = None
+    try:
+        get_resp = requests.get(url_content, headers=headers)
+        if get_resp.status_code == 200:
+            sha = get_resp.json().get("sha")
+    except requests.RequestException as e:
+        print(f"Fehler beim Prüfen vorhandener Datei: {e}")
+
+    body = {
+        "message": os.path.basename(path),
+        "content": base64.b64encode(video_bytes).decode()
+    }
+    if sha:
+        body["sha"] = sha
+
+    try:
+        put_resp = requests.put(url_content, headers=headers, json=body)
+        put_resp.raise_for_status()
+        github_url = put_resp.json()["content"]["download_url"]
+    except requests.RequestException as e:
+        print(f"Fehler beim Hochladen zu GitHub: {e}")
+        raise
+
+    # ─────────────────────────
+    # 9) Instagram-Reel posten
+    # ─────────────────────────
+    music_credit  = "🎵 Music by @mz.9_nyc"
+    video_credit  = "🎥 Video by @sora.ai_"
+
+    caption_lines: List[str] = []
+    for title, location, time_str in parsed_events:
+        line = f"• {title}"
+        if time_str:
+            line += f" – {time_str}"
+        if location:
+            line += f"\n{location}"
+        caption_lines.append(line)
+
+    caption = (
+        f"🎬 Events heute – {datetime.now(tz).strftime('%d.%m.%Y')}\n"
+        + "\n".join(caption_lines)
+        + f"\n\n{music_credit}\n{video_credit}"
+    )
+
+    ig_base = "https://graph.facebook.com/v21.0"
+    reel_id: Optional[str] = None
     try:
         create_resp = requests.post(
             f"{ig_base}/{IG_USER}/media",
@@ -379,20 +464,24 @@ def daily_video() -> Tuple[str, Optional[str]]:
                 "caption": caption,
                 "share_to_feed": "true",
                 "access_token": IG_TOKEN,
-            }, timeout=60,
+            },
+            timeout=60,
         )
         create_resp.raise_for_status()
         creation_id = create_resp.json().get("id")
     except requests.RequestException as e:
         print(f"Fehler beim Erstellen des Reels: {e}")
         return github_url, None
-    reel_id: Optional[str] = None
+
     if creation_id:
         poll_url = f"{ig_base}/{creation_id}"
         for _ in range(40):
             time.sleep(5)
             try:
-                status_resp = requests.get(poll_url, params={"fields": "status_code", "access_token": IG_TOKEN})
+                status_resp = requests.get(
+                    poll_url,
+                    params={"fields": "status_code", "access_token": IG_TOKEN},
+                )
                 status_resp.raise_for_status()
             except requests.RequestException:
                 break
@@ -400,7 +489,11 @@ def daily_video() -> Tuple[str, Optional[str]]:
                 try:
                     publish_resp = requests.post(
                         f"{ig_base}/{IG_USER}/media_publish",
-                        data={"creation_id": creation_id, "access_token": IG_TOKEN}, timeout=60
+                        data={
+                            "creation_id": creation_id,
+                            "access_token": IG_TOKEN,
+                        },
+                        timeout=60,
                     )
                     publish_resp.raise_for_status()
                     reel_id = publish_resp.json().get("id")
@@ -408,22 +501,34 @@ def daily_video() -> Tuple[str, Optional[str]]:
                     pass
                 break
 
-    # 9) Instagram-Story posten
+    # ─────────────────────────
+    # 10) Instagram-Story posten
+    # ─────────────────────────
     try:
         story_resp = requests.post(
             f"{ig_base}/{IG_USER}/media",
-            data={"media_type": "STORIES", "video_url": github_url, "caption": caption, "access_token": IG_TOKEN}, timeout=60
+            data={
+                "media_type": "STORIES",
+                "video_url": github_url,
+                "caption": caption,
+                "access_token": IG_TOKEN
+            },
+            timeout=60,
         )
         story_resp.raise_for_status()
         story_id = story_resp.json().get("id")
     except requests.RequestException:
         return github_url, reel_id
+
     if story_id:
         poll_story = f"{ig_base}/{story_id}"
         for _ in range(60):
             time.sleep(5)
             try:
-                status = requests.get(poll_story, params={"fields": "status_code", "access_token": IG_TOKEN})
+                status = requests.get(
+                    poll_story,
+                    params={"fields": "status_code", "access_token": IG_TOKEN},
+                )
                 status.raise_for_status()
             except requests.RequestException:
                 break
@@ -431,7 +536,11 @@ def daily_video() -> Tuple[str, Optional[str]]:
                 try:
                     publish = requests.post(
                         f"{ig_base}/{IG_USER}/media_publish",
-                        data={"creation_id": story_id, "access_token": IG_TOKEN}, timeout=60
+                        data={
+                            "creation_id": story_id,
+                            "access_token": IG_TOKEN,
+                        },
+                        timeout=60,
                     )
                     publish.raise_for_status()
                 except requests.RequestException:
