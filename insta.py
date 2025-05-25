@@ -232,7 +232,7 @@ def weekend_post():
     )
     print("🎉 Weekend-Post ID:", pid)
     
-ef _is_today(date_field: str, tz) -> bool:
+def _is_today(date_field: str, tz) -> bool:
     if not date_field:
         return False
     today = datetime.now(tz).date()
