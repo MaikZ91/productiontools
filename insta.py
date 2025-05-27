@@ -264,13 +264,13 @@ def daily_video() -> Tuple[str, Optional[str]]:
     parsed_events = []
     for ev in events:
         raw   = ev.get("event", "")
-        time  = (ev.get("time") or "").strip()          # <-- Uhrzeit holen
+        event_time  = (ev.get("time") or "").strip()          # <-- Uhrzeit holen
         m = re.match(r"^(.*?)\s*\((.*?)\)$", raw)
         if m:
             title, location = m.groups()
         else:
             title, location = raw, ""
-        parsed_events.append((title.strip(), location.strip(), time))
+        parsed_events.append((title.strip(), location.strip(), event_time))
 
 
     # 2) Basis-Video laden und so skalieren, dass es vollständig füllt (kein Letterboxing)
@@ -314,7 +314,7 @@ def daily_video() -> Tuple[str, Optional[str]]:
     clips = []
     total = len(parsed_events)
     
-    for idx, (title, location, time) in enumerate(parsed_events):
+    for idx, (title, location, event_time) in enumerate(parsed_events):
         for fp in FONT_PATHS:
             try:
                 font = ImageFont.truetype(fp, FONT_SIZE)
@@ -393,10 +393,10 @@ def daily_video() -> Tuple[str, Optional[str]]:
     
     # Caption zweizeilig aufbauen
     caption_lines = []
-    for title, location, time in parsed_events:
+    for title, location, event_time in parsed_events:
         line = "• "
-        if time:
-            line += f"[{time}] "
+        if event_time:
+            line += f"[{event_time}] "
         line += title
         if location:
             line += f"\n{location}"
