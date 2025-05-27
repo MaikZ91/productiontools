@@ -314,7 +314,7 @@ def daily_video() -> Tuple[str, Optional[str]]:
     clips = []
     total = len(parsed_events)
     
-    for idx, (title, location) in enumerate(parsed_events):
+    for idx, (title, location, time) in enumerate(parsed_events):
         for fp in FONT_PATHS:
             try:
                 font = ImageFont.truetype(fp, FONT_SIZE)
