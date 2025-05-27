@@ -356,9 +356,9 @@ def daily_video() -> Tuple[str, Optional[str]]:
             except OSError:
                 font = ImageFont.load_default()
         prefix = ""
-            if event_time:
+        if event_time:
                 prefix += f"[{event_time}] "
-            if ig_handle:
+        if ig_handle:
                 prefix += f"@{ig_handle} "
         text_block = prefix + title + ("\n" + location if location else "")
         dummy = Image.new("RGBA", (1, 1))
