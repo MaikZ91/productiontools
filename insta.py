@@ -16,7 +16,7 @@ import moviepy.editor
 from moviepy.editor import VideoFileClip, CompositeVideoClip, ImageClip, AudioFileClip
 from tempfile import NamedTemporaryFile
 import re
-
+import urllib.parse 
 
 URL = "https://raw.githubusercontent.com/MaikZ91/productiontools/master/events.json"
 #GITHUB_VIDEO_FILE = Path(__file__).resolve().parent / "media" / "3188890-hd_1920_1080_25fps.mp4"
