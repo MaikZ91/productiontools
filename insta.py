@@ -71,36 +71,61 @@ def font(pt:int):
     try: return ImageFont.truetype("DejaVuSans-Bold.ttf", pt)
     except OSError: return ImageFont.load_default()
 
-HANDLE_CACHE: dict[str, str] = {}   #  in Memory – kannst du nach Lauf speichern
+RE_IG = re.compile(r"https?://(?:www\.)?instagram\.com/([A-Za-z0-9_.]+)/?")
 
-RE_IG = re.compile(r"https://(?:www\.)?instagram\.com/([A-Za-z0-9_.]+)/?")
+HANDLE_CACHE: dict[str, str] = {}          # erspart wiederholte Anfragen
+DDG_HEADERS = {"User-Agent": "Mozilla/5.0"}
 
 def fetch_handle(name: str) -> str | None:
-    """Liefert den Instagram-Handle (ohne @) oder None, wenn keiner gefunden."""
-    if name in HANDLE_CACHE:               # 1) schon bekannt
+    """
+    Liefert den Instagram-Handle (ohne @) oder None.
+    Erst DuckDuckGo-HTML, dann Instagram-Autocomplete als Fallback.
+    Ergebnis wird gecacht.
+    """
+    name = name.strip()
+    if not name:
+        return None
+    if name in HANDLE_CACHE:
         return HANDLE_CACHE[name]
 
-    q = f"{name} instagram"
+    # ------------------------------------------------------------
+    # 1) DuckDuckGo – erstes Ergebnis, das nach instagram.com/... aussieht
+    # ------------------------------------------------------------
     try:
-        resp = requests.get(
-            "https://duckduckgo.com/html/",
-            params={"q": q}, timeout=10, headers={"User-Agent": "Mozilla/5.0"}
-        )
-        resp.raise_for_status()
+        q     = f"{name} instagram"
+        html0 = requests.get("https://duckduckgo.com/html/",
+                             params={"q": q},
+                             headers=DDG_HEADERS, timeout=10).text
+        html0 = html.unescape(html0)
+        m     = RE_IG.search(html0)
+        if m:
+            HANDLE_CACHE[name] = m.group(1).rstrip("/")
+            time.sleep(1)                         # kleines Delay für Rate-Limit
+            return HANDLE_CACHE[name]
     except requests.RequestException:
-        return None
+        pass
 
-    # HTML-decode & nach erster IG-URL suchen
-    text = html.unescape(resp.text)
-    m    = RE_IG.search(text)
-    if not m:
-        return None
+    # ------------------------------------------------------------
+    # 2) Instagram-Autocomplete (KEIN Login nötig, aber Rate-Limit streng)
+    #    https://www.instagram.com/web/search/topsearch/?context=user&query=<name>
+    # ------------------------------------------------------------
+    try:
+        q = urllib.parse.quote(name)
+        url = f"https://www.instagram.com/web/search/topsearch/?context=user&query={q}&rank_token={random.randint(1,1_000_000)}"
+        js = requests.get(url, headers=DDG_HEADERS, timeout=10).json()
+        users = js.get("users", [])
+        if users:
+            HANDLE_CACHE[name] = users[0]["user"]["username"]
+            time.sleep(1)
+            return HANDLE_CACHE[name]
+    except (requests.RequestException, json.JSONDecodeError, KeyError):
+        pass
 
-    handle = m.group(1).rstrip("/")        #  "@foo/" → "foo"
-    HANDLE_CACHE[name] = handle            #  merken
-    # etwas höflich sein – kleine Pause, damit wir nicht gesperrt werden
-    time.sleep(1)
-    return handle
+    # ------------------------------------------------------------
+    # Nichts gefunden
+    # ------------------------------------------------------------
+    HANDLE_CACHE[name] = None
+    return None
 
 
 def red_grad(d,h):
@@ -304,6 +329,7 @@ def daily_video() -> Tuple[str, Optional[str]]:
             title, location = raw, ""
 
         ig_handle  = fetch_handle(title.strip()) or ""
+        print(f"✏️  {title}  ->  @{ig_handle or '❌ kein Handle'}")
         parsed_events.append((title.strip(), location.strip(), event_time, ig_handle))
 
 
