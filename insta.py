@@ -239,7 +239,9 @@ def daily_video() -> Tuple[str, Optional[str]]:
     Liefert (GitHub-URL, Instagram-Reel-ID).
     """
     tz = pytz.timezone("Europe/Berlin")
-    today_str = datetime.now(tz).strftime("%d.%m")
+    #today_str = datetime.now(tz).strftime("%d.%m")
+    tomorrow = datetime.now(tz) + timedelta(days=1)
+    today_str = tomorrow.strftime("%d.%m") 
 
     # Ziel-Auflösung Instagram-Reel
     W, H = 1080, 1920
