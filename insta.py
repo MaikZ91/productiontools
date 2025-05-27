@@ -251,7 +251,9 @@ def daily_video() -> Tuple[str, Optional[str]]:
         resp = requests.get(URL, timeout=10)
         resp.raise_for_status()
         data = resp.json()
-        events = [e.get("event", "") for e in data if e.get("date", "").endswith(today_str)]
+        date_re = re.compile(rf"\b{today_str}\b")                # today_str = "28.05"
+        events = [e.get("event", "") for e in data if date_re.search(e.get("date", ""))]
+        #events = [e.get("event", "") for e in data if e.get("date", "").endswith(today_str)]
     except requests.RequestException as e:
         print(f"Fehler beim Abrufen der Events: {e}")
         events = []
@@ -476,7 +478,9 @@ def main():
     tz=pytz.timezone("Europe/Berlin")
     dm=datetime.now(tz).strftime("%d.%m")
     raw=requests.get(URL,timeout=10).text
-    events=[e for e in json.loads(raw) if e.get("date","?").endswith(dm) and "hochschulsport" not in e.get("event","").lower()]
+    date_re = re.compile(rf"\b{dm}\b")                       # dm = "27.05"
+    #events=[e for e in json.loads(raw)if date_re.search(e.get("date",""))and "hochschulsport" not in e.get("event","").lower()]
+    #events=[e for e in json.loads(raw) if e.get("date","?").endswith(dm) and "hochschulsport" not in e.get("event","").lower()]
     #events = [e for e in json.loads(raw) if e.get("date","?").endswith(dm)]
 
     weekday=datetime.now(tz).weekday()
