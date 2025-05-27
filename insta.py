@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 from __future__ import annotations
-import requests, json, pytz, io, base64, os, time
+import requests, json, pytz, io, base64, os, time, html
 from datetime import datetime,timedelta
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 if not hasattr(Image, "ANTIALIAS"):
@@ -70,6 +70,38 @@ def font(pt:int):
         except OSError: pass
     try: return ImageFont.truetype("DejaVuSans-Bold.ttf", pt)
     except OSError: return ImageFont.load_default()
+
+HANDLE_CACHE: dict[str, str] = {}   #  in Memory – kannst du nach Lauf speichern
+
+RE_IG = re.compile(r"https://(?:www\.)?instagram\.com/([A-Za-z0-9_.]+)/?")
+
+def fetch_handle(name: str) -> str | None:
+    """Liefert den Instagram-Handle (ohne @) oder None, wenn keiner gefunden."""
+    if name in HANDLE_CACHE:               # 1) schon bekannt
+        return HANDLE_CACHE[name]
+
+    q = f"{name} instagram"
+    try:
+        resp = requests.get(
+            "https://duckduckgo.com/html/",
+            params={"q": q}, timeout=10, headers={"User-Agent": "Mozilla/5.0"}
+        )
+        resp.raise_for_status()
+    except requests.RequestException:
+        return None
+
+    # HTML-decode & nach erster IG-URL suchen
+    text = html.unescape(resp.text)
+    m    = RE_IG.search(text)
+    if not m:
+        return None
+
+    handle = m.group(1).rstrip("/")        #  "@foo/" → "foo"
+    HANDLE_CACHE[name] = handle            #  merken
+    # etwas höflich sein – kleine Pause, damit wir nicht gesperrt werden
+    time.sleep(1)
+    return handle
+
 
 def red_grad(d,h):
     for y in range(h):
@@ -270,7 +302,9 @@ def daily_video() -> Tuple[str, Optional[str]]:
             title, location = m.groups()
         else:
             title, location = raw, ""
-        parsed_events.append((title.strip(), location.strip(), event_time))
+
+        ig_handle  = fetch_handle(title.strip()) or ""
+        parsed_events.append((title.strip(), location.strip(), event_time, ig_handle))
 
 
     # 2) Basis-Video laden und so skalieren, dass es vollständig füllt (kein Letterboxing)
@@ -321,7 +355,11 @@ def daily_video() -> Tuple[str, Optional[str]]:
                 break
             except OSError:
                 font = ImageFont.load_default()
-        prefix     = f"[{event_time}] " if event_time else ""       # <-- nur wenn vorhanden
+        prefix = ""
+            if event_time:
+                prefix += f"[{event_time}] "
+            if ig_handle:
+                prefix += f"@{ig_handle} "
         text_block = prefix + title + ("\n" + location if location else "")
         dummy = Image.new("RGBA", (1, 1))
         draw = ImageDraw.Draw(dummy)
@@ -397,6 +435,8 @@ def daily_video() -> Tuple[str, Optional[str]]:
         line = "• "
         if event_time:
             line += f"[{event_time}] "
+        if ig_handle:
+            line += f"@{ig_handle} "
         line += title
         if location:
             line += f"\n{location}"
@@ -408,6 +448,11 @@ def daily_video() -> Tuple[str, Optional[str]]:
         + f"\n\n{music_credit}\n{video_credit}"
     )
 
+    user_tags = [
+    {"username": h, "x": 0.5, "y": 0.15 + i*0.05}
+    for i, (_, _, _, h) in enumerate(parsed_events) if h
+    ]
+
     ig_base = f"https://graph.facebook.com/v21.0"
     try:
         create_resp = requests.post(
@@ -417,6 +462,7 @@ def daily_video() -> Tuple[str, Optional[str]]:
                 "video_url": github_url,
                 "caption": caption,
                 "share_to_feed": "true",
+                "user_tags": json.dumps(user_tags),
                 "access_token": IG_TOKEN,
             }, timeout=60,
         )
