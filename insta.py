@@ -251,9 +251,10 @@ def daily_video() -> Tuple[str, Optional[str]]:
         resp = requests.get(URL, timeout=10)
         resp.raise_for_status()
         data = resp.json()
-        date_re = re.compile(rf"\b{today_str}\b")                # today_str = "28.05"
-        events = [e.get("event", "") for e in data if date_re.search(e.get("date", ""))]
-        #events = [e.get("event", "") for e in data if e.get("date", "").endswith(today_str)]
+        date_re = re.compile(rf"\b{today_str}\b")
+        events   = [e for e in data if date_re.search(e.get("date", ""))]
+        #events = [e.get("event", "") for e in data if date_re.search(e.get("date", ""))]
+        
     except requests.RequestException as e:
         print(f"Fehler beim Abrufen der Events: {e}")
         events = []
@@ -261,13 +262,15 @@ def daily_video() -> Tuple[str, Optional[str]]:
         events = ["Keine Events gefunden"]
 
     parsed_events = []
-    for e_str in events:
-        m = re.match(r"^(.*?)\s*\((.*?)\)$", e_str)
+    for ev in events:
+        raw   = ev.get("event", "")
+        time  = ev.get("time", "").strip()          # <-- Uhrzeit holen
+        m = re.match(r"^(.*?)\s*\((.*?)\)$", raw)
         if m:
             title, location = m.groups()
         else:
-            title, location = e_str, ""
-        parsed_events.append((title.strip(), location.strip()))
+            title, location = raw, ""
+        parsed_events.append((title.strip(), location.strip(), time))
 
 
     # 2) Basis-Video laden und so skalieren, dass es vollständig füllt (kein Letterboxing)
@@ -318,7 +321,8 @@ def daily_video() -> Tuple[str, Optional[str]]:
                 break
             except OSError:
                 font = ImageFont.load_default()
-        text_block = title + ("\n" + location if location else "")
+        prefix     = f"[{time}] " if time else ""       # <-- nur wenn vorhanden
+        text_block = prefix + title + ("\n" + location if location else "")
         dummy = Image.new("RGBA", (1, 1))
         draw = ImageDraw.Draw(dummy)
         bbox = draw.multiline_textbbox((0, 0), text_block, font=font)
@@ -389,11 +393,14 @@ def daily_video() -> Tuple[str, Optional[str]]:
     
     # Caption zweizeilig aufbauen
     caption_lines = []
-    for title, location in parsed_events:
+    for title, location, time in parsed_events:
+        line = "• "
+        if time:
+            line += f"[{time}] "
+        line += title
         if location:
-            caption_lines.append(f"• {title}\n{location}")
-        else:
-            caption_lines.append(f"• {title}")
+            line += f"\n{location}"
+        caption_lines.append(line)
     
     caption = (
         f"🎬 Events heute – {datetime.now(tz).strftime('%d.%m.%Y')}\n"
