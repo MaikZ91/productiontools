@@ -264,7 +264,7 @@ def daily_video() -> Tuple[str, Optional[str]]:
     parsed_events = []
     for ev in events:
         raw   = ev.get("event", "")
-        time  = ev.get("time", "").strip()          # <-- Uhrzeit holen
+        time  = (ev.get("time") or "").strip()          # <-- Uhrzeit holen
         m = re.match(r"^(.*?)\s*\((.*?)\)$", raw)
         if m:
             title, location = m.groups()
