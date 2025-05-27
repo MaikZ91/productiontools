@@ -321,7 +321,7 @@ def daily_video() -> Tuple[str, Optional[str]]:
                 break
             except OSError:
                 font = ImageFont.load_default()
-        prefix     = f"[{time}] " if time else ""       # <-- nur wenn vorhanden
+        prefix     = f"[{event_time}] " if event_time else ""       # <-- nur wenn vorhanden
         text_block = prefix + title + ("\n" + location if location else "")
         dummy = Image.new("RGBA", (1, 1))
         draw = ImageDraw.Draw(dummy)
