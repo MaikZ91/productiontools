@@ -348,7 +348,7 @@ def daily_video() -> Tuple[str, Optional[str]]:
     clips = []
     total = len(parsed_events)
     
-    for idx, (title, location, event_time) in enumerate(parsed_events):
+    for idx, (title, location, event_time, ig_handle) in enumerate(parsed_events):
         for fp in FONT_PATHS:
             try:
                 font = ImageFont.truetype(fp, FONT_SIZE)
@@ -431,7 +431,7 @@ def daily_video() -> Tuple[str, Optional[str]]:
     
     # Caption zweizeilig aufbauen
     caption_lines = []
-    for title, location, event_time in parsed_events:
+    for title, location, event_time, ig_handle in parsed_events:
         line = "• "
         if event_time:
             line += f"[{event_time}] "
