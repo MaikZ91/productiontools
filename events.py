@@ -80,58 +80,82 @@ def scrape_events(base_url):
     _date_re  = re.compile(r'(\d{2}\.\d{2}\.\d{4})')
     _time_re  = re.compile(r'(\d{1,2}:\d{2})')  
     if base_url == bielefeld_jetzt:
-        event_containers = soup.find_all("div", class_="veranstaltung")
-        for event_container in event_containers:
-            try:
-                event_link = event_container.find("a", class_="box-item")["href"]
-                event_name = event_container.find("h3").get_text(strip=True)
+    event_containers = soup.find_all("div", class_="veranstaltung")
+    for event_container in event_containers:
+        try:
+            event_link = event_container.find("a", class_="box-item")["href"]
+            event_name = event_container.find("h3").get_text(strip=True)
 
-                p_tags = event_container.find_all("p")
-                if len(p_tags) >= 3:
-                    raw_event_date = p_tags[1].get_text(" ", strip=True)
-                    event_location = p_tags[2].get_text(strip=True)
+            p_tags = event_container.find_all("p")
+            if len(p_tags) >= 3:
+                raw_event_date = p_tags[1].get_text(" ", strip=True)
+                event_location = p_tags[2].get_text(strip=True)
 
-                    # ---------- Datum ----------------------------------------
-                    m_date = _date_re.search(raw_event_date)
-                    if m_date:
-                        formatted_event_date = dt.strptime(m_date.group(1), "%d.%m.%Y").strftime("%a, %d.%m.%Y")    
-                    else:
-                        formatted_event_date = raw_event_date  # Fallback
+                # ---------- Datum ----------------------------------------
+                m_date = _date_re.search(raw_event_date)
+                if m_date:
+                    formatted_event_date = dt.strptime(m_date.group(1), "%d.%m.%Y").strftime("%a, %d.%m.%Y")    
+                else:
+                    formatted_event_date = raw_event_date  # Fallback
 
-                    # ---------- Start-Uhrzeit --------------------------------
-                    m_time = _time_re.search(raw_event_date)
-                    start_time = m_time.group(1) if m_time else None
+                # ---------- Start-Uhrzeit --------------------------------
+                m_time = _time_re.search(raw_event_date)
+                start_time = m_time.group(1) if m_time else None
 
-                    formatted_event_name = f"{event_name} (@{event_location})"
+                formatted_event_name = f"{event_name} (@{event_location})"
 
-                    # ---------- Ausschlussfilter -----------------------------
-                    if not any(sub in event_location for sub in [
-                        "Nr. z. P", "Bunker Ulmenwall", "Forum",
-                        "Johanneskirche Quelle (ev.)", "Zionskirche Bethel (ev.)",
-                        "Altstädter Nicolaikirche (ev.)", "Peterskirche Kirchdornberg (ev.)",
-                        "Johanniskirche (ev.)", "Peter-und-Pauls-Kirche Heepen (ev.)",
-                        "Neustädter Marienkirche (ev.)", "Kirche Brake (ev.)",
-                        "Haus der Kirche", "Capella Hospitalis",
-                        "Thomaskirche Schildesche (ev.)", "Eckardtsheim",
-                        "Ev.-Luth. Bartholomäus-Kirchengemeinde Bielefeld-Brackwede",
-                        "Bartholomäuskirche Brackwede (ev.-luth.)",
-                        "St. Jodokus-Kirche (kath.)", "Theaterwerkstatt Bethel",
-                        "Pappelkrug", "Marienkirche Jöllenbeck (ev.)",
-                        "Haus Wellensiek", "Neue Schmiede", "Movement-Theater",
-                        "Musik- und Kunstschule", "Bielefeld-Schildesche",
-                        "Kreuzkirche Sennestadt (ev.)",
-                        "Museum Peter August Böckstiegel", "Bielefeld-Gadderbaum",
-                        "Süsterkirche (ev.-ref.)", "Ev. Kirche Ummeln"
-                    ]):
-                        events.append({
-                            'date': formatted_event_date,
-                            'time': start_time,
-                            'event': formatted_event_name,
-                            'link': urljoin(base_url, event_link)
-                        })
-            except Exception as e:
-                print(f"Fehler bei bielefeld.jetzt: {e}")
-                continue
+                # ---------- Beschreibung nachladen ------------------------
+                description = ""
+                try:
+                    detail_resp = requests.get(urljoin(base_url, event_link), timeout=10)
+                    detail_resp.raise_for_status()
+                    detail_soup = BeautifulSoup(detail_resp.text, "html.parser")
+
+                    # typische Textcontainer durchsuchen
+                    for selector in (
+                        "div.text", "div.teaser", "div.v-copy", "div.cms-text", "article .text"
+                    ):
+                        node = detail_soup.select_one(selector)
+                        if node and node.get_text(strip=True):
+                            description = re.sub(r"\s+", " ", node.get_text(" ")).strip()
+                            break
+                    if not description:
+                        first_p = detail_soup.find("p")
+                        if first_p:
+                            description = re.sub(r"\s+", " ", first_p.get_text(" ")).strip()
+                except Exception as ex:
+                    print(f"Fehler beim Laden der Detailseite: {ex}")
+                    description = ""
+
+                # ---------- Ausschlussfilter -----------------------------
+                if not any(sub in event_location for sub in [
+                    "Nr. z. P", "Bunker Ulmenwall", "Forum",
+                    "Johanneskirche Quelle (ev.)", "Zionskirche Bethel (ev.)",
+                    "Altstädter Nicolaikirche (ev.)", "Peterskirche Kirchdornberg (ev.)",
+                    "Johanniskirche (ev.)", "Peter-und-Pauls-Kirche Heepen (ev.)",
+                    "Neustädter Marienkirche (ev.)", "Kirche Brake (ev.)",
+                    "Haus der Kirche", "Capella Hospitalis",
+                    "Thomaskirche Schildesche (ev.)", "Eckardtsheim",
+                    "Ev.-Luth. Bartholomäus-Kirchengemeinde Bielefeld-Brackwede",
+                    "Bartholomäuskirche Brackwede (ev.-luth.)",
+                    "St. Jodokus-Kirche (kath.)", "Theaterwerkstatt Bethel",
+                    "Pappelkrug", "Marienkirche Jöllenbeck (ev.)",
+                    "Haus Wellensiek", "Neue Schmiede", "Movement-Theater",
+                    "Musik- und Kunstschule", "Bielefeld-Schildesche",
+                    "Kreuzkirche Sennestadt (ev.)",
+                    "Museum Peter August Böckstiegel", "Bielefeld-Gadderbaum",
+                    "Süsterkirche (ev.-ref.)", "Ev. Kirche Ummeln"
+                ]):
+                    events.append({
+                        'date': formatted_event_date,
+                        'time': start_time,
+                        'event': formatted_event_name,
+                        'description': description,
+                        'link': urljoin(base_url, event_link)
+                    })
+        except Exception as e:
+            print(f"Fehler bei bielefeld.jetzt: {e}")
+            continue
 
 
     if base_url == forum:
