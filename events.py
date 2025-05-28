@@ -88,14 +88,13 @@ def scrape_events(base_url):
 
                 p_tags = event_container.find_all("p")
                 if len(p_tags) >= 3:
-                    event_category = p_tags[0].get_text(strip=True)  # Neu: Kategorie
                     raw_event_date = p_tags[1].get_text(" ", strip=True)
                     event_location = p_tags[2].get_text(strip=True)
 
                     # ---------- Datum ----------------------------------------
                     m_date = _date_re.search(raw_event_date)
                     if m_date:
-                        formatted_event_date = dt.strptime(m_date.group(1), "%d.%m.%Y").strftime("%a, %d.%m.%Y")    
+                        formatted_event_date = dt.strptime(m_date.group(1), "%d.%m.%Y").strftime("%a, %d.%m.%Y")
                     else:
                         formatted_event_date = raw_event_date  # Fallback
 
@@ -105,14 +104,16 @@ def scrape_events(base_url):
 
                     formatted_event_name = f"{event_name} (@{event_location})"
 
-                    # ---------- Beschreibung nachladen ------------------------
+                    # ---------- Detailseite laden ----------------------------
                     description = ""
+                    event_category = ""
                     try:
-                        detail_resp = requests.get(urljoin(base_url, event_link), timeout=10)
+                        detail_url = urljoin(base_url, event_link)
+                        detail_resp = requests.get(detail_url, timeout=10)
                         detail_resp.raise_for_status()
                         detail_soup = BeautifulSoup(detail_resp.text, "html.parser")
 
-                        # typische Textcontainer durchsuchen
+                        # ---- Beschreibung ----------------------------------
                         for selector in (
                             "div.text", "div.teaser", "div.v-copy", "div.cms-text", "article .text"
                         ):
@@ -124,9 +125,32 @@ def scrape_events(base_url):
                             first_p = detail_soup.find("p")
                             if first_p:
                                 description = re.sub(r"\s+", " ", first_p.get_text(" ")).strip()
+
+                        # ---- Kategorie aus Infobox („Infos“) ---------------
+                        # 1) Versuche ein <dt> oder <h4> Label "Infos"
+                        label = detail_soup.find(
+                            lambda tag: tag.name in ("dt", "h4") and "Infos" in tag.get_text()
+                        )
+                        if label:
+                            sib = label.find_next_sibling()
+                            if sib:
+                                event_category = sib.get_text(" ", strip=True)
+                        # 2) Fallback: typische Feldklassen (Drupal‑Felder)
+                        if not event_category:
+                            cat_node = detail_soup.select_one(
+                                "div.field--name-field-infos, div.field--name-field-themen, div.field--name-field-tags"
+                            )
+                            if cat_node:
+                                event_category = cat_node.get_text(" ", strip=True)
+                        # 3) Fallback: Metabox oben
+                        if not event_category:
+                            meta_node = detail_soup.select_one("div.meta")
+                            if meta_node:
+                                event_category = meta_node.get_text(" ", strip=True)
                     except Exception as ex:
                         print(f"Fehler beim Laden der Detailseite: {ex}")
                         description = ""
+                        event_category = ""
 
                     # ---------- Ausschlussfilter -----------------------------
                     if not any(sub in event_location for sub in [
@@ -151,7 +175,7 @@ def scrape_events(base_url):
                             'date': formatted_event_date,
                             'time': start_time,
                             'event': formatted_event_name,
-                            'category': event_category,  # Neu
+                            'category': event_category,
                             'description': description,
                             'link': urljoin(base_url, event_link)
                         })
