@@ -85,32 +85,33 @@ def scrape_events(base_url):
             try:
                 event_link = event_container.find("a", class_="box-item")["href"]
                 event_name = event_container.find("h3").get_text(strip=True)
-    
+
                 p_tags = event_container.find_all("p")
                 if len(p_tags) >= 3:
+                    event_category = p_tags[0].get_text(strip=True)  # Neu: Kategorie
                     raw_event_date = p_tags[1].get_text(" ", strip=True)
                     event_location = p_tags[2].get_text(strip=True)
-    
+
                     # ---------- Datum ----------------------------------------
                     m_date = _date_re.search(raw_event_date)
                     if m_date:
                         formatted_event_date = dt.strptime(m_date.group(1), "%d.%m.%Y").strftime("%a, %d.%m.%Y")    
                     else:
                         formatted_event_date = raw_event_date  # Fallback
-    
+
                     # ---------- Start-Uhrzeit --------------------------------
                     m_time = _time_re.search(raw_event_date)
                     start_time = m_time.group(1) if m_time else None
-    
+
                     formatted_event_name = f"{event_name} (@{event_location})"
-    
+
                     # ---------- Beschreibung nachladen ------------------------
                     description = ""
                     try:
                         detail_resp = requests.get(urljoin(base_url, event_link), timeout=10)
                         detail_resp.raise_for_status()
                         detail_soup = BeautifulSoup(detail_resp.text, "html.parser")
-    
+
                         # typische Textcontainer durchsuchen
                         for selector in (
                             "div.text", "div.teaser", "div.v-copy", "div.cms-text", "article .text"
@@ -126,7 +127,7 @@ def scrape_events(base_url):
                     except Exception as ex:
                         print(f"Fehler beim Laden der Detailseite: {ex}")
                         description = ""
-    
+
                     # ---------- Ausschlussfilter -----------------------------
                     if not any(sub in event_location for sub in [
                         "Nr. z. P", "Bunker Ulmenwall", "Forum",
@@ -150,6 +151,7 @@ def scrape_events(base_url):
                             'date': formatted_event_date,
                             'time': start_time,
                             'event': formatted_event_name,
+                            'category': event_category,  # Neu
                             'description': description,
                             'link': urljoin(base_url, event_link)
                         })
