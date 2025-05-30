@@ -612,6 +612,7 @@ def scrape_events(base_url):
             add_recurring_events(events, "Salsa Party (@movie_liveclub)", "THURSDAY", movie, 'weekly', None, '20:00', 'Party')
         elif base_url == platzhirsch:
             add_recurring_events(events, "Afterwork Party (@platzhirschbielefeld)", "THURSDAY", platzhirsch, 'weekly', None, '20:00', 'Party')
+            add_recurring_events(events, "Bingo (@platzhirschbielefeld)", "WEDNESDAY", platzhirsch, 'monthly', 1, '20:00', 'Ausgehen')
         elif base_url == irish_pub:
             add_recurring_events(events, "Pub Quiz (@irish_pub_bielefeld)", "MONDAY", irish_pub, 'weekly', None,'20:00', 'Ausgehen')
             add_recurring_events(events, "Art Night (@loom_bielefeld)", "WEDNESDAY",'https://www.loom-bielefeld.de/events/mini-artnight-e49416/', 'monthly_nth_weekday', 1, '17:00', 'Kreativität')
