@@ -634,13 +634,13 @@ def scrape_events(base_url):
             add_recurring_events(events, "LIV/Hinterzimmer Afro (@hinterzimmer.club)", "FRIDAY", "https://www.instagram.com/liv.bielefeld/?hl=de", 'weekly', None,'23:00','Party')
             add_recurring_events(events, "Afterwork (@harmsmarkt)", "THURSDAY", "https://harms-markt.de/allgemein/after-work/", 'weekly', None, '18:00','Ausgehen')
             add_recurring_events(events, "PingPong(@nr.z.p)", "THURSDAY", nrzp, 'weekly',None,'21:00','Ausgehen')
-            add_recurring_events(events, "Kneipenquiz(@gegenueber_bar)", "TUESDAY", 'https://www.instagram.com/gegenueber_bar/?hl=de', 'monthly', '20:00','Ausgehen')
-            add_recurring_events(events, "Wochenmarkt(@Alter Markt)", "TUESDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly', '7:00','Ausgehen')
-            add_recurring_events(events, "Wochenmarkt(@Siegfriedplatz)", "WEDNESDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly', '7:00','Ausgehen')
-            add_recurring_events(events, "Wochenmarkt (@Brackwede)", "THURSDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly', '7:00','Ausgehen')
-            add_recurring_events(events, "Wochenmarkt (@Alter Markt, Siegfriedplatz)", "FRIDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly', '7:00','Ausgehen')
-            add_recurring_events(events, "Wochenmarkt (@Alter Markt)", "SATURDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly', '7:00','Ausgehen')
-            add_recurring_events(events, "Lauftreff @teilzeitläufer (@Rathaus)", "WEDNESDAY", 'https://www.instagram.com/teilzeitlaeuferbi/', 'weekly', '20:00','Sport')
+            add_recurring_events(events, "Kneipenquiz(@gegenueber_bar)", "TUESDAY", 'https://www.instagram.com/gegenueber_bar/?hl=de', 'monthly', 2, '20:00','Ausgehen')
+            add_recurring_events(events, "Wochenmarkt(@Alter Markt)", "TUESDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly',None, '7:00','Ausgehen')
+            add_recurring_events(events, "Wochenmarkt(@Siegfriedplatz)", "WEDNESDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly',None, '7:00','Ausgehen')
+            add_recurring_events(events, "Wochenmarkt (@Brackwede)", "THURSDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly',None, '7:00','Ausgehen')
+            add_recurring_events(events, "Wochenmarkt (@Alter Markt, Siegfriedplatz)", "FRIDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly',None, '7:00','Ausgehen')
+            add_recurring_events(events, "Wochenmarkt (@Alter Markt)", "SATURDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly',None, '7:00','Ausgehen')
+            add_recurring_events(events, "Lauftreff @teilzeitläufer (@Rathaus)", "WEDNESDAY", 'https://www.instagram.com/teilzeitlaeuferbi/', 'weekly',None, '20:00','Sport')
     return events
 
 def split_dates(date_string):
