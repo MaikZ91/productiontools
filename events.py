@@ -635,6 +635,11 @@ def scrape_events(base_url):
             add_recurring_events(events, "Afterwork (@harmsmarkt)", "THURSDAY", "https://harms-markt.de/allgemein/after-work/", 'weekly', None, '18:00','Ausgehen')
             add_recurring_events(events, "PingPong(@nr.z.p)", "THURSDAY", nrzp, 'weekly', '21:00','Ausgehen')
             add_recurring_events(events, "Kneipenquiz(@gegenueber_bar)", "TUESDAY", 'https://www.instagram.com/gegenueber_bar/?hl=de', 'monthly', '20:00','Ausgehen')
+            add_recurring_events(events, "Wochenmarkt(@Alter Markt)", "TUESDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly', '7:00','Ausgehen')
+            add_recurring_events(events, "Wochenmarkt(@Siegfriedplatz)", "WEDNESDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly', '7:00','Ausgehen')
+            add_recurring_events(events, "Wochenmarkt (@Brackwede)", "THURSDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly', '7:00','Ausgehen')
+            add_recurring_events(events, "Wochenmarkt (@Alter Markt, Siegfriedplatz)", "FRIDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly', '7:00','Ausgehen')
+            add_recurring_events(events, "Wochenmarkt (@Alter Markt)", "SATURDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly', '7:00','Ausgehen')
     return events
 
 def split_dates(date_string):
