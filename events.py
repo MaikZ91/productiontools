@@ -240,6 +240,7 @@ def scrape_events(base_url):
             events.append({
                 "date": date_str,
                 "event": event_title,
+                "category": 'Party',
                 "link": full_link
             })
 
@@ -318,6 +319,7 @@ def scrape_events(base_url):
             events.append({
                 'date': formatted_date,
                 'event': event_name,
+                'category': 'Party',
                 'link': event_link
             })
     if base_url == stereobielefeld:
@@ -352,6 +354,7 @@ def scrape_events(base_url):
             events.append({
                 "date":  formatted_date,
                 "event": f"{event_name} (@stereobielefeld)",
+                "category": 'Party',
                 "link":  url_extracted
             })
 
@@ -402,6 +405,7 @@ def scrape_events(base_url):
                     events.append({
                         "date":  formatted,
                         "event": f"Arminia vs. {gegner} (@arminiaofficial)",
+                        "category": 'Sport',
                         "link":  base_url
                     })
 
@@ -467,6 +471,7 @@ def scrape_events(base_url):
                 events.append({
                     "date": date_str,
                     "event": f"{name}(@hochschulsport_bielefeld)",
+                    "category": 'Sport',
                     "link": urljoin(BASE_URL, a["href"])
                 })
 
@@ -518,6 +523,7 @@ def scrape_events(base_url):
             events.append({
                 "event": f"{title}(@theaterlaborbielefeld)",
                 "date":  raw_date,
+                "category": 'Kultur',
                 "link":  link
             })
 
@@ -596,6 +602,7 @@ def scrape_events(base_url):
             events.append({
                 "event": f"{title}(@volkshochschule.bielefeld)",
                 "date":  date_str,
+                "category": 'Bildung',
                 "link":  link
             })
 
