@@ -675,7 +675,7 @@ def format_date2(date_str):
     except ValueError:
         return "Invalid date format"
 
-def add_recurring_events(events, event_name, day_name, base_url, frequency, nth, time, category):
+def add_recurring_events(events, event_name, day_name, base_url, frequency, nth, event_time, category):
     cal = calendar.Calendar()
     day_name_upper = day_name.upper()
     try:
