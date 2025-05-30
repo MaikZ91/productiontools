@@ -31,6 +31,7 @@ cutie = "https://www.instagram.com/cutiebielefeld/?hl=de"
 hsp="https://hsp.sport.uni-bielefeld.de/angebote/aktueller_zeitraum/"
 theater= "https://theaterlabor.eu/veranstaltungskalender/"
 vhs= "https://www.vhs-bielefeld.de"
+impro = "https://www.yesticket.org/events/de/impro-bielefeld/?lastView=list"
 
 def scrape_events(base_url):
     events = []
@@ -527,6 +528,75 @@ def scrape_events(base_url):
                 "link":  link
             })
 
+    if base_url == impro:          # z. B.  
+    # Jede Listenzeile ist bereits der Link auf die Detailseite
+    event_containers = soup.select("a[href^='/event/']")
+
+    for link_tag in event_containers:
+        try:
+            event_link = link_tag["href"]
+            raw_text   = " ".join(link_tag.get_text(" ", strip=True).split())
+
+            # Beispiel-String:
+            # "Jun 06 2025 LAST SCENE STANDING - Du entscheidest 19:45 Falkendom, Bielefeld"
+            m = re.match(
+                r"^([A-Za-z]{3})\s+(\d{2})\s+(\d{4})\s+(.+?)\s+(\d{2}:\d{2})\s+(.+)$",
+                raw_text
+            )
+            if not m:             # Unerwartetes Format – weiter zum nächsten Eintrag
+                continue
+
+            mon_str, day, year, event_name, start_time, event_location = m.groups()
+
+            # ---------- Datum --------------------------------------------
+            try:
+                parsed_date = dt.strptime(f"{day} {mon_str} {year}", "%d %b %Y")
+                formatted_event_date = parsed_date.strftime("%a, %d.%m.%Y")
+            except ValueError:
+                formatted_event_date = f"{day}.{mon_str}.{year}"   # Fallback
+
+            # ---------- Kategorie (Überschrift oberhalb der Links) ---------
+            heading = link_tag.find_previous(lambda t: t.name in ("h2", "h3"))
+            event_category = heading.get_text(strip=True) if heading else ""
+
+            formatted_event_name = f"{event_name} (@{event_location})"
+
+            # ---------- Beschreibung nachladen ----------------------------
+            description = ""
+            try:
+                detail_resp = requests.get(urljoin(base_url, event_link), timeout=10)
+                detail_resp.raise_for_status()
+                detail_soup = BeautifulSoup(detail_resp.text, "html.parser")
+
+                for selector in (
+                    "div.event-description", "div.text", "div.teaser",
+                    "div.v-copy", "article .text"
+                ):
+                    node = detail_soup.select_one(selector)
+                    if node and node.get_text(strip=True):
+                        description = re.sub(r"\s+", " ", node.get_text(" ")).strip()
+                        break
+
+                if not description:
+                    first_p = detail_soup.find("p")
+                    if first_p:
+                        description = re.sub(r"\s+", " ", first_p.get_text(" ")).strip()
+            except Exception as ex:
+                print(f"Fehler beim Laden der Detailseite: {ex}")
+
+            # ---------- Speichern -----------------------------------------
+            events.append({
+                "date":        formatted_event_date,
+                "time":        start_time,
+                "event":       formatted_event_name,
+                "category":    event_category,
+                "description": description,
+                "link":        urljoin(base_url, event_link)
+            })
+
+        except Exception as ex:
+            print(f"Fehler beim Verarbeiten eines Events: {ex}")
+
 
     if base_url == vhs:
         # German weekday abbreviations for strftime-like lookup
@@ -752,7 +822,7 @@ def parse_event_date(s: str) -> Optional[datetime.date]:
 if __name__ == '__main__':
     sources = [
         bielefeld_jetzt, forum, platzhirsch, irish_pub, f2f, sams, movie, nrzp,
-        bunker, stereobielefeld, cafe, arminia
+        bunker, stereobielefeld, cafe, arminia,impro
         #hsp, vhs,theater
     ]
     events = []
