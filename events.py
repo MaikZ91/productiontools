@@ -628,8 +628,8 @@ def scrape_events(base_url):
             add_recurring_events(events, "*TRIBE CREATIVE CIRCLES*", "FRIDAY",
                                  'https://www.instagram.com/reel/DBwDGB9IL3_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==',
                                  'monthly_last', None,'19:00','Kreativität')
-            add_recurring_events(events, "Park Run (@Obersee)", "SATURDAY", "https://www.parkrun.com.de/", 'weekly', None, '9:00','Sport')
-            add_recurring_events(events, "Up Runnning Club (@Venue Coffee)", "SUNDAY", "https://www.instagram.com/uprunningclub/?hl=de", 'weekly', None,'9:00','Sport')
+            add_recurring_events(events, "Lauftreff @oberseeparkrun (@Obersee)", "SATURDAY", "https://www.parkrun.com.de/", 'weekly', None, '9:00','Sport')
+            add_recurring_events(events, "Lauftreff @uprunningclub (@Venue Coffee)", "SUNDAY", "https://www.instagram.com/uprunningclub/?hl=de", 'weekly', None,'9:00','Sport')
             add_recurring_events(events, "LIV/Hinterzimmer Afro (@hinterzimmer.club)", "SATURDAY", "https://www.instagram.com/liv.bielefeld/?hl=de", 'weekly', None,'23:00','Party')
             add_recurring_events(events, "LIV/Hinterzimmer Afro (@hinterzimmer.club)", "FRIDAY", "https://www.instagram.com/liv.bielefeld/?hl=de", 'weekly', None,'23:00','Party')
             add_recurring_events(events, "Afterwork (@harmsmarkt)", "THURSDAY", "https://harms-markt.de/allgemein/after-work/", 'weekly', None, '18:00','Ausgehen')
@@ -640,6 +640,7 @@ def scrape_events(base_url):
             add_recurring_events(events, "Wochenmarkt (@Brackwede)", "THURSDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly', '7:00','Ausgehen')
             add_recurring_events(events, "Wochenmarkt (@Alter Markt, Siegfriedplatz)", "FRIDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly', '7:00','Ausgehen')
             add_recurring_events(events, "Wochenmarkt (@Alter Markt)", "SATURDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly', '7:00','Ausgehen')
+            add_recurring_events(events, "Lauftreff @teilzeitläufer (@Rathaus)", "WEDNESDAY", 'https://www.instagram.com/teilzeitlaeuferbi/', 'weekly', '20:00','Sport')
     return events
 
 def split_dates(date_string):
