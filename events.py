@@ -635,7 +635,6 @@ def scrape_events(base_url):
             add_recurring_events(events, "Afterwork (@harmsmarkt)", "THURSDAY", "https://harms-markt.de/allgemein/after-work/", 'weekly', None, '18:00','Ausgehen')
             add_recurring_events(events, "PingPong(@nr.z.p)", "THURSDAY", nrzp, 'weekly', '21:00','Ausgehen')
             add_recurring_events(events, "Kneipenquiz(@gegenueber_bar)", "TUESDAY", 'https://www.instagram.com/gegenueber_bar/?hl=de', 'monthly', '20:00','Ausgehen')
-            add_recurring_events(events, "Karaoke (@sams_bielefeld)", "TUESDAY", 'https://www.instagram.com/gegenueber_bar/?hl=de', 'monthly', '19:00','Ausgehen')
     return events
 
 def split_dates(date_string):
