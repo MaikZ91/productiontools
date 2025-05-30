@@ -633,7 +633,7 @@ def scrape_events(base_url):
             add_recurring_events(events, "LIV/Hinterzimmer Afro (@hinterzimmer.club)", "SATURDAY", "https://www.instagram.com/liv.bielefeld/?hl=de", 'weekly', None,'23:00','Party')
             add_recurring_events(events, "LIV/Hinterzimmer Afro (@hinterzimmer.club)", "FRIDAY", "https://www.instagram.com/liv.bielefeld/?hl=de", 'weekly', None,'23:00','Party')
             add_recurring_events(events, "Afterwork (@harmsmarkt)", "THURSDAY", "https://harms-markt.de/allgemein/after-work/", 'weekly', None, '18:00','Ausgehen')
-            add_recurring_events(events, "PingPong(@nr.z.p)", "THURSDAY", nrzp, 'weekly', '21:00','Ausgehen')
+            add_recurring_events(events, "PingPong(@nr.z.p)", "THURSDAY", nrzp, 'weekly',None,'21:00','Ausgehen')
             add_recurring_events(events, "Kneipenquiz(@gegenueber_bar)", "TUESDAY", 'https://www.instagram.com/gegenueber_bar/?hl=de', 'monthly', '20:00','Ausgehen')
             add_recurring_events(events, "Wochenmarkt(@Alter Markt)", "TUESDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly', '7:00','Ausgehen')
             add_recurring_events(events, "Wochenmarkt(@Siegfriedplatz)", "WEDNESDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly', '7:00','Ausgehen')
