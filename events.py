@@ -262,7 +262,7 @@ def scrape_events(base_url):
                         'event': event_name,
                         'link': event_link
                     })
-        add_recurring_events(events, "PingPong(@nr.z.p)", "THURSDAY", nrzp, 'weekly', None)
+        
 
     if base_url == bunker:
         months = {
@@ -619,7 +619,7 @@ def scrape_events(base_url):
             add_recurring_events(events, "*TRIBE TUESDAY RUN(@GELLERSHAGEN PARK TEICH)*", "TUESDAY",
                                  'https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==',
                                  'weekly', None,'18:00','Sport')
-            #add_recurring_events(events, "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*", "THURSDAY",'https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==','weekly', None,'18:00','Sport')
+            add_recurring_events(events, "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*", "THURSDAY",'https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==','weekly', None,'18:00','Sport')
             add_recurring_events(events, "*TRIBE KENNENLERNABEND*", "SUNDAY",
                                  'https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==',
                                  'weekly', None,'19:00','Ausgehen')
@@ -632,6 +632,7 @@ def scrape_events(base_url):
             add_recurring_events(events, "LIV/Hinterzimmer Afro (@hinterzimmer.club)", "SATURDAY", "https://www.instagram.com/liv.bielefeld/?hl=de", 'weekly', None,'23:00','Party')
             add_recurring_events(events, "LIV/Hinterzimmer Afro (@hinterzimmer.club)", "FRIDAY", "https://www.instagram.com/liv.bielefeld/?hl=de", 'weekly', None,'23:00','Party')
             add_recurring_events(events, "Afterwork (@harmsmarkt)", "THURSDAY", "https://harms-markt.de/allgemein/after-work/", 'weekly', None, '18:00','Ausgehen')
+            add_recurring_events(events, "PingPong(@nr.z.p)", "THURSDAY", nrzp, 'weekly', '21:00','Ausgehen')
             
     return events
     return events
