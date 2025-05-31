@@ -453,8 +453,8 @@ def daily_video() -> Tuple[str, Optional[str]]:
         raise
 
     # 8) Instagram-Reel posten
-    music_credit = "🎵 Music by @mz.9_nyc"
-    video_credit = "🎥 Video by @sora.ai_"
+    music_credit = "🎵 Music by @ali_safari_erdenbuerger"
+    video_credit = "🎥 Video by @ali_safari_erdenbuerger"
     
     # Caption zweizeilig aufbauen
     caption_lines = []
