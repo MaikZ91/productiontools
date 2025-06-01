@@ -566,7 +566,7 @@ def pure_video(video_file: Path) -> Tuple[str, Optional[str]]:
     scale = max(W / base.w, H / base.h)
     base  = (base.resize(scale)
                  .crop(width=W, height=H, x_center=base.w/2, y_center=base.h/2))
-    final = CompositeVideoClip([base], size=(W, H))
+    final = base
 
     # 2) Temp rendern
     with NamedTemporaryFile(suffix=".mp4", delete=False) as tmp:
