@@ -27,7 +27,7 @@ jobs:
             video: clip1.mp4
             pure:  "0"          # Overlay/Captions EIN
           - cron: '0 15 * * *'  # abends
-            video: clip2.mp4
+            video: clip1.mp4
             pure:  "1"          # reiner Clip
 
     # Variablen fürs Python-Script
