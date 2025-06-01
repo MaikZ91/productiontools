@@ -554,131 +554,100 @@ def daily_video() -> Tuple[str, Optional[str]]:
 
     return github_url, reel_id
 
-def post_video(video_name: str) -> Tuple[str, Optional[str]]:
+def post_tuesday_run() -> Tuple[str, Optional[str]]:
     """
-    Lädt das vorhandene MP4 (media/<video_name>) als Reel + Story hoch
-    – ohne Musik, ohne Overlays.  Gibt (Raw-URL, Reel-ID|None) zurück.
+    Postet media/TUESDAY_RUN.mp4 als Reel + Story.
+    Rückgabe: (Raw-URL, Reel-ID oder None)
     """
 
-    # 1) Öffentliche Raw-URL zum MP4 im Repo
+    # 1) Public-URL zum Video
+    video_name = "TUESDAY_RUN.mp4"
     github_url = (
         f"https://raw.githubusercontent.com/"
         f"{GITHUB_REPO}/master/media/{video_name}"
     )
 
-    caption  = "🎥 Enjoy the clip!"
-    ig_base  = "https://graph.facebook.com/v21.0"
+    caption = "🏃‍♂️ Tuesday Run – enjoy!"
     reel_id: Optional[str] = None
 
-    # ─── 2) Reel-Container anlegen ──────────────────────────────────
-    create_resp = requests.post(
-        f"{ig_base}/{IG_USER}/media",
+    # 2) Reel-Container anlegen
+    create = requests.post(
+        f"{IG_API_BASE}/{IG_USER}/media",
         data={
             "media_type": "REELS",
             "video_url": github_url,
             "caption": caption,
             "share_to_feed": "true",
             "access_token": IG_TOKEN,
-        },
-        timeout=60,
+        }, timeout=60
     )
-    print("▶ create_resp.status:", create_resp.status_code)
-    print(create_resp.text)
-
-    if create_resp.status_code != 200:
-        print("❌ Reel-Container konnte nicht erstellt werden.")
+    print("create:", create.status_code, create.text)
+    if create.status_code != 200:
         return github_url, None
 
-    creation_id = create_resp.json().get("id")
-    if not creation_id:
-        print("❌ Keine creation_id erhalten.")
+    container_id = create.json().get("id")
+    if not container_id:
         return github_url, None
 
-    # ─── 3) Container verarbeiten & veröffentlichen ─────────────────
-    poll_url = f"{ig_base}/{creation_id}"
-    for _ in range(40):                         # ~10 min bei je 15 s
-        time.sleep(15)
-
+    # 3) Pollen bis Verarbeitung fertig
+    poll_url = f"{IG_API_BASE}/{container_id}"
+    wait = 15
+    for _ in range(20):             # max ≈5 min
+        time.sleep(wait)
+        wait = min(wait * 1.3, 60)  # back-off
         status = requests.get(
             poll_url,
             params={
-                "fields": (
-                    "status_code,"
-                    "video_status,"
-                    "failure_code,"
-                    "failure_message"
-                ),
+                "fields": "status_code,video_status",
                 "access_token": IG_TOKEN,
-            },
-            timeout=30,
+            }, timeout=30
         ).json()
-        print("↻ poll:", status)
+        print("poll:", status)
 
-        state = status.get("status_code")
-        if state == "FINISHED":
-            publish_resp = requests.post(
-                f"{ig_base}/{IG_USER}/media_publish",
-                data={"creation_id": creation_id, "access_token": IG_TOKEN},
-                timeout=60,
+        if status.get("status_code") == "FINISHED":
+            pub = requests.post(
+                f"{IG_API_BASE}/{IG_USER}/media_publish",
+                data={"creation_id": container_id, "access_token": IG_TOKEN},
+                timeout=60
             )
-            print("▶ publish.status:", publish_resp.status_code)
-            print(publish_resp.text)
-            if publish_resp.status_code == 200:
-                reel_id = publish_resp.json().get("id")
+            print("publish:", pub.status_code, pub.text)
+            if pub.status_code == 200:
+                reel_id = pub.json().get("id")
             break
 
-        if state == "ERROR":
-            print("❌ Verarbeitung fehlgeschlagen:")
-            print("   failure_code:   ", status.get("failure_code"))
-            print("   failure_message:", status.get("failure_message"))
-            print("   video_status:   ", status.get("video_status"))
-            return github_url, None  # sofort abbrechen
+        if status.get("status_code") == "ERROR":
+            print("❌ Reel-Verarbeitung fehlgeschlagen")
+            return github_url, None
 
-    # Wenn kein reel_id, brauche nicht weiter­machen
-    if not reel_id:
-        return github_url, None
-
-    # ─── 4) Optionale Story posten ──────────────────────────────────
-    story_resp = requests.post(
-        f"{ig_base}/{IG_USER}/media",
+    # 4) Story mit demselben Clip posten
+    story = requests.post(
+        f"{IG_API_BASE}/{IG_USER}/media",
         data={
             "media_type": "STORIES",
             "video_url": github_url,
             "caption": caption,
             "access_token": IG_TOKEN,
-        },
-        timeout=60,
+        }, timeout=60
     )
-    print("▶ story_resp.status:", story_resp.status_code)
-    print(story_resp.text)
-
-    if story_resp.status_code == 200:
-        story_id = story_resp.json().get("id")
-        poll_story = f"{ig_base}/{story_id}"
-        for _ in range(60):
-            time.sleep(5)
+    print("story:", story.status_code, story.text)
+    if story.status_code == 200:
+        story_id = story.json().get("id")
+        poll_story = f"{IG_API_BASE}/{story_id}"
+        for _ in range(30):
+            time.sleep(10)
             s = requests.get(
                 poll_story,
-                params={
-                    "fields": "status_code, failure_code, failure_message",
-                    "access_token": IG_TOKEN,
-                },
-                timeout=30,
+                params={"fields": "status_code", "access_token": IG_TOKEN},
+                timeout=30
             ).json()
-            print("↻ story poll:", s)
+            print("story poll:", s)
             if s.get("status_code") == "FINISHED":
-                pub = requests.post(
-                    f"{ig_base}/{IG_USER}/media_publish",
+                requests.post(
+                    f"{IG_API_BASE}/{IG_USER}/media_publish",
                     data={"creation_id": story_id, "access_token": IG_TOKEN},
-                    timeout=60,
+                    timeout=60
                 )
-                print("▶ story publish:", pub.status_code, pub.text)
                 break
-            if s.get("status_code") == "ERROR":
-                print("❌ Story-Verarbeitung fehlgeschlagen:", s)
-                break
-    else:
-        print("❌ Story-Upload fehlgeschlagen.")
 
     return github_url, reel_id
 def main():
@@ -705,7 +674,8 @@ def main():
     if os.getenv("PURE_VIDEO") == "1":
         #video_path = Path(__file__).resolve().parent / "media" / os.environ["VIDEO_FILE"]
         #post_video(video_path)
-        post_video(TUESDAY_RUN_VIDEO)
+        post_tuesday_run()
+        #post_video(TUESDAY_RUN_VIDEO)
     else:
         daily_video()
         
