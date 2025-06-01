@@ -1,82 +1,88 @@
 # .github/workflows/post_events_video.yml
-# Lädt täglich zwei Reels hoch:
+# ------------------------------------------------------------
+# Poste zwei Reels pro Tag:
 #   • 06 Uhr Berlin (04 UTC)  → media/clip1.mp4  MIT Event-Overlay
 #   • 17 Uhr Berlin (15 UTC)  → media/clip2.mp4  OHNE Event-Overlay
 #
-# Achtung: GitHub-Cron läuft in **UTC**. Passt die Zeiten an, falls Sommer/Winterzeit
-# abweichen soll. 04 UTC = 06 MESZ, 05 UTC = 06 MEZ.
+# Die Videodateien liegen im Repo unter media/ und werden via Git-LFS versioniert.
+# ------------------------------------------------------------
 
 name: Post events video
 
 on:
-  workflow_dispatch:        # manueller Trigger-Button
+  workflow_dispatch:            # manueller Trigger
   schedule:
-    - cron: '0 4 * * *'     # 06:00 Berlin
-    - cron: '0 15 * * *'    # 17:00 Berlin
+    - cron: '0 4 * * *'         # 04 UTC  = 06 Uhr Berlin
+    - cron: '0 15 * * *'        # 15 UTC  = 17 Uhr Berlin
 
 jobs:
   post:
     runs-on: ubuntu-latest
 
-    ### Matrix: ein Durchlauf pro Video-Variante ###############################
+    # ── Matrix: je ein Lauf pro Variante ─────────────────────
     strategy:
       matrix:
         include:
-          - cron: '0 4 * * *'      # morgens
+          - cron: '0 4 * * *'   # morgens
             video: clip1.mp4
-            pure:  "0"             # Overlay einschalten
-          - cron: '0 15 * * *'     # abends
+            pure:  "0"          # Overlay/Captions EIN
+          - cron: '0 15 * * *'  # abends
             video: clip2.mp4
-            pure:  "1"             # reiner Clip
+            pure:  "1"          # reiner Clip
 
-    ### Umgebungs­variablen für das Python-Script #############################
+    # Variablen fürs Python-Script
     env:
-      VIDEO_FILE:  ${{ matrix.video }}   # Datei unter repo_root/media/
-      PURE_VIDEO:  ${{ matrix.pure }}    # 1 = ohne Events/Caption
+      VIDEO_FILE:  ${{ matrix.video }}
+      PURE_VIDEO:  ${{ matrix.pure }}
 
     steps:
-      # 1) Repository klonen (mit Git LFS, damit .mp4 nicht nur Pointer sind)
-      - name: Checkout repository (with Git-LFS)
+      # 1) Repo klonen – Git-LFS Pointer holen
+      - name: Checkout repository (with LFS pointers)
         uses: actions/checkout@v4
         with:
           lfs: true
           fetch-depth: 1
 
-      # 2) Nicht passenden Matrix-Eintrag bei Zeitgesteuertem Run überspringen
+      # 2) Benötigtes Video aus LFS herunterladen
+      - name: Pull required LFS video
+        run: |
+          git lfs pull --include="media/${VIDEO_FILE}"
+          echo "▶ Dateiübersicht:"
+          ls -lh media
+          file "media/${VIDEO_FILE}"
+
+      # 3) Matrix-Eintrag überspringen, wenn Cron nicht passt
       - name: Skip unmatched cron entries
         if: github.event_name == 'schedule' && github.event.schedule != matrix.cron
-        run: echo "⏭️  Matrix-Eintrag passt nicht zur aktuellen Cron-Zeit." && exit 0
+        run: echo "⏭️  Überspringe Matrix-Eintrag (falsche Cron-Zeit)" && exit 0
 
-      # 3) Kurz prüfen, ob das Video physisch vorhanden ist
-      - name: Check video file
-        run: |
-          ls -lh media || true
-          file "media/${VIDEO_FILE}" || true
-
-      # 4) Python 3.11 einrichten
+      # 4) Python 3.11 installieren
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      # 5) Abhängigkeiten installieren
+      # 5) Abhängigkeiten für insta.py
       - name: Install Python dependencies
-        run: pip install Pillow requests pytz matplotlib moviepy==1.0.3 imageio-ffmpeg
+        run: |
+          pip install Pillow requests pytz matplotlib \
+                     moviepy==1.0.3 imageio-ffmpeg
 
-      # 6) Debug-Ausgabe wichtiger ENV-Variablen
+      # 6) ENV-Variablen prüfen
       - name: Debug environment
         env:
           GITHUB_TOKEN:    ${{ secrets.PAT_TOKEN }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID:      ${{ secrets.IG_USER_ID }}
         run: |
+          echo "🔎 ENV-Variablen:"
           for V in GITHUB_TOKEN IG_ACCESS_TOKEN IG_USER_ID VIDEO_FILE PURE_VIDEO; do
-            [ -n "${!V}" ] && echo "$V=✔️" || echo "$V=❌ fehlt"
+            [ -n "${!V}" ] && echo "$V = ✔️  gesetzt" || echo "$V = ❌ fehlt"
           done
 
-      # 7) Reel generieren, ins Repo pushen & bei Instagram posten
+      # 7) Reel erstellen, ins Repo hochladen & auf Instagram posten
       - name: Generate, upload & post reel
         env:
-          GITHUB_TOKEN:    ${{ secrets.PAT_TOKEN }}      # Personal Access Token
+          GITHUB_TOKEN:    ${{ secrets.PAT_TOKEN }}      # PAT mit Repo-Rechten
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID:      ${{ secrets.IG_USER_ID }}
         run: python insta.py
