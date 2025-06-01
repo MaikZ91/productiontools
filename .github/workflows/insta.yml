@@ -11,19 +11,21 @@ on:
     - cron: '0 17 * * *'   
 
 jobs:
-  clip1:
-    if: github.event.schedule == '0 6 * * *'
-    env:
-      VIDEO_FILE: videos/clip1.mp4    # ← Pfad 1
-
-  clip2:
-    if: github.event.schedule == '0 17 * * *'
-    env:
-      VIDEO_FILE: videos/clip2.mp4    # ← Pfad 2
-
   post:
     runs-on: ubuntu-latest
+    
+    strategy:
+      matrix:
+        include:
+          - cron: '0 6 * * *'          
+            video: clip1.mp4           
+          - cron: '0 17 * * *'
+            video: clip2.mp4
+ 
+    if: ${{ matrix.cron == github.event.schedule }}
 
+    env:
+      VIDEO_FILE: ${{ matrix.video }}         
     steps:
       # 1) Repository auschecken
       - uses: actions/checkout@v4
