@@ -1,64 +1,82 @@
-name: Post events video   # ← falls Du nur Videos postest, benenn die Datei ruhig um!
+# .github/workflows/post_events_video.yml
+# Lädt täglich zwei Reels hoch:
+#   • 06 Uhr Berlin (04 UTC)  → media/clip1.mp4  MIT Event-Overlay
+#   • 17 Uhr Berlin (15 UTC)  → media/clip2.mp4  OHNE Event-Overlay
+#
+# Achtung: GitHub-Cron läuft in **UTC**. Passt die Zeiten an, falls Sommer/Winterzeit
+# abweichen soll. 04 UTC = 06 MESZ, 05 UTC = 06 MEZ.
+
+name: Post events video
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:        # manueller Trigger-Button
   schedule:
-    - cron: '0 6 * * *'     # 06 Uhr Berlin
-    - cron: '0 17 * * *'    # 17 Uhr Berlin
+    - cron: '0 4 * * *'     # 06:00 Berlin
+    - cron: '0 15 * * *'    # 17:00 Berlin
 
 jobs:
   post:
     runs-on: ubuntu-latest
 
+    ### Matrix: ein Durchlauf pro Video-Variante ###############################
     strategy:
       matrix:
         include:
-          - cron: '0 6 * * *'
-            video: clip1.mp4     # media/clip1.mp4
-            pure:  "0"           # morgens MIT Event-Overlay
-          - cron: '0 17 * * *'
-            video: clip2.mp4     # media/clip2.mp4
-            pure:  "1"           # abends OHNE Overlay
+          - cron: '0 4 * * *'      # morgens
+            video: clip1.mp4
+            pure:  "0"             # Overlay einschalten
+          - cron: '0 15 * * *'     # abends
+            video: clip2.mp4
+            pure:  "1"             # reiner Clip
 
+    ### Umgebungs­variablen für das Python-Script #############################
     env:
-      VIDEO_FILE:  ${{ matrix.video }}
-      PURE_VIDEO:  ${{ matrix.pure }}
+      VIDEO_FILE:  ${{ matrix.video }}   # Datei unter repo_root/media/
+      PURE_VIDEO:  ${{ matrix.pure }}    # 1 = ohne Events/Caption
 
     steps:
+      # 1) Repository klonen (mit Git LFS, damit .mp4 nicht nur Pointer sind)
+      - name: Checkout repository (with Git-LFS)
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+          fetch-depth: 1
 
-      # ── 0) Skip-Step: führt Job nur aus, wenn Cron passt ────────────────────
-      - name: Skip unmatched matrix entry
+      # 2) Nicht passenden Matrix-Eintrag bei Zeitgesteuertem Run überspringen
+      - name: Skip unmatched cron entries
         if: github.event_name == 'schedule' && github.event.schedule != matrix.cron
-        run: echo "⏭️  Nicht der passende Cron – Matrix-Eintrag wird übersprungen." && exit 0
+        run: echo "⏭️  Matrix-Eintrag passt nicht zur aktuellen Cron-Zeit." && exit 0
 
-      # ── 1) Code auschecken ───────────────────────────────────────────────────
-      - uses: actions/checkout@v4
+      # 3) Kurz prüfen, ob das Video physisch vorhanden ist
+      - name: Check video file
+        run: |
+          ls -lh media || true
+          file "media/${VIDEO_FILE}" || true
 
-      # ── 2) Python installieren ──────────────────────────────────────────────
+      # 4) Python 3.11 einrichten
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      # ── 3) Dependencies ─────────────────────────────────────────────────────
-      - name: Install Python deps
+      # 5) Abhängigkeiten installieren
+      - name: Install Python dependencies
         run: pip install Pillow requests pytz matplotlib moviepy==1.0.3 imageio-ffmpeg
 
-      # ── 4) Debug-Ausgabe ────────────────────────────────────────────────────
-      - name: Debug env variables
+      # 6) Debug-Ausgabe wichtiger ENV-Variablen
+      - name: Debug environment
         env:
           GITHUB_TOKEN:    ${{ secrets.PAT_TOKEN }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID:      ${{ secrets.IG_USER_ID }}
         run: |
-          echo "🔎 Prüfe ENV-Variablen:"
-          for V in GITHUB_TOKEN GITHUB_REPOSITORY IG_ACCESS_TOKEN IG_USER_ID VIDEO_FILE PURE_VIDEO; do
-            [ -n "${!V}" ] && echo "$V = ✅" || echo "$V = ❌ fehlt!"
+          for V in GITHUB_TOKEN IG_ACCESS_TOKEN IG_USER_ID VIDEO_FILE PURE_VIDEO; do
+            [ -n "${!V}" ] && echo "$V=✔️" || echo "$V=❌ fehlt"
           done
 
-      # ── 5) Video generieren & posten ────────────────────────────────────────
-      - name: Generate, upload & post video
+      # 7) Reel generieren, ins Repo pushen & bei Instagram posten
+      - name: Generate, upload & post reel
         env:
-          GITHUB_TOKEN:    ${{ secrets.PAT_TOKEN }}
+          GITHUB_TOKEN:    ${{ secrets.PAT_TOKEN }}      # Personal Access Token
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID:      ${{ secrets.IG_USER_ID }}
         run: python insta.py
