@@ -555,46 +555,25 @@ def daily_video() -> Tuple[str, Optional[str]]:
 
     return github_url, reel_id
 
-def pure_video(video_file: Path) -> Tuple[str, Optional[str]]:
+def post_video(video_name: str) -> Tuple[str, Optional[str]]:
     """
-    Rendert `video_file` im Instagram-Format, lädt es ins GitHub-Repo
-    und postet es als Reel – ohne Musik, ohne Event-Overlays.
-    Rückgabe: (GitHub-URL, Reel-ID oder None)
+    Postet das vorhandene MP4 (media/<video_name>) als Reel – ohne Musik,
+    ohne Event-Overlay.  Liefert (GitHub-Raw-URL, Reel-ID oder None).
+    Repo muss öffentlich sein – sonst hat Instagram keinen Zugriff.
     """
-    # 1) Video zuschneiden (letterbox-frei)
-    base = VideoFileClip(str(video_file)).without_audio()
-    scale = max(W / base.w, H / base.h)
-    base  = (base.resize(scale)
-                 .crop(width=W, height=H, x_center=base.w/2, y_center=base.h/2))
-    final = base
 
-    # 2) Temp rendern
-    with NamedTemporaryFile(suffix=".mp4", delete=False) as tmp:
-        tmp_path = tmp.name
-    final.write_videofile(tmp_path, codec="libx264", fps=30, audio=False)
+    # 1) Öffentliche Raw-URL des Videos im Haupt-Branch
+    github_url = (
+        f"https://raw.githubusercontent.com/"
+        f"{GITHUB_REPO}/master/media/{video_name}"
+    )
 
-    with open(tmp_path, "rb") as f:
-        video_bytes = f.read()
-    os.remove(tmp_path)
-
-    # 3) GitHub-Upload
-    tz   = pytz.timezone("Europe/Berlin")
-    path = datetime.now(tz).strftime("videos/%Y/%m/%d/%H%M_raw.mp4")
-    url_content = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{path}"
-    headers = {"Authorization": f"token {GITHUB_TOKEN}"}
-    body = {
-        "message": os.path.basename(path),
-        "content": base64.b64encode(video_bytes).decode()
-    }
-    put = requests.put(url_content, headers=headers, json=body)
-    put.raise_for_status()
-    github_url = put.json()["content"]["download_url"]
-
-    # 4) Reel posten (Minimal-Caption)
+    # 2) Minimale Caption
     caption = "🎥 Enjoy the clip!"
-    ig_base = "https://graph.facebook.com/v21.0"
 
-    create = requests.post(
+    # 3) Reel anlegen + veröffentlichen (wie in daily_video)
+    ig_base = "https://graph.facebook.com/v21.0"
+    create_resp = requests.post(
         f"{ig_base}/{IG_USER}/media",
         data={
             "media_type": "REELS",
@@ -602,32 +581,69 @@ def pure_video(video_file: Path) -> Tuple[str, Optional[str]]:
             "caption": caption,
             "share_to_feed": "true",
             "access_token": IG_TOKEN,
-        }, timeout=60
+        },
+        timeout=60,
     )
-    reel_id = None
+
+    reel_id: Optional[str] = None
     try:
-        create.raise_for_status()
-        creation_id = create.json().get("id")
+        create_resp.raise_for_status()
+        creation_id = create_resp.json().get("id")
         if creation_id:
+            poll_url = f"{ig_base}/{creation_id}"
             for _ in range(40):
                 time.sleep(5)
                 status = requests.get(
-                    f"{ig_base}/{creation_id}",
+                    poll_url,
                     params={"fields": "status_code", "access_token": IG_TOKEN},
                     timeout=30,
                 )
                 if status.json().get("status_code") == "FINISHED":
-                    pub = requests.post(
+                    publish_resp = requests.post(
                         f"{ig_base}/{IG_USER}/media_publish",
                         data={"creation_id": creation_id,
                               "access_token": IG_TOKEN},
                         timeout=60,
                     )
-                    pub.raise_for_status()
-                    reel_id = pub.json().get("id")
+                    publish_resp.raise_for_status()
+                    reel_id = publish_resp.json().get("id")
                     break
     except requests.RequestException as e:
         print(f"Fehler beim Veröffentlichen des Reels: {e}")
+
+    # 4) (Optional) Story ebenfalls posten
+    try:
+        story_resp = requests.post(
+            f"{ig_base}/{IG_USER}/media",
+            data={
+                "media_type": "STORIES",
+                "video_url": github_url,
+                "caption": caption,
+                "access_token": IG_TOKEN,
+            },
+            timeout=60,
+        )
+        story_resp.raise_for_status()
+        story_id = story_resp.json().get("id")
+        if story_id:
+            poll_story = f"{ig_base}/{story_id}"
+            for _ in range(60):
+                time.sleep(5)
+                status = requests.get(
+                    poll_story,
+                    params={"fields": "status_code", "access_token": IG_TOKEN},
+                    timeout=30,
+                )
+                if status.json().get("status_code") == "FINISHED":
+                    requests.post(
+                        f"{ig_base}/{IG_USER}/media_publish",
+                        data={"creation_id": story_id,
+                              "access_token": IG_TOKEN},
+                        timeout=60,
+                    )
+                    break
+    except requests.RequestException as e:
+        print(f"Fehler bei Story-Upload: {e}")
 
     return github_url, reel_id
 def main():
@@ -652,7 +668,7 @@ def main():
 
     if os.getenv("PURE_VIDEO") == "1":
         video_path = Path(__file__).resolve().parent / "media" / os.environ["VIDEO_FILE"]
-        pure_video(video_path)
+        post_video(video_path)
     else:
         daily_video()
         
