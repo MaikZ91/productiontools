@@ -7,9 +7,20 @@ name: Post events image
 on:
   workflow_dispatch:                # manueller Button
   schedule:
-    - cron: "0 6 * * *"             # 06 UTC = 08 Uhr Berlin (Sommerzeit)
+    - cron: "0 6 * * *"            
+    - cron: '0 17 * * *'   
 
 jobs:
+  clip1:
+    if: github.event.schedule == '0 6 * * *'
+    env:
+      VIDEO_FILE: videos/clip1.mp4    # ← Pfad 1
+
+  clip2:
+    if: github.event.schedule == '0 17 * * *'
+    env:
+      VIDEO_FILE: videos/clip2.mp4    # ← Pfad 2
+
   post:
     runs-on: ubuntu-latest
 
