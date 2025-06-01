@@ -665,7 +665,11 @@ def main():
 
     if os.getenv("PURE_VIDEO") == "1":
         #video_path = Path(__file__).resolve().parent / "media" / os.environ["VIDEO_FILE"]
-        video_path = Path(__file__).resolve().parent / "media" / "clip2.mp4"
+        #video_path = Path(__file__).resolve().parent / "media" / "clip2.mp4" 
+        video_path = (
+            f"https://raw.githubusercontent.com/"
+            f"{GITHUB_REPO}/master/media/clip2.mp4"
+        )
         post_video(video_path)
     else:
         daily_video()
