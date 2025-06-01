@@ -1,59 +1,64 @@
-# .github/workflows/post_events_image.yml
-# Lädt Events-Bild ins Repo und postet es auf Instagram.
-# Nutzt dein **PAT_TOKEN** statt des automatisch erzeugten GITHUB_TOKEN.
-
-name: Post events image
+name: Post events video   # ← falls Du nur Videos postest, benenn die Datei ruhig um!
 
 on:
-  workflow_dispatch:                # manueller Button
+  workflow_dispatch:
   schedule:
-    - cron: "0 6 * * *"            
-    - cron: '0 17 * * *'   
+    - cron: '0 6 * * *'     # 06 Uhr Berlin
+    - cron: '0 17 * * *'    # 17 Uhr Berlin
 
 jobs:
   post:
     runs-on: ubuntu-latest
-    
+
     strategy:
       matrix:
         include:
-          - cron: '0 6 * * *'          
-            video: clip1.mp4           
+          - cron: '0 6 * * *'
+            video: clip1.mp4     # media/clip1.mp4
+            pure:  "0"           # morgens MIT Event-Overlay
           - cron: '0 17 * * *'
-            video: clip2.mp4
- 
-    if: ${{ matrix.cron == github.event.schedule }}
+            video: clip2.mp4     # media/clip2.mp4
+            pure:  "1"           # abends OHNE Overlay
 
     env:
-      VIDEO_FILE: ${{ matrix.video }}         
+      VIDEO_FILE:  ${{ matrix.video }}
+      PURE_VIDEO:  ${{ matrix.pure }}
+
     steps:
-      # 1) Repository auschecken
+
+      # ── 0) Skip-Step: führt Job nur aus, wenn Cron passt ────────────────────
+      - name: Skip unmatched matrix entry
+        if: github.event_name == 'schedule' && github.event.schedule != matrix.cron
+        run: echo "⏭️  Nicht der passende Cron – Matrix-Eintrag wird übersprungen." && exit 0
+
+      # ── 1) Code auschecken ───────────────────────────────────────────────────
       - uses: actions/checkout@v4
 
-      # 2) Python 3.11 installieren
+      # ── 2) Python installieren ──────────────────────────────────────────────
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
-      # 3) Abhängigkeiten
+      # ── 3) Dependencies ─────────────────────────────────────────────────────
       - name: Install Python deps
         run: pip install Pillow requests pytz matplotlib moviepy==1.0.3 imageio-ffmpeg
-      # 4) Debug-Step – prüft, ob alle Variablen gesetzt sind
+
+      # ── 4) Debug-Ausgabe ────────────────────────────────────────────────────
       - name: Debug env variables
         env:
-          GITHUB_TOKEN:   ${{ secrets.PAT_TOKEN }}        # ← dein PAT
-          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }} # bereits angelegt
-          IG_USER_ID:      ${{ secrets.IG_USER_ID }}      # bereits angelegt
+          GITHUB_TOKEN:    ${{ secrets.PAT_TOKEN }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID:      ${{ secrets.IG_USER_ID }}
         run: |
-          echo "🔎 Prüfe erforderliche ENV-Variablen:"
-          for V in GITHUB_TOKEN GITHUB_REPOSITORY IG_ACCESS_TOKEN IG_USER_ID; do
-            [ -n "${!V}" ] && echo "$V = ✅ gesetzt" || echo "$V = ❌ fehlt!"
+          echo "🔎 Prüfe ENV-Variablen:"
+          for V in GITHUB_TOKEN GITHUB_REPOSITORY IG_ACCESS_TOKEN IG_USER_ID VIDEO_FILE PURE_VIDEO; do
+            [ -n "${!V}" ] && echo "$V = ✅" || echo "$V = ❌ fehlt!"
           done
 
-      # 5) Bild generieren, ins Repo laden & auf Instagram posten
-      - name: Generate, upload & post image
+      # ── 5) Video generieren & posten ────────────────────────────────────────
+      - name: Generate, upload & post video
         env:
-          GITHUB_TOKEN:   ${{ secrets.PAT_TOKEN }}        # PAT → insta.py
+          GITHUB_TOKEN:    ${{ secrets.PAT_TOKEN }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID:      ${{ secrets.IG_USER_ID }}
         run: python insta.py
