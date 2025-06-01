@@ -676,8 +676,8 @@ def main():
         #post_video(video_path)
         post_tuesday_run()
         #post_video(TUESDAY_RUN_VIDEO)
-    else:
-        daily_video()
+    #else:
+        #daily_video()
         
     
     #print("✅ Bilder hochgeladen:",image_urls)
