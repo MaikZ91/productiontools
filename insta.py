@@ -664,7 +664,8 @@ def main():
     #if day in (3,17):insta_single_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/media/Kennenlernen.jpg","TRIBE KENNENLERNABEND - Immer am letzten Sonntag im Monat. Anmeldung in der Whats App Community",ig_uid,ig_tok)
 
     if os.getenv("PURE_VIDEO") == "1":
-        video_path = Path(__file__).resolve().parent / "media" / os.environ["VIDEO_FILE"]
+        #video_path = Path(__file__).resolve().parent / "media" / os.environ["VIDEO_FILE"]
+        video_path = Path(__file__).resolve().parent / "media" / clip2.mp4"
         post_video(video_path)
     else:
         daily_video()
