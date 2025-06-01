@@ -554,6 +554,82 @@ def daily_video() -> Tuple[str, Optional[str]]:
                 break
 
     return github_url, reel_id
+
+def pure_video(video_file: Path) -> Tuple[str, Optional[str]]:
+    """
+    Rendert `video_file` im Instagram-Format, lädt es ins GitHub-Repo
+    und postet es als Reel – ohne Musik, ohne Event-Overlays.
+    Rückgabe: (GitHub-URL, Reel-ID oder None)
+    """
+    # 1) Video zuschneiden (letterbox-frei)
+    base = VideoFileClip(str(video_file)).without_audio()
+    scale = max(W / base.w, H / base.h)
+    base  = (base.resize(scale)
+                 .crop(width=W, height=H, x_center=base.w/2, y_center=base.h/2))
+    final = CompositeVideoClip([base], size=(W, H))
+
+    # 2) Temp rendern
+    with NamedTemporaryFile(suffix=".mp4", delete=False) as tmp:
+        tmp_path = tmp.name
+    final.write_videofile(tmp_path, codec="libx264", fps=30, audio=False)
+
+    with open(tmp_path, "rb") as f:
+        video_bytes = f.read()
+    os.remove(tmp_path)
+
+    # 3) GitHub-Upload
+    tz   = pytz.timezone("Europe/Berlin")
+    path = datetime.now(tz).strftime("videos/%Y/%m/%d/%H%M_raw.mp4")
+    url_content = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{path}"
+    headers = {"Authorization": f"token {GITHUB_TOKEN}"}
+    body = {
+        "message": os.path.basename(path),
+        "content": base64.b64encode(video_bytes).decode()
+    }
+    put = requests.put(url_content, headers=headers, json=body)
+    put.raise_for_status()
+    github_url = put.json()["content"]["download_url"]
+
+    # 4) Reel posten (Minimal-Caption)
+    caption = "🎥 Enjoy the clip!"
+    ig_base = "https://graph.facebook.com/v21.0"
+
+    create = requests.post(
+        f"{ig_base}/{IG_USER}/media",
+        data={
+            "media_type": "REELS",
+            "video_url": github_url,
+            "caption": caption,
+            "share_to_feed": "true",
+            "access_token": IG_TOKEN,
+        }, timeout=60
+    )
+    reel_id = None
+    try:
+        create.raise_for_status()
+        creation_id = create.json().get("id")
+        if creation_id:
+            for _ in range(40):
+                time.sleep(5)
+                status = requests.get(
+                    f"{ig_base}/{creation_id}",
+                    params={"fields": "status_code", "access_token": IG_TOKEN},
+                    timeout=30,
+                )
+                if status.json().get("status_code") == "FINISHED":
+                    pub = requests.post(
+                        f"{ig_base}/{IG_USER}/media_publish",
+                        data={"creation_id": creation_id,
+                              "access_token": IG_TOKEN},
+                        timeout=60,
+                    )
+                    pub.raise_for_status()
+                    reel_id = pub.json().get("id")
+                    break
+    except requests.RequestException as e:
+        print(f"Fehler beim Veröffentlichen des Reels: {e}")
+
+    return github_url, reel_id
 def main():
     global events
     tz=pytz.timezone("Europe/Berlin")
@@ -573,8 +649,13 @@ def main():
     #if day in (1,15):insta_single_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/media/Craetive.jpg","TRIBE CREATIVE CIRCLE - Dein Talent, deine Bühne. Jeden letzten Fr im Monat. Anmeldung in der Whats App Community",ig_uid,ig_tok)
     #if day in (2,16):insta_single_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/media/Wandern.jpg","TRIBE WANDERSAMSTAG - Immer am letzten Samstag im Monat. Anmeldung in der Whats App Community",ig_uid,ig_tok)
     #if day in (3,17):insta_single_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/media/Kennenlernen.jpg","TRIBE KENNENLERNABEND - Immer am letzten Sonntag im Monat. Anmeldung in der Whats App Community",ig_uid,ig_tok)
-    #daily_video_save()
-    daily_video()
+
+    if os.getenv("PURE_VIDEO") == "1":
+        video_path = Path(__file__).resolve().parent / "media" / os.environ["VIDEO_FILE"]
+        pure_video(video_path)
+    else:
+        daily_video()
+        
     
     #print("✅ Bilder hochgeladen:",image_urls)
 
