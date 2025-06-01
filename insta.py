@@ -25,8 +25,7 @@ URL = "https://raw.githubusercontent.com/MaikZ91/productiontools/master/events.j
 #GITHUB_VIDEO_FILE = Path(__file__).resolve().parent / "media" / "20250520_1822_Vibrant City Billboard_simple_compose_01jvq81fa7eywa1d4r9363dzd0.mp4"
 video_name = os.getenv("VIDEO_FILE", "clip1.mp4")      
 GITHUB_VIDEO_FILE = Path(__file__).resolve().parent / "media" / video_name
-#GITHUB_VIDEO_FILE = Path(__file__).resolve().parent / "media" / "clip1.mp4"
-#GITHUB_VIDEO_FILE = Path(__file__).resolve().parent / "media" / "clip2.mp4"
+TUESDAY_RUN_VIDEO = Path(__file__).resolve().parent / "media" / "TUESDAY_RUN.mp4"
 #MUSIC_FILE = Path(__file__).resolve().parent / "media" / "INDEPENDENCE. (mp3cut.net).mp3"
 MUSIC_FILE = Path(__file__).resolve().parent / "media" / "ali-safari.mp3"
 W, H,  PAD = 1080, 1080, 50
@@ -557,22 +556,21 @@ def daily_video() -> Tuple[str, Optional[str]]:
 
 def post_video(video_name: str) -> Tuple[str, Optional[str]]:
     """
-    Postet das vorhandene MP4 (media/<video_name>) als Reel – ohne Musik,
-    ohne Event-Overlay.  Liefert (GitHub-Raw-URL, Reel-ID oder None).
-    Repo muss öffentlich sein – sonst hat Instagram keinen Zugriff.
+    Lädt das vorhandene MP4 (media/<video_name>) als Reel + Story hoch
+    – ohne Musik, ohne Overlays.  Gibt (GitHub-Raw-URL, Reel-ID|None) zurück.
     """
 
-    # 1) Öffentliche Raw-URL des Videos im Haupt-Branch
+    # 1) Öffentliche Raw-URL zum MP4 im master/main-Branch
     github_url = (
         f"https://raw.githubusercontent.com/"
         f"{GITHUB_REPO}/master/media/{video_name}"
     )
 
-    # 2) Minimale Caption
-    caption = "🎥 Enjoy the clip!"
+    caption  = "🎥 Enjoy the clip!"
+    ig_base  = "https://graph.facebook.com/v21.0"
+    reel_id: Optional[str] = None
 
-    # 3) Reel anlegen + veröffentlichen (wie in daily_video)
-    ig_base = "https://graph.facebook.com/v21.0"
+    # ───── 3) Reel-Container anlegen ──────────────────────────────────
     create_resp = requests.post(
         f"{ig_base}/{IG_USER}/media",
         data={
@@ -585,65 +583,80 @@ def post_video(video_name: str) -> Tuple[str, Optional[str]]:
         timeout=60,
     )
 
-    reel_id: Optional[str] = None
-    try:
-        create_resp.raise_for_status()
-        creation_id = create_resp.json().get("id")
-        if creation_id:
-            poll_url = f"{ig_base}/{creation_id}"
-            for _ in range(40):
-                time.sleep(5)
-                status = requests.get(
-                    poll_url,
-                    params={"fields": "status_code", "access_token": IG_TOKEN},
-                    timeout=30,
-                )
-                if status.json().get("status_code") == "FINISHED":
-                    publish_resp = requests.post(
-                        f"{ig_base}/{IG_USER}/media_publish",
-                        data={"creation_id": creation_id,
-                              "access_token": IG_TOKEN},
-                        timeout=60,
-                    )
-                    publish_resp.raise_for_status()
-                    reel_id = publish_resp.json().get("id")
-                    break
-    except requests.RequestException as e:
-        print(f"Fehler beim Veröffentlichen des Reels: {e}")
+    # DEBUG: gesamte Antwort ausgeben
+    print("▶ create_resp.status:", create_resp.status_code)
+    print(create_resp.text)
 
-    # 4) (Optional) Story ebenfalls posten
-    try:
-        story_resp = requests.post(
-            f"{ig_base}/{IG_USER}/media",
-            data={
-                "media_type": "STORIES",
-                "video_url": github_url,
-                "caption": caption,
-                "access_token": IG_TOKEN,
-            },
-            timeout=60,
+    if create_resp.status_code != 200:
+        print("❌ Reel-Container konnte nicht erstellt werden.")
+        return github_url, None
+
+    creation_id = create_resp.json().get("id")
+    if not creation_id:
+        print("❌ Keine creation_id erhalten.")
+        return github_url, None
+
+    # ───── 3b) Container poll-en & veröffentlichen ───────────────────
+    poll_url = f"{ig_base}/{creation_id}"
+    for _ in range(40):
+        time.sleep(5)
+        status = requests.get(
+            poll_url,
+            params={"fields": "status_code", "access_token": IG_TOKEN},
+            timeout=30,
         )
-        story_resp.raise_for_status()
+        print("↻ poll:", status.json())           # DEBUG
+        if status.json().get("status_code") == "FINISHED":
+            publish_resp = requests.post(
+                f"{ig_base}/{IG_USER}/media_publish",
+                data={"creation_id": creation_id, "access_token": IG_TOKEN},
+                timeout=60,
+            )
+            print("▶ publish.status:", publish_resp.status_code)  # DEBUG
+            print(publish_resp.text)
+            if publish_resp.status_code == 200:
+                reel_id = publish_resp.json().get("id")
+            else:
+                print("❌ Fehler beim Veröffentlichen des Reels.")
+            break
+
+    # ───── 4) Optionale Story posten ─────────────────────────────────
+    story_resp = requests.post(
+        f"{ig_base}/{IG_USER}/media",
+        data={
+            "media_type": "STORIES",
+            "video_url": github_url,
+            "caption": caption,
+            "access_token": IG_TOKEN,
+        },
+        timeout=60,
+    )
+
+    print("▶ story_resp.status:", story_resp.status_code)  # DEBUG
+    print(story_resp.text)
+
+    if story_resp.status_code == 200:
         story_id = story_resp.json().get("id")
-        if story_id:
-            poll_story = f"{ig_base}/{story_id}"
-            for _ in range(60):
-                time.sleep(5)
-                status = requests.get(
-                    poll_story,
-                    params={"fields": "status_code", "access_token": IG_TOKEN},
-                    timeout=30,
+        poll_story = f"{ig_base}/{story_id}"
+        for _ in range(60):
+            time.sleep(5)
+            status = requests.get(
+                poll_story,
+                params={"fields": "status_code", "access_token": IG_TOKEN},
+                timeout=30,
+            )
+            print("↻ story poll:", status.json())  # DEBUG
+            if status.json().get("status_code") == "FINISHED":
+                pub_story = requests.post(
+                    f"{ig_base}/{IG_USER}/media_publish",
+                    data={"creation_id": story_id, "access_token": IG_TOKEN},
+                    timeout=60,
                 )
-                if status.json().get("status_code") == "FINISHED":
-                    requests.post(
-                        f"{ig_base}/{IG_USER}/media_publish",
-                        data={"creation_id": story_id,
-                              "access_token": IG_TOKEN},
-                        timeout=60,
-                    )
-                    break
-    except requests.RequestException as e:
-        print(f"Fehler bei Story-Upload: {e}")
+                print("▶ story publish:", pub_story.status_code)  # DEBUG
+                print(pub_story.text)
+                break
+    else:
+        print("❌ Story-Upload fehlgeschlagen.")
 
     return github_url, reel_id
 def main():
@@ -658,7 +671,8 @@ def main():
 
     weekday=datetime.now(tz).weekday()
     #if weekday==3:weekend_post() 
-    #if weekday==0:insta_single_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/ChatGPT%20Image%20Apr%2024%2C%202025%2C%2012_58_30%20PM.png","TRIBE TUESDAY RUN 💪\nJeden Dienstag, 18 Uhr | Gellershagen Park (am Teich)\nGemeinsam laufen, motivieren & Spaß haben.\nAnmeldung in der WhatsApp Community (-> Wöchentliche Umfrage), Link in der Bio🔗","",ig_tok)
+    #if weekday==0:post_video(TUESDAY_RUN_VIDEO)
+    #"TRIBE TUESDAY RUN 💪\nJeden Dienstag, 18 Uhr | Gellershagen Park (am Teich)\nGemeinsam laufen, motivieren & Spaß haben.\nAnmeldung in der WhatsApp Community (-> Wöchentliche Umfrage), Link in der Bio🔗","",ig_tok)
     #if weekday==2:insta_single_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/Unbenannt.png","Tribe Powerworkout 💪\n Anmeldung in Community, Link in der Bio 🔗",ig_uid,ig_tok)
     #if weekday==6:insta_single_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/Unbenannt3.png","Werde Partner – Deine Marke in der Bielefelder Community! Erreiche eine aktive Zielgruppe direkt vor Ort und präsentiere dich authentisch:",ig_uid,ig_tok)
     day=datetime.now(tz).day
