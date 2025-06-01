@@ -598,27 +598,45 @@ def post_video(video_name: str) -> Tuple[str, Optional[str]]:
 
     # ───── 3b) Container poll-en & veröffentlichen ───────────────────
     poll_url = f"{ig_base}/{creation_id}"
-    for _ in range(40):
-        time.sleep(5)
+
+    for _ in range(40):                      # max. 40 Versuche → ~10 min
+        time.sleep(15)                       # 15-Sekunden-Abstand (schont API-Limit)
+    
         status = requests.get(
             poll_url,
-            params={"fields": "status_code", "access_token": IG_TOKEN},
+            params={
+                "fields": (
+                    "status_code,"
+                    "video_status,"          # z. B. READY / ERROR
+                    "failure_code,"          # ENUM, z. B. VIDEO_UNSUPPORTED_FORMAT
+                    "failure_message"        # beschreibender Text
+                ),
+                "access_token": IG_TOKEN,
+            },
             timeout=30,
-        )
-        print("↻ poll:", status.json())           # DEBUG
-        if status.json().get("status_code") == "FINISHED":
+        ).json()
+    
+        print("↻ poll:", status)             # DEBUG-Ausgabe komplett
+    
+        if status.get("status_code") == "FINISHED":
             publish_resp = requests.post(
                 f"{ig_base}/{IG_USER}/media_publish",
                 data={"creation_id": creation_id, "access_token": IG_TOKEN},
                 timeout=60,
             )
-            print("▶ publish.status:", publish_resp.status_code)  # DEBUG
+            print("▶ publish.status:", publish_resp.status_code)
             print(publish_resp.text)
             if publish_resp.status_code == 200:
                 reel_id = publish_resp.json().get("id")
-            else:
-                print("❌ Fehler beim Veröffentlichen des Reels.")
             break
+
+    if status.get("status_code") == "ERROR":
+        # → detaillierten Grund anzeigen
+        print("❌ Verarbeitung fehlgeschlagen:")
+        print("   failure_code:   ", status.get("failure_code"))
+        print("   failure_message:", status.get("failure_message"))
+        print("   video_status:   ", status.get("video_status"))
+        break
 
     # ───── 4) Optionale Story posten ─────────────────────────────────
     story_resp = requests.post(
