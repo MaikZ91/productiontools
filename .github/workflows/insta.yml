@@ -1,88 +1,35 @@
-# .github/workflows/post_events_video.yml
-# ------------------------------------------------------------
-# Poste zwei Reels pro Tag:
-#   • 06 Uhr Berlin (04 UTC)  → media/clip1.mp4  MIT Event-Overlay
-#   • 17 Uhr Berlin (15 UTC)  → media/clip2.mp4  OHNE Event-Overlay
-#
-# Die Videodateien liegen im Repo unter media/ und werden via Git-LFS versioniert.
-# ------------------------------------------------------------
-
 name: Post events video
-
 on:
-  workflow_dispatch:            # manueller Trigger
+  workflow_dispatch:
   schedule:
-    - cron: '0 4 * * *'         # 04 UTC  = 06 Uhr Berlin
-    - cron: '0 15 * * *'        # 15 UTC  = 17 Uhr Berlin
-
+    - cron: '0 4 * * *'   # 06:00 Berlin
+    - cron: '0 15 * * *'  # 17:00 Berlin
 jobs:
   post:
     runs-on: ubuntu-latest
-
-    # ── Matrix: je ein Lauf pro Variante ─────────────────────
     strategy:
       matrix:
         include:
-          - cron: '0 4 * * *'   # morgens
+          - cron: '0 4 * * *'
             video: clip1.mp4
-            pure:  "0"          # Overlay/Captions EIN
-          - cron: '0 15 * * *'  # abends
+            pure:  "0"
+          - cron: '0 15 * * *'
             video: clip2.mp4
-            pure:  "1"          # reiner Clip
-
-    # Variablen fürs Python-Script
+            pure:  "1"
     env:
-      VIDEO_FILE:  ${{ matrix.video }}
-      PURE_VIDEO:  ${{ matrix.pure }}
-
+      VIDEO_FILE: ${{ matrix.video }}
+      PURE_VIDEO: ${{ matrix.pure }}
     steps:
-      # 1) Repo klonen – Git-LFS Pointer holen
-      - name: Checkout repository (with LFS pointers)
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
-          lfs: true
           fetch-depth: 1
-
-      # 2) Benötigtes Video aus LFS herunterladen
-      - name: Pull required LFS video
-        run: |
-          git lfs pull --include="media/${VIDEO_FILE}"
-          echo "▶ Dateiübersicht:"
-          ls -lh media
-          file "media/${VIDEO_FILE}"
-
-      # 3) Matrix-Eintrag überspringen, wenn Cron nicht passt
-      - name: Skip unmatched cron entries
-        if: github.event_name == 'schedule' && github.event.schedule != matrix.cron
-        run: echo "⏭️  Überspringe Matrix-Eintrag (falsche Cron-Zeit)" && exit 0
-
-      # 4) Python 3.11 installieren
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
-      # 5) Abhängigkeiten für insta.py
-      - name: Install Python dependencies
-        run: |
-          pip install Pillow requests pytz matplotlib \
-                     moviepy==1.0.3 imageio-ffmpeg
-
-      # 6) ENV-Variablen prüfen
-      - name: Debug environment
+      - run: pip install Pillow requests pytz matplotlib moviepy==1.0.3 imageio-ffmpeg
+      - name: Run insta.py
         env:
           GITHUB_TOKEN:    ${{ secrets.PAT_TOKEN }}
-          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
-          IG_USER_ID:      ${{ secrets.IG_USER_ID }}
-        run: |
-          echo "🔎 ENV-Variablen:"
-          for V in GITHUB_TOKEN IG_ACCESS_TOKEN IG_USER_ID VIDEO_FILE PURE_VIDEO; do
-            [ -n "${!V}" ] && echo "$V = ✔️  gesetzt" || echo "$V = ❌ fehlt"
-          done
-
-      # 7) Reel erstellen, ins Repo hochladen & auf Instagram posten
-      - name: Generate, upload & post reel
-        env:
-          GITHUB_TOKEN:    ${{ secrets.PAT_TOKEN }}      # PAT mit Repo-Rechten
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID:      ${{ secrets.IG_USER_ID }}
         run: python insta.py
