@@ -470,7 +470,7 @@ def daily_video() -> Tuple[str, Optional[str]]:
         caption_lines.append(line)
     
     caption = (
-        f"🎬 Events heute – {datetime.now(tz).strftime('%d.%m.%Y')}\n"
+        f"🎬 Events heute – {datetime.now(tz).strftime('%d.%m.%Y')} - Mehr Infos in unserer App\n"
         + "\n".join(caption_lines)
         + f"\n\n{music_credit}\n{video_credit}"
     )
