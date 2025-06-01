@@ -566,13 +566,14 @@ def post_tuesday_run() -> Tuple[str, Optional[str]]:
         f"https://raw.githubusercontent.com/"
         f"{GITHUB_REPO}/master/media/{video_name}"
     )
+    ig_base = f"https://graph.facebook.com/v21.0"
 
     caption = "🏃‍♂️ Tuesday Run – enjoy!"
     reel_id: Optional[str] = None
 
     # 2) Reel-Container anlegen
     create = requests.post(
-        f"{IG_API_BASE}/{IG_USER}/media",
+        f"{ig_base}/{IG_USER}/media",
         data={
             "media_type": "REELS",
             "video_url": github_url,
@@ -590,7 +591,7 @@ def post_tuesday_run() -> Tuple[str, Optional[str]]:
         return github_url, None
 
     # 3) Pollen bis Verarbeitung fertig
-    poll_url = f"{IG_API_BASE}/{container_id}"
+    poll_url = f"{ig_base}/{container_id}"
     wait = 15
     for _ in range(20):             # max ≈5 min
         time.sleep(wait)
@@ -606,7 +607,7 @@ def post_tuesday_run() -> Tuple[str, Optional[str]]:
 
         if status.get("status_code") == "FINISHED":
             pub = requests.post(
-                f"{IG_API_BASE}/{IG_USER}/media_publish",
+                f"{ig_base}/{IG_USER}/media_publish",
                 data={"creation_id": container_id, "access_token": IG_TOKEN},
                 timeout=60
             )
@@ -621,7 +622,7 @@ def post_tuesday_run() -> Tuple[str, Optional[str]]:
 
     # 4) Story mit demselben Clip posten
     story = requests.post(
-        f"{IG_API_BASE}/{IG_USER}/media",
+        f"{ig_base}/{IG_USER}/media",
         data={
             "media_type": "STORIES",
             "video_url": github_url,
@@ -632,7 +633,7 @@ def post_tuesday_run() -> Tuple[str, Optional[str]]:
     print("story:", story.status_code, story.text)
     if story.status_code == 200:
         story_id = story.json().get("id")
-        poll_story = f"{IG_API_BASE}/{story_id}"
+        poll_story = f"{ig_base}/{story_id}"
         for _ in range(30):
             time.sleep(10)
             s = requests.get(
@@ -643,7 +644,7 @@ def post_tuesday_run() -> Tuple[str, Optional[str]]:
             print("story poll:", s)
             if s.get("status_code") == "FINISHED":
                 requests.post(
-                    f"{IG_API_BASE}/{IG_USER}/media_publish",
+                    f"{ig_base}/{IG_USER}/media_publish",
                     data={"creation_id": story_id, "access_token": IG_TOKEN},
                     timeout=60
                 )
