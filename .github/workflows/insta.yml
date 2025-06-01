@@ -13,7 +13,7 @@ on:
   workflow_dispatch:            # manueller Trigger
   schedule:
     - cron: '0 4 * * *'         # 04 UTC  = 06 Uhr Berlin
-    - cron: '0 15 * * *'        # 15 UTC  = 17 Uhr Berlin
+    #- cron: '0 15 * * *'        # 15 UTC  = 17 Uhr Berlin
 
 jobs:
   post:
@@ -26,9 +26,9 @@ jobs:
           - cron: '0 4 * * *'   # morgens
             video: clip1.mp4
             pure:  "0"          # Overlay/Captions EIN
-          - cron: '0 15 * * *'  # abends
-            video: clip2.mp4
-            pure:  "1"          # reiner Clip
+          #- cron: '0 15 * * *'  # abends
+            #video: clip2.mp4
+            #pure:  "1"          # reiner Clip
 
     # Variablen fürs Python-Script
     env:
