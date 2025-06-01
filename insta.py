@@ -554,18 +554,9 @@ def daily_video() -> Tuple[str, Optional[str]]:
 
     return github_url, reel_id
 
-def post_tuesday_run() -> Tuple[str, Optional[str]]:
-    """
-    Postet media/TUESDAY_RUN.mp4 als Reel + Story.
-    Rückgabe: (Raw-URL, Reel-ID oder None)
-    """
+def post_video(video_path) -> Tuple[str, Optional[str]]:
 
-    # 1) Public-URL zum Video
-    video_name = "TUESDAY_RUN.mp4"
-    github_url = (
-        f"https://raw.githubusercontent.com/"
-        f"{GITHUB_REPO}/master/media/{video_name}"
-    )
+    github_url = video_path
     ig_base = f"https://graph.facebook.com/v21.0"
 
     caption = "🏃‍♂️ Tuesday Run – enjoy!"
@@ -663,7 +654,7 @@ def main():
 
     weekday=datetime.now(tz).weekday()
     #if weekday==3:weekend_post() 
-    #if weekday==0:post_video(TUESDAY_RUN_VIDEO)
+    if weekday==0:post_video(TUESDAY_RUN_VIDEO)
     #"TRIBE TUESDAY RUN 💪\nJeden Dienstag, 18 Uhr | Gellershagen Park (am Teich)\nGemeinsam laufen, motivieren & Spaß haben.\nAnmeldung in der WhatsApp Community (-> Wöchentliche Umfrage), Link in der Bio🔗","",ig_tok)
     #if weekday==2:insta_single_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/Unbenannt.png","Tribe Powerworkout 💪\n Anmeldung in Community, Link in der Bio 🔗",ig_uid,ig_tok)
     #if weekday==6:insta_single_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/Unbenannt3.png","Werde Partner – Deine Marke in der Bielefelder Community! Erreiche eine aktive Zielgruppe direkt vor Ort und präsentiere dich authentisch:",ig_uid,ig_tok)
@@ -673,14 +664,9 @@ def main():
     #if day in (3,17):insta_single_post("https://raw.githubusercontent.com/MaikZ91/productiontools/master/media/Kennenlernen.jpg","TRIBE KENNENLERNABEND - Immer am letzten Sonntag im Monat. Anmeldung in der Whats App Community",ig_uid,ig_tok)
 
     if os.getenv("PURE_VIDEO") == "1":
-        #video_path = Path(__file__).resolve().parent / "media" / os.environ["VIDEO_FILE"]
-        #post_video(video_path)
-        post_tuesday_run()
-        #post_video(TUESDAY_RUN_VIDEO)
-    #else:
-        #daily_video()
+        video_path = Path(__file__).resolve().parent / "media" / os.environ["VIDEO_FILE"]
+        post_video(video_path)
+    else:
+        daily_video()
         
-    
-    #print("✅ Bilder hochgeladen:",image_urls)
-
 if __name__=="__main__":main()
