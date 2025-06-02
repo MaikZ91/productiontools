@@ -670,7 +670,7 @@ def main():
             f"https://raw.githubusercontent.com/"
             f"{GITHUB_REPO}/master/media/clip2.mp4"
         )
-        post_video(video_path)
+        #post_video(video_path)
     else:
         daily_video()
         
