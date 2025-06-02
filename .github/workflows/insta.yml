@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 4 * * *'   # 06:00 Berlin
-    - cron: '0 15 * * *'  # 17:00 Berlin
+    #- cron: '0 15 * * *'  # 17:00 Berlin
 jobs:
   post:
     runs-on: ubuntu-latest
@@ -13,9 +13,9 @@ jobs:
           - cron: '0 4 * * *'
             video: clip1.mp4
             pure:  "0"
-          - cron: '0 15 * * *'
-            video: clip2.mp4
-            pure:  "1"
+          #- cron: '0 15 * * *'
+            #video: clip2.mp4
+            #pure:  "1"
     env:
       VIDEO_FILE: ${{ matrix.video }}
       PURE_VIDEO: ${{ matrix.pure }}
