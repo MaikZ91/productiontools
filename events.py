@@ -192,64 +192,68 @@ def scrape_events(base_url):
 
     if base_url == cafe:
         MONTHS = {
-            "Januar": "01",
-            "Februar": "02",
-            "März": "03",
-            "April": "04",
-            "Mai": "05",
-            "Juni": "06",
-            "Juli": "07",
-            "August": "08",
-            "September": "09",
-            "Oktober": "10",
-            "November": "11",
-            "Dezember": "12"
+            "Januar": "01",  "Februar": "02", "März": "03", "April": "04",
+            "Mai": "05",     "Juni": "06",    "Juli": "07", "August": "08",
+            "September": "09","Oktober": "10","November": "11","Dezember": "12"
         }
+    
         ticket_links = soup.find_all('a', string=lambda s: s and "Tickets kaufen" in s)
         for link in ticket_links:
-            title_elem = link.find_previous(lambda tag: tag.name in ['h2', 'h3', 'h4'] and "•" in tag.get_text())
+            # --- Event-Titel ----------------------------------------------------
+            title_elem = link.find_previous(
+                lambda tag: tag.name in ['h2', 'h3', 'h4'] and "•" in tag.get_text()
+            )
             if not title_elem:
                 continue
             event_title = title_elem.get_text(strip=True)
+    
+            # --- Datum herausziehen --------------------------------------------
             prev_text = title_elem.find_previous(string=re.compile(r'\d{1,2}\.\s*[A-Za-zäöüÄÖÜ]+'))
-            if prev_text:
-                date_text = prev_text.strip()
-            else:
+            if not prev_text:
                 continue
+            date_text = prev_text.strip()
+    
             m = re.search(r'(\d{1,2})\.\s*([A-Za-zäöüÄÖÜ]+)', date_text)
-            if m:
-                day = m.group(1)
-                month_name = m.group(2)
-                month_number = MONTHS.get(month_name, "00")
-            else:
+            if not m:
                 continue
-            now = datetime.datetime.now()
-            candidate_date = datetime.datetime(TARGET_YEAR, int(month_number), int(day))
-            if candidate_date.date() < datetime.date(TARGET_YEAR, 1, 1):
-                event_year = TARGET_YEAR + 1
+            day, month_name = m.groups()
+            month_number = MONTHS.get(month_name, "00")
+    
+            # --- Uhrzeit suchen -------------------------------------------------
+            # 1) Direkt in der Nähe eines <time>, <span> oder <p>-Tags …
+            time_elem = title_elem.find_next(
+                lambda tag: tag.name in ['time', 'span', 'p'] 
+                and re.search(r'\d{1,2}:\d{2}', tag.get_text())
+            )
+    
+            # 2) … oder im reinen Text der nächsten Geschwister
+            if time_elem:
+                time_match = re.search(r'(\d{1,2}:\d{2})', time_elem.get_text())
             else:
-                event_year = TARGET_YEAR
+                time_str_candidate = title_elem.find_next(string=re.compile(r'\d{1,2}:\d{2}'))
+                time_match = re.search(r'(\d{1,2}:\d{2})', time_str_candidate or '')
+    
+            event_time = time_match.group(1) if time_match else "00:00"   # Fallback
+    
+            # --- Datum (inkl. Verschiebung um −1 Tag) ---------------------------
+            candidate_date = datetime.datetime(TARGET_YEAR, int(month_number), int(day))
+            event_year = TARGET_YEAR if candidate_date.date() >= datetime.date(TARGET_YEAR, 1, 1) else TARGET_YEAR + 1
             event_date = datetime.datetime(event_year, int(month_number), int(day))
             adjusted_date = event_date - datetime.timedelta(days=1)
-            weekday_candidate = adjusted_date.strftime("%a")
-            weekday_map = {
-                "Mon": "Mo",
-                "Tue": "Di",
-                "Wed": "Mi",
-                "Thu": "Do",
-                "Fri": "Fr",
-                "Sat": "Sa",
-                "Sun": "So"
-            }
-            weekday_candidate = weekday_map.get(weekday_candidate, weekday_candidate)
+    
+            weekday_map = {"Mon": "Mo", "Tue": "Di", "Wed": "Mi",
+                           "Thu": "Do", "Fri": "Fr", "Sat": "Sa", "Sun": "So"}
+            weekday_candidate = weekday_map.get(adjusted_date.strftime("%a"), adjusted_date.strftime("%a"))
             date_str = f"{weekday_candidate}, {adjusted_date.day:02d}.{adjusted_date.month:02d}"
+    
+            # --- Event-Dict -----------------------------------------------------
             full_link = urljoin(base_url, link.get('href'))
-            event_title += " (@cafe_europa_bi)"
             events.append({
-                "date": date_str,
-                "event": event_title,
-                "category": 'Party',
-                "link": full_link
+                "date":     date_str,
+                "time":     event_time,            # <-- neue Uhrzeit-Spalte
+                "event":    f"{event_title} (@cafe_europa_bi)",
+                "category": "Party",
+                "link":     full_link
             })
 
     if base_url == nrzp:
