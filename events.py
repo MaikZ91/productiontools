@@ -344,42 +344,42 @@ def scrape_events(base_url):
             })    
 
     if base_url == stereobielefeld:
-    for event in soup.find_all('div', class_='evo_event_schema'):
-        script_tag = event.find('script', type='application/ld+json')
-        if not (script_tag and script_tag.string):
-            continue
-
-        # clean up the JSON-LD blob
-        cleaned = script_tag.string.replace('\n', '').replace('\r', '').replace('\t', '')
-        event_name    = re.search(r'name":\s*"(.*?)"', cleaned).group(1)
-        start_date_ld = re.search(r'startDate":\s*"(.*?)"', cleaned).group(1)
-        url_match     = re.search(r'url":\s*"(.*?)"', cleaned)
-        url_extracted = url_match.group(1) if url_match else base_url
-
-        # split date vs. time+timezone
-        date_part, time_part = start_date_ld.split('T')
-        year, month, day  = date_part.split('-')
-        month = month.zfill(2)
-        day   = day.zfill(2)
-
-        # normalize the timezone offset
-        tz = time_part[-6:]
-        tz = tz.replace('+2:00', '+02:00').replace('-2:00', '-02:00')
-        time_core = time_part[:-6]
-        iso_str   = f"{year}-{month}-{day}T{time_core}{tz}".replace('+1:00', '+01:00')
-
-        # parse via the module name so we don't shadow anything
-        parsed_date    = datetime.datetime.fromisoformat(iso_str)
-        formatted_date = parsed_date.strftime('%a, %d.%m')   # z. B. "Do, 05.06"
-        formatted_time = parsed_date.strftime('%H:%M')        # z. B. "19:00"
-
-        events.append({
-            "date":      formatted_date,
-            "time":      formatted_time,                      # <-- neue Uhrzeit-Spalte
-            "event":     f"{event_name} (@stereobielefeld)",
-            "category":  "Party",
-            "link":      url_extracted
-        })
+        for event in soup.find_all('div', class_='evo_event_schema'):
+            script_tag = event.find('script', type='application/ld+json')
+            if not (script_tag and script_tag.string):
+                continue
+    
+            # clean up the JSON-LD blob
+            cleaned = script_tag.string.replace('\n', '').replace('\r', '').replace('\t', '')
+            event_name    = re.search(r'name":\s*"(.*?)"', cleaned).group(1)
+            start_date_ld = re.search(r'startDate":\s*"(.*?)"', cleaned).group(1)
+            url_match     = re.search(r'url":\s*"(.*?)"', cleaned)
+            url_extracted = url_match.group(1) if url_match else base_url
+    
+            # split date vs. time+timezone
+            date_part, time_part = start_date_ld.split('T')
+            year, month, day  = date_part.split('-')
+            month = month.zfill(2)
+            day   = day.zfill(2)
+    
+            # normalize the timezone offset
+            tz = time_part[-6:]
+            tz = tz.replace('+2:00', '+02:00').replace('-2:00', '-02:00')
+            time_core = time_part[:-6]
+            iso_str   = f"{year}-{month}-{day}T{time_core}{tz}".replace('+1:00', '+01:00')
+    
+            # parse via the module name so we don't shadow anything
+            parsed_date    = datetime.datetime.fromisoformat(iso_str)
+            formatted_date = parsed_date.strftime('%a, %d.%m')   # z. B. "Do, 05.06"
+            formatted_time = parsed_date.strftime('%H:%M')        # z. B. "19:00"
+    
+            events.append({
+                "date":      formatted_date,
+                "time":      formatted_time,                      # <-- neue Uhrzeit-Spalte
+                "event":     f"{event_name} (@stereobielefeld)",
+                "category":  "Party",
+                "link":      url_extracted
+            })
 
     if base_url == f2f:
         container = soup.find('div', class_='wpf2f-public-widget')
