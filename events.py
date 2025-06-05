@@ -265,78 +265,74 @@ def scrape_events(base_url):
                     })
         
 
-        # ------------------------------------------------------------------
-    #  BUNKER ULNENWALL
-    # ------------------------------------------------------------------
-    if base_url == bunker:
-        months = {
-            'Januar': 'January', 'Februar': 'February', 'März': 'March',
-            'April': 'April',    'Mai': 'May',        'Juni': 'June',
-            'Juli': 'July',      'August': 'August',  'September': 'September',
-            'Oktober': 'October','November': 'November','Dezember': 'December'
-        }
-    
-        articles = soup.find_all('article', class_='entry')
-        for article in articles:
-            # -------- Datum -------------------------------------------------
-            date_div = article.find('div', class_='entry-summary')
-            event_date_raw = date_div.get_text(strip=True)
-            try:
-                day_name, day, month_name, year = event_date_raw.split(' ')
-            except ValueError:
-                continue                                   # Formatfehler → nächster Artikel
-    
-            month_name   = months.get(month_name, month_name)
-            day_padded   = day.rstrip('.').zfill(2)
-            month_padded = datetime.datetime.strptime(month_name, '%B').strftime('%m')
-            event_date   = f\"{day_name}, {day_padded}.{month_padded}.{year}\"
-    
-            # -------- Titel & Link ------------------------------------------
-            event_name_tag = article.find('h2', class_='entry-title')
-            event_name     = f\"{event_name_tag.get_text(strip=True)} (@bunkerulmenwall)\"
-            event_link     = article.find('a', class_='post-thumbnail')['href']
-    
-            # -------- Kategorien (robust) -----------------------------------
-            cat_links = article.select(
-                '.cat-links a, footer a[rel~=\"category\"], a[href*=\"/category/\"]'
-            )
-            categories = ' | '.join(c.get_text(strip=True) for c in cat_links)
-    
-            # -------- Beginn-Uhrzeit ----------------------------------------
-            start_time = ''
-            try:
-                detail_html = requests.get(event_link, timeout=10).text
-                detail_soup = BeautifulSoup(detail_html, 'html.parser')
-    
-                # 1) Klartext-Suche („Beginn … 20:30“, „Beginn: 20.30 Uhr“ …)
-                m = re.search(
-                    r'Beginn\\s*(?:um|:|-)\\s*(\\d{1,2}(?:[.:]\\d{2}))',
-                    detail_soup.get_text(' ', strip=True),
-                    flags=re.I,
-                )
-                if m:
-                    start_time = m.group(1).replace('.', ':')
-    
-                # 2) Fallback: JSON-LD <startDate>
-                if not start_time:
-                    ld = detail_soup.find('script', type='application/ld+json')
-                    if ld and ld.string:
-                        data = json.loads(ld.string)
-                        if isinstance(data, dict) and 'startDate' in data:
-                            dt = parse(data['startDate'])
-                            start_time = dt.strftime('%H:%M')
-            except Exception:
-                pass                                           # Detailseite nicht erreichbar
-    
-            # -------- Event sammeln -----------------------------------------
-            events.append({
-                'date': event_date,
-                'time': start_time,      # ← jetzt korrekt gefüllt oder ''
-                'category': categories,  # ← jetzt gefüllt oder ''
-                'event': event_name,
-                'link': event_link
-            })
+   if base_url == bunker:
+    months = {
+        'Januar': 'January', 'Februar': 'February', 'März': 'March',
+        'April': 'April',    'Mai': 'May',        'Juni': 'June',
+        'Juli': 'July',      'August': 'August',  'September': 'September',
+        'Oktober': 'October','November': 'November','Dezember': 'December'
+    }
 
+    articles = soup.find_all('article', class_='entry')
+    for article in articles:
+        # -------- Datum -------------------------------------------------
+        date_div = article.find('div', class_='entry-summary')
+        event_date_raw = date_div.get_text(strip=True)
+        try:
+            day_name, day, month_name, year = event_date_raw.split(' ')
+        except ValueError:
+            continue                                   # Formatfehler → nächster Artikel
+
+        month_name   = months.get(month_name, month_name)
+        day_padded   = day.rstrip('.').zfill(2)
+        month_padded = datetime.datetime.strptime(month_name, '%B').strftime('%m')
+        event_date   = f"{day_name}, {day_padded}.{month_padded}.{year}"
+
+        # -------- Titel & Link ------------------------------------------
+        event_name_tag = article.find('h2', class_='entry-title')
+        event_name     = f"{event_name_tag.get_text(strip=True)} (@bunkerulmenwall)"
+        event_link     = article.find('a', class_='post-thumbnail')['href']
+
+        # -------- Kategorien (robust) -----------------------------------
+        cat_links = article.select(
+            '.cat-links a, footer a[rel~="category"], a[href*="/category/"]'
+        )
+        categories = ' | '.join(c.get_text(strip=True) for c in cat_links)
+
+        # -------- Beginn-Uhrzeit ----------------------------------------
+        start_time = ''
+        try:
+            detail_html = requests.get(event_link, timeout=10).text
+            detail_soup = BeautifulSoup(detail_html, 'html.parser')
+
+            # 1) Klartext-Suche („Beginn … 20:30“, „Beginn: 20.30 Uhr“ …)
+            m = re.search(
+                r'Beginn\\s*(?:um|:|-)\\s*(\\d{1,2}(?:[.:]\\d{2}))',
+                detail_soup.get_text(' ', strip=True),
+                flags=re.I,
+            )
+            if m:
+                start_time = m.group(1).replace('.', ':')
+
+            # 2) Fallback: JSON-LD <startDate>
+            if not start_time:
+                ld = detail_soup.find('script', type='application/ld+json')
+                if ld and ld.string:
+                    data = json.loads(ld.string)
+                    if isinstance(data, dict) and 'startDate' in data:
+                        dt = parse(data['startDate'])
+                        start_time = dt.strftime('%H:%M')
+        except Exception:
+            pass                                           # Detailseite nicht erreichbar
+
+        # -------- Event sammeln -----------------------------------------
+        events.append({
+            'date': event_date,
+            'time': start_time,      # ← jetzt korrekt gefüllt oder ''
+            'category': categories,  # ← jetzt gefüllt oder ''
+            'event': event_name,
+            'link': event_link
+        })
 
     if base_url == sams:
         columns = soup.find_all('div', class_='col')
