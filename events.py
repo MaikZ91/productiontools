@@ -161,34 +161,34 @@ def scrape_events(base_url):
                 continue
 
     if base_url == sams:
-    columns = soup.find_all('div', class_='col')
-    for col in columns:
-        link_tag = col.find('a')
-        event_link = urljoin(base_url, link_tag['href'])
-
-        head_tag = col.find('span', class_='head')
-        event_name = f"{head_tag.get_text(strip=True)} (@sams_bielefeld)"
-
-        content_tag = col.find('div', class_='content')
-        if content_tag:
-            start_text = content_tag.get_text(strip=True)
-            if 'Start:' in start_text:
-                start_date = start_text.split('Start: ')[1]
-
-                # Datums- und Zeit­objekt erzeugen
-                date_obj = datetime.datetime.strptime(start_date, '%d.%m.%Y %H:%M')
-
-                # Formatierungen
-                formatted_date = date_obj.strftime('%a, %d.%m')   # z. B. "Do, 05.06"
-                formatted_time = date_obj.strftime('%H:%M')       # z. B. "19:00"
-
-                events.append({
-                    'date': formatted_date,
-                    'time': formatted_time,      # <-- neue Uhrzeit-Spalte
-                    'event': event_name,
-                    'category': 'Party',
-                    'link': event_link
-                })
+        columns = soup.find_all('div', class_='col')
+        for col in columns:
+            link_tag = col.find('a')
+            event_link = urljoin(base_url, link_tag['href'])
+    
+            head_tag = col.find('span', class_='head')
+            event_name = f"{head_tag.get_text(strip=True)} (@sams_bielefeld)"
+    
+            content_tag = col.find('div', class_='content')
+            if content_tag:
+                start_text = content_tag.get_text(strip=True)
+                if 'Start:' in start_text:
+                    start_date = start_text.split('Start: ')[1]
+    
+                    # Datums- und Zeit­objekt erzeugen
+                    date_obj = datetime.datetime.strptime(start_date, '%d.%m.%Y %H:%M')
+    
+                    # Formatierungen
+                    formatted_date = date_obj.strftime('%a, %d.%m')   # z. B. "Do, 05.06"
+                    formatted_time = date_obj.strftime('%H:%M')       # z. B. "19:00"
+    
+                    events.append({
+                        'date': formatted_date,
+                        'time': formatted_time,      # <-- neue Uhrzeit-Spalte
+                        'event': event_name,
+                        'category': 'Party',
+                        'link': event_link
+                    })
 
     if base_url == cafe:
         MONTHS = {
