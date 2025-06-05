@@ -671,7 +671,7 @@ def main():
             f"{GITHUB_REPO}/master/media/YouCut_20250603_194220189.mp4"
         )
         post_video(video_path)
-    else:
+        
     daily_video()
         
 if __name__=="__main__":main()
