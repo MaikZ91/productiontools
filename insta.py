@@ -672,6 +672,6 @@ def main():
         )
         post_video(video_path)
     else:
-        daily_video()
+    daily_video()
         
 if __name__=="__main__":main()
