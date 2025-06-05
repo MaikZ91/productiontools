@@ -285,7 +285,7 @@ def scrape_events(base_url):
 
             month_name   = months.get(month_name, month_name)
             day_padded   = day.rstrip('.').zfill(2)
-            month_padded = datetime.datetime.strptime(month_name, '%B').strftime('%m')
+            month_padded = dt.datetime.strptime(month_name, '%B').strftime('%m')
             event_date   = f"{day_name}, {day_padded}.{month_padded}.{year}"
 
             # -------- Titel & Link ------------------------------------------
@@ -320,8 +320,8 @@ def scrape_events(base_url):
                     if ld and ld.string:
                         data = json.loads(ld.string)
                         if isinstance(data, dict) and 'startDate' in data:
-                            dt = parse(data['startDate'])
-                            start_time = dt.strftime('%H:%M')
+                            dtx = parse(data['startDate'])
+                            start_time = dtx.strftime('%H:%M')
             except Exception:
                 pass       
 
