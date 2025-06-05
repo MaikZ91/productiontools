@@ -286,16 +286,16 @@ def scrape_events(base_url):
             month_name   = months.get(month_name, month_name)
             day_padded   = day.rstrip('.').zfill(2)
             month_padded = datetime.datetime.strptime(month_name, '%B').strftime('%m')
-            event_date   = f"{day_name}, {day_padded}.{month_padded}.{year}"
+            event_date   = f\"{day_name}, {day_padded}.{month_padded}.{year}\"
 
             # -------- Titel & Link ------------------------------------------
             event_name_tag = article.find('h2', class_='entry-title')
-            event_name     = f"{event_name_tag.get_text(strip=True)} (@bunkerulmenwall)"
+            event_name     = f\"{event_name_tag.get_text(strip=True)} (@bunkerulmenwall)\"
             event_link     = article.find('a', class_='post-thumbnail')['href']
 
             # -------- Kategorien (robust) -----------------------------------
             cat_links = article.select(
-                '.cat-links a, footer a[rel~="category"], a[href*="/category/"]'
+                '.cat-links a, footer a[rel~=\"category\"], a[href*=\"/category/\"]'
             )
             categories = ' | '.join(c.get_text(strip=True) for c in cat_links)
 
@@ -323,7 +323,16 @@ def scrape_events(base_url):
                             dtx = parse(data['startDate'])
                             start_time = dtx.strftime('%H:%M')
             except Exception:
-                pass       
+                pass                                           # Detailseite nicht erreichbar
+
+            # -------- Event sammeln -----------------------------------------
+            events.append({
+                'date': event_date,
+                'time': start_time,      # ← jetzt korrekt gefüllt oder ''
+                'category': categories,  # ← jetzt gefüllt oder ''
+                'event': event_name,
+                'link': event_link
+            })    
 
     if base_url == sams:
         columns = soup.find_all('div', class_='col')
@@ -844,8 +853,9 @@ def parse_event_date(s: str) -> Optional[datetime.date]:
 
 if __name__ == '__main__':
     sources = [
-        bielefeld_jetzt, forum, platzhirsch, irish_pub, f2f, sams, movie, nrzp,
-        bunker, stereobielefeld, cafe, arminia,impro
+        #bielefeld_jetzt, forum, platzhirsch, irish_pub, f2f, sams, movie, nrzp,
+        bunker
+        #,stereobielefeld, cafe, arminia,impro
         #hsp, vhs,theater
     ]
     events = []
