@@ -343,26 +343,6 @@ def scrape_events(base_url):
                 'link': event_link
             })    
 
-    if base_url == sams:
-        columns = soup.find_all('div', class_='col')
-        for col in columns:
-            link_tag = col.find('a')
-            event_link = urljoin(base_url, link_tag['href'])
-            head_tag = col.find('span', class_='head')
-            event_name = f"{head_tag.get_text(strip=True)} (@sams_bielefeld)"
-            content_tag = col.find('div', class_='content')
-            if content_tag:
-                start_text = content_tag.get_text(strip=True)
-                if 'Start:' in start_text:
-                    start_date = start_text.split('Start: ')[1]
-                    date_obj = datetime.datetime.strptime(start_date, '%d.%m.%Y %H:%M')
-                    formatted_date = date_obj.strftime('%a, %d.%m')
-            events.append({
-                'date': formatted_date,
-                'event': event_name,
-                'category': 'Party',
-                'link': event_link
-            })
     if base_url == stereobielefeld:
         for event in soup.find_all('div', class_='evo_event_schema'):
             script_tag = event.find('script', type='application/ld+json')
