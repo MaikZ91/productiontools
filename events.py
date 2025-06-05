@@ -842,9 +842,8 @@ def parse_event_date(s: str) -> Optional[datetime.date]:
 
 if __name__ == '__main__':
     sources = [
-        sams
-        #bielefeld_jetzt, forum, platzhirsch, irish_pub, f2f, sams, movie, nrzp,
-        #bunker,stereobielefeld, cafe, arminia, impro
+        bielefeld_jetzt, forum, platzhirsch, irish_pub, f2f, sams, movie, nrzp,
+        bunker,stereobielefeld, cafe, arminia, impro
         #hsp, vhs,theater
     ]
     events = []
