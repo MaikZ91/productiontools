@@ -160,28 +160,35 @@ def scrape_events(base_url):
                 print(f"Fehler bei bielefeld.jetzt: {e}")
                 continue
 
-    if base_url == forum:
-        articles = soup.find_all('article', class_='post')
-        for article in articles:
-            date_div = article.find('div', class_='forumevent_date')
-            if date_div:
-                day = date_div.find('span', class_='day').text.strip()
-                month_name = date_div.find('span', class_='month').text.strip()
-                try:
-                    month_number = datetime.datetime.strptime(month_name, '%b').strftime('%m')
-                except Exception:
-                    month_number = '00'
-                dayname = date_div.find('span', class_='dayname').text[:2]
-                date = f"{dayname}, {day}.{month_number}"
-                title_div = article.find('div', class_='entry-title')
-                if title_div:
-                    event = f"{title_div.get_text(strip=True)} (@forum_bielefeld)"
-                    full_link = urljoin(base_url, title_div.find('a')['href'])
-                    events.append({
-                        'date': date,
-                        'event': event,
-                        'link': full_link
-                    })
+    if base_url == sams:
+    columns = soup.find_all('div', class_='col')
+    for col in columns:
+        link_tag = col.find('a')
+        event_link = urljoin(base_url, link_tag['href'])
+
+        head_tag = col.find('span', class_='head')
+        event_name = f"{head_tag.get_text(strip=True)} (@sams_bielefeld)"
+
+        content_tag = col.find('div', class_='content')
+        if content_tag:
+            start_text = content_tag.get_text(strip=True)
+            if 'Start:' in start_text:
+                start_date = start_text.split('Start: ')[1]
+
+                # Datums- und Zeit­objekt erzeugen
+                date_obj = datetime.datetime.strptime(start_date, '%d.%m.%Y %H:%M')
+
+                # Formatierungen
+                formatted_date = date_obj.strftime('%a, %d.%m')   # z. B. "Do, 05.06"
+                formatted_time = date_obj.strftime('%H:%M')       # z. B. "19:00"
+
+                events.append({
+                    'date': formatted_date,
+                    'time': formatted_time,      # <-- neue Uhrzeit-Spalte
+                    'event': event_name,
+                    'category': 'Party',
+                    'link': event_link
+                })
 
     if base_url == cafe:
         MONTHS = {
@@ -855,8 +862,9 @@ def parse_event_date(s: str) -> Optional[datetime.date]:
 
 if __name__ == '__main__':
     sources = [
-        bielefeld_jetzt, forum, platzhirsch, irish_pub, f2f, sams, movie, nrzp,
-        bunker,stereobielefeld, cafe, arminia, impro
+        sams
+        #bielefeld_jetzt, forum, platzhirsch, irish_pub, f2f, sams, movie, nrzp,
+        #bunker,stereobielefeld, cafe, arminia, impro
         #hsp, vhs,theater
     ]
     events = []
