@@ -267,38 +267,53 @@ def scrape_events(base_url):
 
     if base_url == bunker:
         months = {
-            'Januar': 'January',
-            'Februar': 'February',
-            'März': 'March',
-            'April': 'April',
-            'Mai': 'May',
-            'Juni': 'June',
-            'Juli': 'July',
-            'August': 'August',
-            'September': 'September',
-            'Oktober': 'October',
-            'November': 'November',
-            'Dezember': 'December'
+            'Januar': 'January', 'Februar': 'February', 'März': 'March',
+            'April': 'April',    'Mai': 'May',        'Juni': 'June',
+            'Juli': 'July',      'August': 'August',  'September': 'September',
+            'Oktober': 'October','November': 'November','Dezember': 'December'
         }
+    
         articles = soup.find_all('article', class_='entry')
         for article in articles:
-            date_div = article.find('div', class_='entry-summary')
-            event_date = date_div.get_text(strip=True)
+            # ---------------- Datum auflisten ----------------
+            date_div   = article.find('div', class_='entry-summary')
+            event_date_raw = date_div.get_text(strip=True)
             try:
-                day_name, day, month_name, year = event_date.split(' ')
-            except Exception:
-                continue
-            month_name = months.get(month_name, month_name)
-            day_padded   = day.rstrip('.').zfill(2)           
-            month_padded = datetime.datetime.strptime(month_name, '%B').strftime('%m')  # "05"
-            event_date = f"{day_name}, {day_padded}.{month_padded}"
-            #event_date = f"{day_name}, {day}{datetime.datetime.strptime(month_name, '%B').strftime('%m')}"
+                day_name, day, month_name, year = event_date_raw.split(' ')
+            except ValueError:
+                continue                                 # bei ungewöhnlichem Format überspringen
+    
+            month_name  = months.get(month_name, month_name)
+            day_padded  = day.rstrip('.').zfill(2)
+            month_padded = datetime.datetime.strptime(month_name, '%B').strftime('%m')
+            event_date  = f"{day_name}, {day_padded}.{month_padded}.{year}"
+    
+            # ---------------- Titel & Link ----------------
             event_name_tag = article.find('h2', class_='entry-title')
-            event_name = f"{event_name_tag.get_text(strip=True)} (@bunkerulmenwall)"
-            event_link_tag = article.find('a', class_='post-thumbnail')
-            event_link = event_link_tag['href']
+            event_name     = f"{event_name_tag.get_text(strip=True)} (@bunkerulmenwall)"
+            event_link     = article.find('a', class_='post-thumbnail')['href']
+    
+            # ---------------- Kategorien ----------------
+            cat_links  = article.select('a[rel=\"category tag\"]')           # WP-Standard :contentReference[oaicite:0]{index=0}
+            categories = ' | '.join(c.get_text(strip=True) for c in cat_links)
+    
+            # ---------------- Beginn-Uhrzeit ----------------
+            # (steht nur auf der Detailseite -> einmal nachladen)
+            start_time = ''
+            try:
+                detail_html  = requests.get(event_link, timeout=10).text
+                detail_soup  = BeautifulSoup(detail_html, 'html.parser')
+                m = re.search(r'Beginn:\s*(\d{1,2}[.:]\d{2})', detail_soup.get_text(' ', strip=True))
+                if m:
+                    start_time = m.group(1).replace('.', ':')               # „20.30“ → „20:30“ :contentReference[oaicite:1]{index=1}
+            except Exception:
+                pass                                                       # falls Detailseite nicht erreichbar
+    
+            # ---------------- Event in Liste packen ----------------
             events.append({
                 'date': event_date,
+                'time': start_time,        #  <-- NEU
+                'category': categories,    #  <-- NEU
                 'event': event_name,
                 'link': event_link
             })
