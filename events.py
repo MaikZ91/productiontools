@@ -300,30 +300,32 @@ def scrape_events(base_url):
             categories = ' | '.join(c.get_text(strip=True) for c in cat_links)
 
             # -------- Beginn-Uhrzeit ----------------------------------------
-            start_time = ''
+            start_time = ""
             try:
                 detail_html = requests.get(event_link, timeout=10).text
-                detail_soup = BeautifulSoup(detail_html, 'html.parser')
-
-                # 1) Klartext-Suche („Beginn … 20:30“, „Beginn: 20.30 Uhr“ …)
+                detail_soup = BeautifulSoup(detail_html, "html.parser")
+            
+                # 1) Klartext-Suche  („Beginn … 19:00“, „Beginn: 19.00 Uhr“, …)
                 m = re.search(
-                    r'Beginn\\s*(?:um|:|-)\\s*(\\d{1,2}(?:[.:]\\d{2}))',
-                    detail_soup.get_text(' ', strip=True),
+                    r"Beginn\s*(?:um|:|-)?\s*(\d{1,2}[.:]\d{2})",
+                    detail_soup.get_text(" ", strip=True),
                     flags=re.I,
                 )
                 if m:
-                    start_time = m.group(1).replace('.', ':')
-
-                # 2) Fallback: JSON-LD <startDate>
+                    start_time = m.group(1).replace(".", ":")
+                    # einstellig → führende Null, damit immer HH:MM
+                    if len(start_time) == 4:
+                        start_time = "0" + start_time
+            
+                # 2) Fallback – JSON-LD startDate
                 if not start_time:
-                    ld = detail_soup.find('script', type='application/ld+json')
+                    ld = detail_soup.find("script", type="application/ld+json")
                     if ld and ld.string:
                         data = json.loads(ld.string)
-                        if isinstance(data, dict) and 'startDate' in data:
-                            dtx = parse(data['startDate'])
-                            start_time = dtx.strftime('%H:%M')
+                        if isinstance(data, dict) and "startDate" in data:
+                            start_time = parse(data["startDate"]).strftime("%H:%M")
             except Exception:
-                pass                                           # Detailseite nicht erreichbar
+                pass                                      # Detailseite nicht erreichbar
 
             # -------- Event sammeln -----------------------------------------
             events.append({
