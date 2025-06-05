@@ -3,7 +3,7 @@ name: Send WhatsApp Group Message (Python)
 # Cron: Mo & Do 09:00 Europe/Berlin → UTC+2 → 07:00 UTC
 on:
   schedule:
-    - cron: '0 7 * * 1,4'
+    #- cron: '0 7 * * 1,4'
 
 jobs:
   send:
