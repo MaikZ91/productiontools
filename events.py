@@ -499,9 +499,10 @@ def scrape_events(base_url):
                 name = name_part.split(":", 1)[-1].strip()
     
                 
-                if not any(k in name.lower() for k in allowed_keywords):
-                    continue
+                #if not any(k in name.lower() for k in allowed_keywords):
+                    #continue
                 timeslot = tm.group().replace(" Uhr", "")
+                start_time = timeslot.split("-", 1)[0]
     
                 key = (date_str, timeslot, name.lower())
                 if key in seen:
@@ -511,7 +512,7 @@ def scrape_events(base_url):
                 events.append(
                     {
                         "date": date_str,
-                        "time": timeslot,
+                        "time": start_time,
                         "event": f"{name}(@hochschulsport_bielefeld)",
                         "category": "Sport",
                         "link": urljoin(base_url, a["href"]),
