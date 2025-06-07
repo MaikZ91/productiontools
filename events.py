@@ -504,7 +504,7 @@ def scrape_events(base_url):
                 if not any(rx.search(raw_name) for rx in kw_regex):
                     continue
 
-                key = (date_str, timeslot, name.lower())
+                key = (date_str, timeslot, raw_name.lower())
                 if key in seen:
                     continue
                 seen.add(key)
@@ -513,7 +513,7 @@ def scrape_events(base_url):
                     {
                         "date": date_str,
                         "time": start_time,
-                        "event": f"{name}(@hochschulsport_bielefeld)",
+                        "event": f"{raw_name}(@hochschulsport_bielefeld)",
                         "category": "Sport",
                         "link": urljoin(base_url, a["href"]),
                     }
