@@ -492,24 +492,32 @@ def scrape_events(base_url):
     
             for a in day_soup.find_all("a", href=True):
                 txt = a.get_text(strip=True)
-                if not time_pattern.search(txt):
+                tm = time_pattern.search(txt)
+                if not tm:
                     continue
+
+                timeslot = tm.group() 
+                name_part = txt[: tm.start()]                  # Text vor der Zeit
+                name = name_part.split(":", 1)[-1].strip()
     
-                # Event-Name extrahieren
-                name = txt.split(":", 1)[1].rsplit(" ", 2)[0].strip()
+                # Keyword‑Filter
                 if not any(k in name.lower() for k in allowed_keywords):
                     continue
-                key = (date_str, name)
+    
+                key = (date_str, timeslot, name.lower())
                 if key in seen:
                     continue
                 seen.add(key)
     
-                events.append({
-                    "date": date_str,
-                    "event": f"{name}(@hochschulsport_bielefeld)",
-                    "category": 'Sport',
-                    "link": urljoin(BASE_URL, a["href"])
-                })
+                events.append(
+                    {
+                        "date": date_str,
+                        "time": timeslot,
+                        "event": f"{name}(@hochschulsport_bielefeld)",
+                        "category": "Sport",
+                        "link": urljoin(HSP_BASE, a["href"]),
+                    }
+                )
 
     if base_url == theater:
 
