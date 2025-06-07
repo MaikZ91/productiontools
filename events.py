@@ -472,6 +472,7 @@ def scrape_events(base_url):
         "Wandern",      # hiking
         "Fitnesstraining",   # power workout (typo preserved as requested)
         ]
+        kw_regex = [re.compile(rf"\b{re.escape(k)}\b", re.IGNORECASE) for k in allowed_keywords]
 
         events = []
         seen = set()
@@ -495,15 +496,14 @@ def scrape_events(base_url):
                 tm = time_pattern.search(txt)
                 if not tm:
                     continue
-                name_part = txt[: tm.start()]                  # Text vor der Zeit
-                name = name_part.split(":", 1)[-1].strip()
-    
-                
-                #if not any(k in name.lower() for k in allowed_keywords):
-                    #continue
                 timeslot = tm.group().replace(" Uhr", "")
                 start_time = timeslot.split("-", 1)[0]
-    
+
+                raw_name = txt[: tm.start()].split(":", 1)[-1].strip()
+                raw_name = re.sub(r"\b(?:Mo|Di|Mi|Do|Fr|Sa|So)$", "", raw_name).strip()
+                if not any(rx.search(raw_name) for rx in kw_regex):
+                    continue
+
                 key = (date_str, timeslot, name.lower())
                 if key in seen:
                     continue
