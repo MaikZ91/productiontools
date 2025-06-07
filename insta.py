@@ -13,7 +13,7 @@ from io import BytesIO
 import numpy as np
 from pathlib import Path
 import moviepy.editor
-from moviepy.editor import VideoFileClip, CompositeVideoClip, ImageClip, AudioFileClip
+from moviepy.editor import VideoFileClip, CompositeVideoClip, ImageClip, AudioFileClip, concatenate_videoclips
 from tempfile import NamedTemporaryFile
 import re
 import urllib.parse 
