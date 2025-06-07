@@ -313,12 +313,11 @@ def daily_video() -> Tuple[str, Optional[str]]:
         data = resp.json()
         date_re = re.compile(rf"\b{today_str}\b")
         events   = [e for e in data if date_re.search(e.get("date", ""))]
-        def sort_key(ev):
-            # "time" kann fehlen – fehlende Werte ans Ende (99:99)
-            t = ev.get("time", "99:99")
-            # Fallback-Sortierung nach Titel
-            title = ev.get("event", "").lower()
-            return (t, title)
+        def sort_key(event):
+
+            has_no_time = event.get("time") is None
+            time_value = event.get("time") or datetime.max
+            return (has_no_time, time_value)
 
         events.sort(key=sort_key)
         #events = [e.get("event", "") for e in data if date_re.search(e.get("date", ""))]
