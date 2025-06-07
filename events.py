@@ -466,6 +466,13 @@ def scrape_events(base_url):
         num_days = 10
     
         time_pattern = re.compile(r"\d{2}:\d{2}-\d{2}:\d{2}$")
+        allowed_keywords = [
+        "Laufen",         # running
+        "Improtheater",   # improv theatre
+        "Wandern",      # hiking
+        "Fitnesstraining",   # power workout (typo preserved as requested)
+        ]
+
         events = []
         seen = set()
     
@@ -490,6 +497,8 @@ def scrape_events(base_url):
     
                 # Event-Name extrahieren
                 name = txt.split(":", 1)[1].rsplit(" ", 2)[0].strip()
+                if not any(k in name.lower() for k in allowed_keywords):
+                    continue
                 key = (date_str, name)
                 if key in seen:
                     continue
