@@ -422,7 +422,20 @@ def daily_video() -> Tuple[str, Optional[str]]:
         clips.append(clip.set_position(pos_fn).resize(scale_fn))
 
     # 4) Composite im Instagram-Format
-    final = CompositeVideoClip([base_clip, title_clip, *clips], size=(W, H))
+        final = CompositeVideoClip([base_clip, title_clip, *clips], size=(W, H))
+        IMG_URL = ("https://raw.githubusercontent.com/"
+                    "MaikZ91/productiontools/master/media/"
+                    "was%20geht%20heute.png")
+        STAND_DUR = 3  # Sekunden
+        _tmp_img = NamedTemporaryFile(suffix=".png", delete=False)
+        _tmp_img.write(requests.get(IMG_URL, timeout=10).content)
+        _tmp_img.close()
+        end_card = (ImageClip(_tmp_img.name)
+                     .set_duration(STAND_DUR)
+                     .resize(newsize=(W, H))
+                     .set_position(("center", "center")))
+        
+        reel_clip = concatenate_videoclips([final, end_card])
     # 5) Hintergrundmusik hinzufügen
     if os.path.isfile(MUSIC_FILE):
         try:
@@ -434,7 +447,8 @@ def daily_video() -> Tuple[str, Optional[str]]:
     # 6) Rendern in temporäre Datei
     with NamedTemporaryFile(suffix='.mp4', delete=False) as tmp:
         tmp_path = tmp.name
-    final.write_videofile(tmp_path, codec='libx264', fps=FPS, audio_codec='aac')
+    reel_clip.write_videofile(tmp_path, codec='libx264',fps=FPS, audio_codec='aac')
+    os.remove(_tmp_img.name)
     with open(tmp_path, 'rb') as f:
         video_bytes = f.read()
     os.remove(tmp_path)
