@@ -501,8 +501,8 @@ def scrape_events(base_url):
                 name = name_part.split(":", 1)[-1].strip()
     
                 # Keyword‑Filter
-                if not any(k in name.lower() for k in allowed_keywords):
-                    continue
+                #if not any(k in name.lower() for k in allowed_keywords):
+                    #continue
                 timeslot = tm.group().replace(" Uhr", "")
     
                 key = (date_str, timeslot, name.lower())
