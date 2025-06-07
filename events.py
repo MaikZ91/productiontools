@@ -516,7 +516,7 @@ def scrape_events(base_url):
                         "time": timeslot,
                         "event": f"{name}(@hochschulsport_bielefeld)",
                         "category": "Sport",
-                        "link": urljoin(HSP_BASE, a["href"]),
+                        "link": urljoin(base_url, a["href"]),
                     }
                 )
 
