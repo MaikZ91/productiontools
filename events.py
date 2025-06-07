@@ -465,7 +465,7 @@ def scrape_events(base_url):
         today = dt.today()
         num_days = 10
     
-        time_pattern = re.compile(r"\d{2}:\d{2}-\d{2}:\d{2}$")
+        time_pattern = re.compile(r"\d{2}:\d{2}(?:-\d{2}:\d{2})?(?:\s?Uhr)?$")
         allowed_keywords = [
         "Laufen",         # running
         "Improtheater",   # improv theatre
@@ -495,8 +495,6 @@ def scrape_events(base_url):
                 tm = time_pattern.search(txt)
                 if not tm:
                     continue
-
-                time_pattern = re.compile(r"\\d{2}:\\d{2}(?:-\\d{2}:\\d{2})?(?:\\s?Uhr)?$") 
                 name_part = txt[: tm.start()]                  # Text vor der Zeit
                 name = name_part.split(":", 1)[-1].strip()
     
