@@ -496,13 +496,14 @@ def scrape_events(base_url):
                 if not tm:
                     continue
 
-                timeslot = tm.group() 
+                time_pattern = re.compile(r"\\d{2}:\\d{2}(?:-\\d{2}:\\d{2})?(?:\\s?Uhr)?$") 
                 name_part = txt[: tm.start()]                  # Text vor der Zeit
                 name = name_part.split(":", 1)[-1].strip()
     
                 # Keyword‑Filter
                 if not any(k in name.lower() for k in allowed_keywords):
                     continue
+                timeslot = tm.group().replace(" Uhr", "")
     
                 key = (date_str, timeslot, name.lower())
                 if key in seen:
