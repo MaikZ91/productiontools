@@ -677,7 +677,7 @@ def main():
             f"https://raw.githubusercontent.com/"
             f"{GITHUB_REPO}/master/media/YouCut_20250603_194220189.mp4"
         )
-        post_video(video_path)
+        #post_video(video_path)
         
     daily_video()
         
