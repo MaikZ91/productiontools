@@ -120,7 +120,7 @@ def scrape_events(base_url):
                         if not image_url and detail_html:
                                 detail_soup = BeautifulSoup(detail_html, "html.parser")
                                 og = detail_soup.find("meta", property="og:image")
-                            if og and og.get("content"):
+                                if og and og.get("content"):
                                     image_url = urljoin(base_url, og["content"])
 
             
