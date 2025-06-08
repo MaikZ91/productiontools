@@ -113,7 +113,17 @@ def scrape_events(base_url):
                         detail_resp.raise_for_status()
                         detail_soup = BeautifulSoup(detail_resp.text, "html.parser")
 
-                        # typische Textcontainer durchsuchen
+                        image_url = None                                 
+                        thumb = event_container.find("img")
+                        if thumb and thumb.get("src"):
+                            image_url = urljoin(base_url, thumb["src"])
+                        if not image_url and detail_html:
+                                detail_soup = BeautifulSoup(detail_html, "html.parser")
+                                og = detail_soup.find("meta", property="og:image")
+                            if og and og.get("content"):
+                                    image_url = urljoin(base_url, og["content"])
+
+            
                         for selector in (
                             "div.text", "div.teaser", "div.v-copy", "div.cms-text", "article .text"
                         ):
@@ -154,6 +164,7 @@ def scrape_events(base_url):
                             'event': formatted_event_name,
                             'category': event_category,  # Neu
                             'description': description,
+                            "image_url":   image_url, 
                             'link': urljoin(base_url, event_link)
                         })
             except Exception as e:
