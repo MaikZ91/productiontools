@@ -605,9 +605,10 @@ def scrape_events(base_url):
                 # Beispiel-String:
                 # "Jun 06 2025 LAST SCENE STANDING - Du entscheidest 19:45 Falkendom, Bielefeld"
                 m = re.match(
-                    r"^([A-Za-z]{3})\s+(\d{2})\s+(\d{4})\s+(.+?)\s+(\d{2}:\d{2})\s+(.+)$",
-                    raw_text
-                )
+                r"^([A-Za-z]{3})\s+(\d{1,2})\s+(\d{4})\s+(.+?)\s+(\d{2}:\d{2})(?:\s*Uhr)?\s+(.+)$",
+                raw_text
+                    )
+                
                 if not m:             # Unerwartetes Format – weiter zum nächsten Eintrag
                     continue
     
