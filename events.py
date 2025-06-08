@@ -725,7 +725,7 @@ def scrape_events(base_url):
             add_recurring_events(events, "Salsa Party (@movie_liveclub)", "THURSDAY", movie, 'weekly', None, '20:00', 'Party')
         elif base_url == platzhirsch:
             add_recurring_events(events, "Afterwork Party (@platzhirschbielefeld)", "THURSDAY", platzhirsch, 'weekly', None, '20:00', 'Party')
-            add_recurring_events(events, "Bingo (@platzhirschbielefeld)", "WEDNESDAY", platzhirsch, 'monthly', 1, '20:00', 'Ausgehen')
+            add_recurring_events(events, "Bingo (@platzhirschbielefeld)", "WEDNESDAY", platzhirsch, 'monthly_nth_weekday', 1, '20:00', 'Ausgehen')
         elif base_url == irish_pub:
             add_recurring_events(events, "Pub Quiz (@irish_pub_bielefeld)", "MONDAY", irish_pub, 'weekly', None,'20:00', 'Ausgehen')
             add_recurring_events(events, "Art Night (@loom_bielefeld)", "WEDNESDAY",'https://www.loom-bielefeld.de/events/mini-artnight-e49416/', 'monthly_nth_weekday', 1, '17:00', 'Kreativität')
@@ -747,16 +747,16 @@ def scrape_events(base_url):
             add_recurring_events(events, "LIV/Hinterzimmer Afro (@hinterzimmer.club)", "FRIDAY", "https://www.instagram.com/liv.bielefeld/?hl=de", 'weekly', None,'23:00','Party')
             add_recurring_events(events, "Afterwork (@harmsmarkt)", "THURSDAY", "https://harms-markt.de/allgemein/after-work/", 'weekly', None, '18:00','Ausgehen')
             add_recurring_events(events, "PingPong(@nr.z.p)", "THURSDAY", nrzp, 'weekly',None,'21:00','Ausgehen')
-            add_recurring_events(events, "Kneipenquiz(@gegenueber_bar)", "TUESDAY", 'https://www.instagram.com/gegenueber_bar/?hl=de', 'monthly', 2, '20:00','Ausgehen')
+            add_recurring_events(events, "Kneipenquiz(@gegenueber_bar)", "TUESDAY", 'https://www.instagram.com/gegenueber_bar/?hl=de', 'monthly_nth_weekday', 2, '20:00','Ausgehen')
             add_recurring_events(events, "Wochenmarkt(@Alter Markt)", "TUESDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly',None, '7:00','Ausgehen')
             add_recurring_events(events, "Wochenmarkt(@Siegfriedplatz)", "WEDNESDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly',None, '7:00','Ausgehen')
             add_recurring_events(events, "Wochenmarkt (@Brackwede)", "THURSDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly',None, '7:00','Ausgehen')
             add_recurring_events(events, "Wochenmarkt (@Alter Markt, Siegfriedplatz)", "FRIDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly',None, '7:00','Ausgehen')
             add_recurring_events(events, "Wochenmarkt (@Alter Markt)", "SATURDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly',None, '7:00','Ausgehen')
-            add_recurring_events(events, "Sip&Sketch (@kunsthalle_bielefeld)", "FRIDAY", 'https://kunsthalle-bielefeld.de/programm/veranstaltungen/#10209', 'monthly',2, '17:30','Kreativität')
+            add_recurring_events(events, "Sip&Sketch (@kunsthalle_bielefeld)", "FRIDAY", 'https://kunsthalle-bielefeld.de/programm/veranstaltungen/#10209', 'monthly_nth_weekday',2, '17:30','Kreativität')
             add_recurring_events(events, "Lauftreff @teilzeitläufer (@Rathaus)", "WEDNESDAY", 'https://www.instagram.com/teilzeitlaeuferbi/', 'weekly',None, '20:00','Sport')
-            add_recurring_events(events, "DIES DAS COMEDY - OPEN MIC (@diesdascomedy)", "WEDNESDAY",'https://www.instagram.com/diesdascomedy/', 'monthly',2,'20:00','Ausgehen')
-            add_recurring_events(events, "DIES DAS COMEDY - OPEN MIC (@diesdascomedy)", "WEDNESDAY",'https://www.instagram.com/diesdascomedy/', 'monthly',4,'20:00','Ausgehen')
+            add_recurring_events(events, "DIES DAS COMEDY - OPEN MIC (@diesdascomedy)", "WEDNESDAY",'https://www.instagram.com/diesdascomedy/', 'monthly_nth_weekday',2,'20:00','Ausgehen')
+            add_recurring_events(events, "DIES DAS COMEDY - OPEN MIC (@diesdascomedy)", "WEDNESDAY",'https://www.instagram.com/diesdascomedy/', 'monthly_nth_weekday',4,'20:00','Ausgehen')
     return events
 
 def split_dates(date_string):
