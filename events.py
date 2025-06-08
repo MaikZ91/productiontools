@@ -189,6 +189,28 @@ def scrape_events(base_url):
                         'category': 'Party',
                         'link': event_link
                     })
+    if base_url == forum:
+        articles = soup.find_all('article', class_='post')
+        for article in articles:
+            date_div = article.find('div', class_='forumevent_date')
+            if date_div:
+                day = date_div.find('span', class_='day').text.strip()
+                month_name = date_div.find('span', class_='month').text.strip()
+                try:
+                    month_number = datetime.datetime.strptime(month_name, '%b').strftime('%m')
+                except Exception:
+                    month_number = '00'
+                dayname = date_div.find('span', class_='dayname').text[:2]
+                date = f"{dayname}, {day}.{month_number}"
+                title_div = article.find('div', class_='entry-title')
+                if title_div:
+                    event = f"{title_div.get_text(strip=True)} (@forum_bielefeld)"
+                    full_link = urljoin(base_url, title_div.find('a')['href'])
+                    events.append({
+                        'date': date,
+                        'event': event,
+                        'link': full_link
+                    })
 
     if base_url == cafe:
         MONTHS = {
