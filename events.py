@@ -340,7 +340,6 @@ def scrape_events(base_url):
 
         articles = soup.find_all('article', class_='entry')
         for article in articles:
-            # -------- Datum -------------------------------------------------
             date_div = article.find('div', class_='entry-summary')
             event_date_raw = date_div.get_text(strip=True)
             try:
@@ -353,24 +352,20 @@ def scrape_events(base_url):
             month_padded = datetime.datetime.strptime(month_name, '%B').strftime('%m')
             event_date   = f"{day_name}, {day_padded}.{month_padded}.{year}"
 
-            # -------- Titel & Link ------------------------------------------
             event_name_tag = article.find('h2', class_='entry-title')
             event_name     = f"{event_name_tag.get_text(strip=True)} (@bunkerulmenwall)"
             event_link     = article.find('a', class_='post-thumbnail')['href']
 
-            # -------- Kategorien (robust) -----------------------------------
             cat_links = article.select(
                 '.cat-links a, footer a[rel~=\"category\"], a[href*=\"/category/\"]'
             )
             categories = ' | '.join(c.get_text(strip=True) for c in cat_links)
 
-            # -------- Beginn-Uhrzeit ----------------------------------------
             start_time = ""
             try:
                 detail_html = requests.get(event_link, timeout=10).text
                 detail_soup = BeautifulSoup(detail_html, "html.parser")
             
-                # 1) Klartext-Suche  („Beginn … 19:00“, „Beginn: 19.00 Uhr“, …)
                 m = re.search(
                     r"Beginn\s*(?:um|:|-)?\s*(\d{1,2}[.:]\d{2})",
                     detail_soup.get_text(" ", strip=True),
@@ -382,7 +377,6 @@ def scrape_events(base_url):
                     if len(start_time) == 4:
                         start_time = "0" + start_time
             
-                # 2) Fallback – JSON-LD startDate
                 if not start_time:
                     ld = detail_soup.find("script", type="application/ld+json")
                     if ld and ld.string:
@@ -392,15 +386,31 @@ def scrape_events(base_url):
             except Exception:
                 pass                                      # Detailseite nicht erreichbar
 
-            # -------- Event sammeln -----------------------------------------
-            img_tag   = article.find("img", class_="post-thumbnail")
-            image_url = urljoin(base_url, img_tag["src"]) if img_tag else None
-            if not image_url:
-                og = detail_soup.find("meta", property="og:image")
-            if og and og.get("content"):
-                 image_url = urljoin(base_url, og["content"])
+            detail_soup = None                          # für Bild-Fallback
 
-            
+            image_url = ""
+            img_tag = (
+                article.select_one("a.post-thumbnail img") or
+                article.select_one('img[class*="wp-post-image"]') or
+                article.find("img")
+            )
+            if img_tag:
+                src = (
+                    img_tag.get("src") or
+                    img_tag.get("data-src") or
+                    (img_tag.get("srcset") or "").split(" ")[0]
+                )
+                if src:
+                    image_url = urljoin(base_url, src)
+            if not image_url and detail_soup:
+                og = detail_soup.find("meta", property="og:image")
+                if og and og.get("content"):
+                    image_url = urljoin(base_url, og["content"])
+                if not image_url:
+                    fig_img = detail_soup.select_one("figure img")
+                    if fig_img and fig_img.get("src"):
+                        image_url = urljoin(base_url, fig_img["src"])
+
             events.append({
                 'date': event_date,
                 'time': start_time,      # ← jetzt korrekt gefüllt oder ''
