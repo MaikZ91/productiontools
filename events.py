@@ -332,7 +332,7 @@ def scrape_events(base_url):
                 'image_url': image_url
             })
 
-   if base_url == nrzp:
+    if base_url == nrzp:
             for row in soup.find_all('div', class_='eventcalender-row'):
 
                 # -------- Datum ----------------------------------------------------
