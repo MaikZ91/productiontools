@@ -691,6 +691,7 @@ def scrape_events(base_url):
                         "event": f"{raw_name}(@hochschulsport_bielefeld)",
                         "category": "Sport",
                         "link": urljoin(base_url, a["href"]),
+                        'image_url': 'https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg'
                     }
                 )
 
