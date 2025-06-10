@@ -241,7 +241,7 @@ def scrape_events(base_url):
                     # 2) Fallback Detailseite
                     if not image_url:
                         try:
-                            detail_html = requests.get(link_full, timeout=10).text
+                            detail_html = requests.get(full_link, timeout=10).text
                             d_soup      = BeautifulSoup(detail_html, "html.parser")
             
                             # a) OpenGraph
@@ -481,7 +481,7 @@ def scrape_events(base_url):
             parsed_date    = datetime.datetime.fromisoformat(iso_str)
             formatted_date = parsed_date.strftime('%a, %d.%m')   # z. B. "Do, 05.06"
             formatted_time = parsed_date.strftime('%H:%M')        # z. B. "19:00"
-            m_img = re.search(r'"image":\\s*"([^"]+)"', cleaned)
+            m_img = re.search(r'"image":\s*"([^"]+)"', cleaned)
             image_url = m_img.group(1) if m_img else None
             events.append({
                 "date":      formatted_date,
