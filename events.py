@@ -972,16 +972,16 @@ def format_date2(date_str):
         return "Invalid date format"
 
 def add_recurring_events(
-        events: list[dict],
+        events: List[Dict],
         event_name: str,
         day_name: str,
         base_url: str,
         frequency: str,
-        nth: int | None,
+        nth: Optional[int],
         event_time: str,
         category: str,
-        image_url: str | None = None,  
-):
+        image_url: Optional[str] = None,
+) -> None:
     cal = calendar.Calendar()
     day_name_upper = day_name.upper()
     try:
