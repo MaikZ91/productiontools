@@ -300,10 +300,6 @@ def daily_video() -> Tuple[str, Optional[str]]:
     """
     tz = pytz.timezone("Europe/Berlin")
     today_str = datetime.now(tz).strftime("%d.%m")
-    #tomorrow = datetime.now(tz) + timedelta(days=1)
-    #today_str = tomorrow.strftime("%d.%m") 
-
-    # Ziel-Auflösung Instagram-Reel
     W, H = 1080, 1920
 
     # 1) Events abrufen
@@ -313,14 +309,16 @@ def daily_video() -> Tuple[str, Optional[str]]:
         data = resp.json()
         date_re = re.compile(rf"\b{today_str}\b")
         events   = [e for e in data if date_re.search(e.get("date", ""))]
-        def sort_key(event):
-
-            has_no_time = event.get("time") is None
-            time_value = event.get("time") or datetime.max
-            return (has_no_time, time_value)
+        def sort_time(event: dict) -> tuple[int, time]:
+            t_str = (event.get("time") or "").strip()
+            m = re.match(r"^(\d{1,2})[:.](\d{2})$", t_str)
+            if m:
+                h, m_ = map(int, m.groups())
+                if 0 <= h < 24 and 0 <= m_ < 60:
+                    return (0, time(hour=h, minute=m_))
+            return (1, time.max)
 
         events.sort(key=sort_key)
-        #events = [e.get("event", "") for e in data if date_re.search(e.get("date", ""))]
         
     except requests.RequestException as e:
         print(f"Fehler beim Abrufen der Events: {e}")
