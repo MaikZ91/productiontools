@@ -192,13 +192,16 @@ def scrape_events(base_url):
                     # Formatierungen
                     formatted_date = date_obj.strftime('%a, %d.%m')   # z. B. "Do, 05.06"
                     formatted_time = date_obj.strftime('%H:%M')       # z. B. "19:00"
+                    img_tag = col.find('img')
+                    image_url = urljoin(base_url, img_tag['src']) if img_tag and img_tag.get('src') else None
     
                     events.append({
                         'date': formatted_date,
                         'time': formatted_time,      # <-- neue Uhrzeit-Spalte
                         'event': event_name,
                         'category': 'Party',
-                        'link': event_link
+                        'link': event_link,
+                        'image_url': image_url
                     })
     if base_url == forum:
         articles = soup.find_all('article', class_='post')
@@ -217,10 +220,13 @@ def scrape_events(base_url):
                 if title_div:
                     event = f"{title_div.get_text(strip=True)} (@forum_bielefeld)"
                     full_link = urljoin(base_url, title_div.find('a')['href'])
+                    img_tag = article.find("img")
+                    image_url = urljoin(base_url, img_tag["src"]) if img_tag else None
                     events.append({
                         'date': date,
                         'event': event,
-                        'link': full_link
+                        'link': full_link,
+                        'image_url': image_url
                     })
 
     if base_url == cafe:
@@ -281,12 +287,15 @@ def scrape_events(base_url):
     
             # --- Event-Dict -----------------------------------------------------
             full_link = urljoin(base_url, link.get('href'))
+            img_tag = title_elem.find_previous("img")
+            image_url = urljoin(base_url, img_tag["src"]) if img_tag else None
             events.append({
                 "date":     date_str,
                 "time":     event_time,            # <-- neue Uhrzeit-Spalte
                 "event":    f"{event_title} (@cafe_europa_bi)",
                 "category": "Party",
-                "link":     full_link
+                "link":     full_link,
+                'image_url': image_url
             })
 
     if base_url == nrzp:
@@ -302,10 +311,20 @@ def scrape_events(base_url):
                 if next_link:
                     event_name = f"{next_link.find('span', class_='span_left').get_text(strip=True)} (@nr.z.p)"
                     event_link = next_link['href']
+                    img_tag   = article.find("img")
+                    image_url = urljoin(base_url, img_tag["src"]) if img_tag else None
+                    if not image_url:
+                        detail_resp = requests.get(event_link, timeout=10)
+                        og = BeautifulSoup(detail_resp.text, "html.parser").find(
+                                "meta", property="og:image")
+                        if og and og.get("content"):
+                            image_url = urljoin(base_url, og["content"])
+            
                     events.append({
                         'date': event_date,
                         'event': event_name,
-                        'link': event_link
+                        'link': event_link,
+                        'image_url': image_url
                     })
         
 
@@ -372,12 +391,21 @@ def scrape_events(base_url):
                 pass                                      # Detailseite nicht erreichbar
 
             # -------- Event sammeln -----------------------------------------
+            img_tag   = article.find("img", class_="post-thumbnail")
+            image_url = urljoin(base_url, img_tag["src"]) if img_tag else None
+            if not image_url:
+                og = detail_soup.find("meta", property="og:image")
+            if og and og.get("content"):
+                 image_url = urljoin(base_url, og["content"])
+
+            
             events.append({
                 'date': event_date,
                 'time': start_time,      # ← jetzt korrekt gefüllt oder ''
                 'category': categories,  # ← jetzt gefüllt oder ''
                 'event': event_name,
-                'link': event_link
+                'link': event_link,
+                'image_url': image_url
             })    
 
     if base_url == stereobielefeld:
@@ -409,13 +437,15 @@ def scrape_events(base_url):
             parsed_date    = datetime.datetime.fromisoformat(iso_str)
             formatted_date = parsed_date.strftime('%a, %d.%m')   # z. B. "Do, 05.06"
             formatted_time = parsed_date.strftime('%H:%M')        # z. B. "19:00"
-    
+            m_img = re.search(r'"image":\\s*"([^"]+)"', cleaned)
+            image_url = m_img.group(1) if m_img else None
             events.append({
                 "date":      formatted_date,
                 "time":      formatted_time,                      # <-- neue Uhrzeit-Spalte
                 "event":     f"{event_name} (@stereobielefeld)",
                 "category":  "Party",
-                "link":      url_extracted
+                "link":      url_extracted,
+                'image_url': image_url
             })
 
     if base_url == f2f:
@@ -461,12 +491,17 @@ def scrape_events(base_url):
                     # Parse via the datetime module so we don't touch the local dt name
                     datum_dt = datetime.datetime.strptime(date_str, "%d.%m.%Y %H:%M")
                     formatted = datum_dt.strftime("%a, %d.%m")
-
+                    ld_json = date_block.find_previous("script", type="application/ld+json")
+                    image_url = None
+                    if ld_json and ld_json.string:
+                        data = json.loads(ld_json.string)
+                        image_url = data.get("image")
                     events.append({
                         "date":  formatted,
                         "event": f"Arminia vs. {gegner} (@arminiaofficial)",
                         "category": 'Sport',
-                        "link":  base_url
+                        "link":  base_url,
+                        'image_url': image_url
                     })
 
     if base_url == hsp:
@@ -662,13 +697,17 @@ def scrape_events(base_url):
                     print(f"Fehler beim Laden der Detailseite: {ex}")
     
                 # ---------- Speichern -----------------------------------------
+                og = detail_soup.find("meta", property="og:image")
+                image_url = urljoin(base_url, og["content"]) if og else None
+
                 events.append({
                     "date":        formatted_event_date,
                     "time":        start_time,
                     "event":       formatted_event_name,
                     "category":    event_category,
                     "description": description,
-                    "link":        urljoin(base_url, event_link)
+                    "link":        urljoin(base_url, event_link),
+                    'image_url': image_url
                 })
     
             except Exception as ex:
