@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
 from __future__ import annotations
-import requests, json, pytz, io, base64, os, time, html
-from datetime import datetime,timedelta
+import requests, json, pytz, io, base64, os,html
+from datetime import datetime,timedelta,time
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 if not hasattr(Image, "ANTIALIAS"):
     Image.ANTIALIAS = Image.Resampling.LANCZOS
 import os, base64, json, requests, pytz
-from datetime import datetime
 from dateutil.parser import parse
 from typing import List, Optional, Tuple
 from io import BytesIO
@@ -315,8 +314,8 @@ def daily_video() -> Tuple[str, Optional[str]]:
             if m:
                 h, m_ = map(int, m.groups())
                 if 0 <= h < 24 and 0 <= m_ < 60:
-                    return (0, datetime.time(hour=h, minute=m_))
-            return (1, datetime.time.max)
+                    return (0, time(hour=h, minute=m_))
+            return (1, time.max)
 
         events.sort(key=sort_key)
         
