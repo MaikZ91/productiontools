@@ -222,8 +222,40 @@ def scrape_events(base_url):
                 if title_div:
                     event = f"{title_div.get_text(strip=True)} (@forum_bielefeld)"
                     full_link = urljoin(base_url, title_div.find('a')['href'])
-                    img_tag = article.find("img")
-                    image_url = urljoin(base_url, img_tag["src"]) if img_tag else None
+                    image_url = ""
+                    # 1) Teaser-Bild im Listing
+                    img_tag = (
+                        article.select_one("img")              # <img> oder <picture><img>
+                        or article.select_one("picture img")
+                    )
+                    if img_tag:
+                        image_url = urljoin(
+                            base_url,
+                            img_tag.get("src")
+                            or img_tag.get("data-src")
+                            or img_tag.get("data-lazy-src")
+                            or (img_tag.get("srcset") or "").split(" ")[0]
+                            or "",
+                        )
+            
+                    # 2) Fallback Detailseite
+                    if not image_url:
+                        try:
+                            detail_html = requests.get(link_full, timeout=10).text
+                            d_soup      = BeautifulSoup(detail_html, "html.parser")
+            
+                            # a) OpenGraph
+                            og = d_soup.find("meta", property="og:image")
+                            if og and og.get("content"):
+                                image_url = urljoin(base_url, og["content"])
+            
+                            # b) Erstes <figure>- oder <img>-Tag
+                            if not image_url:
+                                d_img = d_soup.select_one("figure img") or d_soup.find("img")
+                                if d_img and d_img.get("src"):
+                                    image_url = urljoin(base_url, d_img["src"])
+                        except Exception:
+                pass  
                     events.append({
                         'date': date,
                         'event': event,
