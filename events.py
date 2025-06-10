@@ -946,12 +946,6 @@ if __name__ == '__main__':
                 events.extend(events_from_source)
             except Exception:
                 pass
-    for source in sources:
-        try:
-            events.extend(scrape_events(source))
-        except Exception as e:
-            print(f"Fehler beim Verarbeiten der Quelle {source}: {e}")
-            traceback.print_exc()
     filtered_events = []
     for ev in events:
         ev_date = parse_event_date(ev.get("date", ""))
