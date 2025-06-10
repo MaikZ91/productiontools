@@ -972,6 +972,7 @@ def format_date2(date_str):
         return "Invalid date format"
 
 def add_recurring_events(
+        events: list,
         event_name: str,
         day_name: str,
         base_url: str,
