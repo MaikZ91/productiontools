@@ -333,96 +333,96 @@ def scrape_events(base_url):
             })
 
    if base_url == nrzp:
-        for row in soup.find_all('div', class_='eventcalender-row'):
+            for row in soup.find_all('div', class_='eventcalender-row'):
 
-            # -------- Datum ----------------------------------------------------
-            raw_date = row.find('div', class_='eventcalender-date')
-            if not raw_date:
-                continue
+                # -------- Datum ----------------------------------------------------
+                raw_date = row.find('div', class_='eventcalender-date')
+                if not raw_date:
+                    continue
 
-            m = re.match(r'(\w{2})\. (\d{2}) (\d{2})', raw_date.get_text(strip=True))
-            if not m:
-                continue
+                m = re.match(r'(\w{2})\. (\d{2}) (\d{2})', raw_date.get_text(strip=True))
+                if not m:
+                    continue
 
-            day_abbr, day, month = m.groups()
-            event_date = f"{day_abbr}, {day}.{month}"          # z. B. "Fr, 13.06"
+                day_abbr, day, month = m.groups()
+                event_date = f"{day_abbr}, {day}.{month}"          # z. B. "Fr, 13.06"
 
-            # -------- Link, Titel, (erste) Uhrzeit  ----------------------------
-            btn = row.find_next_sibling('a', class_='menu_btn')
-            if not btn:
-                continue
+                # -------- Link, Titel, (erste) Uhrzeit  ----------------------------
+                btn = row.find_next_sibling('a', class_='menu_btn')
+                if not btn:
+                    continue
 
-            title_span = btn.find('span', class_='span_left')
-            if not title_span:
-                continue
+                title_span = btn.find('span', class_='span_left')
+                if not title_span:
+                    continue
 
-            event_name = f"{title_span.get_text(strip=True)} (@nr.z.p)"
-            event_link = urljoin(base_url, btn.get('href', ''))
+                event_name = f"{title_span.get_text(strip=True)} (@nr.z.p)"
+                event_link = urljoin(base_url, btn.get('href', ''))
 
-            # Uhrzeit kann im Button rechts stehen (span_right) oder im Listing
-            time_str = ''
-            time_holder = (btn.find('span', class_='span_right')  or
-                        row.find('div',  class_='eventcalender-time'))
-            if time_holder:
-                m_t = re.search(r'(\d{1,2})[:.](\d{2})', time_holder.get_text())
-                if m_t:
-                    h, mi = m_t.groups()
-                    time_str = f"{int(h):02d}:{mi}"
+                # Uhrzeit kann im Button rechts stehen (span_right) oder im Listing
+                time_str = ''
+                time_holder = (btn.find('span', class_='span_right')  or
+                            row.find('div',  class_='eventcalender-time'))
+                if time_holder:
+                    m_t = re.search(r'(\d{1,2})[:.](\d{2})', time_holder.get_text())
+                    if m_t:
+                        h, mi = m_t.groups()
+                        time_str = f"{int(h):02d}:{mi}"
 
-            # -------- Bild ------------------------------------------------------
-            image_url = ''
+                # -------- Bild ------------------------------------------------------
+                image_url = ''
 
-            # 1) CSS-Hintergrund der <div class="eventcalender-img">
-            bg_div = row.find('div', class_='eventcalender-img')
-            if bg_div and 'background-image' in (style := bg_div.get('style', '')):
-                m_bg = re.search(r'url\([\'"]?([^\'")]+)', style)
-                if m_bg:
-                    image_url = urljoin(base_url, m_bg.group(1))
+                # 1) CSS-Hintergrund der <div class="eventcalender-img">
+                bg_div = row.find('div', class_='eventcalender-img')
+                if bg_div and 'background-image' in (style := bg_div.get('style', '')):
+                    m_bg = re.search(r'url\([\'"]?([^\'")]+)', style)
+                    if m_bg:
+                        image_url = urljoin(base_url, m_bg.group(1))
 
-            # 2) <img> im Listing / Button
-            if not image_url:
-                img_tag = (row.find('img') or btn.find('img'))
-                if img_tag:
-                    src = (img_tag.get('src') or img_tag.get('data-src') or
-                        (img_tag.get('srcset') or '').split(' ')[0])
-                    if src:
-                        image_url = urljoin(base_url, src)
+                # 2) <img> im Listing / Button
+                if not image_url:
+                    img_tag = (row.find('img') or btn.find('img'))
+                    if img_tag:
+                        src = (img_tag.get('src') or img_tag.get('data-src') or
+                            (img_tag.get('srcset') or '').split(' ')[0])
+                        if src:
+                            image_url = urljoin(base_url, src)
 
-            # 3) Detailseite: og:image oder erstes Bild
-            if (not image_url) or (not time_str):
-                try:
-                    detail_html = requests.get(event_link, timeout=10).text
-                    d_soup = BeautifulSoup(detail_html, 'html.parser')
+                # 3) Detailseite: og:image oder erstes Bild
+                if (not image_url) or (not time_str):
+                    try:
+                        detail_html = requests.get(event_link, timeout=10).text
+                        d_soup = BeautifulSoup(detail_html, 'html.parser')
 
-                    # Uhrzeit hier nachholen, falls noch leer
-                    if not time_str:
-                        t_detail = re.search(
-                            r'(\d{1,2})[:.](\d{2})\s*Uhr',
-                            d_soup.get_text(' ', strip=True)
-                        )
-                        if t_detail:
-                            h, mi = t_detail.groups()
-                            time_str = f"{int(h):02d}:{mi}"
+                        # Uhrzeit hier nachholen, falls noch leer
+                        if not time_str:
+                            t_detail = re.search(
+                                r'(\d{1,2})[:.](\d{2})\s*Uhr',
+                                d_soup.get_text(' ', strip=True)
+                            )
+                            if t_detail:
+                                h, mi = t_detail.groups()
+                                time_str = f"{int(h):02d}:{mi}"
 
-                    # Bild suchen
-                    if not image_url:
-                        og = d_soup.find('meta', property='og:image')
-                        if og and og.get('content'):
-                            image_url = urljoin(base_url, og['content'])
+                        # Bild suchen
                         if not image_url:
-                            d_img = d_soup.select_one('figure img') or d_soup.find('img')
-                            if d_img and d_img.get('src'):
-                                image_url = urljoin(base_url, d_img['src'])
-                except Exception:
-                    pass   # Detailseite nicht erreichbar → kein Crash
+                            og = d_soup.find('meta', property='og:image')
+                            if og and og.get('content'):
+                                image_url = urljoin(base_url, og['content'])
+                            if not image_url:
+                                d_img = d_soup.select_one('figure img') or d_soup.find('img')
+                                if d_img and d_img.get('src'):
+                                    image_url = urljoin(base_url, d_img['src'])
+                    except Exception:
+                        pass   # Detailseite nicht erreichbar → kein Crash
 
-            events.append({
-                'date':  event_date,
-                'time':  time_str,          # <─ jetzt immer HH:MM (oder '')
-                'event': event_name,
-                'link':  event_link,
-                'image_url': image_url or ''
-            })
+                events.append({
+                    'date':  event_date,
+                    'time':  time_str,          # <─ jetzt immer HH:MM (oder '')
+                    'event': event_name,
+                    'link':  event_link,
+                    'image_url': image_url or ''
+                })
         
 
     if base_url == bunker:
