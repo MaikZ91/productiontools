@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 import requests, json, pytz, io, base64, os,html
-from datetime import datetime,timedelta,time
+from datetime import datetime,timedelta
+import time
+from datetime import time as dt_time
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 if not hasattr(Image, "ANTIALIAS"):
     Image.ANTIALIAS = Image.Resampling.LANCZOS
@@ -314,8 +316,8 @@ def daily_video() -> Tuple[str, Optional[str]]:
             if m:
                 h, m_ = map(int, m.groups())
                 if 0 <= h < 24 and 0 <= m_ < 60:
-                    return (0, time(hour=h, minute=m_))
-            return (1, time.max)
+                    return (0, dt_time(hour=h, minute=m_))
+            return (1, dt_time.max)
 
         events.sort(key=sort_key)
         
