@@ -996,7 +996,8 @@ def add_recurring_events(
             'time': event_time,
             'event': event_name,
             'category': category,
-            'link': base_url
+            'link': base_url,
+            'image_url': image_url
         })
     for month in range(1, 13):
         if frequency == 'weekly':
