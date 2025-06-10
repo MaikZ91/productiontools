@@ -111,7 +111,8 @@ def scrape_events(base_url):
                     try:
                         detail_resp = requests.get(urljoin(base_url, event_link), timeout=10)
                         detail_resp.raise_for_status()
-                        detail_soup = BeautifulSoup(detail_resp.text, "html.parser")
+                        detail_html  = detail_resp.text       
+                        detail_soup  = BeautifulSoup(detail_html, "html.parser")
 
                         image_url = None                                 
                         thumb = event_container.find("img")
