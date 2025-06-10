@@ -674,8 +674,7 @@ def scrape_events(base_url):
                 event_category = heading.get_text(strip=True) if heading else ""
     
                 formatted_event_name = f"{event_name} (@{event_location})"
-    
-                # ---------- Beschreibung nachladen ----------------------------
+   
                 description = ""
                 try:
                     detail_resp = requests.get(urljoin(base_url, event_link), timeout=10)
@@ -698,7 +697,6 @@ def scrape_events(base_url):
                 except Exception as ex:
                     print(f"Fehler beim Laden der Detailseite: {ex}")
     
-                # ---------- Speichern -----------------------------------------
                 og = detail_soup.find("meta", property="og:image")
                 image_url = urljoin(base_url, og["content"]) if og else None
 
@@ -717,7 +715,6 @@ def scrape_events(base_url):
 
 
     if base_url == vhs:
-        # German weekday abbreviations for strftime-like lookup
         WEEKDAY_ABBR = ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"]
 
         # Only used in this branch
@@ -733,7 +730,6 @@ def scrape_events(base_url):
 
         seen_links = set()
 
-        # Wir selektieren nur Kurs-Links, die '/programm/kurs/' enthalten
         for a in soup.select("a[href*='/programm/kurs/']"):
             raw_link = a["href"].split("#")[0]  # ohne Anker
             link = raw_link if raw_link.startswith("http") else base + raw_link
@@ -745,11 +741,9 @@ def scrape_events(base_url):
             if not raw_text:
                 continue
 
-            # 1) Titel extrahieren (alles vor 'Wann:')
             m_title = re.match(r"^(.*?)\s*Wann:", raw_text)
             title = m_title.group(1).strip() if m_title else raw_text
 
-            # 2) Datum versuchen aus Detailseite
             date_str = ""
             try:
                 r2 = requests.get(link + "#inhalt", headers=vhs_headers, timeout=10)
@@ -767,15 +761,13 @@ def scrape_events(base_url):
                                 d, mth, yr = map(int, m.groups())
                                 if yr < 100:
                                     yr += 2000
-                                # use `dt` (the datetime class), not the module
                                 event_dt = dt(yr, mth, d)
                                 date_str = f"{WEEKDAY_ABBR[event_dt.weekday()]}, {event_dt.day:02d}.{event_dt.month:02d}"
             except Exception:
                 pass
 
-            # 3) Fallback: Datum per Regex aus raw_text
             if not date_str:
-                # Muster: "Wann: ab Mo. , 13.01.25, 17.30 Uhr"
+                
                 m_date = re.search(
                     r"Wann:.*?(Mo|Di|Mi|Do|Fr|Sa|So)\.?\s*,\s*(\d{1,2})\.(\d{1,2})\.(\d{2})",
                     raw_text
@@ -922,7 +914,6 @@ def parse_event_date(s: str) -> Optional[datetime.date]:
 
     s = s.split(" - ")[0].strip()
 
-    #  Mo, 16.05.2025   |  Fri, 16.05.2025
     m = re.match(r"^[A-Za-z]{2,3}\.?,\s*(\d{1,2})\.(\d{1,2})\.(\d{2,4})$", s)
     if m:
         d, mth, y = map(int, m.groups())
@@ -930,7 +921,6 @@ def parse_event_date(s: str) -> Optional[datetime.date]:
             y += 2000
         return datetime.date(y, mth, d)
 
-    #  Mo, 16.05   |  Fri, 16.05
     m = re.match(r"^[A-Za-z]{2,3}\.?,\s*(\d{1,2})\.(\d{1,2})$", s)
     if m:
         d, mth = map(int, m.groups())
@@ -972,5 +962,3 @@ if __name__ == '__main__':
 
     with open("events.json", "w", encoding="utf-8") as f:
         json.dump(filtered_events, f, indent=4, ensure_ascii=False)
-    #with open('events.json', 'w', encoding='utf-8') as file:
-        #json.dump(events, file, indent=4, ensure_ascii=False)
