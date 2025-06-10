@@ -255,7 +255,7 @@ def scrape_events(base_url):
                                 if d_img and d_img.get("src"):
                                     image_url = urljoin(base_url, d_img["src"])
                         except Exception:
-                pass  
+                            pass  
                     events.append({
                         'date': date,
                         'event': event,
