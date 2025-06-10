@@ -315,8 +315,8 @@ def daily_video() -> Tuple[str, Optional[str]]:
             if m:
                 h, m_ = map(int, m.groups())
                 if 0 <= h < 24 and 0 <= m_ < 60:
-                    return (0, time(hour=h, minute=m_))
-            return (1, time.max)
+                    return (0, datetime.time(hour=h, minute=m_))
+            return (1, datetime.time.max)
 
         events.sort(key=sort_key)
         
