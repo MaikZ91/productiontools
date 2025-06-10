@@ -8,6 +8,7 @@ from urllib.parse import urljoin
 import calendar
 import traceback
 from typing import Optional
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Zieljahr definieren (z. B. 2025)
 TARGET_YEAR = 2025
@@ -944,6 +945,17 @@ if __name__ == '__main__':
         #, vhs,theater
     ]
     events = []
+    MAX_WORKERS = 25
+
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        future_to_url = {executor.submit(scrape_events, source_url): source_url for source_url in sources}
+
+        for future in as_completed(future_to_url):
+            try:
+                events_from_source = future.result()
+                events.extend(events_from_source)
+            except Exception:
+                pass
     for source in sources:
         try:
             events.extend(scrape_events(source))
