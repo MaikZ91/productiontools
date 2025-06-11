@@ -632,6 +632,11 @@ def scrape_events(base_url):
                and "mode=mobile" in a["href"]
                and a.get_text(strip=True)[:2] in wd_map
         }
+        def extract_basename(name: str):
+            for kw, rx in kw_regex.items():
+                if rx.search(name):
+                    return kw
+            return None
     
         # Reverse-Map: aus Wochentag-Index zurück auf Abkürzung
         rev_wd = {v: k for k, v in wd_map.items()}
@@ -647,7 +652,7 @@ def scrape_events(base_url):
         "Wandern",      # hiking
         "Fitnesstraining",   # power workout (typo preserved as requested)
         ]
-        kw_regex = [re.compile(rf"\b{re.escape(k)}\b", re.IGNORECASE) for k in allowed_keywords]
+        kw_regex = {k: re.compile(rf"\b{re.escape(k)}\b", re.IGNORECASE)for k in allowed_keywords}
 
         events = []
         seen = set()
@@ -676,10 +681,11 @@ def scrape_events(base_url):
 
                 raw_name = txt[: tm.start()].split(":", 1)[-1].strip()
                 raw_name = re.sub(r"\b(?:Mo|Di|Mi|Do|Fr|Sa|So)$", "", raw_name).strip()
-                if not any(rx.search(raw_name) for rx in kw_regex):
+                basename = extract_basename(raw_name)
+                if basename is None:
                     continue
-
-                key = (date_str, timeslot, raw_name.lower())
+    
+                key = (date_str, timeslot, basename.lower())
                 if key in seen:
                     continue
                 seen.add(key)
@@ -688,7 +694,7 @@ def scrape_events(base_url):
                     {
                         "date": date_str,
                         "time": start_time,
-                        "event": f"{raw_name}(@hochschulsport_bielefeld)",
+                        "event": f"{basename}(@hochschulsport_bielefeld)",
                         "category": "Sport",
                         "link": urljoin(base_url, a["href"]),
                         'image_url': 'https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg'
