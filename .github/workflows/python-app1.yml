@@ -18,14 +18,13 @@ jobs:
           filter: 'blob:none'                
           fetch-depth: 1                    
 
-      - name: Install Python
-        uses: actions/setup-python@v3
+      - name: Set up Python (mit Cache)
+        uses: actions/setup-python@v5
         with:
           python-version: "3.9"
-
-      - name: Install Dependencies
-        run: |
-          pip install -r requirements.txt || echo "Keine Abhängigkeiten erforderlich"
+          cache: "pip"                  
+          cache-dependency-path: |
+            requirements.txt    
 
       - name: Run Python Script
         run: python events.py
