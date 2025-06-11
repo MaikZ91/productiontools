@@ -12,8 +12,11 @@ jobs:
   run-and-notify:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+      - name: Checkout Repository (nur Quellcode)
+        uses: actions/checkout@v4       
+        with:
+          filter: 'blob:none'                
+          fetch-depth: 1                    
 
       - name: Install Python
         uses: actions/setup-python@v3
@@ -46,48 +49,3 @@ jobs:
           git add events.json
           git commit -m "Automatische Aktualisierung der Events [GitHub Actions]"
           git push https://${{ secrets.PAT_TOKEN }}@github.com/MaikZ91/productiontools.git master
-
-      - name: Install msmtp
-        if: env.NO_CHANGES == 'false'
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y msmtp msmtp-mta
-
-      - name: Configure SMTP for GMX
-        if: env.NO_CHANGES == 'false'
-        run: |
-          echo "defaults" > ~/.msmtprc
-          echo "account gmx" >> ~/.msmtprc
-          echo "host mail.gmx.net" >> ~/.msmtprc
-          echo "port 587" >> ~/.msmtprc
-          echo "auth on" >> ~/.msmtprc
-          echo "user maik.z@gmx.de" >> ~/.msmtprc
-          echo "password ${{ secrets.GMX }}" >> ~/.msmtprc
-          echo "from maik.z@gmx.de" >> ~/.msmtprc
-          echo "tls on" >> ~/.msmtprc
-          echo "tls_starttls on" >> ~/.msmtprc
-          echo "logfile ~/.msmtp.log" >> ~/.msmtprc
-          echo "account default : gmx" >> ~/.msmtprc
-          chmod 600 ~/.msmtprc
-
-      - name: Create Email Content
-        if: env.NO_CHANGES == 'false'
-        run: |
-          echo "Subject: Neue Events hinzugefügt" > event_changes.txt
-          echo "To: maik.z@gmx.de" >> event_changes.txt
-          echo "From: maik.z@gmx.de" >> event_changes.txt
-          echo "" >> event_changes.txt
-          echo "Neue Events wurden in events.json hinzugefügt:" >> event_changes.txt
-          
-          NEW_EVENTS=$(git diff --unified=0 HEAD^ HEAD -- events.json | grep '^+' | grep -v '+++' | wc -l)
-
-          if [ "$NEW_EVENTS" -gt 0 ]; then
-            git diff --unified=0 HEAD^ HEAD -- events.json | grep '^+' | grep -v '+++' >> event_changes.txt
-          else
-            echo "Keine neuen Events gefunden." >> event_changes.txt
-            echo "NO_NEW_EVENTS=true" >> $GITHUB_ENV
-          fi
-
-   #   - name: Send Notification
-    #    if: env.NO_CHANGES == 'false' && env.NO_NEW_EVENTS != 'true'
-     #   run: cat event_changes.txt | msmtp -a default maik.z@gmx.de
