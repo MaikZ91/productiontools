@@ -13,18 +13,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository (nur Quellcode)
-        uses: actions/checkout@v4       
+        uses: actions/checkout@v4
         with:
-          filter: 'blob:none'                
+          filter: 'blob:none'
+          sparse-checkout: |        
+            events.py
+            requirements.txt
           fetch-depth: 1                    
 
       - name: Set up Python (mit Cache)
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v5   # >= v4 nötig für cache
         with:
           python-version: "3.9"
-          cache: "pip"                  
-          cache-dependency-path: |
-            requirements.txt    
+          cache: 'pip'                  # aktiviert pip-Cache
+          cache-dependency-path: requirements.txt 
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt \
+              --no-color --disable-pip-version-check
 
       - name: Run Python Script
         run: python events.py
