@@ -651,6 +651,11 @@ def scrape_events(base_url):
         "Improtheater",   # improv theatre
         "Wandern",      # hiking
         "Fitnesstraining",   # power workout (typo preserved as requested)
+        "Yoga",
+        "Volleyball",
+        "Tango Argentino",
+        "Surf",
+        "Salsa/Bachata"
         ]
         kw_regex = {k: re.compile(rf"\b{re.escape(k)}\b", re.IGNORECASE)for k in allowed_keywords}
 
