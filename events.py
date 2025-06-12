@@ -33,6 +33,7 @@ hsp="https://hsp.sport.uni-bielefeld.de/angebote/aktueller_zeitraum/"
 theater= "https://theaterlabor.eu/veranstaltungskalender/"
 vhs= "https://www.vhs-bielefeld.de"
 impro = "https://www.yesticket.org/events/de/impro-bielefeld/?lastView=list"
+germany = "https://rausgegangen.de/en/hamburg/eventsbydate/"
 
 def scrape_events(base_url):
     events = []
@@ -903,6 +904,93 @@ def scrape_events(base_url):
                 "link":  link
             })
 
+    if base_url == germany:
+        # Listen-Seite enthält pro Event einen <a href="/events/...">
+        event_links = []
+        for a in soup.select("a[href*='/events/']"):
+            href = a["href"]
+            if "/events/" in href:
+                if href.startswith("/"):
+                    href = "https://rausgegangen.de" + href
+                event_links.append(href)
+        # Doppelte entfernen + leicht begrenzen
+        event_links = list(dict.fromkeys(event_links))[:60]
+
+        for ev_link in event_links:
+            try:
+                det = requests.get(ev_link, timeout=TIMEOUT,
+                                   headers={"User-Agent": "Mozilla/5.0"})
+                det.raise_for_status()
+                det_soup = BeautifulSoup(det.text, "html.parser")
+
+                # Titel
+                title_tag = det_soup.find(["h1", "h2"])
+                title = title_tag.get_text(strip=True) if title_tag else "Unbenanntes Event"
+
+                # Datum/Uhrzeit aus JSON-LD oder Fließtext
+                date_iso = ""
+                time_part = ""
+                ld = det_soup.find("script", type="application/ld+json")
+                if ld and ld.string:
+                    try:
+                        import json as _json
+                        ld_data = _json.loads(ld.string)
+                        if isinstance(ld_data, dict) and ld_data.get("startDate"):
+                            date_iso = ld_data["startDate"][:10]
+                            time_part = ld_data["startDate"][11:16]
+                    except Exception:
+                        pass
+                if not date_iso:
+                    txt = det_soup.get_text(" ", strip=True)
+                    m_date = re.search(r'(\d{1,2})\.\s*([A-Za-zÄÖÜäöü\.]+)\s+(\d{4})', txt)
+                    if m_date:
+                        day, mon_str, year = m_date.groups()
+                        mon_num = MON_MAP.get(mon_str.strip("."))
+                        if mon_num:
+                            date_iso = f"{year}-{mon_num:02d}-{int(day):02d}"
+                    m_time = re.search(r'\b(\d{1,2}:\d{2})\b', txt)
+                    if m_time:
+                        time_part = m_time.group(1)
+
+                if not date_iso or dt.strptime(date_iso, "%Y-%m-%d").date() != TODAY:
+                    continue  # nur heutige Veranstaltungen
+
+                # Ort
+                loc = ""
+                loc_tag = det_soup.find("a", href=re.compile(r'/locations/'))
+                if loc_tag:
+                    loc = loc_tag.get_text(strip=True)
+                # Kategorie (erster Tag/Chip)
+                cat = ""
+                cat_tag = det_soup.find("span", class_=re.compile("tag"))
+                if cat_tag:
+                    cat = cat_tag.get_text(strip=True)
+
+                # Beschreibung (Kurz­auszug)
+                desc = ""
+                txt_full = det_soup.get_text("\n")
+                if "In the organizer's words:" in txt_full:
+                    desc = txt_full.split("In the organizer's words:", 1)[1].split("\n", 1)[0].strip()
+
+                # Bild
+                img = ""
+                m_img = re.search(r'https?://[^"\']+\.jpg', det.text)
+                if m_img:
+                    img = m_img.group(0)
+
+                # Datum formatiert
+                date_formatted = dt.strptime(date_iso, "%Y-%m-%d").strftime("%a, %d.%m.%Y")
+                event_name = f"{title} (@{loc})" if loc else title
+
+                events.append({
+                    "date": date_formatted,
+                    "time": time_part,
+                    "event": event_name,
+                    "category": cat,
+                    "description": desc,
+                    "link": ev_link,
+                    "image_url": img
+                })
 
     if base_url in [movie, platzhirsch, irish_pub]:
         if base_url == movie:
@@ -1059,7 +1147,7 @@ def parse_event_date(s: str) -> Optional[datetime.date]:
 if __name__ == '__main__':
     sources = [
         bielefeld_jetzt, forum, platzhirsch, irish_pub, f2f, sams, movie, nrzp,
-        bunker,stereobielefeld, cafe, arminia, impro, hsp
+        bunker,stereobielefeld, cafe, arminia, impro, hsp, germany
         #, vhs,theater
     ]
     events = []
