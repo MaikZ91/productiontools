@@ -1,19 +1,43 @@
 [
     {
-        "date": "Sa, 14.06",
-        "time": "23:00",
-        "event": "SA • CAFE SUMMER NIGHTS FEAT. JUIZZED (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-feat-juizzed/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/05/20250614_Juizzed_4zu5.jpg"
-    },
-    {
         "date": "Sat, 14.06",
         "time": "23:00",
         "event": "SATURDANCE (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/saturdance/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/05/Stereo_14_0625_Feed.jpg"
+    },
+    {
+        "date": "Sa, 14.06",
+        "time": "9:00",
+        "event": "Lauftreff @oberseeparkrun (@Obersee)",
+        "category": "Sport",
+        "link": "https://www.parkrun.com.de/",
+        "image_url": null
+    },
+    {
+        "date": "Sa, 14.06",
+        "time": "23:00",
+        "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
+        "category": "Party",
+        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
+        "image_url": null
+    },
+    {
+        "date": "Sa, 14.06",
+        "time": "7:00",
+        "event": "Wochenmarkt (@Alter Markt)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 14.06",
+        "time": "23:00",
+        "event": "SA • CAFE SUMMER NIGHTS FEAT. JUIZZED (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-feat-juizzed/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/05/20250614_Juizzed_4zu5.jpg"
     },
     {
         "date": "Sa, 14.06.2025",
@@ -46,30 +70,6 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 14.06",
-        "time": "9:00",
-        "event": "Lauftreff @oberseeparkrun (@Obersee)",
-        "category": "Sport",
-        "link": "https://www.parkrun.com.de/",
-        "image_url": null
-    },
-    {
-        "date": "Sa, 14.06",
-        "time": "23:00",
-        "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
-        "category": "Party",
-        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
-        "image_url": null
-    },
-    {
-        "date": "Sa, 14.06",
-        "time": "7:00",
-        "event": "Wochenmarkt (@Alter Markt)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Sa, 14.06",
@@ -150,6 +150,22 @@
         "link": "https://www.bielefeld.jetzt/node/1077247"
     },
     {
+        "date": "Su, 15.06",
+        "time": "19:00",
+        "event": "*TRIBE KENNENLERNABEND*",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Su, 15.06",
+        "time": "9:00",
+        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/uprunningclub/?hl=de",
+        "image_url": null
+    },
+    {
         "date": "So, 15.06.2025",
         "time": "09:00",
         "event": "Yoga(@hochschulsport_bielefeld)",
@@ -172,22 +188,6 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37042",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Su, 15.06",
-        "time": "19:00",
-        "event": "*TRIBE KENNENLERNABEND*",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Su, 15.06",
-        "time": "9:00",
-        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/uprunningclub/?hl=de",
-        "image_url": null
     },
     {
         "date": "So, 15.06",
@@ -231,6 +231,14 @@
         "description": "Tanzen macht glücklich",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/webform/termine_melden/15686/img_4278.jpeg?itok=3ztTvScx",
         "link": "https://www.bielefeld.jetzt/node/1077255"
+    },
+    {
+        "date": "Mo, 16.06",
+        "time": "20:00",
+        "event": "Pub Quiz (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Mo, 16.06.2025",
@@ -281,12 +289,20 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Mo, 16.06",
-        "time": "20:00",
-        "event": "Pub Quiz (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
+        "date": "Tu, 17.06",
+        "time": "18:00",
+        "event": "*TRIBE TUESDAY RUN(@GELLERSHAGEN PARK TEICH)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         "image_url": null
+    },
+    {
+        "date": "Tu, 17.06",
+        "time": "7:00",
+        "event": "Wochenmarkt(@Alter Markt)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Di, 17.06.2025",
@@ -329,22 +345,6 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Tu, 17.06",
-        "time": "18:00",
-        "event": "*TRIBE TUESDAY RUN(@GELLERSHAGEN PARK TEICH)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Tu, 17.06",
-        "time": "7:00",
-        "event": "Wochenmarkt(@Alter Markt)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
         "date": "Di, 17.06.2025",
         "time": "20:30",
         "category": "Jazz",
@@ -353,20 +353,44 @@
         "image_url": "https://bunker-ulmenwall.org/wp-content/uploads/2025/04/Talking-Horns-treten-im-Bunker-Ulmenwall-auf-768x570.jpg"
     },
     {
-        "date": "Mi, 18.06",
-        "time": "23:00",
-        "event": "MI• IBIZA WHITE NIGHT – SONDERVERANSTALTUNG (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-ibiza-white-night-raum2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/05/20250618_IbizaWhiteNight_4zu5.jpg"
-    },
-    {
         "date": "Wed, 18.06",
         "time": "23:00",
         "event": "CFB Warm-Up (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/cfb-warm-up/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/05/Stereo_16_0625_Feed.jpg"
+    },
+    {
+        "date": "We, 18.06",
+        "time": "21:00",
+        "event": "Karaoke (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "We, 18.06",
+        "time": "7:00",
+        "event": "Wochenmarkt(@Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "We, 18.06",
+        "time": "20:00",
+        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
+        "image_url": null
+    },
+    {
+        "date": "Mi, 18.06",
+        "time": "23:00",
+        "event": "MI• IBIZA WHITE NIGHT – SONDERVERANSTALTUNG (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-ibiza-white-night-raum2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/05/20250618_IbizaWhiteNight_4zu5.jpg"
     },
     {
         "date": "Mi, 18.06.2025",
@@ -423,30 +447,6 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35415",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "We, 18.06",
-        "time": "21:00",
-        "event": "Karaoke (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "We, 18.06",
-        "time": "7:00",
-        "event": "Wochenmarkt(@Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "We, 18.06",
-        "time": "20:00",
-        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
-        "image_url": null
     },
     {
         "date": "Mi, 18.06.2025",
@@ -516,30 +516,6 @@
         "image_url": null
     },
     {
-        "date": "Do, 19.06.2025",
-        "time": "16:30",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 19.06.2025",
-        "time": "17:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 19.06.2025",
-        "time": "18:30",
-        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35658",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
         "date": "Th, 19.06",
         "time": "18:00",
         "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
@@ -572,6 +548,30 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Do, 19.06.2025",
+        "time": "16:30",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 19.06.2025",
+        "time": "17:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 19.06.2025",
+        "time": "18:30",
+        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35658",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
         "date": "Thu, 19.06.2025",
         "time": null,
         "event": "Campus Festival Bielefeld (@Campus Bielefeld)",
@@ -581,20 +581,36 @@
         "link": "https://www.bielefeld.jetzt/node/18196"
     },
     {
-        "date": "Fr, 20.06",
-        "time": "23:00",
-        "event": "FR • F*CK GENRES (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-fck-genres-4/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/05/20250620_fckgenres_4zu5.jpg"
-    },
-    {
         "date": "Fri, 20.06",
         "time": "23:00",
         "event": "ABNULLERN! (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/abnullern/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/05/Stereo_20_0625_Feed.jpg"
+    },
+    {
+        "date": "Fr, 20.06",
+        "time": "23:00",
+        "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
+        "category": "Party",
+        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
+        "image_url": null
+    },
+    {
+        "date": "Fr, 20.06",
+        "time": "7:00",
+        "event": "Wochenmarkt (@Alter Markt, Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 20.06",
+        "time": "23:00",
+        "event": "FR • F*CK GENRES (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-fck-genres-4/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/05/20250620_fckgenres_4zu5.jpg"
     },
     {
         "date": "Fr, 20.06.2025",
@@ -619,22 +635,6 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35520",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Fr, 20.06",
-        "time": "23:00",
-        "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
-        "category": "Party",
-        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
-        "image_url": null
-    },
-    {
-        "date": "Fr, 20.06",
-        "time": "7:00",
-        "event": "Wochenmarkt (@Alter Markt, Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Fri, 20.06.2025",
@@ -673,14 +673,6 @@
         "link": "https://www.bielefeld.jetzt/node/1016403"
     },
     {
-        "date": "Sa, 21.06",
-        "time": "23:00",
-        "event": "SA • CAFE SUMMER NIGHTS X TEQUILA NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-x-tequila-night-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250621_TequilaParty_4zu5.jpg"
-    },
-    {
         "date": "Sat, 21.06",
         "time": "18:00",
         "event": "TREPPENTANZ OPEN AIR - AM BOULEVARD (@stereobielefeld)",
@@ -695,6 +687,38 @@
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/groovejet/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/05/Stereo_21_0625_Feed.jpg"
+    },
+    {
+        "date": "Sa, 21.06",
+        "time": "9:00",
+        "event": "Lauftreff @oberseeparkrun (@Obersee)",
+        "category": "Sport",
+        "link": "https://www.parkrun.com.de/",
+        "image_url": null
+    },
+    {
+        "date": "Sa, 21.06",
+        "time": "23:00",
+        "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
+        "category": "Party",
+        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
+        "image_url": null
+    },
+    {
+        "date": "Sa, 21.06",
+        "time": "7:00",
+        "event": "Wochenmarkt (@Alter Markt)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 21.06",
+        "time": "23:00",
+        "event": "SA • CAFE SUMMER NIGHTS X TEQUILA NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-x-tequila-night-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250621_TequilaParty_4zu5.jpg"
     },
     {
         "date": "Sa, 21.06.2025",
@@ -727,30 +751,6 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 21.06",
-        "time": "9:00",
-        "event": "Lauftreff @oberseeparkrun (@Obersee)",
-        "category": "Sport",
-        "link": "https://www.parkrun.com.de/",
-        "image_url": null
-    },
-    {
-        "date": "Sa, 21.06",
-        "time": "23:00",
-        "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
-        "category": "Party",
-        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
-        "image_url": null
-    },
-    {
-        "date": "Sa, 21.06",
-        "time": "7:00",
-        "event": "Wochenmarkt (@Alter Markt)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Sa, 21.06.2025",
@@ -819,6 +819,22 @@
         "link": "https://www.bielefeld.jetzt/node/1103564"
     },
     {
+        "date": "Su, 22.06",
+        "time": "19:00",
+        "event": "*TRIBE KENNENLERNABEND*",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Su, 22.06",
+        "time": "9:00",
+        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/uprunningclub/?hl=de",
+        "image_url": null
+    },
+    {
         "date": "So, 22.06.2025",
         "time": "09:00",
         "event": "Yoga(@hochschulsport_bielefeld)",
@@ -843,22 +859,6 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Su, 22.06",
-        "time": "19:00",
-        "event": "*TRIBE KENNENLERNABEND*",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Su, 22.06",
-        "time": "9:00",
-        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/uprunningclub/?hl=de",
-        "image_url": null
-    },
-    {
         "date": "Sun, 22.06.2025",
         "time": null,
         "event": "Da müssen wir durch! (@Sennefriedhof)",
@@ -866,6 +866,14 @@
         "description": "Kabarett auf dem Sennefriedhof mit Heinz Flottmann",
         "image_url": null,
         "link": "https://www.bielefeld.jetzt/node/911884"
+    },
+    {
+        "date": "Mo, 23.06",
+        "time": "20:00",
+        "event": "Pub Quiz (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Mo, 23.06.2025",
@@ -916,14 +924,6 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Mo, 23.06",
-        "time": "20:00",
-        "event": "Pub Quiz (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
         "date": "Tu, 24.06",
         "time": "18:00",
         "event": "*TRIBE TUESDAY RUN(@GELLERSHAGEN PARK TEICH)*",
@@ -962,14 +962,6 @@
         "link": "https://www.bielefeld.jetzt/node/26581"
     },
     {
-        "date": "Mi, 25.06",
-        "time": "23:00",
-        "event": "MI • BERGFEST (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-bergfest-15/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/05/20250625_Bergfest_4zu5.jpg"
-    },
-    {
         "date": "We, 25.06",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -1000,6 +992,14 @@
         "category": "Ausgehen",
         "link": "https://www.instagram.com/diesdascomedy/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 25.06",
+        "time": "23:00",
+        "event": "MI • BERGFEST (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-bergfest-15/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/05/20250625_Bergfest_4zu5.jpg"
     },
     {
         "date": "Wed, 25.06.2025",
@@ -1076,14 +1076,6 @@
         "link": "https://www.bielefeld.jetzt/node/1065307"
     },
     {
-        "date": "Fr, 27.06",
-        "time": "23:00",
-        "event": "FR • 2010 FLASHBACK (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-2010-flashback-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/05/20250627_2010Flashback_4zu5.jpg"
-    },
-    {
         "date": "Fri, 27.06",
         "time": "23:00",
         "event": "20ZIG 10ER (@stereobielefeld)",
@@ -1114,6 +1106,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 27.06",
+        "time": "23:00",
+        "event": "FR • 2010 FLASHBACK (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-2010-flashback-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/05/20250627_2010Flashback_4zu5.jpg"
     },
     {
         "date": "Fr, 27.06.2025",
@@ -1183,14 +1183,6 @@
         "link": "https://www.bielefeld.jetzt/node/1016401"
     },
     {
-        "date": "Sa, 28.06",
-        "time": "23:00",
-        "event": "SA • LOVE SATURDAYS x  COCKTAIL NIGHT • RAUM2: BLACKBOX (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-cocktail-night-raum2-blackbox/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/05/20250628_CocktailParty_4zu5.jpg"
-    },
-    {
         "date": "Sat, 28.06",
         "time": "22:00",
         "event": "DISKO TOTAL! - SUMMER EDITION // Die Party für alle ab 25! (@stereobielefeld)",
@@ -1229,6 +1221,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 28.06",
+        "time": "23:00",
+        "event": "SA • LOVE SATURDAYS x  COCKTAIL NIGHT • RAUM2: BLACKBOX (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-cocktail-night-raum2-blackbox/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/05/20250628_CocktailParty_4zu5.jpg"
     },
     {
         "date": "Sa, 28.06.2025",
@@ -1500,14 +1500,6 @@
     {
         "date": "Fr, 04.07",
         "time": "23:00",
-        "event": "FR • FRIDAYS FINEST (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-fridays-finest-raum2-hiphop-invasion-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250704_FridaysFinest_4zu5.jpg"
-    },
-    {
-        "date": "Fr, 04.07",
-        "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
         "category": "Party",
         "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
@@ -1520,6 +1512,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 04.07",
+        "time": "23:00",
+        "event": "FR • FRIDAYS FINEST (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-fridays-finest-raum2-hiphop-invasion-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250704_FridaysFinest_4zu5.jpg"
     },
     {
         "date": "Fri, 04.07.2025",
@@ -1550,14 +1550,6 @@
     },
     {
         "date": "Sa, 05.07",
-        "time": "23:00",
-        "event": "SA • GIRLS NIGHT OUT • RAUM2 : BOOTY BOUNCE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-girls-night-out-raum2-booty-bounce-7/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250705_GirlsNightOut_4zu5.jpg"
-    },
-    {
-        "date": "Sa, 05.07",
         "time": "9:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
         "category": "Sport",
@@ -1579,6 +1571,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 05.07",
+        "time": "23:00",
+        "event": "SA • GIRLS NIGHT OUT • RAUM2 : BOOTY BOUNCE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-girls-night-out-raum2-booty-bounce-7/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250705_GirlsNightOut_4zu5.jpg"
     },
     {
         "date": "Sat, 05.07.2025",
@@ -1707,14 +1707,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Mi, 09.07",
-        "time": "23:00",
-        "event": "MI • BERGFEST (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-bergfest-16/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250709_Bergfest_4zu5.jpg"
-    },
-    {
         "date": "Wed, 09.07",
         "time": "06:00",
         "event": "GuMo Bielefeld (@stereobielefeld)",
@@ -1753,6 +1745,14 @@
         "category": "Ausgehen",
         "link": "https://www.instagram.com/diesdascomedy/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 09.07",
+        "time": "23:00",
+        "event": "MI • BERGFEST (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-bergfest-16/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250709_Bergfest_4zu5.jpg"
     },
     {
         "date": "Mi, 09.07.2025",
@@ -1848,14 +1848,6 @@
     {
         "date": "Fr, 11.07",
         "time": "23:00",
-        "event": "FR • TURBO TRASH • (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-turbo-trash-3/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250711_Turbotrash_4zu5.jpg"
-    },
-    {
-        "date": "Fr, 11.07",
-        "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
         "category": "Party",
         "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
@@ -1876,6 +1868,14 @@
         "category": "Kreativität",
         "link": "https://kunsthalle-bielefeld.de/programm/veranstaltungen/#10209",
         "image_url": null
+    },
+    {
+        "date": "Fr, 11.07",
+        "time": "23:00",
+        "event": "FR • TURBO TRASH • (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-turbo-trash-3/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250711_Turbotrash_4zu5.jpg"
     },
     {
         "date": "Fri, 11.07.2025",
@@ -1906,14 +1906,6 @@
     },
     {
         "date": "Sa, 12.07",
-        "time": "23:00",
-        "event": "SA • SALITOS CLUB NIGHT – NEW AREA OPENING – SONDERVERANSLTUNG (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-salitos-club-night-new-area-opening-sonderveransltung/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250712_SalitosClubNight_4zu5.jpg"
-    },
-    {
-        "date": "Sa, 12.07",
         "time": "9:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
         "category": "Sport",
@@ -1935,6 +1927,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 12.07",
+        "time": "23:00",
+        "event": "SA • SALITOS CLUB NIGHT – NEW AREA OPENING – SONDERVERANSLTUNG (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-salitos-club-night-new-area-opening-sonderveransltung/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250712_SalitosClubNight_4zu5.jpg"
     },
     {
         "date": "Sa, 12.07.2025",
@@ -2048,14 +2048,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Mi, 16.07",
-        "time": "23:00",
-        "event": "MI • WEDNESDATE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wednesdate-8/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250716_Wednesdate_4zu5.jpg"
-    },
-    {
         "date": "We, 16.07",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -2078,6 +2070,14 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 16.07",
+        "time": "23:00",
+        "event": "MI • WEDNESDATE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wednesdate-8/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250716_Wednesdate_4zu5.jpg"
     },
     {
         "date": "Mi, 16.07",
@@ -2164,14 +2164,6 @@
     {
         "date": "Fr, 18.07",
         "time": "23:00",
-        "event": "FR• BLFD – LATIN EDITION – SONDERVERANSTALTUNG (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-blfd-latin-edition-sonderveranstaltung/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250718_BLFD_4zu5.jpg"
-    },
-    {
-        "date": "Fr, 18.07",
-        "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
         "category": "Party",
         "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
@@ -2186,12 +2178,12 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Sa, 19.07",
+        "date": "Fr, 18.07",
         "time": "23:00",
-        "event": "SA • LOVE SATURDAYS x COCKTAIL NIGHT (@cafe_europa_bi)",
+        "event": "FR• BLFD – LATIN EDITION – SONDERVERANSTALTUNG (@cafe_europa_bi)",
         "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-cocktail-night/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250719_CocktailParty_4zu5.jpg"
+        "link": "https://cafeeuropa.de/event/fr-blfd-latin-edition-sonderveranstaltung/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250718_BLFD_4zu5.jpg"
     },
     {
         "date": "Sa, 19.07",
@@ -2216,6 +2208,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 19.07",
+        "time": "23:00",
+        "event": "SA • LOVE SATURDAYS x COCKTAIL NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-cocktail-night/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250719_CocktailParty_4zu5.jpg"
     },
     {
         "date": "Sat, 19.07.2025",
@@ -2276,14 +2276,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Mi, 23.07",
-        "time": "23:00",
-        "event": "MI • WYLD WEDNESDAY (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wyld-wednesday-15/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250723_WyldWednesday_4zu5.jpg"
-    },
-    {
         "date": "We, 23.07",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -2314,6 +2306,14 @@
         "category": "Ausgehen",
         "link": "https://www.instagram.com/diesdascomedy/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 23.07",
+        "time": "23:00",
+        "event": "MI • WYLD WEDNESDAY (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wyld-wednesday-15/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250723_WyldWednesday_4zu5.jpg"
     },
     {
         "date": "Wed, 23.07.2025",
@@ -2383,14 +2383,6 @@
     },
     {
         "date": "Fr, 25.07",
-        "time": "23:00",
-        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-back-to-2000-5/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250725_Backto2000_4zu5-1.jpg"
-    },
-    {
-        "date": "Fr, 25.07",
         "time": "19:00",
         "event": "*TRIBE CREATIVE CIRCLES*",
         "category": "Kreativität",
@@ -2414,6 +2406,14 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Fr, 25.07",
+        "time": "23:00",
+        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-back-to-2000-5/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250725_Backto2000_4zu5-1.jpg"
+    },
+    {
         "date": "Fri, 25.07.2025",
         "time": null,
         "event": "Sparrenburgfest (@Sparrenburg)",
@@ -2430,14 +2430,6 @@
         "description": "Dinner-Musical",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/webform/termine_melden/14791/schloss_4er-gruppe.jpg?itok=_v-sSCRV",
         "link": "https://www.bielefeld.jetzt/node/907742"
-    },
-    {
-        "date": "Sa, 26.07",
-        "time": "23:00",
-        "event": "SA • CAFE SUMMER NIGHTS x TEQUILA NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-x-tequila-party/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250726_TequilaParty_4zu5-1.jpg"
     },
     {
         "date": "Sat, 26.07",
@@ -2478,6 +2470,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 26.07",
+        "time": "23:00",
+        "event": "SA • CAFE SUMMER NIGHTS x TEQUILA NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-x-tequila-party/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250726_TequilaParty_4zu5-1.jpg"
     },
     {
         "date": "Su, 27.07",
