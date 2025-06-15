@@ -51,7 +51,7 @@ RAUSGEGANGEN_CITIES = {
     "Essen": "essen",
     "Dortmund": "dortmund",
     "Münster": "muenster",
-    "Lübeck": "luebeck,
+    "Lübeck": "luebeck",
     "Detmold": "detmold" 
 }
 
