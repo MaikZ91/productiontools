@@ -50,6 +50,9 @@ RAUSGEGANGEN_CITIES = {
     "Dresden": "dresden",
     "Essen": "essen",
     "Dortmund": "dortmund",
+    "Münster": "muenster",
+    "Lübeck": "luebeck,
+    "Detmold": "detmold" 
 }
 
 def scrape_events(base_url):
