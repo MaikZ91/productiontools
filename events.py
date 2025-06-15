@@ -35,6 +35,23 @@ vhs= "https://www.vhs-bielefeld.de"
 impro = "https://www.yesticket.org/events/de/impro-bielefeld/?lastView=list"
 germany = "https://rausgegangen.de/en/hamburg/eventsbydate/"
 
+RAUSGEGANGEN_CITIES = {
+    "Berlin": "berlin",
+    "Hamburg": "hamburg",
+    "München": "munich",
+    "Köln": "cologne",
+    "Frankfurt": "frankfurt",
+    "Stuttgart": "stuttgart",
+    "Düsseldorf": "duesseldorf",
+    "Leipzig": "leipzig",
+    "Hannover": "hanover",
+    "Nürnberg": "nuremberg",
+    "Bremen": "bremen",
+    "Dresden": "dresden",
+    "Essen": "essen",
+    "Dortmund": "dortmund",
+}
+
 def scrape_events(base_url):
     events = []
     try:
@@ -903,6 +920,83 @@ def scrape_events(base_url):
                 "category": 'Bildung',
                 "link":  link
             })
+    
+    if base_url.startswith("https://rausgegangen.de/en/"):
+
+        city_slug = base_url.strip("/").split("/")[-2]
+        city_name = next((k for k, v in RAUSGEGANGEN_CITIES.items() if v == city_slug), city_slug.capitalize())
+
+        try:
+            html = requests.get(base_url, headers={"User-Agent": "Mozilla/5.0"}, timeout=10).text
+        except Exception as e:
+            print(f"Fehler beim Abruf von rausgegangen.de für {city_name}: {e}")
+            return []
+
+        soup = BeautifulSoup(html, "html.parser")
+        links = []
+        for a in soup.find_all("a", href=True):
+            href = a["href"]
+            if "/events/" in href:
+                if href.startswith("/en/"):
+                    href = "https://rausgegangen.de" + href
+                elif href.startswith("/") and not href.startswith("http"):
+                    href = "https://rausgegangen.de/en" + href
+                links.append(href)
+        links = list(dict.fromkeys(links))[:30]  # maximal 30 Events
+
+        for link in links:
+            try:
+                res = requests.get(link, headers={"User-Agent": "Mozilla/5.0"}, timeout=10)
+                res.raise_for_status()
+                soup_ev = BeautifulSoup(res.text, "html.parser")
+
+                ld_tag = soup_ev.find("script", type="application/ld+json")
+                ld = json.loads(ld_tag.string) if ld_tag and ld_tag.string else {}
+
+                title_tag = soup_ev.find(["h1", "h2"])
+                title = title_tag.get_text(strip=True) if title_tag else "Unbenanntes Event"
+
+                start_iso = ld.get("startDate")
+                date_iso = start_iso[:10] if start_iso else None
+                time_str = start_iso[11:16] if start_iso else ""
+
+                if not date_iso:
+                    continue
+                ev_date = datetime.datetime.strptime(date_iso, "%Y-%m-%d").date()
+                if ev_date < TODAY:
+                    continue
+
+                location = ""
+                loc_tag = soup_ev.find("a", href=re.compile(r'/locations/'))
+                if loc_tag:
+                    location = loc_tag.get_text(strip=True)
+
+                cat_tag = soup_ev.find("span", class_=re.compile("tag"))
+                cat = cat_tag.get_text(strip=True) if cat_tag else ""
+
+                description = ""
+                full = soup_ev.get_text("\n")
+                if "In the organizer's words:" in full:
+                    description = full.split("In the organizer's words:", 1)[1].split("\n", 1)[0].strip()
+
+                m_img = re.search(r'https?://[^"\']+\.jpg', res.text)
+                img = m_img.group(0) if m_img else None
+
+                date_fmt = ev_date.strftime("%a, %d.%m.%Y")
+                event_name = f"{title} (@{location})" if location else title
+
+                events.append({
+                    "date":        date_fmt,
+                    "time":        time_str,
+                    "event":       event_name,
+                    "category":    cat,
+                    "description": description,
+                    "link":        link,
+                    "image_url":   img,
+                    "city":        city_name
+                })
+            except Exception as e:
+                print(f"Fehler bei Detail-Scrape {link}: {e}")
             
     if base_url in [movie, platzhirsch, irish_pub]:
         if base_url == movie:
@@ -1059,7 +1153,7 @@ def parse_event_date(s: str) -> Optional[datetime.date]:
 if __name__ == '__main__':
     sources = [
         bielefeld_jetzt, forum, platzhirsch, irish_pub, f2f, sams, movie, nrzp,
-        bunker,stereobielefeld, cafe, arminia, impro, hsp
+        bunker,stereobielefeld, cafe, arminia, impro, hsp, *[f"https://rausgegangen.de/en/{slug}/eventsbydate/" for slug in RAUSGEGANGEN_CITIES.values()]
         #, vhs,theater
     ]
     events = []
