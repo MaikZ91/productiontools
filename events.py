@@ -1099,7 +1099,8 @@ def add_recurring_events(
         weekday_number = weekday_map.get(day_name_upper, 0)
     def add_event(month, day):
         day_abbr = day_name[:2].capitalize()
-        event_date = f"{day_abbr}, {str(day).zfill(2)}.{str(month).zfill(2)}"
+        year = datetime.now().year
+        event_date = f"{day_abbr}, {str(day).zfill(2)}.{str(month).zfill(2)}.{year}"
         events.append({
             'date': event_date,
             'time': event_time,
