@@ -1100,8 +1100,7 @@ def add_recurring_events(
     def add_event(month, day):
         day_abbr = day_name[:2].capitalize()
         year = datetime.now().year
-        #event_date = f"{day_abbr}, {str(day).zfill(2)}.{str(month).zfill(2)}.{year}"
-        event_date = f"{day_abbr}, {str(day).zfill(2)}.{str(month).zfill(2)}"
+        event_date = f"{day_abbr}, {str(day).zfill(2)}.{str(month).zfill(2)}.{year}"
         events.append({
             'date': event_date,
             'time': event_time,
@@ -1184,4 +1183,4 @@ if __name__ == '__main__':
     filtered_events.sort(key=lambda e: parse_event_date(e["date"]))
 
     with open("events.json", "w", encoding="utf-8") as f:
-        json.dump(events, f, indent=4, ensure_ascii=False)
+        json.dump(filtered_events, f, indent=4, ensure_ascii=False)
