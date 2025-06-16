@@ -1156,9 +1156,9 @@ def parse_event_date(s: str) -> Optional[datetime.date]:
 if __name__ == '__main__':
     sources = [
         platzhirsch, irish_pub, movie
-        #bielefeld_jetzt, forum, f2f, sams, nrzp,
-        #bunker,stereobielefeld, cafe, arminia, impro, hsp
-        #*[f"https://rausgegangen.de/en/{slug}/eventsbydate/" for slug in RAUSGEGANGEN_CITIES.values()]
+        bielefeld_jetzt, forum, f2f, sams, nrzp,
+        bunker,stereobielefeld, cafe, arminia, impro, hsp
+        *[f"https://rausgegangen.de/en/{slug}/eventsbydate/" for slug in RAUSGEGANGEN_CITIES.values()]
         #, vhs,theater
     ]
     events = []
