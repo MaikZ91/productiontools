@@ -1182,4 +1182,4 @@ if __name__ == '__main__':
     filtered_events.sort(key=lambda e: parse_event_date(e["date"]))
 
     with open("events.json", "w", encoding="utf-8") as f:
-        json.dump(filtered_events, f, indent=4, ensure_ascii=False)
+        json.dump(events, f, indent=4, ensure_ascii=False)
