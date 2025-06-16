@@ -309,7 +309,7 @@ def daily_video() -> Tuple[str, Optional[str]]:
         resp.raise_for_status()
         data = resp.json()
         date_re = re.compile(rf"\b{today_str}\b")
-        events   = [e for e in data if date_re.search(e.get("date", ""))]
+        events = [e for e in data if date_re.search(e.get("date", "")) and not e.get("city")]
         def sort_key(event: dict) -> tuple[int, time]:
             t_str = (event.get("time") or "").strip()
             m = re.match(r"^(\d{1,2})[:.](\d{2})$", t_str)
