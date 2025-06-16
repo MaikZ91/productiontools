@@ -1100,7 +1100,8 @@ def add_recurring_events(
     def add_event(month, day):
         day_abbr = day_name[:2].capitalize()
         year = datetime.now().year
-        event_date = f"{day_abbr}, {str(day).zfill(2)}.{str(month).zfill(2)}.{year}"
+        #event_date = f"{day_abbr}, {str(day).zfill(2)}.{str(month).zfill(2)}.{year}"
+        #event_date = f"{day_abbr}, {str(day).zfill(2)}.{str(month).zfill(2)}"
         events.append({
             'date': event_date,
             'time': event_time,
