@@ -42,8 +42,48 @@
     {
         "date": "Sun, 22.06.2025",
         "time": "10:00",
+        "event": "Yoga im Park (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/yoga-im-park-22/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8q8DnHehQYyaIyZ7jhnQ_1000109451.jpg",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Sun, 22.06.2025",
+        "time": "10:00",
+        "event": "Isa Genzken meets Liebieghaus / Museumsufer Frankfurt (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/isa-genzken-meets-liebieghaus-museumsufer-frankfurt-66/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/PkOYjVsGSXCnBpH6wlB3_lhpresseaussenansicht1.jpg",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Sun, 22.06.2025",
+        "time": "12:00",
+        "event": "Harfenmatinée (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/harfenmatinee-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/x3zwC7yKS9meju2a9UPU_20230227drhochskontakt-2023-1073screen.jpg",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Sun, 22.06.2025",
+        "time": "18:00",
+        "event": "Sommerflimmern: Queer (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/sommerflimmern-queer-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/9HkQCBQyTdmeSf7fl4nw_csmfw54big19ea987811d2.jpg",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Sun, 22.06.2025",
+        "time": "10:00",
         "event": "Der Hügel ist Ausstellung (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/villa-hugel-der-hugel-ist-ausstellung-62/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/tM6GKkEQTvq2MfySWCNA_rkm-21x21-ausstellung-keyvisual-c-klein.jpg",
@@ -68,16 +108,6 @@
         "link": "https://rausgegangen.de/en/events/currywurst-und-pommes-2/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/cs6ufRrCQMqTulfiP81U_1000028181.jpg",
         "city": "Essen"
-    },
-    {
-        "date": "Sun, 22.06.2025",
-        "time": "19:00",
-        "event": "Silberringworkshop (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/silberringworkshop-10/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7aPQI2XARhyVucLogzdT_brandingshoot-susy190124katjaknetschkefotografie-2811.jpg",
-        "city": "Dresden"
     },
     {
         "date": "Sun, 22.06.2025",
@@ -111,43 +141,13 @@
     },
     {
         "date": "Sun, 22.06.2025",
-        "time": "10:00",
-        "event": "Yoga im Park (@Locations)",
+        "time": "19:00",
+        "event": "Silberringworkshop (@Locations)",
         "category": "Sponsored",
         "description": "",
-        "link": "https://rausgegangen.de/en/events/yoga-im-park-22/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8q8DnHehQYyaIyZ7jhnQ_1000109451.jpg",
-        "city": "Frankfurt"
-    },
-    {
-        "date": "Sun, 22.06.2025",
-        "time": "10:00",
-        "event": "Isa Genzken meets Liebieghaus / Museumsufer Frankfurt (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/isa-genzken-meets-liebieghaus-museumsufer-frankfurt-66/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/PkOYjVsGSXCnBpH6wlB3_lhpresseaussenansicht1.jpg",
-        "city": "Frankfurt"
-    },
-    {
-        "date": "Sun, 22.06.2025",
-        "time": "12:00",
-        "event": "Harfenmatinée (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/harfenmatinee-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/x3zwC7yKS9meju2a9UPU_20230227drhochskontakt-2023-1073screen.jpg",
-        "city": "Frankfurt"
-    },
-    {
-        "date": "Sun, 22.06.2025",
-        "time": "18:00",
-        "event": "Sommerflimmern: Queer (@Locations)",
-        "category": "",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/sommerflimmern-queer-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/9HkQCBQyTdmeSf7fl4nw_csmfw54big19ea987811d2.jpg",
-        "city": "Frankfurt"
+        "link": "https://rausgegangen.de/en/events/silberringworkshop-10/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/PeVhfgllSEitHUavpvVI_landstreicherkonzerteculchacandlac3leohahn0924.jpg",
+        "city": "Dresden"
     },
     {
         "date": "Sun, 22.06.2025",
@@ -156,7 +156,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/sonderausstellung-liebe-15/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zfJNeMiRSpGzOxJrFtu4_Universum%20Bremen%20bei%20Sonne_Web.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bjo0ffIMRJyaaJjxOBrQ_nsh-logo-mittelzentriert.jpg",
         "city": "Bremen"
     },
     {
@@ -166,7 +166,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/flinta-stroll-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/cQ3doAecTS6RDeQPqPDm_4ba4c598-6f82-4116-9122-d8dc5ecc561d%40w1920.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPQnF1XKSASKDVSy2Lo9_breminale-06-07-24-1laura-homuth.jpg",
         "city": "Bremen"
     },
     {
@@ -201,23 +201,33 @@
     },
     {
         "date": "Sun, 22.06.2025",
-        "time": "11:00",
-        "event": "“Ente gut, alles gut” - Flohmarkt am Umschlagplatz (@Locations)",
+        "time": "14:00",
+        "event": "Flohmarkt + Musik (Open Air) (@Locations)",
         "category": "Sponsored",
         "description": "",
-        "link": "https://rausgegangen.de/en/events/ente-gut-alles-gut-flohmarkt-am-umschlagplatz-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eIoRfzA6Rv2jXtg7XCot_entee.jpg",
-        "city": "Dortmund"
+        "link": "https://rausgegangen.de/en/events/axxon-n-flohmarkt-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/AvWn9lYuTQiEu6XMI5mB_chase-yi-kcwhntsgkfo-unsplash.jpg",
+        "city": "Leipzig"
     },
     {
         "date": "Sun, 22.06.2025",
-        "time": "17:00",
-        "event": "Last Night of Klangvokal (@Locations)",
+        "time": "14:00",
+        "event": "GROOVERS (DAYRAVE) - SKM Galerie Leipzig (Westwerk) (@Locations)",
         "category": "Sponsored",
         "description": "",
-        "link": "https://rausgegangen.de/en/events/last-night-of-klangvokal-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/08qUYAeRnKw8Zt4EAGLG_10.jpg",
-        "city": "Dortmund"
+        "link": "https://rausgegangen.de/en/events/duqo-garden-groovers-showcase-open-air-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zcuzVynfTc6OLQdZXIGH_DUQO%20Instagram%20Profilbild_Zeichenfla%CC%88che%201%20Kopie%202.jpg",
+        "city": "Leipzig"
+    },
+    {
+        "date": "Sun, 22.06.2025",
+        "time": "18:00",
+        "event": "Open Air - Comedy Show mit Ana Lucia (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/open-air-comedy-show-mit-ana-lucia-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/CP5kGQaSYaYY2dsQN5xz_22-06-ana-lucia-karli-comedy-open-air-sommer-special-leipzig-stand-up-comedy.jpg",
+        "city": "Leipzig"
     },
     {
         "date": "Sun, 22.06.2025",
@@ -266,38 +276,28 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/stand-up-comedy-open-mic-in-stuttgart-mit-food-drinks-91/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BlGB14To2rxV62YldLPA_lockedupscreamsfotoandreateicke.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wUl4oOjQQzqq7rAzVtiM_ed15ticket-header16zu9250522-1.jpg",
         "city": "Stuttgart"
     },
     {
         "date": "Sun, 22.06.2025",
-        "time": "14:00",
-        "event": "Flohmarkt + Musik (Open Air) (@Locations)",
+        "time": "11:00",
+        "event": "“Ente gut, alles gut” - Flohmarkt am Umschlagplatz (@Locations)",
         "category": "Sponsored",
         "description": "",
-        "link": "https://rausgegangen.de/en/events/axxon-n-flohmarkt-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/AvWn9lYuTQiEu6XMI5mB_chase-yi-kcwhntsgkfo-unsplash.jpg",
-        "city": "Leipzig"
+        "link": "https://rausgegangen.de/en/events/ente-gut-alles-gut-flohmarkt-am-umschlagplatz-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eIoRfzA6Rv2jXtg7XCot_entee.jpg",
+        "city": "Dortmund"
     },
     {
         "date": "Sun, 22.06.2025",
-        "time": "14:00",
-        "event": "GROOVERS (DAYRAVE) - SKM Galerie Leipzig (Westwerk) (@Locations)",
+        "time": "17:00",
+        "event": "Last Night of Klangvokal (@Locations)",
         "category": "Sponsored",
         "description": "",
-        "link": "https://rausgegangen.de/en/events/duqo-garden-groovers-showcase-open-air-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zcuzVynfTc6OLQdZXIGH_DUQO%20Instagram%20Profilbild_Zeichenfla%CC%88che%201%20Kopie%202.jpg",
-        "city": "Leipzig"
-    },
-    {
-        "date": "Sun, 22.06.2025",
-        "time": "18:00",
-        "event": "Open Air - Comedy Show mit Ana Lucia (@Locations)",
-        "category": "",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/open-air-comedy-show-mit-ana-lucia-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/CP5kGQaSYaYY2dsQN5xz_22-06-ana-lucia-karli-comedy-open-air-sommer-special-leipzig-stand-up-comedy.jpg",
-        "city": "Leipzig"
+        "link": "https://rausgegangen.de/en/events/last-night-of-klangvokal-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/08qUYAeRnKw8Zt4EAGLG_10.jpg",
+        "city": "Dortmund"
     },
     {
         "date": "Sun, 22.06.2025",
@@ -306,7 +306,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/coffee-meets-chocolate-mit-jurgen-bluhm-eine-reise-mit-genus-8/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/mJYEHPI0T0CXJaPD6fce_dsc00097-6.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/MxOFNeK0QusIJBZsvApI_kulin-ticket.jpg",
         "city": "Düsseldorf"
     },
     {
@@ -316,7 +316,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/flohmarkt-dusseldorf-obi-7/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5BAYvVJZS12GkIPqz9Pj_tolga-ahmetler-hqbptzjszgs-unsplash.jpg",
         "city": "Düsseldorf"
     },
     {
@@ -346,17 +346,17 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/lillet-picknick-koeln-2025/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vG3JzZTYGVSdkX6dWKQt_chlodwigplatz-2025-titelbild-seite-facebook.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/28g1znHxRYuffTd4s5hk_cocktail-tasting-koeln.jpg",
         "city": "Köln"
     },
     {
         "date": "Sun, 22.06.2025",
         "time": "11:00",
         "event": "Flohmarkt Köln-Nippes (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/flohmarkt-koln-nippes-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jcox6oGVRfyi8wV6zYSo_die-erben-spotlight-sommer-25.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/PMcqet55TFyhPHiFb1Ve_convert.jpg",
         "city": "Köln"
     },
     {
@@ -366,7 +366,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/flohmarkt-koln-butzweilerhof-selgros-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/mP7OGOFTR2WQO57GUFbu_troedel-rausgegangen.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zUbkuklCT1GNCqQVjqg9_echteit-comedy-website-bild.jpg",
         "city": "Köln"
     },
     {
@@ -396,7 +396,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/la-casa-del-perreo-dayparty-wasserturm-hotel-koln-4/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zUbkuklCT1GNCqQVjqg9_echteit-comedy-website-bild.jpg",
         "city": "Köln"
     },
     {
@@ -436,14 +436,14 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/tag-der-offenen-tur-im-dokumentationszentrum-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6fH4ZPMjQmGhiUXo7vcK_rambozamboimagetype1920x1080.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eIbx80hOSySd1sFkXq5Q_hi24atmototalenlinetsoj-205007.jpg",
         "city": "Berlin"
     },
     {
         "date": "Sun, 22.06.2025",
         "time": "12:00",
         "event": "Staatsoper für alle - Open-Air-Konzert (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/staatsoper-fur-alle-open-air-konzert-7/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//www.berlin-buehnen.de/media/productions/staatsoper-alle-open-air-konzert-333/gallery/202408280004430518.jpg",
@@ -456,7 +456,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/kroque-monsieur-pop-up-at-ringbar-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EO4L6ZCQQ2QASLl7wpaA_andre-marie-tala.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/UzC4HxiQRORLvaU99nNA_screenshot-2025-02-18-135708.jpg",
         "city": "Berlin"
     },
     {
@@ -476,7 +476,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/open-air-lachkater-comedy-show-10/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eIbx80hOSySd1sFkXq5Q_hi24atmototalenlinetsoj-205007.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6fH4ZPMjQmGhiUXo7vcK_rambozamboimagetype1920x1080.jpg",
         "city": "Berlin"
     },
     {
@@ -486,7 +486,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/polish-art-week-do-555ps-av-jerzy-maczynski-katarzyna-debska-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EO4L6ZCQQ2QASLl7wpaA_andre-marie-tala.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/yEoasC3gTSenlfC1QPJa_sn1400x1080px01.jpg",
         "city": "Berlin"
     },
     {
@@ -506,7 +506,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/sips-buns-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zsX96ArWR9qwZoywGHMG_kgi20184003007.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/y3mZyfqmRAKFF2CsmW2C_trash-island.jpg",
         "city": "Hamburg"
     },
     {
@@ -611,7 +611,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/craft-comedy-open-mic-25/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bjo0ffIMRJyaaJjxOBrQ_nsh-logo-mittelzentriert.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TrTYibzmQ6HKRGy7OJ56_amie-johnson-VJXLzQi5TlE-unsplash.jpg",
         "city": "Bremen"
     },
     {
@@ -621,7 +621,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/meditation-und-stille-19/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/O9i6sfVEQCm22hHgiayC_event-yoga-rausgegangen-cover.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jcox6oGVRfyi8wV6zYSo_die-erben-spotlight-sommer-25.jpg",
         "city": "Köln"
     },
     {
@@ -681,7 +681,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/the-maccabees-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jcox6oGVRfyi8wV6zYSo_die-erben-spotlight-sommer-25.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/sxN1msVQbiXnu3U849C9_csmeffartworkquerudpate2cbdc69d4b9.jpg",
         "city": "Köln"
     },
     {
@@ -691,7 +691,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/frisch-koln-premiere-rex-am-ring-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Jz7mAW9QK11TWI2OjAfw_banner-rausgegangen.jpg",
         "city": "Köln"
     },
     {
@@ -711,7 +711,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/beton-arme-pufferklavo-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/WoUWLbb7ScuwyazNbGeK_magrofeaturingrapturousopeningjazzwocheberlin2023clubgretchenullacbinderdscf9781.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6fH4ZPMjQmGhiUXo7vcK_rambozamboimagetype1920x1080.jpg",
         "city": "Berlin"
     },
     {
@@ -728,7 +728,7 @@
         "date": "Mon, 23.06.2025",
         "time": "20:00",
         "event": "WIR ARBEITEN DRAN\" x STAND UP COMEDY SHOW x NEUE JOKES von SUPER COMEDIANS (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/wir-arbeiten-dran-x-stand-up-comedy-show-x-neue-jokes-von-su-2/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/isELN6SQTamat9boTZPV_p1280082.jpg",
@@ -751,7 +751,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/der-mad-monkey-montag-105/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jD4qKlDR4GoZdeFtsO9x_gartenzauber-matteoblau-1.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6fH4ZPMjQmGhiUXo7vcK_rambozamboimagetype1920x1080.jpg",
         "city": "Berlin"
     },
     {
@@ -771,14 +771,14 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/freche-mowe-stand-up-comedy-im-indra-musikclub-kopie-9/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aQDUOPTgTMmZDQhR6wgV_eichhoernchenfoto-loki-schmidt-stiftung.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/y3mZyfqmRAKFF2CsmW2C_trash-island.jpg",
         "city": "Hamburg"
     },
     {
         "date": "Mon, 23.06.2025",
         "time": "19:00",
         "event": "Melissa Etheridge (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/melissa-etheridge-2/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/8ddxvw51ubty.jpg",
@@ -798,10 +798,10 @@
         "date": "Mon, 23.06.2025",
         "time": "20:00",
         "event": "GET UP Comedy auf der Reeperbahn (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/get-up-comedy-auf-der-reeperbahn-38/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/0PvGZy2QBGl6k1Guvh2m_rausgegangen-mk.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/iALAKOYQcy9dS80whaUB_eventbrite-header-64.jpg",
         "city": "Hamburg"
     },
     {
@@ -930,14 +930,14 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/lunchtime-reset-4/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/KFE9J7GpQYWOW1GOZ8Xj_electro-swing-night-rausgegangen-neu-19-07-2025.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ZpCooKUKRxWeYFwaMxZS_beach-infos-startseite.jpg",
         "city": "Köln"
     },
     {
         "date": "Tue, 24.06.2025",
         "time": "19:00",
         "event": "SEXTILE (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/sextile-4/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6qnG4ftjQ5Ks38po4CKw_eventsextile.jpg",
@@ -960,14 +960,14 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/jazzorama-sommergarten-pks-stage-band-jamsession-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/dOGZI3V2SKCWJNhEzSfN_artheatercafe1_HDR4.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vG3JzZTYGVSdkX6dWKQt_chlodwigplatz-2025-titelbild-seite-facebook.jpg",
         "city": "Köln"
     },
     {
         "date": "Tue, 24.06.2025",
         "time": "20:00",
         "event": "Robinson Khoury MŸA (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/robinson-khoury-mya-1/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Pm6DUwmqT4aji4Mx3BzH_laureenburtocrobinsonkhourymya.jpg",
@@ -980,34 +980,34 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/whats-happening-in-america-mit-claudia-bruhwiler-claus-legge-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jcox6oGVRfyi8wV6zYSo_die-erben-spotlight-sommer-25.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6JlCSO7PTv28CLV7xvga_cdfsupport2025postkartefront07042025web-ansicht.jpg",
         "city": "Köln"
     },
     {
         "date": "Tue, 24.06.2025",
         "time": "18:00",
         "event": "ROLLER DISCO (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/roller-disco-54/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/1en5SJKJQu6PSHJfXVL1_378b861f57d1a47785b0cbb30bc69127c6faaab9.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EO4L6ZCQQ2QASLl7wpaA_andre-marie-tala.jpg",
         "city": "Berlin"
     },
     {
         "date": "Tue, 24.06.2025",
         "time": "19:45",
         "event": "MOONSHINE Comedy - English Stand Up Comedy by the bay with Patrick Moore (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/moonshine-comedy-english-stand-up-comedy-by-the-bay-with-pat-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EO4L6ZCQQ2QASLl7wpaA_andre-marie-tala.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5iLjDibRsKzS3VBIQ7tY_expats-zbar.jpg",
         "city": "Berlin"
     },
     {
         "date": "Tue, 24.06.2025",
         "time": "20:00",
         "event": "Unerhörte Musik: Moritz Ernst (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/unerhorte-musik-moritz-ernst-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pMKM71zMTmyq1QD3Qptt_moritz-ernst-foto-janine-kuhn-16-9.jpg",
@@ -1030,14 +1030,14 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/der-mad-monkey-dienstag-109/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jD4qKlDR4GoZdeFtsO9x_gartenzauber-matteoblau-1.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EO4L6ZCQQ2QASLl7wpaA_andre-marie-tala.jpg",
         "city": "Berlin"
     },
     {
         "date": "Tue, 24.06.2025",
         "time": "23:00",
         "event": "encore.une.fois / INDOOR RAVE + OPEN AIR CHILL GARDEN (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/encoreunefois-indoor-rave-open-air-chill-garden-5/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/sKPakpuRquM0Lnx0Xwf4_eufjuni4ra.jpg",
@@ -1060,7 +1060,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/freche-mowe-stand-up-comedy-im-monkeys-music-club-kopie-37/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TiN9acDRyW5yjPitaw4g_39969069_2017763248509814_3198823167397199872_n.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/a8fsxzx2waot.jpg",
         "city": "Hamburg"
     },
     {
@@ -1070,7 +1070,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/the-burning-mic-english-comedy-grand-slam-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/a8fsxzx2waot.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/iALAKOYQcy9dS80whaUB_eventbrite-header-64.jpg",
         "city": "Hamburg"
     },
     {
@@ -1080,7 +1080,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/katta-standup-comedy-show-taugenichts-bar-altona-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/xnE7E6USQW7GwjX86oO6_p27800x1600.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aQDUOPTgTMmZDQhR6wgV_eichhoernchenfoto-loki-schmidt-stiftung.jpg",
         "city": "Hamburg"
     },
     {
@@ -1211,16 +1211,6 @@
     {
         "date": "Wed, 25.06.2025",
         "time": "19:00",
-        "event": "RUE OBSCURE // Ein Spaziergang für Ermüdete - Die Kunst der Unterbrechung (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/rue-obscure-ein-spaziergang-fur-ermudete-die-kunst-der-unter-6/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/YHRNbqfqTRGNbhgZwfFj_roermuedetephmobil.jpg",
-        "city": "Münster"
-    },
-    {
-        "date": "Wed, 25.06.2025",
-        "time": "19:00",
         "event": "CYPRESS HILL (@Locations)",
         "category": "Sponsored",
         "description": "",
@@ -1230,13 +1220,13 @@
     },
     {
         "date": "Wed, 25.06.2025",
-        "time": "20:00",
-        "event": "Bastian Bandt | Feierabend-Gartenkonzert (@Locations)",
+        "time": "19:00",
+        "event": "RUE OBSCURE // Ein Spaziergang für Ermüdete - Die Kunst der Unterbrechung (@Locations)",
         "category": "",
         "description": "",
-        "link": "https://rausgegangen.de/en/events/bastian-bandt-feierabend-gartenkonzert-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5CAHc3KQIeZhBR8a8EEx_sommerkonzerte-logo.jpg",
-        "city": "Stuttgart"
+        "link": "https://rausgegangen.de/en/events/rue-obscure-ein-spaziergang-fur-ermudete-die-kunst-der-unter-6/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/YHRNbqfqTRGNbhgZwfFj_roermuedetephmobil.jpg",
+        "city": "Münster"
     },
     {
         "date": "Wed, 25.06.2025",
@@ -1247,6 +1237,16 @@
         "link": "https://rausgegangen.de/en/events/vuta-nkuvute-die-liebe-in-ungleichen-zeiten-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aMWPfFfRSK7db6Xeg7px_tug-of-war-16.jpg",
         "city": "Leipzig"
+    },
+    {
+        "date": "Wed, 25.06.2025",
+        "time": "20:00",
+        "event": "Bastian Bandt | Feierabend-Gartenkonzert (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/bastian-bandt-feierabend-gartenkonzert-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5CAHc3KQIeZhBR8a8EEx_sommerkonzerte-logo.jpg",
+        "city": "Stuttgart"
     },
     {
         "date": "Wed, 25.06.2025",
@@ -1285,7 +1285,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/comedy-fur-freunde-open-mic-193/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/dz7R1HoNS4uWqtaHLOGo_16zu9displayaposumcioqr.jpg",
         "city": "Düsseldorf"
     },
     {
@@ -1325,7 +1325,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/quiz-night-im-h26-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8ewIR1ydQ0SsvW98aQRM_quiz-2025-kopie.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/KFE9J7GpQYWOW1GOZ8Xj_electro-swing-night-rausgegangen-neu-19-07-2025.jpg",
         "city": "Köln"
     },
     {
@@ -1335,7 +1335,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/open-excess-mixed-abled-jazz-trio-gaste-mit-special-guest-an-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zM6dZk7hRpCbCE5GHyTt_dscf9253-copyright-lena-semmelroggen.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/sxN1msVQbiXnu3U849C9_csmeffartworkquerudpate2cbdc69d4b9.jpg",
         "city": "Köln"
     },
     {
@@ -1345,17 +1345,17 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/traumaland-eine-spurensuche-in-deutscher-vergangenheit-und-g-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6JlCSO7PTv28CLV7xvga_cdfsupport2025postkartefront07042025web-ansicht.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/P70gLfd5TqO8tUSKp1rz_jtk-niewiederistjetztrausgegangen-1280x720pxneu.jpg",
         "city": "Köln"
     },
     {
         "date": "Wed, 25.06.2025",
         "time": "19:00",
         "event": "MAD CADDIES (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/mad-caddies-7/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6fH4ZPMjQmGhiUXo7vcK_rambozamboimagetype1920x1080.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//askhelmut.s3.amazonaws.com/uploads/image/file/515054/8ce59083-2c00-4eea-8212-3b3080466f3c.jpg",
         "city": "Berlin"
     },
     {
@@ -1365,7 +1365,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/mad-monkey-cruise-comedy-auf-der-spree-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TTy3ck1bSyi9Vju0xfFW_humans20chamaeleon-berlinphoto-lesley-martin9.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/WoUWLbb7ScuwyazNbGeK_magrofeaturingrapturousopeningjazzwocheberlin2023clubgretchenullacbinderdscf9781.jpg",
         "city": "Berlin"
     },
     {
@@ -1385,7 +1385,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/prayer-dance-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/kzKKDKUUS9yO4B6IFeBp_gabriel-ouxw17vrdfm-unsplash.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6fH4ZPMjQmGhiUXo7vcK_rambozamboimagetype1920x1080.jpg",
         "city": "Berlin"
     },
     {
@@ -1405,7 +1405,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/wedneslay-uncensored-flinta-mic-english-stand-up-comedy-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/o3Yk71EQSCbuo26i7Oms_Heine%20Bar2.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/WoUWLbb7ScuwyazNbGeK_magrofeaturingrapturousopeningjazzwocheberlin2023clubgretchenullacbinderdscf9781.jpg",
         "city": "Berlin"
     },
     {
@@ -1455,7 +1455,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/freche-mowe-stand-up-comedy-kulturschloss-wandsbek-12/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aQDUOPTgTMmZDQhR6wgV_eichhoernchenfoto-loki-schmidt-stiftung.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/iALAKOYQcy9dS80whaUB_eventbrite-header-64.jpg",
         "city": "Hamburg"
     },
     {
@@ -1485,7 +1485,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/sarah-lesch-12/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/rECxKkeQEOzD4gsXuRwV_240720habitatsammybermudezdjheartstringcrowd13.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/qLxrj3rSSkT5l9Qp9EXp_250321reflektorbarsophiehungercleancpeteradamik17.jpg",
         "city": "Hamburg"
     },
     {
@@ -1505,7 +1505,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/standup-comedy-show-hafenbahnhof-altona-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/0PvGZy2QBGl6k1Guvh2m_rausgegangen-mk.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/y3mZyfqmRAKFF2CsmW2C_trash-island.jpg",
         "city": "Hamburg"
     },
     {
@@ -1599,12 +1599,22 @@
     },
     {
         "date": "Thu, 26.06.2025",
+        "time": "18:30",
+        "event": "FRISCH | Frankfurt Premiere @Harmonie Kino (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/frisch-frankfurt-premiere-harmonie-kino-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/9HkQCBQyTdmeSf7fl4nw_csmfw54big19ea987811d2.jpg",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Thu, 26.06.2025",
         "time": "19:00",
         "event": "Hidden Futures  ›Arbeit. Clicks and Crowds‹ (@Locations)",
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/hidden-futures-arbeit-clicks-and-crowds-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/XXQuN7xjT8ObXrlQ1Ems_0001_PACT_Jubilaeum_final_HiRes_DR24236-2.jpg",
         "city": "Essen"
     },
     {
@@ -1619,19 +1629,9 @@
     },
     {
         "date": "Thu, 26.06.2025",
-        "time": "15:30",
-        "event": "TUD Campus Festival • Live in Dresden 🌞 (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/tud-campus-festival-live-in-dresden-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eIbx80hOSySd1sFkXq5Q_hi24atmototalenlinetsoj-205007.jpg",
-        "city": "Dresden"
-    },
-    {
-        "date": "Thu, 26.06.2025",
         "time": "20:00",
         "event": "Indie-Frühparty! Turbo-Tanz-Treff (Münster) im Lola-Garten mit eavo (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/indie-fruhparty-turbo-tanz-treff-munster-im-lola-garten-mit--1/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/sRZMhFGDQzqGZALQn2qX_turbotanztreffheaderindie.jpg",
@@ -1639,33 +1639,13 @@
     },
     {
         "date": "Thu, 26.06.2025",
-        "time": "18:30",
-        "event": "FRISCH | Frankfurt Premiere @Harmonie Kino (@Locations)",
+        "time": "15:30",
+        "event": "TUD Campus Festival • Live in Dresden 🌞 (@Locations)",
         "category": "Sponsored",
         "description": "",
-        "link": "https://rausgegangen.de/en/events/frisch-frankfurt-premiere-harmonie-kino-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/9HkQCBQyTdmeSf7fl4nw_csmfw54big19ea987811d2.jpg",
-        "city": "Frankfurt"
-    },
-    {
-        "date": "Thu, 26.06.2025",
-        "time": "20:00",
-        "event": "BYWATER CALL - European Tour 2025 (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/bywater-call-european-tour-2025-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8JfJOb8WQyWCAxg9SDyw_apachesrave-l-partyphotographequentinchevriermars2025-13200dpi.jpg",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Thu, 26.06.2025",
-        "time": "20:30",
-        "event": "Feierabendkettenkarussell | Stefan Ebert & Tanjusch (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/feierabendkettenkarussell-stefan-ebert-tanjusch-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hZjWGvbkRuuBJgpa3O2f_teaser3waswannworausgegangen.jpg",
-        "city": "Stuttgart"
+        "link": "https://rausgegangen.de/en/events/tud-campus-festival-live-in-dresden-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LZu12cKHRiGAc6L8cefh_JEREMIAS_LEADPIC_QUER_DOMINIKFRIESS.jpg",
+        "city": "Dresden"
     },
     {
         "date": "Thu, 26.06.2025",
@@ -1679,12 +1659,32 @@
     },
     {
         "date": "Thu, 26.06.2025",
+        "time": "20:30",
+        "event": "Feierabendkettenkarussell | Stefan Ebert & Tanjusch (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/feierabendkettenkarussell-stefan-ebert-tanjusch-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wUl4oOjQQzqq7rAzVtiM_ed15ticket-header16zu9250522-1.jpg",
+        "city": "Stuttgart"
+    },
+    {
+        "date": "Thu, 26.06.2025",
+        "time": "20:00",
+        "event": "BYWATER CALL - European Tour 2025 (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/bywater-call-european-tour-2025-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Thu, 26.06.2025",
         "time": "18:30",
         "event": "Read & Yap w/lit.liebe im Covent Garden (@Locations)",
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/read-yap-wlitliebe-im-covent-garden-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/DZPoQ58PT1eqG1pMDFh5_leseparty-ticket.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/mU3MNE74TCdu1Y4WGVZu_lorenz-ticket.jpg",
         "city": "Düsseldorf"
     },
     {
@@ -1744,7 +1744,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/pohlmanns-nachtschicht-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/qLxrj3rSSkT5l9Qp9EXp_250321reflektorbarsophiehungercleancpeteradamik17.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/yiunpf6qobbn.jpg",
         "city": "Hamburg"
     },
     {
@@ -1764,7 +1764,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/st-pauli-comedy-club-54/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/DfjFZM4LRjepJs7LLBae_Bo%20L%C3%BCdersen%20%28%C2%A9Bo%20L%C3%BCdersen%29%20%283%29.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/xnE7E6USQW7GwjX86oO6_p27800x1600.jpg",
         "city": "Hamburg"
     },
     {
@@ -1874,6 +1874,36 @@
     },
     {
         "date": "Fri, 27.06.2025",
+        "time": "19:00",
+        "event": "LIMONADA – Sundowner (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/limonada-sundowner-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BvbigdryQtOU0I7FLMJA_fortuna-ticket-27062025-ab1-9h-kopie2.jpg",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Fri, 27.06.2025",
+        "time": "20:00",
+        "event": "Music Sneak energized by Süwag (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/music-sneak-energized-by-suwag-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/xTL5BuPLRvC42bZTaEv0_lucas-korner-music-sneak-114.jpg",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Fri, 27.06.2025",
+        "time": "20:30",
+        "event": "Comedy für Freunde - Open Mic (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/comedy-fur-freunde-open-mic-200/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/QXbjyqoqQ6q4lqtvRZjh_2402-mirco-buch-4776-lucas-fortaeller-1200x-q50.jpg",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Fri, 27.06.2025",
         "time": "19:30",
         "event": "Inception nach Christopher Nolan (@Locations)",
         "category": "Sponsored",
@@ -1895,6 +1925,16 @@
     {
         "date": "Fri, 27.06.2025",
         "time": "20:00",
+        "event": "Hendrik Quast // Hairkunft (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/hendrik-quast-hairkunft-8/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EHEqeYO2Rdeb2dr27mNt_quasthairkunfthighres-4871-copy-2.jpg",
+        "city": "Münster"
+    },
+    {
+        "date": "Fri, 27.06.2025",
+        "time": "20:00",
         "event": "Stand Up Comedy Show OPEN AIR (@Locations)",
         "category": "Sponsored",
         "description": "",
@@ -1906,51 +1946,11 @@
         "date": "Fri, 27.06.2025",
         "time": "22:00",
         "event": "TEENAGE DREAM (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/teenage-dream-90/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/R0xYvFOSaO390eOnOy9D_031920x1080pxklubkulturs.jpg",
         "city": "Dresden"
-    },
-    {
-        "date": "Fri, 27.06.2025",
-        "time": "20:00",
-        "event": "Hendrik Quast // Hairkunft (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/hendrik-quast-hairkunft-8/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EHEqeYO2Rdeb2dr27mNt_quasthairkunfthighres-4871-copy-2.jpg",
-        "city": "Münster"
-    },
-    {
-        "date": "Fri, 27.06.2025",
-        "time": "19:00",
-        "event": "LIMONADA – Sundowner (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/limonada-sundowner-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BvbigdryQtOU0I7FLMJA_fortuna-ticket-27062025-ab1-9h-kopie2.jpg",
-        "city": "Frankfurt"
-    },
-    {
-        "date": "Fri, 27.06.2025",
-        "time": "20:00",
-        "event": "Music Sneak energized by Süwag (@Locations)",
-        "category": "",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/music-sneak-energized-by-suwag-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/xTL5BuPLRvC42bZTaEv0_lucas-korner-music-sneak-114.jpg",
-        "city": "Frankfurt"
-    },
-    {
-        "date": "Fri, 27.06.2025",
-        "time": "20:30",
-        "event": "Comedy für Freunde - Open Mic (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/comedy-fur-freunde-open-mic-200/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/49pL5N7tTsiKFBU6tTVI_photo-2024-12-17-11-40-39.jpg",
-        "city": "Frankfurt"
     },
     {
         "date": "Fri, 27.06.2025",
@@ -1971,26 +1971,6 @@
         "link": "https://rausgegangen.de/en/events/craft-comedy-club-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RruUoZKTQ9SXZUu6414Z_bild-verden-rausgegangen.jpg",
         "city": "Bremen"
-    },
-    {
-        "date": "Fri, 27.06.2025",
-        "time": "23:00",
-        "event": "THREE SINS CLUB w/ Störgeräusche, Luzius, dnns.dnks, hotboysummer, Paulus • Hardtechno / Techno • Oma Doris, Dortmund (@Locations)",
-        "category": "",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/three-sins-club-hardtechno-oma-doris-dortmund-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/JtzJ8fBZRKaYqcnudsZ7_2025-06-22rooftop-4-event-banner.jpg",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Fri, 27.06.2025",
-        "time": "19:30",
-        "event": "Der Kredit (@Locations)",
-        "category": "",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/der-kredit-6/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zEZgG7tXST6QtDhQGaMa_045-kredit.jpg",
-        "city": "Stuttgart"
     },
     {
         "date": "Fri, 27.06.2025",
@@ -2075,8 +2055,28 @@
     {
         "date": "Fri, 27.06.2025",
         "time": "19:30",
-        "event": "SCHRENG SCHRENG & LA LA - Sommer Edition (@Locations)",
+        "event": "Der Kredit (@Locations)",
         "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/der-kredit-6/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zEZgG7tXST6QtDhQGaMa_045-kredit.jpg",
+        "city": "Stuttgart"
+    },
+    {
+        "date": "Fri, 27.06.2025",
+        "time": "23:00",
+        "event": "THREE SINS CLUB w/ Störgeräusche, Luzius, dnns.dnks, hotboysummer, Paulus • Hardtechno / Techno • Oma Doris, Dortmund (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/three-sins-club-hardtechno-oma-doris-dortmund-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Fri, 27.06.2025",
+        "time": "19:30",
+        "event": "SCHRENG SCHRENG & LA LA - Sommer Edition (@Locations)",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/schreng-schreng-la-la-sommer-edition-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/R4c5K43bReejBokEuXjD_gm25smfb4.jpg",
@@ -2119,14 +2119,14 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/perspectives-festival-rund-um-arbeit-it-new-work-und-wie-wir-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/y3mZyfqmRAKFF2CsmW2C_trash-island.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/xnE7E6USQW7GwjX86oO6_p27800x1600.jpg",
         "city": "Hamburg"
     },
     {
         "date": "Fri, 27.06.2025",
         "time": "17:30",
         "event": "After-Work Sauna Event (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/after-work-sauna-event-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Q2SsH5DWSuGAbcqMggne_webseite-event-1.jpg",
@@ -2301,6 +2301,36 @@
     },
     {
         "date": "Sat, 28.06.2025",
+        "time": "19:00",
+        "event": "Frühtanzparty Frankfurt (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/fruhtanzparty-frankfurt-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/oRP9dp6RieYJlT3koGRB_zoomclub.jpg",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Sat, 28.06.2025",
+        "time": "20:30",
+        "event": "Comedy für Freunde - early Stand-up Show (1 h) (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/comedy-fur-freunde-early-stand-up-show-1-h-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/QXbjyqoqQ6q4lqtvRZjh_2402-mirco-buch-4776-lucas-fortaeller-1200x-q50.jpg",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Sat, 28.06.2025",
+        "time": "22:00",
+        "event": "Unico (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/unico-34/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Sat, 28.06.2025",
         "time": "20:00",
         "event": "Der Nachbar (@Locations)",
         "category": "Sponsored",
@@ -2318,6 +2348,16 @@
         "link": "https://rausgegangen.de/en/events/golden-beats-die-u30-party-in-der-mupa-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
         "city": "Essen"
+    },
+    {
+        "date": "Sat, 28.06.2025",
+        "time": "19:00",
+        "event": "Ich fühl's! Queere Comedy und Poetry (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/ich-fuhls-queere-comedy-und-poetry-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/s1RR1GJqQVGdGv4Bt0cD_insta-post-cu-25-2-v12.jpg",
+        "city": "Münster"
     },
     {
         "date": "Sat, 28.06.2025",
@@ -2351,103 +2391,13 @@
     },
     {
         "date": "Sat, 28.06.2025",
-        "time": "19:00",
-        "event": "Ich fühl's! Queere Comedy und Poetry (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/ich-fuhls-queere-comedy-und-poetry-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/s1RR1GJqQVGdGv4Bt0cD_insta-post-cu-25-2-v12.jpg",
-        "city": "Münster"
-    },
-    {
-        "date": "Sat, 28.06.2025",
-        "time": "19:00",
-        "event": "Frühtanzparty Frankfurt (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/fruhtanzparty-frankfurt-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/oRP9dp6RieYJlT3koGRB_zoomclub.jpg",
-        "city": "Frankfurt"
-    },
-    {
-        "date": "Sat, 28.06.2025",
-        "time": "20:30",
-        "event": "Comedy für Freunde - early Stand-up Show (1 h) (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/comedy-fur-freunde-early-stand-up-show-1-h-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/QXbjyqoqQ6q4lqtvRZjh_2402-mirco-buch-4776-lucas-fortaeller-1200x-q50.jpg",
-        "city": "Frankfurt"
-    },
-    {
-        "date": "Sat, 28.06.2025",
-        "time": "22:00",
-        "event": "Unico (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/unico-34/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
-        "city": "Frankfurt"
-    },
-    {
-        "date": "Sat, 28.06.2025",
         "time": "16:00",
         "event": "Reggaeton Safari Open Air (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/reggaeton-safari-open-air-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/KenFWzsIRuOCjXyHIFrg_reggaetonsafari-2025-06-28-bremen.jpg",
         "city": "Bremen"
-    },
-    {
-        "date": "Sat, 28.06.2025",
-        "time": "22:00",
-        "event": "Dortmund XXL - 5 Partys in einer Nacht (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/dortmund-xxl-5-partys-in-einer-nacht-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 28.06.2025",
-        "time": "22:00",
-        "event": "ROCK IT! (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/rock-it-34/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/voGTlz3HQzeS33ixOD6U_rock-itbanner220324.jpg",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 28.06.2025",
-        "time": "19:00",
-        "event": "MY  PURPLE LOVE | OFFIZIELLE WARM UP PARTY DER STUTTGART PRIDE 2025 (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/my-purple-love-offizielle-warm-up-party-der-stuttgart-pride--0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/knMxlEBhSPO7JhY6uKMm_lp-x-mph-header-1920x1080-juni.jpg",
-        "city": "Stuttgart"
-    },
-    {
-        "date": "Sat, 28.06.2025",
-        "time": "20:00",
-        "event": "Feat. CelloFellos – Stuttgarter Kammerorchester (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/feat-cellofellos-stuttgarter-kammerorchester-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bpxwOIjtSSeQzwDpWyXr_skowaldshooting2022oredk11-9044.jpg",
-        "city": "Stuttgart"
-    },
-    {
-        "date": "Sat, 28.06.2025",
-        "time": "20:30",
-        "event": "Stuttgarter Erotik Slam (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/stuttgarter-erotik-slam-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zUdsRI9rTiWS4NYheuxk_eroslamfeb25rausgegangen.jpg",
-        "city": "Stuttgart"
     },
     {
         "date": "Sat, 28.06.2025",
@@ -2491,12 +2441,62 @@
     },
     {
         "date": "Sat, 28.06.2025",
+        "time": "19:00",
+        "event": "MY  PURPLE LOVE | OFFIZIELLE WARM UP PARTY DER STUTTGART PRIDE 2025 (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/my-purple-love-offizielle-warm-up-party-der-stuttgart-pride--0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/knMxlEBhSPO7JhY6uKMm_lp-x-mph-header-1920x1080-juni.jpg",
+        "city": "Stuttgart"
+    },
+    {
+        "date": "Sat, 28.06.2025",
+        "time": "20:00",
+        "event": "Feat. CelloFellos – Stuttgarter Kammerorchester (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/feat-cellofellos-stuttgarter-kammerorchester-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bpxwOIjtSSeQzwDpWyXr_skowaldshooting2022oredk11-9044.jpg",
+        "city": "Stuttgart"
+    },
+    {
+        "date": "Sat, 28.06.2025",
+        "time": "20:30",
+        "event": "Stuttgarter Erotik Slam (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/stuttgarter-erotik-slam-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zUdsRI9rTiWS4NYheuxk_eroslamfeb25rausgegangen.jpg",
+        "city": "Stuttgart"
+    },
+    {
+        "date": "Sat, 28.06.2025",
+        "time": "22:00",
+        "event": "Dortmund XXL - 5 Partys in einer Nacht (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/dortmund-xxl-5-partys-in-einer-nacht-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 28.06.2025",
+        "time": "22:00",
+        "event": "ROCK IT! (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/rock-it-34/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/voGTlz3HQzeS33ixOD6U_rock-itbanner220324.jpg",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 28.06.2025",
         "time": "18:30",
         "event": "Ü35 Speed Friending (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/u35-speed-friending-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4ZAH3P1ETUu85nBkJNay_startbild-hoch-neu-neu.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
         "city": "Düsseldorf"
     },
     {
@@ -2516,7 +2516,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/musikzimmer-distraction4ever-kanada-post-punk-new-wave-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FjU7gXm8QEG3U77cdzT7_2206marianadiaz0364534diesnerweb-2.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
         "city": "Düsseldorf"
     },
     {
@@ -2619,16 +2619,6 @@
     },
     {
         "date": "Sun, 29.06.2025",
-        "time": "16:00",
-        "event": "Boots Party (OPEN AIR) @ Fridas Pier - So. 29.06.25 (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/boots-party-open-air-fridas-pier-so-290625-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/gxw9VdeXToSYrp9azlIY_dji0008neues-wasser-2000x1121.jpg",
-        "city": "Stuttgart"
-    },
-    {
-        "date": "Sun, 29.06.2025",
         "time": "10:30",
         "event": "COFFEE PARTY RAVE VOLUME 2 (@Locations)",
         "category": "Sponsored",
@@ -2656,6 +2646,16 @@
         "link": "https://rausgegangen.de/en/events/karla-und-jomee-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ZiveOguVQAOsfmo1I0SZ_karla-jomeecopyright-by-anton-baranenko-lena-ures.jpg",
         "city": "Leipzig"
+    },
+    {
+        "date": "Sun, 29.06.2025",
+        "time": "16:00",
+        "event": "Boots Party (OPEN AIR) @ Fridas Pier - So. 29.06.25 (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/boots-party-open-air-fridas-pier-so-290625-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/gxw9VdeXToSYrp9azlIY_dji0008neues-wasser-2000x1121.jpg",
+        "city": "Stuttgart"
     },
     {
         "date": "Sun, 29.06.2025",
@@ -2853,10 +2853,10 @@
         "date": "Tue, 01.07.2025",
         "time": "20:00",
         "event": "fem_pop: Baaba J (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/fem-pop-baaba-j-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RKL0l6FSdetk5WR38e8o_dsc08554.jpg",
         "city": "Düsseldorf"
     },
     {
@@ -2937,7 +2937,7 @@
         "date": "Wed, 02.07.2025",
         "time": "20:00",
         "event": "Craft Comedy Open Mic (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/craft-comedy-open-mic-31/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/CqFNQszmRiyObVbTtoKF_sergio-alves-santos-PeDrafNlY2Y-unsplash.jpg",
@@ -2950,14 +2950,14 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/lange-weintafel-riesling-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4IDzCIdbQ5mC5c52GhfA_img5614.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Q2JCtiLYQOe81d36chDt_kopie-von-obenauf-details-6.jpg",
         "city": "Leipzig"
     },
     {
         "date": "Wed, 02.07.2025",
         "time": "19:30",
         "event": "Open Air Comedy Show im Felsenkeller (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/open-air-comedy-show-im-felsenkeller-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/2BBUnDXDT8wAvd2beu1w_coco-comedy-stand-up-leipzig-felsenkeller-2025.jpg",
@@ -3075,12 +3075,22 @@
     },
     {
         "date": "Fri, 04.07.2025",
+        "time": "21:00",
+        "event": "Ü40 Party Frankfurt (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/u40-party-frankfurt-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/G3C7f00RvqvHqV09NJxw_basicu40partywasserzeichen-kopie.jpg",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Fri, 04.07.2025",
         "time": "17:00",
         "event": "Kuult - Open Air am Donnerberg (@Locations)",
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/made-in-essen-kuult-meets-friends-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RIpbcRd7QiuGikelBVvd_rf24gelande-34.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/I3hHbK6uTpyImvWQhOJq_paula-hartmann15credit-jakob-furis.jpg",
         "city": "Essen"
     },
     {
@@ -3120,7 +3130,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/drauen-vor-der-tur-61/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RIpbcRd7QiuGikelBVvd_rf24gelande-34.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vGyCf6T0T8iS46Ql9V8X_Foto%20Team%201.jpg",
         "city": "Essen"
     },
     {
@@ -3135,29 +3145,9 @@
     },
     {
         "date": "Fri, 04.07.2025",
-        "time": "21:00",
-        "event": "Ü40 Party Frankfurt (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/u40-party-frankfurt-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/G3C7f00RvqvHqV09NJxw_basicu40partywasserzeichen-kopie.jpg",
-        "city": "Frankfurt"
-    },
-    {
-        "date": "Fri, 04.07.2025",
-        "time": "18:00",
-        "event": "Nachtflohmarkt im Kulturbunker [Summer Edition] (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/nachtflohmarkt-im-kulturbunker-summer-edition-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EGcuCnwQa6TBOllpmsws_ed14ticket-header16zu9-250522.jpg",
-        "city": "Stuttgart"
-    },
-    {
-        "date": "Fri, 04.07.2025",
         "time": "18:00",
         "event": "OG2G (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/og2g-1/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8U73WKPTAyDJzR236oN7_poster1920x1080.jpg",
@@ -3175,12 +3165,22 @@
     },
     {
         "date": "Fri, 04.07.2025",
+        "time": "18:00",
+        "event": "Nachtflohmarkt im Kulturbunker [Summer Edition] (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/nachtflohmarkt-im-kulturbunker-summer-edition-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wzPUk4G6TrCdHHJgGO5W_nikola-duza-fi6kmznklGQ-unsplash.jpg",
+        "city": "Stuttgart"
+    },
+    {
+        "date": "Fri, 04.07.2025",
         "time": "18:30",
         "event": "Speed Friending – Cozy Yapping Sessions (@Locations)",
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/speed-friending-cozy-yapping-sessions-7/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/yGqjlu52TXysmj31pVFW_71c0a19de0e84f4e1c4cf2a8d0fd397c0c18a7mv2.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/U0URK4MGTYWK88kwGMMa_miriamlea-ticket.jpg",
         "city": "Düsseldorf"
     },
     {
@@ -3236,16 +3236,6 @@
     },
     {
         "date": "Sat, 05.07.2025",
-        "time": "19:00",
-        "event": "Alexander Marcus • \"Robotus - Das Finale 2025\" • Live in Dresden 🤖 (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/alexander-marcus-robotus-das-finale-2025-live-in-dresden-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/X9r6Q7OTQsKSthtC6fiA_landstreicherkonzertealexandermarcusc-landry.jpg",
-        "city": "Dresden"
-    },
-    {
-        "date": "Sat, 05.07.2025",
         "time": "10:00",
         "event": "Street Art Tour App Frankfurt – Entdecke das kreative Ostend 🎨 (@Locations)",
         "category": "Sponsored",
@@ -3258,10 +3248,10 @@
         "date": "Sat, 05.07.2025",
         "time": "19:30",
         "event": "Proud Laughs - Funny Females and Friends* Pride Month Special (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/proud-laughs-funny-females-and-friends-pride-month-special-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/knHcfjGcQPaUKDmNxCep_paolo-chiabrando-G16kFHYvCoQ-unsplash.jpg",
         "city": "Frankfurt"
     },
     {
@@ -3276,43 +3266,23 @@
     },
     {
         "date": "Sat, 05.07.2025",
+        "time": "19:00",
+        "event": "Alexander Marcus • \"Robotus - Das Finale 2025\" • Live in Dresden 🤖 (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/alexander-marcus-robotus-das-finale-2025-live-in-dresden-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/X9r6Q7OTQsKSthtC6fiA_landstreicherkonzertealexandermarcusc-landry.jpg",
+        "city": "Dresden"
+    },
+    {
+        "date": "Sat, 05.07.2025",
         "time": "20:00",
         "event": "Crossings II: Kommas Ensemble x gabb (@Locations)",
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/crossings-ii-kommas-ensemble-x-gabb-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wfTRGzGQeKiEDI3tAbSX_23-madcaddies-pic.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPQnF1XKSASKDVSy2Lo9_breminale-06-07-24-1laura-homuth.jpg",
         "city": "Bremen"
-    },
-    {
-        "date": "Sat, 05.07.2025",
-        "time": "19:00",
-        "event": "Der kleine Vampir und die große Liebe (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/junges-ensemble-kulturbrigaden-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 05.07.2025",
-        "time": "20:00",
-        "event": "Die Comedy Werkstatt im Disc golf - Center Dortmund (@Locations)",
-        "category": "",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/die-comedy-werkstatt-im-disc-golf-center-dortmund-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aWYiA3slQd2XIT0PQgFk_img6251.jpg",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 05.07.2025",
-        "time": "22:00",
-        "event": "SWEET DREAMS - My 80s Mixtape (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/sweet-dreams-my-80s-mixtape-12/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vwsha6JSb2KhwK43OceQ_050725sweet-dreamsbanner.jpg",
-        "city": "Dortmund"
     },
     {
         "date": "Sat, 05.07.2025",
@@ -3341,8 +3311,38 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/mixed-music-night-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/H4boysjRKaQgVkfIvuRN_der-rote-wal-c-matthias-baus-1.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wUl4oOjQQzqq7rAzVtiM_ed15ticket-header16zu9250522-1.jpg",
         "city": "Stuttgart"
+    },
+    {
+        "date": "Sat, 05.07.2025",
+        "time": "19:00",
+        "event": "Der kleine Vampir und die große Liebe (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/junges-ensemble-kulturbrigaden-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7hLBhkzJStmjnQaRw65U_OX7A8484.jpg",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 05.07.2025",
+        "time": "20:00",
+        "event": "Die Comedy Werkstatt im Disc golf - Center Dortmund (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/die-comedy-werkstatt-im-disc-golf-center-dortmund-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aWYiA3slQd2XIT0PQgFk_img6251.jpg",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 05.07.2025",
+        "time": "22:00",
+        "event": "SWEET DREAMS - My 80s Mixtape (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/sweet-dreams-my-80s-mixtape-12/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vwsha6JSb2KhwK43OceQ_050725sweet-dreamsbanner.jpg",
+        "city": "Dortmund"
     },
     {
         "date": "Sat, 05.07.2025",
@@ -3408,26 +3408,6 @@
     },
     {
         "date": "Sun, 06.07.2025",
-        "time": "16:00",
-        "event": "„Heinz Erhardt & Peter Alexander“ – Musikalische Komödie auf der Seebühne im Westfalenpark Dortmund (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/erhardt-alexander-musikalische-komodie-auf-der-seebuhne-im-w-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sun, 06.07.2025",
-        "time": "18:00",
-        "event": "Date My Mate 💖 Powerpoint-Dating im White Noise (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/date-my-mate-powerpoint-dating-im-white-noise-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4DxUrB8yStuHwSkrZaGt_250602rausgegangenheader2.jpg",
-        "city": "Stuttgart"
-    },
-    {
-        "date": "Sun, 06.07.2025",
         "time": "11:00",
         "event": "Viva La Vulva Aquarellworkshop (@Locations)",
         "category": "Sponsored",
@@ -3445,6 +3425,26 @@
         "link": "https://rausgegangen.de/en/events/cumulus-und-die-reise-nach-hause-5/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jra5FhzxTHeXhLWDK2ZQ_cumulus-plakat.jpg",
         "city": "Leipzig"
+    },
+    {
+        "date": "Sun, 06.07.2025",
+        "time": "18:00",
+        "event": "Date My Mate 💖 Powerpoint-Dating im White Noise (@Locations)",
+        "category": "",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/date-my-mate-powerpoint-dating-im-white-noise-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4DxUrB8yStuHwSkrZaGt_250602rausgegangenheader2.jpg",
+        "city": "Stuttgart"
+    },
+    {
+        "date": "Sun, 06.07.2025",
+        "time": "16:00",
+        "event": "„Heinz Erhardt & Peter Alexander“ – Musikalische Komödie auf der Seebühne im Westfalenpark Dortmund (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/erhardt-alexander-musikalische-komodie-auf-der-seebuhne-im-w-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8A2LI2UaTZydy2tsZKfy_56annika-neuhaus.jpg",
+        "city": "Dortmund"
     },
     {
         "date": "Sun, 06.07.2025",
@@ -3503,7 +3503,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/smash-comedy-die-queerfeministische-stand-up-show-von-female-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/htxbFZwQTLSGdqk9tSkE_Schwessi_Pressefoto_Tine_Acke.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
         "city": "Frankfurt"
     },
     {
@@ -3543,10 +3543,10 @@
         "date": "Tue, 08.07.2025",
         "time": "19:00",
         "event": "GÖTZ ALSMANN (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/gotz-alsmann-9/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//askhelmut.s3.amazonaws.com/uploads/image/file/141707/DSC_0937.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EAspds3oRX6srLKEN4f2_ck-peterlicht24-100-.jpg",
         "city": "Leipzig"
     },
     {
@@ -3609,7 +3609,7 @@
         "date": "Wed, 09.07.2025",
         "time": "19:00",
         "event": "Pizza & Politik zur Landtagswahl (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/pizza-politik-zur-landtagswahl-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/cwUcyTFtRkKUYDCJSRt9_250708-wisibu-pizza-und-politik-foto-jugendgoeszukunft-ev02.jpg",
@@ -3619,10 +3619,10 @@
         "date": "Wed, 09.07.2025",
         "time": "20:00",
         "event": "Feierabend-Gartenkonzert | Martin Betz (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/feierabend-gartenkonzert-martin-betz-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EGcuCnwQa6TBOllpmsws_ed14ticket-header16zu9-250522.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5CAHc3KQIeZhBR8a8EEx_sommerkonzerte-logo.jpg",
         "city": "Stuttgart"
     },
     {
@@ -3762,13 +3762,13 @@
     },
     {
         "date": "Fri, 11.07.2025",
-        "time": "17:00",
-        "event": "Provinz \"Pazifik\" • Open Airs 2025 (@Locations)",
-        "category": "Sponsored",
+        "time": "21:00",
+        "event": "Sommerfest (@Locations)",
+        "category": "",
         "description": "",
-        "link": "https://rausgegangen.de/en/events/provinz-pazifik-open-airs-2025-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GgLC5EbQpWuRumGdGXg2_provinz-open-airs-fb-banner.jpg",
-        "city": "Dresden"
+        "link": "https://rausgegangen.de/en/events/sommerfest-303/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5GhAWUZT6yTP1WnqNkni_fiinstagram-250711-1210x450.jpg",
+        "city": "Frankfurt"
     },
     {
         "date": "Fri, 11.07.2025",
@@ -3782,23 +3782,13 @@
     },
     {
         "date": "Fri, 11.07.2025",
-        "time": "21:00",
-        "event": "Sommerfest (@Locations)",
-        "category": "Sponsored",
+        "time": "17:00",
+        "event": "Provinz \"Pazifik\" • Open Airs 2025 (@Locations)",
+        "category": "",
         "description": "",
-        "link": "https://rausgegangen.de/en/events/sommerfest-303/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5GhAWUZT6yTP1WnqNkni_fiinstagram-250711-1210x450.jpg",
-        "city": "Frankfurt"
-    },
-    {
-        "date": "Fri, 11.07.2025",
-        "time": "22:00",
-        "event": "PLANET POP • Guilty Pleasures / 90s / 00s / 10s • Stollen134, Dortmund (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/planet-pop-guilty-pleasures-90s-00s-10s-stollen134-dortmund-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/g51YKwywSK6GHOC9EwA0_logo_neu.jpg",
-        "city": "Dortmund"
+        "link": "https://rausgegangen.de/en/events/provinz-pazifik-open-airs-2025-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GgLC5EbQpWuRumGdGXg2_provinz-open-airs-fb-banner.jpg",
+        "city": "Dresden"
     },
     {
         "date": "Fri, 11.07.2025",
@@ -3819,6 +3809,16 @@
         "link": "https://rausgegangen.de/en/events/true-love-w-script-fr-1107-kowalski-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/F3Hge1rYTFeI6A6W8hMe_promo-3-1.jpg",
         "city": "Stuttgart"
+    },
+    {
+        "date": "Fri, 11.07.2025",
+        "time": "22:00",
+        "event": "PLANET POP • Guilty Pleasures / 90s / 00s / 10s • Stollen134, Dortmund (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/planet-pop-guilty-pleasures-90s-00s-10s-stollen134-dortmund-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
+        "city": "Dortmund"
     },
     {
         "date": "Fri, 11.07.2025",
@@ -3905,6 +3905,16 @@
     },
     {
         "date": "Sat, 12.07.2025",
+        "time": "12:00",
+        "event": "Love Family Park 2025 (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/love-family-park-4/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Sat, 12.07.2025",
         "time": "18:00",
         "event": "International Summer Battle (@Locations)",
         "category": "Sponsored",
@@ -3925,32 +3935,12 @@
     },
     {
         "date": "Sat, 12.07.2025",
-        "time": "12:00",
-        "event": "Love Family Park 2025 (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/love-family-park-4/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
-        "city": "Frankfurt"
-    },
-    {
-        "date": "Sat, 12.07.2025",
-        "time": "18:00",
-        "event": "Provinz \"Pazifik\" • Open Airs 2025 (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/provinz-pazifik-open-airs-2025-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GgLC5EbQpWuRumGdGXg2_provinz-open-airs-fb-banner.jpg",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 12.07.2025",
         "time": "11:00",
         "event": "WET Open Air (@Locations)",
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/wet-open-air-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/465gpfQWRx2M8jlmAojS_staatsgaleriestand-uppressebild691920x1080.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EGcuCnwQa6TBOllpmsws_ed14ticket-header16zu9-250522.jpg",
         "city": "Stuttgart"
     },
     {
@@ -3962,6 +3952,16 @@
         "link": "https://rausgegangen.de/en/events/elektronisch-draussen-wagenhallen-4/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wUl4oOjQQzqq7rAzVtiM_ed15ticket-header16zu9250522-1.jpg",
         "city": "Stuttgart"
+    },
+    {
+        "date": "Sat, 12.07.2025",
+        "time": "18:00",
+        "event": "Provinz \"Pazifik\" • Open Airs 2025 (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/provinz-pazifik-open-airs-2025-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GgLC5EbQpWuRumGdGXg2_provinz-open-airs-fb-banner.jpg",
+        "city": "Dortmund"
     },
     {
         "date": "Sat, 12.07.2025",
@@ -4216,7 +4216,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/geheimkonzert-dresden-sommergefuhle-edition-by-rausgegangen-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/X9r6Q7OTQsKSthtC6fiA_landstreicherkonzertealexandermarcusc-landry.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/G1jy2MScSM6ieGyjn36D_blackseadahu-amoursurmarspress1andrinfretz.jpg",
         "city": "Dresden"
     },
     {
@@ -4233,7 +4233,7 @@
         "date": "Thu, 17.07.2025",
         "time": "20:00",
         "event": "Coming Home – Cello World Music mit Abel Selaocoe (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/coming-home-stuttgarter-kammerorchester-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/huveFVQmT16cpgV5Tq5i_abelselaocoecchristinaebenezer2x.jpg",
@@ -4265,16 +4265,6 @@
     },
     {
         "date": "Fri, 18.07.2025",
-        "time": "19:30",
-        "event": "Black Sea Dahu feat. Amour Sur Mars | Live 2025 (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/black-sea-dahu-feat-amour-sur-mars-live-2025-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/G1jy2MScSM6ieGyjn36D_blackseadahu-amoursurmarspress1andrinfretz.jpg",
-        "city": "Dresden"
-    },
-    {
-        "date": "Fri, 18.07.2025",
         "time": "23:00",
         "event": "Take Me Out Münster - die Indieparty mit eavo im Hot Club (@Locations)",
         "category": "Sponsored",
@@ -4282,6 +4272,16 @@
         "link": "https://rausgegangen.de/en/events/take-me-out-munster-die-indieparty-mit-eavo-im-hot-club-9/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/oO5s9TdpSmKkx0AhhxG2_tmoheadercreme.jpg",
         "city": "Münster"
+    },
+    {
+        "date": "Fri, 18.07.2025",
+        "time": "19:30",
+        "event": "Black Sea Dahu feat. Amour Sur Mars | Live 2025 (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/black-sea-dahu-feat-amour-sur-mars-live-2025-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/G1jy2MScSM6ieGyjn36D_blackseadahu-amoursurmarspress1andrinfretz.jpg",
+        "city": "Dresden"
     },
     {
         "date": "Fri, 18.07.2025",
@@ -4343,16 +4343,6 @@
     },
     {
         "date": "Sat, 19.07.2025",
-        "time": "23:00",
-        "event": "Modern Love Münster - 80s New Wave, Synth & Pop im Hot Club (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/modern-love-munster-80s-new-wave-synth-pop-im-hot-club-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/C8GdqxR3ipwlSptmlDAn_jens-thekkeveettil-dbwvuqboou8-unsplash.jpg",
-        "city": "Münster"
-    },
-    {
-        "date": "Sat, 19.07.2025",
         "time": "15:00",
         "event": "smile. Festival x Boulderhalle Dynochrom (@Locations)",
         "category": "Sponsored",
@@ -4370,6 +4360,16 @@
         "link": "https://rausgegangen.de/en/events/ohrwurmer-party-das-beste-aus-den-80er-90er-und-2000er-jahre-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/oRP9dp6RieYJlT3koGRB_zoomclub.jpg",
         "city": "Frankfurt"
+    },
+    {
+        "date": "Sat, 19.07.2025",
+        "time": "23:00",
+        "event": "Modern Love Münster - 80s New Wave, Synth & Pop im Hot Club (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/modern-love-munster-80s-new-wave-synth-pop-im-hot-club-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/C8GdqxR3ipwlSptmlDAn_jens-thekkeveettil-dbwvuqboou8-unsplash.jpg",
+        "city": "Münster"
     },
     {
         "date": "Sat, 19.07.2025",
@@ -4578,7 +4578,7 @@
         "date": "Thu, 24.07.2025",
         "time": "20:00",
         "event": "Indie-Frühparty! Turbo-Tanz-Treff (Münster) im Lola-Garten mit eavo (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/indie-fruhparty-turbo-tanz-treff-munster-im-lola-garten-mit--2/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lo8grbJTGuvz3CTvl22D_turbotanztreffheaderindie.jpg",
@@ -4623,7 +4623,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/die-90er-party-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/G1jy2MScSM6ieGyjn36D_blackseadahu-amoursurmarspress1andrinfretz.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wFzqLGo4ThSPPMKwHD8p_%40Max%20Hartmann.jpg",
         "city": "Dresden"
     },
     {
@@ -4709,7 +4709,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/indie-disco-13/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/z9m9nnSSqTl0Q21RuOQ3_GrooveStation-Dresden_Aussenaufnahme.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/G1jy2MScSM6ieGyjn36D_blackseadahu-amoursurmarspress1andrinfretz.jpg",
         "city": "Dresden"
     },
     {
@@ -4919,7 +4919,7 @@
         "date": "Sat, 02.08.2025",
         "time": "12:00",
         "event": "smile. Festival im Maislabyrinth (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/smile-festival-im-maislabyrinth-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TedZj4nQ1ybzELmcYwuu_smile-festival-im-maislabyrinth-02-august.jpg",
@@ -5082,13 +5082,13 @@
     },
     {
         "date": "Thu, 07.08.2025",
-        "time": "20:00",
-        "event": "Brujeria (@Locations)",
+        "time": "19:00",
+        "event": "Geheimkonzert Frankfurt | SUMMER OPEN AIR EDITION ☀️ by Rausgegangen (@Locations)",
         "category": "Sponsored",
         "description": "",
-        "link": "https://rausgegangen.de/en/events/brujeria-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/W4ZE0ckAQgmY2Chxt9Tu_brujeria-band-photo-credit-gorka-rodrigo.jpg",
-        "city": "Dresden"
+        "link": "https://rausgegangen.de/en/events/geheimkonzert-frankfurt-summer-open-air-edition-by-rausgegan-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FAbLEdX7SOMbvKeG2KRa_donny-jiang-tnAfvEoGfBc-unsplash.jpg",
+        "city": "Frankfurt"
     },
     {
         "date": "Thu, 07.08.2025",
@@ -5102,13 +5102,13 @@
     },
     {
         "date": "Thu, 07.08.2025",
-        "time": "19:00",
-        "event": "Geheimkonzert Frankfurt | SUMMER OPEN AIR EDITION ☀️ by Rausgegangen (@Locations)",
+        "time": "20:00",
+        "event": "Brujeria (@Locations)",
         "category": "Sponsored",
         "description": "",
-        "link": "https://rausgegangen.de/en/events/geheimkonzert-frankfurt-summer-open-air-edition-by-rausgegan-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FAbLEdX7SOMbvKeG2KRa_donny-jiang-tnAfvEoGfBc-unsplash.jpg",
-        "city": "Frankfurt"
+        "link": "https://rausgegangen.de/en/events/brujeria-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/W4ZE0ckAQgmY2Chxt9Tu_brujeria-band-photo-credit-gorka-rodrigo.jpg",
+        "city": "Dresden"
     },
     {
         "date": "Fr, 08.08",
@@ -5149,7 +5149,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/hill-of-dreams-2025-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/87kMbRIROuEJ3zaOz85w_hodhqauflosungsa-54.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPQnF1XKSASKDVSy2Lo9_breminale-06-07-24-1laura-homuth.jpg",
         "city": "Bremen"
     },
     {
@@ -5344,10 +5344,10 @@
         "date": "Thu, 14.08.2025",
         "time": "18:30",
         "event": "Geheimkonzert Essen | SUMMER OPEN AIR EDITION  ☀️ by Rausgegangen (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/geheimkonzert-essen-summer-open-air-edition-by-rausgegangen-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/oLsBEd2CRQyKczbGorrc_71af080a-787a-4eb2-8e76-09084d49bc6f.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/tsV7DW3zTA2gxlpyOIyO_mythos-amerikafoto-von-miriam-glaser.jpg",
         "city": "Essen"
     },
     {
@@ -5380,7 +5380,7 @@
         "date": "Fri, 15.08.2025",
         "time": "23:00",
         "event": "Take Me Out Münster - die Indieparty mit eavo im Hot Club (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/take-me-out-munster-die-indieparty-mit-eavo-im-hot-club-10/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wUFHGaITVm1zA0K0zzAY_tmoheadercreme.jpg",
@@ -5639,10 +5639,10 @@
         "date": "Sat, 23.08.2025",
         "time": "19:15",
         "event": "01099 - Sommer Open Airs 2025 (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/01099-sommer-open-airs-2025-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wFzqLGo4ThSPPMKwHD8p_%40Max%20Hartmann.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/1gWjpN3rTfSxyLAjkVTg_dmf-liebe-programm-veranstaltungen-konzert-50.jpg",
         "city": "Dresden"
     },
     {
@@ -5840,7 +5840,7 @@
         "date": "Fri, 29.08.2025",
         "time": "19:00",
         "event": "Antilopen Gang präsentiert:  ANTILOPEN AIR 2025 Dresden (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/antilopen-gang-prasentiert-antilopen-air-2025-dresden-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Gt9WzxXTMS1h6B9dOJws_29antilopen-air.jpg",
@@ -6229,7 +6229,7 @@
         "date": "Sun, 07.09.2025",
         "time": "20:00",
         "event": "LUCA VASTA - \"TI VOGLIO BENE\" TOUR 2025 (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/luca-vasta-ti-voglio-bene-tour-2025-1/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/VLE1sSJJTIesnHPuBnNf_estate-coverjordann-wood.jpg",
@@ -6488,7 +6488,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/regener-pappik-busch-4/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4jmZ3854Q8uvGv9dFER2_BoBxDomicil-135.jpg",
         "city": "Dortmund"
     },
     {
@@ -6616,7 +6616,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/7stages-comedy-open-mic-30/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GZ5FNsPnSwGSZ8rBvjwk_fishnchips-web-1920-1080.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
         "city": "Dortmund"
     },
     {
@@ -6761,7 +6761,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/7stages-comedy-open-mic-25/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/I3hHbK6uTpyImvWQhOJq_paula-hartmann15credit-jakob-furis.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RIpbcRd7QiuGikelBVvd_rf24gelande-34.jpg",
         "city": "Essen"
     },
     {
@@ -6781,7 +6781,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/gysi-gegen-guttenberg-6/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ggIPPJ6XQiKDwGN3eomU_6%20Saal%20%284%29.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bjo0ffIMRJyaaJjxOBrQ_nsh-logo-mittelzentriert.jpg",
         "city": "Bremen"
     },
     {
@@ -6913,7 +6913,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/zoot-woman-live-2025-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eIbx80hOSySd1sFkXq5Q_hi24atmototalenlinetsoj-205007.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ALi2U4sTu6i06AAvsKuS_Pic4jpg.jpg",
         "city": "Dresden"
     },
     {
@@ -6999,7 +6999,7 @@
         "date": "Sat, 27.09.2025",
         "time": "19:00",
         "event": "JAS /// Erinnerst Du Dich Tour 2025 (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/jas-erinnerst-du-dich-tour-2025-2/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/uiximfJYQMO7tAZpefNu_jasc2oskardombrowsky-0325.jpg",
@@ -7228,16 +7228,6 @@
     },
     {
         "date": "Thu, 02.10.2025",
-        "time": "19:00",
-        "event": "Power Plush - Love Language Tour 2025 (@Locations)",
-        "category": "Sponsored",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/power-plush-love-language-tour-2025-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Kkflieg0S8eYBHSmvq4m_power-plush-pressefoto4.jpg",
-        "city": "Dresden"
-    },
-    {
-        "date": "Thu, 02.10.2025",
         "time": "20:00",
         "event": "JEREMIAS - \"DU MUSST KEINEM GEFALLEN\" TOUR 2025 (@Locations)",
         "category": "Sponsored",
@@ -7245,6 +7235,16 @@
         "link": "https://rausgegangen.de/en/events/jeremias-du-musst-keinem-gefallen-tour-2025-2/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/iHMlMuweSQnzvc94jdC7_JEREMIAS_LEADPIC_QUER_DOMINIKFRIESS.jpg",
         "city": "Münster"
+    },
+    {
+        "date": "Thu, 02.10.2025",
+        "time": "19:00",
+        "event": "Power Plush - Love Language Tour 2025 (@Locations)",
+        "category": "Sponsored",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/power-plush-love-language-tour-2025-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Kkflieg0S8eYBHSmvq4m_power-plush-pressefoto4.jpg",
+        "city": "Dresden"
     },
     {
         "date": "Thu, 02.10.2025",
@@ -7310,7 +7310,7 @@
         "date": "Fri, 03.10.2025",
         "time": "19:00",
         "event": "Teuterekordz - Total Raus Tour 2025 (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/teuterekordz-total-raus-tour-2025-2/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/NkFvQM0qRdmH4yQMjAGm_philippgladsome-2-16.jpg",
@@ -7381,14 +7381,14 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/scott-bradlees-postmodern-jukebox-magic-and-moonlight-tour-2-8/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GgLC5EbQpWuRumGdGXg2_provinz-open-airs-fb-banner.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/G1jy2MScSM6ieGyjn36D_blackseadahu-amoursurmarspress1andrinfretz.jpg",
         "city": "Dresden"
     },
     {
         "date": "Sun, 05.10.2025",
         "time": "18:30",
         "event": "The Simon & Garfunkel Story (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/the-simon-garfunkel-story-13/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lnKgRT1aSpyUJ9w0HCHb_simon-garfunkel-master-lslogo16x9.jpg",
@@ -7451,14 +7451,14 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/anzueglich-comedy-double-feature-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/I3hHbK6uTpyImvWQhOJq_paula-hartmann15credit-jakob-furis.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/r9oZKy3cR5ytevMy1hdf_coffee-5495609_1280.jpg",
         "city": "Essen"
     },
     {
         "date": "Tue, 07.10.2025",
         "time": "20:00",
         "event": "DISARSTAR /// Tour 2025/26 (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/disarstar-tour-202526-1/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ebLIGwWQ9SQyYmMXhahw_pexels-madelynemery-800627.jpg",
@@ -7468,7 +7468,7 @@
         "date": "Tue, 07.10.2025",
         "time": "19:00",
         "event": "Teuterekordz - Total Raus Tour 2025 (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/teuterekordz-total-raus-tour-2025-5/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/NkFvQM0qRdmH4yQMjAGm_philippgladsome-2-16.jpg",
@@ -7763,7 +7763,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/luisa-neubauer-was-ware-wenn-wir-mutig-sind-6/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/gLMrsHCQR4OhGbaKOdtW_else-plakat.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/s1RR1GJqQVGdGv4Bt0cD_insta-post-cu-25-2-v12.jpg",
         "city": "Münster"
     },
     {
@@ -7811,7 +7811,7 @@
         "date": "Wed, 15.10.2025",
         "time": "19:00",
         "event": "Luisa Neubauer /// Was wäre, wenn wir mutig sind? (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/luisa-neubauer-was-ware-wenn-wir-mutig-sind-7/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Lk9BNefQFGKlBRK2burC_a_DSC_0023.jpg",
@@ -7821,7 +7821,7 @@
         "date": "Wed, 15.10.2025",
         "time": "19:00",
         "event": "Power Plush - Love Language Tour 2025 (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/power-plush-love-language-tour-2025-6/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Kkflieg0S8eYBHSmvq4m_power-plush-pressefoto4.jpg",
@@ -7949,7 +7949,7 @@
         "date": "Sat, 18.10.2025",
         "time": "18:00",
         "event": "Ruhrpott-Carpaccio - DIE SHOW mit Fritze (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/ruhrpott-carpaccio-die-show-mit-fritze-12/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/nreGF935RWKHa7aY5bDK_telefon-mit-rsd2-kopie.jpg",
@@ -8204,7 +8204,7 @@
         "date": "Sat, 25.10.2025",
         "time": "19:30",
         "event": "Elena Gruschka live – Die Horrorshow: Selbstüberschätzte Egofrau auf der Bühne (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/elena-gruschka-live-die-horrorshow-selbstuberschatzte-egofra-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zvULgPApQIu0cAkGXYfA_elenagruschkacbellalieberberg1224.jpg",
@@ -8214,7 +8214,7 @@
         "date": "Sat, 25.10.2025",
         "time": "19:00",
         "event": "Akne Kid Joe - Sauer & Enttäuscht (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/akne-kid-joe-sauer-enttauscht-2/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/rtge7HK8Q6pAK10ioiAQ_titelbild-quadrat.jpg",
@@ -8434,7 +8434,7 @@
         "date": "Sun, 02.11.2025",
         "time": "19:00",
         "event": "ANDA MORTS - JETZT ABER WIRKLICH (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/anda-morts-jetzt-aber-wirklich-6/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ye1V8LrQvGbrNCSvr0x9_1-main-anda-morts-24-c-adrian-walter.jpg",
@@ -8673,7 +8673,7 @@
         "date": "Sat, 08.11.2025",
         "time": "18:00",
         "event": "OLDSCHOOL THRASH METAL from the 80s (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/oldschool-thrash-metal-from-the-80s-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/PjX3F9GzSP6aBXbYqrw3_20251108-junkyard-dortmund-webseite-banner.jpg",
@@ -8805,7 +8805,7 @@
         "date": "Wed, 12.11.2025",
         "time": "20:00",
         "event": "Carlo 5 - Fernweh Tour (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/carlo-5-fernweh-tour-5/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/xxkTNjAdQaqAUP4rCs8a_normankeutgen20250318carlo5tour59988.jpg",
@@ -8863,7 +8863,7 @@
         "date": "Thu, 13.11.2025",
         "time": "19:30",
         "event": "BROM - Beierbach / Roder / Marien (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/brom-beierbach-roder-marien-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/z0JzWr5kQzyFbsHwwlZj_brom-besser-calexanderbeierbach-sw03.jpg",
@@ -9134,7 +9134,7 @@
         "date": "Thu, 20.11.2025",
         "time": "19:00",
         "event": "Lara Hulo - HEARTFIX Tour 25 (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/lara-hulo-22/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zcTkZrLeRMm4XUlinD6y_lara-hulo-heart-fix-tour-kachel.jpg",
@@ -9144,7 +9144,7 @@
         "date": "Thu, 20.11.2025",
         "time": "20:00",
         "event": "Buntspecht \"K5\"-Tour (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/buntspecht-k5-tour-1/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/byiykcBQkan3rK5426m7_header-1181x365.jpg",
@@ -9209,7 +9209,7 @@
         "date": "Sat, 22.11.2025",
         "time": "19:00",
         "event": "Pudeldame - Kein Schlechtes Wetter Tour (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/pudeldame-kein-schlechtes-wetter-tour-1/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/gkSGYWmATEOJJuLydbWc_website1360x620.jpg",
@@ -10356,7 +10356,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/tina-dico-helgi-jonsson-the-road-tour-2026-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RIpbcRd7QiuGikelBVvd_rf24gelande-34.jpg",
         "city": "Essen"
     },
     {
