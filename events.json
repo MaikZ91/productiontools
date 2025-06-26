@@ -16,30 +16,6 @@
         "image_url": null
     },
     {
-        "date": "Do, 26.06.2025",
-        "time": "16:30",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 26.06.2025",
-        "time": "17:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 26.06.2025",
-        "time": "18:30",
-        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35658",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
         "date": "Th, 26.06.2025",
         "time": "18:00",
         "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
@@ -70,6 +46,30 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Do, 26.06.2025",
+        "time": "16:30",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 26.06.2025",
+        "time": "17:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 26.06.2025",
+        "time": "18:30",
+        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35658",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Do, 26.06.2025",
@@ -106,7 +106,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/bonvivant-x-wanda-veganer-glutenfreier-brunch-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/F5o2JmC0TbS2XnsLZc9B_banner-brunch.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6fH4ZPMjQmGhiUXo7vcK_rambozamboimagetype1920x1080.jpg",
         "city": "Berlin"
     },
     {
@@ -153,7 +153,7 @@
         "date": "Thu, 26.06.2025",
         "time": "20:00",
         "event": "Latto (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/latto-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EYOH5zexSSeNDY1pVvXU_glainstagramlatto20254.jpg",
@@ -169,14 +169,6 @@
         "link": "https://www.bielefeld.jetzt/node/1065307"
     },
     {
-        "date": "Fri, 27.06",
-        "time": "23:00",
-        "event": "20ZIG 10ER (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/20zig-10er/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/05/Stereo_27_0625_Feed.jpg"
-    },
-    {
         "date": "Fr, 27.06",
         "time": "23:00",
         "event": "FR • 2010 FLASHBACK (@cafe_europa_bi)",
@@ -185,28 +177,12 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/05/20250627_2010Flashback_4zu5.jpg"
     },
     {
-        "date": "Fr, 27.06.2025",
-        "time": "16:00",
-        "event": "Volleyball(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35417",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Fr, 27.06.2025",
-        "time": "18:00",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35506",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Fr, 27.06.2025",
-        "time": "18:30",
-        "event": "Laufen(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35520",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+        "date": "Fri, 27.06",
+        "time": "23:00",
+        "event": "20ZIG 10ER (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/20zig-10er/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/05/Stereo_27_0625_Feed.jpg"
     },
     {
         "date": "Fr, 27.06.2025",
@@ -231,6 +207,30 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 27.06.2025",
+        "time": "16:00",
+        "event": "Volleyball(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35417",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 27.06.2025",
+        "time": "18:00",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35506",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 27.06.2025",
+        "time": "18:30",
+        "event": "Laufen(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35520",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Fr, 27.06.2025",
@@ -268,7 +268,7 @@
         "date": "Fri, 27.06.2025",
         "time": "12:00",
         "event": "Afrolatin Festival (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/afrolatin-festival-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/KxaDK8uQSGf9bG7hjL1M_28-06-2025afro-latin-festivalsage-beach-hd-event-1920x1080px.jpg",
@@ -408,7 +408,7 @@
         "date": "Fri, 27.06.2025",
         "time": "20:15",
         "event": "FRIDAY FUNNIES (English Comedy Showcase In The Heart Of Berlin) (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/friday-funnies-english-comedy-showcase-in-the-heart-of-berli-28/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/0oDauyyYRmWoDoYUAGaE_img1323.jpg",
@@ -431,7 +431,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/comedy-for-the-twisted-dark-comedy-at-z-bar-mitte-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6fH4ZPMjQmGhiUXo7vcK_rambozamboimagetype1920x1080.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/riugXJfZR0mhmxfWOVXX_230914runnraveonislalz79013.jpg",
         "city": "Berlin"
     },
     {
@@ -441,7 +441,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/dirty-dancing-party-80s-90s-love-3-floors-karaoke-disco-spec-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6fH4ZPMjQmGhiUXo7vcK_rambozamboimagetype1920x1080.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/b8zEIcy8Q6a1HaVADmiX_253513357_10158725041047893_7627813240385594499_n.jpg",
         "city": "Berlin"
     },
     {
@@ -461,7 +461,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/karaoke-disco-berlin-special-all-night-whynot-party-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/QVtkz5JERIiJKzPF388J_fbheader1200x675ber.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/b8zEIcy8Q6a1HaVADmiX_253513357_10158725041047893_7627813240385594499_n.jpg",
         "city": "Berlin"
     },
     {
@@ -478,7 +478,7 @@
         "date": "Fri, 27.06.2025",
         "time": "23:00",
         "event": "Mad Monkey - Die Show | Late Night (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/mad-monkey-die-show-late-night-36/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/sK4Oy6wPQeu4zHBluVLc_mmrshowblank1.jpg",
@@ -539,14 +539,6 @@
         "link": "https://www.bielefeld.jetzt/node/1016401"
     },
     {
-        "date": "Sat, 28.06",
-        "time": "22:00",
-        "event": "DISKO TOTAL! - SUMMER EDITION // Die Party für alle ab 25! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/disko-total-summer-edition-die-party-fuer-alle-ab-25/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/05/Stereo_28_0625_Feed_01.jpg"
-    },
-    {
         "date": "Sa, 28.06",
         "time": "23:00",
         "event": "SA • LOVE SATURDAYS x  COCKTAIL NIGHT • RAUM2: BLACKBOX (@cafe_europa_bi)",
@@ -555,28 +547,12 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/05/20250628_CocktailParty_4zu5.jpg"
     },
     {
-        "date": "Sa, 28.06.2025",
-        "time": "08:30",
-        "event": "Wandern(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35703",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 28.06.2025",
-        "time": "10:00",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36263",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 28.06.2025",
-        "time": "11:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+        "date": "Sat, 28.06",
+        "time": "22:00",
+        "event": "DISKO TOTAL! - SUMMER EDITION // Die Party für alle ab 25! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/disko-total-summer-edition-die-party-fuer-alle-ab-25/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/05/Stereo_28_0625_Feed_01.jpg"
     },
     {
         "date": "Sa, 28.06.2025",
@@ -612,6 +588,30 @@
     },
     {
         "date": "Sa, 28.06.2025",
+        "time": "08:30",
+        "event": "Wandern(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35703",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 28.06.2025",
+        "time": "10:00",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36263",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 28.06.2025",
+        "time": "11:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 28.06.2025",
         "time": "",
         "category": "Programm",
         "event": "Das POW! Konzert (@bunkerulmenwall)",
@@ -625,6 +625,12 @@
         "event": "Jazz im Waldhof: Bonsai (@bunkerulmenwall)",
         "link": "https://bunker-ulmenwall.org/jazz-im-waldhof-bonsai/",
         "image_url": "https://bunker-ulmenwall.org/wp-content/uploads/2024/04/Pressefoto-Bonsai-768x512.jpg"
+    },
+    {
+        "date": "Sa, 28.06",
+        "event": "Parkplatzkonzert:The Jancee Pornick CasinoDuenamit/ Stagger/ The Trash Templars (@forum_bielefeld)",
+        "link": "https://forum-bielefeld.com/parkplatzkonzert/",
+        "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
         "date": "Sa, 28.06",
@@ -655,19 +661,13 @@
         "image_url": "https://nrzp.de/wp-content/uploads/2025/06/file_657.jpg"
     },
     {
-        "date": "Sa, 28.06",
-        "event": "Parkplatzkonzert:The Jancee Pornick CasinoDuenamit/ Stagger/ The Trash Templars (@forum_bielefeld)",
-        "link": "https://forum-bielefeld.com/parkplatzkonzert/",
-        "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
-    },
-    {
         "date": "Sat, 28.06.2025",
         "time": "22:00",
         "event": "Dortmund XXL - 5 Partys in einer Nacht (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/dortmund-xxl-5-partys-in-einer-nacht-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lvqsaE2JR2aDeiG2ePDW_afterhourfbheader.jpg",
         "city": "Dortmund"
     },
     {
@@ -687,7 +687,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/festa-junina-arraia-a-bossa-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6fH4ZPMjQmGhiUXo7vcK_rambozamboimagetype1920x1080.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pBbbGBuUTjClRIMCgqrl_DJI_0516.jpg",
         "city": "Berlin"
     },
     {
@@ -734,6 +734,22 @@
         "image_url": "https://www.club-sams.de/data/202506/HAPPI_HIPPIE_Instagram_Post_3__150_1.png?v=1749420487"
     },
     {
+        "date": "Su, 29.06.2025",
+        "time": "19:00",
+        "event": "*TRIBE KENNENLERNABEND*",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Su, 29.06.2025",
+        "time": "9:00",
+        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/uprunningclub/?hl=de",
+        "image_url": null
+    },
+    {
         "date": "So, 29.06.2025",
         "time": "09:00",
         "event": "Yoga(@hochschulsport_bielefeld)",
@@ -758,22 +774,6 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Su, 29.06.2025",
-        "time": "19:00",
-        "event": "*TRIBE KENNENLERNABEND*",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Su, 29.06.2025",
-        "time": "9:00",
-        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/uprunningclub/?hl=de",
-        "image_url": null
-    },
-    {
         "date": "So, 29.06",
         "time": "15:30",
         "event": "Dance with somebody (@nr.z.p)",
@@ -795,6 +795,14 @@
         "description": "Im Skulpturenpark an der Kunsthalle informiert Bielefeld Marketing über das Freizeitangebot in Bielefeld und Umgebung. Am Stand der Bielefelder Ranger gibt es alle Infos zum Bielefelder Forst. Die Wälder bieten zahlreiche Möglichkeiten zur Freizeitgestaltung. Gleichzeitig sind sie Klima- und Naturschutzraum sowie Rohstofflieferant. Um diesen Herausforderungen gerecht zu werden, setzt Wald und Holz NRW in Kooperationen auf den Einsatz von Rangerinnen und Rangern. Sie vermitteln zwischen Mensch und Natur, zwischen Waldbesitzenden und Erholungssuchenden. Darüber hinaus können die Besucher:innen hier den Stempelpass für die Rallye erhalten und auch wieder abgeben sowie eine Rätselstation lösen. Daneben organisiert bts – Life Sciences Studierendeninitiative e. V. spannende Street Science Experimente zum Mitmachen. Und von 11 bis 18 Uhr gibt es Kinderschminken sowie von 13 bis 17 Uhr Luftballonkunst . Von 12 bis 18 Uhr veranstaltet die Kunsthalle ein kreatives \" Sonntagsatelier \" im Pavillon direkt vor der Kunsthalle. Erwachsene und Kinder können sich dort ohne Anmeldung künstlerisch \"austoben\".",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/bild/2025/TeutoRuftFinal-6.jpg?itok=XkW199id",
         "link": "https://www.bielefeld.jetzt/node/241508"
+    },
+    {
+        "date": "Mo, 30.06.2025",
+        "time": "20:00",
+        "event": "Pub Quiz (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Mo, 30.06.2025",
@@ -845,14 +853,6 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Mo, 30.06.2025",
-        "time": "20:00",
-        "event": "Pub Quiz (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
         "date": "Mo, 30.06",
         "time": "18:30",
         "event": "Zwischen Repression und Rebellion – Schwule Literatur unter § 175 (@nr.z.p)",
@@ -876,6 +876,22 @@
         "description": "mit Matitjahu Kellig und Rabih Lahoud Moderation: Prof. Dr. Paul Mecheril (Universität Bielefeld) Ort: VHS Bielefeld, Historischer Saal",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/imported_events/bielefeld_veranstaltung_importer_uni_bielefeld/DFH-Plakat-1-scaled_4.jpeg?itok=W09aoY4W",
         "link": "https://www.bielefeld.jetzt/node/1089446"
+    },
+    {
+        "date": "Tu, 01.07.2025",
+        "time": "18:00",
+        "event": "*TRIBE TUESDAY RUN(@GELLERSHAGEN PARK TEICH)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Tu, 01.07.2025",
+        "time": "7:00",
+        "event": "Wochenmarkt(@Alter Markt)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Di, 01.07.2025",
@@ -918,22 +934,6 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Tu, 01.07.2025",
-        "time": "18:00",
-        "event": "*TRIBE TUESDAY RUN(@GELLERSHAGEN PARK TEICH)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Tu, 01.07.2025",
-        "time": "7:00",
-        "event": "Wochenmarkt(@Alter Markt)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
         "date": "Tu, 01.07",
         "event": "King Buffalo (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/king-buffalo/",
@@ -964,6 +964,38 @@
         "category": "Ausgehen",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "We, 02.07.2025",
+        "time": "17:00",
+        "event": "Art Night (@loom_bielefeld)",
+        "category": "Kreativität",
+        "link": "https://www.loom-bielefeld.de/events/mini-artnight-e49416/",
+        "image_url": null
+    },
+    {
+        "date": "We, 02.07.2025",
+        "time": "21:00",
+        "event": "Karaoke (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "We, 02.07.2025",
+        "time": "7:00",
+        "event": "Wochenmarkt(@Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "We, 02.07.2025",
+        "time": "20:00",
+        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
+        "image_url": null
     },
     {
         "date": "Mi, 02.07.2025",
@@ -1022,38 +1054,6 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "We, 02.07.2025",
-        "time": "17:00",
-        "event": "Art Night (@loom_bielefeld)",
-        "category": "Kreativität",
-        "link": "https://www.loom-bielefeld.de/events/mini-artnight-e49416/",
-        "image_url": null
-    },
-    {
-        "date": "We, 02.07.2025",
-        "time": "21:00",
-        "event": "Karaoke (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "We, 02.07.2025",
-        "time": "7:00",
-        "event": "Wochenmarkt(@Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "We, 02.07.2025",
-        "time": "20:00",
-        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
-        "image_url": null
-    },
-    {
         "date": "We, 02.07",
         "event": "Smallroom (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/smallroom-61/",
@@ -1066,7 +1066,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/geheimkonzert-dortmund-ultimate-sommer-open-air-edition-by-r-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/oclZpxJSpGlQRLKKCOU8_rinsplashmaikschuster03.jpg",
         "city": "Dortmund"
     },
     {
@@ -1104,30 +1104,6 @@
         "image_url": null
     },
     {
-        "date": "Do, 03.07.2025",
-        "time": "16:30",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 03.07.2025",
-        "time": "17:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 03.07.2025",
-        "time": "18:30",
-        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35658",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
         "date": "Th, 03.07.2025",
         "time": "18:00",
         "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
@@ -1160,6 +1136,30 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Do, 03.07.2025",
+        "time": "16:30",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 03.07.2025",
+        "time": "17:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 03.07.2025",
+        "time": "18:30",
+        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35658",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
         "date": "Thu, 03.07.2025",
         "time": "18:00",
         "event": "Come Dogether: Buchgeflüster (@Locations)",
@@ -1180,6 +1180,14 @@
         "city": "Dortmund"
     },
     {
+        "date": "Fr, 04.07",
+        "time": "23:00",
+        "event": "FR • FRIDAYS FINEST (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-fridays-finest-raum2-hiphop-invasion-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250704_FridaysFinest_4zu5.jpg"
+    },
+    {
         "date": "Fri, 04.07",
         "time": "23:00",
         "event": "Stereo Summer Master (@stereobielefeld)",
@@ -1188,12 +1196,20 @@
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/06/Stereo_04_0725_Feed.jpg"
     },
     {
-        "date": "Fr, 04.07",
+        "date": "Fr, 04.07.2025",
         "time": "23:00",
-        "event": "FR • FRIDAYS FINEST (@cafe_europa_bi)",
+        "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
         "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-fridays-finest-raum2-hiphop-invasion-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250704_FridaysFinest_4zu5.jpg"
+        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
+        "image_url": null
+    },
+    {
+        "date": "Fr, 04.07.2025",
+        "time": "7:00",
+        "event": "Wochenmarkt (@Alter Markt, Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Fr, 04.07.2025",
@@ -1220,29 +1236,13 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Fr, 04.07.2025",
-        "time": "23:00",
-        "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
-        "category": "Party",
-        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
-        "image_url": null
-    },
-    {
-        "date": "Fr, 04.07.2025",
-        "time": "7:00",
-        "event": "Wochenmarkt (@Alter Markt, Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
         "date": "Fri, 04.07.2025",
         "time": "23:00",
         "event": "ATZNPOP w/ B4CHN4, Schmaecks, CHPSTCK • Trance / Hardbounce / y2k Tekkno • Stollen134, Dortmund (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/atznpop-w-b4chn4-schmaecks-chpstck-trance-hardbounce-y2k-tek-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/g51YKwywSK6GHOC9EwA0_logo_neu.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
         "city": "Dortmund"
     },
     {
@@ -1282,14 +1282,6 @@
         "link": "https://www.bielefeld.jetzt/node/1115629"
     },
     {
-        "date": "Sat, 05.07",
-        "time": "23:00",
-        "event": "OUT OF THE BOX (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/out-of-the-box/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/06/Stereo_05_0725_Feed.jpg"
-    },
-    {
         "date": "Sa, 05.07",
         "time": "23:00",
         "event": "SA • GIRLS NIGHT OUT • RAUM2 : BOOTY BOUNCE (@cafe_europa_bi)",
@@ -1298,28 +1290,12 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250705_GirlsNightOut_4zu5.jpg"
     },
     {
-        "date": "Sa, 05.07.2025",
-        "time": "08:30",
-        "event": "Wandern(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35703",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 05.07.2025",
-        "time": "10:00",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36263",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 05.07.2025",
-        "time": "11:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+        "date": "Sat, 05.07",
+        "time": "23:00",
+        "event": "OUT OF THE BOX (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/out-of-the-box/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/06/Stereo_05_0725_Feed.jpg"
     },
     {
         "date": "Sa, 05.07.2025",
@@ -1346,13 +1322,37 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Sa, 05.07.2025",
+        "time": "08:30",
+        "event": "Wandern(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35703",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 05.07.2025",
+        "time": "10:00",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36263",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 05.07.2025",
+        "time": "11:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
         "date": "Sat, 05.07.2025",
         "time": "19:00",
         "event": "Der kleine Vampir und die große Liebe (@Locations)",
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/junges-ensemble-kulturbrigaden-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/I3hHbK6uTpyImvWQhOJq_paula-hartmann15credit-jakob-furis.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7hLBhkzJStmjnQaRw65U_OX7A8484.jpg",
         "city": "Dortmund"
     },
     {
@@ -1431,7 +1431,7 @@
         "date": "Sun, 06.07.2025",
         "time": "16:00",
         "event": "„Heinz Erhardt & Peter Alexander“ – Musikalische Komödie auf der Seebühne im Westfalenpark Dortmund (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/erhardt-alexander-musikalische-komodie-auf-der-seebuhne-im-w-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/PyUGejLjSCaC6HBlLuev_baege_224119.jpg",
@@ -1521,20 +1521,20 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Wed, 09.07",
-        "time": "06:00",
-        "event": "GuMo Bielefeld (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/gumo-bielefeld/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/06/Stereo_09_0725_Feed.jpg"
-    },
-    {
         "date": "Mi, 09.07",
         "time": "23:00",
         "event": "MI • BERGFEST (@cafe_europa_bi)",
         "category": "Party",
         "link": "https://cafeeuropa.de/event/mi-bergfest-16/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250709_Bergfest_4zu5.jpg"
+    },
+    {
+        "date": "Wed, 09.07",
+        "time": "06:00",
+        "event": "GuMo Bielefeld (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/gumo-bielefeld/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/06/Stereo_09_0725_Feed.jpg"
     },
     {
         "date": "We, 09.07.2025",
@@ -2425,6 +2425,12 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 26.07",
+        "event": "Sensus-Party (@forum_bielefeld)",
+        "link": "https://forum-bielefeld.com/sensus-5/",
+        "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
         "date": "Sat, 26.07.2025",
@@ -3542,7 +3548,7 @@
         "date": "Sat, 30.08.2025",
         "time": "20:00",
         "event": "The Queen's Soliloquy (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/the-queens-soliloquy-1/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aXrNi6rdTTWcsQjmxaJz_img9432.jpg",
@@ -4073,7 +4079,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/regener-pappik-busch-4/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hPGlLO4DSg6DxIMuRbdH_rainbow25lineupsome16-9.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4jmZ3854Q8uvGv9dFER2_BoBxDomicil-135.jpg",
         "city": "Dortmund"
     },
     {
@@ -4198,7 +4204,7 @@
         "date": "Thu, 18.09.2025",
         "time": "19:30",
         "event": "7stages Comedy Open Mic (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/7stages-comedy-open-mic-30/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/t1Yaj1XR8WneAyl8iyEQ_header_web_Musical_Summer.jpg",
@@ -4602,7 +4608,7 @@
         "date": "Mon, 29.09.2025",
         "time": "19:00",
         "event": "BEACHPEOPLE (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/beachpeople-12/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/a16hCjDkSMeiVsYHTS3l_beachpeople-live.jpg",
@@ -6278,17 +6284,17 @@
         "image_url": null
     },
     {
+        "date": "We, 19.11",
+        "event": "Deadletter (@forum_bielefeld)",
+        "link": "https://forum-bielefeld.com/deadletter/",
+        "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
+    },
+    {
         "date": "Mi, 19.11",
         "time": "",
         "event": "Krakeln (@nr.z.p)",
         "link": "https://nrzp.de/event/krakeln-23",
         "image_url": "https://nrzp.de/wp-content/uploads/2024/10/Banner-Instagram-Post.zip-2.png"
-    },
-    {
-        "date": "We, 19.11",
-        "event": "Deadletter (@forum_bielefeld)",
-        "link": "https://forum-bielefeld.com/deadletter/",
-        "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
         "date": "Wed, 19.11.2025",
