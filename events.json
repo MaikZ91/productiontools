@@ -1,13 +1,5 @@
 [
     {
-        "date": "Fr, 27.06",
-        "time": "23:00",
-        "event": "FR • 2010 FLASHBACK (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-2010-flashback-3/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/05/20250627_2010Flashback_4zu5.jpg"
-    },
-    {
         "date": "Fri, 27.06",
         "time": "23:00",
         "event": "20ZIG 10ER (@stereobielefeld)",
@@ -38,6 +30,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 27.06",
+        "time": "23:00",
+        "event": "FR • 2010 FLASHBACK (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-2010-flashback-3/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/05/20250627_2010Flashback_4zu5.jpg"
     },
     {
         "date": "Fr, 27.06.2025",
@@ -89,10 +89,10 @@
         "date": "Fri, 27.06.2025",
         "time": "14:00",
         "event": "Führung: Sommerpracht – GartenPraxis im Westfalenpark (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/fuhrung-sommerpracht-gartenpraxis-im-westfalenpark-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/CL6e4xHSGGwW9WoDYoNC_28-29-juni-2025-a4.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/X5CgWNtTaKWIMDo6X7wA_1000222640.jpg",
         "city": "Dortmund"
     },
     {
@@ -102,7 +102,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/salon-art-am-27062025-im-langen-august-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/oclZpxJSpGlQRLKKCOU8_rinsplashmaikschuster03.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BSeraGSAS9ivMfc1xijQ_aleksandar-andreev-QNx20hRPJwk-unsplash.jpg",
         "city": "Dortmund"
     },
     {
@@ -189,7 +189,7 @@
         "date": "Fri, 27.06.2025",
         "time": "19:00",
         "event": "Rummel auf der Hasenheide – Eine fotografische Erinnerung (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/rummel-auf-der-hasenheide-eine-fotografische-erinnerung-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/no5x4fw9e45x.jpg",
@@ -260,14 +260,6 @@
         "link": "https://www.bielefeld.jetzt/node/1016401"
     },
     {
-        "date": "Sa, 28.06",
-        "time": "23:00",
-        "event": "SA • LOVE SATURDAYS x  COCKTAIL NIGHT • RAUM2: BLACKBOX (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-cocktail-night-raum2-blackbox/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/05/20250628_CocktailParty_4zu5.jpg"
-    },
-    {
         "date": "Sat, 28.06",
         "time": "22:00",
         "event": "DISKO TOTAL! - SUMMER EDITION // Die Party für alle ab 25! (@stereobielefeld)",
@@ -306,6 +298,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 28.06",
+        "time": "23:00",
+        "event": "SA • LOVE SATURDAYS x  COCKTAIL NIGHT • RAUM2: BLACKBOX (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-cocktail-night-raum2-blackbox/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/05/20250628_CocktailParty_4zu5.jpg"
     },
     {
         "date": "Sa, 28.06.2025",
@@ -445,7 +445,7 @@
         "date": "Sat, 28.06.2025",
         "time": "18:00",
         "event": "Soul Explosion // Berlin, Revier Südost / Baergarten Outdoor special (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/soul-explosion-berlin-revier-sudost-baergarten-outdoor-speci-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/sdferIoHTvyaGWbcL9LQ_logosoulexplosionbreit.jpg",
@@ -455,10 +455,10 @@
         "date": "Sat, 28.06.2025",
         "time": "18:00",
         "event": "Super Premium Comedy aus Gold! (de/eng) (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/super-premium-comedy-aus-gold-deeng-51/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3JxQZiZSBCUVhShXSlZV_mmrshowblank1.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/8ddn5eszz9vu.jpg",
         "city": "Berlin"
     },
     {
@@ -495,7 +495,7 @@
         "date": "Sat, 28.06.2025",
         "time": "19:00",
         "event": "Sonic Pluriverse Festival: Bass Culture - Les Mamans du Congo & Rrobin, André Marie Tala & The Tchamassi Band, Feminine Hi-Fi (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/sonic-pluriverse-festival-bass-culture-les-mamans-du-congo-r-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EO4L6ZCQQ2QASLl7wpaA_andre-marie-tala.jpg",
@@ -896,14 +896,6 @@
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
-        "date": "Mi, 02.07",
-        "time": "23:00",
-        "event": "MI • WET WEDNESDAY (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wet-wednesday-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250702_WetWednesday_4zu5.jpg"
-    },
-    {
         "date": "We, 02.07.2025",
         "time": "17:00",
         "event": "Art Night (@loom_bielefeld)",
@@ -934,6 +926,14 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 02.07",
+        "time": "23:00",
+        "event": "MI • WET WEDNESDAY (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wet-wednesday-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250702_WetWednesday_4zu5.jpg"
     },
     {
         "date": "Mi, 02.07.2025",
@@ -1004,7 +1004,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/geheimkonzert-dortmund-ultimate-sommer-open-air-edition-by-r-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/o1jbW1knQV2arUSPZHAD_unplugged-pauluskirche.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/oclZpxJSpGlQRLKKCOU8_rinsplashmaikschuster03.jpg",
         "city": "Dortmund"
     },
     {
@@ -1104,16 +1104,8 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/turbo-120-minuten-rave-w-turbomarius-trance-hardbounce-techn-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GZ5FNsPnSwGSZ8rBvjwk_fishnchips-web-1920-1080.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/XeILXs3wSHyU3qyhtpjC_1200970510608341039574417912512344649202001n.jpg",
         "city": "Dortmund"
-    },
-    {
-        "date": "Fr, 04.07",
-        "time": "23:00",
-        "event": "FR • FRIDAYS FINEST (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-fridays-finest-raum2-hiphop-invasion-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250704_FridaysFinest_4zu5.jpg"
     },
     {
         "date": "Fri, 04.07",
@@ -1138,6 +1130,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 04.07",
+        "time": "23:00",
+        "event": "FR • FRIDAYS FINEST (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-fridays-finest-raum2-hiphop-invasion-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250704_FridaysFinest_4zu5.jpg"
     },
     {
         "date": "Fr, 04.07.2025",
@@ -1170,7 +1170,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/atznpop-w-b4chn4-schmaecks-chpstck-trance-hardbounce-y2k-tek-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/oclZpxJSpGlQRLKKCOU8_rinsplashmaikschuster03.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/g51YKwywSK6GHOC9EwA0_logo_neu.jpg",
         "city": "Dortmund"
     },
     {
@@ -1219,14 +1219,6 @@
         "link": "https://www.bielefeld.jetzt/node/1115629"
     },
     {
-        "date": "Sa, 05.07",
-        "time": "23:00",
-        "event": "SA • GIRLS NIGHT OUT • RAUM2 : BOOTY BOUNCE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-girls-night-out-raum2-booty-bounce-7/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250705_GirlsNightOut_4zu5.jpg"
-    },
-    {
         "date": "Sat, 05.07",
         "time": "23:00",
         "event": "OUT OF THE BOX (@stereobielefeld)",
@@ -1259,6 +1251,14 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Sa, 05.07",
+        "time": "23:00",
+        "event": "SA • GIRLS NIGHT OUT • RAUM2 : BOOTY BOUNCE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-girls-night-out-raum2-booty-bounce-7/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250705_GirlsNightOut_4zu5.jpg"
+    },
+    {
         "date": "Sa, 05.07.2025",
         "time": "08:30",
         "event": "Wandern(@hochschulsport_bielefeld)",
@@ -1286,7 +1286,7 @@
         "date": "Sat, 05.07.2025",
         "time": "19:00",
         "event": "Der kleine Vampir und die große Liebe (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/junges-ensemble-kulturbrigaden-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7hLBhkzJStmjnQaRw65U_OX7A8484.jpg",
@@ -1296,7 +1296,7 @@
         "date": "Sat, 05.07.2025",
         "time": "20:00",
         "event": "Die Comedy Werkstatt im Disc golf - Center Dortmund (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/die-comedy-werkstatt-im-disc-golf-center-dortmund-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aWYiA3slQd2XIT0PQgFk_img6251.jpg",
@@ -1395,7 +1395,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/erhardt-alexander-musikalische-komodie-auf-der-seebuhne-im-w-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/PyUGejLjSCaC6HBlLuev_baege_224119.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/geV1DwHYSfqdSSkf3He6_tag2juicybeatscjeanettefriedrich-73-dell-katrin.jpg",
         "city": "Dortmund"
     },
     {
@@ -1482,14 +1482,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Mi, 09.07",
-        "time": "23:00",
-        "event": "MI • BERGFEST (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-bergfest-16/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250709_Bergfest_4zu5.jpg"
-    },
-    {
         "date": "Wed, 09.07",
         "time": "06:00",
         "event": "GuMo Bielefeld (@stereobielefeld)",
@@ -1528,6 +1520,14 @@
         "category": "Ausgehen",
         "link": "https://www.instagram.com/diesdascomedy/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 09.07",
+        "time": "23:00",
+        "event": "MI • BERGFEST (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-bergfest-16/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250709_Bergfest_4zu5.jpg"
     },
     {
         "date": "Mi, 09.07.2025",
@@ -1621,14 +1621,6 @@
         "link": "https://www.bielefeld.jetzt/node/416199"
     },
     {
-        "date": "Fr, 11.07",
-        "time": "17:00",
-        "event": "FR • TURBO TRASH (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-turbo-trash-3/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250711_Turbotrash_4zu5.jpg"
-    },
-    {
         "date": "Fr, 11.07.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -1653,10 +1645,18 @@
         "image_url": null
     },
     {
+        "date": "Fr, 11.07",
+        "time": "17:00",
+        "event": "FR • TURBO TRASH (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-turbo-trash-3/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250711_Turbotrash_4zu5.jpg"
+    },
+    {
         "date": "Fri, 11.07.2025",
         "time": "22:00",
         "event": "PLANET POP • Guilty Pleasures / 90s / 00s / 10s • Stollen134, Dortmund (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/planet-pop-guilty-pleasures-90s-00s-10s-stollen134-dortmund-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/g51YKwywSK6GHOC9EwA0_logo_neu.jpg",
@@ -1741,7 +1741,7 @@
         "date": "Sat, 12.07.2025",
         "time": "18:00",
         "event": "Provinz \"Pazifik\" • Open Airs 2025 (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/provinz-pazifik-open-airs-2025-2/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GgLC5EbQpWuRumGdGXg2_provinz-open-airs-fb-banner.jpg",
@@ -2620,14 +2620,6 @@
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
-        "date": "Mi, 06.08",
-        "time": "23:00",
-        "event": "MI • WET WEDNESDAY (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wet-wednesday-3/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250806_WetWednesday_4zu5.jpg"
-    },
-    {
         "date": "We, 06.08.2025",
         "time": "17:00",
         "event": "Art Night (@loom_bielefeld)",
@@ -2658,6 +2650,14 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 06.08",
+        "time": "23:00",
+        "event": "MI • WET WEDNESDAY (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wet-wednesday-3/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250806_WetWednesday_4zu5.jpg"
     },
     {
         "date": "Th, 07.08.2025",
@@ -2708,14 +2708,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Fr, 08.08",
-        "time": "23:00",
-        "event": "FR • TURBO TRASH • RAUM2 BOOTY BOUNCE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-turbo-trash-raum2-booty-bounce-3/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250808_Turbotrash_4zu5.jpg"
-    },
-    {
         "date": "Fr, 08.08.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -2738,6 +2730,14 @@
         "category": "Kreativität",
         "link": "https://kunsthalle-bielefeld.de/programm/veranstaltungen/#10209",
         "image_url": null
+    },
+    {
+        "date": "Fr, 08.08",
+        "time": "23:00",
+        "event": "FR • TURBO TRASH • RAUM2 BOOTY BOUNCE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-turbo-trash-raum2-booty-bounce-3/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250808_Turbotrash_4zu5.jpg"
     },
     {
         "date": "Fri, 08.08.2025",
@@ -2848,14 +2848,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Mi, 13.08",
-        "time": "23:00",
-        "event": "MI • BERGFEST (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-bergfest-17/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250813_Bergfest_4zu5.jpg"
-    },
-    {
         "date": "We, 13.08.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -2886,6 +2878,14 @@
         "category": "Ausgehen",
         "link": "https://www.instagram.com/diesdascomedy/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 13.08",
+        "time": "23:00",
+        "event": "MI • BERGFEST (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-bergfest-17/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250813_Bergfest_4zu5.jpg"
     },
     {
         "date": "Th, 14.08.2025",
@@ -2946,14 +2946,6 @@
         "city": "Dortmund"
     },
     {
-        "date": "Fr, 15.08",
-        "time": "23:00",
-        "event": "FR • CAFELICIOUS (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-cafelicious-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250815_Cafelicious_1zu1.jpg"
-    },
-    {
         "date": "Fr, 15.08.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -2968,6 +2960,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 15.08",
+        "time": "23:00",
+        "event": "FR • CAFELICIOUS (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-cafelicious-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250815_Cafelicious_1zu1.jpg"
     },
     {
         "date": "Fri, 15.08.2025",
@@ -3149,14 +3149,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Fr, 22.08",
-        "time": "17:00",
-        "event": "FR • 2010 FLASHBACK (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-2010-flashback-4/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250822_2010Flashback_4zu5.jpg"
-    },
-    {
         "date": "Fr, 22.08.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -3173,6 +3165,14 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Fr, 22.08",
+        "time": "17:00",
+        "event": "FR • 2010 FLASHBACK (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-2010-flashback-4/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250822_2010Flashback_4zu5.jpg"
+    },
+    {
         "date": "Fri, 22.08.2025",
         "time": "18:30",
         "event": "Kettcar (@Locations)",
@@ -3181,14 +3181,6 @@
         "link": "https://rausgegangen.de/en/events/kettcar-9/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pH2uIa8MRHuc61YPKbqi_kettcardortmund-kopie.jpg",
         "city": "Dortmund"
-    },
-    {
-        "date": "Sa, 23.08",
-        "time": "23:00",
-        "event": "SA • CAFE SUMMER NIGHTS / JAHNPLATZ OPEN AIR AFTERSHOW (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-jahnplatz-open-air-aftershow/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250823_SummerNight_4zu5.jpg"
     },
     {
         "date": "Sa, 23.08.2025",
@@ -3213,6 +3205,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 23.08",
+        "time": "23:00",
+        "event": "SA • CAFE SUMMER NIGHTS / JAHNPLATZ OPEN AIR AFTERSHOW (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-jahnplatz-open-air-aftershow/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250823_SummerNight_4zu5.jpg"
     },
     {
         "date": "Su, 24.08.2025",
@@ -3413,14 +3413,6 @@
         "link": "https://www.bielefeld.jetzt/node/1115635"
     },
     {
-        "date": "Sa, 30.08",
-        "time": "23:00",
-        "event": "SA • IBIZA WHITE NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-ibiza-white-night-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250830_IbizaWhiteNight_4zu5.jpg"
-    },
-    {
         "date": "Sa, 30.08.2025",
         "time": "14:00",
         "event": "*TRIBE WANDERSAMSTAG*",
@@ -3451,6 +3443,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 30.08",
+        "time": "23:00",
+        "event": "SA • IBIZA WHITE NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-ibiza-white-night-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250830_IbizaWhiteNight_4zu5.jpg"
     },
     {
         "date": "Sa, 30.08",
@@ -4001,7 +4001,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/regener-pappik-busch-4/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/geV1DwHYSfqdSSkf3He6_tag2juicybeatscjeanettefriedrich-73-dell-katrin.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4jmZ3854Q8uvGv9dFER2_BoBxDomicil-135.jpg",
         "city": "Dortmund"
     },
     {
@@ -4129,7 +4129,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/7stages-comedy-open-mic-30/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/t1Yaj1XR8WneAyl8iyEQ_header_web_Musical_Summer.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3LAWSNSNTZyX9n66hIca_FB-Banner.jpg",
         "city": "Dortmund"
     },
     {
@@ -4442,7 +4442,7 @@
         "date": "Sat, 27.09.2025",
         "time": "19:00",
         "event": "JAS /// Erinnerst Du Dich Tour 2025 (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/jas-erinnerst-du-dich-tour-2025-2/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/uiximfJYQMO7tAZpefNu_jasc2oskardombrowsky-0325.jpg",
@@ -4790,7 +4790,7 @@
         "date": "Tue, 07.10.2025",
         "time": "19:00",
         "event": "Teuterekordz - Total Raus Tour 2025 (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/teuterekordz-total-raus-tour-2025-5/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/NkFvQM0qRdmH4yQMjAGm_philippgladsome-2-16.jpg",
