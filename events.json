@@ -1,14 +1,6 @@
 [
     {
         "date": "Mo, 30.06.2025",
-        "time": "20:00",
-        "event": "Pub Quiz (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Mo, 30.06.2025",
         "time": "16:00",
         "event": "Laufen(@hochschulsport_bielefeld)",
         "category": "Sport",
@@ -54,6 +46,14 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35650",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Mo, 30.06.2025",
+        "time": "20:00",
+        "event": "Pub Quiz (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Mo, 30.06",
@@ -141,22 +141,6 @@
         "link": "https://www.bielefeld.jetzt/node/1089446"
     },
     {
-        "date": "Tu, 01.07.2025",
-        "time": "18:00",
-        "event": "*TRIBE TUESDAY RUN(@GELLERSHAGEN PARK TEICH)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Tu, 01.07.2025",
-        "time": "7:00",
-        "event": "Wochenmarkt(@Alter Markt)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
         "date": "Di, 01.07.2025",
         "time": "18:00",
         "event": "Fitnesstraining(@hochschulsport_bielefeld)",
@@ -197,6 +181,22 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "date": "Tu, 01.07.2025",
+        "time": "18:00",
+        "event": "*TRIBE TUESDAY RUN(@GELLERSHAGEN PARK TEICH)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Tu, 01.07.2025",
+        "time": "7:00",
+        "event": "Wochenmarkt(@Alter Markt)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
         "date": "Tu, 01.07",
         "event": "King Buffalo (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/king-buffalo/",
@@ -226,7 +226,7 @@
         "date": "Tue, 01.07.2025",
         "time": "19:30",
         "event": "USTAD NOOR BAKHSH *live (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/ustad-noor-bakhsh-live-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/MSMNk4YYQ0GvpR0imLxA_250701ustad-noor-bakhsh.jpg",
@@ -239,7 +239,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/moonshine-comedy-english-stand-up-comedy-by-the-bay-with-pat-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fuTwJWmoS4uwcwrtKBul_back-door-late-mic-may-2025-2160-x-1080-px.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3n75TgUyQvGMNWz2zxQD_schwarze-schafe-youtube-thumbnail-rz.jpg",
         "city": "Berlin"
     },
     {
@@ -259,7 +259,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/the-swag-jam-134/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3n75TgUyQvGMNWz2zxQD_schwarze-schafe-youtube-thumbnail-rz.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/uu7soAPCSl2eQXPNytl7_schwarze-schafe-youtube-thumbnail-rz.jpg",
         "city": "Berlin"
     },
     {
@@ -279,7 +279,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/der-mad-monkey-dienstag-110/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RK5yIXAQjSXxo42UuIB8_306-feedstoryfacebook-stand-up-comedy.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3n75TgUyQvGMNWz2zxQD_schwarze-schafe-youtube-thumbnail-rz.jpg",
         "city": "Berlin"
     },
     {
@@ -325,38 +325,6 @@
         "category": "Party",
         "link": "https://cafeeuropa.de/event/mi-wet-wednesday-2/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250702_WetWednesday_4zu5.jpg"
-    },
-    {
-        "date": "We, 02.07.2025",
-        "time": "17:00",
-        "event": "Art Night (@loom_bielefeld)",
-        "category": "Kreativität",
-        "link": "https://www.loom-bielefeld.de/events/mini-artnight-e49416/",
-        "image_url": null
-    },
-    {
-        "date": "We, 02.07.2025",
-        "time": "21:00",
-        "event": "Karaoke (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "We, 02.07.2025",
-        "time": "7:00",
-        "event": "Wochenmarkt(@Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "We, 02.07.2025",
-        "time": "20:00",
-        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
-        "image_url": null
     },
     {
         "date": "Mi, 02.07.2025",
@@ -415,6 +383,38 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "date": "We, 02.07.2025",
+        "time": "17:00",
+        "event": "Art Night (@loom_bielefeld)",
+        "category": "Kreativität",
+        "link": "https://www.loom-bielefeld.de/events/mini-artnight-e49416/",
+        "image_url": null
+    },
+    {
+        "date": "We, 02.07.2025",
+        "time": "21:00",
+        "event": "Karaoke (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "We, 02.07.2025",
+        "time": "7:00",
+        "event": "Wochenmarkt(@Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "We, 02.07.2025",
+        "time": "20:00",
+        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
+        "image_url": null
+    },
+    {
         "date": "We, 02.07",
         "event": "Smallroom (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/smallroom-61/",
@@ -427,7 +427,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/geheimkonzert-dortmund-ultimate-sommer-open-air-edition-by-r-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/s27A8vrhRJCMcmm3SVKo_junkyardkuenstlergrafikenfuture-islandspost.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/kM5fw9NqTp2ChiQrhWlB_nordstadt-together-plakat-a004-1.jpg",
         "city": "Dortmund"
     },
     {
@@ -477,7 +477,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/der-mad-monkey-mittwoch-109/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/uu7soAPCSl2eQXPNytl7_schwarze-schafe-youtube-thumbnail-rz.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3JxQZiZSBCUVhShXSlZV_mmrshowblank1.jpg",
         "city": "Berlin"
     },
     {
@@ -515,6 +515,30 @@
         "image_url": null
     },
     {
+        "date": "Do, 03.07.2025",
+        "time": "16:30",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 03.07.2025",
+        "time": "17:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 03.07.2025",
+        "time": "18:30",
+        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35658",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
         "date": "Th, 03.07.2025",
         "time": "18:00",
         "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
@@ -547,37 +571,13 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Do, 03.07.2025",
-        "time": "16:30",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 03.07.2025",
-        "time": "17:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 03.07.2025",
-        "time": "18:30",
-        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35658",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
         "date": "Thu, 03.07.2025",
         "time": "21:00",
         "event": "TURBO 120 Minuten Rave w/ Turbomarius • Trance / Hardbounce / Techno / Power House • Oma Doris, Dortmund (@Locations)",
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/turbo-120-minuten-rave-w-turbomarius-trance-hardbounce-techn-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GZ5FNsPnSwGSZ8rBvjwk_fishnchips-web-1920-1080.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lvqsaE2JR2aDeiG2ePDW_afterhourfbheader.jpg",
         "city": "Dortmund"
     },
     {
@@ -607,7 +607,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/comedy-meets-beats-berlin-anders-erleben-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3n75TgUyQvGMNWz2zxQD_schwarze-schafe-youtube-thumbnail-rz.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/UR2SgQQRZSBC8zD8zip7_lxl-logo.jpg",
         "city": "Berlin"
     },
     {
@@ -677,7 +677,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/dude-whats-up-berlin-english-stand-up-comedy-show-with-tera--0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3n75TgUyQvGMNWz2zxQD_schwarze-schafe-youtube-thumbnail-rz.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/p5NhzFGRRLCqTZ4lUJPs_theharp.jpg",
         "city": "Berlin"
     },
     {
@@ -687,7 +687,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/der-mad-monkey-donnerstag-107/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3JxQZiZSBCUVhShXSlZV_mmrshowblank1.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/uu7soAPCSl2eQXPNytl7_schwarze-schafe-youtube-thumbnail-rz.jpg",
         "city": "Berlin"
     },
     {
@@ -718,22 +718,6 @@
     },
     {
         "date": "Fr, 04.07.2025",
-        "time": "23:00",
-        "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
-        "category": "Party",
-        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
-        "image_url": null
-    },
-    {
-        "date": "Fr, 04.07.2025",
-        "time": "7:00",
-        "event": "Wochenmarkt (@Alter Markt, Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Fr, 04.07.2025",
         "time": "16:00",
         "event": "Volleyball(@hochschulsport_bielefeld)",
         "category": "Sport",
@@ -757,10 +741,26 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "date": "Fr, 04.07.2025",
+        "time": "23:00",
+        "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
+        "category": "Party",
+        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
+        "image_url": null
+    },
+    {
+        "date": "Fr, 04.07.2025",
+        "time": "7:00",
+        "event": "Wochenmarkt (@Alter Markt, Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
         "date": "Fri, 04.07.2025",
         "time": "23:00",
         "event": "ATZNPOP w/ B4CHN4, Schmaecks, CHPSTCK • Trance / Hardbounce / y2k Tekkno • Stollen134, Dortmund (@Locations)",
-        "category": "",
+        "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/atznpop-w-b4chn4-schmaecks-chpstck-trance-hardbounce-y2k-tek-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/g51YKwywSK6GHOC9EwA0_logo_neu.jpg",
@@ -837,6 +837,22 @@
     },
     {
         "date": "Sa, 05.07.2025",
+        "time": "10:00",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36263",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 05.07.2025",
+        "time": "11:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 05.07.2025",
         "time": "9:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
         "category": "Sport",
@@ -858,22 +874,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sa, 05.07.2025",
-        "time": "10:00",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36263",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 05.07.2025",
-        "time": "11:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Sat, 05.07.2025",
@@ -942,22 +942,6 @@
         "link": "https://www.bielefeld.jetzt/node/1016405"
     },
     {
-        "date": "Su, 06.07.2025",
-        "time": "19:00",
-        "event": "*TRIBE KENNENLERNABEND*",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Su, 06.07.2025",
-        "time": "9:00",
-        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/uprunningclub/?hl=de",
-        "image_url": null
-    },
-    {
         "date": "So, 06.07.2025",
         "time": "09:00",
         "event": "Yoga(@hochschulsport_bielefeld)",
@@ -982,13 +966,29 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "date": "Su, 06.07.2025",
+        "time": "19:00",
+        "event": "*TRIBE KENNENLERNABEND*",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Su, 06.07.2025",
+        "time": "9:00",
+        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/uprunningclub/?hl=de",
+        "image_url": null
+    },
+    {
         "date": "Sun, 06.07.2025",
         "time": "16:00",
         "event": "„Heinz Erhardt & Peter Alexander“ – Musikalische Komödie auf der Seebühne im Westfalenpark Dortmund (@Locations)",
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/erhardt-alexander-musikalische-komodie-auf-der-seebuhne-im-w-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/I3hHbK6uTpyImvWQhOJq_paula-hartmann15credit-jakob-furis.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/PyUGejLjSCaC6HBlLuev_baege_224119.jpg",
         "city": "Dortmund"
     },
     {
@@ -1026,14 +1026,6 @@
         "description": "Konzert im Botanischen Garten",
         "image_url": null,
         "link": "https://www.bielefeld.jetzt/node/909743"
-    },
-    {
-        "date": "Mo, 07.07.2025",
-        "time": "20:00",
-        "event": "Pub Quiz (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
     },
     {
         "date": "Mo, 07.07.2025",
@@ -1084,6 +1076,14 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "date": "Mo, 07.07.2025",
+        "time": "20:00",
+        "event": "Pub Quiz (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
         "date": "Mo, 07.07",
         "event": "ALL OUT WARSECOND SIGHTJUST LOOK AROUND (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/flacore-festival-2/",
@@ -1097,30 +1097,6 @@
         "description": "Es ist wieder soweit. Am Montag, den 07. Juli, wird um 20 Uhr im Audimax der Universität das Sommerkonzert des Universitätsorchesters stattfinden. Auf dem Programm stehen das Cellokonzert op. 85 von Edward Elgar und die von Michael Hoyer für Orchester bearbeiteten Sätze 1-3 von Schuberts Klaviersonate in B-Dur D 960. Als Solistin tritt die aus Slowenien stammende Minja Spasic erstmalig bei einem Konzert des Universitätsorchesters in Erscheinung. Sie ist nach ihrem Abschluss an der Detmolder Musikhochschule als freie Cellistin und Instrumentallehrerin tätig. Der Eintritt ist frei.",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/imported_events/bielefeld_veranstaltung_importer_uni_bielefeld/2025-SoSe-UOB-scaled.jpg?itok=_UAa33lY",
         "link": "https://www.bielefeld.jetzt/node/1107544"
-    },
-    {
-        "date": "Tu, 08.07.2025",
-        "time": "18:00",
-        "event": "*TRIBE TUESDAY RUN(@GELLERSHAGEN PARK TEICH)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Tu, 08.07.2025",
-        "time": "20:00",
-        "event": "Kneipenquiz(@gegenueber_bar)",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/gegenueber_bar/?hl=de",
-        "image_url": null
-    },
-    {
-        "date": "Tu, 08.07.2025",
-        "time": "7:00",
-        "event": "Wochenmarkt(@Alter Markt)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Di, 08.07.2025",
@@ -1163,6 +1139,30 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "date": "Tu, 08.07.2025",
+        "time": "18:00",
+        "event": "*TRIBE TUESDAY RUN(@GELLERSHAGEN PARK TEICH)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Tu, 08.07.2025",
+        "time": "20:00",
+        "event": "Kneipenquiz(@gegenueber_bar)",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/gegenueber_bar/?hl=de",
+        "image_url": null
+    },
+    {
+        "date": "Tu, 08.07.2025",
+        "time": "7:00",
+        "event": "Wochenmarkt(@Alter Markt)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
         "date": "Mi, 09.07",
         "time": "23:00",
         "event": "MI • BERGFEST (@cafe_europa_bi)",
@@ -1177,38 +1177,6 @@
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/gumo-bielefeld/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/06/Stereo_09_0725_Feed.jpg"
-    },
-    {
-        "date": "We, 09.07.2025",
-        "time": "21:00",
-        "event": "Karaoke (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "We, 09.07.2025",
-        "time": "7:00",
-        "event": "Wochenmarkt(@Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "We, 09.07.2025",
-        "time": "20:00",
-        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
-        "image_url": null
-    },
-    {
-        "date": "We, 09.07.2025",
-        "time": "20:00",
-        "event": "DIES DAS COMEDY - OPEN MIC (@diesdascomedy)",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/diesdascomedy/",
-        "image_url": null
     },
     {
         "date": "Mi, 09.07.2025",
@@ -1265,6 +1233,38 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35415",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "We, 09.07.2025",
+        "time": "21:00",
+        "event": "Karaoke (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "We, 09.07.2025",
+        "time": "7:00",
+        "event": "Wochenmarkt(@Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "We, 09.07.2025",
+        "time": "20:00",
+        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
+        "image_url": null
+    },
+    {
+        "date": "We, 09.07.2025",
+        "time": "20:00",
+        "event": "DIES DAS COMEDY - OPEN MIC (@diesdascomedy)",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/diesdascomedy/",
+        "image_url": null
     },
     {
         "date": "Mi, 09.07.2025",
@@ -1501,7 +1501,7 @@
         "date": "Sat, 12.07.2025",
         "time": "18:00",
         "event": "Provinz \"Pazifik\" • Open Airs 2025 (@Locations)",
-        "category": "Sponsored",
+        "category": "",
         "description": "",
         "link": "https://rausgegangen.de/en/events/provinz-pazifik-open-airs-2025-2/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GgLC5EbQpWuRumGdGXg2_provinz-open-airs-fb-banner.jpg",
@@ -2040,7 +2040,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/9-9-9-live-2025-support-clox-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/I3hHbK6uTpyImvWQhOJq_paula-hartmann15credit-jakob-furis.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/oclZpxJSpGlQRLKKCOU8_rinsplashmaikschuster03.jpg",
         "city": "Dortmund"
     },
     {
@@ -2428,6 +2428,12 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
+    },
+    {
+        "date": "We, 06.08",
+        "event": "Smallroom (@forum_bielefeld)",
+        "link": "https://forum-bielefeld.com/smallroom-62/",
+        "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
         "date": "Th, 07.08.2025",
@@ -2992,6 +2998,12 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 23.08",
+        "event": "Dark Light (@forum_bielefeld)",
+        "link": "https://forum-bielefeld.com/dark-light-2/",
+        "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
         "date": "Su, 24.08.2025",
@@ -3925,7 +3937,7 @@
         "category": "Sponsored",
         "description": "",
         "link": "https://rausgegangen.de/en/events/7stages-comedy-open-mic-30/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aWYiA3slQd2XIT0PQgFk_img6251.jpg",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GZ5FNsPnSwGSZ8rBvjwk_fishnchips-web-1920-1080.jpg",
         "city": "Dortmund"
     },
     {
