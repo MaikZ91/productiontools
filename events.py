@@ -1002,8 +1002,14 @@ def scrape_events(base_url):
 
                 # ------------- Bild -------------
                 def clean_img_url(url: Optional[str]) -> Optional[str]:
-                    return url.split("?", 1)[0] if url else None
-
+                    if not raw:
+                        return None
+                
+                    parts = list(urlsplit(raw))         
+                    safe_qs = [(k, v) for k, v in parse_qsl(parts[3]) if v.strip()]
+                    parts[3] = urlencode(safe_qs, doseq=True)
+                    cleaned = urlunsplit(parts)
+                    return cleaned.split("?", 1)[0] if cleaned.endswith("?") else cleaned
                 img_url = None
                 og_tag = soup_ev.find("meta", property="og:image")
                 if og_tag and og_tag.get("content"):
