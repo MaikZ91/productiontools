@@ -1028,7 +1028,7 @@ def scrape_events(base_url):
 
                 # ------------- Event-Name -------------
                 if location:
-                    event_name = f"{title} – ({location})"
+                    event_name = f"{title} (@{location})"
                 else:
                     event_name = f"{title}"
 
