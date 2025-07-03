@@ -4,7 +4,7 @@ import json
 import re
 import datetime
 from datetime import datetime as dt, timedelta
-from urllib.parse import urljoin
+from urllib.parse import urljoin,urlsplit, urlunsplit, parse_qsl, urlencode
 import calendar
 import traceback
 from typing import Optional
