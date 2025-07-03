@@ -1001,7 +1001,7 @@ def scrape_events(base_url):
                 ).get_text(" ").strip()
 
                 # ------------- Bild -------------
-                def clean_img_url(url: str | None) -> str | None:
+                def clean_img_url(url: Optional[str]) -> Optional[str]:
                     return url.split("?", 1)[0] if url else None
 
                 img_url = None
