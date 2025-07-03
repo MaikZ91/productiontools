@@ -1001,11 +1001,11 @@ def scrape_events(base_url):
                 ).get_text(" ").strip()
 
                 # ------------- Bild -------------
-                def clean_img_url(url: Optional[str]) -> Optional[str]:
-                    if not raw:
+                def clean_img_url(raw_url: Optional[str]) -> Optional[str]:
+                    if not raw_url:
                         return None
                 
-                    parts = list(urlsplit(raw))         
+                    parts = list(urlsplit(raw_url))         
                     safe_qs = [(k, v) for k, v in parse_qsl(parts[3]) if v.strip()]
                     parts[3] = urlencode(safe_qs, doseq=True)
                     cleaned = urlunsplit(parts)
