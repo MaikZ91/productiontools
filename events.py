@@ -1022,9 +1022,9 @@ def scrape_events(base_url):
 
                 # ------------- Event-Name -------------
                 if location:
-                    event_name = f"{title} – ({location}, {city_name})"
+                    event_name = f"{title} – ({location})"
                 else:
-                    event_name = f"{title} – ({city_name})"
+                    event_name = f"{title}"
 
                 # ------------- Append -------------
                 events.append({
