@@ -1037,6 +1037,8 @@ def scrape_events(base_url):
                     "image_url":   img_url,
                     "city":        city_name
                 })
+            except Exception as e:
+                print(f"Fehler bei Detail-Scrape {link}: {e}")
 
             
     if base_url in [movie, platzhirsch, irish_pub]:
