@@ -73,6 +73,16 @@
     },
     {
         "date": "Mon, 07.07.2025",
+        "time": "17:30",
+        "event": "Gastro-Heroes-Night (@Strobels)",
+        "category": "",
+        "description": "Hier wird nicht nur angestoßen, hier wird abgerissen – auf die Leute, die den Laden am Laufen halten.",
+        "link": "https://rausgegangen.de/en/events/gastro-heroes-night-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ecRcpe63QiuzyIiAGpmK_ghn25.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Mon, 07.07.2025",
         "time": "18:00",
         "event": "Vernissage im Specks Hof – Kunst und Zukunft: Erinnern, um weiterzudenken (@Nikolaikirchhof)",
         "category": "",
@@ -96,20 +106,10 @@
         "time": "20:30",
         "event": "Monday Jazz (@Südbrause)",
         "category": "",
-        "description": "Am 23.09. startet die wöchentliche Reihe „Monday Jazz“ in der Südbrause am Connewitzer Kreuz. 🎹🥁🎶  In gemütlicher Baratmosphäre spielen die drei Musiker Robbi Nakayama (Klavier), Freddie Kleimann (Kontrabass) & Anton Mück jede Woche montags von 20:30-22:00 Uhr ein Programm aus der Welt der Jazzkompositionen von Komponisten wie Duke Ellington, Hoagy Carmichael, George Gershwin und vielen mehr.   Die Band spielt zwei Sets mit einer kurzen Pause und es gibt einen kleinen Kulturbeitrag von 3€ auf das erste Getränk. Wer die Musiker weiter unterstützen möchte ist herzlich dazu eingeladen, zusätzlich etwas in die Spendenbox zu tun.",
+        "description": "Seit dem Sommer 2023 läuft die Reihe „Monday Jazz“ in der Südbrause am Connewitzer Kreuz. 🎹🥁🎶In gemütlicher Baratmosphäre spielen die drei Musiker Robbi Nakayama (Klavier), Freddie Kleimann (Kontrabass) & Jan-Einar Groh jede Woche montags von 20:30-22:00 Uhr ein Programm aus ausgewählten Jazzsongs von Komponisten wie Duke Ellington, Hoagy Carmichael, George Gershwin und vielen mehr. Die Band spielt zwei Sets mit einer kurzen Pause und es gibt einen kleinen Kulturbeitrag von 3€ auf das erste Getränk. Wer die Musiker weiter unterstützen möchte ist herzlich dazu eingeladen, zusätzlich etwas in die Spendenbox zu tun.",
         "link": "https://rausgegangen.de/en/events/monday-jazz-40/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RoKnHrSATRqbLagbiWXm_Monday%20Jazz%20S%C3%BCdbrause.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Mon, 07.07.2025",
-        "time": "17:30",
-        "event": "Gastro-Heroes-Night (@Strobels)",
-        "category": "",
-        "description": "Hier wird nicht nur angestoßen, hier wird abgerissen – auf die Leute, die den Laden am Laufen halten.",
-        "link": "https://rausgegangen.de/en/events/gastro-heroes-night-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ecRcpe63QiuzyIiAGpmK_ghn25.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
     },
     {
         "date": "Mon, 07.07.2025",
@@ -494,6 +494,14 @@
         "city": "Hamburg"
     },
     {
+        "date": "Mi, 09.07",
+        "time": "23:00",
+        "event": "MI • BERGFEST (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-bergfest-16/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250709_Bergfest_4zu5.jpg"
+    },
+    {
         "date": "We, 09.07.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -524,14 +532,6 @@
         "category": "Ausgehen",
         "link": "https://www.instagram.com/diesdascomedy/",
         "image_url": null
-    },
-    {
-        "date": "Mi, 09.07",
-        "time": "23:00",
-        "event": "MI • BERGFEST (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-bergfest-16/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250709_Bergfest_4zu5.jpg"
     },
     {
         "date": "Mi, 09.07.2025",
@@ -878,18 +878,18 @@
     {
         "date": "Th, 10.07.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 10.07.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 10.07.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 10.07.2025",
@@ -1238,8 +1238,8 @@
         "date": "Thu, 10.07.2025",
         "time": "17:00",
         "event": "\"Touch of Sound\"-Band (@Klosterplatz)",
-        "category": "Auf dem Abendmarkt",
-        "description": "Auf dem Abendmarkt",
+        "category": "Abendmarkt 2025",
+        "description": "Abendmarkt 2025",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/webform/termine_melden/16258/pt-touch-of-sound-band.jpg?itok=oHHj35B-",
         "link": "https://www.bielefeld.jetzt/node/1152718"
     },
@@ -1250,6 +1250,14 @@
         "category": "Party",
         "link": "https://www.club-sams.de/veranstaltung/darkside-of-sams-with-kuko-harder-styles-tranceland-11072025-2230",
         "image_url": "https://www.club-sams.de/data/202506/DARKSIDE_w_KUKO_600_x_846_mm__150.jpg?v=1751146354"
+    },
+    {
+        "date": "Fr, 11.07",
+        "time": "17:00",
+        "event": "FR • TURBO TRASH (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-turbo-trash-3/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250711_Turbotrash_4zu5.jpg"
     },
     {
         "date": "Fr, 11.07.2025",
@@ -1274,14 +1282,6 @@
         "category": "Kreativität",
         "link": "https://kunsthalle-bielefeld.de/programm/veranstaltungen/#10209",
         "image_url": null
-    },
-    {
-        "date": "Fr, 11.07",
-        "time": "17:00",
-        "event": "FR • TURBO TRASH (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-turbo-trash-3/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250711_Turbotrash_4zu5.jpg"
     },
     {
         "date": "Fr, 11.07.2025",
@@ -1323,6 +1323,16 @@
         "link": "https://rausgegangen.de/en/events/foxl-8/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/F67XmcQRreyzVKo46dzQ_foxl-presse-quadrat.png?width=1200&height=900&mode=crop",
         "city": "Münster"
+    },
+    {
+        "date": "Fri, 11.07.2025",
+        "time": "22:00",
+        "event": "PLANET POP • Guilty Pleasures / 90s / 00s / 10s • Stollen134, Dortmund (@Stollen134 - Techno Club Dortmund)",
+        "category": "",
+        "description": "Bangers and Guilty Pleasures der 90s, y2k Era bis heute!🎟️ VVK läuft – sichere dir jetzt dein Ticket! ⏰ FR 11.07.2025 // ab 22h00 📍 Stollen134, Westenhellweg 134, Dortmund INSTAGRAM: @planetpop___ ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔ ADDITIONAL INFORMATION: • 18+ // don’t forget your ID card • 🏳️‍🌈 You are welcome! • Be nice to each other. We have no place for discrimination, homophobia, racism, sexism, hate. • Accessibility: The venue is not physically barrier-free.",
+        "link": "https://rausgegangen.de/en/events/planet-pop-guilty-pleasures-90s-00s-10s-stollen134-dortmund-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/93NhPzlMSASq6zivf4Vy_planetpopticket.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Fri, 11.07.2025",
@@ -1393,16 +1403,6 @@
         "link": "https://rausgegangen.de/en/events/datsche-24-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/MBoJ88TBRCucct61nDrk_datsche241080x1350px.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Fri, 11.07.2025",
-        "time": "22:00",
-        "event": "PLANET POP • Guilty Pleasures / 90s / 00s / 10s • Stollen134, Dortmund (@Stollen134 - Techno Club Dortmund)",
-        "category": "",
-        "description": "Bangers and Guilty Pleasures der 90s, y2k Era bis heute!🎟️ VVK läuft – sichere dir jetzt dein Ticket! ⏰ FR 11.07.2025 // ab 22h00 📍 Stollen134, Westenhellweg 134, Dortmund INSTAGRAM: @planetpop___ ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔ ADDITIONAL INFORMATION: • 18+ // don’t forget your ID card • 🏳️‍🌈 You are welcome! • Be nice to each other. We have no place for discrimination, homophobia, racism, sexism, hate. • Accessibility: The venue is not physically barrier-free.",
-        "link": "https://rausgegangen.de/en/events/planet-pop-guilty-pleasures-90s-00s-10s-stollen134-dortmund-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/93NhPzlMSASq6zivf4Vy_planetpopticket.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
     },
     {
         "date": "Fri, 11.07.2025",
@@ -1558,6 +1558,14 @@
         "image_url": "https://www.club-sams.de/data/202507/Samstag_12_07_Homepage_1__150.jpg?v=1751457724"
     },
     {
+        "date": "Sa, 12.07",
+        "time": "23:00",
+        "event": "SA • SALITOS CLUB NIGHT – NEW AREA OPENING – SONDERVERANSTALTUNG (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-salitos-club-night-new-area-opening-sonderveransltung/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250712_SalitosClubNight_4zu5-1.jpg"
+    },
+    {
         "date": "Sa, 12.07.2025",
         "time": "9:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -1580,14 +1588,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sa, 12.07",
-        "time": "23:00",
-        "event": "SA • SALITOS CLUB NIGHT – NEW AREA OPENING – SONDERVERANSTALTUNG (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-salitos-club-night-new-area-opening-sonderveransltung/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250712_SalitosClubNight_4zu5-1.jpg"
     },
     {
         "date": "Sa, 12.07.2025",
@@ -1613,10 +1613,30 @@
     },
     {
         "date": "Sat, 12.07.2025",
+        "time": "18:00",
+        "event": "Provinz \"Pazifik\" • Open Airs 2025 (@Westfalenpark)",
+        "category": "",
+        "description": "Provinz bringen mit ihrem neuen Album „Pazifik“ frischen Sound und ehrliche Texte auf die Bühne. Wer auf handgemachten Indie-Pop mit Tiefgang steht, sollte sich ihr Konzert nicht entgehen lassen. ✨",
+        "link": "https://rausgegangen.de/en/events/provinz-pazifik-open-airs-2025-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GgLC5EbQpWuRumGdGXg2_provinz-open-airs-fb-banner.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 12.07.2025",
+        "time": "23:00",
+        "event": "Nice Up! #134 (@Großmarktschänke)",
+        "category": "",
+        "description": "Greetings, liebe Leute! ❤️💛💚 Die Sonne bringt Glück und Vibes ☀️✨! Am Samstag, den 12.07., öffnet die NICE UP! wieder ihre Tore und lädt euch ein, das Leben in vollen Zügen zu feiern. Und wir haben ein echtes Highlight für euch am Start! 🌟Wir feiern die NICE UP! zusammen mit unseren Gästen, dem Ba!Ba!Bad Soundsystem – und natürlich unseren geliebten Residents, dem Blockbuster Soundsystem! 🔊 OMG – Herz, was willst du mehr?Das Ba!Ba!Bad Soundsystem hat uns schon mit unvergesslichen Nächten voller Sound und Soul in der Schänke begeistert – und wir können’s kaum erwarten, wieder gemeinsam mit euch die Tanzfläche in ein brodelndes Meer aus Glückseligkeit zu verwandeln. 💃🌊Lasst euch treiben zu Dancehall, Reggae, Shatta, Afrobeats und Reggaeton – Ruhr Breeze, Dancehall Station und Blockbuster Soundsystem liefern dafür den perfekten Soundtrack. 🎶Macht euch bereit für eine vibrierende Nacht voller Tanz, guter Laune  und positiver Energie. Kommt vorbei – wir freuen uns auf euch!Big Up! Love Up! Nice Up! ✌️ Eintritt bis 22:30 Uhr: € 6,00 - danach € 12,00 Ermäßigter Eintritt: € 8,00 | Zutritt ab 18",
+        "link": "https://rausgegangen.de/en/events/nice-up-134-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3PVCd5CmT0ebXvMIPSlk_nice-upbanner.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 12.07.2025",
         "time": "11:00",
         "event": "Strawberry Chocolate Workshop (@Eventspace Satellit Leipzig)",
         "category": "",
-        "description": "🍓✨ Strawberry Chocolate Workshop von Joy Factory 🍫 @joyf.actory Ein sommerliches Erlebnis für alle Sinne! An einem warmen Sommertag treffen frische, saisonale Erdbeeren auf belgische Schokolade, prickelnden Prosecco – und das mitten im Herzen der Stadt, in bester Gesellschaft. Aber das ist mehr als nur ein Workshop:Es ist ein sinnliches Eintauchen in Geschmack, Kreativität und Verbindung. In 1,5 Stunden wirst du: 🍫 lernen, wie man Erdbeeren kunstvoll in Schokolade taucht🎨 verschiedene Dekorationstechniken ausprobieren – von elegant bis verspielt💡 wertvolle Tipps und Tricks rund um die Zubereitung & Präsentation erhalten🍓 deine eigene kleine Erdbeer-Box gestalten – zum Mitnehmen oder VerschenkenNatürlich darf auch gekostet werden:Genieße die Schoko-Kunstwerke direkt vor Ort – begleitet von einem Glas eiskaltem Prosecco 🥂  Alle Materialien, hochwertigen Zutaten sowie liebevoll ausgewählte Dekoartikel sind inklusive – du brauchst nichts mitzubringen außer Lust auf Genuss & Kreativität. Lass dich verführen – mit allen Sinnen.Die Plätze sind begrenzt – sichere dir dein Ticket rechtzeitig!",
+        "description": "🍓✨ Strawberry Chocolate Workshop von Joy Factory 🍫 WICHTIGE INFO: DU KANNST BEI DER VERLOSUNG NUR MITMACHEN, WENN DU UNS BEI INSTAGRAM FOLGST: @joyf.actory Ein sommerliches Erlebnis für alle Sinne! An einem warmen Sommertag treffen frische, saisonale Erdbeeren auf belgische Schokolade, prickelnden Prosecco – und das mitten im Herzen der Stadt, in bester Gesellschaft. Aber das ist mehr als nur ein Workshop:Es ist ein sinnliches Eintauchen in Geschmack, Kreativität und Verbindung. In 1,5 Stunden wirst du: 🍫 lernen, wie man Erdbeeren kunstvoll in Schokolade taucht🎨 verschiedene Dekorationstechniken ausprobieren – von elegant bis verspielt💡 wertvolle Tipps und Tricks rund um die Zubereitung & Präsentation erhalten🍓 deine eigene kleine Erdbeer-Box gestalten – zum Mitnehmen oder VerschenkenNatürlich darf auch gekostet werden:Genieße die Schoko-Kunstwerke direkt vor Ort – begleitet von einem Glas eiskaltem Prosecco 🥂  Alle Materialien, hochwertigen Zutaten sowie liebevoll ausgewählte Dekoartikel sind inklusive – du brauchst nichts mitzubringen außer Lust auf Genuss & Kreativität. Lass dich verführen – mit allen Sinnen.Die Plätze sind begrenzt – sichere dir dein Ticket rechtzeitig!",
         "link": "https://rausgegangen.de/en/events/strawberry-chocolate-workshop-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zvGpIzIRuueUF0dxeOml_img3368.JPG?width=1200&height=900&mode=crop",
         "city": "Leipzig"
@@ -1660,26 +1680,6 @@
         "link": "https://rausgegangen.de/en/events/do-not-disturb-1/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8ZSlgERDTcy811RAcowK_fb-elodis.png?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Sat, 12.07.2025",
-        "time": "18:00",
-        "event": "Provinz \"Pazifik\" • Open Airs 2025 (@Westfalenpark)",
-        "category": "",
-        "description": "Provinz bringen mit ihrem neuen Album „Pazifik“ frischen Sound und ehrliche Texte auf die Bühne. Wer auf handgemachten Indie-Pop mit Tiefgang steht, sollte sich ihr Konzert nicht entgehen lassen. ✨",
-        "link": "https://rausgegangen.de/en/events/provinz-pazifik-open-airs-2025-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GgLC5EbQpWuRumGdGXg2_provinz-open-airs-fb-banner.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 12.07.2025",
-        "time": "23:00",
-        "event": "Nice Up! #134 (@Großmarktschänke)",
-        "category": "",
-        "description": "Greetings, liebe Leute! ❤️💛💚 Die Sonne bringt Glück und Vibes ☀️✨! Am Samstag, den 12.07., öffnet die NICE UP! wieder ihre Tore und lädt euch ein, das Leben in vollen Zügen zu feiern. Und wir haben ein echtes Highlight für euch am Start! 🌟Wir feiern die NICE UP! zusammen mit unseren Gästen, dem Ba!Ba!Bad Soundsystem – und natürlich unseren geliebten Residents, dem Blockbuster Soundsystem! 🔊 OMG – Herz, was willst du mehr?Das Ba!Ba!Bad Soundsystem hat uns schon mit unvergesslichen Nächten voller Sound und Soul in der Schänke begeistert – und wir können’s kaum erwarten, wieder gemeinsam mit euch die Tanzfläche in ein brodelndes Meer aus Glückseligkeit zu verwandeln. 💃🌊Lasst euch treiben zu Dancehall, Reggae, Shatta, Afrobeats und Reggaeton – Ruhr Breeze, Dancehall Station und Blockbuster Soundsystem liefern dafür den perfekten Soundtrack. 🎶Macht euch bereit für eine vibrierende Nacht voller Tanz, guter Laune  und positiver Energie. Kommt vorbei – wir freuen uns auf euch!Big Up! Love Up! Nice Up! ✌️ Eintritt bis 22:30 Uhr: € 6,00 - danach € 12,00 Ermäßigter Eintritt: € 8,00 | Zutritt ab 18",
-        "link": "https://rausgegangen.de/en/events/nice-up-134-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3PVCd5CmT0ebXvMIPSlk_nice-upbanner.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
     },
     {
         "date": "Sat, 12.07.2025",
@@ -2051,18 +2051,18 @@
     {
         "date": "Th, 17.07.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 17.07.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 17.07.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 17.07.2025",
@@ -2221,10 +2221,20 @@
     },
     {
         "date": "Sat, 19.07.2025",
+        "time": "23:00",
+        "event": "KILLING ME SOFTLY (@Großmarktschänke)",
+        "category": "",
+        "description": "Aloha ihr Lieben! 💫Es ist wieder Zeit für Killing Me Softly – eine Nacht voller Gefühl, Groove und Good Vibes! Wenn RnB-Klassiker auf 2000er Hip-Hop treffen, Erinnerungen aufblühen und der Dancefloor leuchtet, dann ist klar: Hier tanzt das Herz mit.Wir freuen uns riesig auf ein ganz besonderes Wiedersehen: 🌸 Sini Likkleluv spielt ein strahlendes Heimspiel! Mit kraftvollen Beats und tanzbaren Lieblingssongs zaubert sie uns Sonne in die Beine und Leichtigkeit ins Herz.An ihrer Seite: 🎶 DJ Marshall Artz – unser Resident mit dem perfekten Händchen für fließende Übergänge und euphorische Tanzmomente. Gemeinsam schenken sie uns eine Nacht, die sich anfühlt wie ein musikalischer Kurzurlaub: vertraut, lebendig und voller Glanz. Eine Feier für alle, die den Vibe lieben, sich fallen lassen wollen – und einfach tanzen müssen.Zieh an, was sich gut anfühlt – ob Glitzer oder Sneaker – schnapp dir deine Lieblingsmenschen und lass uns gemeinsam durch Erinnerungen, Melodien und Lichter tanzen. 🌙💃 ✨ Let the rhythm hold you, the music lift you and the night carry you. Wir freuen uns auf dich! Eintritt bis 22:30 Uhr: € 6,00 - danach € 12,00 Ermäßigter Eintritt: € 8,00 | Zutritt ab 18",
+        "link": "https://rausgegangen.de/en/events/killing-me-softly-28/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eP8kGRY1QJyACal9zDMQ_killing-me-softly-banner.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 19.07.2025",
         "time": "11:00",
         "event": "Flowerbox Workshop (@Eventspace Satellit Leipzig)",
         "category": "",
-        "description": "🌸✨ Flowerbox Workshop – Dein eigenes Blumenkunstwerk gestalten mit Joy Factory✨🌸@joyf.actory Blumen sind mehr als nur ein schönes Geschenk – sie erzählen eine Geschichte, sie berühren, sie bleiben in Erinnerung.In diesem kreativen Workshop lernst du, wie du aus frischen Blumen eine stilvolle Flowerbox gestaltest – als persönliches Geschenk oder elegantes Dekostück für dein Zuhause. In ca. 1,5 Stunden erfährst du:💐 wie man professionell mit Schnittblumen und Floristenoase arbeitet🎨 wie du Farben & Formen harmonisch kombinierst🧰 welche Techniken Florist:innen verwenden, damit Blumen länger frisch bleiben🌸 und vor allem: wie du deine eigene Flowerbox individuell gestaltestDu wählst aus verschiedenen Boxfarben & Blumensorten – alles ist vorbereitet, du brauchst nur deine Kreativität mitzubringen. Inklusive:💐 Auswahl an frischen Blumen (Saisonabhängig)🎁 Hochwertige Flowerbox in Wunschfarbe🧽 Floristenoase & alle Materialien✂️ Floristen-Werkzeug zur Nutzung vor Ort🧠 Anleitung & Tipps vom Workshop-Host🌸 Deine eigene Flowerbox zum Mitnehmen🥂 Ein Glas Prosecco oder alkoholfreie Alternative🎶 Entspannte Atmosphäre in zentraler Location Kreativ. Sinnlich. Persönlich.Sichere dir deinen Platz und verwandle Blumen in Emotionen! 🌷",
+        "description": "🌸✨ Flowerbox Workshop – Dein eigenes Blumenkunstwerk gestalten mit Joy Factory✨🌸    WICHTIGE INFO: DU KANNST BEI DER VERLOSUNG NUR MITMACHEN, WENN DU UNS BEI INSTAGRAM FOLGST: @joyf.actory  Blumen sind mehr als nur ein schönes Geschenk – sie erzählen eine Geschichte, sie berühren, sie bleiben in Erinnerung.In diesem kreativen Workshop lernst du, wie du aus frischen Blumen eine stilvolle Flowerbox gestaltest – als persönliches Geschenk oder elegantes Dekostück für dein Zuhause. In ca. 1,5 Stunden erfährst du:💐 wie man professionell mit Schnittblumen und Floristenoase arbeitet🎨 wie du Farben & Formen harmonisch kombinierst🧰 welche Techniken Florist:innen verwenden, damit Blumen länger frisch bleiben🌸 und vor allem: wie du deine eigene Flowerbox individuell gestaltestDu wählst aus verschiedenen Boxfarben & Blumensorten – alles ist vorbereitet, du brauchst nur deine Kreativität mitzubringen. Inklusive:💐 Auswahl an frischen Blumen (Saisonabhängig)🎁 Hochwertige Flowerbox in Wunschfarbe🧽 Floristenoase & alle Materialien✂️ Floristen-Werkzeug zur Nutzung vor Ort🧠 Anleitung & Tipps vom Workshop-Host🌸 Deine eigene Flowerbox zum Mitnehmen🥂 Ein Glas Prosecco oder alkoholfreie Alternative🎶 Entspannte Atmosphäre in zentraler Location Kreativ. Sinnlich. Persönlich.Sichere dir deinen Platz und verwandle Blumen in Emotionen! 🌷",
         "link": "https://rausgegangen.de/en/events/flowerbox-workshop-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/min0n4CuTynpjSwVRG7g_img8502.jpeg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
@@ -2248,16 +2258,6 @@
         "link": "https://rausgegangen.de/en/events/swoon-record-release-show-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/dGJFMl1Qsece2s2Rekd9_swoon-header.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Sat, 19.07.2025",
-        "time": "23:00",
-        "event": "KILLING ME SOFTLY (@Großmarktschänke)",
-        "category": "",
-        "description": "Aloha ihr Lieben! 💫Es ist wieder Zeit für Killing Me Softly – eine Nacht voller Gefühl, Groove und Good Vibes! Wenn RnB-Klassiker auf 2000er Hip-Hop treffen, Erinnerungen aufblühen und der Dancefloor leuchtet, dann ist klar: Hier tanzt das Herz mit.Wir freuen uns riesig auf ein ganz besonderes Wiedersehen: 🌸 Sini Likkleluv spielt ein strahlendes Heimspiel! Mit kraftvollen Beats und tanzbaren Lieblingssongs zaubert sie uns Sonne in die Beine und Leichtigkeit ins Herz.An ihrer Seite: 🎶 DJ Marshall Artz – unser Resident mit dem perfekten Händchen für fließende Übergänge und euphorische Tanzmomente. Gemeinsam schenken sie uns eine Nacht, die sich anfühlt wie ein musikalischer Kurzurlaub: vertraut, lebendig und voller Glanz. Eine Feier für alle, die den Vibe lieben, sich fallen lassen wollen – und einfach tanzen müssen.Zieh an, was sich gut anfühlt – ob Glitzer oder Sneaker – schnapp dir deine Lieblingsmenschen und lass uns gemeinsam durch Erinnerungen, Melodien und Lichter tanzen. 🌙💃 ✨ Let the rhythm hold you, the music lift you and the night carry you. Wir freuen uns auf dich! Eintritt bis 22:30 Uhr: € 6,00 - danach € 12,00 Ermäßigter Eintritt: € 8,00 | Zutritt ab 18",
-        "link": "https://rausgegangen.de/en/events/killing-me-softly-28/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eP8kGRY1QJyACal9zDMQ_killing-me-softly-banner.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
     },
     {
         "date": "Sat, 19.07.2025",
@@ -2407,18 +2407,18 @@
     {
         "date": "Th, 24.07.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 24.07.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 24.07.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 24.07.2025",
@@ -2476,19 +2476,19 @@
         "date": "Thu, 24.07.2025",
         "time": "18:30",
         "event": "Fortezza (@Bürgerwache)",
-        "category": "Biergartenkonzert",
-        "description": "Biergartenkonzert",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/webform/termine_melden/16145/fortezza-1-mittel.jpg?itok=Il2Ls3ST",
-        "link": "https://www.bielefeld.jetzt/node/1144833"
+        "category": "\"Klein & Fein\"–Konzerte am Biergarten",
+        "description": "\"Klein & Fein\"–Konzerte am Biergarten",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/webform/termine_melden/16263/fortezza-1-mittel.jpg?itok=W6m18m_2",
+        "link": "https://www.bielefeld.jetzt/node/1152843"
     },
     {
         "date": "Thu, 24.07.2025",
         "time": "18:30",
         "event": "Fortezza (@Bürgerwache)",
-        "category": "\"Klein & Fein\"–Konzerte am Biergarten",
-        "description": "\"Klein & Fein\"–Konzerte am Biergarten",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/webform/termine_melden/16263/fortezza-1-mittel.jpg?itok=W6m18m_2",
-        "link": "https://www.bielefeld.jetzt/node/1152843"
+        "category": "Biergartenkonzert",
+        "description": "Biergartenkonzert",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/webform/termine_melden/16145/fortezza-1-mittel.jpg?itok=Il2Ls3ST",
+        "link": "https://www.bielefeld.jetzt/node/1144833"
     },
     {
         "date": "Fr, 25.07.2025",
@@ -2664,6 +2664,14 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Mi, 30.07",
+        "time": "23:00",
+        "event": "MI • WE LOVE WEDNESDAYS (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-we-love-wednesdays/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250730_WeLoveWednesday_4zu5.jpg"
+    },
+    {
         "date": "We, 30.07.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -2688,14 +2696,6 @@
         "image_url": null
     },
     {
-        "date": "Mi, 30.07",
-        "time": "23:00",
-        "event": "MI • WE LOVE WEDNESDAYS (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-we-love-wednesdays/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250730_WeLoveWednesday_4zu5.jpg"
-    },
-    {
         "date": "Wed, 30.07.2025",
         "time": "16:00",
         "event": "Raketen Erna: »Electric Kindieland« (@Kesselbrink)",
@@ -2716,18 +2716,18 @@
     {
         "date": "Th, 31.07.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 31.07.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 31.07.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 31.07.2025",
@@ -2900,6 +2900,14 @@
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
+        "date": "Mi, 06.08",
+        "time": "23:00",
+        "event": "MI • WET WEDNESDAY (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wet-wednesday-3/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250806_WetWednesday_4zu5.jpg"
+    },
+    {
         "date": "We, 06.08.2025",
         "time": "17:00",
         "event": "Art Night (@loom_bielefeld)",
@@ -2932,14 +2940,6 @@
         "image_url": null
     },
     {
-        "date": "Mi, 06.08",
-        "time": "23:00",
-        "event": "MI • WET WEDNESDAY (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wet-wednesday-3/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250806_WetWednesday_4zu5.jpg"
-    },
-    {
         "date": "We, 06.08",
         "event": "Smallroom (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/smallroom-62/",
@@ -2948,18 +2948,18 @@
     {
         "date": "Th, 07.08.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 07.08.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 07.08.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 07.08.2025",
@@ -3004,6 +3004,14 @@
         "city": "Münster"
     },
     {
+        "date": "Fr, 08.08",
+        "time": "23:00",
+        "event": "FR • TURBO TRASH • RAUM2 BOOTY BOUNCE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-turbo-trash-raum2-booty-bounce-3/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250808_Turbotrash_4zu5.jpg"
+    },
+    {
         "date": "Fr, 08.08.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -3026,14 +3034,6 @@
         "category": "Kreativität",
         "link": "https://kunsthalle-bielefeld.de/programm/veranstaltungen/#10209",
         "image_url": null
-    },
-    {
-        "date": "Fr, 08.08",
-        "time": "23:00",
-        "event": "FR • TURBO TRASH • RAUM2 BOOTY BOUNCE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-turbo-trash-raum2-booty-bounce-3/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250808_Turbotrash_4zu5.jpg"
     },
     {
         "date": "Fr, 08.08",
@@ -3150,6 +3150,14 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Mi, 13.08",
+        "time": "23:00",
+        "event": "MI • BERGFEST (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-bergfest-17/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250813_Bergfest_4zu5.jpg"
+    },
+    {
         "date": "We, 13.08.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -3182,14 +3190,6 @@
         "image_url": null
     },
     {
-        "date": "Mi, 13.08",
-        "time": "23:00",
-        "event": "MI • BERGFEST (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-bergfest-17/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250813_Bergfest_4zu5.jpg"
-    },
-    {
         "date": "Wed, 13.08.2025",
         "time": "19:15",
         "event": "Comedy Light Open Mic (@SpecOps network)",
@@ -3202,18 +3202,18 @@
     {
         "date": "Th, 14.08.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 14.08.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 14.08.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 14.08.2025",
@@ -3258,6 +3258,14 @@
         "city": "Dortmund"
     },
     {
+        "date": "Fr, 15.08",
+        "time": "23:00",
+        "event": "FR • CAFELICIOUS (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-cafelicious-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250815_Cafelicious_1zu1.jpg"
+    },
+    {
         "date": "Fr, 15.08.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -3272,14 +3280,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Fr, 15.08",
-        "time": "23:00",
-        "event": "FR • CAFELICIOUS (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-cafelicious-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250815_Cafelicious_1zu1.jpg"
     },
     {
         "date": "Fri, 15.08.2025",
@@ -3434,18 +3434,18 @@
     {
         "date": "Th, 21.08.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 21.08.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 21.08.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 21.08.2025",
@@ -3480,6 +3480,14 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Fr, 22.08",
+        "time": "17:00",
+        "event": "FR • 2010 FLASHBACK (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-2010-flashback-4/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250822_2010Flashback_4zu5.jpg"
+    },
+    {
         "date": "Fr, 22.08.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -3496,14 +3504,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Fr, 22.08",
-        "time": "17:00",
-        "event": "FR • 2010 FLASHBACK (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-2010-flashback-4/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250822_2010Flashback_4zu5.jpg"
-    },
-    {
         "date": "Fri, 22.08.2025",
         "time": "18:30",
         "event": "Kettcar (@JunkYard Dortmund)",
@@ -3512,6 +3512,14 @@
         "link": "https://rausgegangen.de/en/events/kettcar-9/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pH2uIa8MRHuc61YPKbqi_kettcardortmund-kopie.jpg?width=1200&height=900&mode=crop",
         "city": "Dortmund"
+    },
+    {
+        "date": "Sa, 23.08",
+        "time": "23:00",
+        "event": "SA • CAFE SUMMER NIGHTS / JAHNPLATZ OPEN AIR AFTERSHOW (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-jahnplatz-open-air-aftershow/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250823_SummerNight_4zu5.jpg"
     },
     {
         "date": "Sa, 23.08.2025",
@@ -3536,14 +3544,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sa, 23.08",
-        "time": "23:00",
-        "event": "SA • CAFE SUMMER NIGHTS / JAHNPLATZ OPEN AIR AFTERSHOW (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-jahnplatz-open-air-aftershow/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250823_SummerNight_4zu5.jpg"
     },
     {
         "date": "Sa, 23.08",
@@ -3653,18 +3653,18 @@
     {
         "date": "Th, 28.08.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 28.08.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 28.08.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 28.08.2025",
@@ -3750,6 +3750,14 @@
         "link": "https://www.bielefeld.jetzt/node/1115635"
     },
     {
+        "date": "Sa, 30.08",
+        "time": "23:00",
+        "event": "SA • IBIZA WHITE NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-ibiza-white-night-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250830_IbizaWhiteNight_4zu5.jpg"
+    },
+    {
         "date": "Sa, 30.08.2025",
         "time": "14:00",
         "event": "*TRIBE WANDERSAMSTAG*",
@@ -3780,14 +3788,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sa, 30.08",
-        "time": "23:00",
-        "event": "SA • IBIZA WHITE NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-ibiza-white-night-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250830_IbizaWhiteNight_4zu5.jpg"
     },
     {
         "date": "Sa, 30.08",
@@ -3950,18 +3950,18 @@
     {
         "date": "Th, 04.09.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 04.09.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 04.09.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 04.09.2025",
@@ -4218,18 +4218,18 @@
     {
         "date": "Th, 11.09.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 11.09.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 11.09.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 11.09.2025",
@@ -4455,18 +4455,18 @@
     {
         "date": "Th, 18.09.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 18.09.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 18.09.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 18.09.2025",
@@ -4713,18 +4713,18 @@
     {
         "date": "Th, 25.09.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 25.09.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 25.09.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 25.09.2025",
@@ -5045,18 +5045,18 @@
     {
         "date": "Th, 02.10.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 02.10.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 02.10.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 02.10.2025",
@@ -5318,18 +5318,18 @@
     {
         "date": "Th, 09.10.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 09.10.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 09.10.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 09.10.2025",
@@ -5611,18 +5611,18 @@
     {
         "date": "Th, 16.10.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 16.10.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 16.10.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 16.10.2025",
@@ -5847,18 +5847,18 @@
     {
         "date": "Th, 23.10.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 23.10.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 23.10.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 23.10.2025",
@@ -6102,18 +6102,18 @@
     {
         "date": "Th, 30.10.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 30.10.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 30.10.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 30.10.2025",
@@ -6359,18 +6359,18 @@
     {
         "date": "Th, 06.11.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 06.11.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 06.11.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 06.11.2025",
@@ -6648,18 +6648,18 @@
     {
         "date": "Th, 13.11.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 13.11.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 13.11.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 13.11.2025",
@@ -6899,18 +6899,18 @@
     {
         "date": "Th, 20.11.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 20.11.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 20.11.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 20.11.2025",
@@ -7125,18 +7125,18 @@
     {
         "date": "Th, 27.11.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 27.11.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 27.11.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 27.11.2025",
@@ -7315,18 +7315,18 @@
     {
         "date": "Th, 04.12.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 04.12.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 04.12.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 04.12.2025",
@@ -7534,18 +7534,18 @@
     {
         "date": "Th, 11.12.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 11.12.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 11.12.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 11.12.2025",
@@ -7761,18 +7761,18 @@
     {
         "date": "Th, 18.12.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 18.12.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 18.12.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 18.12.2025",
@@ -7930,18 +7930,18 @@
     {
         "date": "Th, 25.12.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 25.12.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 25.12.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 25.12.2025",
