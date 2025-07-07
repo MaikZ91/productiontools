@@ -63,6 +63,16 @@
     },
     {
         "date": "Mon, 07.07.2025",
+        "time": "15:00",
+        "event": "Foodsharing Café (@B-Side)",
+        "category": "",
+        "description": "Zu viel Essen wird weggeschmissen.Und viele essen allein.Wir finden: Beides muss nicht sein! Ab dem 2. Juni wird die B-Side montags zum Ort für gerettetes Essen und gemeinsame Mahlzeiten: Das foodsharing café Münster startet! Mit geretteten Lebensmitteln, leckerem Essen und Zeit zum Verweilen.Montags von 15 bis 20 Uhr machen wir aus geretteten Lebensmitteln Getränke, kalte und warme Speisen – kostenlos, für alle, ganz ohne Konsumzwang. Wir holen das Essen, das sonst im Müll landet, zurück auf den Tisch und stellen uns gegen die unsinnige Verschwendung in unserer Überflussgesellschaft. Du kannst auch eigene Lebensmittel, die du nicht mehr verbrauchen kannst, mitbringen und ins Café einbringen. So tragen wir gemeinsam dazu bei, weniger zu verschwenden und das Teilen in den Mittelpunkt zu stellen. Ob du hungrig bist, neugierig, gesellig oder einfach gern in guter Gesellschaft isst – komm vorbei!Aktuelle Infos findet ihr auf unserer Instagramseite foodsharing_ms",
+        "link": "https://rausgegangen.de/en/events/foodsharing-cafe-6/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Q4NimdJcTQyzF70EUBDk_foodsharing-cafe-3png.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Mon, 07.07.2025",
         "time": "18:00",
         "event": "Vernissage im Specks Hof – Kunst und Zukunft: Erinnern, um weiterzudenken (@Nikolaikirchhof)",
         "category": "",
@@ -90,16 +100,6 @@
         "link": "https://rausgegangen.de/en/events/aftersun-14/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/kM00QbcTtQWvvkLyxz5A_aftersunstill04-web.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Mon, 07.07.2025",
-        "time": "15:00",
-        "event": "Foodsharing Café (@B-Side)",
-        "category": "",
-        "description": "Zu viel Essen wird weggeschmissen.Und viele essen allein.Wir finden: Beides muss nicht sein! Ab dem 2. Juni wird die B-Side montags zum Ort für gerettetes Essen und gemeinsame Mahlzeiten: Das foodsharing café Münster startet! Mit geretteten Lebensmitteln, leckerem Essen und Zeit zum Verweilen.Montags von 15 bis 20 Uhr machen wir aus geretteten Lebensmitteln Getränke, kalte und warme Speisen – kostenlos, für alle, ganz ohne Konsumzwang. Wir holen das Essen, das sonst im Müll landet, zurück auf den Tisch und stellen uns gegen die unsinnige Verschwendung in unserer Überflussgesellschaft. Du kannst auch eigene Lebensmittel, die du nicht mehr verbrauchen kannst, mitbringen und ins Café einbringen. So tragen wir gemeinsam dazu bei, weniger zu verschwenden und das Teilen in den Mittelpunkt zu stellen. Ob du hungrig bist, neugierig, gesellig oder einfach gern in guter Gesellschaft isst – komm vorbei!Aktuelle Infos findet ihr auf unserer Instagramseite foodsharing_ms",
-        "link": "https://rausgegangen.de/en/events/foodsharing-cafe-6/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Q4NimdJcTQyzF70EUBDk_foodsharing-cafe-3png.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
     },
     {
         "date": "Mon, 07.07.2025",
@@ -1212,7 +1212,7 @@
         "category": "",
         "description": "Gregory Porter ist eine der unverzichtbaren Größen des zeitgenössischen Jazz. Seine umwerfende Stimme, die genauso im Soul, Blues und Gospel zuhause ist, macht jeden Song, egal ob Eigen- oder Fremdkomposition, umgehend zu einem Porter Song. Auch als Songwriter gelingt es ihm mühelos, all diese Genres zu seinem eigenen, unverkennbaren ›Gregory Porter Sound‹ zusammenzuführen. Seine tiefgründigen Texte sind bewußt universell und schließen niemanden aus - und sprechen damit nahezu allen aus der Seele.Am 09. November 2024 kehrt der Mann mit der Ballonmütze nun für einen exklusiven Termin zurück nach Deutschland und spielt ein Konzert in der Isarphilharmonie in München. Und auch für 2025 darf man sich bereits auf ein echtes Highlight freuen, denn Gregory Porter spielt endlich wieder ein Konzert beim Stadtpark Open Air in Hamburg!",
         "link": "https://rausgegangen.de/en/events/gregory-porter-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/xlzfair428u2.jpg?width=1200&height=900&mode=crop",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/dfwesnj9cd5r.jpg?width=1200&height=900&mode=crop",
         "city": "Hamburg"
     },
     {
@@ -1284,20 +1284,20 @@
         "link": "https://www.bielefeld.jetzt/node/1152718"
     },
     {
-        "date": "Fr, 11.07",
-        "time": "17:00",
-        "event": "FR • TURBO TRASH (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-turbo-trash-3/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250711_Turbotrash_4zu5.jpg"
-    },
-    {
         "date": "Fri, 11.07",
         "time": "22:30",
         "event": "Darkside of Sams with KUKO / Harder Styles / Tranceland (@sams_bielefeld)",
         "category": "Party",
         "link": "https://www.club-sams.de/veranstaltung/darkside-of-sams-with-kuko-harder-styles-tranceland-11072025-2230",
         "image_url": "https://www.club-sams.de/data/202506/DARKSIDE_w_KUKO_600_x_846_mm__150.jpg?v=1751146354"
+    },
+    {
+        "date": "Fr, 11.07",
+        "time": "17:00",
+        "event": "FR • TURBO TRASH (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-turbo-trash-3/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250711_Turbotrash_4zu5.jpg"
     },
     {
         "date": "Fr, 11.07.2025",
@@ -1353,6 +1353,16 @@
         "event": "HSBI Werkschau Afterparty (@nr.z.p)",
         "link": "https://nrzp.de/event/hsbi",
         "image_url": "https://nrzp.de/wp-content/uploads/2025/06/hsbi.jpg"
+    },
+    {
+        "date": "Fri, 11.07.2025",
+        "time": "19:30",
+        "event": "FOXL (@Cuba - Black Box)",
+        "category": "",
+        "description": "JazzToday Spezial - FOXLFOXL, das Instrumental Ensemble um den Gitarristen und Komponisten Rodrigo Lopez Klingenfuss, hat keine Scheuklappen für Stilistiken und steht für die Mischung verschiedener Musik-Stile wie Neue Musik, Minimal, kraut Jazz, Postrock & Elektronik. Typisch für FOXLs Musik ist die Zergliederung des Ensembles in zwei oder drei unabhängige Teile, die im Miteinander polyrhythmische und polyharmonische Klangstrukturen bilden, ohne dabei die musikalischen Motive aus den Augen zu verlieren.Die Komplexität der Musik formt sich aus der vielschichtigen Verwendung einfacher Elemente. Durch die daraus folgende ständige Verschiebung der aufeinanderliegenden musikalischen Elemente entstehen fortwährend neue Klang- und Farb-Kombinationen, harmonische und rhythmische Strukturen. „Die Kunst aus minimalen Voraussetzungen sich immer komplexer verzweigende Stücke zu entwickeln beherrschen sie allemal.“ Felix Kloppotek, Chefredakteur Stadtrevue KölnBesetzung: Rodrigo Lopez Klingenfuss - Gitarre, FXDirk Bell - Gitarre, FXJosé Diaz de León – Gitarre, FXChristian Lorenzen – Synthesizers und ElektronikStefan Berger - BassThomas Wörle - Schlagzeug eine Veranstaltung von cuba kultur",
+        "link": "https://rausgegangen.de/en/events/foxl-8/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/F67XmcQRreyzVKo46dzQ_foxl-presse-quadrat.png?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Fri, 11.07.2025",
@@ -1423,16 +1433,6 @@
         "link": "https://rausgegangen.de/en/events/datsche-24-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/MBoJ88TBRCucct61nDrk_datsche241080x1350px.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Fri, 11.07.2025",
-        "time": "19:30",
-        "event": "FOXL (@Cuba - Black Box)",
-        "category": "",
-        "description": "JazzToday Spezial - FOXLFOXL, das Instrumental Ensemble um den Gitarristen und Komponisten Rodrigo Lopez Klingenfuss, hat keine Scheuklappen für Stilistiken und steht für die Mischung verschiedener Musik-Stile wie Neue Musik, Minimal, kraut Jazz, Postrock & Elektronik. Typisch für FOXLs Musik ist die Zergliederung des Ensembles in zwei oder drei unabhängige Teile, die im Miteinander polyrhythmische und polyharmonische Klangstrukturen bilden, ohne dabei die musikalischen Motive aus den Augen zu verlieren.Die Komplexität der Musik formt sich aus der vielschichtigen Verwendung einfacher Elemente. Durch die daraus folgende ständige Verschiebung der aufeinanderliegenden musikalischen Elemente entstehen fortwährend neue Klang- und Farb-Kombinationen, harmonische und rhythmische Strukturen. „Die Kunst aus minimalen Voraussetzungen sich immer komplexer verzweigende Stücke zu entwickeln beherrschen sie allemal.“ Felix Kloppotek, Chefredakteur Stadtrevue KölnBesetzung: Rodrigo Lopez Klingenfuss - Gitarre, FXDirk Bell - Gitarre, FXJosé Diaz de León – Gitarre, FXChristian Lorenzen – Synthesizers und ElektronikStefan Berger - BassThomas Wörle - Schlagzeug eine Veranstaltung von cuba kultur",
-        "link": "https://rausgegangen.de/en/events/foxl-8/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/F67XmcQRreyzVKo46dzQ_foxl-presse-quadrat.png?width=1200&height=900&mode=crop",
-        "city": "Münster"
     },
     {
         "date": "Fri, 11.07.2025",
@@ -1550,20 +1550,20 @@
         "link": "https://www.bielefeld.jetzt/node/1061103"
     },
     {
-        "date": "Sa, 12.07",
-        "time": "23:00",
-        "event": "SA • SALITOS CLUB NIGHT – NEW AREA OPENING – SONDERVERANSTALTUNG (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-salitos-club-night-new-area-opening-sonderveransltung/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250712_SalitosClubNight_4zu5-1.jpg"
-    },
-    {
         "date": "Sat, 12.07",
         "time": "23:00",
         "event": "SamsTag (@sams_bielefeld)",
         "category": "Party",
         "link": "https://www.club-sams.de/veranstaltung/samstag-12072025-2300",
         "image_url": "https://www.club-sams.de/data/202507/Samstag_12_07_Homepage_1__150.jpg?v=1751457724"
+    },
+    {
+        "date": "Sa, 12.07",
+        "time": "23:00",
+        "event": "SA • SALITOS CLUB NIGHT – NEW AREA OPENING – SONDERVERANSTALTUNG (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-salitos-club-night-new-area-opening-sonderveransltung/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250712_SalitosClubNight_4zu5-1.jpg"
     },
     {
         "date": "Sa, 12.07.2025",
@@ -2117,22 +2117,22 @@
     {
         "date": "Thu, 17.07.2025",
         "time": "20:00",
-        "event": "kurz gefragt - Impro Comedy (@Karli Comedy Club Leipzig)",
-        "category": "",
-        "description": "Hier wird improvisiert! ...aber nicht einfach so, sondern immer zu einem bestimmten Thema.Das Publikum, also ihr, bestimmt dabei den Verlauf des Abends! Ihr werft Fragen und Statements in einen Beutel und ich ziehe diese, lese sie vor und muss damit arbeiten...Was dann passiert? Weiß niemand, aber es wird auf jeden Fall lustig :)Eine Stunde lang widme ich mich euren Fragen, Themen und Ideen. Interagiere mit euch und verusche spontan etwas komisches zu erschaffen. Was soll da schon dummes passieren? Vermutlich alles!Wer bin ich? Monif! Ein Comedian der häufig bei Karli Comedy und anderen Show moderiert. Gerade die Anfangsintaktion mit dem Publikum - das Crowdwork - macht mir großen Spaß, warum also nicht eine Show von einer Stunde daraus machen? Bei Instagram: @monif_mo   Kommt vorbei und seid Teil der Show.   THEMA am 26.Juni Sommer Überlegt euch Fragen und Statements zum Thema \"Sommer\" (Zettel und Stifte liegen bereit). --> Was findet ihr Gut/Sche*ße, habt ihr philosophische Fragen oder wollt ihr einfach mal was raus lassen. Schreibt es einfach auf! 🕗 Show von 20.00 - 21.00 Uhr Kommt rechtzeitig, holt euch ein Getränk an der Bar und schreibt schon mal eure Fragen auf die bereit liegenden Zettel.🎫 RESERVIERUNGEN (2€) Die Stühle sind begrenzt und heiß begehrt. Reserviert euch also hier euren Platz.  💰SPENDENBASIERTE Show Am Ende der Show spendet ihr dem Künstler, was euch der Abend wert war. (Spendenvorschlag 5-10€)--> ihr könnt auch ohne Reservierung auf gut Glück kommen. Wenn noch Platz ist, gehört er euch. Freut euch auf einen gemütlichen, entspannten und lustigen Abend im Karli Comedy Club",
-        "link": "https://rausgegangen.de/en/events/kurz-gefragt-impro-comedy-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/kXKPnXjSZa7sulH8p7Ei_kurz-gefragt-crowdwork-special-comedy-show-karli-comedy.jpg?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
-    },
-    {
-        "date": "Thu, 17.07.2025",
-        "time": "20:00",
         "event": "Indielectro-Frühparty! Turbo-Tanz-Treff (Münster) im Lola-Garten mit eavo (@Rote Lola)",
         "category": "",
         "description": "Indielectro und Electro: Früh und draußen!💃🏼 Du stehst auf Tanzen, aber bist keine Nachteule? Dann ist das hier was für dich: Jeden Donnerstag zwischen 20:00 und 23:00 Uhr wird die Rote Lola zum perfekten Tanzparadies für alle, die früh ins Bett wollen. Lass den Alltag hinter dir und schwing das Tanzbein mit uns! Im Sommer unter freiem Himmel, im Winter oder bei Regen drinnen.🎉 Heute übernehme ich ausnahmsweise mal Raffas dritten Donnerstag mit Indielectro und Electro. Remember e.Pig!🔹 AK 5€. Einlass ab 23 Jahren.",
         "link": "https://rausgegangen.de/en/events/indielectro-fruhparty-turbo-tanz-treff-munster-im-lola-garte-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ioShplBTVeDuaqhKSofh_turbotanztreffheaderelectro-kopie.jpg?width=1200&height=900&mode=crop",
         "city": "Münster"
+    },
+    {
+        "date": "Thu, 17.07.2025",
+        "time": "20:00",
+        "event": "kurz gefragt - Impro Comedy (@Karli Comedy Club Leipzig)",
+        "category": "",
+        "description": "Hier wird improvisiert! ...aber nicht einfach so, sondern immer zu einem bestimmten Thema.Das Publikum, also ihr, bestimmt dabei den Verlauf des Abends! Ihr werft Fragen und Statements in einen Beutel und ich ziehe diese, lese sie vor und muss damit arbeiten...Was dann passiert? Weiß niemand, aber es wird auf jeden Fall lustig :)Eine Stunde lang widme ich mich euren Fragen, Themen und Ideen. Interagiere mit euch und verusche spontan etwas komisches zu erschaffen. Was soll da schon dummes passieren? Vermutlich alles!Wer bin ich? Monif! Ein Comedian der häufig bei Karli Comedy und anderen Show moderiert. Gerade die Anfangsintaktion mit dem Publikum - das Crowdwork - macht mir großen Spaß, warum also nicht eine Show von einer Stunde daraus machen? Bei Instagram: @monif_mo   Kommt vorbei und seid Teil der Show.   THEMA am 26.Juni Sommer Überlegt euch Fragen und Statements zum Thema \"Sommer\" (Zettel und Stifte liegen bereit). --> Was findet ihr Gut/Sche*ße, habt ihr philosophische Fragen oder wollt ihr einfach mal was raus lassen. Schreibt es einfach auf! 🕗 Show von 20.00 - 21.00 Uhr Kommt rechtzeitig, holt euch ein Getränk an der Bar und schreibt schon mal eure Fragen auf die bereit liegenden Zettel.🎫 RESERVIERUNGEN (2€) Die Stühle sind begrenzt und heiß begehrt. Reserviert euch also hier euren Platz.  💰SPENDENBASIERTE Show Am Ende der Show spendet ihr dem Künstler, was euch der Abend wert war. (Spendenvorschlag 5-10€)--> ihr könnt auch ohne Reservierung auf gut Glück kommen. Wenn noch Platz ist, gehört er euch. Freut euch auf einen gemütlichen, entspannten und lustigen Abend im Karli Comedy Club",
+        "link": "https://rausgegangen.de/en/events/kurz-gefragt-impro-comedy-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/kXKPnXjSZa7sulH8p7Ei_kurz-gefragt-crowdwork-special-comedy-show-karli-comedy.jpg?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
     },
     {
         "date": "Thu, 17.07.2025",
@@ -2158,6 +2158,16 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fri, 18.07.2025",
+        "time": "23:00",
+        "event": "Take Me Out Münster - die Indieparty mit eavo im Hot Club (@Hot Jazz Club, Münster)",
+        "category": "",
+        "description": "🎶 Lust auf ne klassische Indieparty mit allem drum und dran? Dann kommt zur Take Me Out! Die bringt euch die Hits, die Hymnen und eure Lieblingssongs. Außerdem: Nostalgie ist kein Genre - deswegen stehen neben den Klassikern auch frische Songs jenseits des Mainstreams auf dem Zettel.🎉 Findet ihr auch die immergleichen Hits und Reihenfolgen langweilig? Dann freut euch bei Take Me Out auf Abwechslung, Song-Überraschungen und natürlich auf guten Flow und flüssige Übergänge.😻 Ach so, mein Name ist eavo. Take Me Out ist meine Indieparty, mit der ich seit 2014 in den schönsten Clubs in ganz Deutschland unterwegs bin. Wenn ihr Ideen oder Fragen habt, sprecht mich gern an oder schickt mir ne Nachricht. Musikvorschläge sind willkommen, denn ich hab Spaß daran, eure Ideen - wenn's passt - ins Set zu puzzlen.💃🏼 Macht mit und es wird ne überragende Party, klebriger Fußboden und durchtanzte Schuhe inklusive!❗️Spread the word, schnappt euch eure Leute und kommt vorbei!Take Me Out klingt wie z. B: Arctic Monkeys – Alt–J – Art Brut – Bilderbuch – 3xBeat! – Betterov – Bloc Party – Blond – Blood Red Shoes – Blur – BOY – Bonaparte – Cage the Elephant – Cure – DIIV – Drums – Editors – Edwin Rosen – Faber – Florence – Foals – FONTAINES D.C. – Franz Ferdinand – Friska – Frittenbude – Giant Rooks – girl in red – IDLES – Interpol – Jamie T – Johnossi – Joy Division – Justice – Kaiser Chiefs – Kate Nash – KennyHoopla – Killers – Kooks – KMF – Kraftklub – KYTES – Le Tigre – Leoniden – Libertines – Lykke Li – M83 – Mando Diao – Maxïmo Park – Metronomy – MGMT – Mitski – Miyagi – Nerven – Organ – Pabst – Phoenix – Pixies – Postal Service – Pulp – Rakes – Razz – SALÒ – Sam Fender – Shame – Shout Out Louds – Sterne – Streets – Strokes – Team Scheisse – Ting Tings – Tomte – Tränen – TDCC – Vampire Weekend – Viagra Boys – WWP Jetpacks – Wet Leg – Wombats – Yard Act – YYYs – The xx – uvm.🌍 Mehr Infos inkl. Spotify-Listen auf www.eavo.de/takemeout/  📷 www.instagram.com/__eavo__ 📘 www.facebook.com/neinmaschine🔹 AK 8€🎟 Spare 20% beim Vorverkauf, indem du dich für meinen Newsletter anmeldest: www.eavo.de/NL! 🔹 VVK: Limitiertes Kontingent Earlybird-Tickets: 5€ zzgl. Gebühren bis 6 Tage vor dem Abend 🔹 Danach 7€ zzgl. Gebühren bei rausgegangen.de.",
+        "link": "https://rausgegangen.de/en/events/take-me-out-munster-die-indieparty-mit-eavo-im-hot-club-9/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/oO5s9TdpSmKkx0AhhxG2_tmoheadercreme.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Fri, 18.07.2025",
@@ -2191,16 +2201,6 @@
     },
     {
         "date": "Fri, 18.07.2025",
-        "time": "23:00",
-        "event": "Take Me Out Münster - die Indieparty mit eavo im Hot Club (@Hot Jazz Club, Münster)",
-        "category": "",
-        "description": "🎶 Lust auf ne klassische Indieparty mit allem drum und dran? Dann kommt zur Take Me Out! Die bringt euch die Hits, die Hymnen und eure Lieblingssongs. Außerdem: Nostalgie ist kein Genre - deswegen stehen neben den Klassikern auch frische Songs jenseits des Mainstreams auf dem Zettel.🎉 Findet ihr auch die immergleichen Hits und Reihenfolgen langweilig? Dann freut euch bei Take Me Out auf Abwechslung, Song-Überraschungen und natürlich auf guten Flow und flüssige Übergänge.😻 Ach so, mein Name ist eavo. Take Me Out ist meine Indieparty, mit der ich seit 2014 in den schönsten Clubs in ganz Deutschland unterwegs bin. Wenn ihr Ideen oder Fragen habt, sprecht mich gern an oder schickt mir ne Nachricht. Musikvorschläge sind willkommen, denn ich hab Spaß daran, eure Ideen - wenn's passt - ins Set zu puzzlen.💃🏼 Macht mit und es wird ne überragende Party, klebriger Fußboden und durchtanzte Schuhe inklusive!❗️Spread the word, schnappt euch eure Leute und kommt vorbei!Take Me Out klingt wie z. B: Arctic Monkeys – Alt–J – Art Brut – Bilderbuch – 3xBeat! – Betterov – Bloc Party – Blond – Blood Red Shoes – Blur – BOY – Bonaparte – Cage the Elephant – Cure – DIIV – Drums – Editors – Edwin Rosen – Faber – Florence – Foals – FONTAINES D.C. – Franz Ferdinand – Friska – Frittenbude – Giant Rooks – girl in red – IDLES – Interpol – Jamie T – Johnossi – Joy Division – Justice – Kaiser Chiefs – Kate Nash – KennyHoopla – Killers – Kooks – KMF – Kraftklub – KYTES – Le Tigre – Leoniden – Libertines – Lykke Li – M83 – Mando Diao – Maxïmo Park – Metronomy – MGMT – Mitski – Miyagi – Nerven – Organ – Pabst – Phoenix – Pixies – Postal Service – Pulp – Rakes – Razz – SALÒ – Sam Fender – Shame – Shout Out Louds – Sterne – Streets – Strokes – Team Scheisse – Ting Tings – Tomte – Tränen – TDCC – Vampire Weekend – Viagra Boys – WWP Jetpacks – Wet Leg – Wombats – Yard Act – YYYs – The xx – uvm.🌍 Mehr Infos inkl. Spotify-Listen auf www.eavo.de/takemeout/  📷 www.instagram.com/__eavo__ 📘 www.facebook.com/neinmaschine🔹 AK 8€🎟 Spare 20% beim Vorverkauf, indem du dich für meinen Newsletter anmeldest: www.eavo.de/NL! 🔹 VVK: Limitiertes Kontingent Earlybird-Tickets: 5€ zzgl. Gebühren bis 6 Tage vor dem Abend 🔹 Danach 7€ zzgl. Gebühren bei rausgegangen.de.",
-        "link": "https://rausgegangen.de/en/events/take-me-out-munster-die-indieparty-mit-eavo-im-hot-club-9/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/oO5s9TdpSmKkx0AhhxG2_tmoheadercreme.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Fri, 18.07.2025",
         "time": "18:00",
         "event": "Beats am Gleis mit DJ Dezibl (@Lokschuppen)",
         "category": "Sundowner - Snacks - Sounds",
@@ -2209,20 +2209,20 @@
         "link": "https://www.bielefeld.jetzt/node/1130581"
     },
     {
-        "date": "Sa, 19.07",
-        "time": "23:00",
-        "event": "SA • LOVE SATURDAYS x COCKTAIL NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-cocktail-night/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250719_CocktailParty_4zu5.jpg"
-    },
-    {
         "date": "Sat, 19.07",
         "time": "23:00",
         "event": "Sams meets Synapsen Safari (@sams_bielefeld)",
         "category": "Party",
         "link": "https://www.club-sams.de/veranstaltung/sams-meets-synapsen-safari-19072025-2300",
         "image_url": "https://www.club-sams.de/data/202507/WhatsApp_Image_2025-06-29_at_00_31_10_150.jpeg?v=1751456627"
+    },
+    {
+        "date": "Sa, 19.07",
+        "time": "23:00",
+        "event": "SA • LOVE SATURDAYS x COCKTAIL NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-cocktail-night/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250719_CocktailParty_4zu5.jpg"
     },
     {
         "date": "Sa, 19.07.2025",
@@ -2256,16 +2256,6 @@
     },
     {
         "date": "Sat, 19.07.2025",
-        "time": "11:00",
-        "event": "Flowerbox Workshop (@Eventspace Satellit Leipzig)",
-        "category": "",
-        "description": "🌸✨ Flowerbox Workshop – Dein eigenes Blumenkunstwerk gestalten mit Joy Factory✨🌸    WICHTIGE INFO: DU KANNST BEI DER VERLOSUNG NUR MITMACHEN, WENN DU UNS BEI INSTAGRAM FOLGST: @joyf.actory  Tickets gibts hier: buy.stripe.com/eVqcN5abvc1ofJz50SaAw01 Blumen sind mehr als nur ein schönes Geschenk – sie erzählen eine Geschichte, sie berühren, sie bleiben in Erinnerung.In diesem kreativen Workshop lernst du, wie du aus frischen Blumen eine stilvolle Flowerbox gestaltest – als persönliches Geschenk oder elegantes Dekostück für dein Zuhause. In ca. 1,5 Stunden erfährst du:💐 wie man professionell mit Schnittblumen und Floristenoase arbeitet🎨 wie du Farben & Formen harmonisch kombinierst🧰 welche Techniken Florist:innen verwenden, damit Blumen länger frisch bleiben🌸 und vor allem: wie du deine eigene Flowerbox individuell gestaltestDu wählst aus verschiedenen Boxfarben & Blumensorten – alles ist vorbereitet, du brauchst nur deine Kreativität mitzubringen. Inklusive:💐 Auswahl an frischen Blumen (Saisonabhängig)🎁 Hochwertige Flowerbox in Wunschfarbe🧽 Floristenoase & alle Materialien✂️ Floristen-Werkzeug zur Nutzung vor Ort🧠 Anleitung & Tipps vom Workshop-Host🌸 Deine eigene Flowerbox zum Mitnehmen🥂 Ein Glas Prosecco oder alkoholfreie Alternative🎶 Entspannte Atmosphäre in zentraler Location Kreativ. Sinnlich. Persönlich.Sichere dir deinen Platz und verwandle Blumen in Emotionen! 🌷",
-        "link": "https://rausgegangen.de/en/events/flowerbox-workshop-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/min0n4CuTynpjSwVRG7g_img8502.jpeg?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
-    },
-    {
-        "date": "Sat, 19.07.2025",
         "time": "23:00",
         "event": "Modern Love Münster - 80s New Wave, Synth & Pop im Hot Club (@Hot Jazz Club, Münster)",
         "category": "",
@@ -2273,6 +2263,16 @@
         "link": "https://rausgegangen.de/en/events/modern-love-munster-80s-new-wave-synth-pop-im-hot-club-5/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FhMXQu6GTgy2qbbfuQas_80sinternetneu-kopie.png?width=1200&height=900&mode=crop",
         "city": "Münster"
+    },
+    {
+        "date": "Sat, 19.07.2025",
+        "time": "11:00",
+        "event": "Flowerbox Workshop (@Eventspace Satellit Leipzig)",
+        "category": "",
+        "description": "🌸✨ Flowerbox Workshop – Dein eigenes Blumenkunstwerk gestalten mit Joy Factory✨🌸    WICHTIGE INFO: DU KANNST BEI DER VERLOSUNG NUR MITMACHEN, WENN DU UNS BEI INSTAGRAM FOLGST: @joyf.actory  Tickets gibts hier: buy.stripe.com/eVqcN5abvc1ofJz50SaAw01 Blumen sind mehr als nur ein schönes Geschenk – sie erzählen eine Geschichte, sie berühren, sie bleiben in Erinnerung.In diesem kreativen Workshop lernst du, wie du aus frischen Blumen eine stilvolle Flowerbox gestaltest – als persönliches Geschenk oder elegantes Dekostück für dein Zuhause. In ca. 1,5 Stunden erfährst du:💐 wie man professionell mit Schnittblumen und Floristenoase arbeitet🎨 wie du Farben & Formen harmonisch kombinierst🧰 welche Techniken Florist:innen verwenden, damit Blumen länger frisch bleiben🌸 und vor allem: wie du deine eigene Flowerbox individuell gestaltestDu wählst aus verschiedenen Boxfarben & Blumensorten – alles ist vorbereitet, du brauchst nur deine Kreativität mitzubringen. Inklusive:💐 Auswahl an frischen Blumen (Saisonabhängig)🎁 Hochwertige Flowerbox in Wunschfarbe🧽 Floristenoase & alle Materialien✂️ Floristen-Werkzeug zur Nutzung vor Ort🧠 Anleitung & Tipps vom Workshop-Host🌸 Deine eigene Flowerbox zum Mitnehmen🥂 Ein Glas Prosecco oder alkoholfreie Alternative🎶 Entspannte Atmosphäre in zentraler Location Kreativ. Sinnlich. Persönlich.Sichere dir deinen Platz und verwandle Blumen in Emotionen! 🌷",
+        "link": "https://rausgegangen.de/en/events/flowerbox-workshop-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/min0n4CuTynpjSwVRG7g_img8502.jpeg?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
     },
     {
         "date": "Sat, 19.07.2025",
@@ -2609,20 +2609,20 @@
         "link": "https://www.bielefeld.jetzt/node/907742"
     },
     {
-        "date": "Sa, 26.07",
-        "time": "23:00",
-        "event": "SA • CAFE SUMMER NIGHTS x TEQUILA NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-x-tequila-party/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250726_TequilaParty_4zu5-1.jpg"
-    },
-    {
         "date": "Sat, 26.07",
         "time": "13:00",
         "event": "SAMS OPEN AIR (@sams_bielefeld)",
         "category": "Party",
         "link": "https://www.club-sams.de/veranstaltung/sams-open-air-26072025-1300",
         "image_url": "https://www.club-sams.de/data/202506/HAPPI_HIPPIE_Instagram_Post_3__150_1.png?v=1749420487"
+    },
+    {
+        "date": "Sa, 26.07",
+        "time": "23:00",
+        "event": "SA • CAFE SUMMER NIGHTS x TEQUILA NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-x-tequila-party/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250726_TequilaParty_4zu5-1.jpg"
     },
     {
         "date": "Sa, 26.07.2025",
