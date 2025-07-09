@@ -1,13 +1,5 @@
 [
     {
-        "date": "Mi, 09.07",
-        "time": "23:00",
-        "event": "MI • BERGFEST (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-bergfest-16/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250709_Bergfest_4zu5.jpg"
-    },
-    {
         "date": "We, 09.07.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -38,6 +30,14 @@
         "category": "Ausgehen",
         "link": "https://www.instagram.com/diesdascomedy/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 09.07",
+        "time": "23:00",
+        "event": "MI • BERGFEST (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-bergfest-16/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250709_Bergfest_4zu5.jpg"
     },
     {
         "date": "Mi, 09.07.2025",
@@ -115,6 +115,46 @@
     },
     {
         "date": "Wed, 09.07.2025",
+        "time": "16:00",
+        "event": "VINTAGE - POP UP (@blend.haus)",
+        "category": "",
+        "description": "Vintage, Homegoods, nice People & Beats – im Blendhaus wird nicht nur geshoppt, sondern connected.",
+        "link": "https://rausgegangen.de/en/events/vintage-pop-up-37/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vCxEsjGNQDqDxSfQhgti_cover-2.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Wed, 09.07.2025",
+        "time": "18:00",
+        "event": "MUSIK BINGO! präsentiert von Gut Quiz (@KLUBHAUS Dortmund)",
+        "category": "",
+        "description": "Das neue Event MUSIK BINGO - die perfekte Mischung aus Musikquiz und Bingo 🎶Höre die größten Songs aller Zeiten und gewinne Freigetränke!Wie funktioniert's?Beim MUSIK BINGO gibt es 5 verschiedene Kategorien, die in 5 verschiedenen Farben aufgeteilt sind:• Interpret • Titel • Erscheinungsjahr (+/- 4 Jahre) • Erscheinungsjahr (+/- 2 Jahre) • JahrzehntZu Beginn jeder Runde wird zufällig eine Kategorie gewählt. Anschließend wird ein zufälliges Lied abgespielt und du hast 30 Sekunden Zeit, die Kategorie richtig zu beantworten. Wer richtig liegt, darf ein Kreuz in einem farbigen Kästchen seiner Bingo-Karte setzen.Ziel ist es, eine Reihe oder Diagonale zu vervollständigen – wie beim klassischen Bingo. Die besten Spieler einer Runde dürfen sich auf Freigetränke freuen – zum Beispiel Shots, Bier, Cocktails oder alkoholfrei.Stell dir MUSIK BINGO wie einen XXL Spieleabend vor! :)Was muss ich beachten?Der MUSIK BINGO-Abend startet um 18 Uhr (Einlass 17:30 Uhr), gespielt wird in Runden und Sets. Du kannst jederzeit einsteigen, musst also nicht unbedingt bereits um 18 Uhr da sein.Die Anmeldung findet beim Gamemaster statt, wenn ihr also dabei sein wollt, meldet euch einfach kurz.Die Musik wird aus allen Genres kommen und aus allen Jahrzehnten - aber natürlich nur die größten Hits und Gute-Laune-Songs!",
+        "link": "https://rausgegangen.de/en/events/musik-bingo-prasentiert-von-gut-quiz-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/qaSJVUQyRi6bKGSbrmSz_klubhaus-bingo-collage.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Wed, 09.07.2025",
+        "time": "19:00",
+        "event": "NuClub - Die After Work Party im Strobels (@Strobels)",
+        "category": "",
+        "description": "Frühling im Strobels! 🌸 DJ-Sounds von 80ern bis heute, leckeres Essen und Drinks – der perfekte Mittwochabend! 🎶",
+        "link": "https://rausgegangen.de/en/events/nuclub-die-after-work-party-im-strobels-13/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Lx76sowBTFWxLCtJq5Fk_nu-club-logo-tv-screen.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Wed, 09.07.2025",
+        "time": "21:00",
+        "event": "Karaoke (@gentleM Dortmund)",
+        "category": "",
+        "description": "Endlich Karaoke in Dortmund! Jeden Samstag und Mittwoch hast du die Chance der Star des Abends zu sein! ⭐",
+        "link": "https://rausgegangen.de/en/events/karaoke-289/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zRcAVtGzTdSyrehVW6Kd_IMG_1955.jpeg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Wed, 09.07.2025",
         "time": "13:00",
         "event": "23. Leipziger Hörspielsommer (@Richard-Wagner-Hain)",
         "category": "",
@@ -165,43 +205,93 @@
     },
     {
         "date": "Wed, 09.07.2025",
-        "time": "16:00",
-        "event": "VINTAGE - POP UP (@blend.haus)",
+        "time": "14:00",
+        "event": "Ciao Ragazzi! Der Familientag auf dem 45Hertz Festival (@45Hertz Gelände)",
         "category": "",
-        "description": "Vintage, Homegoods, nice People & Beats – im Blendhaus wird nicht nur geshoppt, sondern connected.",
-        "link": "https://rausgegangen.de/en/events/vintage-pop-up-37/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vCxEsjGNQDqDxSfQhgti_cover-2.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
+        "description": "Am Mittwoch, den 09. Juli, öffnen wir den Raum für die Kleinsten: Ciao Ragazzi! Das Familienfest auf dem 45Hertz Festival - einem besonderen Tag voller Musik, Spiel und kreativer Erlebnisse für Kinder und ihre Familien. Ob tanzen, entdecken oder einfach den Moment genießen - unser liebevoll gestaltetes Familienevent bringt Groß und Klein zusammen. Seid gespannt auf Aktiviäten wie Kinderschminken, Kletter Parcours, Turnflächen, Mini Disco und viele weitere Überraschungen.",
+        "link": "https://rausgegangen.de/en/events/ciao-ragazzi-der-familientag-auf-dem-45hertz-festival-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/JgQzJEE8SfutfxdnLnDY_ciaoragazzi-3.JPG?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Wed, 09.07.2025",
+        "time": "17:00",
+        "event": "Stress Club by KULTUR&GUT (@KULTUR&GUT)",
+        "category": "",
+        "description": "Den Abend ausklingen lassen und bei DJ und drinks den Stress des Tages verabschieden. ciao amore mioDJ, drinks & surprise ab 17 Uhr in den Zeisehallen bei KULTUR&GUT",
+        "link": "https://rausgegangen.de/en/events/stress-club-by-kulturgut-7/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4OQxaoDJREuwnUB2uZCC_img2023.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Wed, 09.07.2025",
+        "time": "17:00",
+        "event": "Open Needle Club (@Bücherhalle Eimsbüttel)",
+        "category": "",
+        "description": "Ihr liebt stricken, häkeln oder sticken? Oder ihr wollt stricken lernen? Ihr habt Lust mit Anderen im Austausch zu stricken, zu häkeln oder zu sticken? Dann seid ihr alle herzlich willkommen. Ab dem 25. Juni treffen wir uns alle 14 Tage mittwochs von 17 bis 19 Uhr in der Bücherhalle. Bei gutem Wetter treffen wir uns draußen im Park vor der Bücherhalle. Ihr braucht euch nicht anzumelden. Kommt in den Open Needle Club!",
+        "link": "https://rausgegangen.de/en/events/open-needle-club-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/MutNH1Sh2B3Yv1wfFzg7_workshop-kreatives-1.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
     },
     {
         "date": "Wed, 09.07.2025",
         "time": "18:00",
-        "event": "MUSIK BINGO! präsentiert von Gut Quiz (@KLUBHAUS Dortmund)",
+        "event": "FLINTA* Swap & Sound: Kleidertauschparty (@Haus 73)",
         "category": "",
-        "description": "Das neue Event MUSIK BINGO - die perfekte Mischung aus Musikquiz und Bingo 🎶Höre die größten Songs aller Zeiten und gewinne Freigetränke!Wie funktioniert's?Beim MUSIK BINGO gibt es 5 verschiedene Kategorien, die in 5 verschiedenen Farben aufgeteilt sind:• Interpret • Titel • Erscheinungsjahr (+/- 4 Jahre) • Erscheinungsjahr (+/- 2 Jahre) • JahrzehntZu Beginn jeder Runde wird zufällig eine Kategorie gewählt. Anschließend wird ein zufälliges Lied abgespielt und du hast 30 Sekunden Zeit, die Kategorie richtig zu beantworten. Wer richtig liegt, darf ein Kreuz in einem farbigen Kästchen seiner Bingo-Karte setzen.Ziel ist es, eine Reihe oder Diagonale zu vervollständigen – wie beim klassischen Bingo. Die besten Spieler einer Runde dürfen sich auf Freigetränke freuen – zum Beispiel Shots, Bier, Cocktails oder alkoholfrei.Stell dir MUSIK BINGO wie einen XXL Spieleabend vor! :)Was muss ich beachten?Der MUSIK BINGO-Abend startet um 18 Uhr (Einlass 17:30 Uhr), gespielt wird in Runden und Sets. Du kannst jederzeit einsteigen, musst also nicht unbedingt bereits um 18 Uhr da sein.Die Anmeldung findet beim Gamemaster statt, wenn ihr also dabei sein wollt, meldet euch einfach kurz.Die Musik wird aus allen Genres kommen und aus allen Jahrzehnten - aber natürlich nur die größten Hits und Gute-Laune-Songs!",
-        "link": "https://rausgegangen.de/en/events/musik-bingo-prasentiert-von-gut-quiz-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/qaSJVUQyRi6bKGSbrmSz_klubhaus-bingo-collage.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
+        "description": "👕Tauschen gegen den Kapitalismus👖Am Mittwoch dem 09.07. laden wir euch ein zu: Swap & Sound der FLINTA* Kleidertauschparty im Haus73 🎶Von 18–22 Uhr verwandeln wir das Haus73 in einen bunten Tauschraum für FLINTA* Personen.Bringt 2–7 gut erhaltene Kleidungsstücke (ausgenommen Unterwäsche) mit und findet neue Lieblingsteile – ganz ohne Geld! 💜✨ Gemeinsam schaffen wir einen Raum zum Tauschen, Anprobieren und Vernetzen – bei musikalischer Begleitung unserer Lieblings FLINTA* DJs 🔊📍 @haus.73 , Schulterblatt 73🕕 Mittwoch, 09.07. | 18–22 Uhr🎟️ Eintritt auf freiwilliger SpendenbasisLet’s swap, not shop! ♻️💃Wir möchten an dieser Stelle noch einmal darauf hinweisen, dass es sich hier um einen safer space für FLINTA* Personen handelt und darum bitten, dass dieser von endo-cis-Männern akzeptiert und respektiert wird. Wir werden niemanden aufgrund von optischen Merkmalen ansprechen oder ausschließen.",
+        "link": "https://rausgegangen.de/en/events/flinta-swap-sound-kleidertauschparty-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zzDxPYCLTnSpTpFBS8bU_flintaswapsound.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Wed, 09.07.2025",
+        "time": "18:30",
+        "event": "Clay & Wine (@Atelier Erde)",
+        "category": "",
+        "description": "Welcome to Atelier Erde and an intimate, cozy workshop in hand-building where clay, creativity and community meet - all while sipping wine!During three hours you will be shown techniques and assisted in creating pieces that will later be burned to stoneware quality and glazed in a colour of your choosing (ready to pick up in a few weeks). The workshop is held in English by the Swedish artist Johanna Lagerlöf who run the clay studio, and whose work is inspired by natural landscapes – tactile, one-of-a-kind, with hints of colour.The workshop costs 80 €, which includes all the material, 1-2 pieces to take home and, of course, wine.For more info or questions, please visit https://www.instagram.com/atelier__erde or send an email to das.atelier.erde@gmail.com.Come get your hands dirty.",
+        "link": "https://rausgegangen.de/en/events/clay-wine-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/9qPaoFPS6iLb2ITYTitQ_foto-wine-and-clay.JPG?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
     },
     {
         "date": "Wed, 09.07.2025",
         "time": "19:00",
-        "event": "NuClub - Die After Work Party im Strobels (@Strobels)",
+        "event": "Patti Smith Quartet (@Stadtpark Open Air (Freilichtbühne))",
         "category": "",
-        "description": "Frühling im Strobels! 🌸 DJ-Sounds von 80ern bis heute, leckeres Essen und Drinks – der perfekte Mittwochabend! 🎶",
-        "link": "https://rausgegangen.de/en/events/nuclub-die-after-work-party-im-strobels-13/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Lx76sowBTFWxLCtJq5Fk_nu-club-logo-tv-screen.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
+        "description": "50 Jahre nach dem Erscheinen von „Horses“ kommt Patti Smith im Sommer 2025 mit ihrer Band zum Stadtpark Open Air. Nach ihrer spektakulären und fast komplett ausverkauften Rekord-Tournee 2022 mit über 40.000 Fans sowie einer wunderbaren Tournee durch kleinere Hallen und intime Spielorte im Herbst 2023 kommt sie 2025 endlich wieder. Kaum eine Künstlerin ist derart vollendet in der Lage, auch die großen Bühnen mit ihrer ungeheuren Präsenz zum Leuchten zu bringen, wie Patti Smith.",
+        "link": "https://rausgegangen.de/en/events/patti-smith-quartet-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/02pcmyyscu5i.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
     },
     {
         "date": "Wed, 09.07.2025",
-        "time": "21:00",
-        "event": "Karaoke (@gentleM Dortmund)",
+        "time": "19:30",
+        "event": "Kategorisch Fragwürdig - Das Pubquiz (@Taugenichts Bar)",
         "category": "",
-        "description": "Endlich Karaoke in Dortmund! Jeden Samstag und Mittwoch hast du die Chance der Star des Abends zu sein! ⭐",
-        "link": "https://rausgegangen.de/en/events/karaoke-289/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zRcAVtGzTdSyrehVW6Kd_IMG_1955.jpeg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
+        "description": "Müssen wir hier noch viel zu sagen? Kneipenquizze sind immer fun und dieses hier sogar ganz besonders, denn die Kategorien sind so random durcheinandergewürfelt, dass wirklich jede:r die Chance hat zu gewinnen! Überraschungsmomente garantiert! 💡",
+        "link": "https://rausgegangen.de/en/events/kategorisch-fragwurdig-das-pubquiz-15/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fhxMgmiMQEWdwZunjA3q_vorlage-quiz-prasentation.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Wed, 09.07.2025",
+        "time": "20:00",
+        "event": "Maeckes (@Schanzenzelt)",
+        "category": "",
+        "description": "Er macht, was er will – und genau das macht seine Musik so besonders. Mal tiefgründig, mal verspielt, immer unerwartet: Seit über zehn Jahren prägt er die deutsche Musikszene als Rapper, Liedermacher und kreativer Grenzgänger. Mach dich bereit für ABRISS! 💥",
+        "link": "https://rausgegangen.de/en/events/maeckes-26/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/QKrapkRN9RxGTBhUHsw2_maeckesfb-2.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Wed, 09.07.2025",
+        "time": "21:45",
+        "event": "Flow (@Zeise Open Air Kino)",
+        "category": "",
+        "description": "In „FLOW“ flüchtet sich eine Katze nach einem weltuntergangsähnlichen Unwetter zusammen mit anderen Tieren auf ein Boot und begibt sich auf die Suche nach einer neuen Heimat. Ganz ohne menschliche Dialoge erzählt dieser außergewöhnliche Animationsfilm eine mitreißende Ge- schichte von Freundschaft und der Kraft des respektvollen Miteinanders. Ein wahrer Schatz von einem Film!Mit FLOW erzählt Regisseur Gints Zilbalodis eine Fabel über Freundschaft und das Überleben einer Gemein- schaft, die lernen muss, Rücksicht zu nehmen und den jeweils anderen mit all seinen Eigenarten zu respektieren. Zilbalodis verortet FLOW in einer Fantasiewelt, in der der Mensch keine Rolle (mehr) spielt und in der die Tiere auf das zurückgeworfen werden, was ihnen eigen ist: der Instinkt. Als ungewöhnliche Heldin fungiert eine Katze, die so bezaubernd unschuldig ist, dass sie jedes Zuschauerherz zum Schmelzen bringen wird. Auch die anderen tierischen Figuren sind liebevoll detailliert dargestellt. Ob der treu ergebene Golden Retriever, der majestätische Sekretärsvogel oder das eher pragmatisch agierende Wasserschwein – sie alle stehen für ganz ‚menschliche‘ Eigenschaften, werden aber nie vermenschlicht und agieren als Tiere. Die Landschaften erscheinen fast fotorealistisch, doch immer wieder erlaubt sich der Film kleine magische Momente, wenn die Farben fast zu explodieren scheinen, die Perspektive der Tiere eingenommen wird und man zwischen Traum und realer Welt nicht mehr zu unterscheiden wagt. Unterstützt wird diese Stimmung auch von dem atmosphärischen Score von Rihards Zaļupe. Der Film hält seine erzählerische Spannung bis zum Schluss, ist komplex und doch universell zugänglich.  FLOW ist ein außergewöhnlich originelles Meisterwerk der Animation (ausgezeichnet mit dem Europäischen Film-preis und dem Golden Globe) und ein Film, der sein Publikum quer über alle Altersstufen hinweg begeistern kann.Text: FBW-Filmbewertung  Empfohlen ab 8 Jahren",
+        "link": "https://rausgegangen.de/en/events/flow-1357/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OX7ovuyARHmhFdee8R6S_photo-1527979809431-ea3d5c0c01c9?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
     },
     {
         "date": "Wed, 09.07.2025",
@@ -342,96 +432,6 @@
         "link": "https://rausgegangen.de/en/events/beats-x-bass-x-cologne-mittwochenende-31/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vtshaVPmQzqQzxjSra97_rausgegangen-cover.png?width=1200&height=900&mode=crop",
         "city": "Köln"
-    },
-    {
-        "date": "Wed, 09.07.2025",
-        "time": "14:00",
-        "event": "Ciao Ragazzi! Der Familientag auf dem 45Hertz Festival (@45Hertz Gelände)",
-        "category": "",
-        "description": "Am Mittwoch, den 09. Juli, öffnen wir den Raum für die Kleinsten: Ciao Ragazzi! Das Familienfest auf dem 45Hertz Festival - einem besonderen Tag voller Musik, Spiel und kreativer Erlebnisse für Kinder und ihre Familien. Ob tanzen, entdecken oder einfach den Moment genießen - unser liebevoll gestaltetes Familienevent bringt Groß und Klein zusammen. Seid gespannt auf Aktiviäten wie Kinderschminken, Kletter Parcours, Turnflächen, Mini Disco und viele weitere Überraschungen.",
-        "link": "https://rausgegangen.de/en/events/ciao-ragazzi-der-familientag-auf-dem-45hertz-festival-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/JgQzJEE8SfutfxdnLnDY_ciaoragazzi-3.JPG?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Wed, 09.07.2025",
-        "time": "17:00",
-        "event": "Stress Club by KULTUR&GUT (@KULTUR&GUT)",
-        "category": "",
-        "description": "Den Abend ausklingen lassen und bei DJ und drinks den Stress des Tages verabschieden. ciao amore mioDJ, drinks & surprise ab 17 Uhr in den Zeisehallen bei KULTUR&GUT",
-        "link": "https://rausgegangen.de/en/events/stress-club-by-kulturgut-7/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4OQxaoDJREuwnUB2uZCC_img2023.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Wed, 09.07.2025",
-        "time": "17:00",
-        "event": "Open Needle Club (@Bücherhalle Eimsbüttel)",
-        "category": "",
-        "description": "Ihr liebt stricken, häkeln oder sticken? Oder ihr wollt stricken lernen? Ihr habt Lust mit Anderen im Austausch zu stricken, zu häkeln oder zu sticken? Dann seid ihr alle herzlich willkommen. Ab dem 25. Juni treffen wir uns alle 14 Tage mittwochs von 17 bis 19 Uhr in der Bücherhalle. Bei gutem Wetter treffen wir uns draußen im Park vor der Bücherhalle. Ihr braucht euch nicht anzumelden. Kommt in den Open Needle Club!",
-        "link": "https://rausgegangen.de/en/events/open-needle-club-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/MutNH1Sh2B3Yv1wfFzg7_workshop-kreatives-1.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Wed, 09.07.2025",
-        "time": "18:00",
-        "event": "FLINTA* Swap & Sound: Kleidertauschparty (@Haus 73)",
-        "category": "",
-        "description": "👕Tauschen gegen den Kapitalismus👖Am Mittwoch dem 09.07. laden wir euch ein zu: Swap & Sound der FLINTA* Kleidertauschparty im Haus73 🎶Von 18–22 Uhr verwandeln wir das Haus73 in einen bunten Tauschraum für FLINTA* Personen.Bringt 2–7 gut erhaltene Kleidungsstücke (ausgenommen Unterwäsche) mit und findet neue Lieblingsteile – ganz ohne Geld! 💜✨ Gemeinsam schaffen wir einen Raum zum Tauschen, Anprobieren und Vernetzen – bei musikalischer Begleitung unserer Lieblings FLINTA* DJs 🔊📍 @haus.73 , Schulterblatt 73🕕 Mittwoch, 09.07. | 18–22 Uhr🎟️ Eintritt auf freiwilliger SpendenbasisLet’s swap, not shop! ♻️💃Wir möchten an dieser Stelle noch einmal darauf hinweisen, dass es sich hier um einen safer space für FLINTA* Personen handelt und darum bitten, dass dieser von endo-cis-Männern akzeptiert und respektiert wird. Wir werden niemanden aufgrund von optischen Merkmalen ansprechen oder ausschließen.",
-        "link": "https://rausgegangen.de/en/events/flinta-swap-sound-kleidertauschparty-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zzDxPYCLTnSpTpFBS8bU_flintaswapsound.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Wed, 09.07.2025",
-        "time": "18:30",
-        "event": "Clay & Wine (@Atelier Erde)",
-        "category": "",
-        "description": "Welcome to Atelier Erde and an intimate, cozy workshop in hand-building where clay, creativity and community meet - all while sipping wine!During three hours you will be shown techniques and assisted in creating pieces that will later be burned to stoneware quality and glazed in a colour of your choosing (ready to pick up in a few weeks). The workshop is held in English by the Swedish artist Johanna Lagerlöf who run the clay studio, and whose work is inspired by natural landscapes – tactile, one-of-a-kind, with hints of colour.The workshop costs 80 €, which includes all the material, 1-2 pieces to take home and, of course, wine.For more info or questions, please visit https://www.instagram.com/atelier__erde or send an email to das.atelier.erde@gmail.com.Come get your hands dirty.",
-        "link": "https://rausgegangen.de/en/events/clay-wine-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/9qPaoFPS6iLb2ITYTitQ_foto-wine-and-clay.JPG?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Wed, 09.07.2025",
-        "time": "19:00",
-        "event": "Patti Smith Quartet (@Stadtpark Open Air (Freilichtbühne))",
-        "category": "",
-        "description": "50 Jahre nach dem Erscheinen von „Horses“ kommt Patti Smith im Sommer 2025 mit ihrer Band zum Stadtpark Open Air. Nach ihrer spektakulären und fast komplett ausverkauften Rekord-Tournee 2022 mit über 40.000 Fans sowie einer wunderbaren Tournee durch kleinere Hallen und intime Spielorte im Herbst 2023 kommt sie 2025 endlich wieder. Kaum eine Künstlerin ist derart vollendet in der Lage, auch die großen Bühnen mit ihrer ungeheuren Präsenz zum Leuchten zu bringen, wie Patti Smith.",
-        "link": "https://rausgegangen.de/en/events/patti-smith-quartet-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/02pcmyyscu5i.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Wed, 09.07.2025",
-        "time": "19:30",
-        "event": "Kategorisch Fragwürdig - Das Pubquiz (@Taugenichts Bar)",
-        "category": "",
-        "description": "Müssen wir hier noch viel zu sagen? Kneipenquizze sind immer fun und dieses hier sogar ganz besonders, denn die Kategorien sind so random durcheinandergewürfelt, dass wirklich jede:r die Chance hat zu gewinnen! Überraschungsmomente garantiert! 💡",
-        "link": "https://rausgegangen.de/en/events/kategorisch-fragwurdig-das-pubquiz-15/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fhxMgmiMQEWdwZunjA3q_vorlage-quiz-prasentation.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Wed, 09.07.2025",
-        "time": "20:00",
-        "event": "Maeckes (@Schanzenzelt)",
-        "category": "",
-        "description": "Er macht, was er will – und genau das macht seine Musik so besonders. Mal tiefgründig, mal verspielt, immer unerwartet: Seit über zehn Jahren prägt er die deutsche Musikszene als Rapper, Liedermacher und kreativer Grenzgänger. Mach dich bereit für ABRISS! 💥",
-        "link": "https://rausgegangen.de/en/events/maeckes-26/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/QKrapkRN9RxGTBhUHsw2_maeckesfb-2.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Wed, 09.07.2025",
-        "time": "21:45",
-        "event": "Flow (@Zeise Open Air Kino)",
-        "category": "",
-        "description": "In „FLOW“ flüchtet sich eine Katze nach einem weltuntergangsähnlichen Unwetter zusammen mit anderen Tieren auf ein Boot und begibt sich auf die Suche nach einer neuen Heimat. Ganz ohne menschliche Dialoge erzählt dieser außergewöhnliche Animationsfilm eine mitreißende Ge- schichte von Freundschaft und der Kraft des respektvollen Miteinanders. Ein wahrer Schatz von einem Film!Mit FLOW erzählt Regisseur Gints Zilbalodis eine Fabel über Freundschaft und das Überleben einer Gemein- schaft, die lernen muss, Rücksicht zu nehmen und den jeweils anderen mit all seinen Eigenarten zu respektieren. Zilbalodis verortet FLOW in einer Fantasiewelt, in der der Mensch keine Rolle (mehr) spielt und in der die Tiere auf das zurückgeworfen werden, was ihnen eigen ist: der Instinkt. Als ungewöhnliche Heldin fungiert eine Katze, die so bezaubernd unschuldig ist, dass sie jedes Zuschauerherz zum Schmelzen bringen wird. Auch die anderen tierischen Figuren sind liebevoll detailliert dargestellt. Ob der treu ergebene Golden Retriever, der majestätische Sekretärsvogel oder das eher pragmatisch agierende Wasserschwein – sie alle stehen für ganz ‚menschliche‘ Eigenschaften, werden aber nie vermenschlicht und agieren als Tiere. Die Landschaften erscheinen fast fotorealistisch, doch immer wieder erlaubt sich der Film kleine magische Momente, wenn die Farben fast zu explodieren scheinen, die Perspektive der Tiere eingenommen wird und man zwischen Traum und realer Welt nicht mehr zu unterscheiden wagt. Unterstützt wird diese Stimmung auch von dem atmosphärischen Score von Rihards Zaļupe. Der Film hält seine erzählerische Spannung bis zum Schluss, ist komplex und doch universell zugänglich.  FLOW ist ein außergewöhnlich originelles Meisterwerk der Animation (ausgezeichnet mit dem Europäischen Film-preis und dem Golden Globe) und ein Film, der sein Publikum quer über alle Altersstufen hinweg begeistern kann.Text: FBW-Filmbewertung  Empfohlen ab 8 Jahren",
-        "link": "https://rausgegangen.de/en/events/flow-1357/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OX7ovuyARHmhFdee8R6S_photo-1527979809431-ea3d5c0c01c9?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
     },
     {
         "date": "Wed, 09.07.2025",
@@ -580,6 +580,76 @@
         "link": "https://rausgegangen.de/en/events/lesebuhne-pinzette-5/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/01S1ZIHoQPlRbdk1yilh_lesebuhne-pinzette-logo.png?width=1200&height=900&mode=crop",
         "city": "Leipzig"
+    },
+    {
+        "date": "Thu, 10.07.2025",
+        "time": "19:00",
+        "event": "Freche Möwe - Stand-Up Comedy im A&O Hostel Reeperbahn (@a&o Hamburg Reeperbahn)",
+        "category": "",
+        "description": "Lass dich von Hamburgs frechsten Comedians überraschen und genieße einen Abend voller neuer Jokes & guter Laune! Beste Stimmung, frischer Humor & eine lockere Atmosphäre warten auf dich.",
+        "link": "https://rausgegangen.de/en/events/freche-mowe-stand-up-comedy-im-ao-hostel-reeperbahn-22/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/q8ChpQf3QKIMe0luakbb_kopie-von-vorschaubild-rausgegangen-1.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 10.07.2025",
+        "time": "19:00",
+        "event": "Gregory Porter (@Stadtpark Open Air (Freilichtbühne))",
+        "category": "",
+        "description": "Gregory Porter ist eine der unverzichtbaren Größen des zeitgenössischen Jazz. Seine umwerfende Stimme, die genauso im Soul, Blues und Gospel zuhause ist, macht jeden Song, egal ob Eigen- oder Fremdkomposition, umgehend zu einem Porter Song. Auch als Songwriter gelingt es ihm mühelos, all diese Genres zu seinem eigenen, unverkennbaren ›Gregory Porter Sound‹ zusammenzuführen. Seine tiefgründigen Texte sind bewußt universell und schließen niemanden aus - und sprechen damit nahezu allen aus der Seele.Am 09. November 2024 kehrt der Mann mit der Ballonmütze nun für einen exklusiven Termin zurück nach Deutschland und spielt ein Konzert in der Isarphilharmonie in München. Und auch für 2025 darf man sich bereits auf ein echtes Highlight freuen, denn Gregory Porter spielt endlich wieder ein Konzert beim Stadtpark Open Air in Hamburg!",
+        "link": "https://rausgegangen.de/en/events/gregory-porter-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/dfwesnj9cd5r.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 10.07.2025",
+        "time": "20:00",
+        "event": "Christian Löffler (@Schanzenzelt)",
+        "category": "",
+        "description": "Geprägt von der Natur seiner Heimat an der Ostsee, entführt dieser Musiker sein Publikum in Klanglandschaften voller Tiefe und Atmosphäre.  Seine Mischung aus sanften Beats, melancholischen Melodien und organischen Klängen schafft immersive Erlebnisse. Komm vorbei und tauch mit ein! ✨",
+        "link": "https://rausgegangen.de/en/events/christian-loffler-12/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/rtU6bldTLmPspHQf9xtw_christianlofflerszfb-1.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 10.07.2025",
+        "time": "20:00",
+        "event": "Hafenbounce Jam - Opening Act: Binta (@Hafenbahnhof)",
+        "category": "",
+        "description": "Jeden zweiten Donnerstag im Monat öffnet der Hafenbahnhof seine Bühne für eine offene Soul und HipHop Jam-Session mit Opener-Konzert. Durch den Abend führt der charismatische Musiker Khalil Kry.  Ihr wollt selbst mitjamen? Musiker:innen und Sänger:innen können sich per Instagram oder Mail an hafenbounce@hafenbahnhof.com für die Gästeliste anmelden.  BINTAs Lieder erreichen ihre Zuhörer:innen an einem Ort, der sich irgendwo ganz tief in der Seele befinden muss. Die Songs der Hamburger Sängerin sind eine Fusion aus Pop, Soul und RnB. Nachdem BINTA mit ihrer deutschen Debütsingle „Hey Hey“ von NJOY bereits zur Newcomerin des Monats gekürt wurde, folgten ihre Songs „Bevor es Regnet und „Bei Mir“. Zuletzt veröffentlichte BINTA 2024 ihre „Ich lébe“-EP, die sich mit den Herausforderungen des Lebens beschäftigt und gleichzeitig versucht Wege zu finden, die zu innerer Stärke und Leichtigkeit führen.  Hafenbounce ist mehr als nur eine Jam-Session – es ist ein Raum der Wertschätzung für Musik, Lyrik und persönliche Geschichten.Einlass: 19:00 Uhrhttps://linktr.ee/bintanizer  Die Veranstaltungsreihe wird unterstützt von Koskenkorva Wodka",
+        "link": "https://rausgegangen.de/en/events/hafenbounce-jam-opening-act-binta-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/v5HuTjAkQksuEzgHOCSg_100725hafenbouncebinta-2.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 10.07.2025",
+        "time": "20:00",
+        "event": "Katta Standup Comedy Show im Pinot&Becks (@Pinot & Becks)",
+        "category": "",
+        "description": "Nach erfolgreicher, ausverkaufter Premiere im März 2025 begrüßt euch Katta Comedy der Pinot & Becks Bar in der Lindenallee, zwischen U2 Christuskirche und der Sternschanze.In uriger Atmosphäre testen 7-8 Standup Comedians im Open Mic Format eure Lachmuskeln. Erfahrene Comedians feilen an ihrem Bühnenprogramm und testen neue Jokes. Newcomer sammeln erste oder weitere Bühnenerfahrung. Alle haben natürlich ein Ziel: Dass ihr einen super lustigen Abend habt.",
+        "link": "https://rausgegangen.de/en/events/katta-standup-comedy-show-im-pinotbecks-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/NrT3qjOmTGuWN1ngM6zQ_istock-942752254-6-3.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 10.07.2025",
+        "time": "20:00",
+        "event": "St. Pauli Comedy Club (@St. Pauli Comedy Club)",
+        "category": "",
+        "description": "St. Pauli Comedy Club: Lachen garantiert!  Willkommen im St. Pauli Comedy Club, der neuen Top-Adresse für Comedy im Herzen Hamburgs! Tauchen Sie ein in eine Welt voller Humor und genießen Sie unvergessliche Abende mit Deutschlands besten Comedians und aufstrebenden Talenten. Unsere vielseitigen Shows – von Stand-up über Impro bis hin zu Satire – bieten für jeden Geschmack das Richtige.  Unsere gemütliche und intime Atmosphäre macht jeden Besuch zu einem besonderen Erlebnis. Ob Stammgast oder Neuling, bei uns fühlt sich jeder sofort wohl. Der St. Pauli Comedy Club ist der perfekte Ort, um dem Alltag zu entfliehen und herzhaft zu lachen.  Besuchen Sie uns auf St. Pauli und lassen Sie sich von erstklassiger Comedy verzaubern. Jetzt Tickets sichern und dabei sein, wenn Lachen zur Kunst wird!  2024: Donnerstag, Freitag und Samstag 19:00 - 21:00 Uhr     Ab Jahr 2025:  Jeden Mittwoch, Donnerstag und Freitag von 20:00 - 22:00 Uhr. Jeden Samstag von 17:00 - 19:00 Uhr & von 20:00 - 22:00 Uhr.  Einlass immer 30 Minuten vor Showbeginn.  Spielbudenplatz 22 20359 Hamburg  www.stpaulicomedyclub.de",
+        "link": "https://rausgegangen.de/en/events/st-pauli-comedy-club-56/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ZCKO2xfAQaiiNaBjDb0k_1.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 10.07.2025",
+        "time": "20:30",
+        "event": "NICK & JUNE (@KNUST Hamburg)",
+        "category": "",
+        "description": "NICK & JUNE Support: Lioba + Beeing Anne 10.07.25 | 20:30 | BarNick & June schweben in einem Glitzernebel aus trilierenden Synthesizern, sanften Beat- und Drum-Pulsen und vibrierenden Orgelsounds. Eingebettet in dunkle Hall-Gitarren führen die bitter-süß gepaarten Stimmen von Suzie-Lou Kraft und Nick Wolf durch euphorisch inszenierte Zurückhaltung und versponnene Gedankenverästelung. Ein eigenwilliger, abstrakter Sound entsteht und verbindet einsam-schönen Indie-Folk à la Bon Iver, Velvet Underground oder Sharon Van Etten, den Dream-Pop von Beach House und Lana Del Rey mit Alternative-Rock von The National, St. Vincent oder Mazzy Star.",
+        "link": "https://rausgegangen.de/en/events/nick-june-7/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/E50ts9isSitYE40Nk0JB_nick-june-press-picture-2024-04-credits-luka-popp.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
     },
     {
         "date": "Thu, 10.07.2025",
@@ -803,76 +873,6 @@
     },
     {
         "date": "Thu, 10.07.2025",
-        "time": "19:00",
-        "event": "Freche Möwe - Stand-Up Comedy im A&O Hostel Reeperbahn (@a&o Hamburg Reeperbahn)",
-        "category": "",
-        "description": "Lass dich von Hamburgs frechsten Comedians überraschen und genieße einen Abend voller neuer Jokes & guter Laune! Beste Stimmung, frischer Humor & eine lockere Atmosphäre warten auf dich.",
-        "link": "https://rausgegangen.de/en/events/freche-mowe-stand-up-comedy-im-ao-hostel-reeperbahn-22/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/q8ChpQf3QKIMe0luakbb_kopie-von-vorschaubild-rausgegangen-1.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Thu, 10.07.2025",
-        "time": "19:00",
-        "event": "Gregory Porter (@Stadtpark Open Air (Freilichtbühne))",
-        "category": "",
-        "description": "Gregory Porter ist eine der unverzichtbaren Größen des zeitgenössischen Jazz. Seine umwerfende Stimme, die genauso im Soul, Blues und Gospel zuhause ist, macht jeden Song, egal ob Eigen- oder Fremdkomposition, umgehend zu einem Porter Song. Auch als Songwriter gelingt es ihm mühelos, all diese Genres zu seinem eigenen, unverkennbaren ›Gregory Porter Sound‹ zusammenzuführen. Seine tiefgründigen Texte sind bewußt universell und schließen niemanden aus - und sprechen damit nahezu allen aus der Seele.Am 09. November 2024 kehrt der Mann mit der Ballonmütze nun für einen exklusiven Termin zurück nach Deutschland und spielt ein Konzert in der Isarphilharmonie in München. Und auch für 2025 darf man sich bereits auf ein echtes Highlight freuen, denn Gregory Porter spielt endlich wieder ein Konzert beim Stadtpark Open Air in Hamburg!",
-        "link": "https://rausgegangen.de/en/events/gregory-porter-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/dfwesnj9cd5r.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Thu, 10.07.2025",
-        "time": "20:00",
-        "event": "Christian Löffler (@Schanzenzelt)",
-        "category": "",
-        "description": "Geprägt von der Natur seiner Heimat an der Ostsee, entführt dieser Musiker sein Publikum in Klanglandschaften voller Tiefe und Atmosphäre.  Seine Mischung aus sanften Beats, melancholischen Melodien und organischen Klängen schafft immersive Erlebnisse. Komm vorbei und tauch mit ein! ✨",
-        "link": "https://rausgegangen.de/en/events/christian-loffler-12/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/rtU6bldTLmPspHQf9xtw_christianlofflerszfb-1.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Thu, 10.07.2025",
-        "time": "20:00",
-        "event": "Hafenbounce Jam - Opening Act: Binta (@Hafenbahnhof)",
-        "category": "",
-        "description": "Jeden zweiten Donnerstag im Monat öffnet der Hafenbahnhof seine Bühne für eine offene Soul und HipHop Jam-Session mit Opener-Konzert. Durch den Abend führt der charismatische Musiker Khalil Kry.  Ihr wollt selbst mitjamen? Musiker:innen und Sänger:innen können sich per Instagram oder Mail an hafenbounce@hafenbahnhof.com für die Gästeliste anmelden.  BINTAs Lieder erreichen ihre Zuhörer:innen an einem Ort, der sich irgendwo ganz tief in der Seele befinden muss. Die Songs der Hamburger Sängerin sind eine Fusion aus Pop, Soul und RnB. Nachdem BINTA mit ihrer deutschen Debütsingle „Hey Hey“ von NJOY bereits zur Newcomerin des Monats gekürt wurde, folgten ihre Songs „Bevor es Regnet und „Bei Mir“. Zuletzt veröffentlichte BINTA 2024 ihre „Ich lébe“-EP, die sich mit den Herausforderungen des Lebens beschäftigt und gleichzeitig versucht Wege zu finden, die zu innerer Stärke und Leichtigkeit führen.  Hafenbounce ist mehr als nur eine Jam-Session – es ist ein Raum der Wertschätzung für Musik, Lyrik und persönliche Geschichten.Einlass: 19:00 Uhrhttps://linktr.ee/bintanizer  Die Veranstaltungsreihe wird unterstützt von Koskenkorva Wodka",
-        "link": "https://rausgegangen.de/en/events/hafenbounce-jam-opening-act-binta-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/v5HuTjAkQksuEzgHOCSg_100725hafenbouncebinta-2.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Thu, 10.07.2025",
-        "time": "20:00",
-        "event": "Katta Standup Comedy Show im Pinot&Becks (@Pinot & Becks)",
-        "category": "",
-        "description": "Nach erfolgreicher, ausverkaufter Premiere im März 2025 begrüßt euch Katta Comedy der Pinot & Becks Bar in der Lindenallee, zwischen U2 Christuskirche und der Sternschanze.In uriger Atmosphäre testen 7-8 Standup Comedians im Open Mic Format eure Lachmuskeln. Erfahrene Comedians feilen an ihrem Bühnenprogramm und testen neue Jokes. Newcomer sammeln erste oder weitere Bühnenerfahrung. Alle haben natürlich ein Ziel: Dass ihr einen super lustigen Abend habt.",
-        "link": "https://rausgegangen.de/en/events/katta-standup-comedy-show-im-pinotbecks-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/NrT3qjOmTGuWN1ngM6zQ_istock-942752254-6-3.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Thu, 10.07.2025",
-        "time": "20:00",
-        "event": "St. Pauli Comedy Club (@St. Pauli Comedy Club)",
-        "category": "",
-        "description": "St. Pauli Comedy Club: Lachen garantiert!  Willkommen im St. Pauli Comedy Club, der neuen Top-Adresse für Comedy im Herzen Hamburgs! Tauchen Sie ein in eine Welt voller Humor und genießen Sie unvergessliche Abende mit Deutschlands besten Comedians und aufstrebenden Talenten. Unsere vielseitigen Shows – von Stand-up über Impro bis hin zu Satire – bieten für jeden Geschmack das Richtige.  Unsere gemütliche und intime Atmosphäre macht jeden Besuch zu einem besonderen Erlebnis. Ob Stammgast oder Neuling, bei uns fühlt sich jeder sofort wohl. Der St. Pauli Comedy Club ist der perfekte Ort, um dem Alltag zu entfliehen und herzhaft zu lachen.  Besuchen Sie uns auf St. Pauli und lassen Sie sich von erstklassiger Comedy verzaubern. Jetzt Tickets sichern und dabei sein, wenn Lachen zur Kunst wird!  2024: Donnerstag, Freitag und Samstag 19:00 - 21:00 Uhr     Ab Jahr 2025:  Jeden Mittwoch, Donnerstag und Freitag von 20:00 - 22:00 Uhr. Jeden Samstag von 17:00 - 19:00 Uhr & von 20:00 - 22:00 Uhr.  Einlass immer 30 Minuten vor Showbeginn.  Spielbudenplatz 22 20359 Hamburg  www.stpaulicomedyclub.de",
-        "link": "https://rausgegangen.de/en/events/st-pauli-comedy-club-56/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ZCKO2xfAQaiiNaBjDb0k_1.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Thu, 10.07.2025",
-        "time": "20:30",
-        "event": "NICK & JUNE (@KNUST Hamburg)",
-        "category": "",
-        "description": "NICK & JUNE Support: Lioba + Beeing Anne 10.07.25 | 20:30 | BarNick & June schweben in einem Glitzernebel aus trilierenden Synthesizern, sanften Beat- und Drum-Pulsen und vibrierenden Orgelsounds. Eingebettet in dunkle Hall-Gitarren führen die bitter-süß gepaarten Stimmen von Suzie-Lou Kraft und Nick Wolf durch euphorisch inszenierte Zurückhaltung und versponnene Gedankenverästelung. Ein eigenwilliger, abstrakter Sound entsteht und verbindet einsam-schönen Indie-Folk à la Bon Iver, Velvet Underground oder Sharon Van Etten, den Dream-Pop von Beach House und Lana Del Rey mit Alternative-Rock von The National, St. Vincent oder Mazzy Star.",
-        "link": "https://rausgegangen.de/en/events/nick-june-7/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/E50ts9isSitYE40Nk0JB_nick-june-press-picture-2024-04-credits-luka-popp.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Thu, 10.07.2025",
         "time": null,
         "event": "Abendmarkt (@Klosterplatz)",
         "category": "Starte deinen entspannten Feierabend",
@@ -898,12 +898,12 @@
         "image_url": "https://www.club-sams.de/data/202506/DARKSIDE_w_KUKO_600_x_846_mm__150.jpg?v=1751146354"
     },
     {
-        "date": "Fr, 11.07",
-        "time": "17:00",
-        "event": "FR • TURBO TRASH (@cafe_europa_bi)",
+        "date": "Fri, 11.07",
+        "time": "23:00",
+        "event": "Studi Pop! (@stereobielefeld)",
         "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-turbo-trash-3/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250711_Turbotrash_4zu5.jpg"
+        "link": "https://stereo-bielefeld.de/events/studi-pop/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_StudiPop_Feed_02-pdf.jpg"
     },
     {
         "date": "Fr, 11.07.2025",
@@ -928,6 +928,14 @@
         "category": "Kreativität",
         "link": "https://kunsthalle-bielefeld.de/programm/veranstaltungen/#10209",
         "image_url": null
+    },
+    {
+        "date": "Fr, 11.07",
+        "time": "17:00",
+        "event": "FR • TURBO TRASH (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-turbo-trash-3/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250711_Turbotrash_4zu5.jpg"
     },
     {
         "date": "Fr, 11.07.2025",
@@ -969,6 +977,16 @@
         "link": "https://rausgegangen.de/en/events/foxl-8/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/F67XmcQRreyzVKo46dzQ_foxl-presse-quadrat.png?width=1200&height=900&mode=crop",
         "city": "Münster"
+    },
+    {
+        "date": "Fri, 11.07.2025",
+        "time": "22:00",
+        "event": "PLANET POP • Guilty Pleasures / 90s / 00s / 10s • Stollen134, Dortmund (@Stollen134 - Techno Club Dortmund)",
+        "category": "",
+        "description": "Bangers and Guilty Pleasures der 90s, y2k Era bis heute!🎟️ VVK läuft – sichere dir jetzt dein Ticket! ⏰ FR 11.07.2025 // ab 22h00 📍 Stollen134, Westenhellweg 134, Dortmund INSTAGRAM: @planetpop___ ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔ ADDITIONAL INFORMATION: • 18+ // don’t forget your ID card • 🏳️‍🌈 You are welcome! • Be nice to each other. We have no place for discrimination, homophobia, racism, sexism, hate. • Accessibility: The venue is not physically barrier-free.",
+        "link": "https://rausgegangen.de/en/events/planet-pop-guilty-pleasures-90s-00s-10s-stollen134-dortmund-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/93NhPzlMSASq6zivf4Vy_planetpopticket.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Fri, 11.07.2025",
@@ -1062,13 +1080,123 @@
     },
     {
         "date": "Fri, 11.07.2025",
-        "time": "22:00",
-        "event": "PLANET POP • Guilty Pleasures / 90s / 00s / 10s • Stollen134, Dortmund (@Stollen134 - Techno Club Dortmund)",
+        "time": "18:00",
+        "event": "Millerntor Gallery 13 (@Millerntor Gallery)",
         "category": "",
-        "description": "Bangers and Guilty Pleasures der 90s, y2k Era bis heute!🎟️ VVK läuft – sichere dir jetzt dein Ticket! ⏰ FR 11.07.2025 // ab 22h00 📍 Stollen134, Westenhellweg 134, Dortmund INSTAGRAM: @planetpop___ ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔ ADDITIONAL INFORMATION: • 18+ // don’t forget your ID card • 🏳️‍🌈 You are welcome! • Be nice to each other. We have no place for discrimination, homophobia, racism, sexism, hate. • Accessibility: The venue is not physically barrier-free.",
-        "link": "https://rausgegangen.de/en/events/planet-pop-guilty-pleasures-90s-00s-10s-stollen134-dortmund-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/93NhPzlMSASq6zivf4Vy_planetpopticket.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
+        "description": "In Hamburgs Festivalszene fest verankert, bringt die Millerntor Gallery jedes Jahr Kunst, Kultur und Haltung mitten ins Millerntor-Stadion. Auf drei Bühnen gibt’s ein genreübergreifendes Line-up flankiert von Street Art, Installationen, Talks und Workshops. Dabei ist die Mission wie immer, in Zusammenarbeit mit Viva con Agua Kunst in Wasser zu verwandeln! Werde Teil davon  🫶",
+        "link": "https://rausgegangen.de/en/events/millerntor-gallery-13-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/I9kxK9doRzG5eT1mLdAg_millerntor-gallery.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Fri, 11.07.2025",
+        "time": "19:00",
+        "event": "Gregory Porter - Stadtpark Open Air (@Stadtpark Open Air (Freilichtbühne))",
+        "category": "",
+        "description": "Diese Stimme geht unter die Haut – Gregory Porter bringt Jazz, Soul und Gospel mit so viel Gefühl auf die Bühne, dass du einfach mitgerissen wirst. Seine Songs erzählen Geschichten, die dich berühren, egal wer du bist. Freu dich auf einen Abend voller Emotionen und musikalischer Magie! 🎶✨",
+        "link": "https://rausgegangen.de/en/events/gregory-porter-4/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/44eqdilgo19k.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Fri, 11.07.2025",
+        "time": "19:00",
+        "event": "The 45Soulciety Festival 11.-13. Juli (@Mojo Club)",
+        "category": "",
+        "description": "35 Jahre SOULKITCHEN, 33 Jahre SOULCIETY RECORDS, 15 Jahre SEDSOUL RECORDS und der erste Geburtstag des neuen THE 45SOULCIETY FESTIVALS.Von Freitag, den 11. bis Sonntag, den 13. Juli wird auf dem BIG BIRTHDAY BASH geiert und findet das erste 45-Single-DJ-Festival seiner Art in Hamburg statt. In sieben Locations mit über 30 internationalen DJs und vielen internationalen Live-Acts wird die 45rpm/7\"-Vinyl-Single, die wir alle so lieben, die Fans urbaner Tanzmusik begeistern und unterhalten.„Von der Straße auf die Tanzfläche“ bedeutet wörtlich, dass die Jugendlichen (ab 18), die Babyboomer und die Best-Ager von der Straße in die Soulciety-Lieblingsclubs Mojo Club und Mojo Jazz Café sowie Mojo Yard, Sommerbühne Spielbudenplatz und Sommersalon  holen und dort mit dem kleinen schwarzen Gold für Furore sorgen.Soul, Funk, Boogie, Neo-Boogie, Nu-Disco, Hip-Hop, R'n'B, Acid Jazz, Latin und Reggae sind die bevorzugten Stile, die sorgfältig kuratiert und auf die teilnehmenden Locations verteilt werden. Am Sonntag, den 13. Juli findet ab xx Uhr ein Street Art Festival bei freiem Eintritt statt, die Location wird noch bekanntgegeben. Musik und viele weitere attraktive Aktionen finden bei gutem Wetter unter freiem Himmel statt.Das Programm im Überblick:Freitag 11. Juli  - Big Birthday Bash im Mojo Club Doors 18 Uhr - Beginn 19 Uhr parallel Boogietimes im Mojo Jazz CaféSamstag 12. Juli – 10 Jahre Dusty Donuts im Mojo Club Doors 22 Uhr Beginn 23 UhrParallel Boogietimes im Mojo Jazz Café sowie ab 16 Uhr öffentlich und kostenlos finden DJ-Sets im Mojo Yard und parallel auf der Sommerbühne vom Spielbudenplatz statt.Am Abend dann ab 22 Uhr Urban Classics im Sommersalon.",
+        "link": "https://rausgegangen.de/en/events/the-45soulciety-festival-11-13-juli-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/VE5JvmtoQteXIJslTA9k_naughty-nmx-dd.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Fri, 11.07.2025",
+        "time": "19:30",
+        "event": "Mainhattan meets Moinhattan (@Hafenklang Hamburg)",
+        "category": "",
+        "description": "Mainhattan to Moinhattan - by Funny Females and Friends* makes its Hamburg debut! 🎤✨Banking on laughs: Frankfurt based comedy initiative Funny Females and Friends* is making a comedy export to Hamburg's harbor, proving that laughter knows no borders! 🚢⚓Funny Females & Friends* represents a colorful and diverse comedy scene in Frankfurt am Main. At least half of our comedy lineups consists of FLINTA* (women/lesbians/intersex/non-binary/trans/agender) or queer comedians. The result? An unforgettable evening for everyone – on and off stage.Join us for a night where diverse voices unite through the universal language of comedy! 🎭🌟Why we're extra excited?This special Hamburg edition brings our beloved international comedy collective to the iconic Hafenklang! Comedy truly transcends cultural boundaries - the sound of laughter is the most recognizable emotion across all languages and cultures. For this unique evening, we're featuring amazing comedians who‘ll bring their own cultural perspective to create shared moments of joy! 🔥📅 When: Friday, July 11th🕰️  Admission: 19:00🎪  Show: 19:30 - 21:00🎫  Tickets available on rausgegangen, limited tickets at the door.",
+        "link": "https://rausgegangen.de/en/events/mainhattan-meets-moinhattan-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/QvMRIP6ERi2XNfoXW8jQ_front.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Fri, 11.07.2025",
+        "time": "20:00",
+        "event": "(Queer)feministisches Stand Up Comedy Open Mic (@Mathilde Bar Ottensen)",
+        "category": "",
+        "description": "SMASH COMEDY, Hamburgs queerfeministischer Stand Up Comedy Club, feiert die Frauen, FLINTA* & Queers der deutschen Stand Up Comedyszene. Heute vor zwei Jahren war die Premierenshow auf der Reeperbahn!SMASH COMEDY ist eine queerfeministische Stand Up Show ohne toxische Maskulinität, Misogynie und Rassismus, Queer- und Transfeindlichkeit - eine Bühne für Queers, Nichtbinäre, Frauen, Lesben, Transpersonen u.a. - Mit maximalem Spaß, Awareness und Diversity Power gegen Diskriminierung und Trumpismus.Unsere Stand Up Comedy ist kein politisches Kabarett, und doch ein politischer, ein kulturaktivistischer Akt. Solidarisiert euch, educate yourself, trainiert eure Empathie-Muskeln und kommt in unsere Shows, wir freuen uns!Falls du selbst Female Comedian, FLINTA* und/oder queer bist und mal bei uns spielen willst, schreib uns eine Mail an smashcomedyshow@gmail.com, und du kriegst einen Spot in einer unserer Shows!(FLINTA* steht für Frauen, Lesben, Intergeschlechtliche, nichtbinäre, transgender und agender Personen)",
+        "link": "https://rausgegangen.de/en/events/comedy-battle-queerfeministischer-stand-up-comedy-slam-von-f-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/NZsMbWrzS5OhonokXeuW_grafik-open-mic.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Fri, 11.07.2025",
+        "time": "20:00",
+        "event": "Der Ruf des Cthulhu (@Schanzenkino 73)",
+        "category": "",
+        "description": "Inspektor LeGrasse lädt zur Trauerfeier. Der stadtbekannte Akademiker und Lebemann Francis Wayland Thurston ist viel zu früh von uns gegangen. Freunde, Kollegen und Neugierige versammeln sich, um Abschied zu nehmen. Doch die Feier nimmt eine unerwartete Wendung. Nach und nach enthüllen LeGrasse und Thurston die Geheimnisse des finsteren Cthulhu-Kults, von dem sie sich verfolgt glauben – ein Kult, der einen unaussprechlichen Schrecken anbetet, der am Grunde des Meeres schlummert. Doch die wahre Bedrohung befindet sich direkt vor unseren Augen. Ein Stück über Verlust, Rache und die zerstörerische Suche nach Sinn und Anerkennung.",
+        "link": "https://rausgegangen.de/en/events/der-ruf-des-cthulhu-8/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ajba6o5sTBOmrlxb6yik_larshendrikgun3.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Fri, 11.07.2025",
+        "time": "20:00",
+        "event": "JAZZMEILE presents: IVYMIND (@Kulturladen St. Georg e.V.)",
+        "category": "",
+        "description": "Ruhig, subtil und schön – mit diesen Worten beschreibt John Helliwell (SUPERTRAMP) die Musik von IVYMIND. Die Band ist ein Schmelztiegel aus Country, Folk und improvisierter Musik. Eine internationale, multigenerationale Kombination einiger der vielseitigsten und dynamischsten Musiker*innen Europas.  Denken Sie: „Bob Dylan“ trifft auf die warme instrumentale Kombination aus Klarinette und Gitarre. Die Band wurde von der renommierten britischen Jazzklarinettistin Samantha Wright gegründet, die die einzige Klarinettenschülerin von Rolf Kühn war. Bereits in jungen Jahren unterrichtete sie an der Hochschule für Musik und Theater in Hamburg und tourte international als Solistin. Ein besonderer Neuzugang der Band ist der bekannte Schauspieler und Musiker Rainer Piwek. IVYMIND arbeitet seit fast 3 Jahren zusammen und feiert in diesem Jahr die Veröffentlichung ihrer EP: „Underground Country“.  Eine etwas andere Jazzmeile erwartet das Publikum an diesem Abend, an dem die Genregrenzen durch musikalisches Spiel erkundet werden.  Samantha Wright - Klarinette Rainer Piwek - Vocal Lothar Müller - Gitarre Giorgi Kiknadze - Bass Alex Petratos - Drums",
+        "link": "https://rausgegangen.de/en/events/jazzmeile-presents-ivymind-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/tkPQMFq5Q9ahgTAXsZtB_jazmeile-ivymind-online.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Fri, 11.07.2025",
+        "time": "20:00",
+        "event": "Reeperbahn Comedy Club (@Reeperbahn Comedy Club)",
+        "category": "",
+        "description": "Hier haben alle, ob Anfänger:in oder Profi, eins gemein: sie bringen dich sicher zum lachen. Damit wird auch der graueste Hamburger Wintertag sicher etwas sonniger. Und wenn du dich selbst mal in der Comedy-Welt erproben willst, nur zu: melde dich beim RCC und gib auf der Bühne dein Bestes.",
+        "link": "https://rausgegangen.de/en/events/reeperbahn-comedy-club-258/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TgqcTl1RE6pJNU8TeK4e_69355486_982868652059330_3106427241060368384_o.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Fri, 11.07.2025",
+        "time": "20:00",
+        "event": "SCHNACK Stand-Up Comedy im BIRDLAND Jazzclub (@Birdland Hamburg)",
+        "category": "",
+        "description": "Wer hat eigentlich gesagt Hamburger*innen lachen nicht so viel?! Dabei haben wir doch Norddeutschlands größten Comedy-Club hier! Von kleinen Comedians bis zu alten Bekannten sind hier alle dabei. Also wenn du mal wieder richtig lachen willst, ist das mit Sicherheit das Richtige. 🤩🎙️",
+        "link": "https://rausgegangen.de/en/events/schnack-stand-up-comedy-im-birdland-jazzclub-368/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eRNhWIWTzq0TzkzrVWWA_EVENTBRITE%20HEADER-21.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Fri, 11.07.2025",
+        "time": "21:00",
+        "event": "SCHNACK ALLSTARS - Stand-Up Comedy im ADINA - Die besten Comedians erleben! (@Adina Speicherstadt)",
+        "category": "",
+        "description": "Wer hat eigentlich gesagt Hamburger*innen lachen nicht so viel?! Dabei haben wir doch Norddeutschlands größten Comedy-Club hier! Von kleinen Comedians bis zu alten Bekannten sind hier alle dabei. Also wenn du mal wieder richtig lachen willst, ist das mit Sicherheit das Richtige. 🤩🎙️",
+        "link": "https://rausgegangen.de/en/events/schnack-allstars-stand-up-comedy-im-adina-die-besten-comedia-6/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/US0V8C7DSju18rPc3UDj_eventbrite-header-57.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Fri, 11.07.2025",
+        "time": "23:00",
+        "event": "FUNDBUREAU 11.07.25 (@Fundbureau)",
+        "category": "",
+        "description": "FREITAG 11.07.25 MIT:DJ TRAYTEX DJ PINKY PROMISE BENZSOUL VALI THUN PAKJOYVON 23 - 24 UHR KOMMT IHR BEI UNSEREM FUNDI SOMMER SPEZIAL FÜR'NEN ZEHNER REIN. 🌴ZAHLUNG: KARTENZAHLUNG ONLY TICKETS: ABENDKASSE + VVK EINLASS: 18+ UHRZEIT: 23:00 DATUM: 11.07.2025 LOCATION: ALTLANDER STR. 11, 20095, HAMBURG",
+        "link": "https://rausgegangen.de/en/events/fundbureau-110725-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/q3W9ZwyQlycpmxmVVBdg_showcase-110704.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Fri, 11.07.2025",
+        "time": "23:00",
+        "event": "Yoto x Miami Lenny, Neaf, NHG (@Yoto)",
+        "category": "",
+        "description": "Die Mischung aus unterschiedlichsten Musikstilen und kulturellen Einflüssen verbinden MIAMI LENNY, NEAF und NHG in ihren DJ-Sets zu einer mitreißenden Reise quer durch die Genres – das perfekte DJ-Trio für eine sensationelle Global Music Nacht im Yoto.MIAMI LENNY ist ein in Hamburg ansässiger DJ und musikalischer Weltenbummler, der sein Publikum beim Auflegen stets auf eine klangvolle Reise rund um den Globus mitnimmt. Mit einer tiefen Leidenschaft für internationale Kulturen verbindet er mühelos Beats und Rhythmen aus aller Welt und erschafft so eine einzigartige Fusion, die Grenzen und Genres spielerisch überwindet. Aus einem breiten Spektrum musikalischer Einflüsse schöpfend, verwebt er Afrobeats, karibische Riddims und die pulsierende Energie urbaner Musik-Edits zu einem kraftvollen, tanzbaren Sound.NEAF, seines Zeichens 50 % des kreativen Duos hinter dem Clubkollektiv Dari Hati (gemeinsam mit Warno), zählt zu den prägenden Artists an der Waterkant, wenn es darum geht, authentische, kreative Vibes und frische Akzente in der Clubszene zu setzen. Seine Shows sind ein Feuerwerk unterschiedlichster Genres und kultureller Einflüsse – er begeistert mit einem Sound zwischen Hip-Hop, R’n’B, Reggaeton, Baile Funk, House, Afrobeats, Amapiano und UK Garage und euphorisiert regelmässig die Dancefloors unserer Stadt.Das Line-up der Nacht vervollständigt der Hamburger DJ NHG. Verwurzelt in House, R’n’B und Hip-Hop, verbindet er verschiedene musikalische Einflüsse zu einem dynamischen und stilsicheren Sound, den er unter anderem mit Afrobeats und Baile Funk verfeinert. Sein vielseitiger Ansatz prägt seinen musikalischen Ausdruck und seine unverwechselbare Klangfarbe.Don`t Miss https://www.instagram.com/miamilennyhttps://www.instagram.com/___neaf/https://www.instagram.com/prodby.nhg/ https://www.instagram.com/yoto_hamburg/  Yoto / Schulterblatt 73 / 20357 Hamburg Schanze",
+        "link": "https://rausgegangen.de/en/events/yoto-x-miami-lenny-neaf-nhg-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ovXJ9ltPRC6x8LC3v1Mz_coll-nhgmiami-lennyneaffx.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
     },
     {
         "date": "Fri, 11.07.2025",
@@ -1292,126 +1420,6 @@
     },
     {
         "date": "Fri, 11.07.2025",
-        "time": "18:00",
-        "event": "Millerntor Gallery 13 (@Millerntor Gallery)",
-        "category": "",
-        "description": "In Hamburgs Festivalszene fest verankert, bringt die Millerntor Gallery jedes Jahr Kunst, Kultur und Haltung mitten ins Millerntor-Stadion. Auf drei Bühnen gibt’s ein genreübergreifendes Line-up flankiert von Street Art, Installationen, Talks und Workshops. Dabei ist die Mission wie immer, in Zusammenarbeit mit Viva con Agua Kunst in Wasser zu verwandeln! Werde Teil davon  🫶",
-        "link": "https://rausgegangen.de/en/events/millerntor-gallery-13-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/I9kxK9doRzG5eT1mLdAg_millerntor-gallery.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 11.07.2025",
-        "time": "19:00",
-        "event": "Gregory Porter - Stadtpark Open Air (@Stadtpark Open Air (Freilichtbühne))",
-        "category": "",
-        "description": "Diese Stimme geht unter die Haut – Gregory Porter bringt Jazz, Soul und Gospel mit so viel Gefühl auf die Bühne, dass du einfach mitgerissen wirst. Seine Songs erzählen Geschichten, die dich berühren, egal wer du bist. Freu dich auf einen Abend voller Emotionen und musikalischer Magie! 🎶✨",
-        "link": "https://rausgegangen.de/en/events/gregory-porter-4/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/44eqdilgo19k.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 11.07.2025",
-        "time": "19:00",
-        "event": "The 45Soulciety Festival 11.-13. Juli (@Mojo Club)",
-        "category": "",
-        "description": "35 Jahre SOULKITCHEN, 33 Jahre SOULCIETY RECORDS, 15 Jahre SEDSOUL RECORDS und der erste Geburtstag des neuen THE 45SOULCIETY FESTIVALS.Von Freitag, den 11. bis Sonntag, den 13. Juli wird auf dem BIG BIRTHDAY BASH geiert und findet das erste 45-Single-DJ-Festival seiner Art in Hamburg statt. In sieben Locations mit über 30 internationalen DJs und vielen internationalen Live-Acts wird die 45rpm/7\"-Vinyl-Single, die wir alle so lieben, die Fans urbaner Tanzmusik begeistern und unterhalten.„Von der Straße auf die Tanzfläche“ bedeutet wörtlich, dass die Jugendlichen (ab 18), die Babyboomer und die Best-Ager von der Straße in die Soulciety-Lieblingsclubs Mojo Club und Mojo Jazz Café sowie Mojo Yard, Sommerbühne Spielbudenplatz und Sommersalon  holen und dort mit dem kleinen schwarzen Gold für Furore sorgen.Soul, Funk, Boogie, Neo-Boogie, Nu-Disco, Hip-Hop, R'n'B, Acid Jazz, Latin und Reggae sind die bevorzugten Stile, die sorgfältig kuratiert und auf die teilnehmenden Locations verteilt werden. Am Sonntag, den 13. Juli findet ab xx Uhr ein Street Art Festival bei freiem Eintritt statt, die Location wird noch bekanntgegeben. Musik und viele weitere attraktive Aktionen finden bei gutem Wetter unter freiem Himmel statt.Das Programm im Überblick:Freitag 11. Juli  - Big Birthday Bash im Mojo Club Doors 18 Uhr - Beginn 19 Uhr parallel Boogietimes im Mojo Jazz CaféSamstag 12. Juli – 10 Jahre Dusty Donuts im Mojo Club Doors 22 Uhr Beginn 23 UhrParallel Boogietimes im Mojo Jazz Café sowie ab 16 Uhr öffentlich und kostenlos finden DJ-Sets im Mojo Yard und parallel auf der Sommerbühne vom Spielbudenplatz statt.Am Abend dann ab 22 Uhr Urban Classics im Sommersalon.",
-        "link": "https://rausgegangen.de/en/events/the-45soulciety-festival-11-13-juli-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/VE5JvmtoQteXIJslTA9k_naughty-nmx-dd.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 11.07.2025",
-        "time": "19:30",
-        "event": "Mainhattan meets Moinhattan (@Hafenklang Hamburg)",
-        "category": "",
-        "description": "Mainhattan to Moinhattan - by Funny Females and Friends* makes its Hamburg debut! 🎤✨Banking on laughs: Frankfurt based comedy initiative Funny Females and Friends* is making a comedy export to Hamburg's harbor, proving that laughter knows no borders! 🚢⚓Funny Females & Friends* represents a colorful and diverse comedy scene in Frankfurt am Main. At least half of our comedy lineups consists of FLINTA* (women/lesbians/intersex/non-binary/trans/agender) or queer comedians. The result? An unforgettable evening for everyone – on and off stage.Join us for a night where diverse voices unite through the universal language of comedy! 🎭🌟Why we're extra excited?This special Hamburg edition brings our beloved international comedy collective to the iconic Hafenklang! Comedy truly transcends cultural boundaries - the sound of laughter is the most recognizable emotion across all languages and cultures. For this unique evening, we're featuring amazing comedians who‘ll bring their own cultural perspective to create shared moments of joy! 🔥📅 When: Friday, July 11th🕰️  Admission: 19:00🎪  Show: 19:30 - 21:00🎫  Tickets available on rausgegangen, limited tickets at the door.",
-        "link": "https://rausgegangen.de/en/events/mainhattan-meets-moinhattan-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/QvMRIP6ERi2XNfoXW8jQ_front.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 11.07.2025",
-        "time": "20:00",
-        "event": "(Queer)feministisches Stand Up Comedy Open Mic (@Mathilde Bar Ottensen)",
-        "category": "",
-        "description": "SMASH COMEDY, Hamburgs queerfeministischer Stand Up Comedy Club, feiert die Frauen, FLINTA* & Queers der deutschen Stand Up Comedyszene. Heute vor zwei Jahren war die Premierenshow auf der Reeperbahn!SMASH COMEDY ist eine queerfeministische Stand Up Show ohne toxische Maskulinität, Misogynie und Rassismus, Queer- und Transfeindlichkeit - eine Bühne für Queers, Nichtbinäre, Frauen, Lesben, Transpersonen u.a. - Mit maximalem Spaß, Awareness und Diversity Power gegen Diskriminierung und Trumpismus.Unsere Stand Up Comedy ist kein politisches Kabarett, und doch ein politischer, ein kulturaktivistischer Akt. Solidarisiert euch, educate yourself, trainiert eure Empathie-Muskeln und kommt in unsere Shows, wir freuen uns!Falls du selbst Female Comedian, FLINTA* und/oder queer bist und mal bei uns spielen willst, schreib uns eine Mail an smashcomedyshow@gmail.com, und du kriegst einen Spot in einer unserer Shows!(FLINTA* steht für Frauen, Lesben, Intergeschlechtliche, nichtbinäre, transgender und agender Personen)",
-        "link": "https://rausgegangen.de/en/events/comedy-battle-queerfeministischer-stand-up-comedy-slam-von-f-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/NZsMbWrzS5OhonokXeuW_grafik-open-mic.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 11.07.2025",
-        "time": "20:00",
-        "event": "Der Ruf des Cthulhu (@Schanzenkino 73)",
-        "category": "",
-        "description": "Inspektor LeGrasse lädt zur Trauerfeier. Der stadtbekannte Akademiker und Lebemann Francis Wayland Thurston ist viel zu früh von uns gegangen. Freunde, Kollegen und Neugierige versammeln sich, um Abschied zu nehmen. Doch die Feier nimmt eine unerwartete Wendung. Nach und nach enthüllen LeGrasse und Thurston die Geheimnisse des finsteren Cthulhu-Kults, von dem sie sich verfolgt glauben – ein Kult, der einen unaussprechlichen Schrecken anbetet, der am Grunde des Meeres schlummert. Doch die wahre Bedrohung befindet sich direkt vor unseren Augen. Ein Stück über Verlust, Rache und die zerstörerische Suche nach Sinn und Anerkennung.",
-        "link": "https://rausgegangen.de/en/events/der-ruf-des-cthulhu-8/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ajba6o5sTBOmrlxb6yik_larshendrikgun3.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 11.07.2025",
-        "time": "20:00",
-        "event": "JAZZMEILE presents: IVYMIND (@Kulturladen St. Georg e.V.)",
-        "category": "",
-        "description": "Ruhig, subtil und schön – mit diesen Worten beschreibt John Helliwell (SUPERTRAMP) die Musik von IVYMIND. Die Band ist ein Schmelztiegel aus Country, Folk und improvisierter Musik. Eine internationale, multigenerationale Kombination einiger der vielseitigsten und dynamischsten Musiker*innen Europas.  Denken Sie: „Bob Dylan“ trifft auf die warme instrumentale Kombination aus Klarinette und Gitarre. Die Band wurde von der renommierten britischen Jazzklarinettistin Samantha Wright gegründet, die die einzige Klarinettenschülerin von Rolf Kühn war. Bereits in jungen Jahren unterrichtete sie an der Hochschule für Musik und Theater in Hamburg und tourte international als Solistin. Ein besonderer Neuzugang der Band ist der bekannte Schauspieler und Musiker Rainer Piwek. IVYMIND arbeitet seit fast 3 Jahren zusammen und feiert in diesem Jahr die Veröffentlichung ihrer EP: „Underground Country“.  Eine etwas andere Jazzmeile erwartet das Publikum an diesem Abend, an dem die Genregrenzen durch musikalisches Spiel erkundet werden.  Samantha Wright - Klarinette Rainer Piwek - Vocal Lothar Müller - Gitarre Giorgi Kiknadze - Bass Alex Petratos - Drums",
-        "link": "https://rausgegangen.de/en/events/jazzmeile-presents-ivymind-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/tkPQMFq5Q9ahgTAXsZtB_jazmeile-ivymind-online.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 11.07.2025",
-        "time": "20:00",
-        "event": "Reeperbahn Comedy Club (@Reeperbahn Comedy Club)",
-        "category": "",
-        "description": "Hier haben alle, ob Anfänger:in oder Profi, eins gemein: sie bringen dich sicher zum lachen. Damit wird auch der graueste Hamburger Wintertag sicher etwas sonniger. Und wenn du dich selbst mal in der Comedy-Welt erproben willst, nur zu: melde dich beim RCC und gib auf der Bühne dein Bestes.",
-        "link": "https://rausgegangen.de/en/events/reeperbahn-comedy-club-258/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TgqcTl1RE6pJNU8TeK4e_69355486_982868652059330_3106427241060368384_o.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 11.07.2025",
-        "time": "20:00",
-        "event": "SCHNACK Stand-Up Comedy im BIRDLAND Jazzclub (@Birdland Hamburg)",
-        "category": "",
-        "description": "Wer hat eigentlich gesagt Hamburger*innen lachen nicht so viel?! Dabei haben wir doch Norddeutschlands größten Comedy-Club hier! Von kleinen Comedians bis zu alten Bekannten sind hier alle dabei. Also wenn du mal wieder richtig lachen willst, ist das mit Sicherheit das Richtige. 🤩🎙️",
-        "link": "https://rausgegangen.de/en/events/schnack-stand-up-comedy-im-birdland-jazzclub-368/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eRNhWIWTzq0TzkzrVWWA_EVENTBRITE%20HEADER-21.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 11.07.2025",
-        "time": "21:00",
-        "event": "SCHNACK ALLSTARS - Stand-Up Comedy im ADINA - Die besten Comedians erleben! (@Adina Speicherstadt)",
-        "category": "",
-        "description": "Wer hat eigentlich gesagt Hamburger*innen lachen nicht so viel?! Dabei haben wir doch Norddeutschlands größten Comedy-Club hier! Von kleinen Comedians bis zu alten Bekannten sind hier alle dabei. Also wenn du mal wieder richtig lachen willst, ist das mit Sicherheit das Richtige. 🤩🎙️",
-        "link": "https://rausgegangen.de/en/events/schnack-allstars-stand-up-comedy-im-adina-die-besten-comedia-6/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/US0V8C7DSju18rPc3UDj_eventbrite-header-57.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 11.07.2025",
-        "time": "23:00",
-        "event": "FUNDBUREAU 11.07.25 (@Fundbureau)",
-        "category": "",
-        "description": "FREITAG 11.07.25 MIT:DJ TRAYTEX DJ PINKY PROMISE BENZSOUL VALI THUN PAKJOYVON 23 - 24 UHR KOMMT IHR BEI UNSEREM FUNDI SOMMER SPEZIAL FÜR'NEN ZEHNER REIN. 🌴ZAHLUNG: KARTENZAHLUNG ONLY TICKETS: ABENDKASSE + VVK EINLASS: 18+ UHRZEIT: 23:00 DATUM: 11.07.2025 LOCATION: ALTLANDER STR. 11, 20095, HAMBURG",
-        "link": "https://rausgegangen.de/en/events/fundbureau-110725-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/q3W9ZwyQlycpmxmVVBdg_showcase-110704.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 11.07.2025",
-        "time": "23:00",
-        "event": "Yoto x Miami Lenny, Neaf, NHG (@Yoto)",
-        "category": "",
-        "description": "Die Mischung aus unterschiedlichsten Musikstilen und kulturellen Einflüssen verbinden MIAMI LENNY, NEAF und NHG in ihren DJ-Sets zu einer mitreißenden Reise quer durch die Genres – das perfekte DJ-Trio für eine sensationelle Global Music Nacht im Yoto.MIAMI LENNY ist ein in Hamburg ansässiger DJ und musikalischer Weltenbummler, der sein Publikum beim Auflegen stets auf eine klangvolle Reise rund um den Globus mitnimmt. Mit einer tiefen Leidenschaft für internationale Kulturen verbindet er mühelos Beats und Rhythmen aus aller Welt und erschafft so eine einzigartige Fusion, die Grenzen und Genres spielerisch überwindet. Aus einem breiten Spektrum musikalischer Einflüsse schöpfend, verwebt er Afrobeats, karibische Riddims und die pulsierende Energie urbaner Musik-Edits zu einem kraftvollen, tanzbaren Sound.NEAF, seines Zeichens 50 % des kreativen Duos hinter dem Clubkollektiv Dari Hati (gemeinsam mit Warno), zählt zu den prägenden Artists an der Waterkant, wenn es darum geht, authentische, kreative Vibes und frische Akzente in der Clubszene zu setzen. Seine Shows sind ein Feuerwerk unterschiedlichster Genres und kultureller Einflüsse – er begeistert mit einem Sound zwischen Hip-Hop, R’n’B, Reggaeton, Baile Funk, House, Afrobeats, Amapiano und UK Garage und euphorisiert regelmässig die Dancefloors unserer Stadt.Das Line-up der Nacht vervollständigt der Hamburger DJ NHG. Verwurzelt in House, R’n’B und Hip-Hop, verbindet er verschiedene musikalische Einflüsse zu einem dynamischen und stilsicheren Sound, den er unter anderem mit Afrobeats und Baile Funk verfeinert. Sein vielseitiger Ansatz prägt seinen musikalischen Ausdruck und seine unverwechselbare Klangfarbe.Don`t Miss https://www.instagram.com/miamilennyhttps://www.instagram.com/___neaf/https://www.instagram.com/prodby.nhg/ https://www.instagram.com/yoto_hamburg/  Yoto / Schulterblatt 73 / 20357 Hamburg Schanze",
-        "link": "https://rausgegangen.de/en/events/yoto-x-miami-lenny-neaf-nhg-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ovXJ9ltPRC6x8LC3v1Mz_coll-nhgmiami-lennyneaffx.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 11.07.2025",
         "time": null,
         "event": "vielHarmonie (@Bürgerpark)",
         "category": "Live-Musik im Bürgerpark",
@@ -1464,14 +1472,6 @@
         "image_url": "https://www.club-sams.de/data/202507/Samstag_12_07_Homepage_1__150.jpg?v=1751457724"
     },
     {
-        "date": "Sa, 12.07",
-        "time": "23:00",
-        "event": "SA • SALITOS CLUB NIGHT – NEW AREA OPENING – SONDERVERANSTALTUNG (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-salitos-club-night-new-area-opening-sonderveransltung/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250712_SalitosClubNight_4zu5-1.jpg"
-    },
-    {
         "date": "Sa, 12.07.2025",
         "time": "9:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -1496,6 +1496,14 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Sa, 12.07",
+        "time": "23:00",
+        "event": "SA • SALITOS CLUB NIGHT – NEW AREA OPENING – SONDERVERANSTALTUNG (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-salitos-club-night-new-area-opening-sonderveransltung/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250712_SalitosClubNight_4zu5-1.jpg"
+    },
+    {
         "date": "Sa, 12.07.2025",
         "time": "10:00",
         "event": "Yoga(@hochschulsport_bielefeld)",
@@ -1516,6 +1524,26 @@
         "event": "R! (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/r-92/",
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
+    },
+    {
+        "date": "Sat, 12.07.2025",
+        "time": "18:00",
+        "event": "Provinz \"Pazifik\" • Open Airs 2025 (@Westfalenpark)",
+        "category": "",
+        "description": "Provinz bringen mit ihrem neuen Album „Pazifik“ frischen Sound und ehrliche Texte auf die Bühne. Wer auf handgemachten Indie-Pop mit Tiefgang steht, sollte sich ihr Konzert nicht entgehen lassen. ✨",
+        "link": "https://rausgegangen.de/en/events/provinz-pazifik-open-airs-2025-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GgLC5EbQpWuRumGdGXg2_provinz-open-airs-fb-banner.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 12.07.2025",
+        "time": "23:00",
+        "event": "Nice Up! #134 (@Großmarktschänke)",
+        "category": "",
+        "description": "Greetings, liebe Leute! ❤️💛💚 Die Sonne bringt Glück und Vibes ☀️✨! Am Samstag, den 12.07., öffnet die NICE UP! wieder ihre Tore und lädt euch ein, das Leben in vollen Zügen zu feiern. Und wir haben ein echtes Highlight für euch am Start! 🌟Wir feiern die NICE UP! zusammen mit unseren Gästen, dem Ba!Ba!Bad Soundsystem – und natürlich unseren geliebten Residents, dem Blockbuster Soundsystem! 🔊 OMG – Herz, was willst du mehr?Das Ba!Ba!Bad Soundsystem hat uns schon mit unvergesslichen Nächten voller Sound und Soul in der Schänke begeistert – und wir können’s kaum erwarten, wieder gemeinsam mit euch die Tanzfläche in ein brodelndes Meer aus Glückseligkeit zu verwandeln. 💃🌊Lasst euch treiben zu Dancehall, Reggae, Shatta, Afrobeats und Reggaeton – Ruhr Breeze, Dancehall Station und Blockbuster Soundsystem liefern dafür den perfekten Soundtrack. 🎶Macht euch bereit für eine vibrierende Nacht voller Tanz, guter Laune  und positiver Energie. Kommt vorbei – wir freuen uns auf euch!Big Up! Love Up! Nice Up! ✌️ Eintritt bis 22:30 Uhr: € 6,00 - danach € 12,00 Ermäßigter Eintritt: € 8,00 | Zutritt ab 18",
+        "link": "https://rausgegangen.de/en/events/nice-up-134-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3PVCd5CmT0ebXvMIPSlk_nice-upbanner.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Sat, 12.07.2025",
@@ -1576,26 +1604,6 @@
         "link": "https://rausgegangen.de/en/events/with-pulse-and-outronom-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6pzrjdSoRhKnqkuSHJ1R_multigrafik1.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Sat, 12.07.2025",
-        "time": "18:00",
-        "event": "Provinz \"Pazifik\" • Open Airs 2025 (@Westfalenpark)",
-        "category": "",
-        "description": "Provinz bringen mit ihrem neuen Album „Pazifik“ frischen Sound und ehrliche Texte auf die Bühne. Wer auf handgemachten Indie-Pop mit Tiefgang steht, sollte sich ihr Konzert nicht entgehen lassen. ✨",
-        "link": "https://rausgegangen.de/en/events/provinz-pazifik-open-airs-2025-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GgLC5EbQpWuRumGdGXg2_provinz-open-airs-fb-banner.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 12.07.2025",
-        "time": "23:00",
-        "event": "Nice Up! #134 (@Großmarktschänke)",
-        "category": "",
-        "description": "Greetings, liebe Leute! ❤️💛💚 Die Sonne bringt Glück und Vibes ☀️✨! Am Samstag, den 12.07., öffnet die NICE UP! wieder ihre Tore und lädt euch ein, das Leben in vollen Zügen zu feiern. Und wir haben ein echtes Highlight für euch am Start! 🌟Wir feiern die NICE UP! zusammen mit unseren Gästen, dem Ba!Ba!Bad Soundsystem – und natürlich unseren geliebten Residents, dem Blockbuster Soundsystem! 🔊 OMG – Herz, was willst du mehr?Das Ba!Ba!Bad Soundsystem hat uns schon mit unvergesslichen Nächten voller Sound und Soul in der Schänke begeistert – und wir können’s kaum erwarten, wieder gemeinsam mit euch die Tanzfläche in ein brodelndes Meer aus Glückseligkeit zu verwandeln. 💃🌊Lasst euch treiben zu Dancehall, Reggae, Shatta, Afrobeats und Reggaeton – Ruhr Breeze, Dancehall Station und Blockbuster Soundsystem liefern dafür den perfekten Soundtrack. 🎶Macht euch bereit für eine vibrierende Nacht voller Tanz, guter Laune  und positiver Energie. Kommt vorbei – wir freuen uns auf euch!Big Up! Love Up! Nice Up! ✌️ Eintritt bis 22:30 Uhr: € 6,00 - danach € 12,00 Ermäßigter Eintritt: € 8,00 | Zutritt ab 18",
-        "link": "https://rausgegangen.de/en/events/nice-up-134-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3PVCd5CmT0ebXvMIPSlk_nice-upbanner.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
     },
     {
         "date": "Sat, 12.07.2025",
@@ -1881,14 +1889,6 @@
         "link": "https://www.bielefeld.jetzt/node/1156624"
     },
     {
-        "date": "Mi, 16.07",
-        "time": "23:00",
-        "event": "MI • WEDNESDATE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wednesdate-8/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250716_Wednesdate_4zu5.jpg"
-    },
-    {
         "date": "We, 16.07.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -1911,6 +1911,14 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 16.07",
+        "time": "23:00",
+        "event": "MI • WEDNESDATE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wednesdate-8/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250716_Wednesdate_4zu5.jpg"
     },
     {
         "date": "Mi, 16.07.2025",
@@ -2161,14 +2169,6 @@
         "image_url": "https://www.club-sams.de/data/202507/WhatsApp_Image_2025-06-29_at_00_31_10_150.jpeg?v=1751456627"
     },
     {
-        "date": "Sa, 19.07",
-        "time": "23:00",
-        "event": "SA • LOVE SATURDAYS x COCKTAIL NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-cocktail-night/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250719_CocktailParty_4zu5.jpg"
-    },
-    {
         "date": "Sa, 19.07.2025",
         "time": "9:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -2191,6 +2191,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 19.07",
+        "time": "23:00",
+        "event": "SA • LOVE SATURDAYS x COCKTAIL NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-cocktail-night/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250719_CocktailParty_4zu5.jpg"
     },
     {
         "date": "Sa, 19.07",
@@ -2314,14 +2322,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Mi, 23.07",
-        "time": "23:00",
-        "event": "MI • WYLD WEDNESDAY (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wyld-wednesday-15/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250723_WyldWednesday_4zu5.jpg"
-    },
-    {
         "date": "We, 23.07.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -2352,6 +2352,14 @@
         "category": "Ausgehen",
         "link": "https://www.instagram.com/diesdascomedy/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 23.07",
+        "time": "23:00",
+        "event": "MI • WYLD WEDNESDAY (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wyld-wednesday-15/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250723_WyldWednesday_4zu5.jpg"
     },
     {
         "date": "Wed, 23.07.2025",
@@ -2467,14 +2475,6 @@
         "link": "https://www.bielefeld.jetzt/node/1144833"
     },
     {
-        "date": "Fr, 25.07",
-        "time": "23:00",
-        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-back-to-2000-5/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250725_Backto2000_4zu5-1.jpg"
-    },
-    {
         "date": "Fr, 25.07.2025",
         "time": "19:00",
         "event": "*TRIBE CREATIVE CIRCLES*",
@@ -2497,6 +2497,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 25.07",
+        "time": "23:00",
+        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-back-to-2000-5/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250725_Backto2000_4zu5-1.jpg"
     },
     {
         "date": "Fr, 25.07",
@@ -2551,14 +2559,6 @@
         "image_url": "https://www.club-sams.de/data/202506/HAPPI_HIPPIE_Instagram_Post_3__150_1.png?v=1749420487"
     },
     {
-        "date": "Sa, 26.07",
-        "time": "23:00",
-        "event": "SA • CAFE SUMMER NIGHTS x TEQUILA NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-x-tequila-party/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250726_TequilaParty_4zu5-1.jpg"
-    },
-    {
         "date": "Sa, 26.07.2025",
         "time": "14:00",
         "event": "*TRIBE WANDERSAMSTAG*",
@@ -2589,6 +2589,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 26.07",
+        "time": "23:00",
+        "event": "SA • CAFE SUMMER NIGHTS x TEQUILA NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-x-tequila-party/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250726_TequilaParty_4zu5-1.jpg"
     },
     {
         "date": "Sa, 26.07",
@@ -2656,14 +2664,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Mi, 30.07",
-        "time": "23:00",
-        "event": "MI • WE LOVE WEDNESDAYS (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-we-love-wednesdays/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250730_WeLoveWednesday_4zu5.jpg"
-    },
-    {
         "date": "We, 30.07.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -2686,6 +2686,14 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 30.07",
+        "time": "23:00",
+        "event": "MI • WE LOVE WEDNESDAYS (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-we-love-wednesdays/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250730_WeLoveWednesday_4zu5.jpg"
     },
     {
         "date": "Wed, 30.07.2025",
@@ -2772,14 +2780,6 @@
         "link": "https://www.bielefeld.jetzt/node/1115633"
     },
     {
-        "date": "Fr, 01.08",
-        "time": "23:00",
-        "event": "FR • FRIDAYS FINEST (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-fridays-finest/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250801_FridaysFinest_4zu5.jpg"
-    },
-    {
         "date": "Fr, 01.08.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -2797,6 +2797,14 @@
     },
     {
         "date": "Fr, 01.08",
+        "time": "23:00",
+        "event": "FR • FRIDAYS FINEST (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-fridays-finest/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250801_FridaysFinest_4zu5.jpg"
+    },
+    {
+        "date": "Fr, 01.08",
         "time": "20:00",
         "event": "GRIM104 (@nr.z.p)",
         "link": "https://nrzp.de/event/grim104",
@@ -2810,14 +2818,6 @@
         "description": "Sundowner - Snacks - Sounds",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/webform/termine_melden/16063/beats_am_gleis_0108.jpg?itok=nutsnBgM",
         "link": "https://www.bielefeld.jetzt/node/1130589"
-    },
-    {
-        "date": "Sa, 02.08",
-        "time": "23:00",
-        "event": "SA • GIRLS NIGHT OUT • RAUM2 : BOOTY BOUNCE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-girls-night-out-raum2-booty-bounce-8/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250802_GirlsNightOut_4zu5.jpg"
     },
     {
         "date": "Sa, 02.08.2025",
@@ -2842,6 +2842,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 02.08",
+        "time": "23:00",
+        "event": "SA • GIRLS NIGHT OUT • RAUM2 : BOOTY BOUNCE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-girls-night-out-raum2-booty-bounce-8/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250802_GirlsNightOut_4zu5.jpg"
     },
     {
         "date": "Sa, 02.08",
@@ -2924,14 +2932,6 @@
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
-        "date": "Mi, 06.08",
-        "time": "23:00",
-        "event": "MI • WET WEDNESDAY (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wet-wednesday-3/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250806_WetWednesday_4zu5.jpg"
-    },
-    {
         "date": "We, 06.08.2025",
         "time": "17:00",
         "event": "Art Night (@loom_bielefeld)",
@@ -2962,6 +2962,14 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 06.08",
+        "time": "23:00",
+        "event": "MI • WET WEDNESDAY (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wet-wednesday-3/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250806_WetWednesday_4zu5.jpg"
     },
     {
         "date": "We, 06.08",
@@ -3037,14 +3045,6 @@
         "link": "https://www.bielefeld.jetzt/node/1164256"
     },
     {
-        "date": "Fr, 08.08",
-        "time": "23:00",
-        "event": "FR • TURBO TRASH • RAUM2 BOOTY BOUNCE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-turbo-trash-raum2-booty-bounce-3/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250808_Turbotrash_4zu5.jpg"
-    },
-    {
         "date": "Fr, 08.08.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -3070,6 +3070,14 @@
     },
     {
         "date": "Fr, 08.08",
+        "time": "23:00",
+        "event": "FR • TURBO TRASH • RAUM2 BOOTY BOUNCE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-turbo-trash-raum2-booty-bounce-3/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250808_Turbotrash_4zu5.jpg"
+    },
+    {
+        "date": "Fr, 08.08",
         "event": "Alternative Summer- Party90s, Crossover, Alternative (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/alternative-summer/",
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
@@ -3082,14 +3090,6 @@
         "description": "Sundowner - Snacks - Sounds",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/webform/termine_melden/16065/beats_am_gleis_0808.jpg?itok=M7YtsBpq",
         "link": "https://www.bielefeld.jetzt/node/1130593"
-    },
-    {
-        "date": "Sa, 09.08",
-        "time": "23:00",
-        "event": "SA • CAFE SUMMER NIGHTS x TEQUILA NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-x-tequila-night-3/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250809_TequilaParty_4zu5.jpg"
     },
     {
         "date": "Sa, 09.08.2025",
@@ -3114,6 +3114,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 09.08",
+        "time": "23:00",
+        "event": "SA • CAFE SUMMER NIGHTS x TEQUILA NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-x-tequila-night-3/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250809_TequilaParty_4zu5.jpg"
     },
     {
         "date": "Sat, 09.08.2025",
@@ -3191,14 +3199,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Mi, 13.08",
-        "time": "23:00",
-        "event": "MI • BERGFEST (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-bergfest-17/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250813_Bergfest_4zu5.jpg"
-    },
-    {
         "date": "We, 13.08.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -3229,6 +3229,14 @@
         "category": "Ausgehen",
         "link": "https://www.instagram.com/diesdascomedy/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 13.08",
+        "time": "23:00",
+        "event": "MI • BERGFEST (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-bergfest-17/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250813_Bergfest_4zu5.jpg"
     },
     {
         "date": "Wed, 13.08.2025",
@@ -3308,14 +3316,6 @@
         "link": "https://www.bielefeld.jetzt/node/1164258"
     },
     {
-        "date": "Fr, 15.08",
-        "time": "23:00",
-        "event": "FR • CAFELICIOUS (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-cafelicious-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250815_Cafelicious_1zu1.jpg"
-    },
-    {
         "date": "Fr, 15.08.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -3330,6 +3330,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 15.08",
+        "time": "23:00",
+        "event": "FR • CAFELICIOUS (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-cafelicious-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250815_Cafelicious_1zu1.jpg"
     },
     {
         "date": "Fri, 15.08.2025",
@@ -3360,14 +3368,6 @@
         "link": "https://www.bielefeld.jetzt/node/1130597"
     },
     {
-        "date": "Sa, 16.08",
-        "time": "23:00",
-        "event": "SA • CAFE SUMMER NIGHTS X COCKTAIL NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-x-cocktail-night/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250816_CocktailParty_4zu5.jpg"
-    },
-    {
         "date": "Sa, 16.08.2025",
         "time": "9:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -3390,6 +3390,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 16.08",
+        "time": "23:00",
+        "event": "SA • CAFE SUMMER NIGHTS X COCKTAIL NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-x-cocktail-night/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250816_CocktailParty_4zu5.jpg"
     },
     {
         "date": "Sat, 16.08.2025",
@@ -3459,14 +3467,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Mi, 20.08",
-        "time": "23:00",
-        "event": "MI • WEDNESDATE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wednesdate-9/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250820_Wednesdate_4zu5.jpg"
-    },
-    {
         "date": "We, 20.08.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -3489,6 +3489,14 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 20.08",
+        "time": "23:00",
+        "event": "MI • WEDNESDATE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wednesdate-9/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250820_Wednesdate_4zu5.jpg"
     },
     {
         "date": "Mi, 20.08",
@@ -3555,14 +3563,6 @@
         "link": "https://www.bielefeld.jetzt/node/1164260"
     },
     {
-        "date": "Fr, 22.08",
-        "time": "17:00",
-        "event": "FR • 2010 FLASHBACK (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-2010-flashback-4/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250822_2010Flashback_4zu5.jpg"
-    },
-    {
         "date": "Fr, 22.08.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -3579,6 +3579,14 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Fr, 22.08",
+        "time": "17:00",
+        "event": "FR • 2010 FLASHBACK (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-2010-flashback-4/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250822_2010Flashback_4zu5.jpg"
+    },
+    {
         "date": "Fri, 22.08.2025",
         "time": "18:30",
         "event": "Kettcar (@JunkYard Dortmund)",
@@ -3587,14 +3595,6 @@
         "link": "https://rausgegangen.de/en/events/kettcar-9/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pH2uIa8MRHuc61YPKbqi_kettcardortmund-kopie.jpg?width=1200&height=900&mode=crop",
         "city": "Dortmund"
-    },
-    {
-        "date": "Sa, 23.08",
-        "time": "23:00",
-        "event": "SA • CAFE SUMMER NIGHTS / JAHNPLATZ OPEN AIR AFTERSHOW (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-jahnplatz-open-air-aftershow/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250823_SummerNight_4zu5.jpg"
     },
     {
         "date": "Sa, 23.08.2025",
@@ -3619,6 +3619,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 23.08",
+        "time": "23:00",
+        "event": "SA • CAFE SUMMER NIGHTS / JAHNPLATZ OPEN AIR AFTERSHOW (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-jahnplatz-open-air-aftershow/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250823_SummerNight_4zu5.jpg"
     },
     {
         "date": "Sa, 23.08",
@@ -3825,14 +3833,6 @@
         "link": "https://www.bielefeld.jetzt/node/1115635"
     },
     {
-        "date": "Sa, 30.08",
-        "time": "23:00",
-        "event": "SA • IBIZA WHITE NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-ibiza-white-night-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250830_IbizaWhiteNight_4zu5.jpg"
-    },
-    {
         "date": "Sa, 30.08.2025",
         "time": "14:00",
         "event": "*TRIBE WANDERSAMSTAG*",
@@ -3863,6 +3863,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 30.08",
+        "time": "23:00",
+        "event": "SA • IBIZA WHITE NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-ibiza-white-night-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250830_IbizaWhiteNight_4zu5.jpg"
     },
     {
         "date": "Sa, 30.08",
