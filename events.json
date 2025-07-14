@@ -1,6 +1,14 @@
 [
     {
         "date": "Mo, 14.07.2025",
+        "time": "20:00",
+        "event": "Pub Quiz (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "Mo, 14.07.2025",
         "time": "16:00",
         "event": "Laufen(@hochschulsport_bielefeld)",
         "category": "Sport",
@@ -46,14 +54,6 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35650",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Mo, 14.07.2025",
-        "time": "20:00",
-        "event": "Pub Quiz (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
     },
     {
         "date": "Mon, 14.07.2025",
@@ -107,46 +107,6 @@
     },
     {
         "date": "Mon, 14.07.2025",
-        "time": "17:00",
-        "event": "Community-Event zum Non-binary Day (@anyway)",
-        "category": "",
-        "description": "Ein entspannter Abend zum Austauschen, mit Bingo, Quiz und Drinks. Für alle trans, inter*, non-binären Menschen und Allies – einfach vorbeikommen und feiern!🥳",
-        "link": "https://rausgegangen.de/en/events/community-event-zum-non-binary-day-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/9j5KiDnRS8OVPNMbybAQ_dsc08320-2-2-1.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Mon, 14.07.2025",
-        "time": "17:30",
-        "event": "NIMM PLATZ - Kölner Literatursommer mit Ulrike Anna Bleier (@Neumarkt)",
-        "category": "",
-        "description": "Ulrike Anna Bleier teilt in ihrer Lesung persönliche Eindrücke und Fotos aus Istanbul nach dem Erdbeben 2023📖",
-        "link": "https://rausgegangen.de/en/events/nimm-platz-kolner-literatursommer-mit-ulrike-anna-bleier-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/H02jo8rASJ2Ljebrn6IT_rausgegangenillunimmplatz.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Mon, 14.07.2025",
-        "time": "19:00",
-        "event": "🧠 Kneipenquiz am Ebertplatz (@Ebertplatz)",
-        "category": "",
-        "description": "Chilliger Quiz-Abend mit Drinks am Ebertplatz. Teams willkommen, Spaß garantiert!",
-        "link": "https://rausgegangen.de/en/events/kneipenquiz-am-ebertplatz-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/CivbE36JQCSH8givhByU_kneipenquizz.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Mon, 14.07.2025",
-        "time": "19:00",
-        "event": "Bike Film Tour – Season 1 (OMU) (@naturstrom-openairkino)",
-        "category": "",
-        "description": "Open-Air-Kino mit der BIKE FILM TOUR: coole Fahrrad-Filme, krasse Rennen und starke Stories – perfekt für einen entspannten Abend draußen 🎞️",
-        "link": "https://rausgegangen.de/en/events/bike-film-tour-season-1-21/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/MMBUSUfQ3C7GNUpHtHmb_bftbikefilmtour.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Mon, 14.07.2025",
         "time": "10:00",
         "event": "Gustav Klimt - Gold und Farbe (@Port des Lumières)",
         "category": "",
@@ -197,6 +157,46 @@
     },
     {
         "date": "Mon, 14.07.2025",
+        "time": "17:00",
+        "event": "Community-Event zum Non-binary Day (@anyway)",
+        "category": "",
+        "description": "Ein entspannter Abend zum Austauschen, mit Bingo, Quiz und Drinks. Für alle trans, inter*, non-binären Menschen und Allies – einfach vorbeikommen und feiern!🥳",
+        "link": "https://rausgegangen.de/en/events/community-event-zum-non-binary-day-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/9j5KiDnRS8OVPNMbybAQ_dsc08320-2-2-1.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Mon, 14.07.2025",
+        "time": "17:30",
+        "event": "NIMM PLATZ - Kölner Literatursommer mit Ulrike Anna Bleier (@Neumarkt)",
+        "category": "",
+        "description": "Ulrike Anna Bleier teilt in ihrer Lesung persönliche Eindrücke und Fotos aus Istanbul nach dem Erdbeben 2023📖",
+        "link": "https://rausgegangen.de/en/events/nimm-platz-kolner-literatursommer-mit-ulrike-anna-bleier-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/H02jo8rASJ2Ljebrn6IT_rausgegangenillunimmplatz.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Mon, 14.07.2025",
+        "time": "19:00",
+        "event": "🧠 Kneipenquiz am Ebertplatz (@Ebertplatz)",
+        "category": "",
+        "description": "Chilliger Quiz-Abend mit Drinks am Ebertplatz. Teams willkommen, Spaß garantiert!",
+        "link": "https://rausgegangen.de/en/events/kneipenquiz-am-ebertplatz-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/CivbE36JQCSH8givhByU_kneipenquizz.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Mon, 14.07.2025",
+        "time": "19:00",
+        "event": "Bike Film Tour – Season 1 (OMU) (@naturstrom-openairkino)",
+        "category": "",
+        "description": "Open-Air-Kino mit der BIKE FILM TOUR: coole Fahrrad-Filme, krasse Rennen und starke Stories – perfekt für einen entspannten Abend draußen 🎞️",
+        "link": "https://rausgegangen.de/en/events/bike-film-tour-season-1-21/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/MMBUSUfQ3C7GNUpHtHmb_bftbikefilmtour.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Mon, 14.07.2025",
         "time": "19:00",
         "event": "FLINTA*stisch Board Game Night (@Brunnenviertel e.V.)",
         "category": "",
@@ -224,6 +224,22 @@
         "link": "https://rausgegangen.de/en/events/mickey-17-76/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/sfeyr0gm4hwv.jpg?width=1200&height=900&mode=crop",
         "city": "Berlin"
+    },
+    {
+        "date": "Tu, 15.07.2025",
+        "time": "18:00",
+        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Tu, 15.07.2025",
+        "time": "7:00",
+        "event": "Wochenmarkt(@Alter Markt)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Di, 15.07.2025",
@@ -266,22 +282,6 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Tu, 15.07.2025",
-        "time": "18:00",
-        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Tu, 15.07.2025",
-        "time": "7:00",
-        "event": "Wochenmarkt(@Alter Markt)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
         "date": "Tue, 15.07.2025",
         "time": "17:00",
         "event": "Sommer Tanzklassen * Hip Hop * Dancehall * Twerk (@WATCH MI STEP / Studio NIA)",
@@ -310,36 +310,6 @@
         "link": "https://rausgegangen.de/en/events/voyage-deluxe-auf-nimmerwiedersehen-i-sommertheater-in-der-m-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/IjLbN53SwynSfGmJJd6V_plakat-vd-02-quer.jpeg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Tue, 15.07.2025",
-        "time": "20:00",
-        "event": "Echtzeit Comedy - Open Mic & Bingo (@Echtzeit Grill & Thrill)",
-        "category": "",
-        "description": "Jeden Dienstag gibt's bei \"Echtzeit Comedy - Open Mic & Bingo\" eine Mischung aus frischen Jokes und spannenden Bingo-Runden! 🎤🎉 Genießt Comedy von Newcomern und Profis, während ihr mit etwas Glück coole Preise absahnt – und das alles bei leckerem BBQ! 🍔🍖\n\n#EchtzeitComedy #OpenMic #BingoNight #LachenUndGenießen #BBQVibes",
-        "link": "https://rausgegangen.de/en/events/echtzeit-comedy-open-mic-bingo-22/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4o4p10rpTte8kKXMBA8W_open-mic-bingo.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Tue, 15.07.2025",
-        "time": "20:00",
-        "event": "Hobo Johnson & The Lovemakers (@Luxor)",
-        "category": "",
-        "description": "Hinter Hobo Johnson steckt der US-amerikanische Sänger Frank Lopes Jr., der unterstützt von seiner Band The LoveMakers einen Sound zwischen Spoken Word, modernem Hip-Hop und Emo Rap kreiert und seine Musik selbst produziert. Den größten Erfolg feierte der Musiker mit seinen Alben „The Rise of Hobo Johnson“ (2017) und den Tracks „Romeo & Juliet“, „Creve Coeur 1“, „Sex in the City“ und „The Ending“ sowie seinem Album „The Fall of Hobo Johnson“ (2019), auf dem sich „Typical Story“, „Subaru Crosstrek XV“ und „Mover Awayer“ als erfolgreichste Tracks herausstellen. Den Grundstein für den Erfolg legten Hobo Johnson & The LoveMakers mit einem viralen NPR Tiny Desk Contest Video zum Erfolgstrack „Peach Stone“ (2018), das auf YouTube über 24 Mio.-mal gesehen wurde und das Projekt zu einer NPR Tiny Desk Session führte, die 2018 auf YouTube erschien. Nach mehreren internationalen Touren kommen Hobo Johnson & The LoveMakers auf der Sorry Bout The Tariff Tour am 15. Juli für eine exklusive Headline-Show ins Kölner Luxor.    Mit 15 Jahren entdeckte Frank Lopes den Hip-Hop für sich und trat erstmalig als Solokünstler auf. Mit 19 schmiss sein Vater ihn aus dem Haus, woraufhin Lopes in seinem 1994er Toyota Corolla lebte und zunächst unter dem Namen Homeless Johnson auftrat, den er bald zu Hobo Johnson änderte. Sein Debütalbum „Hobo Johnsons 94 Corolla“ veröffentlichte er in Eigenregie und widmete es seinem Auto, in dem er einst hauste. 2016 folgte das Album „The Rise of Hobo Johnson“, das er zunächst ebenfalls selbst veröffentlichte, nach einem Signing bei Reprise Records jedoch 2017 neu auflegte, was ihn auf Platz 11 der Billboard Heatseekers Charts brachte. Zusammen mit Derek Lynch (Gitarre), Jordan Moore (Gitarre & Keyboard), David Baez-Lopez (Bass), Ben Lerch (Schlagzeug) und Jmsey (Keyboard & Gitarre) gründete er Hobo Johnson & The LoveMakers. Nach einem Signing bei Warner folgte 2019 das dritte Album „The Fall of Hobo Johnson“, das auf Platz 99 der Billboard 200 einstieg und von The Needle Drop auf Platz 30 der Top 50 Alben des Jahres 2019 genannt wurde. Nach dem Bruch mit seinem Label veröffentlichte der Musiker 2021 zwei Alben erneut als Self-Release: „The Revenge of Hobo Johnson“ sowie „Hobo Johnson Alienates His Fanbase”. 2022 folgte ein Hiatus, in dem Hobo Johnson alle Tourpläne absagte und seine Band zunächst für beendet erklärte. Im März 2024 meldete sich der Musiker mit der Doppelsingle „HOBO JOHNSON DRINKS!“ zurück, die als Lead-Single für sein neues gleichnamiges Album fungiert, das am 9. Mai 2025 erneut in Eigenregie erschien. - Sorry Bout The Tariff Tour",
-        "link": "https://rausgegangen.de/en/events/hobo-johnson-the-lovemakers-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/jw3rn490bhzf.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Tue, 15.07.2025",
-        "time": "20:15",
-        "event": "Meditation und Stille (@Kim Schröer Coaching)",
-        "category": "",
-        "description": "Tauche ein in die Welt der inneren Ruhe und Gelassenheit. In der Stille begegnen wir unserer eigenen Wahrheit. Und das entspannt uns von innen heraus. Somit braucht es manchmal nicht mehr, als uns gemeinsam in die Stille zu begeben. Dabei begleite ich euch und halte den Raum. Der Weg in die Stille kann den Geist beruhigen und dich unterstützen, im Hier und Jetzt anzukommen. Lasst euch überraschen, wie ihr euch nach diesem Erlebnis fühlen werdet. Egal, ob Anfängerin oder Fortgeschrittener – dieser Kurs bietet dir Raum für Entspannung, Selbstreflexion und neue Energie.Von Herz zu Herz ohne Worte. Gemeinsam allein sein. Seelisch erwachsen werden. <3Ihr könnt ohne Vorerfahrung in Alltagsklamotten teilnehmen.Der feel-Freiraum ist ein gemütlicher Coaching-Raum direkt am Severinskirchplatz (neben dem italienischen Restaurant Ludari).www.kim-schroeer.com www.instagram.com/kim_schroeer",
-        "link": "https://rausgegangen.de/en/events/meditation-und-stille-26/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bZEm6BTRTiKsqyNyuXNj_dsc5535.JPG?width=1200&height=900&mode=crop",
-        "city": "Köln"
     },
     {
         "date": "Tue, 15.07.2025",
@@ -400,6 +370,36 @@
         "link": "https://rausgegangen.de/en/events/ali-1246/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8pa5D9ASOOFkwwFyotmw_knustfb-event-headerali.png?width=1200&height=900&mode=crop",
         "city": "Hamburg"
+    },
+    {
+        "date": "Tue, 15.07.2025",
+        "time": "20:00",
+        "event": "Echtzeit Comedy - Open Mic & Bingo (@Echtzeit Grill & Thrill)",
+        "category": "",
+        "description": "Jeden Dienstag gibt's bei \"Echtzeit Comedy - Open Mic & Bingo\" eine Mischung aus frischen Jokes und spannenden Bingo-Runden! 🎤🎉 Genießt Comedy von Newcomern und Profis, während ihr mit etwas Glück coole Preise absahnt – und das alles bei leckerem BBQ! 🍔🍖\n\n#EchtzeitComedy #OpenMic #BingoNight #LachenUndGenießen #BBQVibes",
+        "link": "https://rausgegangen.de/en/events/echtzeit-comedy-open-mic-bingo-22/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4o4p10rpTte8kKXMBA8W_open-mic-bingo.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Tue, 15.07.2025",
+        "time": "20:00",
+        "event": "Hobo Johnson & The Lovemakers (@Luxor)",
+        "category": "",
+        "description": "Hinter Hobo Johnson steckt der US-amerikanische Sänger Frank Lopes Jr., der unterstützt von seiner Band The LoveMakers einen Sound zwischen Spoken Word, modernem Hip-Hop und Emo Rap kreiert und seine Musik selbst produziert. Den größten Erfolg feierte der Musiker mit seinen Alben „The Rise of Hobo Johnson“ (2017) und den Tracks „Romeo & Juliet“, „Creve Coeur 1“, „Sex in the City“ und „The Ending“ sowie seinem Album „The Fall of Hobo Johnson“ (2019), auf dem sich „Typical Story“, „Subaru Crosstrek XV“ und „Mover Awayer“ als erfolgreichste Tracks herausstellen. Den Grundstein für den Erfolg legten Hobo Johnson & The LoveMakers mit einem viralen NPR Tiny Desk Contest Video zum Erfolgstrack „Peach Stone“ (2018), das auf YouTube über 24 Mio.-mal gesehen wurde und das Projekt zu einer NPR Tiny Desk Session führte, die 2018 auf YouTube erschien. Nach mehreren internationalen Touren kommen Hobo Johnson & The LoveMakers auf der Sorry Bout The Tariff Tour am 15. Juli für eine exklusive Headline-Show ins Kölner Luxor.    Mit 15 Jahren entdeckte Frank Lopes den Hip-Hop für sich und trat erstmalig als Solokünstler auf. Mit 19 schmiss sein Vater ihn aus dem Haus, woraufhin Lopes in seinem 1994er Toyota Corolla lebte und zunächst unter dem Namen Homeless Johnson auftrat, den er bald zu Hobo Johnson änderte. Sein Debütalbum „Hobo Johnsons 94 Corolla“ veröffentlichte er in Eigenregie und widmete es seinem Auto, in dem er einst hauste. 2016 folgte das Album „The Rise of Hobo Johnson“, das er zunächst ebenfalls selbst veröffentlichte, nach einem Signing bei Reprise Records jedoch 2017 neu auflegte, was ihn auf Platz 11 der Billboard Heatseekers Charts brachte. Zusammen mit Derek Lynch (Gitarre), Jordan Moore (Gitarre & Keyboard), David Baez-Lopez (Bass), Ben Lerch (Schlagzeug) und Jmsey (Keyboard & Gitarre) gründete er Hobo Johnson & The LoveMakers. Nach einem Signing bei Warner folgte 2019 das dritte Album „The Fall of Hobo Johnson“, das auf Platz 99 der Billboard 200 einstieg und von The Needle Drop auf Platz 30 der Top 50 Alben des Jahres 2019 genannt wurde. Nach dem Bruch mit seinem Label veröffentlichte der Musiker 2021 zwei Alben erneut als Self-Release: „The Revenge of Hobo Johnson“ sowie „Hobo Johnson Alienates His Fanbase”. 2022 folgte ein Hiatus, in dem Hobo Johnson alle Tourpläne absagte und seine Band zunächst für beendet erklärte. Im März 2024 meldete sich der Musiker mit der Doppelsingle „HOBO JOHNSON DRINKS!“ zurück, die als Lead-Single für sein neues gleichnamiges Album fungiert, das am 9. Mai 2025 erneut in Eigenregie erschien. - Sorry Bout The Tariff Tour",
+        "link": "https://rausgegangen.de/en/events/hobo-johnson-the-lovemakers-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/jw3rn490bhzf.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Tue, 15.07.2025",
+        "time": "20:15",
+        "event": "Meditation und Stille (@Kim Schröer Coaching)",
+        "category": "",
+        "description": "Tauche ein in die Welt der inneren Ruhe und Gelassenheit. In der Stille begegnen wir unserer eigenen Wahrheit. Und das entspannt uns von innen heraus. Somit braucht es manchmal nicht mehr, als uns gemeinsam in die Stille zu begeben. Dabei begleite ich euch und halte den Raum. Der Weg in die Stille kann den Geist beruhigen und dich unterstützen, im Hier und Jetzt anzukommen. Lasst euch überraschen, wie ihr euch nach diesem Erlebnis fühlen werdet. Egal, ob Anfängerin oder Fortgeschrittener – dieser Kurs bietet dir Raum für Entspannung, Selbstreflexion und neue Energie.Von Herz zu Herz ohne Worte. Gemeinsam allein sein. Seelisch erwachsen werden. <3Ihr könnt ohne Vorerfahrung in Alltagsklamotten teilnehmen.Der feel-Freiraum ist ein gemütlicher Coaching-Raum direkt am Severinskirchplatz (neben dem italienischen Restaurant Ludari).www.kim-schroeer.com www.instagram.com/kim_schroeer",
+        "link": "https://rausgegangen.de/en/events/meditation-und-stille-26/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bZEm6BTRTiKsqyNyuXNj_dsc5535.JPG?width=1200&height=900&mode=crop",
+        "city": "Köln"
     },
     {
         "date": "Tue, 15.07.2025",
@@ -509,6 +509,30 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250716_Wednesdate_4zu5.jpg"
     },
     {
+        "date": "We, 16.07.2025",
+        "time": "21:00",
+        "event": "Karaoke (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "We, 16.07.2025",
+        "time": "7:00",
+        "event": "Wochenmarkt(@Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "We, 16.07.2025",
+        "time": "20:00",
+        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
+        "image_url": null
+    },
+    {
         "date": "Mi, 16.07.2025",
         "time": "10:00",
         "event": "Yoga(@hochschulsport_bielefeld)",
@@ -565,30 +589,6 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "We, 16.07.2025",
-        "time": "21:00",
-        "event": "Karaoke (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "We, 16.07.2025",
-        "time": "7:00",
-        "event": "Wochenmarkt(@Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "We, 16.07.2025",
-        "time": "20:00",
-        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
-        "image_url": null
-    },
-    {
         "date": "Mi, 16.07",
         "time": "",
         "event": "Krakeln (@nr.z.p)",
@@ -614,16 +614,6 @@
         "link": "https://rausgegangen.de/en/events/er-ist-von-kopf-bis-fu-auf-liebe-eingestellt-10/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/xGkCt5HTGGovKZzXDMvb_screenshot-vom-spielplan.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Wed, 16.07.2025",
-        "time": "20:00",
-        "event": "Comedy Frischgezapft (@Kölschbar)",
-        "category": "",
-        "description": "Erst kürzlich wurde die Kölschbar zur \"Kölns beliebteste Kneipe 2025\" gewählt! Gemeinsam mit euch, lachen wir uns jetzt vielleicht auch zur Kölns beliebteste Stand Up Comedy Show? Bei Comedy Frischgezapft treten etablierte Comedians aus dem TV, so wie die Newcomer*Innen von morgen auf. Frisch gezapftes Kölsch, trifft hier also auf frischen Humor. Host Kevin Ray (bekannt aus Nightwash, Quatsch Comedy Club, ProSieben usw.) ist zwar kein Hellseher, kann aber für die Zukunft eins versprechen: Die Comedy Abende in der Kölschbar, werden ein Hotspot für Lachgarantie!",
-        "link": "https://rausgegangen.de/en/events/comedy-frischgezapft-11/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RmS2gGdiT3apw1MkFt9j_photo-output.JPEG?width=1200&height=900&mode=crop",
-        "city": "Köln"
     },
     {
         "date": "Wed, 16.07.2025",
@@ -654,6 +644,16 @@
         "link": "https://rausgegangen.de/en/events/schnack-stand-up-in-der-villa-viva-die-besten-comedy-newcome-18/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/cMQhPFAeTE6LOKYgiYUI_eventbrite-header-64.jpg?width=1200&height=900&mode=crop",
         "city": "Hamburg"
+    },
+    {
+        "date": "Wed, 16.07.2025",
+        "time": "20:00",
+        "event": "Comedy Frischgezapft (@Kölschbar)",
+        "category": "",
+        "description": "Erst kürzlich wurde die Kölschbar zur \"Kölns beliebteste Kneipe 2025\" gewählt! Gemeinsam mit euch, lachen wir uns jetzt vielleicht auch zur Kölns beliebteste Stand Up Comedy Show? Bei Comedy Frischgezapft treten etablierte Comedians aus dem TV, so wie die Newcomer*Innen von morgen auf. Frisch gezapftes Kölsch, trifft hier also auf frischen Humor. Host Kevin Ray (bekannt aus Nightwash, Quatsch Comedy Club, ProSieben usw.) ist zwar kein Hellseher, kann aber für die Zukunft eins versprechen: Die Comedy Abende in der Kölschbar, werden ein Hotspot für Lachgarantie!",
+        "link": "https://rausgegangen.de/en/events/comedy-frischgezapft-11/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RmS2gGdiT3apw1MkFt9j_photo-output.JPEG?width=1200&height=900&mode=crop",
+        "city": "Köln"
     },
     {
         "date": "Wed, 16.07.2025",
@@ -765,42 +765,18 @@
     {
         "date": "Th, 17.07.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 17.07.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
-        "date": "Do, 17.07.2025",
-        "time": "16:30",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 17.07.2025",
-        "time": "17:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 17.07.2025",
-        "time": "18:30",
-        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35658",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+        "date": "Th, 17.07.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 17.07.2025",
@@ -835,6 +811,30 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Do, 17.07.2025",
+        "time": "16:30",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 17.07.2025",
+        "time": "17:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 17.07.2025",
+        "time": "18:30",
+        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35658",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
         "date": "Thu, 17.07.2025",
         "time": "20:00",
         "event": "kurz gefragt - Impro Comedy (@Karli Comedy Club Leipzig)",
@@ -853,46 +853,6 @@
         "link": "https://rausgegangen.de/en/events/indielectro-fruhparty-turbo-tanz-treff-munster-im-lola-garte-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ioShplBTVeDuaqhKSofh_turbotanztreffheaderelectro-kopie.jpg?width=1200&height=900&mode=crop",
         "city": "Münster"
-    },
-    {
-        "date": "Thu, 17.07.2025",
-        "time": "19:00",
-        "event": "OPEN-AIR: Quiz Night im H26 (@H26)",
-        "category": "",
-        "description": "Im H26 gibt’s sechs Runden mit cleveren Fragen, coole Preise und beste Stimmung – live, analog und richtig spaßig!",
-        "link": "https://rausgegangen.de/en/events/open-air-quiz-night-im-h26-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TMMtTOKTQDSRSfTzJKZ2_quiznightlogo01.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Thu, 17.07.2025",
-        "time": "20:00",
-        "event": "Der Mees: No Lies (@Theater im Bauturm)",
-        "category": "",
-        "description": "DER MEES: NO LIES Von und mit Zauberer Rainer MeesDauer: 2 Std. inkl. PauseNo Lies des Zauberers Rainer Mees ist ein Abend voller Magie, Sentimentalität, Lachen und Wunder, eine außergewöhnliche Reise. Der Mees ist niemand, der sich an Konventionen hält. Er ist anders – seine Show ist anders. Aus anonymen Zuschauer:innen werden Menschen, die ein besonderes Erlebnis teilen, dann Freund:innen, die gemeinsam lachen, staunen oder sich vielleicht auch des einen oder anderen sentimentalen Tränchens nicht schämen. Der Mees erzählt Geschichten, die pur sind: echt, unverfälscht und wunderbar. Der Mees entführt Sie in seine Welt, in der sich das Leben in all seinen Facetten spiegelt: mal lustig und albern, mal melancholisch und nachdenklich, mal dramatisch und atemberaubend, ... doch stets fantastisch und unberechenbar! Seine Show ist eine Reise ins Ungewisse, in der Sie sich immer wieder staunend fragen, was wohl als Nächstes passieren wird. No Lies hat kein festes Programm. Es ist „nur“ der Mees: Er wirkt seinen Zauber im Hier und Jetzt. Er entdeckt die Wunder im scheinbar Selbstverständlichen und zeigt das Erstaunliche im Alltäglichen. Eine einzigartige Symbiose aus Magie und Musik, voller Vertrauen und Freundschaft.",
-        "link": "https://rausgegangen.de/en/events/der-mees-no-lies-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/cwJ65GT8TgGePJeylGbG_mees1.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Thu, 17.07.2025",
-        "time": "20:00",
-        "event": "Echtzeit Comedy - Stand-Up am Donnerstag (@Echtzeit Grill & Thrill)",
-        "category": "",
-        "description": "Jeden Donnerstag, Freitag und Samstag gibt's im Echtzeit Comedy um 20:00 Uhr Stand-Up vom Feinsten mit drei Comedians aus dem deutschsprachigen Raum. 🤩 Dazu könnt ihr euch leckeres BBQ gönnen und während der Show bequem über einen QR-Code Essen und Drinks bestellen. 🤳",
-        "link": "https://rausgegangen.de/en/events/echtzeit-comedy-stand-up-am-donnerstag-27/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fIDwOICTTNeBDeU2zfz9_echteit-comedy-website-bild.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Thu, 17.07.2025",
-        "time": "23:00",
-        "event": "RADIO SABROSITA• JEDEN DONNERSTAG • AB 23 H IM VEEDEL CLUB (@Veedel Club)",
-        "category": "",
-        "description": "#RadioSabrosita #JedenDonnerstag #ImVeedelClub Students with ESN-Card enter for free till 0:00 h Reggaeton, Latin Urban und Caribbean Club Music haben ein wöchentliches Zuhause in Köln: Die RADIO SABROsita! Bei uns treffen sich jeden Donnerstag Menschen aus der ganzen Welt um auf den heißesten Sound aus den afro-karibischen Metropolen zu feiern!  ━━━━━━━━━━━━━━━━━━━━━━━━ //★☆ INFOS ━━━━━━━━━━━━━━━━━━━━━━━━ LOCATION: — Veedel Club — Luxemburger Str 37 — Google Maps: https://goo.gl/maps/73Pvhk1aFkq ━━━━━━━━━━━━━━━━━━━━━━━━ //★☆ LINE-UP ━━━━━━━━━━━━━ Radio Sabor Soundsystem ━━━━━━━━━━━━━━━━━━━━━━━━ //★☆ PROGRAMM ━━━━━━━━━━━━━━━━━━━━━━━━ — Musik: Reggaeton // Latino // Caribbean Club Music Die talentierten URBAN DJs Henkwart, DJ Ebbsolute und DJ PISTO, sowie Vossi Romero, unsere Salsa und Latin Music Experten - Dj Micky und nicht zu vergessen unsere bezaubernde Bachatera DJANE JULIA, heizen euch jeden Donnerstag aufs Neue mit den aktuellsten Tunes und Classics aus Reggaeton, Merengue, Global Bass, Salsa und Bachata ein. Auch diesen Donnerstag werden euch unsere Soundsystem-Residents wie gewohnt mit dem geliebten Radio Sabor-Sound versorgen und garantieren euch auf dem Dance-Floor mit ihrem urbanen Sound aus New York über Havana bis Cali eine Nacht wilder karibischer Partyexzesse. ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ EQUALITY & DIVERSITY STATEMENT  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Be respectful. RADIO SABROSITA is a place where EVERYONE should feel safe and comfortable, regardless of appearance, ability, age, class, sexual orientation, race, cultural background, religion or gender. We have a zero tolerance policy with any form of discrimination, harassment or violence. Anyone who cannot meet or share these expectations is not welcome and will be asked to leave our events. To realize this vision we depend on the attention and courage of each individual. So stand up if you feel any injustice or behaviour not matching with our policy. Count on our support. Be respectful, feel safe and enjoy your evening at RADIO SABROSITA.  ━━━━━━━━━━━━━━━━━━━━━━━━#bailen #brinquen #beban #jodan #puragozdadera #lavidaesuncarnaval#reggaeton#salsa #bachata #globalbass #latinurban #caribbenclub",
-        "link": "https://rausgegangen.de/en/events/radio-sabrosita-jeden-donnerstag-ab-23-h-im-veedel-club-167/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RfyaLg5iQzKzk91daLPI_sabrosita2023feedxdb.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
     },
     {
         "date": "Thu, 17.07.2025",
@@ -933,6 +893,46 @@
         "link": "https://rausgegangen.de/en/events/st-pauli-comedy-club-57/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ZCKO2xfAQaiiNaBjDb0k_1.png?width=1200&height=900&mode=crop",
         "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 17.07.2025",
+        "time": "19:00",
+        "event": "OPEN-AIR: Quiz Night im H26 (@H26)",
+        "category": "",
+        "description": "Im H26 gibt’s sechs Runden mit cleveren Fragen, coole Preise und beste Stimmung – live, analog und richtig spaßig!",
+        "link": "https://rausgegangen.de/en/events/open-air-quiz-night-im-h26-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TMMtTOKTQDSRSfTzJKZ2_quiznightlogo01.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Thu, 17.07.2025",
+        "time": "20:00",
+        "event": "Der Mees: No Lies (@Theater im Bauturm)",
+        "category": "",
+        "description": "DER MEES: NO LIES Von und mit Zauberer Rainer MeesDauer: 2 Std. inkl. PauseNo Lies des Zauberers Rainer Mees ist ein Abend voller Magie, Sentimentalität, Lachen und Wunder, eine außergewöhnliche Reise. Der Mees ist niemand, der sich an Konventionen hält. Er ist anders – seine Show ist anders. Aus anonymen Zuschauer:innen werden Menschen, die ein besonderes Erlebnis teilen, dann Freund:innen, die gemeinsam lachen, staunen oder sich vielleicht auch des einen oder anderen sentimentalen Tränchens nicht schämen. Der Mees erzählt Geschichten, die pur sind: echt, unverfälscht und wunderbar. Der Mees entführt Sie in seine Welt, in der sich das Leben in all seinen Facetten spiegelt: mal lustig und albern, mal melancholisch und nachdenklich, mal dramatisch und atemberaubend, ... doch stets fantastisch und unberechenbar! Seine Show ist eine Reise ins Ungewisse, in der Sie sich immer wieder staunend fragen, was wohl als Nächstes passieren wird. No Lies hat kein festes Programm. Es ist „nur“ der Mees: Er wirkt seinen Zauber im Hier und Jetzt. Er entdeckt die Wunder im scheinbar Selbstverständlichen und zeigt das Erstaunliche im Alltäglichen. Eine einzigartige Symbiose aus Magie und Musik, voller Vertrauen und Freundschaft.",
+        "link": "https://rausgegangen.de/en/events/der-mees-no-lies-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/cwJ65GT8TgGePJeylGbG_mees1.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Thu, 17.07.2025",
+        "time": "20:00",
+        "event": "Echtzeit Comedy - Stand-Up am Donnerstag (@Echtzeit Grill & Thrill)",
+        "category": "",
+        "description": "Jeden Donnerstag, Freitag und Samstag gibt's im Echtzeit Comedy um 20:00 Uhr Stand-Up vom Feinsten mit drei Comedians aus dem deutschsprachigen Raum. 🤩 Dazu könnt ihr euch leckeres BBQ gönnen und während der Show bequem über einen QR-Code Essen und Drinks bestellen. 🤳",
+        "link": "https://rausgegangen.de/en/events/echtzeit-comedy-stand-up-am-donnerstag-27/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fIDwOICTTNeBDeU2zfz9_echteit-comedy-website-bild.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Thu, 17.07.2025",
+        "time": "23:00",
+        "event": "RADIO SABROSITA• JEDEN DONNERSTAG • AB 23 H IM VEEDEL CLUB (@Veedel Club)",
+        "category": "",
+        "description": "#RadioSabrosita #JedenDonnerstag #ImVeedelClub Students with ESN-Card enter for free till 0:00 h Reggaeton, Latin Urban und Caribbean Club Music haben ein wöchentliches Zuhause in Köln: Die RADIO SABROsita! Bei uns treffen sich jeden Donnerstag Menschen aus der ganzen Welt um auf den heißesten Sound aus den afro-karibischen Metropolen zu feiern!  ━━━━━━━━━━━━━━━━━━━━━━━━ //★☆ INFOS ━━━━━━━━━━━━━━━━━━━━━━━━ LOCATION: — Veedel Club — Luxemburger Str 37 — Google Maps: https://goo.gl/maps/73Pvhk1aFkq ━━━━━━━━━━━━━━━━━━━━━━━━ //★☆ LINE-UP ━━━━━━━━━━━━━ Radio Sabor Soundsystem ━━━━━━━━━━━━━━━━━━━━━━━━ //★☆ PROGRAMM ━━━━━━━━━━━━━━━━━━━━━━━━ — Musik: Reggaeton // Latino // Caribbean Club Music Die talentierten URBAN DJs Henkwart, DJ Ebbsolute und DJ PISTO, sowie Vossi Romero, unsere Salsa und Latin Music Experten - Dj Micky und nicht zu vergessen unsere bezaubernde Bachatera DJANE JULIA, heizen euch jeden Donnerstag aufs Neue mit den aktuellsten Tunes und Classics aus Reggaeton, Merengue, Global Bass, Salsa und Bachata ein. Auch diesen Donnerstag werden euch unsere Soundsystem-Residents wie gewohnt mit dem geliebten Radio Sabor-Sound versorgen und garantieren euch auf dem Dance-Floor mit ihrem urbanen Sound aus New York über Havana bis Cali eine Nacht wilder karibischer Partyexzesse. ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ EQUALITY & DIVERSITY STATEMENT  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Be respectful. RADIO SABROSITA is a place where EVERYONE should feel safe and comfortable, regardless of appearance, ability, age, class, sexual orientation, race, cultural background, religion or gender. We have a zero tolerance policy with any form of discrimination, harassment or violence. Anyone who cannot meet or share these expectations is not welcome and will be asked to leave our events. To realize this vision we depend on the attention and courage of each individual. So stand up if you feel any injustice or behaviour not matching with our policy. Count on our support. Be respectful, feel safe and enjoy your evening at RADIO SABROSITA.  ━━━━━━━━━━━━━━━━━━━━━━━━#bailen #brinquen #beban #jodan #puragozdadera #lavidaesuncarnaval#reggaeton#salsa #bachata #globalbass #latinurban #caribbenclub",
+        "link": "https://rausgegangen.de/en/events/radio-sabrosita-jeden-donnerstag-ab-23-h-im-veedel-club-167/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RfyaLg5iQzKzk91daLPI_sabrosita2023feedxdb.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
     },
     {
         "date": "Thu, 17.07.2025",
@@ -1034,12 +1034,20 @@
         "link": "https://www.bielefeld.jetzt/node/1160426"
     },
     {
-        "date": "Fri, 18.07",
+        "date": "Fr, 18.07.2025",
         "time": "23:00",
-        "event": "Studi Pop! (@stereobielefeld)",
+        "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
         "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/studi-pop-2/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_18_0725_Feed.jpg"
+        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
+        "image_url": null
+    },
+    {
+        "date": "Fr, 18.07.2025",
+        "time": "7:00",
+        "event": "Wochenmarkt (@Alter Markt, Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Fr, 18.07.2025",
@@ -1066,20 +1074,12 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Fr, 18.07.2025",
+        "date": "Fri, 18.07",
         "time": "23:00",
-        "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
+        "event": "Studi Pop! (@stereobielefeld)",
         "category": "Party",
-        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
-        "image_url": null
-    },
-    {
-        "date": "Fr, 18.07.2025",
-        "time": "7:00",
-        "event": "Wochenmarkt (@Alter Markt, Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+        "link": "https://stereo-bielefeld.de/events/studi-pop-2/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_18_0725_Feed.jpg"
     },
     {
         "date": "Fr, 18.07",
@@ -1147,6 +1147,106 @@
         "link": "https://rausgegangen.de/en/events/take-me-out-munster-die-indieparty-mit-eavo-im-hot-club-9/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/oO5s9TdpSmKkx0AhhxG2_tmoheadercreme.jpg?width=1200&height=900&mode=crop",
         "city": "Münster"
+    },
+    {
+        "date": "Fri, 18.07.2025",
+        "time": "19:00",
+        "event": "Air play Moon Safari (@Stadtpark Open Air (Freilichtbühne))",
+        "category": "",
+        "description": "Nachdem AIR 2024 mit 10.000 verkauften Tickets umjubelte Shows in Berlin spielten und so das Jubiläum ihres Meilensteins \"Moon Safari\" zelebrierten, kündigt das Duo für 2025 eine Tour in ausgewählten Sommerlocations an. Ein Termin beim Stadtpark Open Air darf da natürlich nicht fehlen!",
+        "link": "https://rausgegangen.de/en/events/air-play-moon-safari-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/o6utcjrzqu02.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Fri, 18.07.2025",
+        "time": "19:30",
+        "event": "Über den Dächern Hamburgs - Chris Hopkins meets the Dutch Swing All Stars - Swinging in Summertime  - Hot Music comes together with great Paintwork (@The 13 Club, c/o PM Business Center)",
+        "category": "",
+        "description": "SWINGING IN SUMMERTIME Über den Dächern von Hamburg  Exklusives Jazz-Konzert in einmaligem Ambiente. Auf der Sommerterrasse des neuen Hamburger 13 Clubs. Mit Blick auf die Alster und das historische Rathaus. Dieses Jahr treffen heiße Jazz-Klänge auf ebenso swingende Gemälde des Künstlers Frank Rosenzweig. PM Jazz präsentiert:  CHRIS HOPKINS meets the DUTCH SWING ALL STARS featuring Menno Daams (tp) Chris Hopkins (p) Edwin Corzilius (b) Frits Landesbergen (dm)  Für dieses außergewöhnliche Konzert präsentiert der international renommierte und mehrfach preisgekrönte Jazz-Künstler Chris Hopkins ein swingendes Quartett, das mit einer Mischung aus Eleganz und Übermut, Humor und Lebenslust aufwartet. Große Melodien aus dem New Yorker Jazz Age wechseln sich ab mit heißen Latin-Klängen aus Rio de Janeiro, gefühlvolle Balladen verströmen Pariser Savoir-Vivre, während bluesgetränkte, temporeiche Improvisationen New Orleans Flair verbreiten. Mit von der Partie sind einige der meistbeschäftigten Musiker der holländischen Szene. Eintritt 80€ inkl. aller Gebühren sowie Getränke und Buffet Keine Ermäßigungen www.the13club.de",
+        "link": "https://rausgegangen.de/en/events/uber-den-dachern-hamburgs-chris-hopkins-meets-the-dutch-swin-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Ph2ig3muTiGlteghpB5I_chrishopkinspianosaxfotohyouvielz.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Fri, 18.07.2025",
+        "time": "20:00",
+        "event": "Der Ruf des Cthulhu (@Schanzenkino 73)",
+        "category": "",
+        "description": "Inspektor LeGrasse lädt zur Trauerfeier. Der stadtbekannte Akademiker und Lebemann Francis Wayland Thurston ist viel zu früh von uns gegangen. Freunde, Kollegen und Neugierige versammeln sich, um Abschied zu nehmen. Doch die Feier nimmt eine unerwartete Wendung. Nach und nach enthüllen LeGrasse und Thurston die Geheimnisse des finsteren Cthulhu-Kults, von dem sie sich verfolgt glauben – ein Kult, der einen unaussprechlichen Schrecken anbetet, der am Grunde des Meeres schlummert. Doch die wahre Bedrohung befindet sich direkt vor unseren Augen. Ein Stück über Verlust, Rache und die zerstörerische Suche nach Sinn und Anerkennung.",
+        "link": "https://rausgegangen.de/en/events/der-ruf-des-cthulhu-10/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ajba6o5sTBOmrlxb6yik_larshendrikgun3.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Fri, 18.07.2025",
+        "time": "20:00",
+        "event": "Eppendorf TANZT – ao som do Brasil! (@MARIO Ristorante Pizzeria)",
+        "category": "",
+        "description": "🎉 Eppendorf TANZT – ao som do Brasil! Liveband Ronaldinho & DJ-Party bis Mitternacht💃🕺 Bereit für die nächste unvergessliche Nacht? Dann seid dabei, wenn Eppendorf im brasilianischen Rhythmus bebt!🎸 Die brasilianische Liveband Ronaldinho bringt euch mit heißen Rhythmen und purer Energie den Sound Brasiliens direkt nach Eppendorf! 🇧🇷 🎧 Im Wechsel sorgt ein Live-DJ dafür, dass die Tanzfläche den ganzen Abend lang glüht!Feiert mit uns eine Nacht voller Samba, Lebensfreude & Tanzlust. Let’s dance, Eppendorf! 💃🕺📅 Datum: Freitag, 18. Juli 2025 📍 Ort: Ristorante Pizzeria Mario Robert-Koch-Straße 36, 20249 Hamburg ⏰ Einlass: 19:30 Uhr ⏰ Beginn: 20:00 Uhr (Ende ca. Mitternacht)💃 Salsa-Vorprogramm (optional): 🕖 19:00 – 20:00 Uhr 🌶 Salsa-Tanzstunde – nur € 5,00 (nur mit Hauptticket buchbar)🎟 Tickets: Hauptticket: € 15,00 (early bird) Salsa-Add-on: € 5,00⚠️ Nur begrenzte Ticketanzahl! Kein Abendkassenverkauf – Tickets ausschließlich online erhältlich! First come – first in!🍽 Essen & Tischreservierung: Gönnt euch vor dem Tanzen ein leckeres Essen – oder genießt ausgewählte Speisen auch während des Events! Reserviert euren Tisch direkt beim Restaurant: 🔗 ristorante-eppendorf.de/kontakt🍹 Drinks & Specials: Neben Wein & Bier gibt es natürlich auch:🦭 SEAL GIN – so einzigartig wie die Robbe, die ihn inspiriert🥃 Punkrum – rockig, rebellisch, unvergleichlich🍸 Ginpirinha, Mojito & viele weitere tropische Köstlichkeiten!Dieses Event wird präsentiert von: 🦭 SEAL GIN (Universe Spirits / DMI GmbH) 🌐 www.universe-spirits.com---------------------------------- 💪 Dein Kombi-Ticket: Party & Fitness!Mit Deinem Ticket zu Eppendorf Tanzt erhältst Du 7 Tage gratis Training im sporting live – Deinem Fitnessstudio im Herzen von Eppendorf!Nutze unser umfangreiches Kursangebot oder bring Deinen Körper mit unseren vielseitigen Trainingsmöglichkeiten in Topform. Entspannung inklusive – genieße nach dem Training unsere Sauna.So funktioniert’s:✔ Buche Deinen Ersttermin unter 040 47 20 75 oder per E-Mail an info@sporting-live.de ✔ Dein Ersttermin beinhaltet eine Einführung in unser Fitnessstudio ✔ Und los geht’s!Wichtig:✔ Einlösbar bis 31.07. ✔ Nicht übertragbarWir freuen uns darauf, mit Dir zu feiern und zu trainieren!",
+        "link": "https://rausgegangen.de/en/events/eppendorf-tanzt-ao-som-do-brasil-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/IBcx1SOCSm6bmXAE7Thd_kleiner-banner.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Fri, 18.07.2025",
+        "time": "20:00",
+        "event": "Reeperbahn Comedy Club (@Reeperbahn Comedy Club)",
+        "category": "",
+        "description": "Hier haben alle, ob Anfänger:in oder Profi, eins gemein: sie bringen dich sicher zum lachen. Damit wird auch der graueste Hamburger Wintertag sicher etwas sonniger. Und wenn du dich selbst mal in der Comedy-Welt erproben willst, nur zu: melde dich beim RCC und gib auf der Bühne dein Bestes.",
+        "link": "https://rausgegangen.de/en/events/reeperbahn-comedy-club-260/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TgqcTl1RE6pJNU8TeK4e_69355486_982868652059330_3106427241060368384_o.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Fri, 18.07.2025",
+        "time": "20:00",
+        "event": "Alt, aber lustig! Smash Comedy Spezial: Queerfeministische Stand Up Comedy mit Olga Ugrinsky, Schwessi & Special Guests (@Kulturladen St. Georg)",
+        "category": "",
+        "description": "SMASH SPEZIAL - Stand Up Comedy Doppel-Solo mit Schwessi, Olga Ugrinsky und Special GuestsCute but sassy, old but sexy, cringe but funny: die letzte Smash Comedy Show vor der Sommerpause ist eine Spezialausgabe. Olga Ugrinsky und Schwessi sind „Alt aber lustig!“ - in den Augen der Stand Up Industrie kurz vor der Verwesung, im eigenen Alltag: auch. Packt euch die Heizdecken ein und kommt vorbei, gibt auch Früchtetee! Und viel zu junge Special Guests, die ihre Enkel sein könnten.*Olga Ugrinsky hat einen sehr russischen Namen und überraschend wenig Russischkenntnisse. Nämlich null. Dafür hat sie ein großes Herz und eine ordentliche Berliner Schnauze. Sie findet eigentlich fast alles witzig, vor allem spießig-schrullige Alltagssituationen und regt sich live auf der Bühne über bescheuerte Sachen (Männer im öffentlichen Raum) auf. (Diesmal sogar mit Sommer Edition. Weil im Sommer sieht man so viele von denen draußen. Selber Schuld, könnten sich ja mal normale Klamotten anziehen.)*SCHWESSI hat als alleinerziehende Mutter eines Teenagers keine Zeit für Nachnamen. Als Musikerin und Stand Up Comedian polarisiert sie im Netz und live auf der Bühne, um dann jenseits aller Klischees wieder alles zu vereinen. Inhaltlich knallen feministische Utopien einer queeren Singlemum Ü 40 auf die schonungslose Selbstentlarvung menschlicher Widersprüchlichkeiten. Um die männerdominierte Stand Up Szene in Deutschland durch neue, weibliche und queere Perspektiven zu bereichern und marginalisierten Stimmen mehr Sichtbarkeit und Gehör zu verschaffen, hat Schwessi im März 2023 das erste queerfeministische Stand Up Comedy Open Mic Deutschlands gegründet: den „Smash Comedy Club“. Im Publikum sind alle willkommen, doch die Bühne gehört ausschließlich den FLINTA* (Frauen, Lesben, Inter, Trans-, Agender) und queeren Comedy Acts.SMASH COMEDY ist eine alternative Show mit den etwas anderen Perspektiven und Witzen übers Leben, die Gesellschaft und das Menschsein. Eine Bühne ohne toxische Maskulinität, Misogynie und Rassismus, Queer- und Transfeindlichkeit - eine Bühne für Queers, Nichtbinäre, Frauen, Lesben, Transpersonen u.a. - ein Safe(r) Space, auch fürs Publikum. Motto: Mit maximalem Spaß und Diversity Power gegen Diskriminierung.*Falls du selbst Female Comedian, FLINTA* und/oder queer bist und mal bei uns spielen willst, schreib uns eine Mail an smashcomedyshow@gmail.com, und du kriegst einen Spot in einer unserer Shows!(FLINTA* steht für Frauen, Lesben, Intergeschlechtliche, nichtbinäre, transgender und agender Personen)",
+        "link": "https://rausgegangen.de/en/events/smash-spezial-soloshow-stand-up-comedy-dirty-talk-mit-schwes-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/R7HJigpT3uYdeTp5wdai_1807.jpeg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Fri, 18.07.2025",
+        "time": "20:00",
+        "event": "St. Pauli Comedy Club (@St. Pauli Comedy Club)",
+        "category": "",
+        "description": "St. Pauli Comedy Club: Lachen garantiert!  Willkommen im St. Pauli Comedy Club, der neuen Top-Adresse für Comedy im Herzen Hamburgs! Tauchen Sie ein in eine Welt voller Humor und genießen Sie unvergessliche Abende mit Deutschlands besten Comedians und aufstrebenden Talenten. Unsere vielseitigen Shows – von Stand-up über Impro bis hin zu Satire – bieten für jeden Geschmack das Richtige.  Unsere gemütliche und intime Atmosphäre macht jeden Besuch zu einem besonderen Erlebnis. Ob Stammgast oder Neuling, bei uns fühlt sich jeder sofort wohl. Der St. Pauli Comedy Club ist der perfekte Ort, um dem Alltag zu entfliehen und herzhaft zu lachen.  Besuchen Sie uns auf St. Pauli und lassen Sie sich von erstklassiger Comedy verzaubern. Jetzt Tickets sichern und dabei sein, wenn Lachen zur Kunst wird!  2024: Donnerstag, Freitag und Samstag 19:00 - 21:00 Uhr     Ab Jahr 2025:  Jeden Mittwoch, Donnerstag und Freitag von 20:00 - 22:00 Uhr. Jeden Samstag von 17:00 - 19:00 Uhr & von 20:00 - 22:00 Uhr.  Einlass immer 30 Minuten vor Showbeginn.  Spielbudenplatz 22 20359 Hamburg  www.stpaulicomedyclub.de",
+        "link": "https://rausgegangen.de/en/events/st-pauli-comedy-club-213/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/KkMBRbXQvgFFJVZ9pgqg_shine.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Fri, 18.07.2025",
+        "time": "21:00",
+        "event": "BATATA Y MA ORIKI (@KNUST Hamburg)",
+        "category": "",
+        "description": "BATATA Y MA ORIKI präsentiert von Cumbia im Viertel 18.07.25 | 21:00 | SaalBATATA ist ein Meister des Trommelns. Er hat an wichtigen Festivals in Frankreich, Belgien, Brüssel, Costa Rica, Kuba, Holland, Mexiko, Italien, USA, der Schweiz, England, Kanada, Polen und Deutschland teilgenommen. Besonders hervorzuheben ist seine Arbeit als Leiter von \"Las Alegres Ambulancias\", einem Familienprojekt der Batatas aus San Basilio de Palenque. Sie gelten als die repräsentativste Musikinstitution der kolumbianischen Karibik in lebendigen Manifestationen der afrikanischen Vorfahrenkultur. Eine über 500-jährige Tradition, die das Erbe seiner Vorfahren aktuell hält und zu neuen musikalischen Horizonten führt. Als Sohn von Graciela Salgado und Francisco Teherán ist er der Erbe der BATATA-Kultur, -Tradition und -Abstammung. Sein Leben, seine Arbeit als Pädagoge und seine Musik verherrlichen stets die Werte der Tradition der kolumbianischen Karibik und insbesondere von Palenque de San Basilio.   Es handelt sich um eine Musikgruppe unter der Leitung von Tomás Teherán und Samadhi Sound System, die elektronische Musik mit traditionellen afro-karibischen Rhythmen verbindet. Tomás Teherán „BATATA“ gilt als einer der bedeutendsten Trommler Kolumbiens. BATATA & Ma Oriki stellt einen Ausdruck dar, bei dem die Klänge elektronischer Musik mit afro-karibischen Klängen und Rhythmen gemischt werden, die typisch für das kolumbianische folkloristische Kulturerbe sind. Das Ergebnis ist eine exquisite Balance aus Musik voller uralter Rhythmen, organischer Melodien und elektronischer Klänge, die ein unvergleichliches Erlebnis bietet, das traditionelle Musikkonventionen in Frage stellt und das Publikum auf eine einzigartige Klangreise mitnimmt.",
+        "link": "https://rausgegangen.de/en/events/batata-y-ma-oriki-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Ahkbm7FzRfGZKe5DRwlU_batata.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Fri, 18.07.2025",
+        "time": "21:00",
+        "event": "SCHNACK ALLSTARS - Stand-Up Comedy im ADINA - Die besten Comedians erleben! (@Adina Speicherstadt)",
+        "category": "",
+        "description": "Wer hat eigentlich gesagt Hamburger*innen lachen nicht so viel?! Dabei haben wir doch Norddeutschlands größten Comedy-Club hier! Von kleinen Comedians bis zu alten Bekannten sind hier alle dabei. Also wenn du mal wieder richtig lachen willst, ist das mit Sicherheit das Richtige. 🤩🎙️",
+        "link": "https://rausgegangen.de/en/events/schnack-allstars-stand-up-comedy-im-adina-die-besten-comedia-8/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/US0V8C7DSju18rPc3UDj_eventbrite-header-57.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Fri, 18.07.2025",
+        "time": "23:00",
+        "event": "FUNDBUREAU 18.07.25 (@Fundbureau)",
+        "category": "",
+        "description": "FREITAG 18.07.25 MIT:ANDY‘S ECHO ANTONIO VITE FRAU RÜ PEER KUSIV KABELJO DJ LIMBICAUND DRINKS VON FRITZ KOLA 🖤VON 23 - 24 UHR KOMMT IHR BEI UNSEREM FUNDI SOMMER SPEZIAL FÜR'NEN ZEHNER REIN. 🌴ZAHLUNG: KARTENZAHLUNG ONLY TICKETS: ABENDKASSE + VVK EINLASS: 18+ UHRZEIT: 23:00 DATUM: 18.07.2025 LOCATION: ALTLANDER STR. 11, 20095, HAMBURG",
+        "link": "https://rausgegangen.de/en/events/fundbureau-180725-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/VUoDmAbFSjyBkHxBmROL_showcase-180704.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
     },
     {
         "date": "Fri, 18.07.2025",
@@ -1280,106 +1380,6 @@
     },
     {
         "date": "Fri, 18.07.2025",
-        "time": "19:00",
-        "event": "Air play Moon Safari (@Stadtpark Open Air (Freilichtbühne))",
-        "category": "",
-        "description": "Nachdem AIR 2024 mit 10.000 verkauften Tickets umjubelte Shows in Berlin spielten und so das Jubiläum ihres Meilensteins \"Moon Safari\" zelebrierten, kündigt das Duo für 2025 eine Tour in ausgewählten Sommerlocations an. Ein Termin beim Stadtpark Open Air darf da natürlich nicht fehlen!",
-        "link": "https://rausgegangen.de/en/events/air-play-moon-safari-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/o6utcjrzqu02.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 18.07.2025",
-        "time": "19:30",
-        "event": "Über den Dächern Hamburgs - Chris Hopkins meets the Dutch Swing All Stars - Swinging in Summertime  - Hot Music comes together with great Paintwork (@The 13 Club, c/o PM Business Center)",
-        "category": "",
-        "description": "SWINGING IN SUMMERTIME Über den Dächern von Hamburg  Exklusives Jazz-Konzert in einmaligem Ambiente. Auf der Sommerterrasse des neuen Hamburger 13 Clubs. Mit Blick auf die Alster und das historische Rathaus. Dieses Jahr treffen heiße Jazz-Klänge auf ebenso swingende Gemälde des Künstlers Frank Rosenzweig. PM Jazz präsentiert:  CHRIS HOPKINS meets the DUTCH SWING ALL STARS featuring Menno Daams (tp) Chris Hopkins (p) Edwin Corzilius (b) Frits Landesbergen (dm)  Für dieses außergewöhnliche Konzert präsentiert der international renommierte und mehrfach preisgekrönte Jazz-Künstler Chris Hopkins ein swingendes Quartett, das mit einer Mischung aus Eleganz und Übermut, Humor und Lebenslust aufwartet. Große Melodien aus dem New Yorker Jazz Age wechseln sich ab mit heißen Latin-Klängen aus Rio de Janeiro, gefühlvolle Balladen verströmen Pariser Savoir-Vivre, während bluesgetränkte, temporeiche Improvisationen New Orleans Flair verbreiten. Mit von der Partie sind einige der meistbeschäftigten Musiker der holländischen Szene. Eintritt 80€ inkl. aller Gebühren sowie Getränke und Buffet Keine Ermäßigungen www.the13club.de",
-        "link": "https://rausgegangen.de/en/events/uber-den-dachern-hamburgs-chris-hopkins-meets-the-dutch-swin-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Ph2ig3muTiGlteghpB5I_chrishopkinspianosaxfotohyouvielz.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 18.07.2025",
-        "time": "20:00",
-        "event": "Der Ruf des Cthulhu (@Schanzenkino 73)",
-        "category": "",
-        "description": "Inspektor LeGrasse lädt zur Trauerfeier. Der stadtbekannte Akademiker und Lebemann Francis Wayland Thurston ist viel zu früh von uns gegangen. Freunde, Kollegen und Neugierige versammeln sich, um Abschied zu nehmen. Doch die Feier nimmt eine unerwartete Wendung. Nach und nach enthüllen LeGrasse und Thurston die Geheimnisse des finsteren Cthulhu-Kults, von dem sie sich verfolgt glauben – ein Kult, der einen unaussprechlichen Schrecken anbetet, der am Grunde des Meeres schlummert. Doch die wahre Bedrohung befindet sich direkt vor unseren Augen. Ein Stück über Verlust, Rache und die zerstörerische Suche nach Sinn und Anerkennung.",
-        "link": "https://rausgegangen.de/en/events/der-ruf-des-cthulhu-10/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ajba6o5sTBOmrlxb6yik_larshendrikgun3.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 18.07.2025",
-        "time": "20:00",
-        "event": "Eppendorf TANZT – ao som do Brasil! (@MARIO Ristorante Pizzeria)",
-        "category": "",
-        "description": "🎉 Eppendorf TANZT – ao som do Brasil! Liveband Ronaldinho & DJ-Party bis Mitternacht💃🕺 Bereit für die nächste unvergessliche Nacht? Dann seid dabei, wenn Eppendorf im brasilianischen Rhythmus bebt!🎸 Die brasilianische Liveband Ronaldinho bringt euch mit heißen Rhythmen und purer Energie den Sound Brasiliens direkt nach Eppendorf! 🇧🇷 🎧 Im Wechsel sorgt ein Live-DJ dafür, dass die Tanzfläche den ganzen Abend lang glüht!Feiert mit uns eine Nacht voller Samba, Lebensfreude & Tanzlust. Let’s dance, Eppendorf! 💃🕺📅 Datum: Freitag, 18. Juli 2025 📍 Ort: Ristorante Pizzeria Mario Robert-Koch-Straße 36, 20249 Hamburg ⏰ Einlass: 19:30 Uhr ⏰ Beginn: 20:00 Uhr (Ende ca. Mitternacht)💃 Salsa-Vorprogramm (optional): 🕖 19:00 – 20:00 Uhr 🌶 Salsa-Tanzstunde – nur € 5,00 (nur mit Hauptticket buchbar)🎟 Tickets: Hauptticket: € 15,00 (early bird) Salsa-Add-on: € 5,00⚠️ Nur begrenzte Ticketanzahl! Kein Abendkassenverkauf – Tickets ausschließlich online erhältlich! First come – first in!🍽 Essen & Tischreservierung: Gönnt euch vor dem Tanzen ein leckeres Essen – oder genießt ausgewählte Speisen auch während des Events! Reserviert euren Tisch direkt beim Restaurant: 🔗 ristorante-eppendorf.de/kontakt🍹 Drinks & Specials: Neben Wein & Bier gibt es natürlich auch:🦭 SEAL GIN – so einzigartig wie die Robbe, die ihn inspiriert🥃 Punkrum – rockig, rebellisch, unvergleichlich🍸 Ginpirinha, Mojito & viele weitere tropische Köstlichkeiten!Dieses Event wird präsentiert von: 🦭 SEAL GIN (Universe Spirits / DMI GmbH) 🌐 www.universe-spirits.com---------------------------------- 💪 Dein Kombi-Ticket: Party & Fitness!Mit Deinem Ticket zu Eppendorf Tanzt erhältst Du 7 Tage gratis Training im sporting live – Deinem Fitnessstudio im Herzen von Eppendorf!Nutze unser umfangreiches Kursangebot oder bring Deinen Körper mit unseren vielseitigen Trainingsmöglichkeiten in Topform. Entspannung inklusive – genieße nach dem Training unsere Sauna.So funktioniert’s:✔ Buche Deinen Ersttermin unter 040 47 20 75 oder per E-Mail an info@sporting-live.de ✔ Dein Ersttermin beinhaltet eine Einführung in unser Fitnessstudio ✔ Und los geht’s!Wichtig:✔ Einlösbar bis 31.07. ✔ Nicht übertragbarWir freuen uns darauf, mit Dir zu feiern und zu trainieren!",
-        "link": "https://rausgegangen.de/en/events/eppendorf-tanzt-ao-som-do-brasil-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/IBcx1SOCSm6bmXAE7Thd_kleiner-banner.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 18.07.2025",
-        "time": "20:00",
-        "event": "Reeperbahn Comedy Club (@Reeperbahn Comedy Club)",
-        "category": "",
-        "description": "Hier haben alle, ob Anfänger:in oder Profi, eins gemein: sie bringen dich sicher zum lachen. Damit wird auch der graueste Hamburger Wintertag sicher etwas sonniger. Und wenn du dich selbst mal in der Comedy-Welt erproben willst, nur zu: melde dich beim RCC und gib auf der Bühne dein Bestes.",
-        "link": "https://rausgegangen.de/en/events/reeperbahn-comedy-club-260/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TgqcTl1RE6pJNU8TeK4e_69355486_982868652059330_3106427241060368384_o.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 18.07.2025",
-        "time": "20:00",
-        "event": "Alt, aber lustig! Smash Comedy Spezial: Queerfeministische Stand Up Comedy mit Olga Ugrinsky, Schwessi & Special Guests (@Kulturladen St. Georg)",
-        "category": "",
-        "description": "SMASH SPEZIAL - Stand Up Comedy Doppel-Solo mit Schwessi, Olga Ugrinsky und Special GuestsCute but sassy, old but sexy, cringe but funny: die letzte Smash Comedy Show vor der Sommerpause ist eine Spezialausgabe. Olga Ugrinsky und Schwessi sind „Alt aber lustig!“ - in den Augen der Stand Up Industrie kurz vor der Verwesung, im eigenen Alltag: auch. Packt euch die Heizdecken ein und kommt vorbei, gibt auch Früchtetee! Und viel zu junge Special Guests, die ihre Enkel sein könnten.*Olga Ugrinsky hat einen sehr russischen Namen und überraschend wenig Russischkenntnisse. Nämlich null. Dafür hat sie ein großes Herz und eine ordentliche Berliner Schnauze. Sie findet eigentlich fast alles witzig, vor allem spießig-schrullige Alltagssituationen und regt sich live auf der Bühne über bescheuerte Sachen (Männer im öffentlichen Raum) auf. (Diesmal sogar mit Sommer Edition. Weil im Sommer sieht man so viele von denen draußen. Selber Schuld, könnten sich ja mal normale Klamotten anziehen.)*SCHWESSI hat als alleinerziehende Mutter eines Teenagers keine Zeit für Nachnamen. Als Musikerin und Stand Up Comedian polarisiert sie im Netz und live auf der Bühne, um dann jenseits aller Klischees wieder alles zu vereinen. Inhaltlich knallen feministische Utopien einer queeren Singlemum Ü 40 auf die schonungslose Selbstentlarvung menschlicher Widersprüchlichkeiten. Um die männerdominierte Stand Up Szene in Deutschland durch neue, weibliche und queere Perspektiven zu bereichern und marginalisierten Stimmen mehr Sichtbarkeit und Gehör zu verschaffen, hat Schwessi im März 2023 das erste queerfeministische Stand Up Comedy Open Mic Deutschlands gegründet: den „Smash Comedy Club“. Im Publikum sind alle willkommen, doch die Bühne gehört ausschließlich den FLINTA* (Frauen, Lesben, Inter, Trans-, Agender) und queeren Comedy Acts.SMASH COMEDY ist eine alternative Show mit den etwas anderen Perspektiven und Witzen übers Leben, die Gesellschaft und das Menschsein. Eine Bühne ohne toxische Maskulinität, Misogynie und Rassismus, Queer- und Transfeindlichkeit - eine Bühne für Queers, Nichtbinäre, Frauen, Lesben, Transpersonen u.a. - ein Safe(r) Space, auch fürs Publikum. Motto: Mit maximalem Spaß und Diversity Power gegen Diskriminierung.*Falls du selbst Female Comedian, FLINTA* und/oder queer bist und mal bei uns spielen willst, schreib uns eine Mail an smashcomedyshow@gmail.com, und du kriegst einen Spot in einer unserer Shows!(FLINTA* steht für Frauen, Lesben, Intergeschlechtliche, nichtbinäre, transgender und agender Personen)",
-        "link": "https://rausgegangen.de/en/events/smash-spezial-soloshow-stand-up-comedy-dirty-talk-mit-schwes-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/R7HJigpT3uYdeTp5wdai_1807.jpeg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 18.07.2025",
-        "time": "20:00",
-        "event": "St. Pauli Comedy Club (@St. Pauli Comedy Club)",
-        "category": "",
-        "description": "St. Pauli Comedy Club: Lachen garantiert!  Willkommen im St. Pauli Comedy Club, der neuen Top-Adresse für Comedy im Herzen Hamburgs! Tauchen Sie ein in eine Welt voller Humor und genießen Sie unvergessliche Abende mit Deutschlands besten Comedians und aufstrebenden Talenten. Unsere vielseitigen Shows – von Stand-up über Impro bis hin zu Satire – bieten für jeden Geschmack das Richtige.  Unsere gemütliche und intime Atmosphäre macht jeden Besuch zu einem besonderen Erlebnis. Ob Stammgast oder Neuling, bei uns fühlt sich jeder sofort wohl. Der St. Pauli Comedy Club ist der perfekte Ort, um dem Alltag zu entfliehen und herzhaft zu lachen.  Besuchen Sie uns auf St. Pauli und lassen Sie sich von erstklassiger Comedy verzaubern. Jetzt Tickets sichern und dabei sein, wenn Lachen zur Kunst wird!  2024: Donnerstag, Freitag und Samstag 19:00 - 21:00 Uhr     Ab Jahr 2025:  Jeden Mittwoch, Donnerstag und Freitag von 20:00 - 22:00 Uhr. Jeden Samstag von 17:00 - 19:00 Uhr & von 20:00 - 22:00 Uhr.  Einlass immer 30 Minuten vor Showbeginn.  Spielbudenplatz 22 20359 Hamburg  www.stpaulicomedyclub.de",
-        "link": "https://rausgegangen.de/en/events/st-pauli-comedy-club-213/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/KkMBRbXQvgFFJVZ9pgqg_shine.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 18.07.2025",
-        "time": "21:00",
-        "event": "BATATA Y MA ORIKI (@KNUST Hamburg)",
-        "category": "",
-        "description": "BATATA Y MA ORIKI präsentiert von Cumbia im Viertel 18.07.25 | 21:00 | SaalBATATA ist ein Meister des Trommelns. Er hat an wichtigen Festivals in Frankreich, Belgien, Brüssel, Costa Rica, Kuba, Holland, Mexiko, Italien, USA, der Schweiz, England, Kanada, Polen und Deutschland teilgenommen. Besonders hervorzuheben ist seine Arbeit als Leiter von \"Las Alegres Ambulancias\", einem Familienprojekt der Batatas aus San Basilio de Palenque. Sie gelten als die repräsentativste Musikinstitution der kolumbianischen Karibik in lebendigen Manifestationen der afrikanischen Vorfahrenkultur. Eine über 500-jährige Tradition, die das Erbe seiner Vorfahren aktuell hält und zu neuen musikalischen Horizonten führt. Als Sohn von Graciela Salgado und Francisco Teherán ist er der Erbe der BATATA-Kultur, -Tradition und -Abstammung. Sein Leben, seine Arbeit als Pädagoge und seine Musik verherrlichen stets die Werte der Tradition der kolumbianischen Karibik und insbesondere von Palenque de San Basilio.   Es handelt sich um eine Musikgruppe unter der Leitung von Tomás Teherán und Samadhi Sound System, die elektronische Musik mit traditionellen afro-karibischen Rhythmen verbindet. Tomás Teherán „BATATA“ gilt als einer der bedeutendsten Trommler Kolumbiens. BATATA & Ma Oriki stellt einen Ausdruck dar, bei dem die Klänge elektronischer Musik mit afro-karibischen Klängen und Rhythmen gemischt werden, die typisch für das kolumbianische folkloristische Kulturerbe sind. Das Ergebnis ist eine exquisite Balance aus Musik voller uralter Rhythmen, organischer Melodien und elektronischer Klänge, die ein unvergleichliches Erlebnis bietet, das traditionelle Musikkonventionen in Frage stellt und das Publikum auf eine einzigartige Klangreise mitnimmt.",
-        "link": "https://rausgegangen.de/en/events/batata-y-ma-oriki-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Ahkbm7FzRfGZKe5DRwlU_batata.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 18.07.2025",
-        "time": "21:00",
-        "event": "SCHNACK ALLSTARS - Stand-Up Comedy im ADINA - Die besten Comedians erleben! (@Adina Speicherstadt)",
-        "category": "",
-        "description": "Wer hat eigentlich gesagt Hamburger*innen lachen nicht so viel?! Dabei haben wir doch Norddeutschlands größten Comedy-Club hier! Von kleinen Comedians bis zu alten Bekannten sind hier alle dabei. Also wenn du mal wieder richtig lachen willst, ist das mit Sicherheit das Richtige. 🤩🎙️",
-        "link": "https://rausgegangen.de/en/events/schnack-allstars-stand-up-comedy-im-adina-die-besten-comedia-8/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/US0V8C7DSju18rPc3UDj_eventbrite-header-57.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 18.07.2025",
-        "time": "23:00",
-        "event": "FUNDBUREAU 18.07.25 (@Fundbureau)",
-        "category": "",
-        "description": "FREITAG 18.07.25 MIT:ANDY‘S ECHO ANTONIO VITE FRAU RÜ PEER KUSIV KABELJO DJ LIMBICAUND DRINKS VON FRITZ KOLA 🖤VON 23 - 24 UHR KOMMT IHR BEI UNSEREM FUNDI SOMMER SPEZIAL FÜR'NEN ZEHNER REIN. 🌴ZAHLUNG: KARTENZAHLUNG ONLY TICKETS: ABENDKASSE + VVK EINLASS: 18+ UHRZEIT: 23:00 DATUM: 18.07.2025 LOCATION: ALTLANDER STR. 11, 20095, HAMBURG",
-        "link": "https://rausgegangen.de/en/events/fundbureau-180725-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/VUoDmAbFSjyBkHxBmROL_showcase-180704.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 18.07.2025",
         "time": "18:00",
         "event": "Beats am Gleis mit DJ Dezibl (@Lokschuppen)",
         "category": "Sundowner - Snacks - Sounds",
@@ -1404,30 +1404,6 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250719_CocktailParty_4zu5.jpg"
     },
     {
-        "date": "Sat, 19.07",
-        "time": "23:00",
-        "event": "STEREOLOVE (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/stereolove/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_19_0725_Feed.jpg"
-    },
-    {
-        "date": "Sa, 19.07.2025",
-        "time": "10:00",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36263",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 19.07.2025",
-        "time": "11:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
         "date": "Sa, 19.07.2025",
         "time": "9:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -1450,6 +1426,30 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 19.07.2025",
+        "time": "10:00",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36263",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 19.07.2025",
+        "time": "11:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sat, 19.07",
+        "time": "23:00",
+        "event": "STEREOLOVE (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/stereolove/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_19_0725_Feed.jpg"
     },
     {
         "date": "Sa, 19.07",
@@ -1567,6 +1567,16 @@
     {
         "date": "Sat, 19.07.2025",
         "time": "14:00",
+        "event": "HABITAT FESTIVAL (@Alte Schleuse)",
+        "category": "",
+        "description": "32 Stunden Ausnahmezustand: Hier verschmilzt elektronische Musik mit kollektiver Ekstase in einem Line-up voller Techno-, House- und Electro-Acts, Live-Konzerte und klanglicher Grenzüberschreitungen. Tag und Nacht, drinnen und draußen. Willkommen im Habitat. 🪩❤️‍🔥",
+        "link": "https://rausgegangen.de/en/events/habitat-festival-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/rECxKkeQEOzD4gsXuRwV_240720habitatsammybermudezdjheartstringcrowd13.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Sat, 19.07.2025",
+        "time": "14:00",
         "event": "THE VILLAGE // OPEN AIR DAY PARTY (@Bumann & SOHN)",
         "category": "",
         "description": "THE VILLAGE bringt Vibes, Community und fette Beats aus Soca, Dancehall, Reggaeton & mehr zusammen – mitten am Tag unter freiem Himmel☀️",
@@ -1606,16 +1616,6 @@
     },
     {
         "date": "Sat, 19.07.2025",
-        "time": "14:00",
-        "event": "HABITAT FESTIVAL (@Alte Schleuse)",
-        "category": "",
-        "description": "32 Stunden Ausnahmezustand: Hier verschmilzt elektronische Musik mit kollektiver Ekstase in einem Line-up voller Techno-, House- und Electro-Acts, Live-Konzerte und klanglicher Grenzüberschreitungen. Tag und Nacht, drinnen und draußen. Willkommen im Habitat. 🪩❤️‍🔥",
-        "link": "https://rausgegangen.de/en/events/habitat-festival-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/rECxKkeQEOzD4gsXuRwV_240720habitatsammybermudezdjheartstringcrowd13.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Sat, 19.07.2025",
         "time": null,
         "event": "beasts//bread//beautifulpeople (@Bielefeld-Mitte)",
         "category": "Performative, musikalische Intervention im 5. Kanton/Bielefeld",
@@ -1651,6 +1651,22 @@
         "link": "https://www.bielefeld.jetzt/node/1130583"
     },
     {
+        "date": "Su, 20.07.2025",
+        "time": "19:00",
+        "event": "*TRIBE KENNENLERNABEND*",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Su, 20.07.2025",
+        "time": "9:00",
+        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/uprunningclub/?hl=de",
+        "image_url": null
+    },
+    {
         "date": "So, 20.07.2025",
         "time": "09:00",
         "event": "Yoga(@hochschulsport_bielefeld)",
@@ -1673,22 +1689,6 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37043",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Su, 20.07.2025",
-        "time": "19:00",
-        "event": "*TRIBE KENNENLERNABEND*",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Su, 20.07.2025",
-        "time": "9:00",
-        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/uprunningclub/?hl=de",
-        "image_url": null
     },
     {
         "date": "So, 20.07",
@@ -1725,6 +1725,14 @@
         "description": "Gemeinsames Open-Air-Konzert des Orchesters Drei Sparren und der Zentralkapelle Berlin",
         "image_url": null,
         "link": "https://www.bielefeld.jetzt/node/1132634"
+    },
+    {
+        "date": "Mo, 21.07.2025",
+        "time": "20:00",
+        "event": "Pub Quiz (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Mo, 21.07.2025",
@@ -1775,12 +1783,20 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Mo, 21.07.2025",
-        "time": "20:00",
-        "event": "Pub Quiz (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
+        "date": "Tu, 22.07.2025",
+        "time": "18:00",
+        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         "image_url": null
+    },
+    {
+        "date": "Tu, 22.07.2025",
+        "time": "7:00",
+        "event": "Wochenmarkt(@Alter Markt)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Di, 22.07.2025",
@@ -1823,28 +1839,44 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Tu, 22.07.2025",
-        "time": "18:00",
-        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Tu, 22.07.2025",
-        "time": "7:00",
-        "event": "Wochenmarkt(@Alter Markt)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
         "date": "Mi, 23.07",
         "time": "23:00",
         "event": "MI • WYLD WEDNESDAY (@cafe_europa_bi)",
         "category": "Party",
         "link": "https://cafeeuropa.de/event/mi-wyld-wednesday-15/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250723_WyldWednesday_4zu5.jpg"
+    },
+    {
+        "date": "We, 23.07.2025",
+        "time": "21:00",
+        "event": "Karaoke (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "We, 23.07.2025",
+        "time": "7:00",
+        "event": "Wochenmarkt(@Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "We, 23.07.2025",
+        "time": "20:00",
+        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
+        "image_url": null
+    },
+    {
+        "date": "We, 23.07.2025",
+        "time": "20:00",
+        "event": "DIES DAS COMEDY - OPEN MIC (@diesdascomedy)",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/diesdascomedy/",
+        "image_url": null
     },
     {
         "date": "Mi, 23.07.2025",
@@ -1903,38 +1935,6 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "We, 23.07.2025",
-        "time": "21:00",
-        "event": "Karaoke (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "We, 23.07.2025",
-        "time": "7:00",
-        "event": "Wochenmarkt(@Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "We, 23.07.2025",
-        "time": "20:00",
-        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
-        "image_url": null
-    },
-    {
-        "date": "We, 23.07.2025",
-        "time": "20:00",
-        "event": "DIES DAS COMEDY - OPEN MIC (@diesdascomedy)",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/diesdascomedy/",
-        "image_url": null
-    },
-    {
         "date": "Wed, 23.07.2025",
         "time": "16:00",
         "event": "Maikes Rappelkiste: »Keine Langeweile mehr« (@Kesselbrink)",
@@ -1955,18 +1955,18 @@
     {
         "date": "Th, 24.07.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 24.07.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 24.07.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 24.07.2025",
@@ -2056,14 +2056,6 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250725_Backto2000_4zu5-1.jpg"
     },
     {
-        "date": "Fri, 25.07",
-        "time": "23:00",
-        "event": "Studi Pop! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/studi-pop-3/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_25_0725_Feed.jpg"
-    },
-    {
         "date": "Fr, 25.07.2025",
         "time": "19:00",
         "event": "*TRIBE CREATIVE CIRCLES*",
@@ -2086,6 +2078,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fri, 25.07",
+        "time": "23:00",
+        "event": "Studi Pop! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/studi-pop-3/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_25_0725_Feed.jpg"
     },
     {
         "date": "Fr, 25.07",
@@ -2178,14 +2178,6 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250726_TequilaParty_4zu5-1.jpg"
     },
     {
-        "date": "Sat, 26.07",
-        "time": "23:00",
-        "event": "Tequila Party (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/tequila-party/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_26_0725_Feed-1.jpg"
-    },
-    {
         "date": "Sa, 26.07.2025",
         "time": "14:00",
         "event": "*TRIBE WANDERSAMSTAG*",
@@ -2216,6 +2208,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 26.07",
+        "time": "23:00",
+        "event": "Tequila Party (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/tequila-party/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_26_0725_Feed-1.jpg"
     },
     {
         "date": "Sa, 26.07",
@@ -2385,18 +2385,18 @@
     {
         "date": "Th, 31.07.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 31.07.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 31.07.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 31.07.2025",
@@ -2658,18 +2658,18 @@
     {
         "date": "Th, 07.08.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 07.08.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 07.08.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 07.08.2025",
@@ -2929,18 +2929,18 @@
     {
         "date": "Th, 14.08.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 14.08.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 14.08.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 14.08.2025",
@@ -3186,18 +3186,18 @@
     {
         "date": "Th, 21.08.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 21.08.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 21.08.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 21.08.2025",
@@ -3414,18 +3414,18 @@
     {
         "date": "Th, 28.08.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 28.08.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 28.08.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 28.08.2025",
@@ -3719,18 +3719,18 @@
     {
         "date": "Th, 04.09.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 04.09.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 04.09.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Do, 04.09",
@@ -4013,18 +4013,18 @@
     {
         "date": "Th, 11.09.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 11.09.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 11.09.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 11.09.2025",
@@ -4278,18 +4278,18 @@
     {
         "date": "Th, 18.09.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 18.09.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 18.09.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 18.09.2025",
@@ -4570,18 +4570,18 @@
     {
         "date": "Th, 25.09.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 25.09.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 25.09.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 25.09.2025",
@@ -4902,18 +4902,18 @@
     {
         "date": "Th, 02.10.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 02.10.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 02.10.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 02.10.2025",
@@ -4998,14 +4998,6 @@
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
-        "date": "Sat, 04.10",
-        "time": "19:00",
-        "event": "Mutti tanzt! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/mutti-tanzt/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/05/Stereo_MT_04_1025_Feed01.jpg"
-    },
-    {
         "date": "Sa, 04.10.2025",
         "time": "9:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -5028,6 +5020,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 04.10",
+        "time": "19:00",
+        "event": "Mutti tanzt! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/mutti-tanzt/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/05/Stereo_MT_04_1025_Feed01.jpg"
     },
     {
         "date": "Sat, 04.10.2025",
@@ -5195,18 +5195,18 @@
     {
         "date": "Th, 09.10.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 09.10.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 09.10.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 09.10.2025",
@@ -5497,18 +5497,18 @@
     {
         "date": "Th, 16.10.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 16.10.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 16.10.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 16.10.2025",
@@ -5733,18 +5733,18 @@
     {
         "date": "Th, 23.10.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 23.10.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 23.10.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 23.10.2025",
@@ -5988,18 +5988,18 @@
     {
         "date": "Th, 30.10.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 30.10.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 30.10.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 30.10.2025",
@@ -6245,18 +6245,18 @@
     {
         "date": "Th, 06.11.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 06.11.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 06.11.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 06.11.2025",
@@ -6524,18 +6524,18 @@
     {
         "date": "Th, 13.11.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 13.11.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 13.11.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 13.11.2025",
@@ -6794,18 +6794,18 @@
     {
         "date": "Th, 20.11.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 20.11.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 20.11.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 20.11.2025",
@@ -7020,18 +7020,18 @@
     {
         "date": "Th, 27.11.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 27.11.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 27.11.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 27.11.2025",
@@ -7210,18 +7210,18 @@
     {
         "date": "Th, 04.12.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 04.12.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 04.12.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 04.12.2025",
@@ -7429,18 +7429,18 @@
     {
         "date": "Th, 11.12.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 11.12.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 11.12.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 11.12.2025",
@@ -7656,18 +7656,18 @@
     {
         "date": "Th, 18.12.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 18.12.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 18.12.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 18.12.2025",
@@ -7825,18 +7825,18 @@
     {
         "date": "Th, 25.12.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 25.12.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 25.12.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 25.12.2025",
