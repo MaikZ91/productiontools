@@ -1,37 +1,5 @@
 [
     {
-        "date": "Mi, 16.07",
-        "time": "23:00",
-        "event": "MI • WEDNESDATE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wednesdate-8/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250716_Wednesdate_4zu5.jpg"
-    },
-    {
-        "date": "We, 16.07.2025",
-        "time": "21:00",
-        "event": "Karaoke (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "We, 16.07.2025",
-        "time": "7:00",
-        "event": "Wochenmarkt(@Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "We, 16.07.2025",
-        "time": "20:00",
-        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
-        "image_url": null
-    },
-    {
         "date": "Mi, 16.07.2025",
         "time": "10:00",
         "event": "Yoga(@hochschulsport_bielefeld)",
@@ -86,6 +54,38 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35415",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Mi, 16.07",
+        "time": "23:00",
+        "event": "MI • WEDNESDATE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wednesdate-8/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250716_Wednesdate_4zu5.jpg"
+    },
+    {
+        "date": "We, 16.07.2025",
+        "time": "21:00",
+        "event": "Karaoke (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "We, 16.07.2025",
+        "time": "7:00",
+        "event": "Wochenmarkt(@Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "We, 16.07.2025",
+        "time": "20:00",
+        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
+        "image_url": null
     },
     {
         "date": "Mi, 16.07",
@@ -394,18 +394,42 @@
     {
         "date": "Th, 17.07.2025",
         "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "Th, 17.07.2025",
+        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
-        "date": "Th, 17.07.2025",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
+        "date": "Do, 17.07.2025",
+        "time": "16:30",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 17.07.2025",
+        "time": "17:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 17.07.2025",
+        "time": "18:30",
+        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35658",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Th, 17.07.2025",
@@ -438,30 +462,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Do, 17.07.2025",
-        "time": "16:30",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 17.07.2025",
-        "time": "17:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 17.07.2025",
-        "time": "18:30",
-        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35658",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Thu, 17.07.2025",
@@ -551,6 +551,16 @@
         "description": "Im H26 gibt’s sechs Runden mit cleveren Fragen, coole Preise und beste Stimmung – live, analog und richtig spaßig!",
         "link": "https://rausgegangen.de/en/events/open-air-quiz-night-im-h26-2/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TMMtTOKTQDSRSfTzJKZ2_quiznightlogo01.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Thu, 17.07.2025",
+        "time": "19:30",
+        "event": "Phänomenologischer Abend (@Kim Schröer Coaching)",
+        "category": "",
+        "description": "Zu den Phänomenen, die sich gerade zeigen, verbringen wir einen Abend, an dem wir uns selbst besser kennen lernen und lernen, uns mit dem, was wir sind, zu zeigen. Es tut gut, gesehen zu werden. Von uns selbst und anderen.In der Phänomenologischen Psychologie geht es um eine erwachsene Haltung zum Leben, ein seelisches Erwachsen werden. Und somit ein Leben im Hier und Jetzt und dem Erkennen, dass die Vergangenheit bereits gestorben und die Zukunft noch nicht geboren ist. Die Lebendigkeit ist in diesem Moment -> ein Austreten aus der Leere hinein in die Fülle.Kleine Übungen, Meditationen, Vorträge, Aufstellungen, Coaching, Nichtstun....Ich begleite euch mit dem, was es gerade braucht.Ihr könnt ganz ohne Vorerfahrung und in Alltagsklamotten (Schuhe bitte ausziehen) mitmachen. www.kim-schroeer.comwww.instagram.com/kim_schroeer Den Phänomenologischen Abend gibt es jetzt auch online. Schaut mal beim Lebensinstitut.de vorbei.",
+        "link": "https://rausgegangen.de/en/events/phanomenologischer-abend-38/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hS7JT9xhT1yhMGsb99AL_Kim-Foto-1920x1080.jpg?width=1200&height=900&mode=crop",
         "city": "Köln"
     },
     {
@@ -763,30 +773,6 @@
         "link": "https://www.bielefeld.jetzt/node/1160426"
     },
     {
-        "date": "Fr, 18.07",
-        "time": "23:00",
-        "event": "FR • BLFD – LATIN EDITION – SONDERVERANSTALTUNG (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-blfd-latin-edition-sonderveranstaltung/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250718_BLFD_4zu5.jpg"
-    },
-    {
-        "date": "Fr, 18.07.2025",
-        "time": "23:00",
-        "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
-        "category": "Party",
-        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
-        "image_url": null
-    },
-    {
-        "date": "Fr, 18.07.2025",
-        "time": "7:00",
-        "event": "Wochenmarkt (@Alter Markt, Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
         "date": "Fri, 18.07",
         "time": "23:00",
         "event": "Studi Pop! (@stereobielefeld)",
@@ -817,6 +803,30 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35520",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 18.07",
+        "time": "23:00",
+        "event": "FR • BLFD – LATIN EDITION – SONDERVERANSTALTUNG (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-blfd-latin-edition-sonderveranstaltung/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250718_BLFD_4zu5.jpg"
+    },
+    {
+        "date": "Fr, 18.07.2025",
+        "time": "23:00",
+        "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
+        "category": "Party",
+        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
+        "image_url": null
+    },
+    {
+        "date": "Fr, 18.07.2025",
+        "time": "7:00",
+        "event": "Wochenmarkt (@Alter Markt, Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Fr, 18.07",
@@ -1233,6 +1243,30 @@
         "image_url": "https://www.club-sams.de/data/202507/WhatsApp_Image_2025-06-29_at_00_31_10_150.jpeg?v=1751456627"
     },
     {
+        "date": "Sat, 19.07",
+        "time": "23:00",
+        "event": "STEREOLOVE (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/stereolove/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_19_0725_Feed.jpg"
+    },
+    {
+        "date": "Sa, 19.07.2025",
+        "time": "10:00",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36263",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 19.07.2025",
+        "time": "11:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
         "date": "Sa, 19.07",
         "time": "23:00",
         "event": "SA • LOVE SATURDAYS x COCKTAIL NIGHT (@cafe_europa_bi)",
@@ -1263,30 +1297,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sat, 19.07",
-        "time": "23:00",
-        "event": "STEREOLOVE (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/stereolove/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_19_0725_Feed.jpg"
-    },
-    {
-        "date": "Sa, 19.07.2025",
-        "time": "10:00",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36263",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 19.07.2025",
-        "time": "11:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Sa, 19.07",
@@ -1523,16 +1533,6 @@
     },
     {
         "date": "Sat, 19.07.2025",
-        "time": "18:00",
-        "event": "fi x Lange Nacht (@fi)",
-        "category": "",
-        "description": "Lange Nacht Nummer 103 – 18 Stunden Musik auf zwei Floors mit massig b2b-Energie. Start am Abend, Ende am nächsten Morgen🪩",
-        "link": "https://rausgegangen.de/en/events/fi-x-lange-nacht-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4LcojE8cRXX2vnrSxrGl_bildschirmfoto-2025-07-07-um-155558.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 19.07.2025",
         "time": null,
         "event": "beasts//bread//beautifulpeople (@Bielefeld-Mitte)",
         "category": "Performative, musikalische Intervention im 5. Kanton/Bielefeld",
@@ -1568,22 +1568,6 @@
         "link": "https://www.bielefeld.jetzt/node/1130583"
     },
     {
-        "date": "Su, 20.07.2025",
-        "time": "19:00",
-        "event": "*TRIBE KENNENLERNABEND*",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Su, 20.07.2025",
-        "time": "9:00",
-        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/uprunningclub/?hl=de",
-        "image_url": null
-    },
-    {
         "date": "So, 20.07.2025",
         "time": "09:00",
         "event": "Yoga(@hochschulsport_bielefeld)",
@@ -1606,6 +1590,22 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37043",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Su, 20.07.2025",
+        "time": "19:00",
+        "event": "*TRIBE KENNENLERNABEND*",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Su, 20.07.2025",
+        "time": "9:00",
+        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/uprunningclub/?hl=de",
+        "image_url": null
     },
     {
         "date": "So, 20.07",
@@ -1675,14 +1675,6 @@
     },
     {
         "date": "Mo, 21.07.2025",
-        "time": "20:00",
-        "event": "Pub Quiz (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Mo, 21.07.2025",
         "time": "17:00",
         "event": "Volleyball(@hochschulsport_bielefeld)",
         "category": "Sport",
@@ -1722,20 +1714,12 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Tu, 22.07.2025",
-        "time": "18:00",
-        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Tu, 22.07.2025",
-        "time": "7:00",
-        "event": "Wochenmarkt(@Alter Markt)",
+        "date": "Mo, 21.07.2025",
+        "time": "20:00",
+        "event": "Pub Quiz (@irish_pub_bielefeld)",
         "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Di, 22.07.2025",
@@ -1770,44 +1754,20 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Mi, 23.07",
-        "time": "23:00",
-        "event": "MI • WYLD WEDNESDAY (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wyld-wednesday-15/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250723_WyldWednesday_4zu5.jpg"
-    },
-    {
-        "date": "We, 23.07.2025",
-        "time": "21:00",
-        "event": "Karaoke (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
+        "date": "Tu, 22.07.2025",
+        "time": "18:00",
+        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         "image_url": null
     },
     {
-        "date": "We, 23.07.2025",
+        "date": "Tu, 22.07.2025",
         "time": "7:00",
-        "event": "Wochenmarkt(@Siegfriedplatz)",
+        "event": "Wochenmarkt(@Alter Markt)",
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "We, 23.07.2025",
-        "time": "20:00",
-        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
-        "image_url": null
-    },
-    {
-        "date": "We, 23.07.2025",
-        "time": "20:00",
-        "event": "DIES DAS COMEDY - OPEN MIC (@diesdascomedy)",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/diesdascomedy/",
-        "image_url": null
     },
     {
         "date": "Mi, 23.07.2025",
@@ -1866,6 +1826,46 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "date": "Mi, 23.07",
+        "time": "23:00",
+        "event": "MI • WYLD WEDNESDAY (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wyld-wednesday-15/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250723_WyldWednesday_4zu5.jpg"
+    },
+    {
+        "date": "We, 23.07.2025",
+        "time": "21:00",
+        "event": "Karaoke (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "We, 23.07.2025",
+        "time": "7:00",
+        "event": "Wochenmarkt(@Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "We, 23.07.2025",
+        "time": "20:00",
+        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
+        "image_url": null
+    },
+    {
+        "date": "We, 23.07.2025",
+        "time": "20:00",
+        "event": "DIES DAS COMEDY - OPEN MIC (@diesdascomedy)",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/diesdascomedy/",
+        "image_url": null
+    },
+    {
         "date": "Wed, 23.07.2025",
         "time": "16:00",
         "event": "Maikes Rappelkiste: »Keine Langeweile mehr« (@Kesselbrink)",
@@ -1886,18 +1886,42 @@
     {
         "date": "Th, 24.07.2025",
         "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "Th, 24.07.2025",
+        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
-        "date": "Th, 24.07.2025",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
+        "date": "Do, 24.07.2025",
+        "time": "16:30",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 24.07.2025",
+        "time": "17:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 24.07.2025",
+        "time": "18:30",
+        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35658",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Th, 24.07.2025",
@@ -1930,30 +1954,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Do, 24.07.2025",
-        "time": "16:30",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 24.07.2025",
-        "time": "17:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 24.07.2025",
-        "time": "18:30",
-        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35658",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Thu, 24.07.2025",
@@ -2003,38 +2003,6 @@
         "link": "https://www.bielefeld.jetzt/node/1144833"
     },
     {
-        "date": "Fr, 25.07",
-        "time": "23:00",
-        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-back-to-2000-5/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250725_Backto2000_4zu5-1.jpg"
-    },
-    {
-        "date": "Fr, 25.07.2025",
-        "time": "19:00",
-        "event": "*TRIBE CREATIVE CIRCLES*",
-        "category": "Kreativität",
-        "link": "https://www.instagram.com/reel/DBwDGB9IL3_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Fr, 25.07.2025",
-        "time": "23:00",
-        "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
-        "category": "Party",
-        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
-        "image_url": null
-    },
-    {
-        "date": "Fr, 25.07.2025",
-        "time": "7:00",
-        "event": "Wochenmarkt (@Alter Markt, Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
         "date": "Fri, 25.07",
         "time": "23:00",
         "event": "Studi Pop! (@stereobielefeld)",
@@ -2065,6 +2033,38 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35520",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 25.07",
+        "time": "23:00",
+        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-back-to-2000-5/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250725_Backto2000_4zu5-1.jpg"
+    },
+    {
+        "date": "Fr, 25.07.2025",
+        "time": "19:00",
+        "event": "*TRIBE CREATIVE CIRCLES*",
+        "category": "Kreativität",
+        "link": "https://www.instagram.com/reel/DBwDGB9IL3_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Fr, 25.07.2025",
+        "time": "23:00",
+        "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
+        "category": "Party",
+        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
+        "image_url": null
+    },
+    {
+        "date": "Fr, 25.07.2025",
+        "time": "7:00",
+        "event": "Wochenmarkt (@Alter Markt, Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Fr, 25.07",
@@ -2159,6 +2159,14 @@
         "image_url": "https://www.club-sams.de/data/202506/HAPPI_HIPPIE_Instagram_Post_3__150_1.png?v=1749420487"
     },
     {
+        "date": "Sat, 26.07",
+        "time": "23:00",
+        "event": "Tequila Party (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/tequila-party/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_26_0725_Feed-1.jpg"
+    },
+    {
         "date": "Sa, 26.07",
         "time": "23:00",
         "event": "SA • CAFE SUMMER NIGHTS x TEQUILA NIGHT (@cafe_europa_bi)",
@@ -2197,14 +2205,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sat, 26.07",
-        "time": "23:00",
-        "event": "Tequila Party (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/tequila-party/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_26_0725_Feed-1.jpg"
     },
     {
         "date": "Sa, 26.07",
@@ -2344,18 +2344,18 @@
     {
         "date": "Th, 31.07.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 31.07.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 31.07.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 31.07.2025",
@@ -2627,18 +2627,18 @@
     {
         "date": "Th, 07.08.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 07.08.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 07.08.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 07.08.2025",
@@ -2917,18 +2917,18 @@
     {
         "date": "Th, 14.08.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 14.08.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 14.08.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 14.08.2025",
@@ -3174,18 +3174,18 @@
     {
         "date": "Th, 21.08.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 21.08.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 21.08.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 21.08.2025",
@@ -3402,18 +3402,18 @@
     {
         "date": "Th, 28.08.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 28.08.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 28.08.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 28.08.2025",
@@ -3714,18 +3714,18 @@
     {
         "date": "Th, 04.09.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 04.09.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 04.09.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Do, 04.09",
@@ -4017,18 +4017,18 @@
     {
         "date": "Th, 11.09.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 11.09.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 11.09.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 11.09.2025",
@@ -4282,18 +4282,18 @@
     {
         "date": "Th, 18.09.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 18.09.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 18.09.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 18.09.2025",
@@ -4584,18 +4584,18 @@
     {
         "date": "Th, 25.09.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 25.09.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 25.09.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 25.09.2025",
@@ -4916,18 +4916,18 @@
     {
         "date": "Th, 02.10.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 02.10.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 02.10.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 02.10.2025",
@@ -5012,6 +5012,14 @@
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
+        "date": "Sat, 04.10",
+        "time": "19:00",
+        "event": "Mutti tanzt! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/mutti-tanzt/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/05/Stereo_MT_04_1025_Feed01.jpg"
+    },
+    {
         "date": "Sa, 04.10.2025",
         "time": "9:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -5034,14 +5042,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sat, 04.10",
-        "time": "19:00",
-        "event": "Mutti tanzt! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/mutti-tanzt/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/05/Stereo_MT_04_1025_Feed01.jpg"
     },
     {
         "date": "Sat, 04.10.2025",
@@ -5209,18 +5209,18 @@
     {
         "date": "Th, 09.10.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 09.10.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 09.10.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 09.10.2025",
@@ -5511,18 +5511,18 @@
     {
         "date": "Th, 16.10.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 16.10.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 16.10.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 16.10.2025",
@@ -5727,18 +5727,18 @@
     {
         "date": "Th, 23.10.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 23.10.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 23.10.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 23.10.2025",
@@ -5962,18 +5962,18 @@
     {
         "date": "Th, 30.10.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 30.10.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 30.10.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 30.10.2025",
@@ -6199,18 +6199,18 @@
     {
         "date": "Th, 06.11.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 06.11.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 06.11.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 06.11.2025",
@@ -6485,18 +6485,18 @@
     {
         "date": "Th, 13.11.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 13.11.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 13.11.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 13.11.2025",
@@ -6745,18 +6745,18 @@
     {
         "date": "Th, 20.11.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 20.11.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 20.11.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 20.11.2025",
@@ -6971,18 +6971,18 @@
     {
         "date": "Th, 27.11.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 27.11.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 27.11.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 27.11.2025",
@@ -7161,18 +7161,18 @@
     {
         "date": "Th, 04.12.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 04.12.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 04.12.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 04.12.2025",
@@ -7380,18 +7380,18 @@
     {
         "date": "Th, 11.12.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 11.12.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 11.12.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 11.12.2025",
@@ -7607,18 +7607,18 @@
     {
         "date": "Th, 18.12.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 18.12.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 18.12.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 18.12.2025",
@@ -7776,18 +7776,18 @@
     {
         "date": "Th, 25.12.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 25.12.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 25.12.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 25.12.2025",
