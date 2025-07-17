@@ -1060,7 +1060,9 @@ def scrape_events(base_url):
             add_recurring_events(events, "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*", "TUESDAY",
                                  'https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==',
                                  'weekly', None,'18:00','Sport')
-            add_recurring_events(events, "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*", "THURSDAY",'https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==','weekly', None,'18:00','Sport')
+            add_recurring_events(events, "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*", "MONDAY",'https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==','weekly', None,'18:00','Sport')
+            add_recurring_events(events, "*TRIBE BOULDERN (@Kletterhalle Senne)*", "WEDNESDAY",'https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==','weekly', None,'18:00','Sport')
+            add_recurring_events(events, "*TRIBE FUSSBALL (@Obersee Fussballplatz)*", "THURSDAY",'https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==','weekly', None,'18:00','Sport')
             add_recurring_events(events, "*TRIBE KENNENLERNABEND*", "SUNDAY",
                                  'https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==',
                                  'weekly', None,'19:00','Ausgehen')
