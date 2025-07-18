@@ -1072,6 +1072,7 @@ def scrape_events(base_url):
                                  'monthly_last', None,'19:00','Kreativität')
             add_recurring_events(events, "Lauftreff @oberseeparkrun (@Obersee)", "SATURDAY", "https://www.parkrun.com.de/", 'weekly', None, '09:00','Sport')
             add_recurring_events(events, "Lauftreff @uprunningclub (@Venue Coffee)", "SUNDAY", "https://www.instagram.com/uprunningclub/?hl=de", 'weekly', None,'09:00','Sport')
+            add_recurring_events(events, "Lauftreff @apero_runners (@Luttercafe)", "THURSDAY", "https://www.instagram.com/apero_runners/?hl=de", 'weekly', None,'19:00','Sport')
             add_recurring_events(events, "LIV/Hinterzimmer Afro (@hinterzimmer.club)", "SATURDAY", "https://www.instagram.com/liv.bielefeld/?hl=de", 'weekly', None,'23:00','Party')
             add_recurring_events(events, "LIV/Hinterzimmer Afro (@hinterzimmer.club)", "FRIDAY", "https://www.instagram.com/liv.bielefeld/?hl=de", 'weekly', None,'23:00','Party')
             add_recurring_events(events, "Afterwork (@harmsmarkt)", "THURSDAY", "https://harms-markt.de/allgemein/after-work/", 'weekly', None, '18:00','Ausgehen')
