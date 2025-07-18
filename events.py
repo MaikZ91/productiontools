@@ -1075,6 +1075,8 @@ def scrape_events(base_url):
             add_recurring_events(events, "Lauftreff @apero_runners (@Luttercafe)", "THURSDAY", "https://www.instagram.com/apero_runners/?hl=de", 'weekly', None,'19:00','Sport')
             add_recurring_events(events, "LIV/Hinterzimmer Afro (@hinterzimmer.club)", "SATURDAY", "https://www.instagram.com/liv.bielefeld/?hl=de", 'weekly', None,'23:00','Party')
             add_recurring_events(events, "LIV/Hinterzimmer Afro (@hinterzimmer.club)", "FRIDAY", "https://www.instagram.com/liv.bielefeld/?hl=de", 'weekly', None,'23:00','Party')
+            add_recurring_events(events, "CUTIE DANCE(@cutiebielefeld)", "SATURDAY", "https://www.instagram.com/cutiebielefeld/?hl=de", 'weekly', None,'23:00','Party')
+            add_recurring_events(events, "CUTIE DANCE (@cutiebielefeld)", "FRIDAY", "https://www.instagram.com/cutiebielefeld/?hl=de", 'weekly', None,'23:00','Party')
             add_recurring_events(events, "Afterwork (@harmsmarkt)", "THURSDAY", "https://harms-markt.de/allgemein/after-work/", 'weekly', None, '18:00','Ausgehen')
             add_recurring_events(events, "PingPong(@nr.z.p)", "THURSDAY", nrzp, 'weekly',None,'21:00','Ausgehen')
             add_recurring_events(events, "Kneipenquiz(@gegenueber_bar)", "TUESDAY", 'https://www.instagram.com/gegenueber_bar/?hl=de', 'monthly_nth_weekday', 2, '20:00','Ausgehen')
