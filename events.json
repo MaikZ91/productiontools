@@ -25,22 +25,6 @@
     },
     {
         "date": "Sa, 19.07.2025",
-        "time": "10:00",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36263",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 19.07.2025",
-        "time": "11:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 19.07.2025",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
         "category": "Sport",
@@ -70,6 +54,22 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 19.07.2025",
+        "time": "10:00",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36263",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 19.07.2025",
+        "time": "11:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Sa, 19.07",
@@ -133,26 +133,6 @@
         "link": "https://rausgegangen.de/en/events/technopaint-by-drinkpaint-2/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TriAXw4IRveVJAazMs07_tp3.png?width=1200&height=900&mode=crop",
         "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 19.07.2025",
-        "time": "12:30",
-        "event": "Film & Strick Cafè: Pretty Woman (@Schloßtheater Münster)",
-        "category": "",
-        "description": "Sa 19. 7. im Schloßtheater - Film & Strick Café, Sommer-Edition: Das unschlagbare romantische Komödienmärchen mit Julia Roberts und Richard Gere. Ticket: 12 € inkl. Eis!",
-        "link": "https://rausgegangen.de/en/events/film-strick-cafe-pretty-woman-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ouTpT4c2TcGiIKS5nK2e_340f14522.webp?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Sat, 19.07.2025",
-        "time": "13:00",
-        "event": "Desire Day & Night w/ Malugi (@Dockland)",
-        "category": "",
-        "description": "Desire 🤝 MünsterBack at the freshly redesigned open-air venue where we already spread our vibes last year. If you remember last summer, you’ll have no doubt — this date is a must.With a lineup that’s as housy as it is high-energy, you’ll be drifting between warm house sounds and fast-paced basslines. We start early in the Day at Dockland and end late in the night at Fusion Club.Bring your biggest smile — this one’s gonna be a day to remember. 🔥Lineup: ☀️⚡ Malugi (Early Playtime) Mischluft Kim Swim Beau Didier Davyboi DJ Frank Robin Tasi Schwesta P Snoritz Dj Autobahn Cali Caracho Delm Adrenalina  Doors: 13:00h - End  Floors: Dockland Openair, Fusion Club",
-        "link": "https://rausgegangen.de/en/events/desire-day-night-w-malugi-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hIOyULbwTSu38fKMVMup_19072025banner.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
     },
     {
         "date": "Sat, 19.07.2025",
@@ -243,6 +223,26 @@
         "link": "https://rausgegangen.de/en/events/zan-x-proper-pull-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jJLsAEHFRix9UhTuLlwg_zanxpp.png?width=1200&height=900&mode=crop",
         "city": "Leipzig"
+    },
+    {
+        "date": "Sat, 19.07.2025",
+        "time": "12:30",
+        "event": "Film & Strick Cafè: Pretty Woman (@Schloßtheater Münster)",
+        "category": "",
+        "description": "Sa 19. 7. im Schloßtheater - Film & Strick Café, Sommer-Edition: Das unschlagbare romantische Komödienmärchen mit Julia Roberts und Richard Gere. Ticket: 12 € inkl. Eis!",
+        "link": "https://rausgegangen.de/en/events/film-strick-cafe-pretty-woman-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ouTpT4c2TcGiIKS5nK2e_340f14522.webp?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Sat, 19.07.2025",
+        "time": "13:00",
+        "event": "Desire Day & Night w/ Malugi (@Dockland)",
+        "category": "",
+        "description": "Desire 🤝 MünsterBack at the freshly redesigned open-air venue where we already spread our vibes last year. If you remember last summer, you’ll have no doubt — this date is a must.With a lineup that’s as housy as it is high-energy, you’ll be drifting between warm house sounds and fast-paced basslines. We start early in the Day at Dockland and end late in the night at Fusion Club.Bring your biggest smile — this one’s gonna be a day to remember. 🔥Lineup: ☀️⚡ Malugi (Early Playtime) Mischluft Kim Swim Beau Didier Davyboi DJ Frank Robin Tasi Schwesta P Snoritz Dj Autobahn Cali Caracho Delm Adrenalina  Doors: 13:00h - End  Floors: Dockland Openair, Fusion Club",
+        "link": "https://rausgegangen.de/en/events/desire-day-night-w-malugi-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hIOyULbwTSu38fKMVMup_19072025banner.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Sat, 19.07.2025",
@@ -589,6 +589,22 @@
         "link": "https://www.bielefeld.jetzt/node/1181556"
     },
     {
+        "date": "Su, 20.07.2025",
+        "time": "19:00",
+        "event": "*TRIBE KENNENLERNABEND*",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Su, 20.07.2025",
+        "time": "09:00",
+        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/uprunningclub/?hl=de",
+        "image_url": null
+    },
+    {
         "date": "So, 20.07.2025",
         "time": "09:00",
         "event": "Yoga(@hochschulsport_bielefeld)",
@@ -611,22 +627,6 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37043",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Su, 20.07.2025",
-        "time": "19:00",
-        "event": "*TRIBE KENNENLERNABEND*",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Su, 20.07.2025",
-        "time": "09:00",
-        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/uprunningclub/?hl=de",
-        "image_url": null
     },
     {
         "date": "So, 20.07",
@@ -996,6 +996,22 @@
     },
     {
         "date": "Mo, 21.07.2025",
+        "time": "20:00",
+        "event": "Pub Quiz (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "Mo, 21.07.2025",
+        "time": "18:00",
+        "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Mo, 21.07.2025",
         "time": "17:00",
         "event": "Volleyball(@hochschulsport_bielefeld)",
         "category": "Sport",
@@ -1035,22 +1051,6 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Mo, 21.07.2025",
-        "time": "20:00",
-        "event": "Pub Quiz (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Mo, 21.07.2025",
-        "time": "18:00",
-        "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
         "date": "Mon, 21.07.2025",
         "time": "19:00",
         "event": "Freche Möwe -  OPEN AIR Stand-Up Comedy im Indra Musikclub (@Indra Musikclub)",
@@ -1078,6 +1078,26 @@
         "description": "+++++ English version see below +++++ROLLER DISCO!Einlass ab 18:00 Roller Dance Lessons ab 20:30 Party ab 21:00 Line up: Rollers HiFiAbendkasse: 9€ Steppen kann der Bär überall - bei uns rollt er wieder!Das SO36 lässt die Tradition der Roller Disco wieder aufleben, diesmal mit neuem Konzept: Mehrmals im Monat findet ab sofort ein entspanntes After-Work-Rollen statt. Bei Funk, Hip-Hop und Rollerboogie können Rollschuh-Cracks und -Neulinge auf dem altehrwürdigen Parkett des SO36 lässig ihre Runden drehen und den Wochenbeginn sportlich ausklingen lassen.Und für all jene, die sich auf 8 Rollen (noch) nicht fühlen wie John Travolta: Bei der Neuauflage der Party steht zu Beginn des Abends auch ein kleiner Rollschuh-Tanzkurs auf dem Programm. JEDE*R BESUCHER*IN FÄHRT AUF EIGENE VERANTWORTUNG UND GEFAHR.DURCH DEN KAUF EINES VVK-TICKETS ERGIBT SICH KEIN ANSPRUCH AUF LEIH-ROLLSCHUHE. DER VORRAT IST BEGRENZT. ES EMPFIEHLT SICH, FRÜH ZU KOMMEN. IHR KÖNNT NATÜRLICH AUCH EIGENE ROLLSCHUHE/INLINESKATES MITBRINGEN. Rollschuh-Verleih 2 € pro 1/2 Stunde (gegen Personalausweis o.ä.) - der Leih-Schuh-Vorrat ist begrenzt, wir stocken aber immer wieder auf. Tanzkurs ist gratis. Wir freuen uns auf euch!FAQ (english below):Wie ist es mit dem Rollschuhverleih und den Größen?DURCH DEN KAUF EINES ONLINE-TICKETS ERGIBT SICH KEIN ANSPRUCH AUF LEIH-ROLLSCHUHE. DER VORRAT IST BEGRENZT. ES EMPFIEHLT SICH, FRÜH ZU KOMMEN.IHR KÖNNT NATÜRLICH AUCH EIGENE ROLLSCHUHE/INLINESKATES MITBRINGEN.ES GIBT DIE GRÖSSEN 35 – 47 / WIR HABEN AUCH EIN PAAR VERSTELLBARE KINDERROLLSCHUHE IN DER GRÖSSE 33 -35Ist es möglich zu erfahren ob es noch Schuhe in meiner Größe gibt, bevor ich Eintritt bezahle?DAS IST LEIDER NICHT MÖGLICH. IN DER REGEL KOMMEN ABER REGELMÄSSIG ROLLSCHUHE WIEDER ZURÜCK UND KÖNNEN DANN DIREKT WIEDER AUSGELIEHEN WERDEN.Kann man als Begleitung auch ohne Rollschuhe ins SO36 und nur zuschauen?DAS IST NATÜRLICH MÖGLICH. ACHTET HIERBEI BITTE DARAUF, DASS IHR NICHT DIE TANZ/FAHRFLÄCHE BETRETET.Dürfen Kinder auch zu der späteren ROLLERDISKO kommen oder nur zur ROLLERKIDZ und wie lange dürfen sie bleiben.IN BEGLEITUNG EINER PERSONENSORGEBERECHTIGTEN ODER ERZIEHUNGSBEAUFTRAGTEN PERSON KÖNNEN KINDER & JUGENDLICHE AUCH LÄNGER BLEIBEN.++++++++++++++++++++++++++++ROLLER SKATE DISCO! doors open 6:00pm beginners' lesson 8:30pm party 9:00pm line up: Rollers HiFibox office: 9€ (course is included)Keep rollin', rollin', rollin' ...Reviving the old-school roller skate disco - with a new concept: several times a month the legendary punk/rock club SO36 opens its doors for a relaxed after work roller skate disco night. With DJs playing some nice Funk, Hip-Hop and Roller Boogie music, skating pros and rookies can go round and round or try some dancing tricks. And for those who don't quite feel like John Travolta on wheels (yet): Every roller skate disco night starts with a beginners' lesson. As a weekday party, doors open early-bird friendly at 8, so getting up early is no excuse! EVERY VISITOR DRIVES AT THEIR OWN RESPONSIBILITY AND RISK. PURCHASING AN ONLINE TICKET DOES NOT ENTITLE YOU TO RENTAL ROLLER SKATES. STOCK IS LIMITED. IT IS RECOMMENDED TO COME EARLY. YOU CAN, OF COURSE, BRING YOUR OWN ROLLER SKATES/INLINE SKATES. skate rental: 2 € per 1/2hour (w/ ID deposit) - our stocks of shoes are limited; we're constantly increasing them, but you're welcome to bring your own. Come by and have a try!FAQ:What about skate rentals and sizing?PURCHASING AN ONLINE TICKET DOES NOT ENTITLE YOU TO RENTAL ROLLER SKATES. STOCK IS LIMITED. IT IS RECOMMENDED TO COME EARLY.YOU CAN, OF COURSE, BRING YOUR OWN ROLLERSKATES/INLINE SKATES.THERE ARE SIZES 35 - 47 / WE ALSO HAVE A PAIR OF ADJUSTABLE KIDS ROLLERSKATES IN SIZE 33 -35Is it possible to find out if there are still shoes in my size before I pay the entrance fee?UNFORTUNATELY THAT IS NOT POSSIBLE. USUALLY, ROLLER SKATES COME BACK REGULARLY AND CAN BE BORROWED AGAIN.Can you go to SO36/ROLLERDISKO without rollerskates and just watch?OF COURSE IT IS POSSIBLE. PLEASE MAKE SURE THAT YOU DO NOT ENTER THE DANCE/RIDING AREA.Can children also come to the later ROLLERDISKO or only to the ROLLERKIDZ and how long can they stay.CHILDREN AND ADOLESCENTS CAN STAY LONGER ACCOMPANIED BY A GUARDIAN.",
         "link": "https://rausgegangen.de/en/events/roller-disco-58/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/uBQCXAcSQ4WmmcVIpU7Z_Rollerdisko_ynuD0YK.png?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Mon, 21.07.2025",
+        "time": "18:00",
+        "event": "Sauerteig Masterclass - Brot Backkurs für jedes Level (@Teig Talente  - Backkurse für jedes Level)",
+        "category": "",
+        "description": "Egal ob Anfänger:in oder Back Ultra: Hier lernst du, wie du dein eigenes köstliches Sauerteigbrot zauberst. Von den besten Zutaten bis zur perfekten Kruste – alles ist inklusive, sogar Snacks und Getränke!",
+        "link": "https://rausgegangen.de/en/events/sauerteig-masterclass-brot-backkurs-fur-jedes-level-27/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/1kwtln4MRbKLKgkmpVRC_pexels-flo-maderebner-745988.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Mon, 21.07.2025",
+        "time": "19:00",
+        "event": "EVIDENCE (DILATED PEOPLES) | Berlin (@Frannz Club)",
+        "category": "",
+        "description": "HHV.de & Palace Lounge präsentierenEVIDENCE \"Europatour 2025\"21.07.2025 Frannz Club, Berlin Einlass: 19:00 // Start: 20:00 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ VVK via Eventim https://bit.ly/3Ze8cBg ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ instagram.com/evidence/ EVIDENCEAs a solo artist and one-third of Dilated Peoples, Evidence has established himself as one of hip-hop’s most accomplished rappers and producers.After linking up with the likeminded Rakaa in the mid-90s, he co-founded the seminal group Dilated Peoples, later joined by DJ Babu. The trio quickly became a staple on the global hip-hop circuit, bringing their raw, sample-heavy sound to sold-out shows.As a solo artist he's also collaborated with the likes of Aloe Blacc, Westside Gunn, Raekwon, The Alchemist and DJ Premier, and has scored numerous Top 10 Billboard chart hits in the process.This Juli, after 7 long years, we’re honoured to welcome Evidence back to the stage at Frannz club for his  Berlin show  Bio Link: https://biggerpicture.ffm.to/recordings Website: https://mrevidence.com/   Store: https://www.biggerpicturerecordings.com  Facebook: https://www.facebook.com/misterevidence/    Twitter: https://twitter.com/evidence    Spotify: https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O  Apple Music: https://music.apple.com/us/artist/evidence/388035837  YouTube: https://www.youtube.com/user/yesimevidence  Amazon Music: https://music.amazon.com/artists/B000QJIA0M/evidence  YouTube Music: https://music.youtube.com/channel/UCx6rDjSKJDNj13CefDRYdwA Soundcloud: https://soundcloud.com/evidence-official  Bandcamp: https://misterevidence.bandcamp.com/  Tidal: https://tidal.com/browse/artist/3521123  Deezer: https://www.deezer.com/us/artist/103277  Pandora: https://www.pandora.com/artist/evidence/ARbv49jzw7v426X BIGGER PICTURE RECORDINGS Bio Link: https://biggerpicture.ffm.to/recordings Website: https://biggerpicturerecordings.com/ Instagram: https://www.instagram.com/biggerpicturerecordings2021/ YouTube: https://www.youtube.com/@biggerpicturerecordings",
+        "link": "https://rausgegangen.de/en/events/evidence-dilated-peoples-berlin-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/QVtkz5JERIiJKzPF388J_fbheader1200x675ber.jpg?width=1200&height=900&mode=crop",
         "city": "Berlin"
     },
     {
@@ -1111,6 +1131,22 @@
         "city": "Köln"
     },
     {
+        "date": "Tu, 22.07.2025",
+        "time": "18:00",
+        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Tu, 22.07.2025",
+        "time": "07:00",
+        "event": "Wochenmarkt(@Alter Markt)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
         "date": "Di, 22.07.2025",
         "time": "18:00",
         "event": "Fitnesstraining(@hochschulsport_bielefeld)",
@@ -1141,22 +1177,6 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35416",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Tu, 22.07.2025",
-        "time": "18:00",
-        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Tu, 22.07.2025",
-        "time": "07:00",
-        "event": "Wochenmarkt(@Alter Markt)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Tue, 22.07.2025",
@@ -1267,6 +1287,46 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250723_WyldWednesday_4zu5.jpg"
     },
     {
+        "date": "We, 23.07.2025",
+        "time": "21:00",
+        "event": "Karaoke (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "We, 23.07.2025",
+        "time": "18:00",
+        "event": "*TRIBE BOULDERN (@Kletterhalle Senne)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "We, 23.07.2025",
+        "time": "07:00",
+        "event": "Wochenmarkt(@Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "We, 23.07.2025",
+        "time": "20:00",
+        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
+        "image_url": null
+    },
+    {
+        "date": "We, 23.07.2025",
+        "time": "20:00",
+        "event": "DIES DAS COMEDY - OPEN MIC (@diesdascomedy)",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/diesdascomedy/",
+        "image_url": null
+    },
+    {
         "date": "Mi, 23.07.2025",
         "time": "10:00",
         "event": "Yoga(@hochschulsport_bielefeld)",
@@ -1313,46 +1373,6 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35504",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "We, 23.07.2025",
-        "time": "21:00",
-        "event": "Karaoke (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "We, 23.07.2025",
-        "time": "18:00",
-        "event": "*TRIBE BOULDERN (@Kletterhalle Senne)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "We, 23.07.2025",
-        "time": "07:00",
-        "event": "Wochenmarkt(@Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "We, 23.07.2025",
-        "time": "20:00",
-        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
-        "image_url": null
-    },
-    {
-        "date": "We, 23.07.2025",
-        "time": "20:00",
-        "event": "DIES DAS COMEDY - OPEN MIC (@diesdascomedy)",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/diesdascomedy/",
-        "image_url": null
     },
     {
         "date": "Wed, 23.07.2025",
@@ -1417,6 +1437,16 @@
     {
         "date": "Wed, 23.07.2025",
         "time": "20:00",
+        "event": "Hello Gorgeous - Gamenight (@Echtzeit Grill & Thrill)",
+        "category": "",
+        "description": "Neues Jahr, neue Leute kennenlernen? Das kannst du bei Hello Gorgeous! Der Gameshow zum Kennenlernen im Echtzeit Grill & Thrill. Sicher dir jetzt dein Ticket für den Abend 🎟️",
+        "link": "https://rausgegangen.de/en/events/hello-gorgeous-gamenight-kopie-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/CMp0sg77R0ixGViNgasw_istockphoto-505799448-612x612.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Wed, 23.07.2025",
+        "time": "20:00",
         "event": "Modern Love Köln - 80s-Frühparty // New Wave, Synth & Pop mit eavo im Tsunami Club (@Tsunami Club)",
         "category": "",
         "description": "🪩 Bei der Frühparty (20:00-23:00) erwarten euch 80s-Smasher aus Synth, New Wave, Italo und Pop, aber natürlich auch der ein oder andere Geheimtipp.🎉 Außerdem: Findet ihr die immergleichen Hits und Reihenfolgen auch langweilig? Dann freut euch bei der Modern Love auf Abwechslung, Song-Überraschungen und viele eurer Musikwünsche, schön im Flow aufgelegt und mit passenden Übergängen.😻 Ach so, mein Name ist eavo. Ich bin schon seit vielen Jahren in den schönsten Clubs in ganz Deutschland unterwegs.  Ein Gast hat mich “eine DJ–gewordene Symbiose aus Nerd und Partymaschine“ genannt. Ob das stimmt? Mir hat's jedenfalls gefallen und eigentlich beschreibt es auch ganz gut, wen ich mit meinen Partys am liebsten erreiche.💃🏼 Wenn ihr mitmacht, wird's ne überragende Party, klebriger Fußboden und durchtanzte Schuhe inklusive.Kommt vorbei! Jeden vierten Mittwoch im Monat. Der Eintritt beträgt schlappe 4€.Modern Love klingt wie: A Flock of Seagulls – a-ha – ABC – Alphaville – The B-52’s – The Bangles – Pat Benatar – Berlin – Blondie – B-Movie – Boytronic – Bronski Beat – David Bowie – Kate Bush – Camouflage – Anne Clark – The Communards – Culture Club – The Cure – Dead or Alive – Depeche Mode – Desireless – Duran Duran – Erasure – Eurythmics – Harold Faltermeyer – Falco – Frankie Goes To Hollywood – Freeez – Grauzone – Heaven 17 – Don Henley – Billy Idol – Howard Jones – The Housemartins – The Human League – Ideal – Indochine – INXS – Japan –Joy Division – Nik Kershaw – Cyndi Lauper – Les Immer Essen – Level 42 – Les Rita Mitsouko – Madness – Madonna – Men At Work – Men Without Hats – Miami Sound Machine - Midnight Oil – New Order – OMD – Ryan Paris – Pet Shop Boys – Pixies – Queen – Rainbirds – Righeira – Real Life – Rheingold – Les Rita Mitsouko – Michael Sembello – Simple Minds – Siouxsie And The Banshees – The Smiths – Soft Cell – Spandau Ballet – Talk Talk – Talking Heads – Tears for Fears – Trans X – U2 – Ultravox – Visage – Kim Wilde – Yazoo – YelloMehr Infos inkl. Spotify-Listen auf www.eavo.de/modernlove/ www.facebook.com/neinmaschine www.instagram.com/__eavo__",
@@ -1459,30 +1489,6 @@
         "image_url": null
     },
     {
-        "date": "Do, 24.07.2025",
-        "time": "16:30",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 24.07.2025",
-        "time": "17:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 24.07.2025",
-        "time": "18:30",
-        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35659",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
         "date": "Th, 24.07.2025",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
@@ -1521,6 +1527,30 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Do, 24.07.2025",
+        "time": "16:30",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 24.07.2025",
+        "time": "17:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 24.07.2025",
+        "time": "18:30",
+        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35659",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Thu, 24.07.2025",
@@ -1598,30 +1628,6 @@
     },
     {
         "date": "Fr, 25.07.2025",
-        "time": "16:00",
-        "event": "Volleyball(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35417",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Fr, 25.07.2025",
-        "time": "18:00",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35506",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Fr, 25.07.2025",
-        "time": "18:30",
-        "event": "Laufen(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35520",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Fr, 25.07.2025",
         "time": "19:00",
         "event": "*TRIBE CREATIVE CIRCLES*",
         "category": "Kreativität",
@@ -1651,6 +1657,30 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 25.07.2025",
+        "time": "16:00",
+        "event": "Volleyball(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35417",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 25.07.2025",
+        "time": "18:00",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35506",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 25.07.2025",
+        "time": "18:30",
+        "event": "Laufen(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35520",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Fr, 25.07",
@@ -1752,22 +1782,6 @@
     },
     {
         "date": "Sa, 26.07.2025",
-        "time": "10:00",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36263",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 26.07.2025",
-        "time": "11:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 26.07.2025",
         "time": "14:00",
         "event": "*TRIBE WANDERSAMSTAG*",
         "category": "Sport",
@@ -1805,6 +1819,22 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 26.07.2025",
+        "time": "10:00",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36263",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 26.07.2025",
+        "time": "11:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Sa, 26.07",
@@ -1892,6 +1922,22 @@
         "link": "https://www.bielefeld.jetzt/node/1130587"
     },
     {
+        "date": "Su, 27.07.2025",
+        "time": "19:00",
+        "event": "*TRIBE KENNENLERNABEND*",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Su, 27.07.2025",
+        "time": "09:00",
+        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/uprunningclub/?hl=de",
+        "image_url": null
+    },
+    {
         "date": "So, 27.07.2025",
         "time": "09:00",
         "event": "Yoga(@hochschulsport_bielefeld)",
@@ -1916,22 +1962,6 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Su, 27.07.2025",
-        "time": "19:00",
-        "event": "*TRIBE KENNENLERNABEND*",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Su, 27.07.2025",
-        "time": "09:00",
-        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/uprunningclub/?hl=de",
-        "image_url": null
-    },
-    {
         "date": "Sun, 27.07.2025",
         "time": "15:00",
         "event": "HourAfterHour - Ibiza Beachparty - David K. uvw. (@Hacienda Cospuden)",
@@ -1950,6 +1980,22 @@
         "link": "https://rausgegangen.de/en/events/open-flair-sommerbuhne-stolz-und-vorurteil-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/R570TbmTKybyaoyLy7FA_buddetheater-eumenidenstolz-und-vorurteil.png?width=1200&height=900&mode=crop",
         "city": "Leipzig"
+    },
+    {
+        "date": "Mo, 28.07.2025",
+        "time": "20:00",
+        "event": "Pub Quiz (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "Mo, 28.07.2025",
+        "time": "18:00",
+        "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
     },
     {
         "date": "Mo, 28.07.2025",
@@ -1990,22 +2036,6 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35650",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Mo, 28.07.2025",
-        "time": "20:00",
-        "event": "Pub Quiz (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Mo, 28.07.2025",
-        "time": "18:00",
-        "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
     },
     {
         "date": "Mon, 28.07.2025",
