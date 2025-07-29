@@ -59,6 +59,36 @@
     },
     {
         "date": "Tue, 29.07.2025",
+        "time": "19:00",
+        "event": "Come Dogether: Dinner & Connect (@Pasta Lounge)",
+        "category": "",
+        "description": "Gute Gespräche und Pasta – die beste Rezeptur für Freundschaft, die von innen wärmt. 🍝✨",
+        "link": "https://rausgegangen.de/en/events/come-dogether-dinner-connect-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/NAKw8E9PRmq0zUljVmdT_walk-19.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Tue, 29.07.2025",
+        "time": "20:00",
+        "event": "Pub Quiz (@The Londoner  - Britischer Pub)",
+        "category": "",
+        "description": "In einzigartiger Atmosphäre quizzen und dazu ein paar Bier? Geht und gibt's in Dortmund - solltest du mal ausprobieren!",
+        "link": "https://rausgegangen.de/en/events/pub-quiz-481/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/yHrx9uXVRC0DWHp0g6pm_Taps.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Tue, 29.07.2025",
+        "time": "21:30",
+        "event": "Like A Complete Unknown (@PSD Bank Sommerkino)",
+        "category": "",
+        "description": "Sommer. Open-Air-Kino. Lieblingsmenschen. That’s the vibe. ✨ Vom 17. Juli bis 24. August heißt’s: Film ab im Westfalenpark beim PSD Bank Sommerkino! 🎸 SPOTLIGHT ON: Like a Complete Unknown Die 1960er, Musik, Selbstfindung und Kontroverse: wir dürfen einen Einblick in das Leben von Bob Dylan erhaschen. Musik-Fans dürfen dieses Ereignis auf keinen Fall verpassen! 😎 (PS. Timothée Chalamet Fans übrigens auch nicht! 😍) ⬇️ schau mal in den Trailer rein!",
+        "link": "https://rausgegangen.de/en/events/like-a-complete-unknown-85/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/xUD5HaYSFG5d54fRZRMs_like-a-complete-unknown-16x9.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Tue, 29.07.2025",
         "time": "17:00",
         "event": "Kundgebung: Asylrecht ist Menschenrecht - Solidarität statt Hetze (@Alte Börse, Naschmarkt Leipzig)",
         "category": "",
@@ -116,36 +146,6 @@
         "link": "https://rausgegangen.de/en/events/robot-dreams-14/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/di6XgKbzQA6ApJCnAD4p_robot-dreams.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Tue, 29.07.2025",
-        "time": "19:00",
-        "event": "Come Dogether: Dinner & Connect (@Pasta Lounge)",
-        "category": "",
-        "description": "Gute Gespräche und Pasta – die beste Rezeptur für Freundschaft, die von innen wärmt. 🍝✨",
-        "link": "https://rausgegangen.de/en/events/come-dogether-dinner-connect-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/NAKw8E9PRmq0zUljVmdT_walk-19.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Tue, 29.07.2025",
-        "time": "20:00",
-        "event": "Pub Quiz (@The Londoner  - Britischer Pub)",
-        "category": "",
-        "description": "In einzigartiger Atmosphäre quizzen und dazu ein paar Bier? Geht und gibt's in Dortmund - solltest du mal ausprobieren!",
-        "link": "https://rausgegangen.de/en/events/pub-quiz-481/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/yHrx9uXVRC0DWHp0g6pm_Taps.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Tue, 29.07.2025",
-        "time": "21:30",
-        "event": "Like A Complete Unknown (@PSD Bank Sommerkino)",
-        "category": "",
-        "description": "Sommer. Open-Air-Kino. Lieblingsmenschen. That’s the vibe. ✨ Vom 17. Juli bis 24. August heißt’s: Film ab im Westfalenpark beim PSD Bank Sommerkino! 🎸 SPOTLIGHT ON: Like a Complete Unknown Die 1960er, Musik, Selbstfindung und Kontroverse: wir dürfen einen Einblick in das Leben von Bob Dylan erhaschen. Musik-Fans dürfen dieses Ereignis auf keinen Fall verpassen! 😎 (PS. Timothée Chalamet Fans übrigens auch nicht! 😍) ⬇️ schau mal in den Trailer rein!",
-        "link": "https://rausgegangen.de/en/events/like-a-complete-unknown-85/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/xUD5HaYSFG5d54fRZRMs_like-a-complete-unknown-16x9.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
     },
     {
         "date": "Tue, 29.07.2025",
@@ -902,20 +902,20 @@
         "link": "https://www.bielefeld.jetzt/node/1115633"
     },
     {
-        "date": "Fr, 01.08",
-        "time": "23:00",
-        "event": "FR • FRIDAYS FINEST (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-fridays-finest/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250801_FridaysFinest_4zu5.jpg"
-    },
-    {
         "date": "Fri, 01.08",
         "time": "23:00",
         "event": "Klub Master! (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/klub-master/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_01_0825_Feed.jpg"
+    },
+    {
+        "date": "Fr, 01.08",
+        "time": "23:00",
+        "event": "FR • FRIDAYS FINEST (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-fridays-finest/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250801_FridaysFinest_4zu5.jpg"
     },
     {
         "date": "Fr, 01.08.2025",
@@ -1351,20 +1351,20 @@
         "link": "https://www.bielefeld.jetzt/node/1130589"
     },
     {
-        "date": "Sa, 02.08",
-        "time": "23:00",
-        "event": "SA • GIRLS NIGHT OUT • RAUM2 : BOOTY BOUNCE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-girls-night-out-raum2-booty-bounce-8/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250802_GirlsNightOut_4zu5.jpg"
-    },
-    {
         "date": "Sat, 02.08",
         "time": "23:00",
         "event": "STEREOLOVE (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/stereolove/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_02_0825_Feed.jpg"
+    },
+    {
+        "date": "Sa, 02.08",
+        "time": "23:00",
+        "event": "SA • GIRLS NIGHT OUT • RAUM2 : BOOTY BOUNCE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-girls-night-out-raum2-booty-bounce-8/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250802_GirlsNightOut_4zu5.jpg"
     },
     {
         "date": "Sa, 02.08.2025",
@@ -1423,6 +1423,16 @@
     },
     {
         "date": "Sat, 02.08.2025",
+        "time": "23:00",
+        "event": "SWEET DREAMS - My 80s Mixtape (@Großmarktschänke)",
+        "category": "",
+        "description": "Aloha Ihr Lieben! Wir drehen die Zeit zurück – am Samstag, den 02.08. tauchen wir gemeinsam in die glitzernde Welt der 80er Jahre ein. DJ Carsten Helmich & Friends, der Mann hinter dem legendären Juicy Beats Festival und selbst passionierter Dauertänzer und Clubgänger der 80er, bringt euch die besten Vibes dieser ikonischen Ära.   Zieh dir dein schillerndstes Outfit an, schnapp dir deine Lieblingsmenschen und lass uns zu Klassikern abgehen, welche die schönsten Erinnerungen wecken. Ob Pop, Disco, RnB oder Hip Hop, das beste aus den 80ern, die für Herzklopfen sorgen - eine Nacht voller Gänsehaut Momente – just like the good old days! Put on your finest Dancin`Shoes & dance! 💃🕺🪩Eintritt bis 22:30 Uhr: € 6,00 - danach € 12,00 Ermäßigter Eintritt: € 8,00 | Zutritt ab 18",
+        "link": "https://rausgegangen.de/en/events/sweet-dreams-my-80s-mixtape-13/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8sEW60xSSarJFybfP3iN_kopie-von-sweet-dreamsbanner.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 02.08.2025",
         "time": "10:00",
         "event": "Leipzig Open (@Leipziger Tennisclub 1990 e.V.)",
         "category": "",
@@ -1438,7 +1448,7 @@
         "category": "",
         "description": "KARLI COMEDY - Open Mic - hier entsteht Comedy!  Samstags erwartet euch ein Mix aus 4-6 Comedians auf der Bühne, die euch 2 Stunden zum Lachen bringen. Es werden Nummern perfektioniert, altbewährtes gespielt und auch ganz neue Ideen und Gags erblicken hier das erste Mal die Bühne. Ein wilder Mix, der vor allem eines sein wird: lustig! Denn im Vordergrund steht immer Spaß, Humor und Gute Laune :) Schnapp dir dein Ticket, gönn dir ein Getränk von der Bar und lach in den Abend mit Karli Comedy   💰VVK 10€ zzgl. Gebühren Abendkasse 15 €🕗 Show 2 Stunden mit Pause Einlass eine Stunde vor Showbeginn   🍹Kommt früh, sichert euch die besten Plätze und genießt schon mal ein Getränke an der Bar in unserem Loungebereich.  Wo?: Karli Comedy Club (im Zentrum) Peterskirchhhof 1 04109 Leipzig  Freut euch auf einen lustigen und gemütlichen Abend bei KARLI COMEDY :) Mehr Informationen zu Karli Comedy und allen Shows gibt es auf: www.karlicomedy.de Instagram @karlicomedyclub Facebook \"Karli Comedy\"_______________________________Wir weisen darauf hin, dass während der Veranstaltung Foto- und Videoaufnahmen gemacht werden, die möglicherweise öffentlich geteilt werden.",
         "link": "https://rausgegangen.de/en/events/karli-comedy-open-mic-stand-up-comedy-714/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zmQm0g1iRSOeODfi0p2E_karli-comedy-club-open-mic-comedy-show-stand-up-leipzig-nacht-cafe-zentrum-samstag-show.jpg?width=1200&height=900&mode=crop",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Y2lgXUn2Qq6VeOUtMlCa_karli-comedy-special-open-mic-show.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
     },
     {
@@ -1490,16 +1500,6 @@
         "link": "https://rausgegangen.de/en/events/remember-back-80s-edition-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/US7kYzJTdubWoJLeZfnw_urbaniterb90er1008x567px.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Sat, 02.08.2025",
-        "time": "23:00",
-        "event": "SWEET DREAMS - My 80s Mixtape (@Großmarktschänke)",
-        "category": "",
-        "description": "Aloha Ihr Lieben! Wir drehen die Zeit zurück – am Samstag, den 02.08. tauchen wir gemeinsam in die glitzernde Welt der 80er Jahre ein. DJ Carsten Helmich & Friends, der Mann hinter dem legendären Juicy Beats Festival und selbst passionierter Dauertänzer und Clubgänger der 80er, bringt euch die besten Vibes dieser ikonischen Ära.   Zieh dir dein schillerndstes Outfit an, schnapp dir deine Lieblingsmenschen und lass uns zu Klassikern abgehen, welche die schönsten Erinnerungen wecken. Ob Pop, Disco, RnB oder Hip Hop, das beste aus den 80ern, die für Herzklopfen sorgen - eine Nacht voller Gänsehaut Momente – just like the good old days! Put on your finest Dancin`Shoes & dance! 💃🕺🪩Eintritt bis 22:30 Uhr: € 6,00 - danach € 12,00 Ermäßigter Eintritt: € 8,00 | Zutritt ab 18",
-        "link": "https://rausgegangen.de/en/events/sweet-dreams-my-80s-mixtape-13/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8sEW60xSSarJFybfP3iN_kopie-von-sweet-dreamsbanner.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
     },
     {
         "date": "Sat, 02.08.2025",
@@ -1933,6 +1933,16 @@
     {
         "date": "Thu, 07.08.2025",
         "time": "19:00",
+        "event": "HOT 8 BRASS BAND LIVE 2025 (@JunkYard Dortmund)",
+        "category": "",
+        "description": "HOT 8 BRASS BAND LIVE 2025Drawing on the traditional jazz heritage of their hometown of New Orleans, the Hot 8 Brass Band are renowned for including elements of funk, hip hop, rap, and its local variation, “bounce” in their music. The collective earned a win in the 64th Annual Grammy Awards 2022 for their feature on John Batiste’s ‘Album of The Year', following the nomination of their ‘The Life & Times Of...’ LP for ‘Best Regional Roots Album’ in 2013.Transcending genres and trends, Hot 8 have performed and collaborated with the likes of Jon Batiste, Blind Boys of Alabama, Basement Jaxx and Alice Russell, and provided live support for Mos Def, Lauryn Hill and Mary J Blige. Since forming they have established a decade-long affiliation with actor/BBC 6Music DJ Craig Charles, among other tastemakers, DJs and journalists worldwide. After a festive appearance Live at Maida Vale for Lauren Laverne (BBC 6 Music), the Hot 8 Brass Band performed for Jools Holland's annual Hootenanny on BBC Two to welcome in 2019. Later that year, after taking to the stage at the BRIT awards in February, Hot 8 Brass Band were invited on the European leg of George Ezra’s tour.LONG BIOThe New Orleans-based Hot 8 Brass Band draw on the traditional jazz herHOT 8 BRASS BAND BIO 2024SHORT BIO Drawing on the traditional jazz heritage of their hometown of New Orleans, the Hot 8 Brass Band are renowned for including elements of funk, hip hop, rap, and its local variation, “bounce” in their music. The collective earned a win in the 64th Annual Grammy Awards 2022 for their feature on John Batiste’s ‘Album of The Year', following the nomination of their ‘The Life & Times Of...’ LP for ‘Best Regional Roots Album’ in 2013.Transcending genres and trends, Hot 8 have performed and collaborated with the likes of Jon Batiste, Blind Boys of Alabama, Basement Jaxx and Alice Russell, and provided live support for Mos Def, Lauryn Hill and Mary J Blige. Since forming they have established a decade-long affiliation with actor/BBC 6Music DJ Craig Charles, among other tastemakers, DJs and journalists worldwide. After a festive appearance Live at Maida Vale for Lauren Laverne (BBC 6 Music), the Hot 8 Brass Band performed for Jools Holland's annual Hootenanny on BBC Two to welcome in 2019. Later that year, after taking to the stage at the BRIT awards in February, Hot 8 Brass Band were invited on the European leg of George Ezra’s tour.",
+        "link": "https://rausgegangen.de/en/events/hot-8-brass-band-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/txe3b8w0TKJJfC4ZlYCy_lliezj3a.jpeg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Thu, 07.08.2025",
+        "time": "19:00",
         "event": "Rivers of Nihil (@Naumanns Tanzlokal)",
         "category": "",
         "description": "RIVERS OF NIHIL haben noch nie in eine Schublade gepasst, aber mit Where Owls Know My Name aus dem Jahr 2018 haben sie alle Etiketten, die ihnen angeheftet wurden, hinter sich gelassen. Als sie 2021 mit The Work zurückkehrten, stießen sie weiter in neues Territorium vor und stellten einmal mehr alle Erwartungen der Fans auf den Kopf.Und nun, mit einem neuen Album, das 2025 erscheinen soll, und einer Reihe von Singles, die sie in den letzten anderthalb Jahren veröffentlicht haben, hat die Band erneut die Grenze dessen, wie weit sie auf der Suche nach neuem Klangterrain zu gehen bereit ist, gesprengt. Wir sind gespannt auf alles was da kommt und freuen uns, dass sie im Sommer schon zu uns kommen.",
@@ -1952,16 +1962,6 @@
     },
     {
         "date": "Thu, 07.08.2025",
-        "time": "19:00",
-        "event": "HOT 8 BRASS BAND LIVE 2025 (@JunkYard Dortmund)",
-        "category": "",
-        "description": "HOT 8 BRASS BAND LIVE 2025Drawing on the traditional jazz heritage of their hometown of New Orleans, the Hot 8 Brass Band are renowned for including elements of funk, hip hop, rap, and its local variation, “bounce” in their music. The collective earned a win in the 64th Annual Grammy Awards 2022 for their feature on John Batiste’s ‘Album of The Year', following the nomination of their ‘The Life & Times Of...’ LP for ‘Best Regional Roots Album’ in 2013.Transcending genres and trends, Hot 8 have performed and collaborated with the likes of Jon Batiste, Blind Boys of Alabama, Basement Jaxx and Alice Russell, and provided live support for Mos Def, Lauryn Hill and Mary J Blige. Since forming they have established a decade-long affiliation with actor/BBC 6Music DJ Craig Charles, among other tastemakers, DJs and journalists worldwide. After a festive appearance Live at Maida Vale for Lauren Laverne (BBC 6 Music), the Hot 8 Brass Band performed for Jools Holland's annual Hootenanny on BBC Two to welcome in 2019. Later that year, after taking to the stage at the BRIT awards in February, Hot 8 Brass Band were invited on the European leg of George Ezra’s tour.LONG BIOThe New Orleans-based Hot 8 Brass Band draw on the traditional jazz herHOT 8 BRASS BAND BIO 2024SHORT BIO Drawing on the traditional jazz heritage of their hometown of New Orleans, the Hot 8 Brass Band are renowned for including elements of funk, hip hop, rap, and its local variation, “bounce” in their music. The collective earned a win in the 64th Annual Grammy Awards 2022 for their feature on John Batiste’s ‘Album of The Year', following the nomination of their ‘The Life & Times Of...’ LP for ‘Best Regional Roots Album’ in 2013.Transcending genres and trends, Hot 8 have performed and collaborated with the likes of Jon Batiste, Blind Boys of Alabama, Basement Jaxx and Alice Russell, and provided live support for Mos Def, Lauryn Hill and Mary J Blige. Since forming they have established a decade-long affiliation with actor/BBC 6Music DJ Craig Charles, among other tastemakers, DJs and journalists worldwide. After a festive appearance Live at Maida Vale for Lauren Laverne (BBC 6 Music), the Hot 8 Brass Band performed for Jools Holland's annual Hootenanny on BBC Two to welcome in 2019. Later that year, after taking to the stage at the BRIT awards in February, Hot 8 Brass Band were invited on the European leg of George Ezra’s tour.",
-        "link": "https://rausgegangen.de/en/events/hot-8-brass-band-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/txe3b8w0TKJJfC4ZlYCy_lliezj3a.jpeg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Thu, 07.08.2025",
         "time": "18:30",
         "event": "Greyhound George (@Klosterplatz)",
         "category": "Abendmarkt 2025",
@@ -1970,20 +1970,20 @@
         "link": "https://www.bielefeld.jetzt/node/1164256"
     },
     {
-        "date": "Fr, 08.08",
-        "time": "23:00",
-        "event": "FR • TURBO TRASH (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-turbo-trash-raum2-booty-bounce-3/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250808_Turbotrash_4zu5.jpg"
-    },
-    {
         "date": "Fri, 08.08",
         "time": "23:00",
         "event": "Studi Pop! (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/studi-pop/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_08_0825_Feed.jpg"
+    },
+    {
+        "date": "Fr, 08.08",
+        "time": "23:00",
+        "event": "FR • TURBO TRASH (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-turbo-trash-raum2-booty-bounce-3/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250808_Turbotrash_4zu5.jpg"
     },
     {
         "date": "Fr, 08.08.2025",
@@ -2053,20 +2053,20 @@
         "link": "https://www.bielefeld.jetzt/node/1130593"
     },
     {
-        "date": "Sa, 09.08",
-        "time": "23:00",
-        "event": "SA • CAFE SUMMER NIGHTS x TEQUILA NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-x-tequila-night-3/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250809_TequilaParty_4zu5.jpg"
-    },
-    {
         "date": "Sat, 09.08",
         "time": "23:00",
         "event": "STEREOLOVE (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/stereolove-2/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_09_0825_Feed.jpg"
+    },
+    {
+        "date": "Sa, 09.08",
+        "time": "23:00",
+        "event": "SA • CAFE SUMMER NIGHTS x TEQUILA NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-x-tequila-night-3/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250809_TequilaParty_4zu5.jpg"
     },
     {
         "date": "Sa, 09.08.2025",
@@ -2102,16 +2102,6 @@
     },
     {
         "date": "Sat, 09.08.2025",
-        "time": "20:00",
-        "event": "The Gardener & The Tree (@Parkbühne GeyserHaus)",
-        "category": "",
-        "description": "Nach ihrer SILVER LINING Europa-Tour und mit einer frisch-veröffentlichen EP im Gepäck ziehen The Gardener & The Tree wieder los auf Tour. Ein Fest, das man sich jedenfalls nicht entgehen lassen sollte: The Gardener & The Tree sorgen auf ihren Shows für ein unzertrennliches Miteinander – das Publikum wird Teil der Musik, gibt sich dem Rhythmus der schallenden Trommelschläge hin, tanzt zu den unverkennbaren Folk-Pop-Schnitten und schwelgt in der zuckersüßen Melancholie der autobiografischen Balladen mit der Band mit. Die unverkennbare Stimme von Manuel Felder trifft dabei mitten ins Herz, begeistert Menschen aller Generationen und sorgt für ein unvergessliches Live-Erlebnis, welches noch Wochen nachhallt. Die SILVER LINING Tour bringt eine bunte Setlist an bekannten Ohrenschmeichlern wie etwa ‚Postcards‘, ‚Wild Horses‘ oder ‚Mama’s Guitar‘ sowie frisch-gebackenen Tracks, die dem roten Faden der Folk-DNA treu bleiben und doch neue Einflüsse auf inspirierende Art & Weise spürbar machen. Das neue Material macht Lust auf mehr, setzt knallende Akzente und funkelt in den Reihen des bestehenden Repertoires mit. Mit SILVER LINING eröffnen sie ein Kapitel voller Hoffnung, Leidenschaft und dem Bedürfnis, ungehörte Melodien auf die Bühnen zu bringen.Einlaß 18:30 Uhr | Beginn 20:00 Uhr",
-        "link": "https://rausgegangen.de/en/events/the-gardener-the-tree-13/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/QLuD9iN9RL6aCSdSblUE_the-gardener-the-tree-creditleistungsfotografiebildgroe-andern.jpg?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
-    },
-    {
-        "date": "Sat, 09.08.2025",
         "time": "17:00",
         "event": "transitory monument (@Hansaplatz Dortmund)",
         "category": "",
@@ -2139,6 +2129,16 @@
         "link": "https://rausgegangen.de/en/events/nice-up-135-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/THT6WRsETGivUbSUvVuN_nice-upbeitragneu-1920-x-1080-px.jpg?width=1200&height=900&mode=crop",
         "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 09.08.2025",
+        "time": "20:00",
+        "event": "The Gardener & The Tree (@Parkbühne GeyserHaus)",
+        "category": "",
+        "description": "Nach ihrer SILVER LINING Europa-Tour und mit einer frisch-veröffentlichen EP im Gepäck ziehen The Gardener & The Tree wieder los auf Tour. Ein Fest, das man sich jedenfalls nicht entgehen lassen sollte: The Gardener & The Tree sorgen auf ihren Shows für ein unzertrennliches Miteinander – das Publikum wird Teil der Musik, gibt sich dem Rhythmus der schallenden Trommelschläge hin, tanzt zu den unverkennbaren Folk-Pop-Schnitten und schwelgt in der zuckersüßen Melancholie der autobiografischen Balladen mit der Band mit. Die unverkennbare Stimme von Manuel Felder trifft dabei mitten ins Herz, begeistert Menschen aller Generationen und sorgt für ein unvergessliches Live-Erlebnis, welches noch Wochen nachhallt. Die SILVER LINING Tour bringt eine bunte Setlist an bekannten Ohrenschmeichlern wie etwa ‚Postcards‘, ‚Wild Horses‘ oder ‚Mama’s Guitar‘ sowie frisch-gebackenen Tracks, die dem roten Faden der Folk-DNA treu bleiben und doch neue Einflüsse auf inspirierende Art & Weise spürbar machen. Das neue Material macht Lust auf mehr, setzt knallende Akzente und funkelt in den Reihen des bestehenden Repertoires mit. Mit SILVER LINING eröffnen sie ein Kapitel voller Hoffnung, Leidenschaft und dem Bedürfnis, ungehörte Melodien auf die Bühnen zu bringen.Einlaß 18:30 Uhr | Beginn 20:00 Uhr",
+        "link": "https://rausgegangen.de/en/events/the-gardener-the-tree-13/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/QLuD9iN9RL6aCSdSblUE_the-gardener-the-tree-creditleistungsfotografiebildgroe-andern.jpg?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
     },
     {
         "date": "Sat, 09.08.2025",
@@ -2384,20 +2384,20 @@
         "link": "https://www.bielefeld.jetzt/node/1164258"
     },
     {
-        "date": "Fr, 15.08",
-        "time": "23:00",
-        "event": "FR • CAFELICIOUS  • RAUM2: BOOTY BOUNCE: DJ ANT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-cafelicious-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250815_Cafelicious_1zu1.jpg"
-    },
-    {
         "date": "Fri, 15.08",
         "time": "23:00",
         "event": "Studi Pop! (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/studi-pop-2/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_15_0825_Feed.jpg"
+    },
+    {
+        "date": "Fr, 15.08",
+        "time": "23:00",
+        "event": "FR • CAFELICIOUS  • RAUM2: BOOTY BOUNCE: DJ ANT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-cafelicious-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250815_Cafelicious_1zu1.jpg"
     },
     {
         "date": "Fr, 15.08.2025",
@@ -2458,20 +2458,20 @@
         "link": "https://www.bielefeld.jetzt/node/1130597"
     },
     {
-        "date": "Sa, 16.08",
-        "time": "23:00",
-        "event": "SA • CAFE SUMMER NIGHTS X COCKTAIL NIGHT • RAUM2: BOOTY BOUNCE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-x-cocktail-night/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250816_CocktailParty_4zu5.jpg"
-    },
-    {
         "date": "Sat, 16.08",
         "time": "23:00",
         "event": "STEREOLOVE (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/stereolove-3/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_16_0825_Feed.jpg"
+    },
+    {
+        "date": "Sa, 16.08",
+        "time": "23:00",
+        "event": "SA • CAFE SUMMER NIGHTS X COCKTAIL NIGHT • RAUM2: BOOTY BOUNCE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-x-cocktail-night/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250816_CocktailParty_4zu5.jpg"
     },
     {
         "date": "Sa, 16.08.2025",
@@ -2721,20 +2721,20 @@
         "link": "https://www.bielefeld.jetzt/node/1205519"
     },
     {
-        "date": "Fr, 22.08",
-        "time": "23:00",
-        "event": "FR • 2010 FLASHBACK (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-2010-flashback-4/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250822_2010Flashback_4zu5.jpg"
-    },
-    {
         "date": "Fri, 22.08",
         "time": "23:00",
         "event": "Studi Pop! (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/studi-pop-3/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_22_0825_Feed.jpg"
+    },
+    {
+        "date": "Fr, 22.08",
+        "time": "23:00",
+        "event": "FR • 2010 FLASHBACK (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-2010-flashback-4/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250822_2010Flashback_4zu5.jpg"
     },
     {
         "date": "Fr, 22.08.2025",
@@ -2771,20 +2771,20 @@
         "city": "Dortmund"
     },
     {
-        "date": "Sa, 23.08",
-        "time": "23:00",
-        "event": "SA • CAFE SUMMER NIGHTS / JAHNPLATZ OPEN AIR AFTERSHOW (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-jahnplatz-open-air-aftershow/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250823_SummerNight_4zu5.jpg"
-    },
-    {
         "date": "Sat, 23.08",
         "time": "23:00",
         "event": "STEREOLOVE (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/stereolove-4/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_23_0825_Feed.jpg"
+    },
+    {
+        "date": "Sa, 23.08",
+        "time": "23:00",
+        "event": "SA • CAFE SUMMER NIGHTS / JAHNPLATZ OPEN AIR AFTERSHOW (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-jahnplatz-open-air-aftershow/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250823_SummerNight_4zu5.jpg"
     },
     {
         "date": "Sa, 23.08.2025",
@@ -3119,20 +3119,20 @@
         "link": "https://www.bielefeld.jetzt/node/1115635"
     },
     {
-        "date": "Sa, 30.08",
-        "time": "23:00",
-        "event": "SA • IBIZA WHITE NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-ibiza-white-night-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250830_IbizaWhiteNight_4zu5.jpg"
-    },
-    {
         "date": "Sat, 30.08",
         "time": "23:00",
         "event": "END OF SUMMER - SAMSTAG (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/end-of-summer-samstag/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_30_0825_Feed.jpg"
+    },
+    {
+        "date": "Sa, 30.08",
+        "time": "23:00",
+        "event": "SA • IBIZA WHITE NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-ibiza-white-night-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250830_IbizaWhiteNight_4zu5.jpg"
     },
     {
         "date": "Sa, 30.08.2025",
@@ -3541,7 +3541,7 @@
     },
     {
         "date": "Sa, 06.09",
-        "time": "22:00",
+        "time": "23:00",
         "event": "SA • WEINMARKT SATURDAYS pres. JUIZZED (@cafe_europa_bi)",
         "category": "Party",
         "link": "https://cafeeuropa.de/event/sa-weinmarkt-saturdays-pres-juizzed/#tribe-tickets__tickets-form",
@@ -3706,6 +3706,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Mi, 10.09",
+        "time": "22:00",
+        "event": "MI • WET WEDNESDAY (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wet-wednesday-4/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250910_WetWednesday_4zu5.jpg"
     },
     {
         "date": "We, 10.09.2025",
