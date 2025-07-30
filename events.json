@@ -368,18 +368,18 @@
     {
         "date": "Th, 31.07.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 31.07.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 31.07.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 31.07.2025",
@@ -742,14 +742,6 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250801_FridaysFinest_4zu5.jpg"
     },
     {
-        "date": "Fri, 01.08",
-        "time": "23:00",
-        "event": "Klub Master! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/klub-master/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_01_0825_Feed.jpg"
-    },
-    {
         "date": "Fr, 01.08.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -772,6 +764,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fri, 01.08",
+        "time": "23:00",
+        "event": "Klub Master! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/klub-master/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_01_0825_Feed.jpg"
     },
     {
         "date": "Fr, 01.08.2025",
@@ -1231,14 +1231,6 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250802_GirlsNightOut_4zu5.jpg"
     },
     {
-        "date": "Sat, 02.08",
-        "time": "23:00",
-        "event": "STEREOLOVE (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/stereolove/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_02_0825_Feed.jpg"
-    },
-    {
         "date": "Sa, 02.08.2025",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -1269,6 +1261,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 02.08",
+        "time": "23:00",
+        "event": "STEREOLOVE (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/stereolove/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_02_0825_Feed.jpg"
     },
     {
         "date": "Sa, 02.08.2025",
@@ -1391,6 +1391,16 @@
         "description": "St. Pauli Comedy Club: Lachen garantiert!Willkommen im St. Pauli Comedy Club, der neuen Top-Adresse für Comedy im Herzen Hamburgs! Tauchen Sie ein in eine Welt voller Humor und genießen Sie unvergessliche Abende mit Deutschlands besten Comedians und aufstrebenden Talenten. Unsere vielseitigen Shows – von Stand-up über Impro bis hin zu Satire – bieten für jeden Geschmack das Richtige.Unsere gemütliche und intime Atmosphäre macht jeden Besuch zu einem besonderen Erlebnis. Ob Stammgast oder Neuling, bei uns fühlt sich jeder sofort wohl. Der St. Pauli Comedy Club ist der perfekte Ort, um dem Alltag zu entfliehen und herzhaft zu lachen.Besuchen Sie uns auf St. Pauli und lassen Sie sich von erstklassiger Comedy verzaubern. Jetzt Tickets sichern und dabei sein, wenn Lachen zur Kunst wird!  Jeden Mittwoch, Donnerstag und Freitag von 20:00 - 22:00 Uhr. Jeden Samstag von 17:00 - 19:00 Uhr & von 20:00 - 22:00 Uhr.  Einlass immer 30 Minuten vor Showbeginn.  Spielbudenplatz 22 20359 Hamburg  www.stpaulicomedyclub.de",
         "link": "https://rausgegangen.de/en/events/st-pauli-comedy-club-298/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Arm2qqAMQ5u6mDez9GDP_shine.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Sat, 02.08.2025",
+        "time": "17:30",
+        "event": "VOGELBALL (@Alte Schleuse)",
+        "category": "",
+        "description": "Schmeiß dich in dein funkelnstes Federkostüm und flieg gen Festivalgelände!✨ 🦚🪩Am CSD Wochenende erwartet dich der Vogelball mit einem Line-Up so bunt wie der schönste Paradiesvogel: Live-Konzerte, DJ-Sets, Queer Culture, Extravaganz und ganz viel Liebe! - Da musst du dabei sein 😍",
+        "link": "https://rausgegangen.de/en/events/vogelball-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LE6kJI1HQx2ZZ2hvAATv_03445-vogelballasheschaubgelandenestbenschaubde.jpg?width=1200&height=900&mode=crop",
         "city": "Hamburg"
     },
     {
@@ -1775,18 +1785,18 @@
     {
         "date": "Th, 07.08.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 07.08.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 07.08.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 07.08.2025",
@@ -1910,14 +1920,6 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250808_Turbotrash_4zu5.jpg"
     },
     {
-        "date": "Fri, 08.08",
-        "time": "23:00",
-        "event": "Studi Pop! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/studi-pop/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_08_0825_Feed.jpg"
-    },
-    {
         "date": "Fr, 08.08.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -1948,6 +1950,14 @@
         "category": "Kreativität",
         "link": "https://kunsthalle-bielefeld.de/programm/veranstaltungen/#10209",
         "image_url": null
+    },
+    {
+        "date": "Fri, 08.08",
+        "time": "23:00",
+        "event": "Studi Pop! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/studi-pop/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_08_0825_Feed.jpg"
     },
     {
         "date": "Fr, 08.08.2025",
@@ -2017,14 +2027,6 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250809_TequilaParty_4zu5.jpg"
     },
     {
-        "date": "Sat, 09.08",
-        "time": "23:00",
-        "event": "STEREOLOVE (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/stereolove-2/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_09_0825_Feed.jpg"
-    },
-    {
         "date": "Sa, 09.08.2025",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -2055,6 +2057,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 09.08",
+        "time": "23:00",
+        "event": "STEREOLOVE (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/stereolove-2/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_09_0825_Feed.jpg"
     },
     {
         "date": "Sat, 09.08.2025",
@@ -2134,14 +2144,6 @@
         "link": "https://www.bielefeld.jetzt/node/1130595"
     },
     {
-        "date": "Sun, 10.08",
-        "time": "16:00",
-        "event": "SOLEIL - SUMMER PARTY @ DÜNE13 presented by STEREO &amp; LIV (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/soleil/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Soleil_Duene13_0825_Feed.jpg"
-    },
-    {
         "date": "Su, 10.08.2025",
         "time": "19:00",
         "event": "*TRIBE KENNENLERNABEND*",
@@ -2156,6 +2158,14 @@
         "category": "Sport",
         "link": "https://www.instagram.com/uprunningclub/?hl=de",
         "image_url": null
+    },
+    {
+        "date": "Sun, 10.08",
+        "time": "16:00",
+        "event": "SOLEIL - SUMMER PARTY @ DÜNE13 presented by STEREO &amp; LIV (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/soleil/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Soleil_Duene13_0825_Feed.jpg"
     },
     {
         "date": "Sun, 10.08.2025",
@@ -2307,18 +2317,18 @@
     {
         "date": "Th, 14.08.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 14.08.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 14.08.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 14.08.2025",
@@ -2388,14 +2398,6 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250815_Cafelicious_1zu1.jpg"
     },
     {
-        "date": "Fri, 15.08",
-        "time": "23:00",
-        "event": "Studi Pop! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/studi-pop-2/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_15_0825_Feed.jpg"
-    },
-    {
         "date": "Fr, 15.08.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -2418,6 +2420,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fri, 15.08",
+        "time": "23:00",
+        "event": "Studi Pop! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/studi-pop-2/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_15_0825_Feed.jpg"
     },
     {
         "date": "Fr, 15.08",
@@ -2462,14 +2472,6 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250816_CocktailParty_4zu5.jpg"
     },
     {
-        "date": "Sat, 16.08",
-        "time": "23:00",
-        "event": "STEREOLOVE (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/stereolove-3/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_16_0825_Feed.jpg"
-    },
-    {
         "date": "Sa, 16.08.2025",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -2500,6 +2502,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 16.08",
+        "time": "23:00",
+        "event": "STEREOLOVE (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/stereolove-3/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_16_0825_Feed.jpg"
     },
     {
         "date": "Sat, 16.08.2025",
@@ -2645,18 +2655,18 @@
     {
         "date": "Th, 21.08.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 21.08.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 21.08.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 21.08.2025",
@@ -2725,14 +2735,6 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250822_2010Flashback_4zu5.jpg"
     },
     {
-        "date": "Fri, 22.08",
-        "time": "23:00",
-        "event": "Studi Pop! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/studi-pop-3/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_22_0825_Feed.jpg"
-    },
-    {
         "date": "Fr, 22.08.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -2757,6 +2759,14 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Fri, 22.08",
+        "time": "23:00",
+        "event": "Studi Pop! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/studi-pop-3/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_22_0825_Feed.jpg"
+    },
+    {
         "date": "Fri, 22.08.2025",
         "time": "18:30",
         "event": "Kettcar (@JunkYard Dortmund)",
@@ -2773,14 +2783,6 @@
         "category": "Party",
         "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-jahnplatz-open-air-aftershow/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250823_SummerNight_4zu5.jpg"
-    },
-    {
-        "date": "Sat, 23.08",
-        "time": "23:00",
-        "event": "STEREOLOVE (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/stereolove-4/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_23_0825_Feed.jpg"
     },
     {
         "date": "Sa, 23.08.2025",
@@ -2813,6 +2815,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 23.08",
+        "time": "23:00",
+        "event": "STEREOLOVE (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/stereolove-4/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_23_0825_Feed.jpg"
     },
     {
         "date": "Sa, 23.08",
@@ -2985,18 +2995,18 @@
     {
         "date": "Th, 28.08.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 28.08.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 28.08.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 28.08.2025",
@@ -3039,14 +3049,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Fri, 29.08",
-        "time": "23:00",
-        "event": "end of summer - freitag (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/end-of-summer-freitag/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_29_0825_Feed.jpg"
-    },
-    {
         "date": "Fr, 29.08.2025",
         "time": "19:00",
         "event": "*TRIBE CREATIVE CIRCLES*",
@@ -3077,6 +3079,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fri, 29.08",
+        "time": "23:00",
+        "event": "end of summer - freitag (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/end-of-summer-freitag/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_29_0825_Feed.jpg"
     },
     {
         "date": "Fri, 29.08.2025",
@@ -3123,14 +3133,6 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250830_IbizaWhiteNight_4zu5.jpg"
     },
     {
-        "date": "Sat, 30.08",
-        "time": "23:00",
-        "event": "END OF SUMMER - SAMSTAG (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/end-of-summer-samstag/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_30_0825_Feed.jpg"
-    },
-    {
         "date": "Sa, 30.08.2025",
         "time": "14:00",
         "event": "*TRIBE WANDERSAMSTAG*",
@@ -3171,6 +3173,14 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Sat, 30.08",
+        "time": "23:00",
+        "event": "END OF SUMMER - SAMSTAG (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/end-of-summer-samstag/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_30_0825_Feed.jpg"
+    },
+    {
         "date": "Sa, 30.08",
         "time": "",
         "event": "Ausgetanzt (@nr.z.p)",
@@ -3202,16 +3212,6 @@
         "link": "https://rausgegangen.de/en/events/la-noche-tropical-para-mi-gente-2/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aXzOqZTsSn2dPhlkzwdr_kopie-von-la-noche-tropicalbanner.jpg?width=1200&height=900&mode=crop",
         "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 30.08.2025",
-        "time": "12:00",
-        "event": "Wandsbeker Stadtteilfest (@Wandsbeker Marktplatz)",
-        "category": "",
-        "description": "Das Stadtteilfest 2025 für Wandsbek und Umgebung bietet eine vielfältige Palette an Aktivitäten für alle Besucher:innen des WSF2025. Mit kostenlosen Angeboten für Kinder, Live-Musik von der großen Bühne und leckerem Essen ist das Fest auf jeden Fall einen Ausflug wert. Tolle GesprächeAuf einem Stadtteilfest erlebt man die Gemeinschaft hautnah. Bewohner:innen kommen zusammen, um gemeinsam zu feiern und die Vielfalt ihres Viertels zu genießen. Man trifft alte Freund:innen wieder, knüpft neue Bekanntschaften und tauscht sich aus. Die entspannte Atmosphäre und das bunte Treiben fördern das Miteinander und stärken das Zusammengehörigkeitsgefühl. Internationale SpeisenAuf dem Stadtteilfest sorgen vielfältige Food-Stände für kulinarische Highlights. Von afrikanischen Köstlichkeiten über sri-lankische Delikatessen bis hin zu Spezialitäten für Kinder – die Stände bieten internationales Essen an und laden zum Probieren ein. Hier können Besucher:innen neue Geschmackswelten entdecken und sich durch die kulinarische Vielfalt der Welt kosten. Zuckerwatte„Zuckerwatte gegen Spende“. Ob 1 Euro oder 20 Euro – ihr entscheidet, was ihr bezahlt. Der Erlös kommt der Arbeit der Stadtinsel zugute, die seit 2007 vielfältige mobile Angebote für Kinder und Jugendliche in benachteiligten Hamburger Stadtteilen und Unterkünften für geflüchtete Menschen realisiert. Verschiedene Künstler:innenDie Künstler:innen, die auf dem Stadtteilfest auftreten, bringen Energie und Vielfalt auf die Bühne. Lokale Bands, Tänzer:innen und Straßenkünstler:innen präsentieren ihr Talent und sorgen für Unterhaltung. Von mitreißender Live-Musik über beeindruckende Tanzvorführungen bis hin zu Einblicken in das Ehrenamt – das Programm begeistert das Publikum und schafft unvergessliche Momente. Mal- & BasteltischWerde kreativ, probiere dich aus! Unser Kreativ-Angebot für Kinder und Jugendliche lädt zum Verweilen und gestalterischen Austoben ein. Komm vorbei, die kompetenten Mitarbeiter:innen der Stadtinsel freuen sich auf dich! Fitness & TanzWir wollen dich herausfordern! Nimm unsere Fitness-Challenges an und finde direkt heraus, was du kannst. Freu dich außerdem auf unser Glücksrad mit tollen Überraschungen, Gutscheine & großartige Live-Performances von unseren Mitgliedern! Lisa und ihre Girls präsentieren vielseitige ChoreografienPowervoll, sinnlich, elegant: Lisa und ihre Girls präsentieren euch vielseitige Choreografien und eine einzigartige Show auf 11 Zentimeter hohen High Heels. Freut euch auf mitreißende Songs, heiße Kostüme und High Vibes.",
-        "link": "https://rausgegangen.de/en/events/wandsbeker-stadtteilfest-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Ntscy9RRPmBl1TXc7l5Q_photo-1658138380449-f4349745741f?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
     },
     {
         "date": "Sat, 30.08.2025",
@@ -3397,18 +3397,18 @@
     {
         "date": "Th, 04.09.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 04.09.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 04.09.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Do, 04.09",
@@ -3608,7 +3608,7 @@
         "time": "17:00",
         "event": "Kampf der Champions 2 (@Stadthalle Bielefeld)",
         "category": "Kampf der Champions 2 – Die Revanche 06.09.2025 | Stadthalle Bielefeld Nach dem erfolgreichen...",
-        "description": "Tel. 0521 55774555 (Erreichbar von Mo-Do 9-15 Uhr | Fr 9-13 Uhr) Fax 0521 55774510 info@bielefeld-marketing.de https://www.bielefeld-marketing.de",
+        "description": "Kampf der Champions 2 – Die Revanche 06.09.2025 | Stadthalle Bielefeld Nach dem erfolgreichen Auftakt kehrt das spektakuläre Box-Event zurück: „Kampf der Champions 2 – Die Revanche“ verspricht einen unvergesslichen Abend voller Spannung, Action und Top-Athleten. Im Fokus steht der heiß erwartete Titelkampf: Kali vs. Rodriguez – zwei Ausnahmeboxer im Rückkampf um Ruhm und Ehre. Dazu kommt das Social-Media-Highlight des Jahres: Sinan-G vs. Brian Keller – der langersehnte Showdown zweier prominenter Persönlichkeiten, die sich nun endlich im Ring gegenüberstehen. Freu dich auf weitere spannende Fights mit hochkarätigen Athleten wie: • Manuellsen • Boxchamp • Danny Zumberi • Emre Sayılı • Steven Nduka • Kambis Rahmani • Göktug Soğut Jetzt Tickets sichern und live dabei sein, wenn sich Legenden formen und Rivalitäten endgültig entschieden werden – am 06. September 2025 in der Stadthalle Bielefeld VIP-Plätze – Dein exklusives Erlebnis: • Kein Anstehen: Bevorzugter Einlass über den separaten VIP-Eingang • Sitzplätze direkt am Ring – hautnah am Geschehen • Abgegrenzter VIP-Bereich mit erstklassiger Sicht • Exklusives 5-Gänge-Menü – kulinarischer Hochgenuss • Softdrinks & alkoholische Getränke inklusive – den ganzen Abend Erlebe die Veranstaltung auf höchstem Niveau – komfortabel, nah und unvergesslich.",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/kampf-der-champions-2-tickets_415972_3423316_222x222.jpg?itok=47zgqvc5",
         "link": "https://www.bielefeld.jetzt/node/1177654"
     },
@@ -3791,18 +3791,18 @@
     {
         "date": "Th, 11.09.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 11.09.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 11.09.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 11.09.2025",
@@ -3871,7 +3871,7 @@
     },
     {
         "date": "Fr, 12.09",
-        "time": "22:00",
+        "time": "23:00",
         "event": "FR • BACK TO 2000 • RAUM2: BLACKBOX (@cafe_europa_bi)",
         "category": "Party",
         "link": "https://cafeeuropa.de/event/fr-back-to-2000-raum2-blackbox-3/#tribe-tickets__tickets-form",
@@ -4068,6 +4068,14 @@
         "city": "Dortmund"
     },
     {
+        "date": "Mi, 17.09",
+        "time": "23:00",
+        "event": "MI • BERGFEST (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-bergfest-19/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250917_Bergfest_4zu5.jpg"
+    },
+    {
         "date": "We, 17.09.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -4136,18 +4144,18 @@
     {
         "date": "Th, 18.09.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 18.09.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 18.09.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 18.09.2025",
@@ -4213,6 +4221,14 @@
         "description": "Jüdische Kulturtage Bielefeld 2025",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/webform/termine_melden/15744/illustration-c-hila-peled.jpeg?itok=pCM3VEBM",
         "link": "https://www.bielefeld.jetzt/node/1089501"
+    },
+    {
+        "date": "Fr, 19.09",
+        "time": "22:00",
+        "event": "FR • F*CK GENRES • RAUM2: BOOTY BOUNCE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-fck-genres-raum2-booty-bounce-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250919_fckgenres_4zu5.jpg"
     },
     {
         "date": "Fr, 19.09.2025",
@@ -4470,18 +4486,18 @@
     {
         "date": "Th, 25.09.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 25.09.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 25.09.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 25.09.2025",
@@ -4857,18 +4873,18 @@
     {
         "date": "Th, 02.10.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 02.10.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 02.10.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 02.10.2025",
@@ -4969,14 +4985,6 @@
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
-        "date": "Sat, 04.10",
-        "time": "19:00",
-        "event": "Mutti tanzt! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/mutti-tanzt/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/05/Stereo_MT_04_1025_Feed01.jpg"
-    },
-    {
         "date": "Sa, 04.10.2025",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -5007,6 +5015,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 04.10",
+        "time": "19:00",
+        "event": "Mutti tanzt! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/mutti-tanzt/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/05/Stereo_MT_04_1025_Feed01.jpg"
     },
     {
         "date": "Sat, 04.10.2025",
@@ -5200,18 +5216,18 @@
     {
         "date": "Th, 09.10.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 09.10.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 09.10.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 09.10.2025",
@@ -5383,7 +5399,7 @@
         "time": "20:00",
         "event": "Nights on Broadway - A Tribute to the Bee Gees performed by Night Fever (@Stadthalle Bielefeld)",
         "category": "Die Band gilt als eine der erfolgreichsten und authentischsten BEE GEES Tribute-Shows weltweit...",
-        "description": "Tel. 0521 55774555 (Erreichbar von Mo-Do 9-15 Uhr | Fr 9-13 Uhr) Fax 0521 55774510 info@bielefeld-marketing.de https://www.bielefeld-marketing.de",
+        "description": "Die Band gilt als eine der erfolgreichsten und authentischsten BEE GEES Tribute-Shows weltweit. Keine andere Band kommt dem Original so nah. Seit 2007 sind sie auf den Bühnen in ganz Europa, sowie in zahlreichen Fernsehsendungen zu sehen – NIGHT FEVER. Mit ihren Shows begeistern sie seit Jahren BEE GEES Fans in vielen Ländern. Alleine in Holland und Belgien sind diese schon fast süchtig, was sich in ausverkauften Hallen und einer frenetischen Stimmung zeigt. Durch ihre authentische Interpretation gepaart mit modernen Arrangements sind NIGHT FEVER schon lange nicht mehr wegzudenken aus dem Tribute-Bereich. Viele Fans reisen der Band sogar aus verschiedensten Ländern regelmäßig hinterher, um ihre Show so oft wie möglich erleben zu dürfen. Als nahezu einzige Tribute-Show sind sie außerdem immer wieder in diversen Fernsehsendungen (ZDF, SAT 1, HR, SWR, MDR) etc. zu Gast. Auch Schlager-Ikone ANDREA BERG nahm mit ihnen 2022 zu ihrem 30. Bühnenjubiläum Celine Dion’s Welthit IMMORTALITY auf, der als AMAZON SPECIAL auf ihrer EP erschien. Basierend auf dem legendären Konzert von 1997 „ONE NIGHT ONLY“ in Las Vegas wurde aufgrund des großen Erfolges nun die gigantische Produktion NIGHTS ON BROADWAY entwickelt. Ein multimediales Spektakel zeichnet diese einzigartige Show aus. Kaum eine andere Tribute-Show präsentiert eine derartig spektakuläre Lichtshow gepaart mit einer riesigen LED WALL. Hier wird auch visuell ein großer Spannungsbogen kreiert, der seinesgleichen sucht. Mit dabei ist auch ein weiblicher Special Guest, bekannt aus verschiedenen Musical-Produktionen, welche jene Songs interpretiert, die von den BEE GEES für weibliche Interpreten geschrieben wurden, wie z.B. Celine Dion (IMMORTALITY), Dionne Warwick (HEARTBREAKER), Diana Ross (CHAIN REACTION) oder Barbra Streisand (WOMAN IN LOVE). Die Show NIGHTS ON BROADWAY setzt neue Maßstäbe mit dem Ziel, die Musik der BEE GEES noch lange am Leben zu erhalten und ihre Fans weiterhin zu begeistern. Durch den außergewöhnlich authentischen Gesang der drei Protagonisten sowie durch zeitgemäße, moderne Arrangements und besagter Licht- und Bühnenshow gelingt NIGHT FEVER der perfekte Spakat zwischen Authentizität und der Transformation ins Hier und Jetzt, denn genau SO würden sich die BEE GEES vielleicht heute präsentieren. Wer weiß? Gehen Sie auf Ihre eigene Zeitreise und genießen Klassiker wie: MASSACHUSETTS - STAYIN‘ ALIVE - TRAGEDY - WORDS - YOU WIN AGAIN - HOW DEEP IS YOUR LOVE - JIVE TALKING - NIGHTS ON BROADWAY - JULIET – GREASE – WORLD – YOU SHOULD BE DANCING und vieles mehr. … und erleben Sie DIE PERFEKTE ILLUSION!!!",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/nights-on-broadway-tickets-2023.jpg?itok=YsN3pDba",
         "link": "https://www.bielefeld.jetzt/node/732684"
     },
@@ -5535,17 +5551,9 @@
         "time": "20:00",
         "event": "Rock Legends - The Rock Explosion Tour 2025 (@Stadthalle Bielefeld)",
         "category": "ROCK LEGENDS powered by Hard Rock Cafe bringt Superstars des Classic Rock auf die Bühne, die –...",
-        "description": "Tel. 0521 55774555 (Erreichbar von Mo-Do 9-15 Uhr | Fr 9-13 Uhr) Fax 0521 55774510 info@bielefeld-marketing.de https://www.bielefeld-marketing.de",
+        "description": "ROCK LEGENDS powered by Hard Rock Cafe bringt Superstars des Classic Rock auf die Bühne, die – begleitet von der großartigen Rock Legends Band – ihre gefeierten Hymnen präsentieren. Headliner der ersten ROCK LEGENDS Tour powered by Hard Rock Cafe ist kein Geringerer als Joe Lynn Turner! Der Ex-Sänger von RAINBOW und DEEP PURPLE verfügt immer noch über eine der großartigsten Rock-Stimmen aller Zeiten und wird das Publikum mit Mega-Hits wie „I Surrender“, „Since You‘ve Been Gone“ und vielen weiteren legendären Ohrwürmern verzücken. Und auch die vier weiteren Top-Acts der ersten ROCK LEGENDS-Tour powered by Hard Rock Cafe können sich mehr als Hören und Sehen lassen! Marc Storace von Krokus Der Shouter der mehrfach platin-dekorierten Schweizer Rock-Garde KROKUS heizt dem Rock Legends Publikum mit Krachern wie „Bedside Radio“ ein. Der aus Malta stammende Sänger bekam 1983 mit Krokus die Ehrenbürgerschaft in der US-amerikanischen Musikstadt Memphis, Tennessee! Eric Martin von Mr. Big Die Hard Rock Giganten MR. BIG aus Los Angeles setzen sich zur Ruhe, doch ihr Sänger bleibt genauso aktiv wie stimmgewaltig. Mr. Martin hat die Mr. Big Superhits „To Be With You” und „Wild World” im Programm! Paul Shortino von Quiet Riot Der Metal-Entertainer aus Las Vegas heizte dem Publikum schon auf der gefeierten Rock meets Classic-Tour 2024 mit Songs wie „Cum On Feel The Noize” und „Bang Your Head (Metal Health)” mächtig ein. Der gleichnamige QUIET RIOT Longplayer „Metal Health” war 1983 das erste Metal Album, das Nummer 1 der US-amerikanischen Billboard Charts erreichte! Als Special Guest mit an Bord ist die wundervolle ROBIN BECK. Die charmante AOR-Rockröhre aus New York hat ihre Welthits „First Time“ (Coca-Cola Werbesong von 1988) „Tears In The Rain“ im Gepäck!",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/rock-legends-tickets-2024.jpg?itok=f1Kl64P6",
         "link": "https://www.bielefeld.jetzt/node/756839"
-    },
-    {
-        "date": "Th, 16.10.2025",
-        "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 16.10.2025",
@@ -5554,6 +5562,14 @@
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 16.10.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 16.10.2025",
@@ -5751,7 +5767,7 @@
         "time": "19:00",
         "event": "Chris de Burgh - 50LO (@Stadthalle Bielefeld)",
         "category": "Chris de Burgh legt nach zwei Ausverkauft-Tourneen 2024 mit Best Of-Konzerten `25 nach – inklusive...",
-        "description": "Tel. 0521 55774555 (Erreichbar von Mo-Do 9-15 Uhr | Fr 9-13 Uhr) Fax 0521 55774510 info@bielefeld-marketing.de https://www.bielefeld-marketing.de",
+        "description": "Chris de Burgh legt nach zwei Ausverkauft-Tourneen 2024 mit Best Of-Konzerten `25 nach – inklusive neuer Songs und Coverversionen Überwältigende Nachfrage, begeistertes Publikum, Lobeshymnen der Kritiker. Da die beiden Deutschlandtourneen 2024 von CHRIS DE BURGH ein sensationeller Triumphzug waren, gastiert der beliebte Singer/ Songwriter auch 2025 wieder hierzulande. Das Motto seiner Auftritte zwischen dem 25.Juli und 17.August bleibt identisch zu dem im vergangenen Jahr: „50LO“. Der Titel verweist einerseits darauf, daß er solo auftritt und sein 50.Jubiläum feiert, andererseits auf sein aktuelles Album: „Für ‚50‘ habe ich meine Lieblingssongs von jedem meiner früheren Studioalben ausgewählt\", erzählt der Sänger/ Gitarrist/Pianist, \"und dazu drei neue Lieder aufgenommen.\" Auch über die Konzerte verrät der Bühnen-Profi einiges: „Bei dieser Tournee geht es darum, dass ich mich an meine Anfänge zurückerinnere, als ich solo zu Gitarren- oder Klavierbegleitung auftrat. Ich werde bei den Gastspielen zudem über die Musik sprechen, über den Ursprung der Songs und ihren Hintergrund.\" Außerdem gibt Chris de Burgh einige Coverversionen zum Besten, zählen doch unter anderen Elvis Presley, Toto sowie Lennon/McCartney, Paul Simon und Bob Dylan zu seinen Vorbildern. „Über zwei Stunden füllt der Ire, allein mit all seiner Klasse und seinen unfassbar vielen Songs. Dabei begleitet er sich die ganze Zeit nur selbst: mal an der Gitarre, mal am Klavier“ (SWR4). Über eines seiner „unvergesslichen Konzerte“ stand in der „Passauer Neue Presse“: „Chris de Burgh spielt zuerst seine langsamen, gemütlichen, emotionalen Songs. Dann schwillt die Stimmung immer mehr an. Und bei ‚Lady In Red‘ ist es um viele geschehen. Die Besucher liegen sich in den Armen, Küsse werden ausgetauscht, Tränen getrocknet... Chris de Burgh singt von Liebe und Frieden – da darf sein epischer Antikriegssong ‚Borderline‘ nicht fehlen. Bei der Zeile „but these are only boys and I will never know, how men can see the wisdom in a war“ erhebt sich das Publikum und stimmt mit großem Applaus zu.“ Angesichts des großen Ansturms auf die Karten zu den Chris de Burgh-Konzerten 2024 wird empfohlen, die Tickets für seine Auftritte 2025 frühzeitig zu kaufen!",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/chris-de-burgh-tickets-2024.jpg?itok=BtHV0hy-",
         "link": "https://www.bielefeld.jetzt/node/862997"
     },
@@ -5807,18 +5823,18 @@
     {
         "date": "Th, 23.10.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 23.10.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 23.10.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 23.10.2025",
@@ -5874,7 +5890,7 @@
         "time": "20:00",
         "event": "Zurück in die Zukunft - In Concert (@Stadthalle Bielefeld)",
         "category": "Erlebe den Blockbuster wie nie zuvor, begleitet von Alan Silvestris einmaligem Soundtrack – von...",
-        "description": "Tel. 0521 55774555 (Erreichbar von Mo-Do 9-15 Uhr | Fr 9-13 Uhr) Fax 0521 55774510 info@bielefeld-marketing.de https://www.bielefeld-marketing.de",
+        "description": "Erlebe den Blockbuster wie nie zuvor, begleitet von Alan Silvestris einmaligem Soundtrack – von einem 65-köpfigen Symphonieorchester live gespielt, während der Film auf der großen Leinwand synchron aufgeführt wird. Erlebe zur Feier des 40. Jubiläums diese einmalige Tour im Herbst 2025 in ganz Deutschland & Österreich. Lade deinen Fluxkompensator auf… und mach dich bereit, den unvergesslichen Filmklassiker zu feiern, wie du ihn noch nie zuvor gesehen und gehört hast! Zurück in die Zukunft ist der 1,21-Gigawatt-Blockbuster, der 1985 die Kinocharts anführte, zwei äußerst erfolgreiche Fortsetzungen hervorbrachte und seinen bleibenden Fußabdruck in der Popkultur hinterließ. Begleite Marty McFly (Michael J. Fox), Doc Brown (Christopher Lloyd) und ihren zeitreisenden DeLorean auf dem Abenteuer ihres Lebens, während sie in die Vergangenheit, Gegenwart und Zukunft reisen und versehentlich eine zeit-zerstörende Kettenreaktion auslösen, die das Raum-Zeit-Kontinuum durcheinander bringt! Jetzt werden sowohl alte als auch neue Fans „Zurück in die Zukunft “ wie nie zuvor erleben – auf einer großen hochauflösenden Leinwand, mit einem beeindruckenden Symphonieorchester, das Alan Silvestris atemberaubende Filmmusik live und synchron zum Film aufführt. Ein exklusives Highlight: Etwa zwanzig Minuten brandneuer Musik, die der preisgekrönte Komponist Silvestri speziell für dieses einzigartige Live-Orchester-Event zur Filmmusik komponiert hat.",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/zurueck-in-die-zukunft-in-concert-tickets-2025.jpg?itok=GyihHb5O",
         "link": "https://www.bielefeld.jetzt/node/935474"
     },
@@ -6100,18 +6116,18 @@
     {
         "date": "Th, 30.10.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 30.10.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 30.10.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 30.10.2025",
@@ -6266,7 +6282,7 @@
         "time": "19:00",
         "event": "The Dark Tenor - Symphonic Evolution - Rock meets Klassik (@Stadthalle Bielefeld)",
         "category": "Mit seiner brandneuen “Symphonic Evolution“-Tour setzt Dark Tenor, auch bekannt als Billy Andrews...",
-        "description": "Tel. 0521 55774555 (Erreichbar von Mo-Do 9-15 Uhr | Fr 9-13 Uhr) Fax 0521 55774510 info@bielefeld-marketing.de https://www.bielefeld-marketing.de",
+        "description": "Mit seiner brandneuen “Symphonic Evolution“-Tour setzt Dark Tenor, auch bekannt als Billy Andrews, neue Maßstäbe in der Musikszene. Nach dem überwältigenden Tour-Erfolg des vergangenen Jahres, der über 70.000 Musikfans in die Konzertsäle lockte – und einer bevorstehenden Frühjahrstour, die ebenfalls schon nahezu ausverkauft ist - bringt der Künstler im Herbst seine neue Rock meets Klassik Show „Symphonic Evolution“ mit frischen, innovativen Konzepten und neuen Songs auf die Bühne. 37 Städte sind geplant. Die Tour kreiert eine elektrisierende Mischung aus klassischer Musik und Rock, wobei sie Meisterwerke von Beethoven, Mozart und Bach – die rebellischen Musikikonen ihrer Zeit – in einem neuen Licht präsentiert. Diese musikalische Reise verknüpft beeindruckende klassische Harmonien mit der kraftvollen Dynamik des Rock. Ein absolutes Highlight der Show ist das weltweit erste 3D-gedruckte Cello, das auf der Bühne zum Einsatz kommt. Dieses futuristische Instrument beeindruckt nicht nur akustisch, sondern auch visuell durch seine leuchtenden Elemente und setzt neue visuelle und klangliche Maßstäbe. Startenor Billy Andrews, der Musikmacher hinter Dark Tenor, fasziniert das Publikum mit seiner Fähigkeit, unterschiedlichste Musikstile zu einem nahtlosen Erlebnis zu verschmelzen. Seine ausdrucksstarke Stimme und sein charismatisches Auftreten garantieren ein Konzerterlebnis, das man nicht vergisst – und nicht verpassen sollte. Die “Symphonic Evolution Tour” ist die perfekte Gelegenheit für alle, die live miterleben möchten, wie aufregende Musikfusionshistorie neu geschrieben wird. Dort präsentiert Dark Tenor auch neue Werke aus seinem am 28. März 2025 erscheinenden Studioalbum “Symphony of Light 2“ das Hits wie „Bitter Sweet Kiss“, „Alive“, „You Raise Me Up“ und „Shout“! Mit diesem Werk beweist der Ausnahmekünstler einmal mehr seine bemerkenswerte Vielseitigkeit und das mühelose Wechseln zwischen verschiedenen Musikgenres.",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/the-dark-tenor-tickets-2025.jpg?itok=3B2TblF8",
         "link": "https://www.bielefeld.jetzt/node/859617"
     },
@@ -6396,18 +6412,18 @@
     {
         "date": "Th, 06.11.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 06.11.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 06.11.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 06.11.2025",
@@ -6519,7 +6535,7 @@
         "time": "20:00",
         "event": "Salut Salon - Heimat (@Stadthalle Bielefeld)",
         "category": "Salut Salon – „Heimat“: Ein außergewöhnliches Konzerterlebnis Zwei Geigen, ein Cello, ein Klavier –...",
-        "description": "Tel. 0521 55774555 (Erreichbar von Mo-Do 9-15 Uhr | Fr 9-13 Uhr) Fax 0521 55774510 info@bielefeld-marketing.de https://www.bielefeld-marketing.de",
+        "description": "Salut Salon – „Heimat“: Ein außergewöhnliches Konzerterlebnis Zwei Geigen, ein Cello, ein Klavier – und ein Übermaß an kreativer Energie: Salut Salon sind „Hamburgs charmantester Kultur-Export“ (Hamburger Abendblatt). Seit über 20 Jahren gastieren die vier Virtuosinnen mit ihren „Masterpieces of ‚classical‘ comedy“ (The New York Times) in den renommiertesten Konzerthäusern weltweit und begeistern ihr Publikum mit irrwitzigen Parforceritten zwischen Vivaldi und Vokalakrobatik, Tango und Tatort, Rap und Rachmaninov – „Wunderbar!“ (The Economic Times India). Mit ihrem neuen Programm „Heimat“ feiern Salut Salon ab 2025 zugleich das Finale einer Konzert-Trilogie: Auf „Liebe“ und „Träume“ folgt nun das nächste große, fast allumfassende Thema. Denn: Was genau ist das eigentlich, Heimat? Ist es ein Ort? Tradition? Ein Gefühl? Sind es die Menschen, die einen umgeben? Oder vielleicht Worte, Sprachen, Klänge? Mit der traumwandlerischen Selbstverständlichkeit, mit der die vier Musikerinnen Stücke aus allen Winkeln der Welt in diesen wunderbaren Konzertabend verwandeln, geben sie auch gleich ihre ganz eigene Antwort: Salut Salon sind in der Welt zu Hause – und ihre Heimat ist die Musik. Ein Abend im Zeichen von Musik und Engagement Am 5. Juli 2025 können Sie Salut Salon live beim Rotary Summertime Benefizfestival in der ancora Marina an der Lübecker Bucht erleben. Sichern Sie sich jetzt Ihre Tickets für diesen besonderen Abend mit Salut Salon!",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/eventreihe-salut-salon---heimat-tickets_275933_2448088_222x222.jpg?itok=b4bQc_RN",
         "link": "https://www.bielefeld.jetzt/node/641250"
     },
@@ -6731,18 +6747,18 @@
     {
         "date": "Th, 13.11.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 13.11.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 13.11.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 13.11.2025",
@@ -7041,18 +7057,18 @@
     {
         "date": "Th, 20.11.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 20.11.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 20.11.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 20.11.2025",
@@ -7316,18 +7332,18 @@
     {
         "date": "Th, 27.11.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 27.11.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 27.11.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 27.11.2025",
@@ -7408,14 +7424,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Sat, 29.11",
-        "time": "22:00",
-        "event": "DISKO TOTAL! // Die Party für alle ab 25! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/disko-total-die-party-fuer-alle-ab-25/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/DISKOTOTAL.png"
-    },
-    {
         "date": "Sa, 29.11.2025",
         "time": "14:00",
         "event": "*TRIBE WANDERSAMSTAG*",
@@ -7454,6 +7462,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 29.11",
+        "time": "22:00",
+        "event": "DISKO TOTAL! // Die Party für alle ab 25! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/disko-total-die-party-fuer-alle-ab-25/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/DISKOTOTAL.png"
     },
     {
         "date": "Sat, 29.11.2025",
@@ -7572,18 +7588,18 @@
     {
         "date": "Th, 04.12.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 04.12.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 04.12.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 04.12.2025",
@@ -7840,18 +7856,18 @@
     {
         "date": "Th, 11.12.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 11.12.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 11.12.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 11.12.2025",
@@ -7900,14 +7916,6 @@
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
-        "date": "Fri, 12.12",
-        "time": "23:00",
-        "event": "Drunken Masters - ABRISS &amp; DEMONTAGE! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/drunken-masters-abriss-demontage/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Drunken-Masters_Tour_25-26_26-1.jpg"
-    },
-    {
         "date": "Fr, 12.12.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -7938,6 +7946,14 @@
         "category": "Kreativität",
         "link": "https://kunsthalle-bielefeld.de/programm/veranstaltungen/#10209",
         "image_url": null
+    },
+    {
+        "date": "Fri, 12.12",
+        "time": "23:00",
+        "event": "Drunken Masters - ABRISS &amp; DEMONTAGE! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/drunken-masters-abriss-demontage/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Drunken-Masters_Tour_25-26_26-1.jpg"
     },
     {
         "date": "Sa, 13.12.2025",
@@ -8108,17 +8124,9 @@
         "time": "20:00",
         "event": "Herman van Veen - Achtzig (@Stadthalle Bielefeld)",
         "category": "Scheinbar mühelos singt er sein Repertoire in fünf Sprachen. 1966 stand er zum ersten Mal auf der...",
-        "description": "Tel. 0521 55774555 (Erreichbar von Mo-Do 9-15 Uhr | Fr 9-13 Uhr) Fax 0521 55774510 info@bielefeld-marketing.de https://www.bielefeld-marketing.de",
+        "description": "Scheinbar mühelos singt er sein Repertoire in fünf Sprachen. 1966 stand er zum ersten Mal auf der Bühne und seitdem reist er mit seinen Vorstellungen rund um die Welt. Kein niederländischer Artist wird in den internationalen Theatern so gefeiert wie dieser künstlerische Tausendsassa aus Utrecht: L’Olympia Paris, Carré Amsterdam, Konzerthaus Wien, Admiralspalast Berlin, Carnegie Hall N.Y., De Bonkelaar Sliedrecht. Nie weiß man, was Herman spielen wird. Seine Vorstellung kann sich von einem Tag auf den anderen ändern, was er auch schon in der Elbphilharmonie Hamburg beweisen konnte. Das Hamburger Abendblatt schrieb danach: »Herman nahm die Elbphilharmonie im Sturm.«",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/herman-van-veen-tickets_244792_2207915_222x222.jpg?itok=0bMTIX3Y",
         "link": "https://www.bielefeld.jetzt/node/887130"
-    },
-    {
-        "date": "Th, 18.12.2025",
-        "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 18.12.2025",
@@ -8127,6 +8135,14 @@
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 18.12.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 18.12.2025",
@@ -8324,18 +8340,18 @@
     {
         "date": "Th, 25.12.2025",
         "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 25.12.2025",
-        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Th, 25.12.2025",
+        "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
         "date": "Th, 25.12.2025",
