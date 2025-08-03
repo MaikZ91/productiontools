@@ -41,6 +41,26 @@
     },
     {
         "date": "Sun, 03.08.2025",
+        "time": "19:30",
+        "event": "Musicals: Chicago (@Schloßtheater Münster)",
+        "category": "",
+        "description": "So 3. 8. im Schloßtheater - Musicals! (5): Die Verfilmung des Broadway-Klassikers mit Renée Zellweger, Catherine Zeta-Jones, Richard Gere und Queen Latifah [engl.OmU] - mit kurzer Einführung des Filmwissenschaftlers Niklas Lotz. Ticket: 12 € / Mit 1 Glas Sekt 15 €",
+        "link": "https://rausgegangen.de/en/events/musicals-chicago-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/twUxCbCwQOSFFW2mKOHh_340f390706.webp?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Sun, 03.08.2025",
+        "time": "20:00",
+        "event": "Drachenzähmen leicht gemacht (@Sparda-Bank Sommernachtskino)",
+        "category": "",
+        "description": "So 3. 8. beim Sparda-Bank Sommernachtskino vor dem Schloss!: Die Realfilm-Version des Animations-Hits über den Wikingerjungen Hicks, der sich mit einem Drachen anfreundet.",
+        "link": "https://rausgegangen.de/en/events/drachenzahmen-leicht-gemacht-8/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4AOxHYpARrKy9ST9iP4j_xmseomzrqcct0izshjfqdsc05863.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Sun, 03.08.2025",
         "time": "11:00",
         "event": "Heiter bis Wolkig Flowmarkt (@heiter bis wolkig)",
         "category": "",
@@ -88,26 +108,6 @@
         "link": "https://rausgegangen.de/en/events/open-air-comedy-show-mit-florentine-osche-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/JxrcOiIbTqC2tpuaOqOq_03-07-florentine-osche-karli-comedy-open-air-sommer-special-leipzig-stand-up-comedy1.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Sun, 03.08.2025",
-        "time": "19:30",
-        "event": "Musicals: Chicago (@Schloßtheater Münster)",
-        "category": "",
-        "description": "So 3. 8. im Schloßtheater - Musicals! (5): Die Verfilmung des Broadway-Klassikers mit Renée Zellweger, Catherine Zeta-Jones, Richard Gere und Queen Latifah [engl.OmU] - mit kurzer Einführung des Filmwissenschaftlers Niklas Lotz. Ticket: 12 € / Mit 1 Glas Sekt 15 €",
-        "link": "https://rausgegangen.de/en/events/musicals-chicago-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/twUxCbCwQOSFFW2mKOHh_340f390706.webp?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Sun, 03.08.2025",
-        "time": "20:00",
-        "event": "Drachenzähmen leicht gemacht (@Sparda-Bank Sommernachtskino)",
-        "category": "",
-        "description": "So 3. 8. beim Sparda-Bank Sommernachtskino vor dem Schloss!: Die Realfilm-Version des Animations-Hits über den Wikingerjungen Hicks, der sich mit einem Drachen anfreundet.",
-        "link": "https://rausgegangen.de/en/events/drachenzahmen-leicht-gemacht-8/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4AOxHYpARrKy9ST9iP4j_xmseomzrqcct0izshjfqdsc05863.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
     },
     {
         "date": "Sun, 03.08.2025",
@@ -1032,18 +1032,18 @@
     {
         "date": "Th, 07.08.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 07.08.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 07.08.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 07.08.2025",
@@ -1111,6 +1111,16 @@
     },
     {
         "date": "Thu, 07.08.2025",
+        "time": "20:00",
+        "event": "80s-Frühparty! Turbo-Tanz-Treff (Münster) im Lola-Garten mit eavo (@Rote Lola)",
+        "category": "",
+        "description": "🥳 80s-Frühparty mit eavo im Lola-Garten.💃🏼 Du stehst auf Tanzen, aber bist keine Nachteule? Dann ist das hier was für dich: Jeden Donnerstag zwischen 20:00 und 23:00 Uhr wird die Rote Lola zum perfekten Tanzparadies für alle, die früh ins Bett wollen. Lass den Alltag hinter dir und schwing das Tanzbein mit uns! Im Sommer unter freiem Himmel, im Winter oder bei Regen drinnen.🎉 Freu dich am jeweils ersten Donnerstag im Monat auf drei Stunden 80s mit eavo.🔹 AK 5€. Einlass ab 23 Jahren.",
+        "link": "https://rausgegangen.de/en/events/80s-fruhparty-turbo-tanz-treff-munster-im-lola-garten-mit-ea-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/YqhWpm3xQxKeHPZGquXu_turbotanztreffheader80s.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Thu, 07.08.2025",
         "time": "19:00",
         "event": "Rivers of Nihil (@Naumanns Tanzlokal)",
         "category": "",
@@ -1128,16 +1138,6 @@
         "link": "https://rausgegangen.de/en/events/open-air-comedy-show-open-mic-21/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/chaJpYmQSraJxaRMidMP_coco-comedy-stand-up-open-air-show-stadthafen-strand-leipzig-2025.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Thu, 07.08.2025",
-        "time": "20:00",
-        "event": "80s-Frühparty! Turbo-Tanz-Treff (Münster) im Lola-Garten mit eavo (@Rote Lola)",
-        "category": "",
-        "description": "🥳 80s-Frühparty mit eavo im Lola-Garten.💃🏼 Du stehst auf Tanzen, aber bist keine Nachteule? Dann ist das hier was für dich: Jeden Donnerstag zwischen 20:00 und 23:00 Uhr wird die Rote Lola zum perfekten Tanzparadies für alle, die früh ins Bett wollen. Lass den Alltag hinter dir und schwing das Tanzbein mit uns! Im Sommer unter freiem Himmel, im Winter oder bei Regen drinnen.🎉 Freu dich am jeweils ersten Donnerstag im Monat auf drei Stunden 80s mit eavo.🔹 AK 5€. Einlass ab 23 Jahren.",
-        "link": "https://rausgegangen.de/en/events/80s-fruhparty-turbo-tanz-treff-munster-im-lola-garten-mit-ea-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/YqhWpm3xQxKeHPZGquXu_turbotanztreffheader80s.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
     },
     {
         "date": "Thu, 07.08.2025",
@@ -1287,14 +1287,6 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250808_Turbotrash_4zu5.jpg"
     },
     {
-        "date": "Fri, 08.08",
-        "time": "23:00",
-        "event": "Studi Pop! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/studi-pop/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_08_0825_Feed.jpg"
-    },
-    {
         "date": "Fr, 08.08.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -1325,6 +1317,14 @@
         "category": "Kreativität",
         "link": "https://kunsthalle-bielefeld.de/programm/veranstaltungen/#10209",
         "image_url": null
+    },
+    {
+        "date": "Fri, 08.08",
+        "time": "23:00",
+        "event": "Studi Pop! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/studi-pop/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_08_0825_Feed.jpg"
     },
     {
         "date": "Fr, 08.08.2025",
@@ -1534,14 +1534,6 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250809_TequilaParty_4zu5.jpg"
     },
     {
-        "date": "Sat, 09.08",
-        "time": "23:00",
-        "event": "STEREOLOVE (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/stereolove-2/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_09_0825_Feed-1.jpg"
-    },
-    {
         "date": "Sa, 09.08.2025",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -1572,6 +1564,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 09.08",
+        "time": "23:00",
+        "event": "STEREOLOVE (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/stereolove-2/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_09_0825_Feed-1.jpg"
     },
     {
         "date": "Sa, 09.08.2025",
@@ -1705,14 +1705,6 @@
         "link": "https://www.bielefeld.jetzt/node/1130595"
     },
     {
-        "date": "Sun, 10.08",
-        "time": "16:00",
-        "event": "SOLEIL - SUMMER PARTY @ DÜNE13 presented by STEREO &amp; LIV (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/soleil/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Soleil_Duene13_0825_Feed.jpg"
-    },
-    {
         "date": "Su, 10.08.2025",
         "time": "19:00",
         "event": "*TRIBE KENNENLERNABEND*",
@@ -1727,6 +1719,14 @@
         "category": "Sport",
         "link": "https://www.instagram.com/uprunningclub/?hl=de",
         "image_url": null
+    },
+    {
+        "date": "Sun, 10.08",
+        "time": "16:00",
+        "event": "SOLEIL - SUMMER PARTY @ DÜNE13 presented by STEREO &amp; LIV (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/soleil/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Soleil_Duene13_0825_Feed.jpg"
     },
     {
         "date": "So, 10.08.2025",
@@ -1993,16 +1993,6 @@
     },
     {
         "date": "Wed, 13.08.2025",
-        "time": "19:00",
-        "event": "FIT FOR A KING & KUBLAI KHAN TX (@Felsenkeller Leipzig)",
-        "category": "",
-        "description": "FIT FOR A KING & KUBLAI KHAN TX Summer Side Co-Headline Show💥 13.08.2025 • Felsenkeller Leipzig 👉 Tickets ab Montag, 07. April 2025, 10:00",
-        "link": "https://rausgegangen.de/en/events/fit-for-a-king-kublai-khan-tx-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/kMLdr5xT4aWsp2aj7R6A_ffak-kktx-header-leipzig.jpg?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
-    },
-    {
-        "date": "Wed, 13.08.2025",
         "time": "19:15",
         "event": "Comedy Light Open Mic (@SpecOps network)",
         "category": "",
@@ -2012,12 +2002,14 @@
         "city": "Münster"
     },
     {
-        "date": "Th, 14.08.2025",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
+        "date": "Wed, 13.08.2025",
+        "time": "19:00",
+        "event": "FIT FOR A KING & KUBLAI KHAN TX (@Felsenkeller Leipzig)",
+        "category": "",
+        "description": "FIT FOR A KING & KUBLAI KHAN TX Summer Side Co-Headline Show💥 13.08.2025 • Felsenkeller Leipzig 👉 Tickets ab Montag, 07. April 2025, 10:00",
+        "link": "https://rausgegangen.de/en/events/fit-for-a-king-kublai-khan-tx-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/kMLdr5xT4aWsp2aj7R6A_ffak-kktx-header-leipzig.jpg?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
     },
     {
         "date": "Th, 14.08.2025",
@@ -2026,6 +2018,14 @@
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 14.08.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 14.08.2025",
@@ -2095,14 +2095,6 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250815_Cafelicious_1zu1.jpg"
     },
     {
-        "date": "Fri, 15.08",
-        "time": "23:00",
-        "event": "Studi Pop! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/studi-pop-2/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_15_0825_Feed.jpg"
-    },
-    {
         "date": "Fr, 15.08.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -2127,10 +2119,28 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Fri, 15.08",
+        "time": "23:00",
+        "event": "Studi Pop! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/studi-pop-2/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_15_0825_Feed.jpg"
+    },
+    {
         "date": "Fr, 15.08",
         "event": "Smallroom Weekender (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/smallroom-we-2/",
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
+    },
+    {
+        "date": "Fri, 15.08.2025",
+        "time": "23:00",
+        "event": "Take Me Out Münster - die Indieparty mit eavo im Hot Club (@Hot Jazz Club, Münster)",
+        "category": "",
+        "description": "🎶 Lust auf ne klassische Indieparty mit allem drum und dran? Dann kommt zur Take Me Out! Die bringt euch die Hits, die Hymnen und eure Lieblingssongs. Außerdem: Nostalgie ist kein Genre - deswegen stehen neben den Klassikern auch frische Songs jenseits des Mainstreams auf dem Zettel.🎉 Findet ihr auch die immergleichen Hits und Reihenfolgen langweilig? Dann freut euch bei Take Me Out auf Abwechslung, Song-Überraschungen und natürlich auf guten Flow und flüssige Übergänge.😻 Ach so, mein Name ist eavo. Take Me Out ist meine Indieparty, mit der ich seit 2014 in den schönsten Clubs in ganz Deutschland unterwegs bin. Wenn ihr Ideen oder Fragen habt, sprecht mich gern an oder schickt mir ne Nachricht. Musikvorschläge sind willkommen, denn ich hab Spaß daran, eure Ideen - wenn's passt - ins Set zu puzzlen.💃🏼 Macht mit und es wird ne überragende Party, klebriger Fußboden und durchtanzte Schuhe inklusive!❗️Spread the word, schnappt euch eure Leute und kommt vorbei!Take Me Out klingt wie z. B: Arctic Monkeys – Alt–J – Art Brut – Bilderbuch – 3xBeat! – Betterov – Bloc Party – Blond – Blood Red Shoes – Blur – BOY – Bonaparte – Cage the Elephant – Cure – DIIV – Drums – Editors – Edwin Rosen – Faber – Florence – Foals – FONTAINES D.C. – Franz Ferdinand – Friska – Frittenbude – Giant Rooks – girl in red – IDLES – Interpol – Jamie T – Johnossi – Joy Division – Justice – Kaiser Chiefs – Kate Nash – KennyHoopla – Killers – Kooks – KMF – Kraftklub – KYTES – Le Tigre – Leoniden – Libertines – Lykke Li – M83 – Mando Diao – Maxïmo Park – Metronomy – MGMT – Mitski – Miyagi – Nerven – Organ – Pabst – Phoenix – Pixies – Postal Service – Pulp – Rakes – Razz – SALÒ – Sam Fender – Shame – Shout Out Louds – Sterne – Streets – Strokes – Team Scheisse – Ting Tings – Tomte – Tränen – TDCC – Vampire Weekend – Viagra Boys – WWP Jetpacks – Wet Leg – Wombats – Yard Act – YYYs – The xx – uvm.🌍 Mehr Infos inkl. Spotify-Listen auf www.eavo.de/takemeout/  📷 www.instagram.com/__eavo__ 📘 www.facebook.com/neinmaschine🔹 AK 8€🎟 Spare 20% beim Vorverkauf, indem du dich für meinen Newsletter anmeldest: www.eavo.de/NL! 🔹 VVK: Limitiertes Kontingent Earlybird-Tickets: 5€ zzgl. Gebühren bis 6 Tage vor dem Abend 🔹 Danach 7€ zzgl. Gebühren bei rausgegangen.de.",
+        "link": "https://rausgegangen.de/en/events/take-me-out-munster-die-indieparty-mit-eavo-im-hot-club-10/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wUFHGaITVm1zA0K0zzAY_tmoheadercreme.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Fri, 15.08.2025",
@@ -2184,16 +2194,6 @@
     },
     {
         "date": "Fri, 15.08.2025",
-        "time": "23:00",
-        "event": "Take Me Out Münster - die Indieparty mit eavo im Hot Club (@Hot Jazz Club, Münster)",
-        "category": "",
-        "description": "🎶 Lust auf ne klassische Indieparty mit allem drum und dran? Dann kommt zur Take Me Out! Die bringt euch die Hits, die Hymnen und eure Lieblingssongs. Außerdem: Nostalgie ist kein Genre - deswegen stehen neben den Klassikern auch frische Songs jenseits des Mainstreams auf dem Zettel.🎉 Findet ihr auch die immergleichen Hits und Reihenfolgen langweilig? Dann freut euch bei Take Me Out auf Abwechslung, Song-Überraschungen und natürlich auf guten Flow und flüssige Übergänge.😻 Ach so, mein Name ist eavo. Take Me Out ist meine Indieparty, mit der ich seit 2014 in den schönsten Clubs in ganz Deutschland unterwegs bin. Wenn ihr Ideen oder Fragen habt, sprecht mich gern an oder schickt mir ne Nachricht. Musikvorschläge sind willkommen, denn ich hab Spaß daran, eure Ideen - wenn's passt - ins Set zu puzzlen.💃🏼 Macht mit und es wird ne überragende Party, klebriger Fußboden und durchtanzte Schuhe inklusive!❗️Spread the word, schnappt euch eure Leute und kommt vorbei!Take Me Out klingt wie z. B: Arctic Monkeys – Alt–J – Art Brut – Bilderbuch – 3xBeat! – Betterov – Bloc Party – Blond – Blood Red Shoes – Blur – BOY – Bonaparte – Cage the Elephant – Cure – DIIV – Drums – Editors – Edwin Rosen – Faber – Florence – Foals – FONTAINES D.C. – Franz Ferdinand – Friska – Frittenbude – Giant Rooks – girl in red – IDLES – Interpol – Jamie T – Johnossi – Joy Division – Justice – Kaiser Chiefs – Kate Nash – KennyHoopla – Killers – Kooks – KMF – Kraftklub – KYTES – Le Tigre – Leoniden – Libertines – Lykke Li – M83 – Mando Diao – Maxïmo Park – Metronomy – MGMT – Mitski – Miyagi – Nerven – Organ – Pabst – Phoenix – Pixies – Postal Service – Pulp – Rakes – Razz – SALÒ – Sam Fender – Shame – Shout Out Louds – Sterne – Streets – Strokes – Team Scheisse – Ting Tings – Tomte – Tränen – TDCC – Vampire Weekend – Viagra Boys – WWP Jetpacks – Wet Leg – Wombats – Yard Act – YYYs – The xx – uvm.🌍 Mehr Infos inkl. Spotify-Listen auf www.eavo.de/takemeout/  📷 www.instagram.com/__eavo__ 📘 www.facebook.com/neinmaschine🔹 AK 8€🎟 Spare 20% beim Vorverkauf, indem du dich für meinen Newsletter anmeldest: www.eavo.de/NL! 🔹 VVK: Limitiertes Kontingent Earlybird-Tickets: 5€ zzgl. Gebühren bis 6 Tage vor dem Abend 🔹 Danach 7€ zzgl. Gebühren bei rausgegangen.de.",
-        "link": "https://rausgegangen.de/en/events/take-me-out-munster-die-indieparty-mit-eavo-im-hot-club-10/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wUFHGaITVm1zA0K0zzAY_tmoheadercreme.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Fri, 15.08.2025",
         "time": "14:00",
         "event": "Kopfkino statt Fernsehabend (@Altstädter Kirchpark)",
         "category": "CityLife-Sommer",
@@ -2217,14 +2217,6 @@
         "category": "Party",
         "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-x-cocktail-night/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250816_CocktailParty_4zu5.jpg"
-    },
-    {
-        "date": "Sat, 16.08",
-        "time": "23:00",
-        "event": "STEREOLOVE (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/stereolove-3/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_16_0825_Feed.jpg"
     },
     {
         "date": "Sa, 16.08.2025",
@@ -2257,6 +2249,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 16.08",
+        "time": "23:00",
+        "event": "STEREOLOVE (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/stereolove-3/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_16_0825_Feed.jpg"
     },
     {
         "date": "Sat, 16.08.2025",
@@ -2402,18 +2402,18 @@
     {
         "date": "Th, 21.08.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 21.08.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 21.08.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 21.08.2025",
@@ -2482,14 +2482,6 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250822_2010Flashback_4zu5.jpg"
     },
     {
-        "date": "Fri, 22.08",
-        "time": "23:00",
-        "event": "Studi Pop! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/studi-pop-3/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_22_0825_Feed.jpg"
-    },
-    {
         "date": "Fr, 22.08.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -2514,6 +2506,14 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Fri, 22.08",
+        "time": "23:00",
+        "event": "Studi Pop! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/studi-pop-3/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_22_0825_Feed.jpg"
+    },
+    {
         "date": "Fri, 22.08.2025",
         "time": "18:30",
         "event": "Kettcar (@JunkYard Dortmund)",
@@ -2530,14 +2530,6 @@
         "category": "Party",
         "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-jahnplatz-open-air-aftershow/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250823_SummerNight_4zu5.jpg"
-    },
-    {
-        "date": "Sat, 23.08",
-        "time": "23:00",
-        "event": "STEREOLOVE (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/stereolove-4/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_23_0825_Feed.jpg"
     },
     {
         "date": "Sa, 23.08.2025",
@@ -2570,6 +2562,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 23.08",
+        "time": "23:00",
+        "event": "STEREOLOVE (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/stereolove-4/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_23_0825_Feed.jpg"
     },
     {
         "date": "Sa, 23.08",
@@ -2749,18 +2749,18 @@
     {
         "date": "Th, 28.08.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 28.08.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 28.08.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 28.08.2025",
@@ -2803,14 +2803,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Fri, 29.08",
-        "time": "23:00",
-        "event": "end of summer - freitag (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/end-of-summer-freitag/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_29_0825_Feed.jpg"
-    },
-    {
         "date": "Fr, 29.08.2025",
         "time": "19:00",
         "event": "*TRIBE CREATIVE CIRCLES*",
@@ -2841,6 +2833,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fri, 29.08",
+        "time": "23:00",
+        "event": "end of summer - freitag (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/end-of-summer-freitag/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_29_0825_Feed.jpg"
     },
     {
         "date": "Fri, 29.08.2025",
@@ -2897,14 +2897,6 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250830_IbizaWhiteNight_4zu5.jpg"
     },
     {
-        "date": "Sat, 30.08",
-        "time": "23:00",
-        "event": "END OF SUMMER - SAMSTAG (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/end-of-summer-samstag/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_30_0825_Feed.jpg"
-    },
-    {
         "date": "Sa, 30.08.2025",
         "time": "14:00",
         "event": "*TRIBE WANDERSAMSTAG*",
@@ -2943,6 +2935,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 30.08",
+        "time": "23:00",
+        "event": "END OF SUMMER - SAMSTAG (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/end-of-summer-samstag/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_30_0825_Feed.jpg"
     },
     {
         "date": "Sa, 30.08",
@@ -3170,18 +3170,18 @@
     {
         "date": "Th, 04.09.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 04.09.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 04.09.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Do, 04.09",
@@ -3573,18 +3573,18 @@
     {
         "date": "Th, 11.09.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 11.09.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 11.09.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 11.09.2025",
@@ -3934,18 +3934,18 @@
     {
         "date": "Th, 18.09.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 18.09.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 18.09.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 18.09.2025",
@@ -4300,18 +4300,18 @@
     {
         "date": "Th, 25.09.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 25.09.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 25.09.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 25.09.2025",
@@ -4711,18 +4711,18 @@
     {
         "date": "Th, 02.10.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 02.10.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 02.10.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 02.10.2025",
@@ -4823,14 +4823,6 @@
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
-        "date": "Sat, 04.10",
-        "time": "19:00",
-        "event": "Mutti tanzt! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/mutti-tanzt/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/05/Stereo_MT_04_1025_Feed01.jpg"
-    },
-    {
         "date": "Sa, 04.10.2025",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -4861,6 +4853,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 04.10",
+        "time": "19:00",
+        "event": "Mutti tanzt! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/mutti-tanzt/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/05/Stereo_MT_04_1025_Feed01.jpg"
     },
     {
         "date": "Sat, 04.10.2025",
@@ -5054,18 +5054,18 @@
     {
         "date": "Th, 09.10.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 09.10.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 09.10.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 09.10.2025",
@@ -5376,18 +5376,18 @@
     {
         "date": "Th, 16.10.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 16.10.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 16.10.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 16.10.2025",
@@ -5641,18 +5641,18 @@
     {
         "date": "Th, 23.10.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 23.10.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 23.10.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 23.10.2025",
@@ -5943,18 +5943,18 @@
     {
         "date": "Th, 30.10.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 30.10.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 30.10.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 30.10.2025",
@@ -6239,18 +6239,18 @@
     {
         "date": "Th, 06.11.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 06.11.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 06.11.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 06.11.2025",
@@ -6583,18 +6583,18 @@
     {
         "date": "Th, 13.11.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 13.11.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 13.11.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 13.11.2025",
@@ -6893,18 +6893,18 @@
     {
         "date": "Th, 20.11.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 20.11.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 20.11.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 20.11.2025",
@@ -7159,18 +7159,18 @@
     {
         "date": "Th, 27.11.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 27.11.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 27.11.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 27.11.2025",
@@ -7251,14 +7251,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Sat, 29.11",
-        "time": "22:00",
-        "event": "DISKO TOTAL! // Die Party für alle ab 25! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/disko-total-die-party-fuer-alle-ab-25/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/DISKOTOTAL.png"
-    },
-    {
         "date": "Sa, 29.11.2025",
         "time": "14:00",
         "event": "*TRIBE WANDERSAMSTAG*",
@@ -7297,6 +7289,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 29.11",
+        "time": "22:00",
+        "event": "DISKO TOTAL! // Die Party für alle ab 25! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/disko-total-die-party-fuer-alle-ab-25/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/DISKOTOTAL.png"
     },
     {
         "date": "Sat, 29.11.2025",
@@ -7415,18 +7415,18 @@
     {
         "date": "Th, 04.12.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 04.12.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 04.12.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 04.12.2025",
@@ -7683,18 +7683,18 @@
     {
         "date": "Th, 11.12.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 11.12.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 11.12.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 11.12.2025",
@@ -7743,14 +7743,6 @@
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
-        "date": "Fri, 12.12",
-        "time": "23:00",
-        "event": "Drunken Masters - ABRISS &amp; DEMONTAGE! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/drunken-masters-abriss-demontage/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Drunken-Masters_Tour_25-26_26-1.jpg"
-    },
-    {
         "date": "Fr, 12.12.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -7781,6 +7773,14 @@
         "category": "Kreativität",
         "link": "https://kunsthalle-bielefeld.de/programm/veranstaltungen/#10209",
         "image_url": null
+    },
+    {
+        "date": "Fri, 12.12",
+        "time": "23:00",
+        "event": "Drunken Masters - ABRISS &amp; DEMONTAGE! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/drunken-masters-abriss-demontage/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Drunken-Masters_Tour_25-26_26-1.jpg"
     },
     {
         "date": "Sa, 13.12.2025",
@@ -7949,18 +7949,18 @@
     {
         "date": "Th, 18.12.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 18.12.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 18.12.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 18.12.2025",
@@ -8158,18 +8158,18 @@
     {
         "date": "Th, 25.12.2025",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 25.12.2025",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 25.12.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 25.12.2025",
