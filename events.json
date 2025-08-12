@@ -1,29 +1,5 @@
 [
     {
-        "date": "Tu, 12.08.2025",
-        "time": "18:00",
-        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Tu, 12.08.2025",
-        "time": "20:00",
-        "event": "Kneipenquiz(@gegenueber_bar)",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/gegenueber_bar/?hl=de",
-        "image_url": null
-    },
-    {
-        "date": "Tu, 12.08.2025",
-        "time": "07:00",
-        "event": "Wochenmarkt(@Alter Markt)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
         "date": "Di, 12.08.2025",
         "time": "18:00",
         "event": "Fitnesstraining(@hochschulsport_bielefeld)",
@@ -56,24 +32,28 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Tue, 12.08.2025",
-        "time": "18:30",
-        "event": "The Game Club (@Weingrün)",
-        "category": "",
-        "description": "Couple Goals mal anders 👀🍷 – bei The Game Club trefft ihr andere Duos, spielt euch warm & sammelt Stories fürs nächste Doppeldate.",
-        "link": "https://rausgegangen.de/en/events/the-game-club-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ZF2j7UdNShmsL8KX4t49_kopie-von-the-girls-clubzip-81.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
+        "date": "Tu, 12.08.2025",
+        "time": "18:00",
+        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
     },
     {
-        "date": "Tue, 12.08.2025",
+        "date": "Tu, 12.08.2025",
         "time": "20:00",
-        "event": "Pub Quiz (@The Londoner  - Britischer Pub)",
-        "category": "",
-        "description": "In einzigartiger Atmosphäre quizzen und dazu ein paar Bier? Geht und gibt's in Dortmund - solltest du mal ausprobieren!",
-        "link": "https://rausgegangen.de/en/events/pub-quiz-551/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/yHrx9uXVRC0DWHp0g6pm_Taps.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
+        "event": "Kneipenquiz(@gegenueber_bar)",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/gegenueber_bar/?hl=de",
+        "image_url": null
+    },
+    {
+        "date": "Tu, 12.08.2025",
+        "time": "07:00",
+        "event": "Wochenmarkt(@Alter Markt)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Tue, 12.08.2025",
@@ -134,6 +114,26 @@
         "link": "https://rausgegangen.de/en/events/karaoke-queer-o-ke-37/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vtSu0aZSNqbrZ0dvWEne_karaoke-quer.png?width=1200&height=900&mode=crop",
         "city": "Leipzig"
+    },
+    {
+        "date": "Tue, 12.08.2025",
+        "time": "18:30",
+        "event": "The Game Club (@Weingrün)",
+        "category": "",
+        "description": "Couple Goals mal anders 👀🍷 – bei The Game Club trefft ihr andere Duos, spielt euch warm & sammelt Stories fürs nächste Doppeldate.",
+        "link": "https://rausgegangen.de/en/events/the-game-club-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ZF2j7UdNShmsL8KX4t49_kopie-von-the-girls-clubzip-81.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Tue, 12.08.2025",
+        "time": "20:00",
+        "event": "Pub Quiz (@The Londoner  - Britischer Pub)",
+        "category": "",
+        "description": "In einzigartiger Atmosphäre quizzen und dazu ein paar Bier? Geht und gibt's in Dortmund - solltest du mal ausprobieren!",
+        "link": "https://rausgegangen.de/en/events/pub-quiz-551/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/yHrx9uXVRC0DWHp0g6pm_Taps.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Tue, 12.08.2025",
@@ -306,54 +306,6 @@
         "city": "Köln"
     },
     {
-        "date": "Mi, 13.08",
-        "time": "23:00",
-        "event": "MI • BERGFEST (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-bergfest-17/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250813_Bergfest_4zu5.jpg"
-    },
-    {
-        "date": "We, 13.08.2025",
-        "time": "21:00",
-        "event": "Karaoke (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "We, 13.08.2025",
-        "time": "18:00",
-        "event": "*TRIBE BOULDERN (@Kletterhalle Senne)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "We, 13.08.2025",
-        "time": "07:00",
-        "event": "Wochenmarkt(@Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "We, 13.08.2025",
-        "time": "20:00",
-        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
-        "image_url": null
-    },
-    {
-        "date": "We, 13.08.2025",
-        "time": "20:00",
-        "event": "DIES DAS COMEDY - OPEN MIC (@diesdascomedy)",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/diesdascomedy/",
-        "image_url": null
-    },
-    {
         "date": "Mi, 13.08.2025",
         "time": "10:00",
         "event": "Yoga(@hochschulsport_bielefeld)",
@@ -402,14 +354,52 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Wed, 13.08.2025",
-        "time": "21:30",
-        "event": "To the Moon (@PSD Bank Sommerkino)",
-        "category": "",
-        "description": "Sommer. Open-Air-Kino. Lieblingsmenschen. That’s the vibe. ✨ Vom 17. Juli bis 24. August heißt’s: Film ab im Westfalenpark beim PSD Bank Sommerkino! 🌙 SPOTLIGHT ON: To the Moon Ein wilder Mix aus Romantik, 60er Jahre Flair und einer Prise Verschwörung: Eine PR-Expertin (Scarlett Johansson) und der NASA-Direktor (Channing Tatum) geraten mitten in die Mondlandung - oder deren Inszenierung? Das werden wir im PSD Bank Sommerkino erfahren! 🚀 ⬇️ schau mal in den Trailer rein!",
-        "link": "https://rausgegangen.de/en/events/to-the-moon-46/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BpSsctgQRWGmVP6jFkk8_to-the-moon-16x9.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
+        "date": "We, 13.08.2025",
+        "time": "21:00",
+        "event": "Karaoke (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "We, 13.08.2025",
+        "time": "18:00",
+        "event": "*TRIBE BOULDERN (@Kletterhalle Senne)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "We, 13.08.2025",
+        "time": "07:00",
+        "event": "Wochenmarkt(@Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "We, 13.08.2025",
+        "time": "20:00",
+        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
+        "image_url": null
+    },
+    {
+        "date": "We, 13.08.2025",
+        "time": "20:00",
+        "event": "DIES DAS COMEDY - OPEN MIC (@diesdascomedy)",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/diesdascomedy/",
+        "image_url": null
+    },
+    {
+        "date": "Mi, 13.08",
+        "time": "23:00",
+        "event": "MI • BERGFEST (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-bergfest-17/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250813_Bergfest_4zu5.jpg"
     },
     {
         "date": "Wed, 13.08.2025",
@@ -430,6 +420,16 @@
         "link": "https://rausgegangen.de/en/events/fit-for-a-king-kublai-khan-tx-1/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/kMLdr5xT4aWsp2aj7R6A_ffak-kktx-header-leipzig.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
+    },
+    {
+        "date": "Wed, 13.08.2025",
+        "time": "21:30",
+        "event": "To the Moon (@PSD Bank Sommerkino)",
+        "category": "",
+        "description": "Sommer. Open-Air-Kino. Lieblingsmenschen. That’s the vibe. ✨ Vom 17. Juli bis 24. August heißt’s: Film ab im Westfalenpark beim PSD Bank Sommerkino! 🌙 SPOTLIGHT ON: To the Moon Ein wilder Mix aus Romantik, 60er Jahre Flair und einer Prise Verschwörung: Eine PR-Expertin (Scarlett Johansson) und der NASA-Direktor (Channing Tatum) geraten mitten in die Mondlandung - oder deren Inszenierung? Das werden wir im PSD Bank Sommerkino erfahren! 🚀 ⬇️ schau mal in den Trailer rein!",
+        "link": "https://rausgegangen.de/en/events/to-the-moon-46/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BpSsctgQRWGmVP6jFkk8_to-the-moon-16x9.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Wed, 13.08.2025",
@@ -638,6 +638,30 @@
         "image_url": null
     },
     {
+        "date": "Do, 14.08.2025",
+        "time": "16:30",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 14.08.2025",
+        "time": "17:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 14.08.2025",
+        "time": "18:30",
+        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35659",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
         "date": "Th, 14.08.2025",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
@@ -678,28 +702,14 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Do, 14.08.2025",
-        "time": "16:30",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 14.08.2025",
-        "time": "17:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 14.08.2025",
-        "time": "18:30",
-        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35659",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+        "date": "Thu, 14.08.2025",
+        "time": "17:00",
+        "event": "Sommer Tanzklassen * Hip Hop * Dancehall * Twerk (@WATCH MI STEP / Studio NIA)",
+        "category": "",
+        "description": "Lass uns durch den Sommer tanzen!  Jede Tanzstunde ist einzeln buchbar so gestaltet, dass du einfach einsteigen kannst. Alle unsere Klassen sind Open Classes.Bei uns bist Du richtig, wenn Du Dancehall,, Twerk & Hip Hop tanzen lernen möchtest. Wir bieten Klassen für alle Level im Bereich Tanz- und Tanzfitness.Unsere Kurse finden im NIA Studio in der Nähe vom Bayerischer Bahnhof in Leipzig statt..Heiße Sommer-DealsEinzelstunde 11 Euro7er Abo-Karte 49 EuroFlatrate Juli & August 99 Euro* Preise nur im Juli & August 2025 gültig .Deine Teilnahme an den einzelnen  Klassen kannst du über unseren Stunden plan buchen >>> https://www.watchmistep.com/summer-school/",
+        "link": "https://rausgegangen.de/en/events/sommer-tanzklassen-hip-hop-dancehall-twerk-11/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aJzj7KAwT3axsHuKE9xa_sommer-school-banner.png?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
     },
     {
         "date": "Thu, 14.08.2025",
@@ -720,16 +730,6 @@
         "link": "https://rausgegangen.de/en/events/ein-minecraft-film-24/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/h7auyNuST1yi5Leb8Qea_ein-minecraft-film-16x9.png?width=1200&height=900&mode=crop",
         "city": "Dortmund"
-    },
-    {
-        "date": "Thu, 14.08.2025",
-        "time": "17:00",
-        "event": "Sommer Tanzklassen * Hip Hop * Dancehall * Twerk (@WATCH MI STEP / Studio NIA)",
-        "category": "",
-        "description": "Lass uns durch den Sommer tanzen!  Jede Tanzstunde ist einzeln buchbar so gestaltet, dass du einfach einsteigen kannst. Alle unsere Klassen sind Open Classes.Bei uns bist Du richtig, wenn Du Dancehall,, Twerk & Hip Hop tanzen lernen möchtest. Wir bieten Klassen für alle Level im Bereich Tanz- und Tanzfitness.Unsere Kurse finden im NIA Studio in der Nähe vom Bayerischer Bahnhof in Leipzig statt..Heiße Sommer-DealsEinzelstunde 11 Euro7er Abo-Karte 49 EuroFlatrate Juli & August 99 Euro* Preise nur im Juli & August 2025 gültig .Deine Teilnahme an den einzelnen  Klassen kannst du über unseren Stunden plan buchen >>> https://www.watchmistep.com/summer-school/",
-        "link": "https://rausgegangen.de/en/events/sommer-tanzklassen-hip-hop-dancehall-twerk-11/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aJzj7KAwT3axsHuKE9xa_sommer-school-banner.png?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
     },
     {
         "date": "Thu, 14.08.2025",
@@ -1009,12 +1009,28 @@
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_15_0825_Feed.jpg"
     },
     {
-        "date": "Fr, 15.08",
-        "time": "23:00",
-        "event": "FR • CAFELICIOUS  • RAUM2: BOOTY BOUNCE: DJ ANT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-cafelicious-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250815_Cafelicious_1zu1.jpg"
+        "date": "Fr, 15.08.2025",
+        "time": "16:00",
+        "event": "Volleyball(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35417",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 15.08.2025",
+        "time": "18:00",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35506",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 15.08.2025",
+        "time": "18:30",
+        "event": "Laufen(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35520",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Fr, 15.08.2025",
@@ -1041,54 +1057,18 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Fr, 15.08.2025",
-        "time": "16:00",
-        "event": "Volleyball(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35417",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Fr, 15.08.2025",
-        "time": "18:00",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35506",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Fr, 15.08.2025",
-        "time": "18:30",
-        "event": "Laufen(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35520",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+        "date": "Fr, 15.08",
+        "time": "23:00",
+        "event": "FR • CAFELICIOUS  • RAUM2: BOOTY BOUNCE: DJ ANT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-cafelicious-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250815_Cafelicious_1zu1.jpg"
     },
     {
         "date": "Fr, 15.08",
         "event": "Smallroom Weekender (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/smallroom-we-2/",
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
-    },
-    {
-        "date": "Fri, 15.08.2025",
-        "time": "19:00",
-        "event": "Sunset Beach Club (@Revierpark Wischlingen)",
-        "category": "",
-        "description": "Feierabendmarkt-Vibes mit Strand-Upgrade 🌅🍹 – der Sunset Beach Club ist wie Urlaub in Dortmund, nur dass du danach heimlaufen kannst.",
-        "link": "https://rausgegangen.de/en/events/sunset-beach-club-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8imOPdgsQyODVaTFwGy9_sbc-rpw-rausgegangen.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Fri, 15.08.2025",
-        "time": "21:30",
-        "event": "Karate Kid: Legends (@PSD Bank Sommerkino)",
-        "category": "",
-        "description": "Sommer. Open-Air-Kino. Lieblingsmenschen. That’s the vibe. ✨ Vom 17. Juli bis 24. August heißt’s: Film ab im Westfalenpark beim PSD Bank Sommerkino! 🥋 SPOTLIGHT ON: Karade Kid: Legends Zwei Welten, zwei Meister, ein Ziel: Nachwuchstalent Li Fong auf seinen ganz eigenen Weg zwischen Kung Fu und Karate vorzubereiten. 💥 Die Legende lebt weiter mit neuer Generation, alten Werten und jeder Menge Training-Montage! ⬇️ schau mal in den Trailer rein!",
-        "link": "https://rausgegangen.de/en/events/karate-kid-legends-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/leGNzH7sT7mQS4ScXgQS_karate-kid-legends-16x9.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
     },
     {
         "date": "Fri, 15.08.2025",
@@ -1159,6 +1139,26 @@
         "link": "https://rausgegangen.de/en/events/leef-2-years-anniversary-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/G6rYzD7nQqKQIhxMvPVz_photo2025-07-22-123355.jpeg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
+    },
+    {
+        "date": "Fri, 15.08.2025",
+        "time": "19:00",
+        "event": "Sunset Beach Club (@Revierpark Wischlingen)",
+        "category": "",
+        "description": "Feierabendmarkt-Vibes mit Strand-Upgrade 🌅🍹 – der Sunset Beach Club ist wie Urlaub in Dortmund, nur dass du danach heimlaufen kannst.",
+        "link": "https://rausgegangen.de/en/events/sunset-beach-club-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8imOPdgsQyODVaTFwGy9_sbc-rpw-rausgegangen.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Fri, 15.08.2025",
+        "time": "21:30",
+        "event": "Karate Kid: Legends (@PSD Bank Sommerkino)",
+        "category": "",
+        "description": "Sommer. Open-Air-Kino. Lieblingsmenschen. That’s the vibe. ✨ Vom 17. Juli bis 24. August heißt’s: Film ab im Westfalenpark beim PSD Bank Sommerkino! 🥋 SPOTLIGHT ON: Karade Kid: Legends Zwei Welten, zwei Meister, ein Ziel: Nachwuchstalent Li Fong auf seinen ganz eigenen Weg zwischen Kung Fu und Karate vorzubereiten. 💥 Die Legende lebt weiter mit neuer Generation, alten Werten und jeder Menge Training-Montage! ⬇️ schau mal in den Trailer rein!",
+        "link": "https://rausgegangen.de/en/events/karate-kid-legends-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/leGNzH7sT7mQS4ScXgQS_karate-kid-legends-16x9.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Fri, 15.08.2025",
@@ -1417,12 +1417,28 @@
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_16_0825_Feed.jpg"
     },
     {
-        "date": "Sa, 16.08",
-        "time": "23:00",
-        "event": "SA • CAFE SUMMER NIGHTS X COCKTAIL NIGHT • RAUM2: BOOTY BOUNCE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-x-cocktail-night/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250816_CocktailParty_4zu5.jpg"
+        "date": "Sa, 16.08.2025",
+        "time": "08:00",
+        "event": "Wandern(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38176",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 16.08.2025",
+        "time": "10:00",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36263",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 16.08.2025",
+        "time": "11:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Sa, 16.08.2025",
@@ -1457,38 +1473,12 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Sa, 16.08.2025",
-        "time": "08:00",
-        "event": "Wandern(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38176",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 16.08.2025",
-        "time": "10:00",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36263",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 16.08.2025",
-        "time": "11:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sat, 16.08.2025",
+        "date": "Sa, 16.08",
         "time": "23:00",
-        "event": "KILLING ME SOFTLY (@Großmarktschänke)",
-        "category": "",
-        "description": "Aloha ihr Lieben! 💫 Es ist wieder Zeit für eine Nacht voller Gefühl, Groove und Good Vibes! Wenn RnB-Klassiker auf 2000er Hip-Hop treffen, Erinnerungen aufblühen und der Dancefloor leuchtet, dann ist klar: Hier tanzt das Herz mit.✨ Dieses Mal freuen wir uns auf Rubimental, DJane aus Bochum, die in ihren Sets das Beste aus Rap, RnB, Afro, Future Beats und Global Bass vereint. Mit smoothen Transitions bringt sie die ganz großen Floors zum Beben – ob beim splash!, Juicy Beats, Fusion oder live im Radio bei WDR Cosmo, Cute Community Radio oder Foundation FM.An ihrer Seite: 🎶 DJ Marshall Artz – unser Resident mit dem perfekten Händchen für magische Übergänge und euphorische Tanzmomente.Gemeinsam schenken die beiden uns eine Nacht, die sich anfühlt wie ein musikalischer Kurzurlaub: vertraut, lebendig und voller Glanz. Eine Feier für alle, die den Vibe lieben, sich fallen lassen wollen – und einfach tanzen müssen.Zieh an, was dich strahlen lässt – ob Glitzer oder Sneaker – schnapp dir deine Lieblingsmenschen und lass uns gemeinsam durch Erinnerungen, Melodien und Lichter tanzen. 🌙💃✨ Let the rhythm hold you, the music lift you and the night carry you.Wir freuen uns auf dich!Eintritt bis 23:30 Uhr: € 6,00 - danach € 12,00 Ermäßigter Eintritt: € 8,00 | Zutritt ab 18",
-        "link": "https://rausgegangen.de/en/events/killing-me-softly-29/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/DP0wLCeTTixc1RvVz9pT_killing-me-softly-banner-3.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
+        "event": "SA • CAFE SUMMER NIGHTS X COCKTAIL NIGHT • RAUM2: BOOTY BOUNCE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-x-cocktail-night/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250816_CocktailParty_4zu5.jpg"
     },
     {
         "date": "Sat, 16.08.2025",
@@ -1562,6 +1552,16 @@
     },
     {
         "date": "Sat, 16.08.2025",
+        "time": "23:00",
+        "event": "KILLING ME SOFTLY (@Großmarktschänke)",
+        "category": "",
+        "description": "Aloha ihr Lieben! 💫 Es ist wieder Zeit für eine Nacht voller Gefühl, Groove und Good Vibes! Wenn RnB-Klassiker auf 2000er Hip-Hop treffen, Erinnerungen aufblühen und der Dancefloor leuchtet, dann ist klar: Hier tanzt das Herz mit.✨ Dieses Mal freuen wir uns auf Rubimental, DJane aus Bochum, die in ihren Sets das Beste aus Rap, RnB, Afro, Future Beats und Global Bass vereint. Mit smoothen Transitions bringt sie die ganz großen Floors zum Beben – ob beim splash!, Juicy Beats, Fusion oder live im Radio bei WDR Cosmo, Cute Community Radio oder Foundation FM.An ihrer Seite: 🎶 DJ Marshall Artz – unser Resident mit dem perfekten Händchen für magische Übergänge und euphorische Tanzmomente.Gemeinsam schenken die beiden uns eine Nacht, die sich anfühlt wie ein musikalischer Kurzurlaub: vertraut, lebendig und voller Glanz. Eine Feier für alle, die den Vibe lieben, sich fallen lassen wollen – und einfach tanzen müssen.Zieh an, was dich strahlen lässt – ob Glitzer oder Sneaker – schnapp dir deine Lieblingsmenschen und lass uns gemeinsam durch Erinnerungen, Melodien und Lichter tanzen. 🌙💃✨ Let the rhythm hold you, the music lift you and the night carry you.Wir freuen uns auf dich!Eintritt bis 23:30 Uhr: € 6,00 - danach € 12,00 Ermäßigter Eintritt: € 8,00 | Zutritt ab 18",
+        "link": "https://rausgegangen.de/en/events/killing-me-softly-29/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/DP0wLCeTTixc1RvVz9pT_killing-me-softly-banner-3.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 16.08.2025",
         "time": "14:00",
         "event": "Heavysaurus (@Draussen im Grünen)",
         "category": "",
@@ -1599,22 +1599,6 @@
         "link": "https://www.bielefeld.jetzt/node/1207607"
     },
     {
-        "date": "Su, 17.08.2025",
-        "time": "19:00",
-        "event": "*TRIBE KENNENLERNABEND*",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Su, 17.08.2025",
-        "time": "09:00",
-        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/uprunningclub/?hl=de",
-        "image_url": null
-    },
-    {
         "date": "So, 17.08.2025",
         "time": "09:00",
         "event": "Yoga(@hochschulsport_bielefeld)",
@@ -1637,6 +1621,22 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37043",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Su, 17.08.2025",
+        "time": "19:00",
+        "event": "*TRIBE KENNENLERNABEND*",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Su, 17.08.2025",
+        "time": "09:00",
+        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/uprunningclub/?hl=de",
+        "image_url": null
     },
     {
         "date": "Sun, 17.08.2025",
@@ -1688,22 +1688,6 @@
     },
     {
         "date": "Mo, 18.08.2025",
-        "time": "20:00",
-        "event": "Pub Quiz (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Mo, 18.08.2025",
-        "time": "18:00",
-        "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Mo, 18.08.2025",
         "time": "17:00",
         "event": "Volleyball(@hochschulsport_bielefeld)",
         "category": "Sport",
@@ -1743,6 +1727,22 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "date": "Mo, 18.08.2025",
+        "time": "20:00",
+        "event": "Pub Quiz (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "Mo, 18.08.2025",
+        "time": "18:00",
+        "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
         "date": "Mon, 18.08.2025",
         "time": "20:00",
         "event": "Open Air - Comedy Show (@Feinkost eG)",
@@ -1751,22 +1751,6 @@
         "link": "https://rausgegangen.de/en/events/open-air-sommer-comedy-show-mit-ingmar-stadelmann-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/u2FWjwuAS82qrjCCC9uk_karli-comedy-show-leipzig-stand-up-comedy-open-air-show-feinkost-leipzig-2025.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Tu, 19.08.2025",
-        "time": "18:00",
-        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Tu, 19.08.2025",
-        "time": "07:00",
-        "event": "Wochenmarkt(@Alter Markt)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Di, 19.08.2025",
@@ -1801,6 +1785,22 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "date": "Tu, 19.08.2025",
+        "time": "18:00",
+        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Tu, 19.08.2025",
+        "time": "07:00",
+        "event": "Wochenmarkt(@Alter Markt)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
         "date": "Tue, 19.08.2025",
         "time": "17:45",
         "event": "Solo Jazz ABC (@Theresa Ivanovic ☆ Jazz, Blues & Hoopdance | Studio Lagerhofstr.4)",
@@ -1809,46 +1809,6 @@
         "link": "https://rausgegangen.de/en/events/solo-jazz-abc-7/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TWc7X75SUMo718fxvXgG_neu-swing-sommer-2025-1738-x-1303-px-youtube-miniatur202507130936010000.png?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Mi, 20.08",
-        "time": "23:00",
-        "event": "MI • WEDNESDATE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wednesdate-9/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250820_Wednesdate_4zu5.jpg"
-    },
-    {
-        "date": "We, 20.08.2025",
-        "time": "21:00",
-        "event": "Karaoke (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "We, 20.08.2025",
-        "time": "18:00",
-        "event": "*TRIBE BOULDERN (@Kletterhalle Senne)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "We, 20.08.2025",
-        "time": "07:00",
-        "event": "Wochenmarkt(@Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "We, 20.08.2025",
-        "time": "20:00",
-        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
-        "image_url": null
     },
     {
         "date": "Mi, 20.08.2025",
@@ -1899,6 +1859,46 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "date": "We, 20.08.2025",
+        "time": "21:00",
+        "event": "Karaoke (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "We, 20.08.2025",
+        "time": "18:00",
+        "event": "*TRIBE BOULDERN (@Kletterhalle Senne)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "We, 20.08.2025",
+        "time": "07:00",
+        "event": "Wochenmarkt(@Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "We, 20.08.2025",
+        "time": "20:00",
+        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
+        "image_url": null
+    },
+    {
+        "date": "Mi, 20.08",
+        "time": "23:00",
+        "event": "MI • WEDNESDATE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wednesdate-9/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250820_Wednesdate_4zu5.jpg"
+    },
+    {
         "date": "Mi, 20.08",
         "time": "",
         "event": "Krakeln (@nr.z.p)",
@@ -1930,6 +1930,30 @@
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Do, 21.08.2025",
+        "time": "16:30",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 21.08.2025",
+        "time": "17:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 21.08.2025",
+        "time": "18:30",
+        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35659",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Th, 21.08.2025",
@@ -1972,40 +1996,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Do, 21.08.2025",
-        "time": "16:30",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 21.08.2025",
-        "time": "17:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 21.08.2025",
-        "time": "18:30",
-        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35659",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Thu, 21.08.2025",
-        "time": "21:30",
-        "event": "The Amateur (@PSD Bank Sommerkino)",
-        "category": "",
-        "description": "Sommer. Open-Air-Kino. Lieblingsmenschen. That’s the vibe. ✨ Vom 17. Juli bis 24. August heißt’s: Film ab im Westfalenpark beim PSD Bank Sommerkino! 🎯 SPOTLIGHT ON: The Amateur Ein ehemaliger CIA-Hacker befindet sich auf einer persönlicher Rachemission. Wir finden: clever, packend und düster inszeniert. In der Hauptrolle niemand anderes als Rami Malek, den wir schon aus Serien wie \"Mr.Robot\" als Hacker-Genie kennengelernt haben. ⬇️ schau mal in den Trailer rein!",
-        "link": "https://rausgegangen.de/en/events/the-amateur-45/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/DOomH2KHRhKuGmlz7QKx_the-amateur-16x9.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
         "date": "Thu, 21.08.2025",
         "time": "19:30",
         "event": "Open Air Comedy Show (Open Mic) (@Stadtstrand Leipzig)",
@@ -2024,6 +2014,16 @@
         "link": "https://rausgegangen.de/en/events/poetry-slam-stadtmeisterschaft-leipzig-prasentiert-von-livel-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/nNgqFjgCQ1qbrHcZr9e3_lxstadtmeisterschaft-25fb-headerr01.png?width=1200&height=900&mode=crop",
         "city": "Leipzig"
+    },
+    {
+        "date": "Thu, 21.08.2025",
+        "time": "21:30",
+        "event": "The Amateur (@PSD Bank Sommerkino)",
+        "category": "",
+        "description": "Sommer. Open-Air-Kino. Lieblingsmenschen. That’s the vibe. ✨ Vom 17. Juli bis 24. August heißt’s: Film ab im Westfalenpark beim PSD Bank Sommerkino! 🎯 SPOTLIGHT ON: The Amateur Ein ehemaliger CIA-Hacker befindet sich auf einer persönlicher Rachemission. Wir finden: clever, packend und düster inszeniert. In der Hauptrolle niemand anderes als Rami Malek, den wir schon aus Serien wie \"Mr.Robot\" als Hacker-Genie kennengelernt haben. ⬇️ schau mal in den Trailer rein!",
+        "link": "https://rausgegangen.de/en/events/the-amateur-45/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/DOomH2KHRhKuGmlz7QKx_the-amateur-16x9.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Thu, 21.08.2025",
@@ -2061,14 +2061,6 @@
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_22_0825_Feed.jpg"
     },
     {
-        "date": "Fr, 22.08",
-        "time": "23:00",
-        "event": "FR • 2010 FLASHBACK (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-2010-flashback-4/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250822_2010Flashback_4zu5.jpg"
-    },
-    {
         "date": "Fr, 22.08.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -2093,24 +2085,12 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Fri, 22.08.2025",
-        "time": "18:30",
-        "event": "Kettcar (@JunkYard Dortmund)",
-        "category": "",
-        "description": "VVK Start 13.02. 12:00 Uhr Grand Hotel van Cleef, Viva Con Agua und Deutschlandfunk Nova präsentierenKETTCAR Open Air im Junkyard Dortmund Am 22. August 2025 kommen Kettcar für ein exklusives Open Air-Konzert in den Junkyard Dortmund. Die Hamburger Indie-Rock-Ikonen, bekannt für ihre klugen Texte und eingängigen Melodien, stehen für zeitlose Hymnen, die zwischen Melancholie und Hoffnung balancieren. Nach ausverkauften Tourneen und gefeierten Festivalauftritten verspricht dieses Open-Air-Event ein absolutes Highlight des Sommers zu werden. Kettcar – Indie-Rock mit HaltungSeit ihrer Gründung im Jahr 2001 gehören Kettcar zu den prägenden Bands der deutschen Indie-Szene. Ihr Debütalbum Du und wieviel von deinen Freunden (2002) wurde schnell zum Klassiker, und Songs wie “Landungsbrücken raus”oder “Balkon gegenüber” sind bis heute fester Bestandteil vieler Playlists. Mit Alben wie Sylt (2008) oder Ich vs. Wir(2017) entwickelten sie sich musikalisch weiter, ohne ihre Wurzeln zu vergessen. Ihre Mischung aus melodischem Gitarrenrock, nachdenklichen Texten und gesellschaftlicher Relevanz hat ihnen eine treue Fangemeinde eingebracht.Nach ihrem letzten Studioalbum Gute Laune ungerecht verteilt (2022) kehren Kettcar nun mit neuen Songs und alten Klassikern auf die Bühne zurück – und das in einer der spannendsten Open-Air-Locations des Ruhrgebiets. Junkyard Dortmund – Urbane Open-Air-AtmosphäreDer Junkyard Dortmund ist weit mehr als nur ein Konzertort – das ehemalige Schrottplatzgelände hat sich in den letzten Jahren zu einer der coolsten Open-Air-Locations des Ruhrgebiets entwickelt. Mit seinem rauen Industriecharme, entspannten Biergarten-Flair und einer unverwechselbaren Atmosphäre bietet der Junkyard die perfekte Kulisse für ein Kettcar-Konzert unter freiem Himmel.Freut euch auf einen Sommerabend voller Indie-Rock, Emotionen und unvergesslicher Songs – Kettcar live im Junkyard Dortmund!",
-        "link": "https://rausgegangen.de/en/events/kettcar-9/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pH2uIa8MRHuc61YPKbqi_kettcardortmund-kopie.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Fri, 22.08.2025",
-        "time": "21:30",
-        "event": "Alter weißer Mann (@PSD Bank Sommerkino)",
-        "category": "",
-        "description": "Sommer. Open-Air-Kino. Lieblingsmenschen. That’s the vibe. ✨ Vom 17. Juli bis 24. August heißt’s: Film ab im Westfalenpark beim PSD Bank Sommerkino! 👨‍💼 SPOTLIGHT ON: Alter weißer Mann Politisch korrekt, aber bitte ohne Fettnäpfchen: Familienvater Heinz lädt zum ultimativen Dinner ein, um zu beweisen, dass er ganz bestimmt kein „alter weisser Mann“ ist. Was folgt ist ein Abend voller Missverständnisse, Generations-Clash und pointierter Satire über unsere Zeit. ⬇️ schau mal in den Trailer rein!",
-        "link": "https://rausgegangen.de/en/events/alter-weier-mann-214/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/m5vdHw33R6uCNbVbSBuj_alter-weisser-mann-16x9.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
+        "date": "Fr, 22.08",
+        "time": "23:00",
+        "event": "FR • 2010 FLASHBACK (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-2010-flashback-4/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250822_2010Flashback_4zu5.jpg"
     },
     {
         "date": "Fri, 22.08.2025",
@@ -2133,20 +2113,32 @@
         "city": "Leipzig"
     },
     {
+        "date": "Fri, 22.08.2025",
+        "time": "18:30",
+        "event": "Kettcar (@JunkYard Dortmund)",
+        "category": "",
+        "description": "VVK Start 13.02. 12:00 Uhr Grand Hotel van Cleef, Viva Con Agua und Deutschlandfunk Nova präsentierenKETTCAR Open Air im Junkyard Dortmund Am 22. August 2025 kommen Kettcar für ein exklusives Open Air-Konzert in den Junkyard Dortmund. Die Hamburger Indie-Rock-Ikonen, bekannt für ihre klugen Texte und eingängigen Melodien, stehen für zeitlose Hymnen, die zwischen Melancholie und Hoffnung balancieren. Nach ausverkauften Tourneen und gefeierten Festivalauftritten verspricht dieses Open-Air-Event ein absolutes Highlight des Sommers zu werden. Kettcar – Indie-Rock mit HaltungSeit ihrer Gründung im Jahr 2001 gehören Kettcar zu den prägenden Bands der deutschen Indie-Szene. Ihr Debütalbum Du und wieviel von deinen Freunden (2002) wurde schnell zum Klassiker, und Songs wie “Landungsbrücken raus”oder “Balkon gegenüber” sind bis heute fester Bestandteil vieler Playlists. Mit Alben wie Sylt (2008) oder Ich vs. Wir(2017) entwickelten sie sich musikalisch weiter, ohne ihre Wurzeln zu vergessen. Ihre Mischung aus melodischem Gitarrenrock, nachdenklichen Texten und gesellschaftlicher Relevanz hat ihnen eine treue Fangemeinde eingebracht.Nach ihrem letzten Studioalbum Gute Laune ungerecht verteilt (2022) kehren Kettcar nun mit neuen Songs und alten Klassikern auf die Bühne zurück – und das in einer der spannendsten Open-Air-Locations des Ruhrgebiets. Junkyard Dortmund – Urbane Open-Air-AtmosphäreDer Junkyard Dortmund ist weit mehr als nur ein Konzertort – das ehemalige Schrottplatzgelände hat sich in den letzten Jahren zu einer der coolsten Open-Air-Locations des Ruhrgebiets entwickelt. Mit seinem rauen Industriecharme, entspannten Biergarten-Flair und einer unverwechselbaren Atmosphäre bietet der Junkyard die perfekte Kulisse für ein Kettcar-Konzert unter freiem Himmel.Freut euch auf einen Sommerabend voller Indie-Rock, Emotionen und unvergesslicher Songs – Kettcar live im Junkyard Dortmund!",
+        "link": "https://rausgegangen.de/en/events/kettcar-9/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pH2uIa8MRHuc61YPKbqi_kettcardortmund-kopie.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Fri, 22.08.2025",
+        "time": "21:30",
+        "event": "Alter weißer Mann (@PSD Bank Sommerkino)",
+        "category": "",
+        "description": "Sommer. Open-Air-Kino. Lieblingsmenschen. That’s the vibe. ✨ Vom 17. Juli bis 24. August heißt’s: Film ab im Westfalenpark beim PSD Bank Sommerkino! 👨‍💼 SPOTLIGHT ON: Alter weißer Mann Politisch korrekt, aber bitte ohne Fettnäpfchen: Familienvater Heinz lädt zum ultimativen Dinner ein, um zu beweisen, dass er ganz bestimmt kein „alter weisser Mann“ ist. Was folgt ist ein Abend voller Missverständnisse, Generations-Clash und pointierter Satire über unsere Zeit. ⬇️ schau mal in den Trailer rein!",
+        "link": "https://rausgegangen.de/en/events/alter-weier-mann-214/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/m5vdHw33R6uCNbVbSBuj_alter-weisser-mann-16x9.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
         "date": "Sat, 23.08",
         "time": "23:00",
         "event": "STEREOLOVE (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/stereolove-4/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_23_0825_Feed.jpg"
-    },
-    {
-        "date": "Sa, 23.08",
-        "time": "23:00",
-        "event": "SA • CAFE SUMMER NIGHTS / JAHNPLATZ OPEN AIR AFTERSHOW (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-jahnplatz-open-air-aftershow/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250823_SummerNight_4zu5.jpg"
     },
     {
         "date": "Sa, 23.08.2025",
@@ -2179,6 +2171,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 23.08",
+        "time": "23:00",
+        "event": "SA • CAFE SUMMER NIGHTS / JAHNPLATZ OPEN AIR AFTERSHOW (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-jahnplatz-open-air-aftershow/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250823_SummerNight_4zu5.jpg"
     },
     {
         "date": "Sa, 23.08",
@@ -2448,14 +2448,6 @@
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_29_0825_Feed.jpg"
     },
     {
-        "date": "Fr, 29.08",
-        "time": "23:00",
-        "event": "FR• BLFD – SONDERVERANSTALTUNG (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-blfd-latin-edition-sonderveranstaltung-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250829_BLFD_4zu5.jpg"
-    },
-    {
         "date": "Fr, 29.08.2025",
         "time": "19:00",
         "event": "*TRIBE CREATIVE CIRCLES*",
@@ -2486,6 +2478,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 29.08",
+        "time": "23:00",
+        "event": "FR• BLFD – SONDERVERANSTALTUNG (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-blfd-latin-edition-sonderveranstaltung-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250829_BLFD_4zu5.jpg"
     },
     {
         "date": "Fri, 29.08.2025",
@@ -2552,14 +2552,6 @@
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_30_0825_Feed.jpg"
     },
     {
-        "date": "Sa, 30.08",
-        "time": "23:00",
-        "event": "SA • IBIZA WHITE NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-ibiza-white-night-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250830_IbizaWhiteNight_4zu5.jpg"
-    },
-    {
         "date": "Sa, 30.08.2025",
         "time": "14:00",
         "event": "*TRIBE WANDERSAMSTAG*",
@@ -2598,6 +2590,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 30.08",
+        "time": "23:00",
+        "event": "SA • IBIZA WHITE NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-ibiza-white-night-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250830_IbizaWhiteNight_4zu5.jpg"
     },
     {
         "date": "Sa, 30.08",
@@ -2750,14 +2750,6 @@
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
-        "date": "Mi, 03.09",
-        "time": "23:00",
-        "event": "MI • WEINMARKT OPENING (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-weinmarkt-opening/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250903_Weinmarkt_Opening_4zu5.jpg"
-    },
-    {
         "date": "We, 03.09.2025",
         "time": "17:00",
         "event": "Art Night (@loom_bielefeld)",
@@ -2796,6 +2788,14 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 03.09",
+        "time": "23:00",
+        "event": "MI • WEINMARKT OPENING (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-weinmarkt-opening/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250903_Weinmarkt_Opening_4zu5.jpg"
     },
     {
         "date": "We, 03.09",
@@ -2887,14 +2887,6 @@
         "city": "Münster"
     },
     {
-        "date": "Fr, 05.09",
-        "time": "23:00",
-        "event": "FR• FRIDAYS FINEST x WEINMARKT AFTERSHOW (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-fridays-finest-x-weinmarkt-aftershow/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250905_Weinmarkt_FridaysFinest_4zu5.jpg"
-    },
-    {
         "date": "Fr, 05.09.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -2917,6 +2909,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 05.09",
+        "time": "23:00",
+        "event": "FR• FRIDAYS FINEST x WEINMARKT AFTERSHOW (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-fridays-finest-x-weinmarkt-aftershow/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250905_Weinmarkt_FridaysFinest_4zu5.jpg"
     },
     {
         "date": "Fri, 05.09.2025",
@@ -2965,14 +2965,6 @@
         "link": "https://www.bielefeld.jetzt/node/1211402"
     },
     {
-        "date": "Sa, 06.09",
-        "time": "23:00",
-        "event": "SA • WEINMARKT SATURDAYS pres. JUIZZED (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-weinmarkt-saturdays-pres-juizzed/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250906_Weinmarkt_Saturdays_Juizzed_4zu5.jpg"
-    },
-    {
         "date": "Sa, 06.09.2025",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -3003,6 +2995,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 06.09",
+        "time": "23:00",
+        "event": "SA • WEINMARKT SATURDAYS pres. JUIZZED (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-weinmarkt-saturdays-pres-juizzed/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250906_Weinmarkt_Saturdays_Juizzed_4zu5.jpg"
     },
     {
         "date": "Sa, 06.09.2025",
@@ -3170,14 +3170,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Mi, 10.09",
-        "time": "23:00",
-        "event": "MI • WET WEDNESDAY (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wet-wednesday-4/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250910_WetWednesday_4zu5.jpg"
-    },
-    {
         "date": "We, 10.09.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -3216,6 +3208,14 @@
         "category": "Ausgehen",
         "link": "https://www.instagram.com/diesdascomedy/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 10.09",
+        "time": "23:00",
+        "event": "MI • WET WEDNESDAY (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wet-wednesday-4/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250910_WetWednesday_4zu5.jpg"
     },
     {
         "date": "Mi, 10.09.2025",
@@ -3326,14 +3326,6 @@
         "link": "https://www.bielefeld.jetzt/node/1181538"
     },
     {
-        "date": "Fr, 12.09",
-        "time": "23:00",
-        "event": "FR • BACK TO 2000 • RAUM2: BLACKBOX (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-back-to-2000-raum2-blackbox-3/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250912_Backto2000_4zu5.jpg"
-    },
-    {
         "date": "Fr, 12.09.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -3366,6 +3358,14 @@
         "image_url": null
     },
     {
+        "date": "Fr, 12.09",
+        "time": "23:00",
+        "event": "FR • BACK TO 2000 • RAUM2: BLACKBOX (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-back-to-2000-raum2-blackbox-3/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250912_Backto2000_4zu5.jpg"
+    },
+    {
         "date": "Fr, 12.09.2025",
         "time": "20:30",
         "category": "Jazz",
@@ -3388,14 +3388,6 @@
         "description": "Murga Los Cometas Felices Murga ist eine Form des Straßentheaters, welche Musik, Tanz und Gesang mit Kostümierung vereint. Vor allem in Argentinien und Uruguay erfreut sich diese Kultur hoher Beliebtheit. Das Tanzen ist gleichzeitig als politischer Protest und Appell für die Freiheit zu verstehen. Musikalisch wird das Spektakel durch Perkussionsinstrumente wie Bombo con platillo, Zurdo und Snare begleitet. Akrobatikprogramm mit Clown Obi Der Akrobat Obuamah Odametey oder einfach Clown Obi zeigt bei seiner Show artistische Clownerie. Er präsentiert eindrucksvoll, wie man gleichzeitig drei riesige Schalen auf Holzstäben drehen kann und dabei auch noch akrobatische Meisterleistungen vollführt. Während seiner Vorstellung bindet er das Publikum spielerisch mit in sein Programm ein und so werden Kinder ganz nebenbei zu Akrobaten und Bühnenstars. Dancehall & Afrobeat Workshops – mit Connecting Family Die Connecting Family ist eine Tanzcrew, bei der viel Energie, Dynamik und Spaß garantiert sind. Wer Lust hat, sich richtig auszupowern, ist bei diesem Workshop genau richtig. Oriental Dreams Die Tänzerinnen rund um Verahzad, gebürtige Chilenin, sind in verschiedenen Kategorien ausgezeichnete Deutsche Meisterinnen. Sie zeigen ihr gesamtes Tanzrepertoire, welches authentisch und stilvoll auch Nicht-Orientalen begeistert. Eintritt frei Workshops ohne Teilnehmer:innenbeitrag:",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/webform/termine_melden/15576/kultur-in-die-quartiere_2025_verahzad.jpg?itok=izBP_PDI",
         "link": "https://www.bielefeld.jetzt/node/1060945"
-    },
-    {
-        "date": "Sa, 13.09",
-        "time": "23:00",
-        "event": "SA • GIRLS NIGHT OUT • RAUM2 : BOOTY BOUNCE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-girls-night-out-raum2-booty-bounce-9/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250913_GirlsNightOut_4zu5.jpg"
     },
     {
         "date": "Sa, 13.09.2025",
@@ -3428,6 +3420,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 13.09",
+        "time": "23:00",
+        "event": "SA • GIRLS NIGHT OUT • RAUM2 : BOOTY BOUNCE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-girls-night-out-raum2-booty-bounce-9/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250913_GirlsNightOut_4zu5.jpg"
     },
     {
         "date": "Sa, 13.09.2025",
@@ -3588,14 +3588,6 @@
         "city": "Dortmund"
     },
     {
-        "date": "Mi, 17.09",
-        "time": "23:00",
-        "event": "MI • BERGFEST (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-bergfest-19/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250917_Bergfest_4zu5.jpg"
-    },
-    {
         "date": "We, 17.09.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -3626,6 +3618,14 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 17.09",
+        "time": "23:00",
+        "event": "MI • BERGFEST (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-bergfest-19/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250917_Bergfest_4zu5.jpg"
     },
     {
         "date": "Mi, 17.09.2025",
@@ -3751,14 +3751,6 @@
         "link": "https://www.bielefeld.jetzt/node/1089501"
     },
     {
-        "date": "Fr, 19.09",
-        "time": "23:00",
-        "event": "FR • F*CK GENRES • RAUM2: BOOTY BOUNCE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-fck-genres-raum2-booty-bounce-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250919_fckgenres_4zu5.jpg"
-    },
-    {
         "date": "Fr, 19.09.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -3781,6 +3773,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 19.09",
+        "time": "23:00",
+        "event": "FR • F*CK GENRES • RAUM2: BOOTY BOUNCE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-fck-genres-raum2-booty-bounce-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250919_fckgenres_4zu5.jpg"
     },
     {
         "date": "Fr, 19.09.2025",
@@ -3871,6 +3871,16 @@
     },
     {
         "date": "Sat, 20.09.2025",
+        "time": "23:00",
+        "event": "Modern Love Münster - 80s New Wave, Synth & Pop im Hot Club (@Hot Jazz Club, Münster)",
+        "category": "",
+        "description": "🪩 Euch erwarten 80s-Smasher aus Synth, New Wave, Italo und Pop, aber natürlich auch der ein oder andere Geheimtipp.🎉 Außerdem: Findet ihr die immergleichen Hits und Reihenfolgen auch langweilig? Dann freut euch bei der Modern Love auf Abwechslung, Song-Überraschungen und viele eurer Musikwünsche, schön im Flow aufgelegt und mit passenden Übergängen.😻 Ach so, mein Name ist eavo. Ich bin schon seit vielen Jahren in den schönsten Clubs in ganz Deutschland unterwegs.  Ein Gast hat mich “eine DJ–gewordene Symbiose aus Nerd und Partymaschine“ genannt. Ob das stimmt? Mir hat's jedenfalls gefallen und eigentlich beschreibt es auch ganz gut, wen ich mit meinen Partys am liebsten erreiche.💃🏼 Wenn ihr mitmacht, wird's ne überragende Party, klebriger Fußboden und durchtanzte Schuhe inklusive.Kommt vorbei!Modern Love klingt wie: A Flock of Seagulls – a-ha – ABC – Alphaville – The B-52’s – The Bangles – Pat Benatar – Berlin – Blondie – B-Movie – Boytronic – Bronski Beat – David Bowie – Kate Bush – Camouflage – Anne Clark – The Communards – Culture Club – The Cure – Dead or Alive – Depeche Mode – Desireless – Duran Duran – Erasure – Eurythmics – Harold Faltermeyer – Falco – Frankie Goes To Hollywood – Freeez – Grauzone – Heaven 17 – Don Henley – Billy Idol – Howard Jones – The Housemartins – The Human League – Ideal – Indochine – INXS – Japan –Joy Division – Nik Kershaw – Cyndi Lauper – Les Immer Essen – Level 42 – Les Rita Mitsouko – Madness – Madonna – Men At Work – Men Without Hats – Miami Sound Machine - Midnight Oil – New Order – OMD – Ryan Paris – Pet Shop Boys – Pixies – Queen – Rainbirds – Righeira – Real Life – Rheingold – Les Rita Mitsouko – Michael Sembello – Simple Minds – Siouxsie And The Banshees – The Smiths – Soft Cell – Spandau Ballet – Talk Talk – Talking Heads – Tears for Fears – Trans X – U2 – Ultravox – Visage – Kim Wilde – Yazoo – Yello🌍 Mehr Infos inkl. Spotify-Listen auf www.eavo.de/modernlove/ 📷 www.instagram.com/__eavo__ 📘 www.facebook.com/neinmaschine🔹 AK 10 €🎟 Spare 20% beim Vorverkauf, indem du dich für meinen Newsletter anmeldest: www.eavo.de/NL! 🔹 VVK: Limitiertes Kontingent Earlybird-Tickets: 6€ zzgl. Gebühren bis 6 Tage vor dem Abend 🔹 Danach: 9€ zzgl. Gebühren bei rausgegangen.de.",
+        "link": "https://rausgegangen.de/en/events/modern-love-munster-80s-new-wave-synth-pop-im-hot-club-6/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FhENTY2rSjxtPE8m49wq_80sinternetneu-kopie.png?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Sat, 20.09.2025",
         "time": "20:00",
         "event": "Ronnie & Gipsy - Lass Deep-Talk machen (@Theater Fletch Bizzel)",
         "category": "",
@@ -3888,16 +3898,6 @@
         "link": "https://rausgegangen.de/en/events/pop-girly-night-fzw-dortmund-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8jY3UBfsQROdW60wv7T0_2025-07-pgn-header.png?width=1200&height=900&mode=crop",
         "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 20.09.2025",
-        "time": "23:00",
-        "event": "Modern Love Münster - 80s New Wave, Synth & Pop im Hot Club (@Hot Jazz Club, Münster)",
-        "category": "",
-        "description": "🪩 Euch erwarten 80s-Smasher aus Synth, New Wave, Italo und Pop, aber natürlich auch der ein oder andere Geheimtipp.🎉 Außerdem: Findet ihr die immergleichen Hits und Reihenfolgen auch langweilig? Dann freut euch bei der Modern Love auf Abwechslung, Song-Überraschungen und viele eurer Musikwünsche, schön im Flow aufgelegt und mit passenden Übergängen.😻 Ach so, mein Name ist eavo. Ich bin schon seit vielen Jahren in den schönsten Clubs in ganz Deutschland unterwegs.  Ein Gast hat mich “eine DJ–gewordene Symbiose aus Nerd und Partymaschine“ genannt. Ob das stimmt? Mir hat's jedenfalls gefallen und eigentlich beschreibt es auch ganz gut, wen ich mit meinen Partys am liebsten erreiche.💃🏼 Wenn ihr mitmacht, wird's ne überragende Party, klebriger Fußboden und durchtanzte Schuhe inklusive.Kommt vorbei!Modern Love klingt wie: A Flock of Seagulls – a-ha – ABC – Alphaville – The B-52’s – The Bangles – Pat Benatar – Berlin – Blondie – B-Movie – Boytronic – Bronski Beat – David Bowie – Kate Bush – Camouflage – Anne Clark – The Communards – Culture Club – The Cure – Dead or Alive – Depeche Mode – Desireless – Duran Duran – Erasure – Eurythmics – Harold Faltermeyer – Falco – Frankie Goes To Hollywood – Freeez – Grauzone – Heaven 17 – Don Henley – Billy Idol – Howard Jones – The Housemartins – The Human League – Ideal – Indochine – INXS – Japan –Joy Division – Nik Kershaw – Cyndi Lauper – Les Immer Essen – Level 42 – Les Rita Mitsouko – Madness – Madonna – Men At Work – Men Without Hats – Miami Sound Machine - Midnight Oil – New Order – OMD – Ryan Paris – Pet Shop Boys – Pixies – Queen – Rainbirds – Righeira – Real Life – Rheingold – Les Rita Mitsouko – Michael Sembello – Simple Minds – Siouxsie And The Banshees – The Smiths – Soft Cell – Spandau Ballet – Talk Talk – Talking Heads – Tears for Fears – Trans X – U2 – Ultravox – Visage – Kim Wilde – Yazoo – Yello🌍 Mehr Infos inkl. Spotify-Listen auf www.eavo.de/modernlove/ 📷 www.instagram.com/__eavo__ 📘 www.facebook.com/neinmaschine🔹 AK 10 €🎟 Spare 20% beim Vorverkauf, indem du dich für meinen Newsletter anmeldest: www.eavo.de/NL! 🔹 VVK: Limitiertes Kontingent Earlybird-Tickets: 6€ zzgl. Gebühren bis 6 Tage vor dem Abend 🔹 Danach: 9€ zzgl. Gebühren bei rausgegangen.de.",
-        "link": "https://rausgegangen.de/en/events/modern-love-munster-80s-new-wave-synth-pop-im-hot-club-6/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FhENTY2rSjxtPE8m49wq_80sinternetneu-kopie.png?width=1200&height=900&mode=crop",
-        "city": "Münster"
     },
     {
         "date": "Sat, 20.09.2025",
@@ -4011,14 +4011,6 @@
         "link": "https://www.bielefeld.jetzt/node/1089377"
     },
     {
-        "date": "Mi, 24.09",
-        "time": "22:00",
-        "event": "MI • WEDNESDATE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wednesdate-10/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250924_Wednesdate_4zu5.jpg"
-    },
-    {
         "date": "We, 24.09.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -4057,6 +4049,14 @@
         "category": "Ausgehen",
         "link": "https://www.instagram.com/diesdascomedy/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 24.09",
+        "time": "22:00",
+        "event": "MI • WEDNESDATE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wednesdate-10/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250924_Wednesdate_4zu5.jpg"
     },
     {
         "date": "Mi, 24.09",
@@ -4141,22 +4141,6 @@
         "link": "https://www.bielefeld.jetzt/node/955618"
     },
     {
-        "date": "Fr, 26.09",
-        "time": "17:00",
-        "event": "FR • TURBO TRASH (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-turbo-trash-5/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250926_Turbotrash_4zu5.jpg"
-    },
-    {
-        "date": "Fr, 26.09",
-        "time": "17:00",
-        "event": "FR • TURBO TRASH (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sanapa-die-samstag-nachmittags-party-ab-17-uhr/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250926_Turbotrash_4zu5.jpg"
-    },
-    {
         "date": "Fr, 26.09.2025",
         "time": "19:00",
         "event": "*TRIBE CREATIVE CIRCLES*",
@@ -4187,6 +4171,22 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 26.09",
+        "time": "17:00",
+        "event": "FR • TURBO TRASH (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-turbo-trash-5/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250926_Turbotrash_4zu5.jpg"
+    },
+    {
+        "date": "Fr, 26.09",
+        "time": "17:00",
+        "event": "FR • TURBO TRASH (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sanapa-die-samstag-nachmittags-party-ab-17-uhr/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250926_Turbotrash_4zu5.jpg"
     },
     {
         "date": "Fri, 26.09.2025",
@@ -4235,14 +4235,6 @@
         "link": "https://www.bielefeld.jetzt/node/1225362"
     },
     {
-        "date": "Sa, 27.09",
-        "time": "21:00",
-        "event": "SA • LOVE SATURDAYS x COCKTAIL NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-cocktail-night-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250927_LoveSaturdays_Cocktail_4zu5.jpg"
-    },
-    {
         "date": "Sa, 27.09.2025",
         "time": "14:00",
         "event": "*TRIBE WANDERSAMSTAG*",
@@ -4281,6 +4273,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 27.09",
+        "time": "21:00",
+        "event": "SA • LOVE SATURDAYS x COCKTAIL NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-cocktail-night-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250927_LoveSaturdays_Cocktail_4zu5.jpg"
     },
     {
         "date": "Sa, 27.09",
@@ -4649,16 +4649,6 @@
     },
     {
         "date": "Sat, 04.10.2025",
-        "time": "19:00",
-        "event": "Frühtanzparty Dortmund (@FZW Dortmund)",
-        "category": "",
-        "description": "Frühtanz Party DortmundTanzen und Feiern am frühen Abend!Die Frühtanz Party Herbst Edition 🍹In der Kult Location \"FZW\" Einlass ist ab 19 Uhr, Ende pünktlich um 23 Uhr.Wenn Ihr das voll auskostet habt Ihr 4 Stunden getanzt und könnt trotzdem früh schlafen gehen.Musikalisch wird es eine Reise durch die Genres und Jahrzehnte.HipHop, etwas 90er und aktuelle Hits.Es läuft läuft alles was auf die Tanzfläche lockt! Wir empfehlen, schnell Tickets zu sichern!Ab 18 Jahren!",
-        "link": "https://rausgegangen.de/en/events/fruhtanzparty-dortmund-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/keegdspMTfqXzjwOPrvK_basicbatschkappfruhtanzpartyfacebook.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 04.10.2025",
         "time": "18:30",
         "event": "The Simon & Garfunkel Story (@Halle Münsterland)",
         "category": "",
@@ -4676,6 +4666,16 @@
         "link": "https://rausgegangen.de/en/events/the-lets-gos-the-haermorrhoids-burger-weekends-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/t4cYvjlZTBu1fnU5tcew_510802726241430863019952298172542863783231319n.jpg?width=1200&height=900&mode=crop",
         "city": "Münster"
+    },
+    {
+        "date": "Sat, 04.10.2025",
+        "time": "19:00",
+        "event": "Frühtanzparty Dortmund (@FZW Dortmund)",
+        "category": "",
+        "description": "Frühtanz Party DortmundTanzen und Feiern am frühen Abend!Die Frühtanz Party Herbst Edition 🍹In der Kult Location \"FZW\" Einlass ist ab 19 Uhr, Ende pünktlich um 23 Uhr.Wenn Ihr das voll auskostet habt Ihr 4 Stunden getanzt und könnt trotzdem früh schlafen gehen.Musikalisch wird es eine Reise durch die Genres und Jahrzehnte.HipHop, etwas 90er und aktuelle Hits.Es läuft läuft alles was auf die Tanzfläche lockt! Wir empfehlen, schnell Tickets zu sichern!Ab 18 Jahren!",
+        "link": "https://rausgegangen.de/en/events/fruhtanzparty-dortmund-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/keegdspMTfqXzjwOPrvK_basicbatschkappfruhtanzpartyfacebook.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Su, 05.10.2025",
@@ -4905,14 +4905,6 @@
         "link": "https://www.bielefeld.jetzt/node/1128328"
     },
     {
-        "date": "Fr, 10.10",
-        "time": "23:00",
-        "event": "SA• BAUSA LIVE presented by BLFD • CLUBSHOW AB 21 UHR & AFTERSHOW PARTY AB 24 UHR (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-bausa-live-presented-by-blfd-clubshow-ab-21-uhr-aftershow-party-ab-24-uhr/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20251011_BLFD_Bausa_4zu5-1.jpg"
-    },
-    {
         "date": "Fr, 10.10.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -4943,6 +4935,14 @@
         "category": "Kreativität",
         "link": "https://kunsthalle-bielefeld.de/programm/veranstaltungen/#10209",
         "image_url": null
+    },
+    {
+        "date": "Fr, 10.10",
+        "time": "23:00",
+        "event": "SA• BAUSA LIVE presented by BLFD • CLUBSHOW AB 21 UHR & AFTERSHOW PARTY AB 24 UHR (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-bausa-live-presented-by-blfd-clubshow-ab-21-uhr-aftershow-party-ab-24-uhr/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20251011_BLFD_Bausa_4zu5-1.jpg"
     },
     {
         "date": "Fri, 10.10.2025",
