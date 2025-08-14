@@ -16,6 +16,30 @@
         "image_url": null
     },
     {
+        "date": "Do, 14.08.2025",
+        "time": "16:30",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 14.08.2025",
+        "time": "17:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 14.08.2025",
+        "time": "18:30",
+        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35659",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
         "date": "Th, 14.08.2025",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
@@ -54,30 +78,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Do, 14.08.2025",
-        "time": "16:30",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 14.08.2025",
-        "time": "17:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 14.08.2025",
-        "time": "18:30",
-        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35659",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Thu, 14.08.2025",
@@ -178,6 +178,56 @@
         "link": "https://rausgegangen.de/en/events/quizlabor-kneipenquiz-im-stuk-23/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/x1yMXPoORfKpB43MIxFX_ql-event-photo.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
+    },
+    {
+        "date": "Thu, 14.08.2025",
+        "time": "16:00",
+        "event": "Meet & Eat (@Rudolfplatz)",
+        "category": "",
+        "description": "Hier kannst du nicht nur shoppen, sondern auch eine kulinarische Weltreise machen. Mit Tischen, Bänken und 'nem kühlen Bier oder Wein wird der Markt zum Abendessen-Hotspot. Öko-fancy Wochenendvibes garantiert – und das alles bis 21 Uhr!",
+        "link": "https://rausgegangen.de/en/events/meet-eat-73/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LdYc1F1kRkIRY7pMXyBQ_convert.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Thu, 14.08.2025",
+        "time": "19:00",
+        "event": "Jurassic World: Wiedergeburt (@naturstrom-openairkino)",
+        "category": "",
+        "description": "Beim Open Air Kino kannst du den Film und den Sonnenuntergang gleichzeitig genießen. Schnapp dir deinen Lieblingssnack und auf geht's!",
+        "link": "https://rausgegangen.de/en/events/jurassic-world-wiedergeburt-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/htnG1qyQVGiV5zHpXXuQ_jurassic-world-wiedergeburt-2.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Thu, 14.08.2025",
+        "time": "20:00",
+        "event": "Open Air Kino - ENTER THE VOID (@Odonien)",
+        "category": "",
+        "description": "Im Odonien wird nicht nur getanzt! Im Sommer kannst du hier auf großer Leinwand einen Filmabend mit deinen Friends einplanen.🍿",
+        "link": "https://rausgegangen.de/en/events/open-air-kino-enter-the-void-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/de0T8lmpSyKzMWicANwg_kinobreit-09.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Thu, 14.08.2025",
+        "time": "21:00",
+        "event": "Barinton Jam Session @ Garagen Club (@Garagen)",
+        "category": "",
+        "description": "Jeden Donnerstag heißt’s Bühne frei im Garagen Club – bei der Barinton Jam Session treffen Grooves, Impro & offene Vibes aufeinander🎶",
+        "link": "https://rausgegangen.de/en/events/barinton-jam-session-garagen-club-9/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/F57wIG5cTu4XnaSSRh4g_rausgegangen.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Thu, 14.08.2025",
+        "time": "22:00",
+        "event": "ZWITSCHERN by Parakeet (@Zum Scheuen Reh)",
+        "category": "",
+        "description": "Jeden zweiten Donnerstag im Monat gibt’s feinste House-Beats, gute Vibes und durchtanzte Nächte. Lass dich vom Groove mitreißen! 💃🕺",
+        "link": "https://rausgegangen.de/en/events/zwitschern-by-parakeet-4/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5YqB4nD1TveZIkQ8lqjS_rausgegangenbanner.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
     },
     {
         "date": "Thu, 14.08.2025",
@@ -311,56 +361,6 @@
     },
     {
         "date": "Thu, 14.08.2025",
-        "time": "16:00",
-        "event": "Meet & Eat (@Rudolfplatz)",
-        "category": "",
-        "description": "Hier kannst du nicht nur shoppen, sondern auch eine kulinarische Weltreise machen. Mit Tischen, Bänken und 'nem kühlen Bier oder Wein wird der Markt zum Abendessen-Hotspot. Öko-fancy Wochenendvibes garantiert – und das alles bis 21 Uhr!",
-        "link": "https://rausgegangen.de/en/events/meet-eat-73/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LdYc1F1kRkIRY7pMXyBQ_convert.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Thu, 14.08.2025",
-        "time": "19:00",
-        "event": "Jurassic World: Wiedergeburt (@naturstrom-openairkino)",
-        "category": "",
-        "description": "Beim Open Air Kino kannst du den Film und den Sonnenuntergang gleichzeitig genießen. Schnapp dir deinen Lieblingssnack und auf geht's!",
-        "link": "https://rausgegangen.de/en/events/jurassic-world-wiedergeburt-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/htnG1qyQVGiV5zHpXXuQ_jurassic-world-wiedergeburt-2.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Thu, 14.08.2025",
-        "time": "20:00",
-        "event": "Open Air Kino - ENTER THE VOID (@Odonien)",
-        "category": "",
-        "description": "Im Odonien wird nicht nur getanzt! Im Sommer kannst du hier auf großer Leinwand einen Filmabend mit deinen Friends einplanen.🍿",
-        "link": "https://rausgegangen.de/en/events/open-air-kino-enter-the-void-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/de0T8lmpSyKzMWicANwg_kinobreit-09.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Thu, 14.08.2025",
-        "time": "21:00",
-        "event": "Barinton Jam Session @ Garagen Club (@Garagen)",
-        "category": "",
-        "description": "Jeden Donnerstag heißt’s Bühne frei im Garagen Club – bei der Barinton Jam Session treffen Grooves, Impro & offene Vibes aufeinander🎶",
-        "link": "https://rausgegangen.de/en/events/barinton-jam-session-garagen-club-9/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/F57wIG5cTu4XnaSSRh4g_rausgegangen.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Thu, 14.08.2025",
-        "time": "22:00",
-        "event": "ZWITSCHERN by Parakeet (@Zum Scheuen Reh)",
-        "category": "",
-        "description": "Jeden zweiten Donnerstag im Monat gibt’s feinste House-Beats, gute Vibes und durchtanzte Nächte. Lass dich vom Groove mitreißen! 💃🕺",
-        "link": "https://rausgegangen.de/en/events/zwitschern-by-parakeet-4/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5YqB4nD1TveZIkQ8lqjS_rausgegangenbanner.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Thu, 14.08.2025",
         "time": "18:30",
         "event": "John Silver - Tribute to John Lennon (@Klosterplatz)",
         "category": "Abendmarkt 2025",
@@ -369,20 +369,44 @@
         "link": "https://www.bielefeld.jetzt/node/1164258"
     },
     {
-        "date": "Fr, 15.08",
-        "time": "23:00",
-        "event": "FR • CAFELICIOUS  • RAUM2: BOOTY BOUNCE: DJ ANT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-cafelicious-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250815_Cafelicious_1zu1.jpg"
-    },
-    {
         "date": "Fri, 15.08",
         "time": "23:00",
         "event": "Studi Pop! (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/studi-pop-2/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_15_0825_Feed.jpg"
+    },
+    {
+        "date": "Fr, 15.08.2025",
+        "time": "16:00",
+        "event": "Volleyball(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35417",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 15.08.2025",
+        "time": "18:00",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35506",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 15.08.2025",
+        "time": "18:30",
+        "event": "Laufen(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35520",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 15.08",
+        "time": "23:00",
+        "event": "FR • CAFELICIOUS  • RAUM2: BOOTY BOUNCE: DJ ANT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-cafelicious-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250815_Cafelicious_1zu1.jpg"
     },
     {
         "date": "Fr, 15.08.2025",
@@ -409,28 +433,10 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Fr, 15.08.2025",
-        "time": "16:00",
-        "event": "Volleyball(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35417",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Fr, 15.08.2025",
-        "time": "18:00",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35506",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Fr, 15.08.2025",
-        "time": "18:30",
-        "event": "Laufen(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35520",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+        "date": "Fr, 15.08",
+        "event": "Smallroom Weekender (@forum_bielefeld)",
+        "link": "https://forum-bielefeld.com/smallroom-we-2/",
+        "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
         "date": "Fri, 15.08.2025",
@@ -543,10 +549,174 @@
         "city": "Leipzig"
     },
     {
-        "date": "Fr, 15.08",
-        "event": "Smallroom Weekender (@forum_bielefeld)",
-        "link": "https://forum-bielefeld.com/smallroom-we-2/",
-        "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
+        "date": "Fri, 15.08.2025",
+        "time": "17:30",
+        "event": "Meditation und Stille (@Kim Schröer Coaching)",
+        "category": "",
+        "description": "Tauche ein in die Welt der inneren Ruhe und Gelassenheit. In der Stille begegnen wir unserer eigenen Wahrheit. Und das entspannt uns von innen heraus. Somit braucht es manchmal nicht mehr, als uns gemeinsam in die Stille zu begeben. Dabei begleite ich euch und halte den Raum. Der Weg in die Stille kann den Geist beruhigen und dich unterstützen, im Hier und Jetzt anzukommen. Lasst euch überraschen, wie ihr euch nach diesem Erlebnis fühlen werdet. Egal, ob Anfängerin oder Fortgeschrittener – dieser Kurs bietet dir Raum für Entspannung, Selbstreflexion und neue Energie.Von Herz zu Herz ohne Worte. Gemeinsam allein sein. Seelisch erwachsen werden. <3Ihr könnt ohne Vorerfahrung in Alltagsklamotten teilnehmen.Der feel-Freiraum ist ein gemütlicher Coaching-Raum direkt am Severinskirchplatz (neben dem italienischen Restaurant Ludari).www.kim-schroeer.com www.instagram.com/kim_schroeer",
+        "link": "https://rausgegangen.de/en/events/meditation-und-stille-35/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bZEm6BTRTiKsqyNyuXNj_dsc5535.JPG?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 15.08.2025",
+        "time": "19:30",
+        "event": "Cocktails im Handumdrehen. Mini-Cocktailkurs (@CocktailContor Köln-Innenstadt)",
+        "category": "",
+        "description": "In nur 2 Stunden zum Cocktail-Profi! Von Gimlet bis Caipi - hier lernst du alles, um deine Freund:innen und dich selbst zu beglücken 🍸✨",
+        "link": "https://rausgegangen.de/en/events/cocktails-im-handumdrehen-mini-cocktailkurs-52/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/nNHboISbQZCdDqwKIfce_mini-cocktailkurs-koeln.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 15.08.2025",
+        "time": "20:00",
+        "event": "Echtzeit Comedy - Stand-Up am Freitag (@Echtzeit Grill & Thrill)",
+        "category": "",
+        "description": "Lust auf Stand-Up-Comedy? 🎙️ Bei Echtzeit Comedy erwartet dich jede Woche ein wechselndes Line-Up! Freu dich auf einen lustigen Abend und einen Mix aus neuen & bereits bekannten Talenten - jetzt Tickets sichern! ✨",
+        "link": "https://rausgegangen.de/en/events/echtzeit-comedy-stand-up-am-freitag-31/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/nqPlL65iQPGV1QFe4oz6_echteit-comedy-website-bild.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 15.08.2025",
+        "time": "20:00",
+        "event": "ELTERNABEND * DANCE HITS FÜR ALLE DIE ES NÖTIG HABEN. (@Veedel Club)",
+        "category": "",
+        "description": "Einladung  Lieber Eltern, liebe angehenden Eltern, liebe Freund:innen, wir möchten Sie hiermit herzlich zu unserem achten  Elternabend im Jahr 2025 einladen.  Termin : 15.08.25, von 20 - 23 Uhr Ort : Veedel Club",
+        "link": "https://rausgegangen.de/en/events/elternabend-dance-hits-fur-alle-die-es-notig-haben-22/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/SlbkhsN3TUqqiW56eiXi_elternabendheaderaugust.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 15.08.2025",
+        "time": "20:00",
+        "event": "Molchat Doma (@Carlswerk Victoria)",
+        "category": "",
+        "description": "Pressetext folgt... -",
+        "link": "https://rausgegangen.de/en/events/molchat-doma-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/qwsuZu6JSvOp0ZU6eAPe_molchat-doma-2025-scaled-e1750847482785.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 15.08.2025",
+        "time": "20:30",
+        "event": "Comedyflash - Die Stand Up Comedy Show (@DéjaVu Lounge)",
+        "category": "",
+        "description": "LIVE Stand Up Comedy in Köln!Wir zeigen euch einen Mix aus erfahrenen Profi-Comedians und den heißesten Newcomern der deutschen Comedy-Szene.Comedyflash - bekannt aus TikTok und Instagram, die junge authentische Comedy-Show.Egal wer an diesem Abend auf der Bühne steht - Euch erwartet absolut authentische Stand Up Comedy nach amerikanischem Vorbild!Das Ticket muss nicht ausgedruckt werden.--Location--DéjaVu LoungeZülpicher Str. 1750674 Köln-- bitte beachtet: Das LineUp besteht nicht unbedingt aus den KünstlerInnen, die auf dem Bild zu sehen sind --",
+        "link": "https://rausgegangen.de/en/events/comedyflash-die-stand-up-comedy-show-127/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/w887kSvGTxGhrORA1KlQ_kopie-von-posterflyer-1080-x-1350-px-100-x-52-mm.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 15.08.2025",
+        "time": "22:00",
+        "event": "Aperitivo Friday - OPEN AIR PARTY (@Goldfinger)",
+        "category": "",
+        "description": "🍹 Aperitivo Friday – Der neue Freitag im Goldfinger Goldfinger Köln | Start: 22 UhrStell dir vor, es ist Freitagabend. Du hast frei, du hast Lust – und du hast deinen ersten Sarti Spritz in der Hand. Deine Freundin prostet dir mit einem Aperol Spritz zu, die andere genießt einen Limoncello Spritz oder einen Lillet Wild Berry. Und das Beste: Alle Aperitivos bekommst du den ganzen Abend für nur 6 Euro – mit hochwertigen Edelspirituosen, wie es sich gehört.Für alle Mädels, die lieber auf Klassiker stehen, gibt’s alternativ Gin Tonic oder Cuba Libre. Und keine Sorge, liebe Männer – ihr seid nicht nur eingeladen, sondern ausdrücklich mitgemeint. Auch für euch gelten die Specials – ob Spritz, Gin oder Rum, Hauptsache: gut gemixt und mit Stil serviert.✨ Wir feiern die Premiere einer neuen Reihe: Aperitivo Friday. Dein neues Ritual zum Runterkommen, Austauschen, Anstoßen, Tanzen. Open Air im charmanten Innenhof des Goldfinger – mit Palmen, guter Musik und einer Extraportion Leichtigkeit.🎟 Zum Start gibt’s ein echtes Highlight: Sichere dir dein Ticket im Vorverkauf für nur 2 Euro und dein erster Aperitivo geht auf uns – zur Wahl stehen: 🍹 Aperol Spritz 🍊 Sarti Spritz 🍋 Limoncello Spritz 🍓 Lillet Wild Berry 🍸 Gin Tonic 🥃 Cuba LibreAbendkasse: 10 € (ohne Drink – just sayin’.)💃 Musikalisch tanzen wir quer durch die Nacht: Von den 90ern über die 2000er bis zu aktuellen Lieblingsliedern – alles, was gute Laune macht und dich ins Wochenende trägt.🌴 Und weil es der erste Aperitivo Friday ist, weihen wir feierlich unsere neue Aperol-Theke ein – gebaut für genau diesen Abend und alle, die gerne mit Stil anstoßen. 📍 Goldfinger, Friesenstraße 54, Köln 🕙 Einlass: ab 22 Uhr 🎟️ VVK: 2 € inkl. Drink | Abendkasse: 10 € ohne Drink 🍹 Aperitivos & Klassiker all night long: 6 €Für alle, die wissen: Manche starten das Wochenende nicht mit einem Plan – sondern mit einem guten Drink. 🥂",
+        "link": "https://rausgegangen.de/en/events/aperitivo-friday-open-air-party-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/mHl48ccbReaxmZlTgD98_aperitivo-friday-event-form.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 15.08.2025",
+        "time": "22:45",
+        "event": "Burlesque Dinner Show mit Nita Bon Air. (@Echtzeit Grill & Thrill)",
+        "category": "",
+        "description": "Erleben sie das Feuer der argentinischen Burlesque Künstlerin Nita Bon Air. Mit Charme und Eleganz betritt sie die kleine Bühne des Echtzeit. Ihre Ausbildung in Akrobatik und Tanz lässt sie in ihre Burlesque Darbietungen einfließen. Sie erwartet eine unterhaltsame Reise aus Bewegung und Sinnlichkeit.Entfachen Sie mit uns einen Sonntag Abend der ganz besonderen Art, denn wir präsentieren Ihnen unser sprudelndes Hoch weiblicher Emanzipation und servieren Ihnen dazu gleich die ganze Bottle of Burlesque! Dieser Abend eignet sich für alle Junggesellen-Abschiede, Geburtstage und ganz besondere Anlässe, die eben grandios gefeiert werden müssen.Genießen Sie dazu leckeres BBQ, wie unsere köstlichen Spare-Ribs oder unsere grandiose Burger-Auswahl. Dazu einen leckeren Cocktail, oder zwei. In unserem gemütlichen Ambiente lassen Sie sich von drei unvergesslichen Showauftritten in den Bann ziehen. Ein Abend, den Sie so schnell nicht vergessen werden. MINDESTVERZEHR 15€Einlass: 22.30 UhrShowtime : 23 Uhr NUR AB JUNI: EINLASS IST AB 22.15 UHR UND SHOWBEGINN 22.45 UHR.Herzlich willkommen im Restaurant Echtzeit – live, hautnah und verdammt leckerWir freuen uns auf Sie!Team EchtzeitWenn ihnen der Abend ganz besonders gefallen hat, dann schauen sie doch zu Parfait de la Neiges Burlesque Shows vorbei. Wir laden sie herzlich ein. Die Tickets dazu erhalten sie hier auf Rausgegangen.",
+        "link": "https://rausgegangen.de/en/events/burlesque-dinner-show-mit-nita-bon-air-18/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/1tRq6GTQWCAe1sA76imF_img5731.jpeg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 15.08.2025",
+        "time": "22:45",
+        "event": "Echtzeit Burlesque Dinner (@Echtzeit Grill & Thrill)",
+        "category": "",
+        "description": "Welcome to Burlesque, Baby 💋✨ Wie Cher & Christina – nur mitten im Gastraum. Dich erwartet eine sinnliche Show, ausgelassene Stimmung und köstliches Essen.",
+        "link": "https://rausgegangen.de/en/events/echtzeit-burlesque-dinner-42/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/twV38fKzSdKnbR4Sh9Ry_nnnn.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 15.08.2025",
+        "time": "23:00",
+        "event": "HYPERRAVE: FREE FIRE RAVE w/ INIGMA (SPAIN), JANE b2b DAESU, Nicho, Jacuzi (@Castell)",
+        "category": "",
+        "description": "YOUR REGULAR RAVE AT THE RIGHT SIDE OF RHEIN!!!HYPERRAVE: FREE FIRE RAVEINFO VERLOSUNG: Da es sich um ein Event mit einem kostenlosen Eintritt auf Spendenbasis handelt, kannst du deinen Gewinn für 2 Gratisshots an der Bar einlösen.Wir sind zurück mit einer neuen Edition unserer regulären Rave Reihe im Castell!Wir sind ein Mixed-Genre Event und geben DJs den Raum sich musikalisch zu entfalten mit einem durchdachten Konzept und einem Spannungsbogen, der sich über den Abend erstreckt 😃🗓 FR, 1508.25🕚 23:00 – 07:00📍 Regentenstraße 11, 51063 Köln🎶 Trance, Hard Trance, Hard Techno, Neorave, Tekno/Mental, Hardgroove 🆓 EINTRITT AUF SPENDENBASIS / LINEUP /🔶 INIGMA (SNRG 🇪🇸)🔶 JANE b2b DAESU (HYPERRAVE)🔶 Nicho (HYPERRAVE)🔶 Jacuzi (HYPERRAVE)",
+        "link": "https://rausgegangen.de/en/events/hyperrave-free-fire-rave-w-inigma-spain-jane-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bkSPPas1SVoJgZWQ4zTb_img1192.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 15.08.2025",
+        "time": "23:00",
+        "event": "OH OH OH ! DIE 2000ER - 2010ER SAUSE IM VEEDEL CLUB (@Veedel Club)",
+        "category": "",
+        "description": "🌟 Zeitreise-Party: Die Hits der 2000er & 2010er 🌟 OH OH OH - Die Neue 2000er & 2010 er Sause im Veedel ! Bereit für eine unvergessliche Nacht voller Nostalgie und guter Laune? Komm zu unserer ultimativen Zeitreise-Party, bei der wir die größten Hits und coolsten Trends der 2000er und 2010er feiern!🗓 Datum: Freitag  , 18. Juli  2025 🕗 Zeit: 23:00 Uhr 📍 Ort: Veedel Club , Luxemburgerstr. 37, Köln 🚪 Eintritt : Free Entry Ticket - bis 00.00 Uhr - Abendkasse 10 EuroWas dich erwartet:🎶 Die besten Hits: Von den Ohrwürmern der 2000er bis zu den Chartstürmern der 2010er – unsere DJs lassen keine Wünsche offen. Freu dich auf Songs von Britney Spears, Justin Timberlake, Rihanna, Lady Gaga, Katy Perry, und vielen mehr!💃 Tanzfläche: Schnapp dir deine Freunde und tanze zu den Beats, die eine ganze Generation geprägt haben. Egal ob du die Moves von damals noch drauf hast oder sie neu lernen möchtest – auf der Tanzfläche ist jeder willkommen!",
+        "link": "https://rausgegangen.de/en/events/oh-oh-oh-die-2000er-2010er-sause-im-veedel-club-4/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ck8O3b0TMSAMj8X6AAYQ_ohohoh-header-august.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 15.08.2025",
+        "time": "23:00",
+        "event": "One More Time (@Club Bahnhof Ehrenfeld | CBE)",
+        "category": "",
+        "description": "ONE MORE TIME – Die wahrscheinlich beste 2000er-Party der Welt! 📍 Club Bahnhof Ehrenfeld | 🎶 2 Floors | 🎤 Karaoke-OpeningErlebe eine Nacht voller legendärer Hits aus den 2000ern bis heute – ohne Trash, aber mit jeder Menge Feel-Good-Vibes!🔥 Mainfloor: Die größten Hymnen der 2000er treffen auf aktuelle Banger! 💃 Lounge: Hip-Hop, R’n’B, Afrobeats, Dancehall & Reggaeton 🎤 Special: 1 Stunde Karaoke zum Auftakt! Sing dich warm mit deinen Lieblingssongs, bevor die Party richtig losgeht!  Bitte beachtet das immer nur Tickets für die nächste One More Time angeboten werden.",
+        "link": "https://rausgegangen.de/en/events/one-more-time-32/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fmXz9k2gSGCGHLQPiI4Y_img8874.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 15.08.2025",
+        "time": "23:00",
+        "event": "Purple Vibrations Vol. 5 w/ NICK WAVES, PABLO PÉREZZ, NUS, DERDERWANDERT, MIDYA & more at Helios37 (@Helios37)",
+        "category": "",
+        "description": "Von Deep bis Organic House: Purple Vibrations lädt zu einer Soundreise ein, die den Abend unvergesslich macht.🎧",
+        "link": "https://rausgegangen.de/en/events/purple-vibrations-vol-5-w-xxxxxx-more-at-helios37-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bK19ctRQeKAEe1vRvBAA_purple-titelbild20.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 15.08.2025",
+        "time": "23:00",
+        "event": "SONIC SOUNDCLASH by DJ Nono + DJ Dustin (@MTC - LIVE❌MUSIC❌CLUB)",
+        "category": "",
+        "description": "Zwei Plattentäter, ein Auftrag: Qualität vor Quatsch. DJ Nono & DJ Dustin – das gefährlichste DJ-Duo Kölns (zumindest laut ihrer eigenen Presseabteilung) – mixen euch feinste Tunes aus Metal, Rock, Indie, Hip Hop und elektronischen Perlen. Keine Playlist-Poserei, kein Genre-Grenzverkehr auf Sparflamme – hier wird leidenschaftlich aufgelegt, nicht einfach nur abgespielt. Für Musikliebhaber. Von Musikliebhabern. Und für alle, die mehr wollen als nur den nächsten Drop. ___________________Eintritt: 8 Euro, inkl. Welcome Shot (eingeschränkte Auswahl) Bei dieser Party gilt: freier Eintritt für Konzertbesucher*innen.",
+        "link": "https://rausgegangen.de/en/events/sonic-soundclash-by-dj-nono-dj-dustin-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/HAFCq1x4QYJI3ycP7xo6_1920x1005sonicsoundclash.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 15.08.2025",
+        "time": "23:00",
+        "event": "studio rainbow #5: techno for queers and friends (@YUCA)",
+        "category": "",
+        "description": "Bunte Looks, laute Bässe und ganz viel Liebe – Studio Rainbow bringt queeren Techno nach Köln. Im Yuca feierst du die Nacht durch, draußen wie drinnen, mit Awareness und ohne Diskriminierung. Sei du selbst, tanz wild und fühl dich frei – hier zählt nur, dass wir’s gemeinsam krachen lassen.",
+        "link": "https://rausgegangen.de/en/events/studio-rainbow-4-techno-for-queers-and-friends-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/cm5dLI2TuyxVPe1GI1Ww_rausgegangen-header1.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 15.08.2025",
+        "time": "23:00",
+        "event": "SUGAR & SPICE w/ Warrior Sound (@Club Subway)",
+        "category": "",
+        "description": "Stingray Disco presents SUGAR & SPICECologne's hotspot for Afro-Caribbean music.Every 3rd Friday @ Club Subway!Reggae ✖️Dancehall ✖️Afrobeats ✖️Soca ❗️Junior Lion‘s Birthday Bash❗️➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖Der Name ist Programm: Musikalisch abwechslungsreich und vielfältig geht SUGAR & SPICEim Kölner Club Subway in die nächste Runde. Seit 11 Jahren eine feste Institution, bringt die Partyreihe die pulsierenden Genres des afrokaribischen Musikkosmos auf die Tanzfläche. Ob Dancehall und Reggae aus Kingston, Afrobeats aus Lagos oder Soca von den kleinen Antillen – alle Stile sind musikhistorisch eng miteinander verwurzelt und befinden sich in ständigem kulturellen Austausch. Wenn Mattia aka Warrior Sound auflegt, trifft globale Dancehall-Exzellenz auf feinfühlige Crowd-Connection.Sein musikalisches Zuhause ist der legendäre U-Club in Wuppertal – ein Ort, der seit Jahrzehnten Basskultur atmet und Ende des Jahres seine Tore schließt. Umso mehr Grund, diesen Vibe zu supporten und ihn nach Köln zu holen.➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖Music by:🎶 Junior Lion 🎶🎶 Warrior Sound 🎶➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🗓 Date: 15.08.2025🏁 Start: 23h💵 Entry: From 23h-24h 10€ Birthday Nice Price 15,-€ after➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖📍Club SubwayAachenerstraße 82-8450672 Cologne➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖www.subway-der-club.dewww.facebook.com/ClubSubwaywww.stingraydisco.comwww.facebook.com/StingrayDisco",
+        "link": "https://rausgegangen.de/en/events/sugar-spice-w-warrior-sound-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/9AwImPC7TbyqnzNHHouV_img6706.jpeg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 15.08.2025",
+        "time": "23:00",
+        "event": "TEENAGE DIRTBAG - Pop-Punk ✩ Emo ✩ Alternative ✩ Punk Rock (@Blue Shell)",
+        "category": "",
+        "description": "TEENAGE DIRTBAG Pop-Punk ✩ Emo ✩ Alternative ✩ Punk RockCome With Me Friday, Don't Say Maybe mit Mighty Müller & Dizzee Pascal. An alle Teenage Dirtbags da draußen! Stellt euch vor, Stifler's Mom ist nicht Zuhause und Stifler schmeißt eine seiner Hauspartys.Wir möchten zusammen mit euch den Charme einer College Party ins Blue Shell holen. Wir sorgen für Bier und Oldschool College Party Tunes von Rock bis Pop-Punk, Alternative über Punkrock und kleine Ausflüge in den Indie-Bereich.Band A-Z:Alkaline Trio ✩ All Time Low ✩ Avril Lavigne ✩ Blink 182 ✩ Billy Talent ✩ Comeback Kid ✩ Enter Shikari ✩ Fall Out Boy ✩ Green Day ✩ Jimmy Eat World ✩ Kenny Hoopla ✩ Lagwagon ✩ Linkin Park ✩ Limp Bizkit ✩ MGK ✩ My Chemical Romance ✩ New Found Glory ✩ OPM ✩ Panic! At the Disco ✩ Queens Of The Stone Age ✩ Rise Against ✩ Sum 41 ✩ Taking Back Sunday ✩ The Used ✩ Violent Femmes ✩ Weezer ✩ Wheatus ✩ Yellowcard ✩ ZebraheadHappy Hour von 23-0 Uhr (Alle Longdrinks zum halben Preis)Abendkasse: 8.- €",
+        "link": "https://rausgegangen.de/en/events/teenage-dirtbag-pop-punk-emo-alternative-punk-rock-8/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7tdMQQ62SkWso007SIqa_tdfb.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
     },
     {
         "date": "Fri, 15.08.2025",
@@ -860,186 +1030,6 @@
     },
     {
         "date": "Fri, 15.08.2025",
-        "time": "17:30",
-        "event": "Meditation und Stille (@Kim Schröer Coaching)",
-        "category": "",
-        "description": "Tauche ein in die Welt der inneren Ruhe und Gelassenheit. In der Stille begegnen wir unserer eigenen Wahrheit. Und das entspannt uns von innen heraus. Somit braucht es manchmal nicht mehr, als uns gemeinsam in die Stille zu begeben. Dabei begleite ich euch und halte den Raum. Der Weg in die Stille kann den Geist beruhigen und dich unterstützen, im Hier und Jetzt anzukommen. Lasst euch überraschen, wie ihr euch nach diesem Erlebnis fühlen werdet. Egal, ob Anfängerin oder Fortgeschrittener – dieser Kurs bietet dir Raum für Entspannung, Selbstreflexion und neue Energie.Von Herz zu Herz ohne Worte. Gemeinsam allein sein. Seelisch erwachsen werden. <3Ihr könnt ohne Vorerfahrung in Alltagsklamotten teilnehmen.Der feel-Freiraum ist ein gemütlicher Coaching-Raum direkt am Severinskirchplatz (neben dem italienischen Restaurant Ludari).www.kim-schroeer.com www.instagram.com/kim_schroeer",
-        "link": "https://rausgegangen.de/en/events/meditation-und-stille-35/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bZEm6BTRTiKsqyNyuXNj_dsc5535.JPG?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 15.08.2025",
-        "time": "19:30",
-        "event": "Cocktails im Handumdrehen. Mini-Cocktailkurs (@CocktailContor Köln-Innenstadt)",
-        "category": "",
-        "description": "In nur 2 Stunden zum Cocktail-Profi! Von Gimlet bis Caipi - hier lernst du alles, um deine Freund:innen und dich selbst zu beglücken 🍸✨",
-        "link": "https://rausgegangen.de/en/events/cocktails-im-handumdrehen-mini-cocktailkurs-52/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/nNHboISbQZCdDqwKIfce_mini-cocktailkurs-koeln.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 15.08.2025",
-        "time": "20:00",
-        "event": "Echtzeit Comedy - Stand-Up am Freitag (@Echtzeit Grill & Thrill)",
-        "category": "",
-        "description": "Lust auf Stand-Up-Comedy? 🎙️ Bei Echtzeit Comedy erwartet dich jede Woche ein wechselndes Line-Up! Freu dich auf einen lustigen Abend und einen Mix aus neuen & bereits bekannten Talenten - jetzt Tickets sichern! ✨",
-        "link": "https://rausgegangen.de/en/events/echtzeit-comedy-stand-up-am-freitag-31/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/nqPlL65iQPGV1QFe4oz6_echteit-comedy-website-bild.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 15.08.2025",
-        "time": "20:00",
-        "event": "ELTERNABEND * DANCE HITS FÜR ALLE DIE ES NÖTIG HABEN. (@Veedel Club)",
-        "category": "",
-        "description": "Einladung  Lieber Eltern, liebe angehenden Eltern, liebe Freund:innen, wir möchten Sie hiermit herzlich zu unserem achten  Elternabend im Jahr 2025 einladen.  Termin : 15.08.25, von 20 - 23 Uhr Ort : Veedel Club",
-        "link": "https://rausgegangen.de/en/events/elternabend-dance-hits-fur-alle-die-es-notig-haben-22/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/SlbkhsN3TUqqiW56eiXi_elternabendheaderaugust.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 15.08.2025",
-        "time": "20:00",
-        "event": "Molchat Doma (@Carlswerk Victoria)",
-        "category": "",
-        "description": "Pressetext folgt... -",
-        "link": "https://rausgegangen.de/en/events/molchat-doma-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/qwsuZu6JSvOp0ZU6eAPe_molchat-doma-2025-scaled-e1750847482785.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 15.08.2025",
-        "time": "20:30",
-        "event": "Comedyflash - Die Stand Up Comedy Show (@DéjaVu Lounge)",
-        "category": "",
-        "description": "LIVE Stand Up Comedy in Köln!Wir zeigen euch einen Mix aus erfahrenen Profi-Comedians und den heißesten Newcomern der deutschen Comedy-Szene.Comedyflash - bekannt aus TikTok und Instagram, die junge authentische Comedy-Show.Egal wer an diesem Abend auf der Bühne steht - Euch erwartet absolut authentische Stand Up Comedy nach amerikanischem Vorbild!Das Ticket muss nicht ausgedruckt werden.--Location--DéjaVu LoungeZülpicher Str. 1750674 Köln-- bitte beachtet: Das LineUp besteht nicht unbedingt aus den KünstlerInnen, die auf dem Bild zu sehen sind --",
-        "link": "https://rausgegangen.de/en/events/comedyflash-die-stand-up-comedy-show-127/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/w887kSvGTxGhrORA1KlQ_kopie-von-posterflyer-1080-x-1350-px-100-x-52-mm.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 15.08.2025",
-        "time": "22:00",
-        "event": "Aperitivo Friday - OPEN AIR PARTY (@Goldfinger)",
-        "category": "",
-        "description": "🍹 Aperitivo Friday – Der neue Freitag im Goldfinger Goldfinger Köln | Start: 22 UhrStell dir vor, es ist Freitagabend. Du hast frei, du hast Lust – und du hast deinen ersten Sarti Spritz in der Hand. Deine Freundin prostet dir mit einem Aperol Spritz zu, die andere genießt einen Limoncello Spritz oder einen Lillet Wild Berry. Und das Beste: Alle Aperitivos bekommst du den ganzen Abend für nur 6 Euro – mit hochwertigen Edelspirituosen, wie es sich gehört.Für alle Mädels, die lieber auf Klassiker stehen, gibt’s alternativ Gin Tonic oder Cuba Libre. Und keine Sorge, liebe Männer – ihr seid nicht nur eingeladen, sondern ausdrücklich mitgemeint. Auch für euch gelten die Specials – ob Spritz, Gin oder Rum, Hauptsache: gut gemixt und mit Stil serviert.✨ Wir feiern die Premiere einer neuen Reihe: Aperitivo Friday. Dein neues Ritual zum Runterkommen, Austauschen, Anstoßen, Tanzen. Open Air im charmanten Innenhof des Goldfinger – mit Palmen, guter Musik und einer Extraportion Leichtigkeit.🎟 Zum Start gibt’s ein echtes Highlight: Sichere dir dein Ticket im Vorverkauf für nur 2 Euro und dein erster Aperitivo geht auf uns – zur Wahl stehen: 🍹 Aperol Spritz 🍊 Sarti Spritz 🍋 Limoncello Spritz 🍓 Lillet Wild Berry 🍸 Gin Tonic 🥃 Cuba LibreAbendkasse: 10 € (ohne Drink – just sayin’.)💃 Musikalisch tanzen wir quer durch die Nacht: Von den 90ern über die 2000er bis zu aktuellen Lieblingsliedern – alles, was gute Laune macht und dich ins Wochenende trägt.🌴 Und weil es der erste Aperitivo Friday ist, weihen wir feierlich unsere neue Aperol-Theke ein – gebaut für genau diesen Abend und alle, die gerne mit Stil anstoßen. 📍 Goldfinger, Friesenstraße 54, Köln 🕙 Einlass: ab 22 Uhr 🎟️ VVK: 2 € inkl. Drink | Abendkasse: 10 € ohne Drink 🍹 Aperitivos & Klassiker all night long: 6 €Für alle, die wissen: Manche starten das Wochenende nicht mit einem Plan – sondern mit einem guten Drink. 🥂",
-        "link": "https://rausgegangen.de/en/events/aperitivo-friday-open-air-party-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/mHl48ccbReaxmZlTgD98_aperitivo-friday-event-form.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 15.08.2025",
-        "time": "22:45",
-        "event": "Burlesque Dinner Show mit Nita Bon Air. (@Echtzeit Grill & Thrill)",
-        "category": "",
-        "description": "Erleben sie das Feuer der argentinischen Burlesque Künstlerin Nita Bon Air. Mit Charme und Eleganz betritt sie die kleine Bühne des Echtzeit. Ihre Ausbildung in Akrobatik und Tanz lässt sie in ihre Burlesque Darbietungen einfließen. Sie erwartet eine unterhaltsame Reise aus Bewegung und Sinnlichkeit.Entfachen Sie mit uns einen Sonntag Abend der ganz besonderen Art, denn wir präsentieren Ihnen unser sprudelndes Hoch weiblicher Emanzipation und servieren Ihnen dazu gleich die ganze Bottle of Burlesque! Dieser Abend eignet sich für alle Junggesellen-Abschiede, Geburtstage und ganz besondere Anlässe, die eben grandios gefeiert werden müssen.Genießen Sie dazu leckeres BBQ, wie unsere köstlichen Spare-Ribs oder unsere grandiose Burger-Auswahl. Dazu einen leckeren Cocktail, oder zwei. In unserem gemütlichen Ambiente lassen Sie sich von drei unvergesslichen Showauftritten in den Bann ziehen. Ein Abend, den Sie so schnell nicht vergessen werden. MINDESTVERZEHR 15€Einlass: 22.30 UhrShowtime : 23 Uhr NUR AB JUNI: EINLASS IST AB 22.15 UHR UND SHOWBEGINN 22.45 UHR.Herzlich willkommen im Restaurant Echtzeit – live, hautnah und verdammt leckerWir freuen uns auf Sie!Team EchtzeitWenn ihnen der Abend ganz besonders gefallen hat, dann schauen sie doch zu Parfait de la Neiges Burlesque Shows vorbei. Wir laden sie herzlich ein. Die Tickets dazu erhalten sie hier auf Rausgegangen.",
-        "link": "https://rausgegangen.de/en/events/burlesque-dinner-show-mit-nita-bon-air-18/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/1tRq6GTQWCAe1sA76imF_img5731.jpeg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 15.08.2025",
-        "time": "22:45",
-        "event": "Echtzeit Burlesque Dinner (@Echtzeit Grill & Thrill)",
-        "category": "",
-        "description": "Welcome to Burlesque, Baby 💋✨ Wie Cher & Christina – nur mitten im Gastraum. Dich erwartet eine sinnliche Show, ausgelassene Stimmung und köstliches Essen.",
-        "link": "https://rausgegangen.de/en/events/echtzeit-burlesque-dinner-42/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/twV38fKzSdKnbR4Sh9Ry_nnnn.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 15.08.2025",
-        "time": "23:00",
-        "event": "EhrenKlub im Schrotty #8 - SommerSpecial mit ECZODIA, KX CHR, NATTE VISSTICK UVM. (@Schrotty)",
-        "category": "",
-        "description": "Freitag Abend ist Party-Time! Auf 2 Floors kannst du hier die ganze Nacht zu Techno Beats viben.",
-        "link": "https://rausgegangen.de/en/events/ehrenklub-im-schrotty-8-sommerspecial-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bLWsuUEsTp6E9lMg2WuE_1000175458.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 15.08.2025",
-        "time": "23:00",
-        "event": "HYPERRAVE: FREE FIRE RAVE w/ INIGMA (SPAIN), JANE b2b DAESU, Nicho, Jacuzi (@Castell)",
-        "category": "",
-        "description": "YOUR REGULAR RAVE AT THE RIGHT SIDE OF RHEIN!!!HYPERRAVE: FREE FIRE RAVEINFO VERLOSUNG: Da es sich um ein Event mit einem kostenlosen Eintritt auf Spendenbasis handelt, kannst du deinen Gewinn für 2 Gratisshots an der Bar einlösen.Wir sind zurück mit einer neuen Edition unserer regulären Rave Reihe im Castell!Wir sind ein Mixed-Genre Event und geben DJs den Raum sich musikalisch zu entfalten mit einem durchdachten Konzept und einem Spannungsbogen, der sich über den Abend erstreckt 😃🗓 FR, 1508.25🕚 23:00 – 07:00📍 Regentenstraße 11, 51063 Köln🎶 Trance, Hard Trance, Hard Techno, Neorave, Tekno/Mental, Hardgroove 🆓 EINTRITT AUF SPENDENBASIS / LINEUP /🔶 INIGMA (SNRG 🇪🇸)🔶 JANE b2b DAESU (HYPERRAVE)🔶 Nicho (HYPERRAVE)🔶 Jacuzi (HYPERRAVE)",
-        "link": "https://rausgegangen.de/en/events/hyperrave-free-fire-rave-w-inigma-spain-jane-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bkSPPas1SVoJgZWQ4zTb_img1192.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 15.08.2025",
-        "time": "23:00",
-        "event": "OH OH OH ! DIE 2000ER - 2010ER SAUSE IM VEEDEL CLUB (@Veedel Club)",
-        "category": "",
-        "description": "🌟 Zeitreise-Party: Die Hits der 2000er & 2010er 🌟 OH OH OH - Die Neue 2000er & 2010 er Sause im Veedel ! Bereit für eine unvergessliche Nacht voller Nostalgie und guter Laune? Komm zu unserer ultimativen Zeitreise-Party, bei der wir die größten Hits und coolsten Trends der 2000er und 2010er feiern!🗓 Datum: Freitag  , 18. Juli  2025 🕗 Zeit: 23:00 Uhr 📍 Ort: Veedel Club , Luxemburgerstr. 37, Köln 🚪 Eintritt : Free Entry Ticket - bis 00.00 Uhr - Abendkasse 10 EuroWas dich erwartet:🎶 Die besten Hits: Von den Ohrwürmern der 2000er bis zu den Chartstürmern der 2010er – unsere DJs lassen keine Wünsche offen. Freu dich auf Songs von Britney Spears, Justin Timberlake, Rihanna, Lady Gaga, Katy Perry, und vielen mehr!💃 Tanzfläche: Schnapp dir deine Freunde und tanze zu den Beats, die eine ganze Generation geprägt haben. Egal ob du die Moves von damals noch drauf hast oder sie neu lernen möchtest – auf der Tanzfläche ist jeder willkommen!",
-        "link": "https://rausgegangen.de/en/events/oh-oh-oh-die-2000er-2010er-sause-im-veedel-club-4/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ck8O3b0TMSAMj8X6AAYQ_ohohoh-header-august.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 15.08.2025",
-        "time": "23:00",
-        "event": "One More Time (@Club Bahnhof Ehrenfeld | CBE)",
-        "category": "",
-        "description": "ONE MORE TIME – Die wahrscheinlich beste 2000er-Party der Welt! 📍 Club Bahnhof Ehrenfeld | 🎶 2 Floors | 🎤 Karaoke-OpeningErlebe eine Nacht voller legendärer Hits aus den 2000ern bis heute – ohne Trash, aber mit jeder Menge Feel-Good-Vibes!🔥 Mainfloor: Die größten Hymnen der 2000er treffen auf aktuelle Banger! 💃 Lounge: Hip-Hop, R’n’B, Afrobeats, Dancehall & Reggaeton 🎤 Special: 1 Stunde Karaoke zum Auftakt! Sing dich warm mit deinen Lieblingssongs, bevor die Party richtig losgeht!  Bitte beachtet das immer nur Tickets für die nächste One More Time angeboten werden.",
-        "link": "https://rausgegangen.de/en/events/one-more-time-32/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fmXz9k2gSGCGHLQPiI4Y_img8874.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 15.08.2025",
-        "time": "23:00",
-        "event": "Purple Vibrations Vol. 5 w/ NICK WAVES, PABLO PÉREZZ, NUS, DERDERWANDERT, MIDYA & more at Helios37 (@Helios37)",
-        "category": "",
-        "description": "Von Deep bis Organic House: Purple Vibrations lädt zu einer Soundreise ein, die den Abend unvergesslich macht.🎧",
-        "link": "https://rausgegangen.de/en/events/purple-vibrations-vol-5-w-xxxxxx-more-at-helios37-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bK19ctRQeKAEe1vRvBAA_purple-titelbild20.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 15.08.2025",
-        "time": "23:00",
-        "event": "SONIC SOUNDCLASH by DJ Nono + DJ Dustin (@MTC - LIVE❌MUSIC❌CLUB)",
-        "category": "",
-        "description": "Zwei Plattentäter, ein Auftrag: Qualität vor Quatsch. DJ Nono & DJ Dustin – das gefährlichste DJ-Duo Kölns (zumindest laut ihrer eigenen Presseabteilung) – mixen euch feinste Tunes aus Metal, Rock, Indie, Hip Hop und elektronischen Perlen. Keine Playlist-Poserei, kein Genre-Grenzverkehr auf Sparflamme – hier wird leidenschaftlich aufgelegt, nicht einfach nur abgespielt. Für Musikliebhaber. Von Musikliebhabern. Und für alle, die mehr wollen als nur den nächsten Drop. ___________________Eintritt: 8 Euro, inkl. Welcome Shot (eingeschränkte Auswahl) Bei dieser Party gilt: freier Eintritt für Konzertbesucher*innen.",
-        "link": "https://rausgegangen.de/en/events/sonic-soundclash-by-dj-nono-dj-dustin-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/HAFCq1x4QYJI3ycP7xo6_1920x1005sonicsoundclash.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 15.08.2025",
-        "time": "23:00",
-        "event": "studio rainbow #5: techno for queers and friends (@YUCA)",
-        "category": "",
-        "description": "Bunte Looks, laute Bässe und ganz viel Liebe – Studio Rainbow bringt queeren Techno nach Köln. Im Yuca feierst du die Nacht durch, draußen wie drinnen, mit Awareness und ohne Diskriminierung. Sei du selbst, tanz wild und fühl dich frei – hier zählt nur, dass wir’s gemeinsam krachen lassen.",
-        "link": "https://rausgegangen.de/en/events/studio-rainbow-4-techno-for-queers-and-friends-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/cm5dLI2TuyxVPe1GI1Ww_rausgegangen-header1.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 15.08.2025",
-        "time": "23:00",
-        "event": "SUGAR & SPICE w/ Warrior Sound (@Club Subway)",
-        "category": "",
-        "description": "Stingray Disco presents SUGAR & SPICECologne's hotspot for Afro-Caribbean music.Every 3rd Friday @ Club Subway!Reggae ✖️Dancehall ✖️Afrobeats ✖️Soca ❗️Junior Lion‘s Birthday Bash❗️➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖Der Name ist Programm: Musikalisch abwechslungsreich und vielfältig geht SUGAR & SPICEim Kölner Club Subway in die nächste Runde. Seit 11 Jahren eine feste Institution, bringt die Partyreihe die pulsierenden Genres des afrokaribischen Musikkosmos auf die Tanzfläche. Ob Dancehall und Reggae aus Kingston, Afrobeats aus Lagos oder Soca von den kleinen Antillen – alle Stile sind musikhistorisch eng miteinander verwurzelt und befinden sich in ständigem kulturellen Austausch. Wenn Mattia aka Warrior Sound auflegt, trifft globale Dancehall-Exzellenz auf feinfühlige Crowd-Connection.Sein musikalisches Zuhause ist der legendäre U-Club in Wuppertal – ein Ort, der seit Jahrzehnten Basskultur atmet und Ende des Jahres seine Tore schließt. Umso mehr Grund, diesen Vibe zu supporten und ihn nach Köln zu holen.➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖Music by:🎶 Junior Lion 🎶🎶 Warrior Sound 🎶➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🗓 Date: 15.08.2025🏁 Start: 23h💵 Entry: From 23h-24h 10€ Birthday Nice Price 15,-€ after➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖📍Club SubwayAachenerstraße 82-8450672 Cologne➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖www.subway-der-club.dewww.facebook.com/ClubSubwaywww.stingraydisco.comwww.facebook.com/StingrayDisco",
-        "link": "https://rausgegangen.de/en/events/sugar-spice-w-warrior-sound-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/9AwImPC7TbyqnzNHHouV_img6706.jpeg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 15.08.2025",
-        "time": "23:00",
-        "event": "TEENAGE DIRTBAG - Pop-Punk ✩ Emo ✩ Alternative ✩ Punk Rock (@Blue Shell)",
-        "category": "",
-        "description": "TEENAGE DIRTBAG Pop-Punk ✩ Emo ✩ Alternative ✩ Punk RockCome With Me Friday, Don't Say Maybe mit Mighty Müller & Dizzee Pascal. An alle Teenage Dirtbags da draußen! Stellt euch vor, Stifler's Mom ist nicht Zuhause und Stifler schmeißt eine seiner Hauspartys.Wir möchten zusammen mit euch den Charme einer College Party ins Blue Shell holen. Wir sorgen für Bier und Oldschool College Party Tunes von Rock bis Pop-Punk, Alternative über Punkrock und kleine Ausflüge in den Indie-Bereich.Band A-Z:Alkaline Trio ✩ All Time Low ✩ Avril Lavigne ✩ Blink 182 ✩ Billy Talent ✩ Comeback Kid ✩ Enter Shikari ✩ Fall Out Boy ✩ Green Day ✩ Jimmy Eat World ✩ Kenny Hoopla ✩ Lagwagon ✩ Linkin Park ✩ Limp Bizkit ✩ MGK ✩ My Chemical Romance ✩ New Found Glory ✩ OPM ✩ Panic! At the Disco ✩ Queens Of The Stone Age ✩ Rise Against ✩ Sum 41 ✩ Taking Back Sunday ✩ The Used ✩ Violent Femmes ✩ Weezer ✩ Wheatus ✩ Yellowcard ✩ ZebraheadHappy Hour von 23-0 Uhr (Alle Longdrinks zum halben Preis)Abendkasse: 8.- €",
-        "link": "https://rausgegangen.de/en/events/teenage-dirtbag-pop-punk-emo-alternative-punk-rock-8/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7tdMQQ62SkWso007SIqa_tdfb.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 15.08.2025",
         "time": "14:00",
         "event": "Kopfkino statt Fernsehabend (@Altstädter Kirchpark)",
         "category": "CityLife-Sommer",
@@ -1057,20 +1047,44 @@
         "link": "https://www.bielefeld.jetzt/node/1130597"
     },
     {
-        "date": "Sa, 16.08",
-        "time": "23:00",
-        "event": "SA • CAFE SUMMER NIGHTS X COCKTAIL NIGHT • RAUM2: BOOTY BOUNCE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-x-cocktail-night/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250816_CocktailParty_4zu5.jpg"
-    },
-    {
         "date": "Sat, 16.08",
         "time": "23:00",
         "event": "STEREOLOVE (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/stereolove-3/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_16_0825_Feed.jpg"
+    },
+    {
+        "date": "Sa, 16.08.2025",
+        "time": "08:00",
+        "event": "Wandern(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38176",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 16.08.2025",
+        "time": "10:00",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36263",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 16.08.2025",
+        "time": "11:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 16.08",
+        "time": "23:00",
+        "event": "SA • CAFE SUMMER NIGHTS X COCKTAIL NIGHT • RAUM2: BOOTY BOUNCE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-x-cocktail-night/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250816_CocktailParty_4zu5.jpg"
     },
     {
         "date": "Sa, 16.08.2025",
@@ -1103,30 +1117,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sa, 16.08.2025",
-        "time": "08:00",
-        "event": "Wandern(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38176",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 16.08.2025",
-        "time": "10:00",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36263",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 16.08.2025",
-        "time": "11:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Sat, 16.08.2025",
@@ -1217,6 +1207,76 @@
         "link": "https://rausgegangen.de/en/events/eli-invites-bahnwarter-thiel-munchen-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ChufV8OdQWKZlvIm9Fzg_eli-invites-thiel-kopie.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
+    },
+    {
+        "date": "Sat, 16.08.2025",
+        "time": "11:00",
+        "event": "Wildkräutertour beim Kölner Bio Bauern (@Kölner Bio Bauer)",
+        "category": "",
+        "description": "Wildkräuter in der Stadt sammeln? Das geht! Viele Arten sind in der Stadt zu Hause und machen sie so vielfältig wie die Menschen. Mit Michelle aus dem Team von WILDESGRÜN lernt ihr hier einiges über die spannende Stadtnatur. Der Hof des Kölner Bio Bauern in Köln Vingst steht nicht nur für gesundes Bio-Gemüse sondern auch für Bildung im Naturbereich.  Die Natur beschenkt uns wunderbarerweise das ganze Jahr über mit essbaren Wildpflanzen und wirksamen Heilkräutern. Und wer weiß denn schon noch, wie lecker eine Brennnesselsuppe ist oder dass der Gundermann nicht nur bei Husten hilft, sondern mit Schokolade überzogen wie ein After-Eight von der Wiese schmeckt?  Wir zeigen dir, wie du Wildkräuter sicher erkennst und schonend sammelst. Du lernst wie du diese besonderen Pflanzen für dich nutzen und sie gleichzeitig schützen kannst. Die Natur schenkt dir: Gesundheit, Genuss, Heilkraft, Verbindung und vieles mehr!  ECKDATEN 2 Stunden Kräutertour:   \tFachliche Anleitung zum richtigen Erkennen und Sammeln von Wildpflanzen in der Natur \tVorstellung von mind. 7 Pflanzen, Rezepten, Tipps & Tricks zum Sammeln \tZum Mitnehmen: z. B. ein selbst gemachtes Produkt, z. B. Kräuteressig oder Kräutersalz (die Referentin plant dies) \tdigitales Handout mit Sammelhinweisen, Literaturempfehlungen und drei Basisrezepten   Was du mitbringst?  Ein paar Stunden Zeit, Neugierde, wetterangepasste Anziehsachen, Wasser für unterwegs und deine Fragen!  Wir freuen uns auf dich!",
+        "link": "https://rausgegangen.de/en/events/wildkrautertour-beim-kolner-bio-bauern-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/yO5aOsDMQjKgzinsddEN_krauter-erkennen.JPG?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 16.08.2025",
+        "time": "14:00",
+        "event": "BREAKZONE Festival 2025 (Day & Night) (@Odonien)",
+        "category": "",
+        "description": "Bass, Beats und Breaks nonstop: bei der BREAKZONE tanzt du dich durch 18 Stunden Musik-Flash! In Odonien wird’s laut, wild und vielseitig: Drum & Bass unter freiem Himmel, House & Techno in der Nacht und Dubstep im Bassbus. Hol dir dein Ticket und feier mit einer Crowd, die weiß, wie Festival geht.",
+        "link": "https://rausgegangen.de/en/events/breakzone-festival-2025-day-night-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/CZBlIXryReK7lW1rDkBE_bz2025fbeventbanner.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 16.08.2025",
+        "time": "14:00",
+        "event": "OPEN AIR - THE SHRIMP HOUSE CLUB (@PARK.cologne)",
+        "category": "",
+        "description": "🦐 THE SHRIMP HOUSE CLUB – OPEN AIR 🦐 by Paella Groove ✨ supported by DISKOLOGNE & SCHALLDICHT & SMALL GREAT THINGS LABELAm Samstag, 16.08. bespielen wir eine neue Off-Location unter freiem Himmel – mit Sonne im Gesicht, warmen Grooves und viel Liebe zum Detail. Line-up: Luca Olivotto · Eszter B2B Jeremy Reinhard · Juanito · Mey · Eremitage · Diskoheinz B2B Dennis Janeczek 📍 PARK.cologne 📫 Josef-Lammerting-Allee 17–19, 50933 Köln 🚉 Nur 5 Minuten zu Fuß vom S-Bahnhof Technologiepark Müngersdorf – fast Ehrenfeld :) 🕒 14:00 Was euch erwartet:🔥: Heißes Line up. wird in kürze verkündet!! 🍤 Frisch gekochte Paella & Tapas – auch vegan 🎶 House- & Disco-Sound  – Vinyl-Sets 🌅 Sonnenuntergang, kühle Drinks & liebevolle Vibes 🌿 Eine urbane Open-Air-Location  🎟️ Limitiertes Blind Booking jetzt geöffnet!  Welcome to The Shrimp House Club 💃🕺💥",
+        "link": "https://rausgegangen.de/en/events/open-air-the-shrimp-house-club-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/qnhyc6FgTbOFcztfRY6h_kopie-von-1608-open-air-16-x-9-zoll-3.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 16.08.2025",
+        "time": "14:00",
+        "event": "WETDREAMS@Café Stube || Free Iced Matcha 🪩💜 (@Café Stube)",
+        "category": "",
+        "description": "Sounds like Coffee, schmeckt wie Musik 🪩💜Am 16.08 übernimmt WETDREAMS die Musik in der Stube. Euch erwarten Hardhouse- und Groove-Sets, dazu leckere Kaffeespezialitäten, hausgemachter Kuchen und leckere Matcha-Kreationen :) Von 14 bis 19 Uhr übernehmen die DJs von WETDREAMS die Decks und laden euch zum Tanzen und Kaffeetrinken ein. Wir freuen uns, wenn ihr vorbeischaut! ☕🌞 50 Iced Matcha for free – sponsored by Oatly 🌞Zusammen mit Oatly gibt es die ersten 50 Iced Matcha for free. Kommt vorbei und schnappt euch einen solange der Vorrat reicht. Außerdem gibt’s für alle kostenlose Cold Brew Shots und für Studierende 10 % Rabatt auf alles.🎟️✨Mach mit bei der Verlosung und hol dir ein leckeres Heißgetränk deiner Wahl und hausgemachten Kuchen! Jedes Gewinn-Ticket bringt dir ein Gratis-Heißgetränk und ein Stück Kuchen.✨🎟️ Kommt gerne vorbei in die Stube 🏡Berrenrather Straße 205, 50937 Köln",
+        "link": "https://rausgegangen.de/en/events/wetdreams-cafe-stube-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5a39Xy8OSNutSpEJIw6O_unbenanntesprojekt-8page-0001.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 16.08.2025",
+        "time": "15:00",
+        "event": "I LOVE REGGAETON | OPEN AIR | PopUp Beach Köln (@Pop Up Beach @ Bootshaus Köln)",
+        "category": "",
+        "description": "Reggaeton-Vibes, Sand unter den Füßen und ein Sonnenuntergang, der besser nicht sein könnte. Deine liebsten Latinbeats treffen auf eiskalte Drinks und den coolsten Spot am Wasser. Zieh dein bestes Beachfit an und genieß den Sommer mit deiner Crew! 🏖️",
+        "link": "https://rausgegangen.de/en/events/i-love-reggaeton-open-air-popup-beach-koln-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/S93W1THBRpejx1RMKCO6_ilr-beach-titel.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 16.08.2025",
+        "time": "16:00",
+        "event": "BIG BAG OF BEATS open air w/ CLBRKS, DEXTER, RETROGOTT, WUN TWO u.v.m. (@Bumann & SOHN)",
+        "category": "",
+        "description": "Beats unter freiem Himmel, feinste Produktionen und ein Line-up, das die Kölner Szene feiert – bei Big Bag Of Beats treffen Nachwuchstalente auf Legenden wie Dexter und Retrogott. Im Hof von Bumann & Sohn erwarten dich chillige Vibes, freshe Sounds und ein seltener Live-Act aus London. Ein Muss für alle, die Beats wirklich fühlen. 🪩",
+        "link": "https://rausgegangen.de/en/events/big-bag-of-beats-open-air-w-clbrks-dexter-retrogott-wun-two--0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bXf2T1FbRK6SRvciipoC_bbobheader.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 16.08.2025",
+        "time": "20:00",
+        "event": "Echtzeit Comedy - Stand-Up am Samstag (@Echtzeit Grill & Thrill)",
+        "category": "",
+        "description": "„Samstag ist Comedy-Time! 🎤🔥 Um 20 Uhr rocken drei Comedians die Bühne, und um 22:30 Uhr geht’s im Open Mic weiter – Newcomer, frisches Material, BBQ und Drinks🍔✨“",
+        "link": "https://rausgegangen.de/en/events/echtzeit-comedy-stand-up-am-samstag-31/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zUbkuklCT1GNCqQVjqg9_echteit-comedy-website-bild.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
     },
     {
         "date": "Sat, 16.08.2025",
@@ -1330,66 +1390,6 @@
     },
     {
         "date": "Sat, 16.08.2025",
-        "time": "11:00",
-        "event": "Wildkräutertour beim Kölner Bio Bauern (@Kölner Bio Bauer)",
-        "category": "",
-        "description": "Wildkräuter in der Stadt sammeln? Das geht! Viele Arten sind in der Stadt zu Hause und machen sie so vielfältig wie die Menschen. Mit Michelle aus dem Team von WILDESGRÜN lernt ihr hier einiges über die spannende Stadtnatur. Der Hof des Kölner Bio Bauern in Köln Vingst steht nicht nur für gesundes Bio-Gemüse sondern auch für Bildung im Naturbereich.  Die Natur beschenkt uns wunderbarerweise das ganze Jahr über mit essbaren Wildpflanzen und wirksamen Heilkräutern. Und wer weiß denn schon noch, wie lecker eine Brennnesselsuppe ist oder dass der Gundermann nicht nur bei Husten hilft, sondern mit Schokolade überzogen wie ein After-Eight von der Wiese schmeckt?  Wir zeigen dir, wie du Wildkräuter sicher erkennst und schonend sammelst. Du lernst wie du diese besonderen Pflanzen für dich nutzen und sie gleichzeitig schützen kannst. Die Natur schenkt dir: Gesundheit, Genuss, Heilkraft, Verbindung und vieles mehr!  ECKDATEN 2 Stunden Kräutertour:   \tFachliche Anleitung zum richtigen Erkennen und Sammeln von Wildpflanzen in der Natur \tVorstellung von mind. 7 Pflanzen, Rezepten, Tipps & Tricks zum Sammeln \tZum Mitnehmen: z. B. ein selbst gemachtes Produkt, z. B. Kräuteressig oder Kräutersalz (die Referentin plant dies) \tdigitales Handout mit Sammelhinweisen, Literaturempfehlungen und drei Basisrezepten   Was du mitbringst?  Ein paar Stunden Zeit, Neugierde, wetterangepasste Anziehsachen, Wasser für unterwegs und deine Fragen!  Wir freuen uns auf dich!",
-        "link": "https://rausgegangen.de/en/events/wildkrautertour-beim-kolner-bio-bauern-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/yO5aOsDMQjKgzinsddEN_krauter-erkennen.JPG?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 16.08.2025",
-        "time": "14:00",
-        "event": "BREAKZONE Festival 2025 (Day & Night) (@Odonien)",
-        "category": "",
-        "description": "Bass, Beats und Breaks nonstop: bei der BREAKZONE tanzt du dich durch 18 Stunden Musik-Flash! In Odonien wird’s laut, wild und vielseitig: Drum & Bass unter freiem Himmel, House & Techno in der Nacht und Dubstep im Bassbus. Hol dir dein Ticket und feier mit einer Crowd, die weiß, wie Festival geht.",
-        "link": "https://rausgegangen.de/en/events/breakzone-festival-2025-day-night-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/CZBlIXryReK7lW1rDkBE_bz2025fbeventbanner.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 16.08.2025",
-        "time": "14:00",
-        "event": "OPEN AIR - THE SHRIMP HOUSE CLUB (@PARK.cologne)",
-        "category": "",
-        "description": "🦐 THE SHRIMP HOUSE CLUB – OPEN AIR 🦐 by Paella Groove ✨ supported by DISKOLOGNE & SCHALLDICHT & SMALL GREAT THINGS LABELAm Samstag, 16.08. bespielen wir eine neue Off-Location unter freiem Himmel – mit Sonne im Gesicht, warmen Grooves und viel Liebe zum Detail. Line-up: Luca Olivotto · Eszter B2B Jeremy Reinhard · Juanito · Mey · Eremitage · Diskoheinz B2B Dennis Janeczek 📍 PARK.cologne 📫 Josef-Lammerting-Allee 17–19, 50933 Köln 🚉 Nur 5 Minuten zu Fuß vom S-Bahnhof Technologiepark Müngersdorf – fast Ehrenfeld :) 🕒 14:00 Was euch erwartet:🔥: Heißes Line up. wird in kürze verkündet!! 🍤 Frisch gekochte Paella & Tapas – auch vegan 🎶 House- & Disco-Sound  – Vinyl-Sets 🌅 Sonnenuntergang, kühle Drinks & liebevolle Vibes 🌿 Eine urbane Open-Air-Location  🎟️ Limitiertes Blind Booking jetzt geöffnet!  Welcome to The Shrimp House Club 💃🕺💥",
-        "link": "https://rausgegangen.de/en/events/open-air-the-shrimp-house-club-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/qnhyc6FgTbOFcztfRY6h_kopie-von-1608-open-air-16-x-9-zoll-3.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 16.08.2025",
-        "time": "14:00",
-        "event": "WETDREAMS@Café Stube || Free Iced Matcha 🪩💜 (@Café Stube)",
-        "category": "",
-        "description": "Sounds like Coffee, schmeckt wie Musik 🪩💜Am 16.08 übernimmt WETDREAMS die Musik in der Stube. Euch erwarten Hardhouse- und Groove-Sets, dazu leckere Kaffeespezialitäten, hausgemachter Kuchen und leckere Matcha-Kreationen :) Von 14 bis 19 Uhr übernehmen die DJs von WETDREAMS die Decks und laden euch zum Tanzen und Kaffeetrinken ein. Wir freuen uns, wenn ihr vorbeischaut! ☕🌞 50 Iced Matcha for free – sponsored by Oatly 🌞Zusammen mit Oatly gibt es die ersten 50 Iced Matcha for free. Kommt vorbei und schnappt euch einen solange der Vorrat reicht. Außerdem gibt’s für alle kostenlose Cold Brew Shots und für Studierende 10 % Rabatt auf alles.🎟️✨Mach mit bei der Verlosung und hol dir ein leckeres Heißgetränk deiner Wahl und hausgemachten Kuchen! Jedes Gewinn-Ticket bringt dir ein Gratis-Heißgetränk und ein Stück Kuchen.✨🎟️ Kommt gerne vorbei in die Stube 🏡Berrenrather Straße 205, 50937 Köln",
-        "link": "https://rausgegangen.de/en/events/wetdreams-cafe-stube-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5a39Xy8OSNutSpEJIw6O_unbenanntesprojekt-8page-0001.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 16.08.2025",
-        "time": "15:00",
-        "event": "I LOVE REGGAETON | OPEN AIR | PopUp Beach Köln (@Pop Up Beach @ Bootshaus Köln)",
-        "category": "",
-        "description": "Reggaeton-Vibes, Sand unter den Füßen und ein Sonnenuntergang, der besser nicht sein könnte. Deine liebsten Latinbeats treffen auf eiskalte Drinks und den coolsten Spot am Wasser. Zieh dein bestes Beachfit an und genieß den Sommer mit deiner Crew! 🏖️",
-        "link": "https://rausgegangen.de/en/events/i-love-reggaeton-open-air-popup-beach-koln-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/S93W1THBRpejx1RMKCO6_ilr-beach-titel.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 16.08.2025",
-        "time": "16:00",
-        "event": "BIG BAG OF BEATS open air w/ CLBRKS, DEXTER, RETROGOTT, WUN TWO u.v.m. (@Bumann & SOHN)",
-        "category": "",
-        "description": "Beats unter freiem Himmel, feinste Produktionen und ein Line-up, das die Kölner Szene feiert – bei Big Bag Of Beats treffen Nachwuchstalente auf Legenden wie Dexter und Retrogott. Im Hof von Bumann & Sohn erwarten dich chillige Vibes, freshe Sounds und ein seltener Live-Act aus London. Ein Muss für alle, die Beats wirklich fühlen. 🪩",
-        "link": "https://rausgegangen.de/en/events/big-bag-of-beats-open-air-w-clbrks-dexter-retrogott-wun-two--0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bXf2T1FbRK6SRvciipoC_bbobheader.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 16.08.2025",
         "time": "18:00",
         "event": "Beats am Gleis mit Paul Fuchs (@Lokschuppen)",
         "category": "Sundowner - Snacks - Sounds",
@@ -1405,22 +1405,6 @@
         "description": "Hard Techno • Tranceland • Goa Floor",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/webform/termine_melden/16522/surreal16-9.jpg?itok=WSPQVo58",
         "link": "https://www.bielefeld.jetzt/node/1207607"
-    },
-    {
-        "date": "Su, 17.08.2025",
-        "time": "19:00",
-        "event": "*TRIBE KENNENLERNABEND*",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Su, 17.08.2025",
-        "time": "09:00",
-        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/uprunningclub/?hl=de",
-        "image_url": null
     },
     {
         "date": "So, 17.08.2025",
@@ -1445,6 +1429,22 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37043",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Su, 17.08.2025",
+        "time": "19:00",
+        "event": "*TRIBE KENNENLERNABEND*",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Su, 17.08.2025",
+        "time": "09:00",
+        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/uprunningclub/?hl=de",
+        "image_url": null
     },
     {
         "date": "Sun, 17.08.2025",
@@ -1526,22 +1526,6 @@
     },
     {
         "date": "Mo, 18.08.2025",
-        "time": "20:00",
-        "event": "Pub Quiz (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Mo, 18.08.2025",
-        "time": "18:00",
-        "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Mo, 18.08.2025",
         "time": "17:00",
         "event": "Volleyball(@hochschulsport_bielefeld)",
         "category": "Sport",
@@ -1581,6 +1565,22 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "date": "Mo, 18.08.2025",
+        "time": "20:00",
+        "event": "Pub Quiz (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "Mo, 18.08.2025",
+        "time": "18:00",
+        "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
         "date": "Mon, 18.08.2025",
         "time": "20:00",
         "event": "Open Air - Comedy Show (@Feinkost eG)",
@@ -1589,22 +1589,6 @@
         "link": "https://rausgegangen.de/en/events/open-air-sommer-comedy-show-mit-ingmar-stadelmann-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/u2FWjwuAS82qrjCCC9uk_karli-comedy-show-leipzig-stand-up-comedy-open-air-show-feinkost-leipzig-2025.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Tu, 19.08.2025",
-        "time": "18:00",
-        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Tu, 19.08.2025",
-        "time": "07:00",
-        "event": "Wochenmarkt(@Alter Markt)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Di, 19.08.2025",
@@ -1639,6 +1623,22 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "date": "Tu, 19.08.2025",
+        "time": "18:00",
+        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Tu, 19.08.2025",
+        "time": "07:00",
+        "event": "Wochenmarkt(@Alter Markt)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
         "date": "Tue, 19.08.2025",
         "time": "21:30",
         "event": "Monster Summer (@PSD Bank Sommerkino)",
@@ -1657,46 +1657,6 @@
         "link": "https://rausgegangen.de/en/events/solo-jazz-abc-7/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TWc7X75SUMo718fxvXgG_neu-swing-sommer-2025-1738-x-1303-px-youtube-miniatur202507130936010000.png?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Mi, 20.08",
-        "time": "23:00",
-        "event": "MI • WEDNESDATE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wednesdate-9/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250820_Wednesdate_4zu5.jpg"
-    },
-    {
-        "date": "We, 20.08.2025",
-        "time": "21:00",
-        "event": "Karaoke (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "We, 20.08.2025",
-        "time": "18:00",
-        "event": "*TRIBE BOULDERN (@Kletterhalle Senne)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "We, 20.08.2025",
-        "time": "07:00",
-        "event": "Wochenmarkt(@Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "We, 20.08.2025",
-        "time": "20:00",
-        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
-        "image_url": null
     },
     {
         "date": "Mi, 20.08.2025",
@@ -1748,6 +1708,46 @@
     },
     {
         "date": "Mi, 20.08",
+        "time": "23:00",
+        "event": "MI • WEDNESDATE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wednesdate-9/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250820_Wednesdate_4zu5.jpg"
+    },
+    {
+        "date": "We, 20.08.2025",
+        "time": "21:00",
+        "event": "Karaoke (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "We, 20.08.2025",
+        "time": "18:00",
+        "event": "*TRIBE BOULDERN (@Kletterhalle Senne)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "We, 20.08.2025",
+        "time": "07:00",
+        "event": "Wochenmarkt(@Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "We, 20.08.2025",
+        "time": "20:00",
+        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
+        "image_url": null
+    },
+    {
+        "date": "Mi, 20.08",
         "time": "",
         "event": "Krakeln (@nr.z.p)",
         "link": "https://nrzp.de/event/krakeln-20",
@@ -1789,6 +1789,30 @@
         "image_url": null
     },
     {
+        "date": "Do, 21.08.2025",
+        "time": "16:30",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 21.08.2025",
+        "time": "17:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 21.08.2025",
+        "time": "18:30",
+        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35659",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
         "date": "Th, 21.08.2025",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
@@ -1827,30 +1851,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Do, 21.08.2025",
-        "time": "16:30",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 21.08.2025",
-        "time": "17:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 21.08.2025",
-        "time": "18:30",
-        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35659",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Thu, 21.08.2025",
@@ -1901,44 +1901,12 @@
         "link": "https://www.bielefeld.jetzt/node/1205519"
     },
     {
-        "date": "Fr, 22.08",
-        "time": "23:00",
-        "event": "FR • 2010 FLASHBACK (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-2010-flashback-4/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250822_2010Flashback_4zu5.jpg"
-    },
-    {
         "date": "Fri, 22.08",
         "time": "23:00",
         "event": "Studi Pop! (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/studi-pop-3/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_22_0825_Feed.jpg"
-    },
-    {
-        "date": "Fr, 22.08.2025",
-        "time": "23:00",
-        "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
-        "category": "Party",
-        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
-        "image_url": null
-    },
-    {
-        "date": "Fr, 22.08.2025",
-        "time": "23:00",
-        "event": "CUTIE DANCE (@cutiebielefeld)",
-        "category": "Party",
-        "link": "https://www.instagram.com/cutiebielefeld/?hl=de",
-        "image_url": null
-    },
-    {
-        "date": "Fr, 22.08.2025",
-        "time": "07:00",
-        "event": "Wochenmarkt (@Alter Markt, Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Fr, 22.08.2025",
@@ -1963,6 +1931,38 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35520",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 22.08",
+        "time": "23:00",
+        "event": "FR • 2010 FLASHBACK (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-2010-flashback-4/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250822_2010Flashback_4zu5.jpg"
+    },
+    {
+        "date": "Fr, 22.08.2025",
+        "time": "23:00",
+        "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
+        "category": "Party",
+        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
+        "image_url": null
+    },
+    {
+        "date": "Fr, 22.08.2025",
+        "time": "23:00",
+        "event": "CUTIE DANCE (@cutiebielefeld)",
+        "category": "Party",
+        "link": "https://www.instagram.com/cutiebielefeld/?hl=de",
+        "image_url": null
+    },
+    {
+        "date": "Fr, 22.08.2025",
+        "time": "07:00",
+        "event": "Wochenmarkt (@Alter Markt, Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Fri, 22.08.2025",
@@ -2015,20 +2015,44 @@
         "city": "Leipzig"
     },
     {
-        "date": "Sa, 23.08",
-        "time": "23:00",
-        "event": "SA • CAFE SUMMER NIGHTS (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-jahnplatz-open-air-aftershow/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250823_SummerNight_4zu5.jpg"
-    },
-    {
         "date": "Sat, 23.08",
         "time": "23:00",
         "event": "STEREOLOVE (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/stereolove-4/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_23_0825_Feed.jpg"
+    },
+    {
+        "date": "Sa, 23.08.2025",
+        "time": "08:00",
+        "event": "Wandern(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38176",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 23.08.2025",
+        "time": "10:00",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36263",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 23.08.2025",
+        "time": "11:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 23.08",
+        "time": "23:00",
+        "event": "SA • CAFE SUMMER NIGHTS (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-jahnplatz-open-air-aftershow/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250823_SummerNight_4zu5.jpg"
     },
     {
         "date": "Sa, 23.08.2025",
@@ -2063,28 +2087,10 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Sa, 23.08.2025",
-        "time": "08:00",
-        "event": "Wandern(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38176",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 23.08.2025",
-        "time": "10:00",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36263",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 23.08.2025",
-        "time": "11:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+        "date": "Sa, 23.08",
+        "event": "Dark Light (@forum_bielefeld)",
+        "link": "https://forum-bielefeld.com/dark-light-2/",
+        "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
         "date": "Sat, 23.08.2025",
@@ -2115,12 +2121,6 @@
         "link": "https://rausgegangen.de/en/events/rock-it-37/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/0LA7veaQN23vze0SeSUX_rock-itbanner-3.jpg?width=1200&height=900&mode=crop",
         "city": "Dortmund"
-    },
-    {
-        "date": "Sa, 23.08",
-        "event": "Dark Light (@forum_bielefeld)",
-        "link": "https://forum-bielefeld.com/dark-light-2/",
-        "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
         "date": "Sat, 23.08.2025",
@@ -2354,20 +2354,20 @@
         "link": "https://www.bielefeld.jetzt/node/1216557"
     },
     {
-        "date": "Fr, 29.08",
-        "time": "23:00",
-        "event": "FR• BLFD – SONDERVERANSTALTUNG (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-blfd-latin-edition-sonderveranstaltung-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250829_BLFD_4zu5.jpg"
-    },
-    {
         "date": "Fri, 29.08",
         "time": "23:00",
         "event": "end of summer - freitag (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/end-of-summer-freitag/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_29_0825_Feed.jpg"
+    },
+    {
+        "date": "Fr, 29.08",
+        "time": "23:00",
+        "event": "FR• BLFD – SONDERVERANSTALTUNG (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-blfd-latin-edition-sonderveranstaltung-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250829_BLFD_4zu5.jpg"
     },
     {
         "date": "Fr, 29.08.2025",
@@ -2458,20 +2458,20 @@
         "link": "https://www.bielefeld.jetzt/node/1115635"
     },
     {
-        "date": "Sa, 30.08",
-        "time": "23:00",
-        "event": "SA • IBIZA WHITE NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-ibiza-white-night-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250830_IbizaWhiteNight_4zu5.jpg"
-    },
-    {
         "date": "Sat, 30.08",
         "time": "23:00",
         "event": "END OF SUMMER - SAMSTAG (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/end-of-summer-samstag/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_30_0825_Feed.jpg"
+    },
+    {
+        "date": "Sa, 30.08",
+        "time": "23:00",
+        "event": "SA • IBIZA WHITE NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-ibiza-white-night-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250830_IbizaWhiteNight_4zu5.jpg"
     },
     {
         "date": "Sa, 30.08.2025",
@@ -2521,6 +2521,12 @@
         "image_url": "https://nrzp.de/wp-content/uploads/2025/07/ausgetanzt_instagram_beitrag.jpg"
     },
     {
+        "date": "Sa, 30.08",
+        "event": "Schwarzsehen meetsGuitarmen of the apocalypse (@forum_bielefeld)",
+        "link": "https://forum-bielefeld.com/schwarzsehen-3/",
+        "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
+    },
+    {
         "date": "Sat, 30.08.2025",
         "time": "23:00",
         "event": "La Noche Tropical -  para mi gente (@Großmarktschänke)",
@@ -2529,12 +2535,6 @@
         "link": "https://rausgegangen.de/en/events/la-noche-tropical-para-mi-gente-2/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aXzOqZTsSn2dPhlkzwdr_kopie-von-la-noche-tropicalbanner.jpg?width=1200&height=900&mode=crop",
         "city": "Dortmund"
-    },
-    {
-        "date": "Sa, 30.08",
-        "event": "Schwarzsehen meetsGuitarmen of the apocalypse (@forum_bielefeld)",
-        "link": "https://forum-bielefeld.com/schwarzsehen-3/",
-        "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
         "date": "Sat, 30.08.2025",
@@ -3688,6 +3688,12 @@
         "image_url": "https://bunker-ulmenwall.org/wp-content/uploads/2025/08/Jukebox-im-Bunker-Ulmenwall-768x959.png"
     },
     {
+        "date": "Th, 18.09",
+        "event": "Daily ThompsonRed Mess (@forum_bielefeld)",
+        "link": "https://forum-bielefeld.com/daily-thompson-4/",
+        "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
+    },
+    {
         "date": "Thu, 18.09.2025",
         "time": "19:30",
         "event": "7stages Comedy Open Mic (@Café Rot)",
@@ -3696,12 +3702,6 @@
         "link": "https://rausgegangen.de/en/events/7stages-comedy-open-mic-30/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/MjHQusEmQfKZ5Wa8sfCQ_comedy-open-mic-prasentation-7.png?width=1200&height=900&mode=crop",
         "city": "Dortmund"
-    },
-    {
-        "date": "Th, 18.09",
-        "event": "Daily ThompsonRed Mess (@forum_bielefeld)",
-        "link": "https://forum-bielefeld.com/daily-thompson-4/",
-        "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
         "date": "Thu, 18.09.2025",
@@ -5169,6 +5169,12 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Fr, 17.10",
+        "event": "Dead BobTerra Flop (@forum_bielefeld)",
+        "link": "https://forum-bielefeld.com/dead-bob/",
+        "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
+    },
+    {
         "date": "Fri, 17.10.2025",
         "time": "23:00",
         "event": "Take Me Out Münster - die Indieparty mit eavo im Hot Club (@Hot Jazz Club, Münster)",
@@ -5177,12 +5183,6 @@
         "link": "https://rausgegangen.de/en/events/take-me-out-munster-die-indieparty-mit-eavo-im-hot-club-12/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/v2BVS1Y2QaO7iiOrQjqF_tmoheadercreme.jpg?width=1200&height=900&mode=crop",
         "city": "Münster"
-    },
-    {
-        "date": "Fr, 17.10",
-        "event": "Dead BobTerra Flop (@forum_bielefeld)",
-        "link": "https://forum-bielefeld.com/dead-bob/",
-        "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
         "date": "Fri, 17.10.2025",
@@ -5235,6 +5235,12 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Sa, 18.10",
+        "event": "WXW Wrestling25th anniversary tourausverkauft! (@forum_bielefeld)",
+        "link": "https://forum-bielefeld.com/wxw-wrestling-16/",
+        "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
+    },
+    {
         "date": "Sat, 18.10.2025",
         "time": "19:30",
         "event": "Mein Einziger Freund (@BLACK BOX im cuba)",
@@ -5243,12 +5249,6 @@
         "link": "https://rausgegangen.de/en/events/mein-einziger-freund-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5G3IE9BBStam8T84CphW_jaegermembrezhemingwayrgbonline406d0ea5db4896f71.jpg?width=1200&height=900&mode=crop",
         "city": "Münster"
-    },
-    {
-        "date": "Sa, 18.10",
-        "event": "WXW Wrestling25th anniversary tourausverkauft! (@forum_bielefeld)",
-        "link": "https://forum-bielefeld.com/wxw-wrestling-16/",
-        "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
         "date": "Su, 19.10.2025",
@@ -6289,6 +6289,12 @@
         "image_url": null
     },
     {
+        "date": "We, 12.11",
+        "event": "Phil Siemers (@forum_bielefeld)",
+        "link": "https://forum-bielefeld.com/phil-siemers-2/",
+        "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
+    },
+    {
         "date": "Wed, 12.11.2025",
         "time": "20:00",
         "event": "Carlo 5 - Fernweh Tour (@Skaters Palace)",
@@ -6297,12 +6303,6 @@
         "link": "https://rausgegangen.de/en/events/carlo-5-fernweh-tour-5/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/xxkTNjAdQaqAUP4rCs8a_normankeutgen20250318carlo5tour59988.jpg?width=1200&height=900&mode=crop",
         "city": "Münster"
-    },
-    {
-        "date": "We, 12.11",
-        "event": "Phil Siemers (@forum_bielefeld)",
-        "link": "https://forum-bielefeld.com/phil-siemers-2/",
-        "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
         "date": "Th, 13.11.2025",
