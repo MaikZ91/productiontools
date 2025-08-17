@@ -41,6 +41,26 @@
     },
     {
         "date": "Sun, 17.08.2025",
+        "time": "00:00",
+        "event": "Münster Mittendrin (@Münster, Domplatz)",
+        "category": "",
+        "description": "Das Stadtfest verwandelt das Zentrum in eine große Bühne, mit Live-Musik, DJs und einem breiten Programm für jede Altersgruppe. Highlights 2025 sind Auftritte von „MEUTE“ – eine weltweit gefeierte Techno-Marching-Band – und viele weitere Acts. Streetfood, Urban Art, Aftershowpartys und zahlreiche Pop-up-Locations sorgen für ein echtes Szenegefühl und Festivalflair.Münsters Stadtfest ist kostenlos für die Besuchenden. Nur die Domplatz-Konzerte kosten Eintritt. Tickets gibt es unter diesem Link: https://boe.lineupr.com/muenster-mittendrin/page/vorverkauf-domplatz-top-act-bereich-nur-mit-eintrittskarte",
+        "link": "https://rausgegangen.de/en/events/munster-mittendrin-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ihiW4bEZSUGJFciiWU0c_julia-solonina-6xweglfeg84-unsplash.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Sun, 17.08.2025",
+        "time": "15:00",
+        "event": "After Church Club (@Hot Jazz Club, Münster)",
+        "category": "",
+        "description": "Jeden Sonntagnachmittag im Hot Jazz Club: Genießen Sie freundlichen Service, den aromatischen Duft von frisch gebrühtem Kaffee, köstlichen Kuchen und dazu entspannte Livemusik in gemütlicher Atmosphäre. Der After Church Club bietet den idealen Rahmen, um das Wochenende ruhig und stilvoll ausklingen zu lassen. Verschiedene Bands sorgen mit sanften Klängen aus Jazz, Blues und Pop für entspannte Stimmung und musikalische Vielfalt.",
+        "link": "https://rausgegangen.de/en/events/after-church-club-16/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LzyA777HS9OgMpw9k3JH_photo-1511192336575-5a79af67a629?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Sun, 17.08.2025",
         "time": "12:00",
         "event": "Street Food Music (@Aplerbecker Marktplatz)",
         "category": "",
@@ -178,26 +198,6 @@
         "link": "https://rausgegangen.de/en/events/nachlegen-elis-sunday-rave-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/0PDpQtZIRMCd04dJvIO8_nachlegeninstara.png?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Sun, 17.08.2025",
-        "time": "00:00",
-        "event": "Münster Mittendrin (@Münster, Domplatz)",
-        "category": "",
-        "description": "Das Stadtfest verwandelt das Zentrum in eine große Bühne, mit Live-Musik, DJs und einem breiten Programm für jede Altersgruppe. Highlights 2025 sind Auftritte von „MEUTE“ – eine weltweit gefeierte Techno-Marching-Band – und viele weitere Acts. Streetfood, Urban Art, Aftershowpartys und zahlreiche Pop-up-Locations sorgen für ein echtes Szenegefühl und Festivalflair.Münsters Stadtfest ist kostenlos für die Besuchenden. Nur die Domplatz-Konzerte kosten Eintritt. Tickets gibt es unter diesem Link: https://boe.lineupr.com/muenster-mittendrin/page/vorverkauf-domplatz-top-act-bereich-nur-mit-eintrittskarte",
-        "link": "https://rausgegangen.de/en/events/munster-mittendrin-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ihiW4bEZSUGJFciiWU0c_julia-solonina-6xweglfeg84-unsplash.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Sun, 17.08.2025",
-        "time": "15:00",
-        "event": "After Church Club (@Hot Jazz Club, Münster)",
-        "category": "",
-        "description": "Jeden Sonntagnachmittag im Hot Jazz Club: Genießen Sie freundlichen Service, den aromatischen Duft von frisch gebrühtem Kaffee, köstlichen Kuchen und dazu entspannte Livemusik in gemütlicher Atmosphäre. Der After Church Club bietet den idealen Rahmen, um das Wochenende ruhig und stilvoll ausklingen zu lassen. Verschiedene Bands sorgen mit sanften Klängen aus Jazz, Blues und Pop für entspannte Stimmung und musikalische Vielfalt.",
-        "link": "https://rausgegangen.de/en/events/after-church-club-16/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LzyA777HS9OgMpw9k3JH_photo-1511192336575-5a79af67a629?width=1200&height=900&mode=crop",
-        "city": "Münster"
     },
     {
         "date": "Sun, 17.08.2025",
@@ -1384,20 +1384,20 @@
         "link": "https://www.bielefeld.jetzt/node/1205519"
     },
     {
-        "date": "Fri, 22.08",
-        "time": "23:00",
-        "event": "Studi Pop! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/studi-pop-3/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_22_0825_Feed.jpg"
-    },
-    {
         "date": "Fr, 22.08",
         "time": "23:00",
         "event": "FR • 2010 FLASHBACK (@cafe_europa_bi)",
         "category": "Party",
         "link": "https://cafeeuropa.de/event/fr-2010-flashback-4/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250822_2010Flashback_4zu5.jpg"
+    },
+    {
+        "date": "Fri, 22.08",
+        "time": "23:00",
+        "event": "Studi Pop! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/studi-pop-3/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_22_0825_Feed.jpg"
     },
     {
         "date": "Fr, 22.08.2025",
@@ -1608,20 +1608,20 @@
         "city": "Hamburg"
     },
     {
-        "date": "Sat, 23.08",
-        "time": "23:00",
-        "event": "STEREOLOVE (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/stereolove-4/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_23_0825_Feed.jpg"
-    },
-    {
         "date": "Sa, 23.08",
         "time": "23:00",
         "event": "SA • CAFE SUMMER NIGHTS (@cafe_europa_bi)",
         "category": "Party",
         "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-jahnplatz-open-air-aftershow/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250823_SummerNight_4zu5.jpg"
+    },
+    {
+        "date": "Sat, 23.08",
+        "time": "23:00",
+        "event": "STEREOLOVE (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/stereolove-4/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_23_0825_Feed.jpg"
     },
     {
         "date": "Sa, 23.08.2025",
@@ -2160,20 +2160,20 @@
         "link": "https://www.bielefeld.jetzt/node/1216557"
     },
     {
-        "date": "Fri, 29.08",
-        "time": "23:00",
-        "event": "end of summer - freitag (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/end-of-summer-freitag/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_29_0825_Feed.jpg"
-    },
-    {
         "date": "Fr, 29.08",
         "time": "23:00",
         "event": "FR• BLFD – SONDERVERANSTALTUNG (@cafe_europa_bi)",
         "category": "Party",
         "link": "https://cafeeuropa.de/event/fr-blfd-latin-edition-sonderveranstaltung-2/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/20250829_BLFD_4zu5.jpg"
+    },
+    {
+        "date": "Fri, 29.08",
+        "time": "23:00",
+        "event": "end of summer - freitag (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/end-of-summer-freitag/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_29_0825_Feed.jpg"
     },
     {
         "date": "Fr, 29.08.2025",
@@ -2264,20 +2264,20 @@
         "link": "https://www.bielefeld.jetzt/node/1115635"
     },
     {
-        "date": "Sat, 30.08",
-        "time": "23:00",
-        "event": "END OF SUMMER - SAMSTAG (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/end-of-summer-samstag/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_30_0825_Feed.jpg"
-    },
-    {
         "date": "Sa, 30.08",
         "time": "23:00",
         "event": "SA • IBIZA WHITE NIGHT (@cafe_europa_bi)",
         "category": "Party",
         "link": "https://cafeeuropa.de/event/sa-ibiza-white-night-2/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/06/20250830_IbizaWhiteNight_4zu5.jpg"
+    },
+    {
+        "date": "Sat, 30.08",
+        "time": "23:00",
+        "event": "END OF SUMMER - SAMSTAG (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/end-of-summer-samstag/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Stereo_30_0825_Feed.jpg"
     },
     {
         "date": "Sa, 30.08.2025",
@@ -3657,6 +3657,16 @@
     },
     {
         "date": "Sat, 20.09.2025",
+        "time": "23:00",
+        "event": "Modern Love Münster - 80s New Wave, Synth & Pop im Hot Club (@Hot Jazz Club, Münster)",
+        "category": "",
+        "description": "🪩 Euch erwarten 80s-Smasher aus Synth, New Wave, Italo und Pop, aber natürlich auch der ein oder andere Geheimtipp.🎉 Außerdem: Findet ihr die immergleichen Hits und Reihenfolgen auch langweilig? Dann freut euch bei der Modern Love auf Abwechslung, Song-Überraschungen und viele eurer Musikwünsche, schön im Flow aufgelegt und mit passenden Übergängen.😻 Ach so, mein Name ist eavo. Ich bin schon seit vielen Jahren in den schönsten Clubs in ganz Deutschland unterwegs.  Ein Gast hat mich “eine DJ–gewordene Symbiose aus Nerd und Partymaschine“ genannt. Ob das stimmt? Mir hat's jedenfalls gefallen und eigentlich beschreibt es auch ganz gut, wen ich mit meinen Partys am liebsten erreiche.💃🏼 Wenn ihr mitmacht, wird's ne überragende Party, klebriger Fußboden und durchtanzte Schuhe inklusive.Kommt vorbei!Modern Love klingt wie: A Flock of Seagulls – a-ha – ABC – Alphaville – The B-52’s – The Bangles – Pat Benatar – Berlin – Blondie – B-Movie – Boytronic – Bronski Beat – David Bowie – Kate Bush – Camouflage – Anne Clark – The Communards – Culture Club – The Cure – Dead or Alive – Depeche Mode – Desireless – Duran Duran – Erasure – Eurythmics – Harold Faltermeyer – Falco – Frankie Goes To Hollywood – Freeez – Grauzone – Heaven 17 – Don Henley – Billy Idol – Howard Jones – The Housemartins – The Human League – Ideal – Indochine – INXS – Japan –Joy Division – Nik Kershaw – Cyndi Lauper – Les Immer Essen – Level 42 – Les Rita Mitsouko – Madness – Madonna – Men At Work – Men Without Hats – Miami Sound Machine - Midnight Oil – New Order – OMD – Ryan Paris – Pet Shop Boys – Pixies – Queen – Rainbirds – Righeira – Real Life – Rheingold – Les Rita Mitsouko – Michael Sembello – Simple Minds – Siouxsie And The Banshees – The Smiths – Soft Cell – Spandau Ballet – Talk Talk – Talking Heads – Tears for Fears – Trans X – U2 – Ultravox – Visage – Kim Wilde – Yazoo – Yello🌍 Mehr Infos inkl. Spotify-Listen auf www.eavo.de/modernlove/ 📷 www.instagram.com/__eavo__ 📘 www.facebook.com/neinmaschine🔹 AK 10 €🎟 Spare 20% beim Vorverkauf, indem du dich für meinen Newsletter anmeldest: www.eavo.de/NL! 🔹 VVK: Limitiertes Kontingent Earlybird-Tickets: 6€ zzgl. Gebühren bis 6 Tage vor dem Abend 🔹 Danach: 9€ zzgl. Gebühren bei rausgegangen.de.",
+        "link": "https://rausgegangen.de/en/events/modern-love-munster-80s-new-wave-synth-pop-im-hot-club-6/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FhENTY2rSjxtPE8m49wq_80sinternetneu-kopie.png?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Sat, 20.09.2025",
         "time": "20:00",
         "event": "Ronnie & Gipsy - Lass Deep-Talk machen (@Theater Fletch Bizzel)",
         "category": "",
@@ -3674,16 +3684,6 @@
         "link": "https://rausgegangen.de/en/events/pop-girly-night-fzw-dortmund-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8jY3UBfsQROdW60wv7T0_2025-07-pgn-header.png?width=1200&height=900&mode=crop",
         "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 20.09.2025",
-        "time": "23:00",
-        "event": "Modern Love Münster - 80s New Wave, Synth & Pop im Hot Club (@Hot Jazz Club, Münster)",
-        "category": "",
-        "description": "🪩 Euch erwarten 80s-Smasher aus Synth, New Wave, Italo und Pop, aber natürlich auch der ein oder andere Geheimtipp.🎉 Außerdem: Findet ihr die immergleichen Hits und Reihenfolgen auch langweilig? Dann freut euch bei der Modern Love auf Abwechslung, Song-Überraschungen und viele eurer Musikwünsche, schön im Flow aufgelegt und mit passenden Übergängen.😻 Ach so, mein Name ist eavo. Ich bin schon seit vielen Jahren in den schönsten Clubs in ganz Deutschland unterwegs.  Ein Gast hat mich “eine DJ–gewordene Symbiose aus Nerd und Partymaschine“ genannt. Ob das stimmt? Mir hat's jedenfalls gefallen und eigentlich beschreibt es auch ganz gut, wen ich mit meinen Partys am liebsten erreiche.💃🏼 Wenn ihr mitmacht, wird's ne überragende Party, klebriger Fußboden und durchtanzte Schuhe inklusive.Kommt vorbei!Modern Love klingt wie: A Flock of Seagulls – a-ha – ABC – Alphaville – The B-52’s – The Bangles – Pat Benatar – Berlin – Blondie – B-Movie – Boytronic – Bronski Beat – David Bowie – Kate Bush – Camouflage – Anne Clark – The Communards – Culture Club – The Cure – Dead or Alive – Depeche Mode – Desireless – Duran Duran – Erasure – Eurythmics – Harold Faltermeyer – Falco – Frankie Goes To Hollywood – Freeez – Grauzone – Heaven 17 – Don Henley – Billy Idol – Howard Jones – The Housemartins – The Human League – Ideal – Indochine – INXS – Japan –Joy Division – Nik Kershaw – Cyndi Lauper – Les Immer Essen – Level 42 – Les Rita Mitsouko – Madness – Madonna – Men At Work – Men Without Hats – Miami Sound Machine - Midnight Oil – New Order – OMD – Ryan Paris – Pet Shop Boys – Pixies – Queen – Rainbirds – Righeira – Real Life – Rheingold – Les Rita Mitsouko – Michael Sembello – Simple Minds – Siouxsie And The Banshees – The Smiths – Soft Cell – Spandau Ballet – Talk Talk – Talking Heads – Tears for Fears – Trans X – U2 – Ultravox – Visage – Kim Wilde – Yazoo – Yello🌍 Mehr Infos inkl. Spotify-Listen auf www.eavo.de/modernlove/ 📷 www.instagram.com/__eavo__ 📘 www.facebook.com/neinmaschine🔹 AK 10 €🎟 Spare 20% beim Vorverkauf, indem du dich für meinen Newsletter anmeldest: www.eavo.de/NL! 🔹 VVK: Limitiertes Kontingent Earlybird-Tickets: 6€ zzgl. Gebühren bis 6 Tage vor dem Abend 🔹 Danach: 9€ zzgl. Gebühren bei rausgegangen.de.",
-        "link": "https://rausgegangen.de/en/events/modern-love-munster-80s-new-wave-synth-pop-im-hot-club-6/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FhENTY2rSjxtPE8m49wq_80sinternetneu-kopie.png?width=1200&height=900&mode=crop",
-        "city": "Münster"
     },
     {
         "date": "Sat, 20.09.2025",
