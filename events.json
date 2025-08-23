@@ -1,13 +1,5 @@
 [
     {
-        "date": "Sa, 23.08",
-        "time": "23:00",
-        "event": "SA • CAFE SUMMER NIGHTS (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-jahnplatz-open-air-aftershow/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250823_SummerNight_4zu5.jpg"
-    },
-    {
         "date": "Sat, 23.08",
         "time": "23:00",
         "event": "STEREOLOVE (@stereobielefeld)",
@@ -46,6 +38,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 23.08",
+        "time": "23:00",
+        "event": "SA • CAFE SUMMER NIGHTS (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-cafe-summer-nights-jahnplatz-open-air-aftershow/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250823_SummerNight_4zu5.jpg"
     },
     {
         "date": "Sa, 23.08.2025",
@@ -166,16 +166,6 @@
     },
     {
         "date": "Sat, 23.08.2025",
-        "time": "23:00",
-        "event": "Turnschuhparty (@Hot Jazz Club, Münster)",
-        "category": "",
-        "description": "Turnschuh-Radio auf Zeitreise: Schnallt die Turnschuhe fest und RIDE WITH ME, mit ein bisschen RESPECT reisen wir ALL AROUND THE WORLD und durch verschiedene Jahrzehnte. STEP BY STEP durchqueren wir die 60er, 70er, 80er, 90er und 00er. Dabei WALKIN‘ wir ON SUNSHINE, besuchen fremde Orte wie AFRICA, A LAND DOWN UNDER, LA ISLA BONITA, COPACABANA, FUNKY TOWN und schauen bei unserem AMERICAN BOY vorbei. A LA LA LA LA LONG sind wir unterwegs von BLUE MONDAY bis FRIDAY – I’M IN LOVE und wer noch nicht genug SATISFACTION bekommt, wartet einfach auf den RETURN OF THE MACK, der uns alle wieder BACK TO LIFE- BACK TO REALITY führt. ONE WAY OR ANOTHER ist es JUST AN ILLUSION, die uns UPSIDE DOWN dreht. Aber IT AIN’T OVER ‚TILL IT’S OVER und am Ende rufen wir alle I WILL SURVIVE! Wenn du auch ein ROCKETMAN, SOULMAN oder SON OF A PREACHERMAN bist, COME ON OVER – Turnschuh-Party mit Dj Sylvie  🙂",
-        "link": "https://rausgegangen.de/en/events/turnschuhparty-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Qe5Aj2dTWmGGOGVxCmzw_premium-photo-1729699316220-31bfe2c460fe?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Sat, 23.08.2025",
         "time": "14:00",
         "event": "Summersounds DJ Picknicks (@Wiese an den Westfahlenhallen)",
         "category": "",
@@ -223,6 +213,16 @@
         "link": "https://rausgegangen.de/en/events/brat-party-w-charli-xcx-other-brat-coded-artists-dortmund-2/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BrhFEhfaRVKwbriANZzq_bp-banner-neutral.png?width=1200&height=900&mode=crop",
         "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 23.08.2025",
+        "time": "23:00",
+        "event": "Turnschuhparty (@Hot Jazz Club, Münster)",
+        "category": "",
+        "description": "Turnschuh-Radio auf Zeitreise: Schnallt die Turnschuhe fest und RIDE WITH ME, mit ein bisschen RESPECT reisen wir ALL AROUND THE WORLD und durch verschiedene Jahrzehnte. STEP BY STEP durchqueren wir die 60er, 70er, 80er, 90er und 00er. Dabei WALKIN‘ wir ON SUNSHINE, besuchen fremde Orte wie AFRICA, A LAND DOWN UNDER, LA ISLA BONITA, COPACABANA, FUNKY TOWN und schauen bei unserem AMERICAN BOY vorbei. A LA LA LA LA LONG sind wir unterwegs von BLUE MONDAY bis FRIDAY – I’M IN LOVE und wer noch nicht genug SATISFACTION bekommt, wartet einfach auf den RETURN OF THE MACK, der uns alle wieder BACK TO LIFE- BACK TO REALITY führt. ONE WAY OR ANOTHER ist es JUST AN ILLUSION, die uns UPSIDE DOWN dreht. Aber IT AIN’T OVER ‚TILL IT’S OVER und am Ende rufen wir alle I WILL SURVIVE! Wenn du auch ein ROCKETMAN, SOULMAN oder SON OF A PREACHERMAN bist, COME ON OVER – Turnschuh-Party mit Dj Sylvie  🙂",
+        "link": "https://rausgegangen.de/en/events/turnschuhparty-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Qe5Aj2dTWmGGOGVxCmzw_premium-photo-1729699316220-31bfe2c460fe?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Sat, 23.08.2025",
@@ -313,76 +313,6 @@
         "link": "https://rausgegangen.de/en/events/pop-girly-night-uebel-gefahrlich-hamburg-1/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/if9h6RCbRZa8TVj2Xm5h_2025-07-pgn-header.png?width=1200&height=900&mode=crop",
         "city": "Hamburg"
-    },
-    {
-        "date": "Sat, 23.08.2025",
-        "time": "11:00",
-        "event": "Nø Cosmetics Sommermarkt 2025 (@Nø Cosmetics (Hinterhof))",
-        "category": "",
-        "description": "Tolle Brands, Tombola, DIY-Station, gratis Aperol Spritz und alkoholfreie Sommerdrinks? Lieben wir!",
-        "link": "https://rausgegangen.de/en/events/n-cosmetics-sommermarkt-2025-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RdhNo9JTJib3FbKb9SkO_rausgegangentitelbild.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sat, 23.08.2025",
-        "time": "12:00",
-        "event": "Lille Beats Sommersause (@YAAM Berlin)",
-        "category": "",
-        "description": "Lille Beats Sommersause – Das coolste Familienfest des Sommers!  Am Samstag, den 23. August 2025, wird das YAAM in Berlin-Friedrichshain zu einem riesigen Abenteuerspielplatz: Die Lille Beats Sommersause verwandelt von 12:00 bis 19:00 Uhr alles in eine bunte Welt voller Musik, Bastelspaß und toller Überraschungen.  Alle Kids dürfen sieben aufregende Stunden zeigen, was in ihnen steckt! Das mega spannende Programm hat für jedes Alter etwas Tolles dabei: Von kreativen Spielstationen bis hin zu mitreißenden Konzerten wird dieser Tag zu einem echten Highlight.  Super coole Musik wird auch am Start sein! Ob Senta mit frischem Pop und treibenden Beats, Kinders, die freche Rap-Crew aus Köln mit dem Motto \"Hip Hop für alle\" oder das Musik-Abenteuer von Monkey und Ich, das über wilde Gefühlswellen führt. Tanzen und Mitsingen ist vorprogrammiert!  Bei den aufregenden Spielstationen kann nach Herzenslust gebastelt, entdeckt, gebaut und experimentiert werden – kreative Köpfe sind gefragt! Eines ist auf jeden Fall klar - Langeweile wird es garantiert nicht geben.  Leckere Snacks an den Essensständen machen alle wieder fit für neue Abenteuer. Das YAAM, direkt an der Spree, ist der perfekte Ort für einen entspannten Familientag mit ganz viel Spaß und tollen Erinnerungen. Also packt eure Tanzschuhe ein und kommt vorbei – wir freuen uns riesig auf euch!Lille Beats Sommersause Datum: Samstag, 23. August 2025 Uhrzeit: 12:00 – 19:00 Uhr Ort: YAAM Berlin, An der Schillingbrücke 3, 10243 Berlin",
-        "link": "https://rausgegangen.de/en/events/lille-beats-sommersause-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/IoekUQpnTyG2jGLZ3nUi_img9772.png?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sat, 23.08.2025",
-        "time": "12:00",
-        "event": "Pistachio Street Food Festival (@Jules | B Part)",
-        "category": "",
-        "description": "Dubai-Schokolade overhyped oder zu unrecht gehated? Egal, welches Team du bist, wir können uns darauf einigen, dass Pistazie einfach alles besser macht: Pizza, Crépe, Eis, Gnocchi, Kuchen - schlemm dich in den siebten Himmel auf dem einzig wahren Pistachio-Street-Food-Festival!",
-        "link": "https://rausgegangen.de/en/events/pistachio-street-food-festival-6/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eA6UvCYJTRe0kVoMJPMd_event-b-1.png?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sat, 23.08.2025",
-        "time": "15:00",
-        "event": "QUEENS & FLOWERS (@Botanischer Garten Berlin)",
-        "category": "",
-        "description": "Queens & Flowers – Das Drag-Sommerfest im Botanischen Garten BerlinNach dem großartigen Erfolg im letzten Jahr geht „Queens & Flowers“ in die zweite Runde – bunter, lauter und glitzernder denn je!Am 23. August 2025 verwandelt sich der Botanische Garten Berlin von 15:00 bis 22:00 Uhr in ein Open-Air-Paradies der Vielfalt. Zwischen exotischen Pflanzen und den historischen Gewächshäusern erwarten euch atemberaubende Drag-Performances, Live-Musik und ein ausgelassenes Miteinander.Rund um das Große Tropenhaus verschmelzen Blütenpracht und Dragkunst zu einem unvergesslichen Sommerfest queerer Kultur. Ob mit Freund*innen, Familie oder Solo – hier feiert ihr inmitten von Natur, Liebe und Community.Und für die perfekte Erfrischung zwischendurch sorgt der HAFEN mit einem sommerlichen Getränkestand: Genießt eisgekühlte Cocktails, spritzige Longdrinks, fruchtige Sprizz-Varianten oder alkoholfreie Erfrischungen – alles mit ganz viel Liebe gemixt.Einige Highlights aus dem Showprogramm:16:40–17:10: Comedy-Show mit Rachel Intervention18:20–19:20: Dragshow Berlin Allstars20:05–20:30: Konzert mit Marcella Rockefeller20:40–21:30: Drag Race Germany AllstarsDas Event wird von Place2Be Berlin organisiert – der queeren Tourismus- und Event-Plattform des Stadtmagazins SIEGESSÄULE – in Kooperation mit dem Botanischen Garten Berlin und unterstützt von der Wirtschaftsförderung Steglitz-Zehlendorf, der Senatsverwaltung für Wirtschaft, Energie und Betriebe sowie visitBerlin.🌸 Save the Date und kommt vorbei – wir sehen uns zwischen Palmen, Glitzer und Drinks im Botanischen Garten! 🌸",
-        "link": "https://rausgegangen.de/en/events/queens-flowers-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/nnOIn6OlT4CJi2Qeva6e_250711queensflowerkeyvisualsmall.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sat, 23.08.2025",
-        "time": "15:00",
-        "event": "Keinemusik (@Flughafen Berlin Tempelhof)",
-        "category": "",
-        "description": "Das legendäre Berliner Label feiert am 23. August 2025 die Party des Sommers mitten im Herzen von Berlin. Für einen Tag verwandelt sich den Flughafen Tempelhof zur Open Air Bühne für die Ausnahmekünstler von Keinemusik. Dieser Showcase der Superlative wird mit einmaligen Performances von Rampa, &Me und Adam Port unvergessliche Momente garantieren.       Alle drei Künstler sind in den 15 Jahren seit Gründung des Labels zu weltweiten Botschaftern des Labels avanciert. Der unvergleichliche Sound ist eine Melange aus House und Techno und verführt die Massen über alle Ländergrenzen hinweg.  Gefühlvolle Vocals, exotischen Melodien und satte Bässe verschmelzen zum seidigen Fiebertraum, dem man sich unmöglich entziehen kann.   Direkt bei Gründung im Jahr 2009 hat es das einzigartige Rezept des Kultlabels geschafft, die elektronische Musikszene international aufzuwühlen und der Tumult kennt seitdem kein Ende. Mit der hauseigenen Interpretation von zeitgemäßer Tanzmusik, die zugleich mühelos, sanft und dennoch zutiefst eingängig musikalische Untiefen erkundet, hat das Label mit seinen Künstlern wortwörtlich die Welt im Sturm erobert.       Geprägt vom Berliner Underground und trotzdem offen für musikalische Einflüsse aus allen Richtungen. Diese unverwechselbare Rezeptur, der sich das Label immerzu treu geblieben ist, sorgt seit Anfang an für hypnotisierende Dancefloor-Hymnen, die an Tragweite und Popularität stets neue Maßstäbe setzen.     Egal ob Tulum, Burning Man, Ibiza oder doch Berliner Clubs – Keinemusik ist inzwischen überall, wo die Creme de la Creme der elektronischen Tanzmusik spielt.      Die exklusive Show auf dem Flughafen Tempelhof wird das ultimative Heimspiel für Rampa, &Me und Adam Port, bei dem zweifellos alles Bisherige in den Schatten gestellt wird. Das einmalige Keinemusik Showcase wird die ultimative Manifestation eines surrealen Sommertraums, den es unter keinen Umständen zu verpassen gilt.",
-        "link": "https://rausgegangen.de/en/events/keinemusik-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/oyNYiFpSQ5KydGX5XsVn_KM.png?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sat, 23.08.2025",
-        "time": "20:00",
-        "event": "KiNK LIVE: 15-YEAR ANNIVERSARY at DARK MATTER / SONIC SESSIONS (@DARK MATTER Berlin)",
-        "category": "",
-        "description": "SONIC SESSIONS - Audiovisuelle Clubnächte bei DARK MATTERDARK MATTER setzt seine Tradition exklusiver Abendveranstaltungen fort und präsentiert mit den SONIC SESSIONS eine außergewöhnliche Veranstaltungsreihe, die elektronische Musik und kinetische Lichtkunst verbindet. In der TRANSFORMATOR-Halle werden Live-Sets in Echtzeit mit der monumentalen Lichtinstallation SKALAR synchronisiert.KINK LIVE: 15-YEAR ANNIVERSARYZum 15-jährigen Jubiläum seines Schaffens kehrt der brillante Techno-Produzent und DJ KiNK mit einem seiner einzigartigen, ekstatischen LIVE-Sets zurück. Bekannt für seine mitreißenden und spontanen Performances, dirigiert er in Echtzeit ein Arsenal analoger Synthesizer und Controller. Seine zahlreichen Releases sind ebenso verspielt wie experimentell und bewegen sich mühelos zwischen House, Techno und Acid.RAREDUB Raredub ist ein in Sofia ansässiger Musikproduzent und DJ. Bekannt für seine energiegeladenen Auftritte, verleiht er jedem Set eine unverkennbare und dynamische Atmosphäre – ganz gleich, zu welcher Uhrzeit er spielt. Seine Musik pulsiert mit rohen Beats und modernen Grooves und setzt damit ein klares, kraftvolles Statement.",
-        "link": "https://rausgegangen.de/en/events/kink-live-15-year-anniversary-at-dark-matter-sonic-sessions-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/by29OOhT5ulYA3Yx1iNA_rausgegangen-sonic-session-25kink.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sat, 23.08.2025",
-        "time": "23:59",
-        "event": "Kinky Indie Party • Lido Berlin (@Lido)",
-        "category": "",
-        "description": "Du hast Bock auf Kink, aber kannst gar nichts mit schwarzen Lederriemen und Trance-Techno anfangen? Schmeiß dich in deinen heißesten Fit, um dir zu deinen Lieblings-Indie-Bangern alles von der Seele zu schütteln. Vielleicht sogar mit nem cute-consensual Hook-Up.",
-        "link": "https://rausgegangen.de/en/events/kinky-indie-party-lido-berlin-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/J9rUpdOQHu4MQvNv9Wk1_2025-08-23-kinky-indie-berlin-header.png?width=1200&height=900&mode=crop",
-        "city": "Berlin"
     },
     {
         "date": "Sat, 23.08.2025",
@@ -483,6 +413,76 @@
         "link": "https://rausgegangen.de/en/events/cologne-club-days-2025-club-night-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/F3QRFUxQDrexdaZprgP2_2025ccdticket1920x1080px2025062015jahre4.png?width=1200&height=900&mode=crop",
         "city": "Köln"
+    },
+    {
+        "date": "Sat, 23.08.2025",
+        "time": "11:00",
+        "event": "Nø Cosmetics Sommermarkt 2025 (@Nø Cosmetics (Hinterhof))",
+        "category": "",
+        "description": "Tolle Brands, Tombola, DIY-Station, gratis Aperol Spritz und alkoholfreie Sommerdrinks? Lieben wir!",
+        "link": "https://rausgegangen.de/en/events/n-cosmetics-sommermarkt-2025-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RdhNo9JTJib3FbKb9SkO_rausgegangentitelbild.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sat, 23.08.2025",
+        "time": "12:00",
+        "event": "Lille Beats Sommersause (@YAAM Berlin)",
+        "category": "",
+        "description": "Lille Beats Sommersause – Das coolste Familienfest des Sommers!  Am Samstag, den 23. August 2025, wird das YAAM in Berlin-Friedrichshain zu einem riesigen Abenteuerspielplatz: Die Lille Beats Sommersause verwandelt von 12:00 bis 19:00 Uhr alles in eine bunte Welt voller Musik, Bastelspaß und toller Überraschungen.  Alle Kids dürfen sieben aufregende Stunden zeigen, was in ihnen steckt! Das mega spannende Programm hat für jedes Alter etwas Tolles dabei: Von kreativen Spielstationen bis hin zu mitreißenden Konzerten wird dieser Tag zu einem echten Highlight.  Super coole Musik wird auch am Start sein! Ob Senta mit frischem Pop und treibenden Beats, Kinders, die freche Rap-Crew aus Köln mit dem Motto \"Hip Hop für alle\" oder das Musik-Abenteuer von Monkey und Ich, das über wilde Gefühlswellen führt. Tanzen und Mitsingen ist vorprogrammiert!  Bei den aufregenden Spielstationen kann nach Herzenslust gebastelt, entdeckt, gebaut und experimentiert werden – kreative Köpfe sind gefragt! Eines ist auf jeden Fall klar - Langeweile wird es garantiert nicht geben.  Leckere Snacks an den Essensständen machen alle wieder fit für neue Abenteuer. Das YAAM, direkt an der Spree, ist der perfekte Ort für einen entspannten Familientag mit ganz viel Spaß und tollen Erinnerungen. Also packt eure Tanzschuhe ein und kommt vorbei – wir freuen uns riesig auf euch!Lille Beats Sommersause Datum: Samstag, 23. August 2025 Uhrzeit: 12:00 – 19:00 Uhr Ort: YAAM Berlin, An der Schillingbrücke 3, 10243 Berlin",
+        "link": "https://rausgegangen.de/en/events/lille-beats-sommersause-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/IoekUQpnTyG2jGLZ3nUi_img9772.png?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sat, 23.08.2025",
+        "time": "12:00",
+        "event": "Pistachio Street Food Festival (@Jules | B Part)",
+        "category": "",
+        "description": "Dubai-Schokolade overhyped oder zu unrecht gehated? Egal, welches Team du bist, wir können uns darauf einigen, dass Pistazie einfach alles besser macht: Pizza, Crépe, Eis, Gnocchi, Kuchen - schlemm dich in den siebten Himmel auf dem einzig wahren Pistachio-Street-Food-Festival!",
+        "link": "https://rausgegangen.de/en/events/pistachio-street-food-festival-6/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eA6UvCYJTRe0kVoMJPMd_event-b-1.png?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sat, 23.08.2025",
+        "time": "15:00",
+        "event": "QUEENS & FLOWERS (@Botanischer Garten Berlin)",
+        "category": "",
+        "description": "Queens & Flowers – Das Drag-Sommerfest im Botanischen Garten BerlinNach dem großartigen Erfolg im letzten Jahr geht „Queens & Flowers“ in die zweite Runde – bunter, lauter und glitzernder denn je!Am 23. August 2025 verwandelt sich der Botanische Garten Berlin von 15:00 bis 22:00 Uhr in ein Open-Air-Paradies der Vielfalt. Zwischen exotischen Pflanzen und den historischen Gewächshäusern erwarten euch atemberaubende Drag-Performances, Live-Musik und ein ausgelassenes Miteinander.Rund um das Große Tropenhaus verschmelzen Blütenpracht und Dragkunst zu einem unvergesslichen Sommerfest queerer Kultur. Ob mit Freund*innen, Familie oder Solo – hier feiert ihr inmitten von Natur, Liebe und Community.Und für die perfekte Erfrischung zwischendurch sorgt der HAFEN mit einem sommerlichen Getränkestand: Genießt eisgekühlte Cocktails, spritzige Longdrinks, fruchtige Sprizz-Varianten oder alkoholfreie Erfrischungen – alles mit ganz viel Liebe gemixt.Einige Highlights aus dem Showprogramm:16:40–17:10: Comedy-Show mit Rachel Intervention18:20–19:20: Dragshow Berlin Allstars20:05–20:30: Konzert mit Marcella Rockefeller20:40–21:30: Drag Race Germany AllstarsDas Event wird von Place2Be Berlin organisiert – der queeren Tourismus- und Event-Plattform des Stadtmagazins SIEGESSÄULE – in Kooperation mit dem Botanischen Garten Berlin und unterstützt von der Wirtschaftsförderung Steglitz-Zehlendorf, der Senatsverwaltung für Wirtschaft, Energie und Betriebe sowie visitBerlin.🌸 Save the Date und kommt vorbei – wir sehen uns zwischen Palmen, Glitzer und Drinks im Botanischen Garten! 🌸",
+        "link": "https://rausgegangen.de/en/events/queens-flowers-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/nnOIn6OlT4CJi2Qeva6e_250711queensflowerkeyvisualsmall.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sat, 23.08.2025",
+        "time": "15:00",
+        "event": "Keinemusik (@Flughafen Berlin Tempelhof)",
+        "category": "",
+        "description": "Das legendäre Berliner Label feiert am 23. August 2025 die Party des Sommers mitten im Herzen von Berlin. Für einen Tag verwandelt sich den Flughafen Tempelhof zur Open Air Bühne für die Ausnahmekünstler von Keinemusik. Dieser Showcase der Superlative wird mit einmaligen Performances von Rampa, &Me und Adam Port unvergessliche Momente garantieren.       Alle drei Künstler sind in den 15 Jahren seit Gründung des Labels zu weltweiten Botschaftern des Labels avanciert. Der unvergleichliche Sound ist eine Melange aus House und Techno und verführt die Massen über alle Ländergrenzen hinweg.  Gefühlvolle Vocals, exotischen Melodien und satte Bässe verschmelzen zum seidigen Fiebertraum, dem man sich unmöglich entziehen kann.   Direkt bei Gründung im Jahr 2009 hat es das einzigartige Rezept des Kultlabels geschafft, die elektronische Musikszene international aufzuwühlen und der Tumult kennt seitdem kein Ende. Mit der hauseigenen Interpretation von zeitgemäßer Tanzmusik, die zugleich mühelos, sanft und dennoch zutiefst eingängig musikalische Untiefen erkundet, hat das Label mit seinen Künstlern wortwörtlich die Welt im Sturm erobert.       Geprägt vom Berliner Underground und trotzdem offen für musikalische Einflüsse aus allen Richtungen. Diese unverwechselbare Rezeptur, der sich das Label immerzu treu geblieben ist, sorgt seit Anfang an für hypnotisierende Dancefloor-Hymnen, die an Tragweite und Popularität stets neue Maßstäbe setzen.     Egal ob Tulum, Burning Man, Ibiza oder doch Berliner Clubs – Keinemusik ist inzwischen überall, wo die Creme de la Creme der elektronischen Tanzmusik spielt.      Die exklusive Show auf dem Flughafen Tempelhof wird das ultimative Heimspiel für Rampa, &Me und Adam Port, bei dem zweifellos alles Bisherige in den Schatten gestellt wird. Das einmalige Keinemusik Showcase wird die ultimative Manifestation eines surrealen Sommertraums, den es unter keinen Umständen zu verpassen gilt.",
+        "link": "https://rausgegangen.de/en/events/keinemusik-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/oyNYiFpSQ5KydGX5XsVn_KM.png?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sat, 23.08.2025",
+        "time": "20:00",
+        "event": "KiNK LIVE: 15-YEAR ANNIVERSARY at DARK MATTER / SONIC SESSIONS (@DARK MATTER Berlin)",
+        "category": "",
+        "description": "SONIC SESSIONS - Audiovisuelle Clubnächte bei DARK MATTERDARK MATTER setzt seine Tradition exklusiver Abendveranstaltungen fort und präsentiert mit den SONIC SESSIONS eine außergewöhnliche Veranstaltungsreihe, die elektronische Musik und kinetische Lichtkunst verbindet. In der TRANSFORMATOR-Halle werden Live-Sets in Echtzeit mit der monumentalen Lichtinstallation SKALAR synchronisiert.KINK LIVE: 15-YEAR ANNIVERSARYZum 15-jährigen Jubiläum seines Schaffens kehrt der brillante Techno-Produzent und DJ KiNK mit einem seiner einzigartigen, ekstatischen LIVE-Sets zurück. Bekannt für seine mitreißenden und spontanen Performances, dirigiert er in Echtzeit ein Arsenal analoger Synthesizer und Controller. Seine zahlreichen Releases sind ebenso verspielt wie experimentell und bewegen sich mühelos zwischen House, Techno und Acid.RAREDUB Raredub ist ein in Sofia ansässiger Musikproduzent und DJ. Bekannt für seine energiegeladenen Auftritte, verleiht er jedem Set eine unverkennbare und dynamische Atmosphäre – ganz gleich, zu welcher Uhrzeit er spielt. Seine Musik pulsiert mit rohen Beats und modernen Grooves und setzt damit ein klares, kraftvolles Statement.",
+        "link": "https://rausgegangen.de/en/events/kink-live-15-year-anniversary-at-dark-matter-sonic-sessions-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/by29OOhT5ulYA3Yx1iNA_rausgegangen-sonic-session-25kink.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sat, 23.08.2025",
+        "time": "23:59",
+        "event": "Kinky Indie Party • Lido Berlin (@Lido)",
+        "category": "",
+        "description": "Du hast Bock auf Kink, aber kannst gar nichts mit schwarzen Lederriemen und Trance-Techno anfangen? Schmeiß dich in deinen heißesten Fit, um dir zu deinen Lieblings-Indie-Bangern alles von der Seele zu schütteln. Vielleicht sogar mit nem cute-consensual Hook-Up.",
+        "link": "https://rausgegangen.de/en/events/kinky-indie-party-lido-berlin-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/J9rUpdOQHu4MQvNv9Wk1_2025-08-23-kinky-indie-berlin-header.png?width=1200&height=900&mode=crop",
+        "city": "Berlin"
     },
     {
         "date": "Sat, 23.08.2025",
@@ -604,66 +604,6 @@
     },
     {
         "date": "Sun, 24.08.2025",
-        "time": "11:00",
-        "event": "Social Reading Party mit Pausify (@EDGE Workspaces / Grand Central Berlin)",
-        "category": "",
-        "description": "Bring dein aktuelles Buch zum Lesen mit (oder ein kreatives Projekt, an dem du arbeiten möchtest 📚🎨🧵) und sei dabei bei dieser Mischung aus gemeinsamer Fokuszeit und anregenden Gesprächen.📍 Invalidenstraße 65, 10557 Berlin (EDGE Workspaces)11:00–11:30 – Meet & Greet11:30–12:30 – Stille Fokuszeit12:30–13:30 – Austausch über Bücher/Projekte bei KaffeeBleib danach gerne zum Mittagessen mit anderen – oder komm einfach beim nächsten Mal wieder vorbei! Bilder und Videos von unseren Events findest du auf Instagram:Pausify InstagramPS: Warum kostet das etwas, wenn ich mein eigenes Project/ Buch mitbringe?Weil wir für jedes Event einen schönen, zentralen Raum anmieten. Falls du schon mal gedacht hast, deine monatliche Wohnungsmiete ist zu hoch – Gewerbemieten in Berlin kosten ein Vielfaches pro Stunde.Wenn du einfach nur in Ruhe für dich sein möchtest, ist natürlich auch dein Zuhause oder die Bibliothek dafür perfekt! Aber wenn du dich gemeinsam mit anderen in einem inspirierenden Raum konzentrieren und austauschen möchtest – mit Getränken & Snacks inklusive – dann hilft dein Ticket, das möglich zu machen.Pausify Website  Bitte beachte, dass während der Veranstaltung Fotos und Videos gemacht werden können, die zu Werbezwecken genutzt werden, um Eindrücke von unseren Events zu teilen. Falls du Bedenken hast, sprich uns bitte vor der Veranstaltung an. Danke!",
-        "link": "https://rausgegangen.de/en/events/social-reading-party-8/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/HG0Qfxi6TvGvYxBgDCLQ_20250525115221.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sun, 24.08.2025",
-        "time": "13:00",
-        "event": "Artverse.Underground (@KUDAMM ECK)",
-        "category": "",
-        "description": "Hier wirst du nicht einfach durch eine Ausstellung geführt – du wirst Stück für Stück woanders hingezogen. Mit jedem Raum kippt die Welt ein bisschen mehr, bis plötzlich nichts mehr sicher ist. Kunst wird hier zum Mindgame aus Licht, Sound und Raumgefühl. Wenn du offen bist für das Unerwartete, bist du hier genau richtig.",
-        "link": "https://rausgegangen.de/en/events/artverseunderground-36/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/oqV9RFfZSleehmGRtqep_dein-abschnittstext.png?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sun, 24.08.2025",
-        "time": "16:30",
-        "event": "ArtistsOnWheels - Exklusive Fahrradkonzerte auf dem Flughafen Tegel (Landebahn) (@Landschaftspark der tegeler Stadtheide)",
-        "category": "",
-        "description": "Erlebe ein Konzert wie nie zuvorVergiss Bühne und Stillstehen – unsere Musiker*innen fahren live hinter einem Lastenrad her, und du folgst auf deinem eigenen Fahrrad. Kabellose Kopfhörer auf – und los geht’s! Es ist anders, es ist verrückt, es ist großartig. Line-up & TermineSonntags spielen für dich:06.07. → Kaurna Cronin – 17:00 & 20:0003.08. → Nnella – 17:00 & 20:0024.08. → Soukou – 16:30 & 19:3007.09. → Sorvina – 16:00 & 19:00Bitte sei mindestens 15 Minuten vor Beginn am Treffpunkt. Der Check-in ist außerhalb des gesicherten Flughafenbereichs – du wirst in Gruppen zum Gate gebracht. Bei Verspätung ist leider keine Teilnahme möglich. Wie lange, wie weit?Dauer: ca. 75 Minuten inkl. PausenStrecke: etwa 8 KilometerSpracheModeration auf Deutsch & Englisch. Die Sprache der Songs hängt von der Band ab. Wo?Wir touren über das Gelände des ehemaligen Flughafens Tegel – genauer: die von Grün Berlin verwaltete Tegeler Stadtheide. Vom Rand durch die Rollbahn bis zur Start- & Landebahn.Treffpunkt & Check-in: Außerhalb des Sicherheitsbereichs – bei der Bushaltestelle \"Urban Tech Republic\", vor dem Gebäude .GUT. Wichtig!Lies bitte alle Informationen auf der Website sorgfältig – es gibt sicherheitsrelevante Hinweise, die du unbedingt beachten musst! //  Experience a Concert Like Never BeforeForget the stage and standing still – our musicians ride behind a cargo bike, and you follow along on your own bicycle. Pop on our wireless headphones – and let’s go! It’s different. It’s wild. It’s brilliant. Line-up & DatesSunday sessions just for you:06 July → Kaurna Cronin – 17:00 & 20:0003 August → Nnella – 17:00 & 20:0024 August → Soukou – 16:30 & 19:3007 September → Sorvina – 16:00 & 19:00Please arrive at least 15 minutes before the start. Check-in is outside the secured airport zone – you’ll be guided to your gate in small groups. Latecomers unfortunately cannot participate. How Long? How Far?Duration: approx. 75 minutes (including breaks)Distance: around 8 kilometers LanguageModeration in German & English. The language of the music depends on the band. Where?We ride through the grounds of the former Tegel Airport – specifically, the Tegeler Stadtheide area managed by Grün Berlin. We start at the edge, cruise across the taxiway, and finish on the main runway.Meeting Point & Check-inJust outside the security zone – at the \"Urban Tech Republic\" bus stop, in front of the .GUT. building. Important!Please read all information carefully on the website – there are important safety guidelines you must follow.",
-        "link": "https://rausgegangen.de/en/events/artistsonwheels-18/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Tp9rT5cTLaNQiLGWZQwA_aow.png?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sun, 24.08.2025",
-        "time": "18:00",
-        "event": "RCL x BZZBZZ TECHNO - OPEN AIR EDITION (TRANCE/BOUNCE/GROOVE) (@LOKSCHUPPEN BERLIN)",
-        "category": "",
-        "description": "Open Air – Bounce & Trance VibesTreibende Beats, Sonnenuntergang und süße Extras: RCL und BZZBZZ Techno bringen Bounce und Trance auf den Open-Air-Floor. Free Fruits & Sweets inklusive – tanz mit uns in die Nacht! TRANCE – BOUNCE – GROOVE – HARD Two floors. Full power. Full Love 💖✨ Open Air Floor: GIØ  FILIALLEITER  LUV.DELUXE SPEEDO MJK OZZWALD XEXO Hybrid Floor: COBB DOUGLAS KING LOU!E MAZO Abendkasse:Es wird immer ein Kartenkontingent für Spontanbesucher an der Abendkasse reserviert, unabhängig davon, ob der Vorverkauf bereits beendet oder ausverkauft ist.Die Tickets sind am Veranstaltungstag ab 18:00 Uhr an der Abendkasse erhältlich.Frühzeitiges Erscheinen wird empfohlen, um Wartezeiten zu vermeiden. Equality & Diversity Statement (Erklärung zu Gleichberechtigung und Vielfalt):Respekt: RCL x BZZBZZ TECHNO ist ein Ort, an dem sich jeder wohl und sicher fühlen soll, unabhängig von Aussehen, Fähigkeiten, Alter, Klasse, sexueller Orientierung, ethnischer Zugehörigkeit, Religion oder Geschlecht.Null-Toleranz-Politik: Jegliche Form von Diskriminierung, Belästigung oder Gewalt wird nicht toleriert. Personen, die diesen Erwartungen nicht entsprechen, sind nicht willkommen und werden aufgefordert, die Veranstaltung zu verlassen. SPREAD LOVERCL x BZZBZZ TECHNO",
-        "link": "https://rausgegangen.de/en/events/rcl-x-bzzbzz-techno-open-air-edition-trancebouncegroove-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/brNUdMWLSEyF9FGPcdMh_169-rausgegangende-260725zip-2.png?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sun, 24.08.2025",
-        "time": "19:00",
-        "event": "Lauscherlounge: Die Farm der Tiere *Premiere* (@IKC ufaFabrik)",
-        "category": "",
-        "description": "George Orwells berühmte dystopische Fabel auf die menschliche Verführbarkeit in eineraufregenden Neuinterpretation von Hörspielautor Kai Schwind.InhaltWeil die Farmtiere auf dem Hof von Bauer Jones schlecht behandelt werden, starten sie eine Revolution. Inspiriert vom Traum der Freiheit des alten Ebers Old Major jagen sie ihren Herren vom Hof und übernehmen die Macht über die Farm. Anfangs scheint alles nach Plan zu verlaufen, aber dann reißt Diktator Napoleon die Führung an sich und beginnt eine Schreckensherrschaft, die auch vor Gewalt nicht zurückschreckt.Ursprünglich von George Orwell als Fabel auf den Stalinismus gedacht, ist das Stück heute aktueller denn je - \"\"Alle sind gleich, aber manche sind gleicher\"\".Die Schauspieler*innen Cathlen Gawlich und Thomas Nikolai übernehmen in dieser Neufassung alle Rollen.BesetzungCathlen Gawlich – Schauspielerin, Hörbuchsprecherin (deutsche Stimme von Elizabeth Banks, Melanie Lynskey und Carolyn Lawrence)Thomas Nicolai – Hörbuchsprecher, Synchronsprecher und ComedianGeräuschemacher*in – tbaAutorKai Schwind (Jahrgang 1976) ist Journalist und Medienwissenschaftler. Mit „Die Ferienbande“ gab er seinen Einstand in der deutschen Hörspielszene. Seitdem hat er sich als Autor und Regisseur bei den unterschiedlichsten Hörspiel-, Hörbuch- und Live-Hörspiel-Projekten einen Namen gemacht (u.a. für die große Live-Tour „Die Drei ??? und der seltsame Wecker – Live andTicking“ (2009/2010) und „Phonophobia – Sinfonie der Angst“ (2014/2015).Das LivehörspielWer die Augen schließt, hört ein Hörspiel – wer sie jedoch öffnet, erhält nicht nur einen Einblick in die Hörspielproduktion sondern erlebt eine ganz eigene, besondere Kunstform auf der Bühne. Auf der Bühne stehen zum einen die Sprecher*innen und zum anderen ein Geräuschemacher und ein Musiker und lassen die Zuschauenden am Entstehen eines Hörspiels teilhaben.Über die LauscherloungeAlles rund um das gesprochene Wort: Die Lauscherlounge ist Verlag, Studio und Live-Veranstalterin. 2003 von „Die drei ???“-Sprecher Oliver Rohrbeck gegründet, hat die Lauscherlounge bis heute zahlreiche Live-Hörspiele, Lesungen, Record Release Parties und vieles mehr veranstaltet. Außerdemproduziert sie Hörspiele, Hörbücher und Podcasts.",
-        "link": "https://rausgegangen.de/en/events/lauscherlounge-die-farm-der-tiere-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/oqyxgoh62meu.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sun, 24.08.2025",
-        "time": "20:15",
-        "event": "IT'S LIT - English Comedy Sunday Hangout Show with Tyrone Stallone (@Black Wedding Comedy)",
-        "category": "",
-        "description": "It’s Lit! features stand up comedy, story telling, improvisation and audience games all in one night! Get ready for a fully unique and interactive experience. The show is on Sunday so you can have enough laughs to last you all week. Until our next show! LOL. No two shows are the same. You can find us in the Black Wedding Bar just a short walk from S Gesundbrunnen and U Pankstr. We open doors at 8pm",
-        "link": "https://rausgegangen.de/en/events/its-lit-english-comedy-sunday-hangout-show-with-tyrone-stall-16/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Wgvh3Z9FR2anlCeX2MSI_0e1427b2-f7bf-4821-983c-fefbdd6cefab.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sun, 24.08.2025",
         "time": "12:00",
         "event": "Peppa kommt in die Schule (@Alte Wursterei)",
         "category": "",
@@ -721,6 +661,66 @@
         "link": "https://rausgegangen.de/en/events/kulturschock-schock-in-the-city-12/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/tyVsHrRjSAyjTa6VGGg3_250102kulturschockheaderschockcity600x337px200.jpg?width=1200&height=900&mode=crop",
         "city": "Köln"
+    },
+    {
+        "date": "Sun, 24.08.2025",
+        "time": "11:00",
+        "event": "Social Reading Party mit Pausify (@EDGE Workspaces / Grand Central Berlin)",
+        "category": "",
+        "description": "Bring dein aktuelles Buch zum Lesen mit (oder ein kreatives Projekt, an dem du arbeiten möchtest 📚🎨🧵) und sei dabei bei dieser Mischung aus gemeinsamer Fokuszeit und anregenden Gesprächen.📍 Invalidenstraße 65, 10557 Berlin (EDGE Workspaces)11:00–11:30 – Meet & Greet11:30–12:30 – Stille Fokuszeit12:30–13:30 – Austausch über Bücher/Projekte bei KaffeeBleib danach gerne zum Mittagessen mit anderen – oder komm einfach beim nächsten Mal wieder vorbei! Bilder und Videos von unseren Events findest du auf Instagram:Pausify InstagramPS: Warum kostet das etwas, wenn ich mein eigenes Project/ Buch mitbringe?Weil wir für jedes Event einen schönen, zentralen Raum anmieten. Falls du schon mal gedacht hast, deine monatliche Wohnungsmiete ist zu hoch – Gewerbemieten in Berlin kosten ein Vielfaches pro Stunde.Wenn du einfach nur in Ruhe für dich sein möchtest, ist natürlich auch dein Zuhause oder die Bibliothek dafür perfekt! Aber wenn du dich gemeinsam mit anderen in einem inspirierenden Raum konzentrieren und austauschen möchtest – mit Getränken & Snacks inklusive – dann hilft dein Ticket, das möglich zu machen.Pausify Website  Bitte beachte, dass während der Veranstaltung Fotos und Videos gemacht werden können, die zu Werbezwecken genutzt werden, um Eindrücke von unseren Events zu teilen. Falls du Bedenken hast, sprich uns bitte vor der Veranstaltung an. Danke!",
+        "link": "https://rausgegangen.de/en/events/social-reading-party-8/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/HG0Qfxi6TvGvYxBgDCLQ_20250525115221.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sun, 24.08.2025",
+        "time": "13:00",
+        "event": "Artverse.Underground (@KUDAMM ECK)",
+        "category": "",
+        "description": "Hier wirst du nicht einfach durch eine Ausstellung geführt – du wirst Stück für Stück woanders hingezogen. Mit jedem Raum kippt die Welt ein bisschen mehr, bis plötzlich nichts mehr sicher ist. Kunst wird hier zum Mindgame aus Licht, Sound und Raumgefühl. Wenn du offen bist für das Unerwartete, bist du hier genau richtig.",
+        "link": "https://rausgegangen.de/en/events/artverseunderground-36/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/oqV9RFfZSleehmGRtqep_dein-abschnittstext.png?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sun, 24.08.2025",
+        "time": "16:30",
+        "event": "ArtistsOnWheels - Exklusive Fahrradkonzerte auf dem Flughafen Tegel (Landebahn) (@Landschaftspark der tegeler Stadtheide)",
+        "category": "",
+        "description": "Erlebe ein Konzert wie nie zuvorVergiss Bühne und Stillstehen – unsere Musiker*innen fahren live hinter einem Lastenrad her, und du folgst auf deinem eigenen Fahrrad. Kabellose Kopfhörer auf – und los geht’s! Es ist anders, es ist verrückt, es ist großartig. Line-up & TermineSonntags spielen für dich:06.07. → Kaurna Cronin – 17:00 & 20:0003.08. → Nnella – 17:00 & 20:0024.08. → Soukou – 16:30 & 19:3007.09. → Sorvina – 16:00 & 19:00Bitte sei mindestens 15 Minuten vor Beginn am Treffpunkt. Der Check-in ist außerhalb des gesicherten Flughafenbereichs – du wirst in Gruppen zum Gate gebracht. Bei Verspätung ist leider keine Teilnahme möglich. Wie lange, wie weit?Dauer: ca. 75 Minuten inkl. PausenStrecke: etwa 8 KilometerSpracheModeration auf Deutsch & Englisch. Die Sprache der Songs hängt von der Band ab. Wo?Wir touren über das Gelände des ehemaligen Flughafens Tegel – genauer: die von Grün Berlin verwaltete Tegeler Stadtheide. Vom Rand durch die Rollbahn bis zur Start- & Landebahn.Treffpunkt & Check-in: Außerhalb des Sicherheitsbereichs – bei der Bushaltestelle \"Urban Tech Republic\", vor dem Gebäude .GUT. Wichtig!Lies bitte alle Informationen auf der Website sorgfältig – es gibt sicherheitsrelevante Hinweise, die du unbedingt beachten musst! //  Experience a Concert Like Never BeforeForget the stage and standing still – our musicians ride behind a cargo bike, and you follow along on your own bicycle. Pop on our wireless headphones – and let’s go! It’s different. It’s wild. It’s brilliant. Line-up & DatesSunday sessions just for you:06 July → Kaurna Cronin – 17:00 & 20:0003 August → Nnella – 17:00 & 20:0024 August → Soukou – 16:30 & 19:3007 September → Sorvina – 16:00 & 19:00Please arrive at least 15 minutes before the start. Check-in is outside the secured airport zone – you’ll be guided to your gate in small groups. Latecomers unfortunately cannot participate. How Long? How Far?Duration: approx. 75 minutes (including breaks)Distance: around 8 kilometers LanguageModeration in German & English. The language of the music depends on the band. Where?We ride through the grounds of the former Tegel Airport – specifically, the Tegeler Stadtheide area managed by Grün Berlin. We start at the edge, cruise across the taxiway, and finish on the main runway.Meeting Point & Check-inJust outside the security zone – at the \"Urban Tech Republic\" bus stop, in front of the .GUT. building. Important!Please read all information carefully on the website – there are important safety guidelines you must follow.",
+        "link": "https://rausgegangen.de/en/events/artistsonwheels-18/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Tp9rT5cTLaNQiLGWZQwA_aow.png?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sun, 24.08.2025",
+        "time": "18:00",
+        "event": "RCL x BZZBZZ TECHNO - OPEN AIR EDITION (TRANCE/BOUNCE/GROOVE) (@LOKSCHUPPEN BERLIN)",
+        "category": "",
+        "description": "Open Air – Bounce & Trance VibesTreibende Beats, Sonnenuntergang und süße Extras: RCL und BZZBZZ Techno bringen Bounce und Trance auf den Open-Air-Floor. Free Fruits & Sweets inklusive – tanz mit uns in die Nacht! TRANCE – BOUNCE – GROOVE – HARD Two floors. Full power. Full Love 💖✨ Open Air Floor: GIØ  FILIALLEITER  LUV.DELUXE SPEEDO MJK OZZWALD XEXO Hybrid Floor: COBB DOUGLAS KING LOU!E MAZO Abendkasse:Es wird immer ein Kartenkontingent für Spontanbesucher an der Abendkasse reserviert, unabhängig davon, ob der Vorverkauf bereits beendet oder ausverkauft ist.Die Tickets sind am Veranstaltungstag ab 18:00 Uhr an der Abendkasse erhältlich.Frühzeitiges Erscheinen wird empfohlen, um Wartezeiten zu vermeiden. Equality & Diversity Statement (Erklärung zu Gleichberechtigung und Vielfalt):Respekt: RCL x BZZBZZ TECHNO ist ein Ort, an dem sich jeder wohl und sicher fühlen soll, unabhängig von Aussehen, Fähigkeiten, Alter, Klasse, sexueller Orientierung, ethnischer Zugehörigkeit, Religion oder Geschlecht.Null-Toleranz-Politik: Jegliche Form von Diskriminierung, Belästigung oder Gewalt wird nicht toleriert. Personen, die diesen Erwartungen nicht entsprechen, sind nicht willkommen und werden aufgefordert, die Veranstaltung zu verlassen. SPREAD LOVERCL x BZZBZZ TECHNO",
+        "link": "https://rausgegangen.de/en/events/rcl-x-bzzbzz-techno-open-air-edition-trancebouncegroove-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/brNUdMWLSEyF9FGPcdMh_169-rausgegangende-260725zip-2.png?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sun, 24.08.2025",
+        "time": "19:00",
+        "event": "Lauscherlounge: Die Farm der Tiere *Premiere* (@IKC ufaFabrik)",
+        "category": "",
+        "description": "George Orwells berühmte dystopische Fabel auf die menschliche Verführbarkeit in eineraufregenden Neuinterpretation von Hörspielautor Kai Schwind.InhaltWeil die Farmtiere auf dem Hof von Bauer Jones schlecht behandelt werden, starten sie eine Revolution. Inspiriert vom Traum der Freiheit des alten Ebers Old Major jagen sie ihren Herren vom Hof und übernehmen die Macht über die Farm. Anfangs scheint alles nach Plan zu verlaufen, aber dann reißt Diktator Napoleon die Führung an sich und beginnt eine Schreckensherrschaft, die auch vor Gewalt nicht zurückschreckt.Ursprünglich von George Orwell als Fabel auf den Stalinismus gedacht, ist das Stück heute aktueller denn je - \"\"Alle sind gleich, aber manche sind gleicher\"\".Die Schauspieler*innen Cathlen Gawlich und Thomas Nikolai übernehmen in dieser Neufassung alle Rollen.BesetzungCathlen Gawlich – Schauspielerin, Hörbuchsprecherin (deutsche Stimme von Elizabeth Banks, Melanie Lynskey und Carolyn Lawrence)Thomas Nicolai – Hörbuchsprecher, Synchronsprecher und ComedianGeräuschemacher*in – tbaAutorKai Schwind (Jahrgang 1976) ist Journalist und Medienwissenschaftler. Mit „Die Ferienbande“ gab er seinen Einstand in der deutschen Hörspielszene. Seitdem hat er sich als Autor und Regisseur bei den unterschiedlichsten Hörspiel-, Hörbuch- und Live-Hörspiel-Projekten einen Namen gemacht (u.a. für die große Live-Tour „Die Drei ??? und der seltsame Wecker – Live andTicking“ (2009/2010) und „Phonophobia – Sinfonie der Angst“ (2014/2015).Das LivehörspielWer die Augen schließt, hört ein Hörspiel – wer sie jedoch öffnet, erhält nicht nur einen Einblick in die Hörspielproduktion sondern erlebt eine ganz eigene, besondere Kunstform auf der Bühne. Auf der Bühne stehen zum einen die Sprecher*innen und zum anderen ein Geräuschemacher und ein Musiker und lassen die Zuschauenden am Entstehen eines Hörspiels teilhaben.Über die LauscherloungeAlles rund um das gesprochene Wort: Die Lauscherlounge ist Verlag, Studio und Live-Veranstalterin. 2003 von „Die drei ???“-Sprecher Oliver Rohrbeck gegründet, hat die Lauscherlounge bis heute zahlreiche Live-Hörspiele, Lesungen, Record Release Parties und vieles mehr veranstaltet. Außerdemproduziert sie Hörspiele, Hörbücher und Podcasts.",
+        "link": "https://rausgegangen.de/en/events/lauscherlounge-die-farm-der-tiere-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/oqyxgoh62meu.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sun, 24.08.2025",
+        "time": "20:15",
+        "event": "IT'S LIT - English Comedy Sunday Hangout Show with Tyrone Stallone (@Black Wedding Comedy)",
+        "category": "",
+        "description": "It’s Lit! features stand up comedy, story telling, improvisation and audience games all in one night! Get ready for a fully unique and interactive experience. The show is on Sunday so you can have enough laughs to last you all week. Until our next show! LOL. No two shows are the same. You can find us in the Black Wedding Bar just a short walk from S Gesundbrunnen and U Pankstr. We open doors at 8pm",
+        "link": "https://rausgegangen.de/en/events/its-lit-english-comedy-sunday-hangout-show-with-tyrone-stall-16/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Wgvh3Z9FR2anlCeX2MSI_0e1427b2-f7bf-4821-983c-fefbdd6cefab.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
     },
     {
         "date": "Sun, 24.08.2025",
@@ -837,6 +837,36 @@
     },
     {
         "date": "Mon, 25.08.2025",
+        "time": "18:45",
+        "event": "Classics im Rex: VIDEODROME (OV) (@Rex Am Ring)",
+        "category": "",
+        "description": "Videodrome (1983)Directed by David Cronenberg First it controls your mind. Then it destroys your body.As the president of a trashy TV channel, Max Renn is desperate for new programming to attract viewers. When he happens upon “Videodrome,” a TV show dedicated to gratuitous torture and punishment, Max sees a potential hit and broadcasts the show on his channel. However, after his girlfriend auditions for the show and never returns, Max investigates the truth behind Videodrome and discovers that the graphic violence may not be as fake as he thought.",
+        "link": "https://rausgegangen.de/en/events/classics-im-rex-videodrome-omu-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/XPnsylqGR0afsOvB0BFd_image-w1280.webp?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Mon, 25.08.2025",
+        "time": "20:00",
+        "event": "glare (@Helios37)",
+        "category": "",
+        "description": "Pressetext folgt...           - oversize Tour 2025",
+        "link": "https://rausgegangen.de/en/events/glare-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/g2j1k8mpgd65.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Mon, 25.08.2025",
+        "time": "20:00",
+        "event": "Impro Stand-up Comedy - Ich hab da mal nichts vorbereitet (@Joode Lade)",
+        "category": "",
+        "description": "Stand-up trifft Impro – und das ganz ohne Plan! Vier Comedians, die man aus Nightwash und Quatsch Comedy Club kennt, steigen ohne Skript auf die Bühne und improvisieren.",
+        "link": "https://rausgegangen.de/en/events/impro-stand-up-comedy-ich-hab-da-mal-nichts-vorbereitet-27/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eoyrl3iuRSieOSgXu6Qo_ljvp6610qvybyqfavh20ihdmnv.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Mon, 25.08.2025",
         "time": "18:00",
         "event": "ROLLER DISCO (@SO36)",
         "category": "",
@@ -914,36 +944,6 @@
         "link": "https://rausgegangen.de/en/events/singularity-61/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OC8Vzd2jR6KhnFRoglRk_singularityaugust4ra.jpg?width=1200&height=900&mode=crop",
         "city": "Berlin"
-    },
-    {
-        "date": "Mon, 25.08.2025",
-        "time": "18:45",
-        "event": "Classics im Rex: VIDEODROME (OV) (@Rex Am Ring)",
-        "category": "",
-        "description": "Videodrome (1983)Directed by David Cronenberg First it controls your mind. Then it destroys your body.As the president of a trashy TV channel, Max Renn is desperate for new programming to attract viewers. When he happens upon “Videodrome,” a TV show dedicated to gratuitous torture and punishment, Max sees a potential hit and broadcasts the show on his channel. However, after his girlfriend auditions for the show and never returns, Max investigates the truth behind Videodrome and discovers that the graphic violence may not be as fake as he thought.",
-        "link": "https://rausgegangen.de/en/events/classics-im-rex-videodrome-omu-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/XPnsylqGR0afsOvB0BFd_image-w1280.webp?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Mon, 25.08.2025",
-        "time": "20:00",
-        "event": "glare (@Helios37)",
-        "category": "",
-        "description": "Pressetext folgt...           - oversize Tour 2025",
-        "link": "https://rausgegangen.de/en/events/glare-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/g2j1k8mpgd65.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Mon, 25.08.2025",
-        "time": "20:00",
-        "event": "Impro Stand-up Comedy - Ich hab da mal nichts vorbereitet (@Joode Lade)",
-        "category": "",
-        "description": "Stand-up trifft Impro – und das ganz ohne Plan! Vier Comedians, die man aus Nightwash und Quatsch Comedy Club kennt, steigen ohne Skript auf die Bühne und improvisieren.",
-        "link": "https://rausgegangen.de/en/events/impro-stand-up-comedy-ich-hab-da-mal-nichts-vorbereitet-27/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eoyrl3iuRSieOSgXu6Qo_ljvp6610qvybyqfavh20ihdmnv.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
     },
     {
         "date": "Tu, 26.08.2025",
@@ -1045,6 +1045,76 @@
     },
     {
         "date": "Tue, 26.08.2025",
+        "time": "18:15",
+        "event": "Meditation und Stille (@Kim Schröer Coaching)",
+        "category": "",
+        "description": "Tauche ein in die Welt der inneren Ruhe und Gelassenheit. In der Stille begegnen wir unserer eigenen Wahrheit. Und das entspannt uns von innen heraus. Somit braucht es manchmal nicht mehr, als uns gemeinsam in die Stille zu begeben. Dabei begleite ich euch und halte den Raum. Der Weg in die Stille kann den Geist beruhigen und dich unterstützen, im Hier und Jetzt anzukommen. Lasst euch überraschen, wie ihr euch nach diesem Erlebnis fühlen werdet. Egal, ob Anfängerin oder Fortgeschrittener – dieser Kurs bietet dir Raum für Entspannung, Selbstreflexion und neue Energie.Von Herz zu Herz ohne Worte. Gemeinsam allein sein. Seelisch erwachsen werden. <3Ihr könnt ohne Vorerfahrung in Alltagsklamotten teilnehmen.Der feel-Freiraum ist ein gemütlicher Coaching-Raum direkt am Severinskirchplatz (neben dem italienischen Restaurant Ludari).www.kim-schroeer.com www.instagram.com/kim_schroeer",
+        "link": "https://rausgegangen.de/en/events/meditation-und-stille-36/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bZEm6BTRTiKsqyNyuXNj_dsc5535.JPG?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Tue, 26.08.2025",
+        "time": "19:00",
+        "event": "FAIL IN LOVE NIGHTS - Stories vom Scheitern in der Liebe / Köln Vol. 37 (@Odonien)",
+        "category": "",
+        "description": "Mit Humor mehr über Beziehungen & Liebe lernen. Hier erfährst du etwas über dich selbst und kannst aus den Erfahrungen von anderen lernen und mit ihnen drüber lachen✨",
+        "link": "https://rausgegangen.de/en/events/fail-in-love-nights-stories-vom-scheitern-in-der-liebe-koln--30/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/QQ6LUq8tSs6StApvccL1_fail-in-love-nights-bannerpng?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Tue, 26.08.2025",
+        "time": "19:30",
+        "event": "🏳️‍🌈🏳️‍⚧️  QUEER LOVE AT FIRST SLIDE | Audience Ticket | Power Point Dating by Rausgegangen Köln 🏳️‍🌈🏳️‍⚧️ (@Bumann & SOHN)",
+        "category": "",
+        "description": "Du hast es satt auf Dating Apps rumzuscrollen? Hier gibt's das ganze in Live Action und in super wholesome✨ Vielleicht findest du ja hier deine große Liebe 👀💖",
+        "link": "https://rausgegangen.de/en/events/love-at-first-slide-queer-edition-koln-power-point-dating-by-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LeYWCWaKTQ6jtromyJuM_omvqfxqcqyq0sz9e3nnw70erparty-7vsco.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Tue, 26.08.2025",
+        "time": "19:30",
+        "event": "🏳️‍🌈🏳️‍⚧️ QUEER LOVE AT FIRST SLIDE | Presenter Ticket | Power Point Dating by Rausgegangen Köln 🏳️‍🌈🏳️‍⚧️ (@Bumann & SOHN)",
+        "category": "",
+        "description": "Du willst meine Bestie klären? Okay let's go! Hier wird der Traum von jedem Wingman wahr, welche Kennenlernstory ist bitte cooler?!💖",
+        "link": "https://rausgegangen.de/en/events/love-at-first-slide-queer-edition-koln-power-point-dating-by-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/f2sC57LMTFypuhopcJtz_aklxfgzrnqvtw4ocymgahpos6ovlq2ob70esacmuc-anja-behrens.jpeg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Tue, 26.08.2025",
+        "time": "20:00",
+        "event": "Echtzeit Comedy - Open Mic & Bingo (@Echtzeit Grill & Thrill)",
+        "category": "",
+        "description": "Jeden Dienstag gibt's bei \"Echtzeit Comedy - Open Mic & Bingo\" eine Mischung aus frischen Jokes und spannenden Bingo-Runden! 🎤🎉 Genießt Comedy von Newcomern und Profis, während ihr mit etwas Glück coole Preise absahnt – und das alles bei leckerem BBQ! 🍔🍖\n\n#EchtzeitComedy #OpenMic #BingoNight #LachenUndGenießen #BBQVibes",
+        "link": "https://rausgegangen.de/en/events/echtzeit-comedy-open-mic-bingo-28/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4o4p10rpTte8kKXMBA8W_open-mic-bingo.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Tue, 26.08.2025",
+        "time": "20:00",
+        "event": "Jazzorama! Josefine Kunecke Quartett + Jamsession (@artheater Köln)",
+        "category": "",
+        "description": "Studis freier Eintritt!🤩 Genießt den Abend bei einer entspannten Jamsession🎷",
+        "link": "https://rausgegangen.de/en/events/jazzorama-josefine-kunecke-quartett-jamsession-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/AU0vSmoRraGnTvjNPrtW_josefine-kunecke1.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Tue, 26.08.2025",
+        "time": "20:00",
+        "event": "Lachmuschel - Das Comedy Open Mic im Blue Shell (@Blue Shell)",
+        "category": "",
+        "description": "Comedy pur – von frischen Gags bis zum gefeierten Headliner, mit Überraschungen, Abstürzen und garantiert jeder Menge Spaß!",
+        "link": "https://rausgegangen.de/en/events/lachmuschel-das-comedy-open-mic-im-blue-shell-kopie-9/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LGtMoLnRteyxetMlfaZA_banner-zentriert-mit-text.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Tue, 26.08.2025",
         "time": "17:30",
         "event": "Amyl and The Sniffers (Support: Lambrini Girls) (@Zitadelle Spandau)",
         "category": "",
@@ -1125,90 +1195,12 @@
     },
     {
         "date": "Tue, 26.08.2025",
-        "time": "18:15",
-        "event": "Meditation und Stille (@Kim Schröer Coaching)",
-        "category": "",
-        "description": "Tauche ein in die Welt der inneren Ruhe und Gelassenheit. In der Stille begegnen wir unserer eigenen Wahrheit. Und das entspannt uns von innen heraus. Somit braucht es manchmal nicht mehr, als uns gemeinsam in die Stille zu begeben. Dabei begleite ich euch und halte den Raum. Der Weg in die Stille kann den Geist beruhigen und dich unterstützen, im Hier und Jetzt anzukommen. Lasst euch überraschen, wie ihr euch nach diesem Erlebnis fühlen werdet. Egal, ob Anfängerin oder Fortgeschrittener – dieser Kurs bietet dir Raum für Entspannung, Selbstreflexion und neue Energie.Von Herz zu Herz ohne Worte. Gemeinsam allein sein. Seelisch erwachsen werden. <3Ihr könnt ohne Vorerfahrung in Alltagsklamotten teilnehmen.Der feel-Freiraum ist ein gemütlicher Coaching-Raum direkt am Severinskirchplatz (neben dem italienischen Restaurant Ludari).www.kim-schroeer.com www.instagram.com/kim_schroeer",
-        "link": "https://rausgegangen.de/en/events/meditation-und-stille-36/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bZEm6BTRTiKsqyNyuXNj_dsc5535.JPG?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Tue, 26.08.2025",
-        "time": "19:00",
-        "event": "FAIL IN LOVE NIGHTS - Stories vom Scheitern in der Liebe / Köln Vol. 37 (@Odonien)",
-        "category": "",
-        "description": "Mit Humor mehr über Beziehungen & Liebe lernen. Hier erfährst du etwas über dich selbst und kannst aus den Erfahrungen von anderen lernen und mit ihnen drüber lachen✨",
-        "link": "https://rausgegangen.de/en/events/fail-in-love-nights-stories-vom-scheitern-in-der-liebe-koln--30/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/QQ6LUq8tSs6StApvccL1_fail-in-love-nights-bannerpng?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Tue, 26.08.2025",
-        "time": "19:30",
-        "event": "🏳️‍🌈🏳️‍⚧️  QUEER LOVE AT FIRST SLIDE | Audience Ticket | Power Point Dating by Rausgegangen Köln 🏳️‍🌈🏳️‍⚧️ (@Bumann & SOHN)",
-        "category": "",
-        "description": "Du hast es satt auf Dating Apps rumzuscrollen? Hier gibt's das ganze in Live Action und in super wholesome✨ Vielleicht findest du ja hier deine große Liebe 👀💖",
-        "link": "https://rausgegangen.de/en/events/love-at-first-slide-queer-edition-koln-power-point-dating-by-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LeYWCWaKTQ6jtromyJuM_omvqfxqcqyq0sz9e3nnw70erparty-7vsco.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Tue, 26.08.2025",
-        "time": "19:30",
-        "event": "🏳️‍🌈🏳️‍⚧️ QUEER LOVE AT FIRST SLIDE | Presenter Ticket | Power Point Dating by Rausgegangen Köln 🏳️‍🌈🏳️‍⚧️ (@Bumann & SOHN)",
-        "category": "",
-        "description": "Du willst meine Bestie klären? Okay let's go! Hier wird der Traum von jedem Wingman wahr, welche Kennenlernstory ist bitte cooler?!💖",
-        "link": "https://rausgegangen.de/en/events/love-at-first-slide-queer-edition-koln-power-point-dating-by-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/f2sC57LMTFypuhopcJtz_aklxfgzrnqvtw4ocymgahpos6ovlq2ob70esacmuc-anja-behrens.jpeg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Tue, 26.08.2025",
-        "time": "20:00",
-        "event": "Echtzeit Comedy - Open Mic & Bingo (@Echtzeit Grill & Thrill)",
-        "category": "",
-        "description": "Jeden Dienstag gibt's bei \"Echtzeit Comedy - Open Mic & Bingo\" eine Mischung aus frischen Jokes und spannenden Bingo-Runden! 🎤🎉 Genießt Comedy von Newcomern und Profis, während ihr mit etwas Glück coole Preise absahnt – und das alles bei leckerem BBQ! 🍔🍖\n\n#EchtzeitComedy #OpenMic #BingoNight #LachenUndGenießen #BBQVibes",
-        "link": "https://rausgegangen.de/en/events/echtzeit-comedy-open-mic-bingo-28/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4o4p10rpTte8kKXMBA8W_open-mic-bingo.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Tue, 26.08.2025",
-        "time": "20:00",
-        "event": "Jazzorama! Josefine Kunecke Quartett + Jamsession (@artheater Köln)",
-        "category": "",
-        "description": "Studis freier Eintritt!🤩 Genießt den Abend bei einer entspannten Jamsession🎷",
-        "link": "https://rausgegangen.de/en/events/jazzorama-josefine-kunecke-quartett-jamsession-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/AU0vSmoRraGnTvjNPrtW_josefine-kunecke1.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Tue, 26.08.2025",
-        "time": "20:00",
-        "event": "Lachmuschel - Das Comedy Open Mic im Blue Shell (@Blue Shell)",
-        "category": "",
-        "description": "Comedy pur – von frischen Gags bis zum gefeierten Headliner, mit Überraschungen, Abstürzen und garantiert jeder Menge Spaß!",
-        "link": "https://rausgegangen.de/en/events/lachmuschel-das-comedy-open-mic-im-blue-shell-kopie-9/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LGtMoLnRteyxetMlfaZA_banner-zentriert-mit-text.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Tue, 26.08.2025",
         "time": "09:30",
         "event": "Musikalisches Frühstück für Menschen ab 55 Jahren (@Begegnungszentrum Kreuzstraße)",
         "category": "Essen, Trinken, Gesellschaft – und Musik! Eine ideale Kombination, die immer am 4. Dienstag des...",
         "description": "Essen, Trinken, Gesellschaft – und Musik! Eine ideale Kombination, die immer am 4. Dienstag des Monats vom Begegnungszentrum Kreuzstraße für alle Menschen ab 55 Jahren angeboten wird. Der nächste Termin ist am Dienstag, den 26.08.2025 um 9.30 Uhr. Nach dem ausgiebigen gemeinsamen Frühstück heißt es ab etwa 10.30 Uhr: Mitsingen erwünscht! Ein professioneller Musiker begleitet am Klavier durch ein Repertoire beliebter Lieder, Schlager und Chansons. Das Angebot endet um ca. 11.30 und kostet dank der Unterstützung der Bielefelder Bürgerstiftung 7€ pro Person. Mehr Informationen und Anmeldung im Begegnungszentrum Kreuzstraße 19a, Telefon 0521 98892-440 oder per E-Mail an bzkreuzstrasse@diakonie-fuer-bielefeld.de",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/webform/termine_melden/16576/musikfr.jpg?itok=Vo_scGKn",
         "link": "https://www.bielefeld.jetzt/node/1218342"
-    },
-    {
-        "date": "Mi, 27.08",
-        "time": "23:00",
-        "event": "MI • WYLD WEDNESDAY (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wyld-wednesday-16/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250827_WyldWednesday_4zu5.jpg"
     },
     {
         "date": "We, 27.08.2025",
@@ -1249,6 +1241,14 @@
         "category": "Ausgehen",
         "link": "https://www.instagram.com/diesdascomedy/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 27.08",
+        "time": "23:00",
+        "event": "MI • WYLD WEDNESDAY (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wyld-wednesday-16/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250827_WyldWednesday_4zu5.jpg"
     },
     {
         "date": "Mi, 27.08.2025",
@@ -1602,14 +1602,6 @@
         "link": "https://www.bielefeld.jetzt/node/1216557"
     },
     {
-        "date": "Fr, 29.08",
-        "time": "23:00",
-        "event": "FR• BLFD – SONDERVERANSTALTUNG (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-blfd-latin-edition-sonderveranstaltung-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250829_BLFD_4zu5.jpg"
-    },
-    {
         "date": "Fri, 29.08",
         "time": "23:00",
         "event": "end of summer - freitag (@stereobielefeld)",
@@ -1648,6 +1640,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 29.08",
+        "time": "23:00",
+        "event": "FR• BLFD – SONDERVERANSTALTUNG (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-blfd-latin-edition-sonderveranstaltung-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250829_BLFD_4zu5.jpg"
     },
     {
         "date": "Fr, 29.08.2025",
@@ -1839,14 +1839,6 @@
         "link": "https://www.bielefeld.jetzt/node/1115635"
     },
     {
-        "date": "Sa, 30.08",
-        "time": "23:00",
-        "event": "SA • IBIZA WHITE NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-ibiza-white-night-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250830_IbizaWhiteNight_4zu5.jpg"
-    },
-    {
         "date": "Sat, 30.08",
         "time": "23:00",
         "event": "END OF SUMMER - SAMSTAG (@stereobielefeld)",
@@ -1893,6 +1885,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 30.08",
+        "time": "23:00",
+        "event": "SA • IBIZA WHITE NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-ibiza-white-night-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250830_IbizaWhiteNight_4zu5.jpg"
     },
     {
         "date": "Sa, 30.08.2025",
@@ -2211,14 +2211,6 @@
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
-        "date": "Mi, 03.09",
-        "time": "23:00",
-        "event": "MI • WEINMARKT OPENING (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-weinmarkt-opening/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250903_Weinmarkt_Opening_4zu5.jpg"
-    },
-    {
         "date": "We, 03.09.2025",
         "time": "17:00",
         "event": "Art Night (@loom_bielefeld)",
@@ -2257,6 +2249,14 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 03.09",
+        "time": "23:00",
+        "event": "MI • WEINMARKT OPENING (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-weinmarkt-opening/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250903_Weinmarkt_Opening_4zu5.jpg"
     },
     {
         "date": "We, 03.09",
@@ -2349,16 +2349,6 @@
     },
     {
         "date": "Thu, 04.09.2025",
-        "time": "20:00",
-        "event": "80s-Frühparty! Turbo-Tanz-Treff (Münster) im Lola-Garten mit eavo (@Rote Lola)",
-        "category": "",
-        "description": "🥳 80s-Frühparty mit eavo im Lola-Garten.💃🏼 Du stehst auf Tanzen, aber bist keine Nachteule? Dann ist das hier was für dich: Jeden Donnerstag zwischen 20:00 und 23:00 Uhr wird die Rote Lola zum perfekten Tanzparadies für alle, die früh ins Bett wollen. Lass den Alltag hinter dir und schwing das Tanzbein mit uns! Im Sommer unter freiem Himmel, im Winter oder bei Regen drinnen.🎉 Freu dich am jeweils ersten Donnerstag im Monat auf drei Stunden 80s mit eavo.🔹 AK 5€. Einlass ab 23 Jahren.",
-        "link": "https://rausgegangen.de/en/events/80s-fruhparty-turbo-tanz-treff-munster-im-lola-garten-mit-ea-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aJ7Z0R4tSvCVc2peMH4q_turbotanztreffheader80s.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Thu, 04.09.2025",
         "time": "19:30",
         "event": "Sarah Buckley (IRL) + Nic Koray (Ruhrstadt) (@subrosa)",
         "category": "",
@@ -2368,12 +2358,14 @@
         "city": "Dortmund"
     },
     {
-        "date": "Fr, 05.09",
-        "time": "23:00",
-        "event": "FR• FRIDAYS FINEST x WEINMARKT AFTERSHOW (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-fridays-finest-x-weinmarkt-aftershow/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250905_Weinmarkt_FridaysFinest_4zu5.jpg"
+        "date": "Thu, 04.09.2025",
+        "time": "20:00",
+        "event": "80s-Frühparty! Turbo-Tanz-Treff (Münster) im Lola-Garten mit eavo (@Rote Lola)",
+        "category": "",
+        "description": "🥳 80s-Frühparty mit eavo im Lola-Garten.💃🏼 Du stehst auf Tanzen, aber bist keine Nachteule? Dann ist das hier was für dich: Jeden Donnerstag zwischen 20:00 und 23:00 Uhr wird die Rote Lola zum perfekten Tanzparadies für alle, die früh ins Bett wollen. Lass den Alltag hinter dir und schwing das Tanzbein mit uns! Im Sommer unter freiem Himmel, im Winter oder bei Regen drinnen.🎉 Freu dich am jeweils ersten Donnerstag im Monat auf drei Stunden 80s mit eavo.🔹 AK 5€. Einlass ab 23 Jahren.",
+        "link": "https://rausgegangen.de/en/events/80s-fruhparty-turbo-tanz-treff-munster-im-lola-garten-mit-ea-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aJ7Z0R4tSvCVc2peMH4q_turbotanztreffheader80s.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Fri, 05.09",
@@ -2406,6 +2398,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 05.09",
+        "time": "23:00",
+        "event": "FR• FRIDAYS FINEST x WEINMARKT AFTERSHOW (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-fridays-finest-x-weinmarkt-aftershow/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250905_Weinmarkt_FridaysFinest_4zu5.jpg"
     },
     {
         "date": "Fri, 05.09.2025",
@@ -2472,14 +2472,6 @@
         "link": "https://www.bielefeld.jetzt/node/1237968"
     },
     {
-        "date": "Sa, 06.09",
-        "time": "23:00",
-        "event": "SA • WEINMARKT SATURDAYS pres. JUIZZED (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-weinmarkt-saturdays-pres-juizzed/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250906_Weinmarkt_Saturdays_Juizzed_4zu5.jpg"
-    },
-    {
         "date": "Sat, 06.09",
         "time": "23:00",
         "event": "STEREOLOVE (@stereobielefeld)",
@@ -2518,6 +2510,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 06.09",
+        "time": "23:00",
+        "event": "SA • WEINMARKT SATURDAYS pres. JUIZZED (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-weinmarkt-saturdays-pres-juizzed/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250906_Weinmarkt_Saturdays_Juizzed_4zu5.jpg"
     },
     {
         "date": "Sa, 06.09.2025",
@@ -2723,14 +2723,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Mi, 10.09",
-        "time": "23:00",
-        "event": "MI • WET WEDNESDAY (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wet-wednesday-4/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250910_WetWednesday_4zu5.jpg"
-    },
-    {
         "date": "We, 10.09.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -2769,6 +2761,14 @@
         "category": "Ausgehen",
         "link": "https://www.instagram.com/diesdascomedy/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 10.09",
+        "time": "23:00",
+        "event": "MI • WET WEDNESDAY (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wet-wednesday-4/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250910_WetWednesday_4zu5.jpg"
     },
     {
         "date": "Mi, 10.09.2025",
@@ -2899,14 +2899,6 @@
         "link": "https://www.bielefeld.jetzt/node/1181538"
     },
     {
-        "date": "Fr, 12.09",
-        "time": "23:00",
-        "event": "FR • BACK TO 2000 • RAUM2: BLACKBOX (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-back-to-2000-raum2-blackbox-3/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250912_Backto2000_4zu5.jpg"
-    },
-    {
         "date": "Fri, 12.09",
         "time": "23:00",
         "event": "MoreCore Party Bielefeld - auf 3 Floors (@stereobielefeld)",
@@ -2945,6 +2937,14 @@
         "category": "Kreativität",
         "link": "https://kunsthalle-bielefeld.de/programm/veranstaltungen/#10209",
         "image_url": null
+    },
+    {
+        "date": "Fr, 12.09",
+        "time": "23:00",
+        "event": "FR • BACK TO 2000 • RAUM2: BLACKBOX (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-back-to-2000-raum2-blackbox-3/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250912_Backto2000_4zu5.jpg"
     },
     {
         "date": "Fr, 12.09.2025",
@@ -3006,14 +3006,6 @@
         "link": "https://www.bielefeld.jetzt/node/1237970"
     },
     {
-        "date": "Sa, 13.09",
-        "time": "23:00",
-        "event": "SA • GIRLS NIGHT OUT • RAUM2 : BOOTY BOUNCE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-girls-night-out-raum2-booty-bounce-9/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250913_GirlsNightOut_4zu5.jpg"
-    },
-    {
         "date": "Sat, 13.09",
         "time": "23:00",
         "event": "STEREOLOVE (@stereobielefeld)",
@@ -3052,6 +3044,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 13.09",
+        "time": "23:00",
+        "event": "SA • GIRLS NIGHT OUT • RAUM2 : BOOTY BOUNCE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-girls-night-out-raum2-booty-bounce-9/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250913_GirlsNightOut_4zu5.jpg"
     },
     {
         "date": "Sa, 13.09.2025",
@@ -3269,14 +3269,6 @@
         "city": "Dortmund"
     },
     {
-        "date": "Mi, 17.09",
-        "time": "23:00",
-        "event": "MI • BERGFEST (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-bergfest-19/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250917_Bergfest_4zu5.jpg"
-    },
-    {
         "date": "We, 17.09.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -3307,6 +3299,14 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 17.09",
+        "time": "23:00",
+        "event": "MI • BERGFEST (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-bergfest-19/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250917_Bergfest_4zu5.jpg"
     },
     {
         "date": "Mi, 17.09.2025",
@@ -3442,14 +3442,6 @@
         "link": "https://www.bielefeld.jetzt/node/1089501"
     },
     {
-        "date": "Fr, 19.09",
-        "time": "23:00",
-        "event": "FR • F*CK GENRES • RAUM2: BOOTY BOUNCE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-fck-genres-raum2-booty-bounce-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250919_fckgenres_4zu5.jpg"
-    },
-    {
         "date": "Fri, 19.09",
         "time": "23:00",
         "event": "WILDE HERZEN &amp; Peinlo Pop Party (@stereobielefeld)",
@@ -3480,6 +3472,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 19.09",
+        "time": "23:00",
+        "event": "FR • F*CK GENRES • RAUM2: BOOTY BOUNCE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-fck-genres-raum2-booty-bounce-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250919_fckgenres_4zu5.jpg"
     },
     {
         "date": "Fr, 19.09.2025",
@@ -3546,14 +3546,6 @@
         "link": "https://www.bielefeld.jetzt/node/1225360"
     },
     {
-        "date": "Sa, 20.09",
-        "time": "23:00",
-        "event": "SA • Back To The Roots mit KARYO & NOVA (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-back-to-the-roots-mit-karyo/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250920_BTTR_4zu5_NEU.jpg"
-    },
-    {
         "date": "Sat, 20.09",
         "time": "23:00",
         "event": "STEREOLOVE (@stereobielefeld)",
@@ -3594,24 +3586,12 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Sat, 20.09.2025",
-        "time": "19:00",
-        "event": "Ich fühl`s! Queere Comedy und Poetry (@Bei Ute brennt noch Licht)",
-        "category": "",
-        "description": "Keine Lust mehr auf diskriminierende Jokes und heteronormatives Gelaber? Ich fühl’s!Am 20.09. wird es wieder hilarious, sweet und queer in eurer Lieblingsbar Münsters bei Ute brennt noch Licht. Die nächste Ausgabe von “Ich fühl’s!” steht vor der sogenannten Tür und hat mehr fun im Gepäck, als dein letztes Tinderdate!Unsere Moderationsmaus Jana Goller hat sich Comedy-Acts und Slam Poetry eingeladen, die alle delivern ohne nach unten treten zu müssen (juhu!). Wir freuen uns auf eine Show zum lauthals lachen, zustimmend klatschen und neuen Crush entwickeln in der Pause (juhu x2!). Euch erwartet ein wilder Mix aus Stand Up Comedy, Spoken Word und spicy queer talk.In der Septemberausgabe mit dabei:Sophia Spitzenberg, auch bekannt als Hamburgs lustigste Frau mit Transitionshintergrund scheut vor keinem Thema zurück. Ob es um ihre kaputte mentale Gesundheit, ihre unterstützende aber auch unbeholfene Familie oder um JK Rowling geht, Sophia nimmt sich alles an. Stets mit pointierten Beobachtungen, brutaler Ehrlichkeit und etwas Absurdität gewappnet, Sophia hat auf alles eine schlaue Antwort... außer ihr Gaydar ist gefragt. Fabian ist aus der niedersächsischen Provinz ausgewandert und immerhin bis nach Köln gekommen. Eigentlich arbeitet er als Journalist und hat nur mit Comedy angefangen, um zur Abwechslung auch mal was Ernsthaftes zu machen. Auf der Bühne spricht er über die Merkwürdigkeiten deutscher Songtexte, wie seine Couch bei schwierigen Entscheidungen hilft und - wie sollte es anders sein - übers Daten.Sandra Felsner ist lustig! Und das sage ich nicht nur, weil ich ihr Pressetext bin. Die 23-Jährige ist jeden Tag auf der Bühne zu sehen und erobert die Herzen mit Geschichten über Kühe und Sprudelwasser.Leah Leaf liebt die Bühne: als Drag Artist, Demo Rednerin, Moderatorin der Tombola in der Kneipe um die Ecke oder natürlich als ✨Poetry Slammerin✨! Von dieser poetischen Seite wird sie sich auch bei dieser Veranstaltung zeigen, doch so ganz zurück halten kann sie ihre anderen Bühnencharaktere vielleicht auch nicht!Endlich wieder einen Abend Kultur gönnen, an dem wir einfach sein können, wie wir sind und all die Fühls gemeinsam teilen. Spread the news, kommt vorbei, bring your friends oder kommt allein- Hauptsache ihr fühlt euch (wohl). Das wird  so fetzig! 20.09. 18.30 Uhr Einlass, 19 Uhr BeginnBei Ute brennt noch LichtEmdener Straße 10, 48155 Münster",
-        "link": "https://rausgegangen.de/en/events/ich-fuhls-queere-comedy-und-poetry-6/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/duXHEqFWRZ6Yehw6J8qe_insta-post-cu-25-2-v1.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Sat, 20.09.2025",
+        "date": "Sa, 20.09",
         "time": "23:00",
-        "event": "Modern Love Münster - 80s New Wave, Synth & Pop im Hot Club (@Hot Jazz Club, Münster)",
-        "category": "",
-        "description": "🪩 Euch erwarten 80s-Smasher aus Synth, New Wave, Italo und Pop, aber natürlich auch der ein oder andere Geheimtipp.🎉 Außerdem: Findet ihr die immergleichen Hits und Reihenfolgen auch langweilig? Dann freut euch bei der Modern Love auf Abwechslung, Song-Überraschungen und viele eurer Musikwünsche, schön im Flow aufgelegt und mit passenden Übergängen.😻 Ach so, mein Name ist eavo. Ich bin schon seit vielen Jahren in den schönsten Clubs in ganz Deutschland unterwegs.  Ein Gast hat mich “eine DJ–gewordene Symbiose aus Nerd und Partymaschine“ genannt. Ob das stimmt? Mir hat's jedenfalls gefallen und eigentlich beschreibt es auch ganz gut, wen ich mit meinen Partys am liebsten erreiche.💃🏼 Wenn ihr mitmacht, wird's ne überragende Party, klebriger Fußboden und durchtanzte Schuhe inklusive.Kommt vorbei!Modern Love klingt wie: A Flock of Seagulls – a-ha – ABC – Alphaville – The B-52’s – The Bangles – Pat Benatar – Berlin – Blondie – B-Movie – Boytronic – Bronski Beat – David Bowie – Kate Bush – Camouflage – Anne Clark – The Communards – Culture Club – The Cure – Dead or Alive – Depeche Mode – Desireless – Duran Duran – Erasure – Eurythmics – Harold Faltermeyer – Falco – Frankie Goes To Hollywood – Freeez – Grauzone – Heaven 17 – Don Henley – Billy Idol – Howard Jones – The Housemartins – The Human League – Ideal – Indochine – INXS – Japan –Joy Division – Nik Kershaw – Cyndi Lauper – Les Immer Essen – Level 42 – Les Rita Mitsouko – Madness – Madonna – Men At Work – Men Without Hats – Miami Sound Machine - Midnight Oil – New Order – OMD – Ryan Paris – Pet Shop Boys – Pixies – Queen – Rainbirds – Righeira – Real Life – Rheingold – Les Rita Mitsouko – Michael Sembello – Simple Minds – Siouxsie And The Banshees – The Smiths – Soft Cell – Spandau Ballet – Talk Talk – Talking Heads – Tears for Fears – Trans X – U2 – Ultravox – Visage – Kim Wilde – Yazoo – Yello🌍 Mehr Infos inkl. Spotify-Listen auf www.eavo.de/modernlove/ 📷 www.instagram.com/__eavo__ 📘 www.facebook.com/neinmaschine🔹 AK 10 €🎟 Spare 20% beim Vorverkauf, indem du dich für meinen Newsletter anmeldest: www.eavo.de/NL! 🔹 VVK: Limitiertes Kontingent Earlybird-Tickets: 6€ zzgl. Gebühren bis 6 Tage vor dem Abend 🔹 Danach: 9€ zzgl. Gebühren bei rausgegangen.de.",
-        "link": "https://rausgegangen.de/en/events/modern-love-munster-80s-new-wave-synth-pop-im-hot-club-6/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FhENTY2rSjxtPE8m49wq_80sinternetneu-kopie.png?width=1200&height=900&mode=crop",
-        "city": "Münster"
+        "event": "SA • Back To The Roots mit KARYO & NOVA (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-back-to-the-roots-mit-karyo/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250920_BTTR_4zu5_NEU.jpg"
     },
     {
         "date": "Sat, 20.09.2025",
@@ -3642,6 +3622,26 @@
         "link": "https://rausgegangen.de/en/events/pop-girly-night-fzw-dortmund-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8jY3UBfsQROdW60wv7T0_2025-07-pgn-header.png?width=1200&height=900&mode=crop",
         "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 20.09.2025",
+        "time": "19:00",
+        "event": "Ich fühl`s! Queere Comedy und Poetry (@Bei Ute brennt noch Licht)",
+        "category": "",
+        "description": "Keine Lust mehr auf diskriminierende Jokes und heteronormatives Gelaber? Ich fühl’s!Am 20.09. wird es wieder hilarious, sweet und queer in eurer Lieblingsbar Münsters bei Ute brennt noch Licht. Die nächste Ausgabe von “Ich fühl’s!” steht vor der sogenannten Tür und hat mehr fun im Gepäck, als dein letztes Tinderdate!Unsere Moderationsmaus Jana Goller hat sich Comedy-Acts und Slam Poetry eingeladen, die alle delivern ohne nach unten treten zu müssen (juhu!). Wir freuen uns auf eine Show zum lauthals lachen, zustimmend klatschen und neuen Crush entwickeln in der Pause (juhu x2!). Euch erwartet ein wilder Mix aus Stand Up Comedy, Spoken Word und spicy queer talk.In der Septemberausgabe mit dabei:Sophia Spitzenberg, auch bekannt als Hamburgs lustigste Frau mit Transitionshintergrund scheut vor keinem Thema zurück. Ob es um ihre kaputte mentale Gesundheit, ihre unterstützende aber auch unbeholfene Familie oder um JK Rowling geht, Sophia nimmt sich alles an. Stets mit pointierten Beobachtungen, brutaler Ehrlichkeit und etwas Absurdität gewappnet, Sophia hat auf alles eine schlaue Antwort... außer ihr Gaydar ist gefragt. Fabian ist aus der niedersächsischen Provinz ausgewandert und immerhin bis nach Köln gekommen. Eigentlich arbeitet er als Journalist und hat nur mit Comedy angefangen, um zur Abwechslung auch mal was Ernsthaftes zu machen. Auf der Bühne spricht er über die Merkwürdigkeiten deutscher Songtexte, wie seine Couch bei schwierigen Entscheidungen hilft und - wie sollte es anders sein - übers Daten.Sandra Felsner ist lustig! Und das sage ich nicht nur, weil ich ihr Pressetext bin. Die 23-Jährige ist jeden Tag auf der Bühne zu sehen und erobert die Herzen mit Geschichten über Kühe und Sprudelwasser.Leah Leaf liebt die Bühne: als Drag Artist, Demo Rednerin, Moderatorin der Tombola in der Kneipe um die Ecke oder natürlich als ✨Poetry Slammerin✨! Von dieser poetischen Seite wird sie sich auch bei dieser Veranstaltung zeigen, doch so ganz zurück halten kann sie ihre anderen Bühnencharaktere vielleicht auch nicht!Endlich wieder einen Abend Kultur gönnen, an dem wir einfach sein können, wie wir sind und all die Fühls gemeinsam teilen. Spread the news, kommt vorbei, bring your friends oder kommt allein- Hauptsache ihr fühlt euch (wohl). Das wird  so fetzig! 20.09. 18.30 Uhr Einlass, 19 Uhr BeginnBei Ute brennt noch LichtEmdener Straße 10, 48155 Münster",
+        "link": "https://rausgegangen.de/en/events/ich-fuhls-queere-comedy-und-poetry-6/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/duXHEqFWRZ6Yehw6J8qe_insta-post-cu-25-2-v1.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Sat, 20.09.2025",
+        "time": "23:00",
+        "event": "Modern Love Münster - 80s New Wave, Synth & Pop im Hot Club (@Hot Jazz Club, Münster)",
+        "category": "",
+        "description": "🪩 Euch erwarten 80s-Smasher aus Synth, New Wave, Italo und Pop, aber natürlich auch der ein oder andere Geheimtipp.🎉 Außerdem: Findet ihr die immergleichen Hits und Reihenfolgen auch langweilig? Dann freut euch bei der Modern Love auf Abwechslung, Song-Überraschungen und viele eurer Musikwünsche, schön im Flow aufgelegt und mit passenden Übergängen.😻 Ach so, mein Name ist eavo. Ich bin schon seit vielen Jahren in den schönsten Clubs in ganz Deutschland unterwegs.  Ein Gast hat mich “eine DJ–gewordene Symbiose aus Nerd und Partymaschine“ genannt. Ob das stimmt? Mir hat's jedenfalls gefallen und eigentlich beschreibt es auch ganz gut, wen ich mit meinen Partys am liebsten erreiche.💃🏼 Wenn ihr mitmacht, wird's ne überragende Party, klebriger Fußboden und durchtanzte Schuhe inklusive.Kommt vorbei!Modern Love klingt wie: A Flock of Seagulls – a-ha – ABC – Alphaville – The B-52’s – The Bangles – Pat Benatar – Berlin – Blondie – B-Movie – Boytronic – Bronski Beat – David Bowie – Kate Bush – Camouflage – Anne Clark – The Communards – Culture Club – The Cure – Dead or Alive – Depeche Mode – Desireless – Duran Duran – Erasure – Eurythmics – Harold Faltermeyer – Falco – Frankie Goes To Hollywood – Freeez – Grauzone – Heaven 17 – Don Henley – Billy Idol – Howard Jones – The Housemartins – The Human League – Ideal – Indochine – INXS – Japan –Joy Division – Nik Kershaw – Cyndi Lauper – Les Immer Essen – Level 42 – Les Rita Mitsouko – Madness – Madonna – Men At Work – Men Without Hats – Miami Sound Machine - Midnight Oil – New Order – OMD – Ryan Paris – Pet Shop Boys – Pixies – Queen – Rainbirds – Righeira – Real Life – Rheingold – Les Rita Mitsouko – Michael Sembello – Simple Minds – Siouxsie And The Banshees – The Smiths – Soft Cell – Spandau Ballet – Talk Talk – Talking Heads – Tears for Fears – Trans X – U2 – Ultravox – Visage – Kim Wilde – Yazoo – Yello🌍 Mehr Infos inkl. Spotify-Listen auf www.eavo.de/modernlove/ 📷 www.instagram.com/__eavo__ 📘 www.facebook.com/neinmaschine🔹 AK 10 €🎟 Spare 20% beim Vorverkauf, indem du dich für meinen Newsletter anmeldest: www.eavo.de/NL! 🔹 VVK: Limitiertes Kontingent Earlybird-Tickets: 6€ zzgl. Gebühren bis 6 Tage vor dem Abend 🔹 Danach: 9€ zzgl. Gebühren bei rausgegangen.de.",
+        "link": "https://rausgegangen.de/en/events/modern-love-munster-80s-new-wave-synth-pop-im-hot-club-6/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FhENTY2rSjxtPE8m49wq_80sinternetneu-kopie.png?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Sat, 20.09.2025",
@@ -3774,14 +3774,6 @@
         "link": "https://www.bielefeld.jetzt/node/1243313"
     },
     {
-        "date": "Mi, 24.09",
-        "time": "22:00",
-        "event": "MI • WEDNESDATE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wednesdate-10/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250924_Wednesdate_4zu5.jpg"
-    },
-    {
         "date": "We, 24.09.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -3820,6 +3812,14 @@
         "category": "Ausgehen",
         "link": "https://www.instagram.com/diesdascomedy/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 24.09",
+        "time": "22:00",
+        "event": "MI • WEDNESDATE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wednesdate-10/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250924_Wednesdate_4zu5.jpg"
     },
     {
         "date": "Mi, 24.09",
@@ -3913,22 +3913,6 @@
         "link": "https://www.bielefeld.jetzt/node/955618"
     },
     {
-        "date": "Fr, 26.09",
-        "time": "17:00",
-        "event": "FR • TURBO TRASH (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-turbo-trash-5/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250926_Turbotrash_4zu5.jpg"
-    },
-    {
-        "date": "Fr, 26.09",
-        "time": "17:00",
-        "event": "FR • TURBO TRASH (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sanapa-die-samstag-nachmittags-party-ab-17-uhr/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250926_Turbotrash_4zu5.jpg"
-    },
-    {
         "date": "Fri, 26.09",
         "time": "23:00",
         "event": "Studi Pop! (@stereobielefeld)",
@@ -3967,6 +3951,22 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 26.09",
+        "time": "17:00",
+        "event": "FR • TURBO TRASH (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-turbo-trash-5/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250926_Turbotrash_4zu5.jpg"
+    },
+    {
+        "date": "Fr, 26.09",
+        "time": "17:00",
+        "event": "FR • TURBO TRASH (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sanapa-die-samstag-nachmittags-party-ab-17-uhr/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250926_Turbotrash_4zu5.jpg"
     },
     {
         "date": "Fri, 26.09.2025",
@@ -4024,14 +4024,6 @@
         "link": "https://www.bielefeld.jetzt/node/1225362"
     },
     {
-        "date": "Sa, 27.09",
-        "time": "23:00",
-        "event": "SA • LOVE SATURDAYS x COCKTAIL NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-cocktail-night-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250927_LoveSaturdays_Cocktail_4zu5.jpg"
-    },
-    {
         "date": "Sat, 27.09",
         "time": "23:00",
         "event": "Freundeskreisparty (@stereobielefeld)",
@@ -4078,6 +4070,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 27.09",
+        "time": "23:00",
+        "event": "SA • LOVE SATURDAYS x COCKTAIL NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-cocktail-night-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250927_LoveSaturdays_Cocktail_4zu5.jpg"
     },
     {
         "date": "Sa, 27.09",
@@ -4276,14 +4276,6 @@
         "image_url": null
     },
     {
-        "date": "Do, 02.10",
-        "time": "21:00",
-        "event": "DO• 95 JAHRE CAFE EUROPA (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/do-95-jahre-cafe-europa/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20251002_95Jahre_Cafe_1zu1-1.jpg"
-    },
-    {
         "date": "Thu, 02.10",
         "time": "22:00",
         "event": "FΛTΞ ◎ INDOOR BLACK MUSIC FESTIVAL ◎ (@stereobielefeld)",
@@ -4330,6 +4322,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Do, 02.10",
+        "time": "21:00",
+        "event": "DO• 95 JAHRE CAFE EUROPA (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/do-95-jahre-cafe-europa/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20251002_95Jahre_Cafe_1zu1-1.jpg"
     },
     {
         "date": "Th, 02.10",
@@ -4739,14 +4739,6 @@
         "link": "https://www.bielefeld.jetzt/node/1162363"
     },
     {
-        "date": "Sa, 11.10",
-        "time": "23:00",
-        "event": "SA• BAUSA LIVE presented by BLFD • CLUBSHOW AB 21 UHR & AFTERSHOW PARTY AB 24 UHR (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-bausa-live-presented-by-blfd-clubshow-ab-21-uhr-aftershow-party-ab-24-uhr/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/IMG_8739-1.jpeg"
-    },
-    {
         "date": "Sa, 11.10.2025",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -4777,6 +4769,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 11.10",
+        "time": "23:00",
+        "event": "SA• BAUSA LIVE presented by BLFD • CLUBSHOW AB 21 UHR & AFTERSHOW PARTY AB 24 UHR (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-bausa-live-presented-by-blfd-clubshow-ab-21-uhr-aftershow-party-ab-24-uhr/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/07/IMG_8739-1.jpeg"
     },
     {
         "date": "Sa, 11.10",
