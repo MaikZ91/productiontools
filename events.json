@@ -17,6 +17,30 @@
     },
     {
         "date": "Sa, 06.09.2025",
+        "time": "08:00",
+        "event": "Wandern(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38176",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 06.09.2025",
+        "time": "10:00",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36263",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 06.09.2025",
+        "time": "11:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 06.09.2025",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
         "category": "Sport",
@@ -46,30 +70,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sa, 06.09.2025",
-        "time": "08:00",
-        "event": "Wandern(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38176",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 06.09.2025",
-        "time": "10:00",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36263",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 06.09.2025",
-        "time": "11:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Sa, 06.09.2025",
@@ -111,6 +111,46 @@
         "link": "https://rausgegangen.de/en/events/techno-rulez-pres-alfred-heinrichs-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/KaAz6okYQDODoREiJytJ_technorulezalfred-heinrichs.png?width=1200&height=900&mode=crop",
         "city": "Münster"
+    },
+    {
+        "date": "Sat, 06.09.2025",
+        "time": "12:00",
+        "event": "Street Food Festival Dortmund (@Revierpark Wischlingen)",
+        "category": "",
+        "description": "Bunt, lecker und entspannt – ein Wochenende voller Geschmack, Musik und Sommerflair 🌞",
+        "link": "https://rausgegangen.de/en/events/street-food-festival-dortmund-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/DLevS1GFQXS6G25XPMEB_img1419.jpeg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 06.09.2025",
+        "time": "14:00",
+        "event": "Summersounds DJ Picknicks (@Phoenix See)",
+        "category": "",
+        "description": "An insgesamt sieben Samstagen im Sommer ziehen wir mit Sack und Pack durch die Parks. Der DJ legt die passenden Sommersounds auf, am Wegesrand gibt es Food & Drinks und mit dabei ist immer ein Sport -oder Funangebot.",
+        "link": "https://rausgegangen.de/en/events/summersounds-dj-picknicks-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Sn2OynVjSaiwhfgNwzsx_pheonix-see-020820251.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 06.09.2025",
+        "time": "15:00",
+        "event": "Sunset Picknick 2025 (@Landschaftspark Hoheward)",
+        "category": "",
+        "description": "Chillige Beats unter freiem Himmel bei beeindruckender Kulisse. Die Halde Hoheward lockt am  09. September 2025 wieder alle, die bei Sunset-Vibes eine gute Zeit verbringen wollen. Genießt den Rundblick über das Ruhrgebiet zu stimmungsvollen elektronischen Klängen.Das SunsetPicknick setzt bei der Musikauswahl auf eine Mischung aus lokalen und überregionalen Acts. Die kostenfreie Veranstaltung beginnt um 15.00 Uhr und endet um 23.00 Uhr. Timetable:15:00 - 17:00 Uhr: PALMFAX17:00 - 19:00 Uhr: Man at Arms & Tiko19:00 - 21:00 Uhr: KLANGLOS21:00 - 23:00 Uhr: Ante Perry  Im Anschluss findet die Sunset Picknick After-Show-Party in der Motorworld auf der Zeche Ewald in Herten statt. Diese bietet mit DJs ein Anschlussprogramm in Sachen Techno, direkt am Fuße der Halde Hoheward.",
+        "link": "https://rausgegangen.de/en/events/sunset-picknick-2024-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lx1SrkRHTdCn1HYwDS5w_sunset-picknick-2022ravi-sejk2036.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 06.09.2025",
+        "time": "22:00",
+        "event": "𝗧𝘂𝗻𝗻𝗲𝗹𝗕𝗹𝗶𝗰𝗸 𝗞𝗹𝘂𝗯𝗻𝗮𝗰𝗵𝘁 - TECHNO (@Stollen134 - Techno Club Dortmund)",
+        "category": "",
+        "description": "TunnelBlick Klubnacht Ein Zusammentreffen von Kunst und Bass!📅 09.06. ⏰ 22 – 06 Uhr 📍 Stollen134, Dortmund🌀 Vor dem Rave (ab 16 Uhr / KOSTENLOS!): 👉 Aufbau + kleine Ausstellung im Stollen 👉 Austausch über Eventplanung, Deko & Umsetzung 👉 Live modularer Techno von ALXDPOLineUp: Aljosha Depth Key (Vinyl Only) Émile B2B BassVersteck Olek Groshka (Hybrid Set) Nachtaktiv Kerrosin (FLINTA* DJ CONTEST WINNER 🖤)Genres: (Hard) Groove | Techno | Proper Techno | Schranz | Acid Kommt früh, bleibt lange – wir feiern gemeinsam bis tief in den Morgen. 🔥",
+        "link": "https://rausgegangen.de/en/events/tunnelblick-klubnacht-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/2SyCKuUaQYCfWru5C2hH_rausgeangen-cover-tunnelblick.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Sat, 06.09.2025",
@@ -214,46 +254,6 @@
     },
     {
         "date": "Sat, 06.09.2025",
-        "time": "12:00",
-        "event": "Street Food Festival Dortmund (@Revierpark Wischlingen)",
-        "category": "",
-        "description": "Bunt, lecker und entspannt – ein Wochenende voller Geschmack, Musik und Sommerflair 🌞",
-        "link": "https://rausgegangen.de/en/events/street-food-festival-dortmund-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/DLevS1GFQXS6G25XPMEB_img1419.jpeg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 06.09.2025",
-        "time": "14:00",
-        "event": "Summersounds DJ Picknicks (@Phoenix See)",
-        "category": "",
-        "description": "An insgesamt sieben Samstagen im Sommer ziehen wir mit Sack und Pack durch die Parks. Der DJ legt die passenden Sommersounds auf, am Wegesrand gibt es Food & Drinks und mit dabei ist immer ein Sport -oder Funangebot.",
-        "link": "https://rausgegangen.de/en/events/summersounds-dj-picknicks-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Sn2OynVjSaiwhfgNwzsx_pheonix-see-020820251.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 06.09.2025",
-        "time": "15:00",
-        "event": "Sunset Picknick 2025 (@Landschaftspark Hoheward)",
-        "category": "",
-        "description": "Chillige Beats unter freiem Himmel bei beeindruckender Kulisse. Die Halde Hoheward lockt am  09. September 2025 wieder alle, die bei Sunset-Vibes eine gute Zeit verbringen wollen. Genießt den Rundblick über das Ruhrgebiet zu stimmungsvollen elektronischen Klängen.Das SunsetPicknick setzt bei der Musikauswahl auf eine Mischung aus lokalen und überregionalen Acts. Die kostenfreie Veranstaltung beginnt um 15.00 Uhr und endet um 23.00 Uhr. Timetable:15:00 - 17:00 Uhr: PALMFAX17:00 - 19:00 Uhr: Man at Arms & Tiko19:00 - 21:00 Uhr: KLANGLOS21:00 - 23:00 Uhr: Ante Perry  Im Anschluss findet die Sunset Picknick After-Show-Party in der Motorworld auf der Zeche Ewald in Herten statt. Diese bietet mit DJs ein Anschlussprogramm in Sachen Techno, direkt am Fuße der Halde Hoheward.",
-        "link": "https://rausgegangen.de/en/events/sunset-picknick-2024-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lx1SrkRHTdCn1HYwDS5w_sunset-picknick-2022ravi-sejk2036.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 06.09.2025",
-        "time": "22:00",
-        "event": "𝗧𝘂𝗻𝗻𝗲𝗹𝗕𝗹𝗶𝗰𝗸 𝗞𝗹𝘂𝗯𝗻𝗮𝗰𝗵𝘁 - TECHNO (@Stollen134 - Techno Club Dortmund)",
-        "category": "",
-        "description": "TunnelBlick Klubnacht Ein Zusammentreffen von Kunst und Bass!📅 09.06. ⏰ 22 – 06 Uhr 📍 Stollen134, Dortmund🌀 Vor dem Rave (ab 16 Uhr / KOSTENLOS!): 👉 Aufbau + kleine Ausstellung im Stollen 👉 Austausch über Eventplanung, Deko & Umsetzung 👉 Live modularer Techno von ALXDPOLineUp: Aljosha Depth Key (Vinyl Only) Émile B2B BassVersteck Olek Groshka (Hybrid Set) Nachtaktiv Kerrosin (FLINTA* DJ CONTEST WINNER 🖤)Genres: (Hard) Groove | Techno | Proper Techno | Schranz | Acid Kommt früh, bleibt lange – wir feiern gemeinsam bis tief in den Morgen. 🔥",
-        "link": "https://rausgegangen.de/en/events/tunnelblick-klubnacht-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/2SyCKuUaQYCfWru5C2hH_rausgeangen-cover-tunnelblick.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 06.09.2025",
         "time": "11:00",
         "event": "Blankeneser Straßenfest (@Bahnhofstraße Blankenese)",
         "category": "",
@@ -351,76 +351,6 @@
         "link": "https://rausgegangen.de/en/events/united-bunker-season-opening-w-aerea-live-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/yDmtLKK2Tj6jckqQkAbL_uniteduebel0609maininfoxceed.jpg?width=1200&height=900&mode=crop",
         "city": "Hamburg"
-    },
-    {
-        "date": "Sat, 06.09.2025",
-        "time": "11:00",
-        "event": "Park & Play | Healing With The Homies | Pilates Flow for BIPoC (@Tempelhofer Feld)",
-        "category": "",
-        "description": "Come and join our last Park & Play session for BIPoC this summer season. We’ll start with a Pilates Flow guided by @okaykarls and end the session with a community potluck. 🦋🧘🏾‍♀️🪷Date: 6th September, 11 am - 2 pm  Location: Tempelhofer Feld (exact location via mail)Free of charge - just bring an item of food 🥗🧆🍇🫐Registration via @rootsbrln direct message 💌",
-        "link": "https://rausgegangen.de/en/events/park-play-healing-with-the-homies-pilates-flow-for-bipoc-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/gCp1y0CQd2Elx1b2N1Tj_1.jpeg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sat, 06.09.2025",
-        "time": "12:00",
-        "event": "Kiez bleibt! (@Bunte Kuh Gelände)",
-        "category": "",
-        "description": "🌱 Einladung zum Sommerfest „Kiez bleibt!“ 🌱Am Samstag, den 06.09.2025, verwandeln wir Weißensee in einen lebendigen Ort voller Musik, Austausch und Gemeinschaft. Wir laden euch herzlich ein, mit uns ein solidarisches Fest zu feiern für Zusammenhalt, Kultur und Selbstbestimmung in unserem Kiez und gegen Verdrängung, Kürzungen und rechte Strukturen.Euch erwartet ein vielfältiges Programm: 🎶 Live-Musik & Open Mic – Bühne frei für politische Stimmen, lokale Künstlerinnen und alle, die etwas teilen wollen. 🎙 Podiumsdiskussionen – hört Nachbar*innen, Initiativen und Aktive, die über Gentrifizierung, soziale Kämpfe und Alternativen sprechen. 🎨 Workshops & Kunstaktionen – Graffiti, Zirkus und kreative Mitmachformate für Groß & Klein. 🎪 Kinderbereich – Hüpfburg, Schminken & politische Tattoos. 📣 Infostände & Austausch – lernt Initiativen kennen, die im Kiez aktiv sind.Dieses Fest soll nicht nur Freude machen, sondern auch Mut geben und Netzwerke stärken. Es geht darum, Nachbarschaft sichtbar zu machen, Perspektiven auszutauschen und Räume zu schaffen, in denen Solidarität praktisch wird📍 Ort: Bunte Kuh (Bernkastlerstr. 78) & JAspace (Neumagener Str. 13), Berlin-Weißensee ⏰ Zeit: 12:00 – 21:00 Uhr plus AftershowKommt vorbei, bringt Freund*innen, Nachbar*innen und Familien mit und feiert mit uns ein Fest, das zeigt: Unser Kiez bleibt – vielfältig, laut und solidarisch!",
-        "link": "https://rausgegangen.de/en/events/kiez-bleibt-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/48KkphzyTHSFVxlCn1lc_06092025-prasentation.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sat, 06.09.2025",
-        "time": "12:00",
-        "event": "Frizzante - The most Italian Food & Wine Festival Berlin (@St. Elisabeth-Kirche)",
-        "category": "",
-        "description": "Italienische Leckereien, gute Weine und echtes Dolce Vita warten auf dich 🍷🍋. Schlendere über den Markt, probiere dich durch Spezialitäten und lass dich von spannenden Workshops inspirieren. Dazu gibt’s Musik, Geschichten und die beste Stimmung unter freiem Himmel 🇮🇹✨.",
-        "link": "https://rausgegangen.de/en/events/frizzante-the-most-italian-food-wine-festival-berlin-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4D5bzloFSBSC3wlLwTnb_20240921tipfoodfestivalfaschaap0323.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sat, 06.09.2025",
-        "time": "16:00",
-        "event": "Berlin trifft Brasilien (@Alimentari Totti)",
-        "category": "",
-        "description": "Berlin trifft Brasilien!  PITÚ x TOTTI am 06.09. ab 16:00 Uhr.Free Caipi und Pitú-Pizza mit Shrimpy by PITÚ!  Good Music from DJ Trackselektor  Nice Art from Affe Kreuzberg",
-        "link": "https://rausgegangen.de/en/events/berlin-trifft-brasilien-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/uLmBdI2FQU22fo8iLxxB_2509-pit-totti-poster-ig-story-4.png?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sat, 06.09.2025",
-        "time": "18:00",
-        "event": "Les Siècles I (@Philharmonie - Großer Saal)",
-        "category": "",
-        "description": "Les Siècles bringt dir an einem Abend gleich zwei Konzerte voller Energie, Emotion und überraschender Perspektiven auf bekannte Meisterwerke. Mit der gefeierten Violinistin Isabelle Faust, der mitreißenden „Symphonie fantastique“ und Ausflügen bis in die französische Moderne erlebst du Musikgeschichte lebendig und frisch. Perfekt für alle, die Klassik neu entdecken wollen.",
-        "link": "https://rausgegangen.de/en/events/les-siecles-i-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/4gitzfpj6n20.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sat, 06.09.2025",
-        "time": "19:30",
-        "event": "SISTER QUEENS Sommer Screening (@Kiezkino am Mehringplatz)",
-        "category": "",
-        "description": "Das sagen die Veranstalter:innen:Sisterqueens begleitet Jamila (9), Rachel (11) und Faseeha (12) über 4 Jahre als Rapperinnen in Berlin. Sie rappen über soziale Ungerechtigkeit, Selbstbestimmung und definieren Feminismus Strophe für Strophe neu. Dabei werfen sie Fragen zur Identität, der Polizei und künstlerischem Schaffen auf.  Folge @sisterqueens_film für mehr Infos zum Film und alle Updates zur Kino Tour!",
-        "link": "https://rausgegangen.de/en/events/sister-queens-sommer-screening-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OovVstFTgKw9hU4zLQvv_bildschirmfoto-2025-07-30-um-104607.png?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sat, 06.09.2025",
-        "time": "21:00",
-        "event": "MARCO (Malayalam OmeU) // Fantasy Filmfest (@Zoo Palast)",
-        "category": "",
-        "description": "MARCOMarcos Bruder wurde in Säure aufgelöst. Hinter der Tat steckt ein Syndikat, das nun Marco eine Horde ruchloser Schergen auf den Hals hetzt. Doch davon lässt sich der rachsüchtige Hühne nicht beirren, sondern schwört: „Ich werde die Mörder in ihrem eigenen Blut baden!“ Unaufhaltsam prügelt, sticht, ballert und kettensägt er sich bis an die Spitze der Organisation.Was ist denn in die indische Filmindustrie gefahren!? Die Blutorgie KILL war schon nicht zimperlich. Dieses Mafiamassaker berserkert auf einer noch höheren Ebene! Haneef Adeni hat Gewaltopern wie THE RAID 2, JOHN WICK und John Woos Hongkong-Meisterwerke genau studiert und überholt sie um Kilometer: mit atemlosen Kamerafahrten und Gänsehaut verursachenden Zeitlupen; mit ultracoolen Sonnenbrillen und Autos sowie unzähligen brachialen Action-Sequenzen. Spätestens das bestialische Finale ist mit nichts mehr zu vergleichen, MARCO definiert „over-the-top” völlig neu. /// Marco wants to avenge his brother, who has been dissolved in acid by a syndicate. He beats, stabs, shoots, and chainsaws his way to the top of the syndicate. Indian director Haneef Adeni redefines what \"over the top\" means. He has closely studied THE RAID 2, JOHN WICK, and John Woo's Hong Kong masterpieces and surpasses them by miles: with breathless tracking shots, goosebump-inducing slow motion, and countless brutal action sequences.Film: Marco (Indien 2024) Regie: Haneef Adeni Darsteller: Unni Mukundan, Siddique, Jagadish, Kabir Duhan Singh Drehbuch: Haneef Adeni Dauer: 141 min Sprachfassung: Malayalam OmeUMore Infos & Tickets:fantasyfilmfest.comLetterboxdTikTokInstagramYouTube",
-        "link": "https://rausgegangen.de/en/events/marco-malayalam-omeu-fantasy-filmfest-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ol98sZx6QqOOM5epDMcO_marco.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
     },
     {
         "date": "Sat, 06.09.2025",
@@ -524,6 +454,76 @@
     },
     {
         "date": "Sat, 06.09.2025",
+        "time": "11:00",
+        "event": "Park & Play | Healing With The Homies | Pilates Flow for BIPoC (@Tempelhofer Feld)",
+        "category": "",
+        "description": "Come and join our last Park & Play session for BIPoC this summer season. We’ll start with a Pilates Flow guided by @okaykarls and end the session with a community potluck. 🦋🧘🏾‍♀️🪷Date: 6th September, 11 am - 2 pm  Location: Tempelhofer Feld (exact location via mail)Free of charge - just bring an item of food 🥗🧆🍇🫐Registration via @rootsbrln direct message 💌",
+        "link": "https://rausgegangen.de/en/events/park-play-healing-with-the-homies-pilates-flow-for-bipoc-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/gCp1y0CQd2Elx1b2N1Tj_1.jpeg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sat, 06.09.2025",
+        "time": "12:00",
+        "event": "Kiez bleibt! (@Bunte Kuh Gelände)",
+        "category": "",
+        "description": "🌱 Einladung zum Sommerfest „Kiez bleibt!“ 🌱Am Samstag, den 06.09.2025, verwandeln wir Weißensee in einen lebendigen Ort voller Musik, Austausch und Gemeinschaft. Wir laden euch herzlich ein, mit uns ein solidarisches Fest zu feiern für Zusammenhalt, Kultur und Selbstbestimmung in unserem Kiez und gegen Verdrängung, Kürzungen und rechte Strukturen.Euch erwartet ein vielfältiges Programm: 🎶 Live-Musik & Open Mic – Bühne frei für politische Stimmen, lokale Künstlerinnen und alle, die etwas teilen wollen. 🎙 Podiumsdiskussionen – hört Nachbar*innen, Initiativen und Aktive, die über Gentrifizierung, soziale Kämpfe und Alternativen sprechen. 🎨 Workshops & Kunstaktionen – Graffiti, Zirkus und kreative Mitmachformate für Groß & Klein. 🎪 Kinderbereich – Hüpfburg, Schminken & politische Tattoos. 📣 Infostände & Austausch – lernt Initiativen kennen, die im Kiez aktiv sind.Dieses Fest soll nicht nur Freude machen, sondern auch Mut geben und Netzwerke stärken. Es geht darum, Nachbarschaft sichtbar zu machen, Perspektiven auszutauschen und Räume zu schaffen, in denen Solidarität praktisch wird📍 Ort: Bunte Kuh (Bernkastlerstr. 78) & JAspace (Neumagener Str. 13), Berlin-Weißensee ⏰ Zeit: 12:00 – 21:00 Uhr plus AftershowKommt vorbei, bringt Freund*innen, Nachbar*innen und Familien mit und feiert mit uns ein Fest, das zeigt: Unser Kiez bleibt – vielfältig, laut und solidarisch!",
+        "link": "https://rausgegangen.de/en/events/kiez-bleibt-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/48KkphzyTHSFVxlCn1lc_06092025-prasentation.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sat, 06.09.2025",
+        "time": "12:00",
+        "event": "Frizzante - The most Italian Food & Wine Festival Berlin (@St. Elisabeth-Kirche)",
+        "category": "",
+        "description": "Italienische Leckereien, gute Weine und echtes Dolce Vita warten auf dich 🍷🍋. Schlendere über den Markt, probiere dich durch Spezialitäten und lass dich von spannenden Workshops inspirieren. Dazu gibt’s Musik, Geschichten und die beste Stimmung unter freiem Himmel 🇮🇹✨.",
+        "link": "https://rausgegangen.de/en/events/frizzante-the-most-italian-food-wine-festival-berlin-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4D5bzloFSBSC3wlLwTnb_20240921tipfoodfestivalfaschaap0323.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sat, 06.09.2025",
+        "time": "16:00",
+        "event": "Berlin trifft Brasilien (@Alimentari Totti)",
+        "category": "",
+        "description": "Berlin trifft Brasilien!  PITÚ x TOTTI am 06.09. ab 16:00 Uhr.Free Caipi und Pitú-Pizza mit Shrimpy by PITÚ!  Good Music from DJ Trackselektor  Nice Art from Affe Kreuzberg",
+        "link": "https://rausgegangen.de/en/events/berlin-trifft-brasilien-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/uLmBdI2FQU22fo8iLxxB_2509-pit-totti-poster-ig-story-4.png?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sat, 06.09.2025",
+        "time": "18:00",
+        "event": "Les Siècles I (@Philharmonie - Großer Saal)",
+        "category": "",
+        "description": "Les Siècles bringt dir an einem Abend gleich zwei Konzerte voller Energie, Emotion und überraschender Perspektiven auf bekannte Meisterwerke. Mit der gefeierten Violinistin Isabelle Faust, der mitreißenden „Symphonie fantastique“ und Ausflügen bis in die französische Moderne erlebst du Musikgeschichte lebendig und frisch. Perfekt für alle, die Klassik neu entdecken wollen.",
+        "link": "https://rausgegangen.de/en/events/les-siecles-i-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/4gitzfpj6n20.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sat, 06.09.2025",
+        "time": "19:30",
+        "event": "SISTER QUEENS Sommer Screening (@Kiezkino am Mehringplatz)",
+        "category": "",
+        "description": "Das sagen die Veranstalter:innen:Sisterqueens begleitet Jamila (9), Rachel (11) und Faseeha (12) über 4 Jahre als Rapperinnen in Berlin. Sie rappen über soziale Ungerechtigkeit, Selbstbestimmung und definieren Feminismus Strophe für Strophe neu. Dabei werfen sie Fragen zur Identität, der Polizei und künstlerischem Schaffen auf.  Folge @sisterqueens_film für mehr Infos zum Film und alle Updates zur Kino Tour!",
+        "link": "https://rausgegangen.de/en/events/sister-queens-sommer-screening-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OovVstFTgKw9hU4zLQvv_bildschirmfoto-2025-07-30-um-104607.png?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sat, 06.09.2025",
+        "time": "21:00",
+        "event": "MARCO (Malayalam OmeU) // Fantasy Filmfest (@Zoo Palast)",
+        "category": "",
+        "description": "MARCOMarcos Bruder wurde in Säure aufgelöst. Hinter der Tat steckt ein Syndikat, das nun Marco eine Horde ruchloser Schergen auf den Hals hetzt. Doch davon lässt sich der rachsüchtige Hühne nicht beirren, sondern schwört: „Ich werde die Mörder in ihrem eigenen Blut baden!“ Unaufhaltsam prügelt, sticht, ballert und kettensägt er sich bis an die Spitze der Organisation.Was ist denn in die indische Filmindustrie gefahren!? Die Blutorgie KILL war schon nicht zimperlich. Dieses Mafiamassaker berserkert auf einer noch höheren Ebene! Haneef Adeni hat Gewaltopern wie THE RAID 2, JOHN WICK und John Woos Hongkong-Meisterwerke genau studiert und überholt sie um Kilometer: mit atemlosen Kamerafahrten und Gänsehaut verursachenden Zeitlupen; mit ultracoolen Sonnenbrillen und Autos sowie unzähligen brachialen Action-Sequenzen. Spätestens das bestialische Finale ist mit nichts mehr zu vergleichen, MARCO definiert „over-the-top” völlig neu. /// Marco wants to avenge his brother, who has been dissolved in acid by a syndicate. He beats, stabs, shoots, and chainsaws his way to the top of the syndicate. Indian director Haneef Adeni redefines what \"over the top\" means. He has closely studied THE RAID 2, JOHN WICK, and John Woo's Hong Kong masterpieces and surpasses them by miles: with breathless tracking shots, goosebump-inducing slow motion, and countless brutal action sequences.Film: Marco (Indien 2024) Regie: Haneef Adeni Darsteller: Unni Mukundan, Siddique, Jagadish, Kabir Duhan Singh Drehbuch: Haneef Adeni Dauer: 141 min Sprachfassung: Malayalam OmeUMore Infos & Tickets:fantasyfilmfest.comLetterboxdTikTokInstagramYouTube",
+        "link": "https://rausgegangen.de/en/events/marco-malayalam-omeu-fantasy-filmfest-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ol98sZx6QqOOM5epDMcO_marco.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sat, 06.09.2025",
         "time": "10:00",
         "event": "GENIALE Geburtstagsparty (@Wissenswerkstadt Bielefeld)",
         "category": "Die Wissenswerkstadt wird ein Jahr alt!",
@@ -586,22 +586,6 @@
         "link": "https://www.bielefeld.jetzt/node/1225356"
     },
     {
-        "date": "Su, 07.09.2025",
-        "time": "19:00",
-        "event": "*TRIBE KENNENLERNABEND*",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Su, 07.09.2025",
-        "time": "09:00",
-        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/uprunningclub/?hl=de",
-        "image_url": null
-    },
-    {
         "date": "So, 07.09.2025",
         "time": "09:00",
         "event": "Yoga(@hochschulsport_bielefeld)",
@@ -624,6 +608,22 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37043",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Su, 07.09.2025",
+        "time": "19:00",
+        "event": "*TRIBE KENNENLERNABEND*",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Su, 07.09.2025",
+        "time": "09:00",
+        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/uprunningclub/?hl=de",
+        "image_url": null
     },
     {
         "date": "Sun, 07.09.2025",
@@ -838,146 +838,6 @@
     {
         "date": "Sun, 07.09.2025",
         "time": "11:00",
-        "event": "Social Reading Party mit Pausify (@EDGE Workspaces / Grand Central Berlin)",
-        "category": "",
-        "description": "Bring dein aktuelles Buch zum Lesen mit (oder ein kreatives Projekt, an dem du arbeiten möchtest 📚🎨🧵) und sei dabei bei dieser Mischung aus gemeinsamer Fokuszeit und anregenden Gesprächen.📍 Invalidenstraße 65, 10557 Berlin (EDGE Workspaces)11:00–11:30 – Meet & Greet11:30–12:30 – Stille Fokuszeit12:30–13:30 – Austausch über Bücher/Projekte bei KaffeeBleib danach gerne zum Mittagessen mit anderen – oder komm einfach beim nächsten Mal wieder vorbei! Bilder und Videos von unseren Events findest du auf Instagram:Pausify InstagramPS: Warum kostet das etwas, wenn ich mein eigenes Project/ Buch mitbringe?Weil wir für jedes Event einen schönen, zentralen Raum anmieten. Falls du schon mal gedacht hast, deine monatliche Wohnungsmiete ist zu hoch – Gewerbemieten in Berlin kosten ein Vielfaches pro Stunde.Wenn du einfach nur in Ruhe für dich sein möchtest, ist natürlich auch dein Zuhause oder die Bibliothek dafür perfekt! Aber wenn du dich gemeinsam mit anderen in einem inspirierenden Raum konzentrieren und austauschen möchtest – mit Getränken & Snacks inklusive – dann hilft dein Ticket, das möglich zu machen.Pausify Website  Bitte beachte, dass während der Veranstaltung Fotos und Videos gemacht werden können, die zu Werbezwecken genutzt werden, um Eindrücke von unseren Events zu teilen. Falls du Bedenken hast, sprich uns bitte vor der Veranstaltung an. Danke!",
-        "link": "https://rausgegangen.de/en/events/social-reading-party-mit-pausify-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/HG0Qfxi6TvGvYxBgDCLQ_20250525115221.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sun, 07.09.2025",
-        "time": "12:00",
-        "event": "Roda de Feijoada - Pool Party (@MAAYA)",
-        "category": "",
-        "description": "RODA DE FEIJOADA #53  POOL PARTY  Sunday September 7, 2025  Doors:12h00 / midday End: 10pm  Berlin MAAYA Revaler Str. 99  Kids until 11 years old and birthday guests of the month enjoy FREE ENTRY  The Roda de Feijoada is back for the last Pool Party edition at MAAYA!Join us on Sunday, September 7 for one final open-air celebration of samba, Brazilian food, and good vibes at MAAYA Berlin. This is your last chance this season to enjoy Roda de Samba by the pool, with that special mix of music, dancing, and community.  Program:Live Roda de SambaDJ Killa sets throughout the daySamba de Gafieira Workshop with Carlos FrevoKids activitiesCaipirinha We offer an amazing Caipi Bar.  Food Traditional and vegan feijoada, picanha, pastel, traditional and vegan coxinha, brigadeiro, and other Brazilian sweets. Please note: food and drinks are sold separately and are not included in the ticket price.  Kids Activities: We offer a special kids’ area with fun activities and a bouncy castle.  Birthdays: Want to celebrate your birthday with us? Send an email to info@bossafm.com and tell us your idea!September birthday guests get FREE ENTRY. Just show a valid photo ID at the door.",
-        "link": "https://rausgegangen.de/en/events/roda-de-feijoada-pool-party-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7H8SU4WWS5urIPSPKx5G_roda-de-feijoadasiteazul.jpeg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sun, 07.09.2025",
-        "time": "13:45",
-        "event": "GET SHORTY // Kurzfilmwettbewerb des Fantasy Filmfest (@Zoo Palast)",
-        "category": "",
-        "description": "GET SHORTYIm Rahmen des Programms GET SHORTY vergibt das Fantasy Filmfest einen Preis für den besten Kurzfilm. Die Zuschauer:innen entscheiden per Stimmkarte, welcher der ausgewählten Shorts ihr Favorit ist. Der Kurzfilmpreis wird von Filmstarts.de präsentiert und gestiftet und beinhaltet ein Preisgeld von 2.000 €. Das Preisgeld geht an den/die Regisseur:in. /// As part of its GET SHORTY section the Fantasy Filmfest gives out an award for the Best Short Film. The audience decides by voting card which of the selected short films is their favourite. The Short Film Award is presented and sponsored by Filmstarts.de and comes with a prize money of 2.000 euro which goes to the director. More Infos & Tickets:fantasyfilmfest.comLetterboxdTikTokInstagramYouTube",
-        "link": "https://rausgegangen.de/en/events/get-shorty-kurzfilmwettbewerb-des-fantasy-filmfest-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OpfppSkCSEiSI8Nnc02R_get-sh.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sun, 07.09.2025",
-        "time": "14:00",
-        "event": "Oewersause im gART.n (@gARTn)",
-        "category": "",
-        "description": "Die Blätter färben sich gelb und der gART.n wird bunt – wir starten aber nochmal richtig durch im letzten Veranstaltungsmonat des gART.ns, den September.  Die vorletzte OewerSause findet mit folgenden Künstler*innen statt  Kermesse *live https://soundcloud.com/kermesselive  Rakäthe https://soundcloud.com/thisisrakaethe  Zoe Reijue *live https://soundcloud.com/zoe-reijuenorahttps://soundcloud.com/einfachnora",
-        "link": "https://rausgegangen.de/en/events/oewersause-im-gartn-11/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/0WpKgYNQkCUfzBWlDwYA_oewersause2025fbbanner820x312.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sun, 07.09.2025",
-        "time": "15:00",
-        "event": "KATERMUKKE - OX BERG OPEN AIR w. Dirty Doering, Niconé, Ante Perry, Sunlast @ FestsaalKreuzberg (@Festsaal Kreuzberg)",
-        "category": "",
-        "description": "Sunday Funday - mit KATERMUKKE u Dirty Doering, Niconé, Ante Perry und SUNLAST  Berlin, der Sommer ist heiß – und wir laden euch herzlich zu unserem finalen KATERMUKKE Open Air im Festsaal Kreuzberg ein! Die dritte Ausgabe unseres  OX BERG Open Air x Festsaal Kreuzberg steigt am 07. September – und es wird wieder ein Riesenspaß!LINE-UP🎶 DIRTY DOERING🎶 NICONÉ🎶 ANTE PERRY🎶 SUNLASTWas euch erwartet:Die besten Stunden voller Beats, Open-Air-Magie und dem unverwechselbaren Katermukke-Vibe – mitten im Herzen von Kreuzberg. Schnappt euch eure Crew, packt eure besten Moves ein und lasst uns die Saison gebührend ausklingen lassen.Tickets für euch von uns!🎟️ 10,- EUR + VVK online🎟️ 13,- EUR an der TageskasseWir sehen uns im Festsaal Kreuzberg!",
-        "link": "https://rausgegangen.de/en/events/katermukke-ox-berg-open-air-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/VVb3IlKwSkSja1slPKg4_2.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sun, 07.09.2025",
-        "time": "15:30",
-        "event": "Laura Lee & The Jettes - Afternoon Show (@LARK)",
-        "category": "",
-        "description": "Afternoon show: Einlass: 15.30h, Beginn: 16.30hEvening show: Einlass: 19.30h, Beginn: 20.30hLaura Lee, auch bekannt als eine Hälfte des international gefeierten Indie-Rock-Duos Gurr, tritt erneut ins Rampenlicht – diesmal als Frontfrau und Chef-Songwriterin von Laura Lee & the Jettes. Das zweite Album “Tough Love Paradigm” erscheint am 5. September, dazu spielt die Band Release-Konzerte.Das zweite Album von Laura Lee & the Jettes ist eine mutige Weiterentwicklung. Hier trifft angegrungter Indie-Pop auf Riot-Grrrl-Attitude mit Alternative-Rock-Melancholie und großen Hooks. Cooler klingt derzeit wohl keine Band aus Deutschland. Dafür sorgen auch der lebendig detaillierte Mix von Collin Dupuis (u.a. Lana Del Rey, Angel Olsen, St. Vincent) und der britischen Underground-Legende Rhys Edwards von Ulrika Spacek.Die ersten Singles wurden bereits erfolgreich auf Radiosendern wie KEXP, FluxFM, Radio Eins oder Deutschlandfunk Nova gespielt, stiegen in die US-College-Radio Charts ein und wurden von Medien wie VISIONS oder DIFFUS gefeiert.Inhaltlich machen Laura Lee & The Jettes neue Felder auf: \"Unsolicited Advice\" zitiert ungebetene Ratschläge, die Laura als Mutter von Männern bekommen hat, \"Tough Love Paradigm\" behandelt Grenzerfahrungen der Liebe, die neue Single \"Ordinary People\" möchte in hoffnungslosen Zeiten vermitteln: \"it keeps on getting better\".Live präsentierte die Band neue Songs dieses Jahr unter anderem beim New Colossus Festival in New York City und ist Teil der offiziellen Auswahl des renommierten SXSW Festivals 2025 in Austin, Texas.Parallel dazu bleibt Laura auch als kreative Kraft außerhalb der Band aktiv – zuletzt mit einer autobiografischen Dokumentation von Vice, sowie musikalischen Arbeiten für Theaterproduktionen wie „Meister und Margarita“ am Schauspiel Leipzig.Mit neuer Energie, neuen Songs und einer klaren Vision beweist Laura Lee, dass sie weiterhin eine der spannendsten Stimmen der internationalen Indie-Szene ist. Zur Albumveröffentlichung spielen Laura Lee & The Jettes ein besonderes Konzert in Berlin: Die Band spielt gleich zweimal im Berliner Club LARK - Einmal tagsüber, so dass auch Familien und Kinder das Konzert besuchen können, einmal am Abend zur normalen Experience.",
-        "link": "https://rausgegangen.de/en/events/laura-lee-the-jettes-8/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/X0BgQpGCRxOTr1lVO0zM_laura-lee-the-jettes-by-kelsey-ayres.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sun, 07.09.2025",
-        "time": "18:00",
-        "event": "I Speak of Me As I Am - A Necessary In(ter)vention (@Ballhaus Prinzenallee)",
-        "category": "",
-        "description": "I Speak of Me As I Am - A Necessary In(ter)vention A temporary ensemble of artists (re)writing Shakespeare’s characters of colorBy MxCAT (QUEERDOS Kollektiv) and Ensemble Languages: English, Farsi, German...What does Shakespeare have to do with intervening in colonial violence? With erasure? With memory? With us? “I Speak of Me as I Am – A Necessary In(ter)vention” responds to these questions—and far more. Not from within the center of Europe, but from outside it: from West African, Persian, and Romani storytelling traditions. From biographies that have learned to breathe under the weight of the archive. This is a decolonial stage-body. We weave radically composed scores, sonnets, queer feminist myths, political manifestos, and oral wisdoms (proverbs) into a multilingual, resonant space. We do not take the stage as characters—we speak through and with them. Othello, Caliban, Cleopatra, and Lucy emerge both as echoes of colonial projection and as reverberations of historical and contemporary struggles for visibility, dignity, and belonging. We don’t just ask what Shakespeare’s texts can still tell us—we ask who is even allowed to tell them. In a time when self-representation is framed as a threat, and the erasure and censorship of racialized voices continues, we speak back. We invoke ancestors and voices from the 1989 revolution in East Germany—May Ayim, Audre Lorde, James Baldwin, Anton Wilhelm Amo. From insurgent bodies to marginalized narratives. Did the erasure really begin when the borders collapsed? Where were the Black girls in the ’89 footage? Where were the Arab sons of Neukölln? Why do I only see white faces celebrating freedom?What if we dove into a polyphonic network of voices, glances, breaths, and languages to shape a stage of shared responsibility? A space where literary visions are not only pursued, but challenged—as unfinished projects. This is not a place where we die to honor literature. This is a place where we speak to reclaim our lives. Afrofuturist poetry meets Persian love verses. Romani history meets Elizabethan pathos.Everything speaks. Everything answers.Trigger Warning: This performance contains themes of racial and colonial violence, partial nudity, historical oppression, and discussions of systemic discrimination. It also includes references to sexualized violence, displacement, and erasure. Viewer discretion is advised. Support resources will be available for those who may find the content distressing.Regie: MxCAT Regieassistenz: Cat Jones Dramaturgie: Aleo Arndt / Ife Aboluwade Schauspiel: Roxie Thiele Dogan, Ruby Engel, Mehrdad Gharibian, Elnathan John, Danya Harvey, Ännie Krippner   Musik: TRACE Bühne & Grafik: Noah Osarenren Kostüm: Periklis Lichtdesign: Sol Sebastian Solorzano Choreografische Unterstützung: Rob Fordeyn Sound Engineering: Legalmoney Studio Produktion: Cluster of Excellence “Africa Multiple” (University of Bayreuth) in cooperation with Ballhaus Prinzenallee Berlin and QUEERDOS Kollektiv.This performance is a cooperation with the Cluster of Excellence “Africa Multiple. Reconfiguring African Studies.”",
-        "link": "https://rausgegangen.de/en/events/i-speak-of-me-as-i-am-a-necessary-intervention-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/NILKppPStm3cbpb90jiz_i-speak-raus.png?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sun, 07.09.2025",
-        "time": "18:30",
-        "event": "Yakary (@Huxleys Neue Welt)",
-        "category": "",
-        "description": "Die einen sagen YAKARY ist endlich back. Doch seine große Fanbase weiß YAKARY war nie weg, sein Hype war nie tot und die Szene bekommt diesen einzigartigen Künstler auch nicht mehr los. Jede seiner Singles kommt ohne Ankündigung und PR Moves auf mehrere Millionen Streams. Dauerpräsenz in den heißesten Playlisten ist Standard für ihn und sein Label Life is Pain. Worauf unzählige Rapper seit Jahren schielen, holt sich Deutschlands ODB in einem Monat und endlich ist es auch soweit und der meist gehypte Künstler Deutschlands geht im September 2025 auf seine erste Deutschland Tour. Wer YAKARY Live erleben möchte sollte sich schnell ein Ticket holen, denn der Hype ist real und die Tickets sind rar.",
-        "link": "https://rausgegangen.de/en/events/yakary-8/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/sCKFGJ0ET2e3Wr2YdRJV_yakarygro84eventimfoto-credity-by-omer-furkan.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sun, 07.09.2025",
-        "time": "19:00",
-        "event": "Orchestra dell’Accademia Nazionale di Santa Cecilia (@Philharmonie - Großer Saal)",
-        "category": "",
-        "description": "Erlebe mit Daniel Harding und der Accademia Nazionale di Santa Cecilia einen Abend voller überraschender Klangwelten. Orchester, Chöre und die „Folk Songs“ von Magdalena Kožená sorgen für Gänsehaut und unvergessliche Momente.",
-        "link": "https://rausgegangen.de/en/events/orchestra-dellaccademia-nazionale-di-santa-cecilia-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/hm0x23oscec1.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sun, 07.09.2025",
-        "time": "19:00",
-        "event": "Ralf König: macht Männchen! (@BKA Theater)",
-        "category": "",
-        "description": "In diesem Jahr wird Ralf König 65 Jahre alt!Das klingt ernst, denn zum alten Sack mutieren gehört nicht zu seinen Lieblingsbeschäftigungen. Zudem zeichnet er seit 45 Jahren seine schwulen Nasen und bunte Comics über die Befindlichkeiten in der queeren Szene.Passender Anlass für ihn, mal wieder auf die BKA-Bühne zu treten und einen Querschnitt aus mehreren Jahrzehnten Comiczeichnerei zum Besten zu geben. Da gibt’s dann Pflaumenstürze und Sahneschnitten, ältere Klassiker und Neues frisch vom Zeichenbrett, da wird gekrischen und gegrunzt.Nach der Lesung werden gern Bücher signiert, kurz: Ralf König macht Männchen!",
-        "link": "https://rausgegangen.de/en/events/ralf-konig-macht-mannchen-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TBrzOentQxiEVlg9Rc58_ralf-koenig-foto-stefan-kraushaar-16-9.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sun, 07.09.2025",
-        "time": "19:30",
-        "event": "FERAL (@DOCK 11)",
-        "category": "",
-        "description": "Die Vokal-Ton-Performance setzt sich mit Prozessen von Sexualisierung, Objektivierung und Ermächtigung des persönlichen Vergnügens auseinander. Die Performerin erzählt die Geschichte ihrer persönlichen Reise, von einer hypersexualisierten Kindheit zu einer Erwachsenen, die Wege erforscht, Lust durch Dominanz, Sexarbeit und BDSM zu finden.In einer intimen Performance verschränkt sich Live-Sound mit Sex-Technologien zu einer Erzählung, in der FERAL zur Verteidigung des Objekts gegen den Menschen wird.",
-        "link": "https://rausgegangen.de/en/events/feral-6/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/b2a7e61cdfu0.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sun, 07.09.2025",
-        "time": "19:30",
-        "event": "Laura Lee & The Jettes - Evening Show (@LARK)",
-        "category": "",
-        "description": "Afternoon show: Einlass: 15.30h, Beginn: 16.30hEvening show: Einlass: 19.30h, Beginn: 20.30hLaura Lee, auch bekannt als eine Hälfte des international gefeierten Indie-Rock-Duos Gurr, tritt erneut ins Rampenlicht – diesmal als Frontfrau und Chef-Songwriterin von Laura Lee & the Jettes. Das zweite Album “Tough Love Paradigm” erscheint am 5. September, dazu spielt die Band Release-Konzerte.Das zweite Album von Laura Lee & the Jettes ist eine mutige Weiterentwicklung. Hier trifft angegrungter Indie-Pop auf Riot-Grrrl-Attitude mit Alternative-Rock-Melancholie und großen Hooks. Cooler klingt derzeit wohl keine Band aus Deutschland. Dafür sorgen auch der lebendig detaillierte Mix von Collin Dupuis (u.a. Lana Del Rey, Angel Olsen, St. Vincent) und der britischen Underground-Legende Rhys Edwards von Ulrika Spacek.Die ersten Singles wurden bereits erfolgreich auf Radiosendern wie KEXP, FluxFM, Radio Eins oder Deutschlandfunk Nova gespielt, stiegen in die US-College-Radio Charts ein und wurden von Medien wie VISIONS oder DIFFUS gefeiert.Inhaltlich machen Laura Lee & The Jettes neue Felder auf: \"Unsolicited Advice\" zitiert ungebetene Ratschläge, die Laura als Mutter von Männern bekommen hat, \"Tough Love Paradigm\" behandelt Grenzerfahrungen der Liebe, die neue Single \"Ordinary People\" möchte in hoffnungslosen Zeiten vermitteln: \"it keeps on getting better\".Live präsentierte die Band neue Songs dieses Jahr unter anderem beim New Colossus Festival in New York City und ist Teil der offiziellen Auswahl des renommierten SXSW Festivals 2025 in Austin, Texas.Parallel dazu bleibt Laura auch als kreative Kraft außerhalb der Band aktiv – zuletzt mit einer autobiografischen Dokumentation von Vice, sowie musikalischen Arbeiten für Theaterproduktionen wie „Meister und Margarita“ am Schauspiel Leipzig.Mit neuer Energie, neuen Songs und einer klaren Vision beweist Laura Lee, dass sie weiterhin eine der spannendsten Stimmen der internationalen Indie-Szene ist. Zur Albumveröffentlichung spielen Laura Lee & The Jettes ein besonderes Konzert in Berlin: Die Band spielt gleich zweimal im Berliner Club LARK - Einmal tagsüber, so dass auch Familien und Kinder das Konzert besuchen können, einmal am Abend zur normalen Experience.",
-        "link": "https://rausgegangen.de/en/events/laura-lee-the-jettes-evening-show-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/s1j0M54RQZSsZYD4UIgo_laura-lee-the-jettes-by-kelsey-ayres-kopie.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sun, 07.09.2025",
-        "time": "19:30",
-        "event": "MATT JOHNSON (Jamiroquai) - Warrior Princess *live (@Gretchen)",
-        "category": "",
-        "description": "Die Keyboard- und Synthesizer-Legende Matt Johnson kommt mit seinem neuen Soloalbum “Warrior Princess“ ins Gretchen.  Matt Johnson ist seit 2002 fester Bestandteil des britischen Jazz-Funk-Phänomens Jamiroquai und hat seitdem einen Großteil der Songs der Band mitgeschrieben, darunter Hits wie Seven Days in Sunny June, Starchild und andere. Außerdem hat er ihr letztes Album “Automaton\" mitproduziert. Neben seiner Arbeit für Jamiroquai hat Matt Johnson als Songwriter und Studiomusiker für viele andere Künstler*innen gearbeitet, darunter Dizzee Rascal, Duffy, Ashanti, Lizzo, Purple Disco Machine, Nolwenn Leroy, Lucky Daye, Newton Faulkner und viele mehr.  Matt Johnson begann im Alter von eineinhalb Jahren Klavier zu spielen und ist heute eine wahre Keyboard- und Synthesizer-Legende. Matts musikalische Wurzeln liegen in der Londoner Soulszene und seine Einflüsse reichen von Herbie Hancock über Miles Davis bis hin zu Squarepusher. Sein erstes Soloalbum “With the Music“ (2020) war eine unglaubliche Soul-getränkte Jazz-Funk Tour de Force. In den letzten Jahren tourte er mit einer fantastischen sechsköpfigen Band um die Welt. Jetzt veröffentlicht Matt sein zweites Soloalbum “Warrior Princess“, eine wunderschöne Produktion mit einzigartigem Retro-Sound, viel Seele und entstanden in Zusammenarbeit mit erstklassigen Künstler*innen, darunter Je Lorber, Cory Wong und Will Lee.  Als aktives Mitglied der Synthesizer-Community betreibt Matt auch einen erfolgreichen YouTube-Kanal, auf dem er Tutorials anbietet und sich mit allem rund um Keyboard und Synthesizer beschäftigt.  Für diese Veranstaltung bieten wir ermäßigte Tickets an, um auch Menschen mit kleinerem Portmonee Zugang zu Kultur zu ermöglichen. Diese Kontingente sind limitiert und nur bei TixforGigs verfügbar. Wir vertrauen auf Eure Selbsteinschätzung: Wenn ihr könnt, bucht Standard-Tickets und überlasst die ermäßigten Kontingente denjenigen, die gerade sehr sparen müssen. Matt Johnson 'Earth's Mysteries' (Official Video)",
-        "link": "https://rausgegangen.de/en/events/matt-johnson-jamiroquai-warrior-princess-live-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/v03b2FX5RICMG10zY7Eh_250907matt-johnsonheadereventstart.png?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sun, 07.09.2025",
-        "time": "20:15",
-        "event": "IT'S LIT - English Comedy Sunday Hangout Show with Tyrone Stallone (@Black Wedding Comedy)",
-        "category": "",
-        "description": "It’s Lit! features stand up comedy, story telling, improvisation and audience games all in one night! Get ready for a fully unique and interactive experience. The show is on Sunday so you can have enough laughs to last you all week. Until our next show! LOL. No two shows are the same. You can find us in the Black Wedding Bar just a short walk from S Gesundbrunnen and U Pankstr. We open doors at 8pm",
-        "link": "https://rausgegangen.de/en/events/its-lit-english-comedy-sunday-hangout-show-with-tyrone-stall-18/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Wgvh3Z9FR2anlCeX2MSI_0e1427b2-f7bf-4821-983c-fefbdd6cefab.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Sun, 07.09.2025",
-        "time": "11:00",
         "event": "Bachata Day - LADY STYLE (3 Workshops) (@Tor28)",
         "category": "",
         "description": "Goddess Flow: The Ultimate Lady Style Experience Unleash your inner grace and power in our exclusive Bachata workshop! ✨💃💪 Join our top instructors on a journey to unlock your unique femininity on the dance floor. This is more than just a class—it's a celebration of your authentic self and natural flow.🗓️ SUNDAY SCHEDULE * 11:00 - 12:00 | Carla from SPAIN    * Hips That Speak: Master the secret of dissociation and unlock a fluid, mesmerizing flow. * 12:00 - 13:00 | Evi from The Netherlands    * Solo Shine, Partner Ready: Discover the art of playful movement and shine confidently on your own or with a partner. * 13:00 - 14:00 | Katerina from Russia    * Hips with Sabor: Infuse your dance with rhythm, sharp accents, and beautiful embellishments.",
@@ -1117,6 +977,146 @@
     },
     {
         "date": "Sun, 07.09.2025",
+        "time": "11:00",
+        "event": "Social Reading Party mit Pausify (@EDGE Workspaces / Grand Central Berlin)",
+        "category": "",
+        "description": "Bring dein aktuelles Buch zum Lesen mit (oder ein kreatives Projekt, an dem du arbeiten möchtest 📚🎨🧵) und sei dabei bei dieser Mischung aus gemeinsamer Fokuszeit und anregenden Gesprächen.📍 Invalidenstraße 65, 10557 Berlin (EDGE Workspaces)11:00–11:30 – Meet & Greet11:30–12:30 – Stille Fokuszeit12:30–13:30 – Austausch über Bücher/Projekte bei KaffeeBleib danach gerne zum Mittagessen mit anderen – oder komm einfach beim nächsten Mal wieder vorbei! Bilder und Videos von unseren Events findest du auf Instagram:Pausify InstagramPS: Warum kostet das etwas, wenn ich mein eigenes Project/ Buch mitbringe?Weil wir für jedes Event einen schönen, zentralen Raum anmieten. Falls du schon mal gedacht hast, deine monatliche Wohnungsmiete ist zu hoch – Gewerbemieten in Berlin kosten ein Vielfaches pro Stunde.Wenn du einfach nur in Ruhe für dich sein möchtest, ist natürlich auch dein Zuhause oder die Bibliothek dafür perfekt! Aber wenn du dich gemeinsam mit anderen in einem inspirierenden Raum konzentrieren und austauschen möchtest – mit Getränken & Snacks inklusive – dann hilft dein Ticket, das möglich zu machen.Pausify Website  Bitte beachte, dass während der Veranstaltung Fotos und Videos gemacht werden können, die zu Werbezwecken genutzt werden, um Eindrücke von unseren Events zu teilen. Falls du Bedenken hast, sprich uns bitte vor der Veranstaltung an. Danke!",
+        "link": "https://rausgegangen.de/en/events/social-reading-party-mit-pausify-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/HG0Qfxi6TvGvYxBgDCLQ_20250525115221.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sun, 07.09.2025",
+        "time": "12:00",
+        "event": "Roda de Feijoada - Pool Party (@MAAYA)",
+        "category": "",
+        "description": "RODA DE FEIJOADA #53  POOL PARTY  Sunday September 7, 2025  Doors:12h00 / midday End: 10pm  Berlin MAAYA Revaler Str. 99  Kids until 11 years old and birthday guests of the month enjoy FREE ENTRY  The Roda de Feijoada is back for the last Pool Party edition at MAAYA!Join us on Sunday, September 7 for one final open-air celebration of samba, Brazilian food, and good vibes at MAAYA Berlin. This is your last chance this season to enjoy Roda de Samba by the pool, with that special mix of music, dancing, and community.  Program:Live Roda de SambaDJ Killa sets throughout the daySamba de Gafieira Workshop with Carlos FrevoKids activitiesCaipirinha We offer an amazing Caipi Bar.  Food Traditional and vegan feijoada, picanha, pastel, traditional and vegan coxinha, brigadeiro, and other Brazilian sweets. Please note: food and drinks are sold separately and are not included in the ticket price.  Kids Activities: We offer a special kids’ area with fun activities and a bouncy castle.  Birthdays: Want to celebrate your birthday with us? Send an email to info@bossafm.com and tell us your idea!September birthday guests get FREE ENTRY. Just show a valid photo ID at the door.",
+        "link": "https://rausgegangen.de/en/events/roda-de-feijoada-pool-party-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7H8SU4WWS5urIPSPKx5G_roda-de-feijoadasiteazul.jpeg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sun, 07.09.2025",
+        "time": "13:45",
+        "event": "GET SHORTY // Kurzfilmwettbewerb des Fantasy Filmfest (@Zoo Palast)",
+        "category": "",
+        "description": "GET SHORTYIm Rahmen des Programms GET SHORTY vergibt das Fantasy Filmfest einen Preis für den besten Kurzfilm. Die Zuschauer:innen entscheiden per Stimmkarte, welcher der ausgewählten Shorts ihr Favorit ist. Der Kurzfilmpreis wird von Filmstarts.de präsentiert und gestiftet und beinhaltet ein Preisgeld von 2.000 €. Das Preisgeld geht an den/die Regisseur:in. /// As part of its GET SHORTY section the Fantasy Filmfest gives out an award for the Best Short Film. The audience decides by voting card which of the selected short films is their favourite. The Short Film Award is presented and sponsored by Filmstarts.de and comes with a prize money of 2.000 euro which goes to the director. More Infos & Tickets:fantasyfilmfest.comLetterboxdTikTokInstagramYouTube",
+        "link": "https://rausgegangen.de/en/events/get-shorty-kurzfilmwettbewerb-des-fantasy-filmfest-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OpfppSkCSEiSI8Nnc02R_get-sh.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sun, 07.09.2025",
+        "time": "14:00",
+        "event": "Oewersause im gART.n (@gARTn)",
+        "category": "",
+        "description": "Die Blätter färben sich gelb und der gART.n wird bunt – wir starten aber nochmal richtig durch im letzten Veranstaltungsmonat des gART.ns, den September.  Die vorletzte OewerSause findet mit folgenden Künstler*innen statt  Kermesse *live https://soundcloud.com/kermesselive  Rakäthe https://soundcloud.com/thisisrakaethe  Zoe Reijue *live https://soundcloud.com/zoe-reijuenorahttps://soundcloud.com/einfachnora",
+        "link": "https://rausgegangen.de/en/events/oewersause-im-gartn-11/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/0WpKgYNQkCUfzBWlDwYA_oewersause2025fbbanner820x312.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sun, 07.09.2025",
+        "time": "15:00",
+        "event": "KATERMUKKE - OX BERG OPEN AIR w. Dirty Doering, Niconé, Ante Perry, Sunlast @ FestsaalKreuzberg (@Festsaal Kreuzberg)",
+        "category": "",
+        "description": "Sunday Funday - mit KATERMUKKE u Dirty Doering, Niconé, Ante Perry und SUNLAST  Berlin, der Sommer ist heiß – und wir laden euch herzlich zu unserem finalen KATERMUKKE Open Air im Festsaal Kreuzberg ein! Die dritte Ausgabe unseres  OX BERG Open Air x Festsaal Kreuzberg steigt am 07. September – und es wird wieder ein Riesenspaß!LINE-UP🎶 DIRTY DOERING🎶 NICONÉ🎶 ANTE PERRY🎶 SUNLASTWas euch erwartet:Die besten Stunden voller Beats, Open-Air-Magie und dem unverwechselbaren Katermukke-Vibe – mitten im Herzen von Kreuzberg. Schnappt euch eure Crew, packt eure besten Moves ein und lasst uns die Saison gebührend ausklingen lassen.Tickets für euch von uns!🎟️ 10,- EUR + VVK online🎟️ 13,- EUR an der TageskasseWir sehen uns im Festsaal Kreuzberg!",
+        "link": "https://rausgegangen.de/en/events/katermukke-ox-berg-open-air-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/VVb3IlKwSkSja1slPKg4_2.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sun, 07.09.2025",
+        "time": "15:30",
+        "event": "Laura Lee & The Jettes - Afternoon Show (@LARK)",
+        "category": "",
+        "description": "Afternoon show: Einlass: 15.30h, Beginn: 16.30hEvening show: Einlass: 19.30h, Beginn: 20.30hLaura Lee, auch bekannt als eine Hälfte des international gefeierten Indie-Rock-Duos Gurr, tritt erneut ins Rampenlicht – diesmal als Frontfrau und Chef-Songwriterin von Laura Lee & the Jettes. Das zweite Album “Tough Love Paradigm” erscheint am 5. September, dazu spielt die Band Release-Konzerte.Das zweite Album von Laura Lee & the Jettes ist eine mutige Weiterentwicklung. Hier trifft angegrungter Indie-Pop auf Riot-Grrrl-Attitude mit Alternative-Rock-Melancholie und großen Hooks. Cooler klingt derzeit wohl keine Band aus Deutschland. Dafür sorgen auch der lebendig detaillierte Mix von Collin Dupuis (u.a. Lana Del Rey, Angel Olsen, St. Vincent) und der britischen Underground-Legende Rhys Edwards von Ulrika Spacek.Die ersten Singles wurden bereits erfolgreich auf Radiosendern wie KEXP, FluxFM, Radio Eins oder Deutschlandfunk Nova gespielt, stiegen in die US-College-Radio Charts ein und wurden von Medien wie VISIONS oder DIFFUS gefeiert.Inhaltlich machen Laura Lee & The Jettes neue Felder auf: \"Unsolicited Advice\" zitiert ungebetene Ratschläge, die Laura als Mutter von Männern bekommen hat, \"Tough Love Paradigm\" behandelt Grenzerfahrungen der Liebe, die neue Single \"Ordinary People\" möchte in hoffnungslosen Zeiten vermitteln: \"it keeps on getting better\".Live präsentierte die Band neue Songs dieses Jahr unter anderem beim New Colossus Festival in New York City und ist Teil der offiziellen Auswahl des renommierten SXSW Festivals 2025 in Austin, Texas.Parallel dazu bleibt Laura auch als kreative Kraft außerhalb der Band aktiv – zuletzt mit einer autobiografischen Dokumentation von Vice, sowie musikalischen Arbeiten für Theaterproduktionen wie „Meister und Margarita“ am Schauspiel Leipzig.Mit neuer Energie, neuen Songs und einer klaren Vision beweist Laura Lee, dass sie weiterhin eine der spannendsten Stimmen der internationalen Indie-Szene ist. Zur Albumveröffentlichung spielen Laura Lee & The Jettes ein besonderes Konzert in Berlin: Die Band spielt gleich zweimal im Berliner Club LARK - Einmal tagsüber, so dass auch Familien und Kinder das Konzert besuchen können, einmal am Abend zur normalen Experience.",
+        "link": "https://rausgegangen.de/en/events/laura-lee-the-jettes-8/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/X0BgQpGCRxOTr1lVO0zM_laura-lee-the-jettes-by-kelsey-ayres.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sun, 07.09.2025",
+        "time": "18:00",
+        "event": "I Speak of Me As I Am - A Necessary In(ter)vention (@Ballhaus Prinzenallee)",
+        "category": "",
+        "description": "I Speak of Me As I Am - A Necessary In(ter)vention A temporary ensemble of artists (re)writing Shakespeare’s characters of colorBy MxCAT (QUEERDOS Kollektiv) and Ensemble Languages: English, Farsi, German...What does Shakespeare have to do with intervening in colonial violence? With erasure? With memory? With us? “I Speak of Me as I Am – A Necessary In(ter)vention” responds to these questions—and far more. Not from within the center of Europe, but from outside it: from West African, Persian, and Romani storytelling traditions. From biographies that have learned to breathe under the weight of the archive. This is a decolonial stage-body. We weave radically composed scores, sonnets, queer feminist myths, political manifestos, and oral wisdoms (proverbs) into a multilingual, resonant space. We do not take the stage as characters—we speak through and with them. Othello, Caliban, Cleopatra, and Lucy emerge both as echoes of colonial projection and as reverberations of historical and contemporary struggles for visibility, dignity, and belonging. We don’t just ask what Shakespeare’s texts can still tell us—we ask who is even allowed to tell them. In a time when self-representation is framed as a threat, and the erasure and censorship of racialized voices continues, we speak back. We invoke ancestors and voices from the 1989 revolution in East Germany—May Ayim, Audre Lorde, James Baldwin, Anton Wilhelm Amo. From insurgent bodies to marginalized narratives. Did the erasure really begin when the borders collapsed? Where were the Black girls in the ’89 footage? Where were the Arab sons of Neukölln? Why do I only see white faces celebrating freedom?What if we dove into a polyphonic network of voices, glances, breaths, and languages to shape a stage of shared responsibility? A space where literary visions are not only pursued, but challenged—as unfinished projects. This is not a place where we die to honor literature. This is a place where we speak to reclaim our lives. Afrofuturist poetry meets Persian love verses. Romani history meets Elizabethan pathos.Everything speaks. Everything answers.Trigger Warning: This performance contains themes of racial and colonial violence, partial nudity, historical oppression, and discussions of systemic discrimination. It also includes references to sexualized violence, displacement, and erasure. Viewer discretion is advised. Support resources will be available for those who may find the content distressing.Regie: MxCAT Regieassistenz: Cat Jones Dramaturgie: Aleo Arndt / Ife Aboluwade Schauspiel: Roxie Thiele Dogan, Ruby Engel, Mehrdad Gharibian, Elnathan John, Danya Harvey, Ännie Krippner   Musik: TRACE Bühne & Grafik: Noah Osarenren Kostüm: Periklis Lichtdesign: Sol Sebastian Solorzano Choreografische Unterstützung: Rob Fordeyn Sound Engineering: Legalmoney Studio Produktion: Cluster of Excellence “Africa Multiple” (University of Bayreuth) in cooperation with Ballhaus Prinzenallee Berlin and QUEERDOS Kollektiv.This performance is a cooperation with the Cluster of Excellence “Africa Multiple. Reconfiguring African Studies.”",
+        "link": "https://rausgegangen.de/en/events/i-speak-of-me-as-i-am-a-necessary-intervention-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/NILKppPStm3cbpb90jiz_i-speak-raus.png?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sun, 07.09.2025",
+        "time": "18:30",
+        "event": "Yakary (@Huxleys Neue Welt)",
+        "category": "",
+        "description": "Die einen sagen YAKARY ist endlich back. Doch seine große Fanbase weiß YAKARY war nie weg, sein Hype war nie tot und die Szene bekommt diesen einzigartigen Künstler auch nicht mehr los. Jede seiner Singles kommt ohne Ankündigung und PR Moves auf mehrere Millionen Streams. Dauerpräsenz in den heißesten Playlisten ist Standard für ihn und sein Label Life is Pain. Worauf unzählige Rapper seit Jahren schielen, holt sich Deutschlands ODB in einem Monat und endlich ist es auch soweit und der meist gehypte Künstler Deutschlands geht im September 2025 auf seine erste Deutschland Tour. Wer YAKARY Live erleben möchte sollte sich schnell ein Ticket holen, denn der Hype ist real und die Tickets sind rar.",
+        "link": "https://rausgegangen.de/en/events/yakary-8/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/sCKFGJ0ET2e3Wr2YdRJV_yakarygro84eventimfoto-credity-by-omer-furkan.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sun, 07.09.2025",
+        "time": "19:00",
+        "event": "Orchestra dell’Accademia Nazionale di Santa Cecilia (@Philharmonie - Großer Saal)",
+        "category": "",
+        "description": "Erlebe mit Daniel Harding und der Accademia Nazionale di Santa Cecilia einen Abend voller überraschender Klangwelten. Orchester, Chöre und die „Folk Songs“ von Magdalena Kožená sorgen für Gänsehaut und unvergessliche Momente.",
+        "link": "https://rausgegangen.de/en/events/orchestra-dellaccademia-nazionale-di-santa-cecilia-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/hm0x23oscec1.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sun, 07.09.2025",
+        "time": "19:00",
+        "event": "Ralf König: macht Männchen! (@BKA Theater)",
+        "category": "",
+        "description": "In diesem Jahr wird Ralf König 65 Jahre alt!Das klingt ernst, denn zum alten Sack mutieren gehört nicht zu seinen Lieblingsbeschäftigungen. Zudem zeichnet er seit 45 Jahren seine schwulen Nasen und bunte Comics über die Befindlichkeiten in der queeren Szene.Passender Anlass für ihn, mal wieder auf die BKA-Bühne zu treten und einen Querschnitt aus mehreren Jahrzehnten Comiczeichnerei zum Besten zu geben. Da gibt’s dann Pflaumenstürze und Sahneschnitten, ältere Klassiker und Neues frisch vom Zeichenbrett, da wird gekrischen und gegrunzt.Nach der Lesung werden gern Bücher signiert, kurz: Ralf König macht Männchen!",
+        "link": "https://rausgegangen.de/en/events/ralf-konig-macht-mannchen-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TBrzOentQxiEVlg9Rc58_ralf-koenig-foto-stefan-kraushaar-16-9.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sun, 07.09.2025",
+        "time": "19:30",
+        "event": "FERAL (@DOCK 11)",
+        "category": "",
+        "description": "Die Vokal-Ton-Performance setzt sich mit Prozessen von Sexualisierung, Objektivierung und Ermächtigung des persönlichen Vergnügens auseinander. Die Performerin erzählt die Geschichte ihrer persönlichen Reise, von einer hypersexualisierten Kindheit zu einer Erwachsenen, die Wege erforscht, Lust durch Dominanz, Sexarbeit und BDSM zu finden.In einer intimen Performance verschränkt sich Live-Sound mit Sex-Technologien zu einer Erzählung, in der FERAL zur Verteidigung des Objekts gegen den Menschen wird.",
+        "link": "https://rausgegangen.de/en/events/feral-6/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/b2a7e61cdfu0.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sun, 07.09.2025",
+        "time": "19:30",
+        "event": "Laura Lee & The Jettes - Evening Show (@LARK)",
+        "category": "",
+        "description": "Afternoon show: Einlass: 15.30h, Beginn: 16.30hEvening show: Einlass: 19.30h, Beginn: 20.30hLaura Lee, auch bekannt als eine Hälfte des international gefeierten Indie-Rock-Duos Gurr, tritt erneut ins Rampenlicht – diesmal als Frontfrau und Chef-Songwriterin von Laura Lee & the Jettes. Das zweite Album “Tough Love Paradigm” erscheint am 5. September, dazu spielt die Band Release-Konzerte.Das zweite Album von Laura Lee & the Jettes ist eine mutige Weiterentwicklung. Hier trifft angegrungter Indie-Pop auf Riot-Grrrl-Attitude mit Alternative-Rock-Melancholie und großen Hooks. Cooler klingt derzeit wohl keine Band aus Deutschland. Dafür sorgen auch der lebendig detaillierte Mix von Collin Dupuis (u.a. Lana Del Rey, Angel Olsen, St. Vincent) und der britischen Underground-Legende Rhys Edwards von Ulrika Spacek.Die ersten Singles wurden bereits erfolgreich auf Radiosendern wie KEXP, FluxFM, Radio Eins oder Deutschlandfunk Nova gespielt, stiegen in die US-College-Radio Charts ein und wurden von Medien wie VISIONS oder DIFFUS gefeiert.Inhaltlich machen Laura Lee & The Jettes neue Felder auf: \"Unsolicited Advice\" zitiert ungebetene Ratschläge, die Laura als Mutter von Männern bekommen hat, \"Tough Love Paradigm\" behandelt Grenzerfahrungen der Liebe, die neue Single \"Ordinary People\" möchte in hoffnungslosen Zeiten vermitteln: \"it keeps on getting better\".Live präsentierte die Band neue Songs dieses Jahr unter anderem beim New Colossus Festival in New York City und ist Teil der offiziellen Auswahl des renommierten SXSW Festivals 2025 in Austin, Texas.Parallel dazu bleibt Laura auch als kreative Kraft außerhalb der Band aktiv – zuletzt mit einer autobiografischen Dokumentation von Vice, sowie musikalischen Arbeiten für Theaterproduktionen wie „Meister und Margarita“ am Schauspiel Leipzig.Mit neuer Energie, neuen Songs und einer klaren Vision beweist Laura Lee, dass sie weiterhin eine der spannendsten Stimmen der internationalen Indie-Szene ist. Zur Albumveröffentlichung spielen Laura Lee & The Jettes ein besonderes Konzert in Berlin: Die Band spielt gleich zweimal im Berliner Club LARK - Einmal tagsüber, so dass auch Familien und Kinder das Konzert besuchen können, einmal am Abend zur normalen Experience.",
+        "link": "https://rausgegangen.de/en/events/laura-lee-the-jettes-evening-show-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/s1j0M54RQZSsZYD4UIgo_laura-lee-the-jettes-by-kelsey-ayres-kopie.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sun, 07.09.2025",
+        "time": "19:30",
+        "event": "MATT JOHNSON (Jamiroquai) - Warrior Princess *live (@Gretchen)",
+        "category": "",
+        "description": "Die Keyboard- und Synthesizer-Legende Matt Johnson kommt mit seinem neuen Soloalbum “Warrior Princess“ ins Gretchen.  Matt Johnson ist seit 2002 fester Bestandteil des britischen Jazz-Funk-Phänomens Jamiroquai und hat seitdem einen Großteil der Songs der Band mitgeschrieben, darunter Hits wie Seven Days in Sunny June, Starchild und andere. Außerdem hat er ihr letztes Album “Automaton\" mitproduziert. Neben seiner Arbeit für Jamiroquai hat Matt Johnson als Songwriter und Studiomusiker für viele andere Künstler*innen gearbeitet, darunter Dizzee Rascal, Duffy, Ashanti, Lizzo, Purple Disco Machine, Nolwenn Leroy, Lucky Daye, Newton Faulkner und viele mehr.  Matt Johnson begann im Alter von eineinhalb Jahren Klavier zu spielen und ist heute eine wahre Keyboard- und Synthesizer-Legende. Matts musikalische Wurzeln liegen in der Londoner Soulszene und seine Einflüsse reichen von Herbie Hancock über Miles Davis bis hin zu Squarepusher. Sein erstes Soloalbum “With the Music“ (2020) war eine unglaubliche Soul-getränkte Jazz-Funk Tour de Force. In den letzten Jahren tourte er mit einer fantastischen sechsköpfigen Band um die Welt. Jetzt veröffentlicht Matt sein zweites Soloalbum “Warrior Princess“, eine wunderschöne Produktion mit einzigartigem Retro-Sound, viel Seele und entstanden in Zusammenarbeit mit erstklassigen Künstler*innen, darunter Je Lorber, Cory Wong und Will Lee.  Als aktives Mitglied der Synthesizer-Community betreibt Matt auch einen erfolgreichen YouTube-Kanal, auf dem er Tutorials anbietet und sich mit allem rund um Keyboard und Synthesizer beschäftigt.  Für diese Veranstaltung bieten wir ermäßigte Tickets an, um auch Menschen mit kleinerem Portmonee Zugang zu Kultur zu ermöglichen. Diese Kontingente sind limitiert und nur bei TixforGigs verfügbar. Wir vertrauen auf Eure Selbsteinschätzung: Wenn ihr könnt, bucht Standard-Tickets und überlasst die ermäßigten Kontingente denjenigen, die gerade sehr sparen müssen. Matt Johnson 'Earth's Mysteries' (Official Video)",
+        "link": "https://rausgegangen.de/en/events/matt-johnson-jamiroquai-warrior-princess-live-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/v03b2FX5RICMG10zY7Eh_250907matt-johnsonheadereventstart.png?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sun, 07.09.2025",
+        "time": "20:15",
+        "event": "IT'S LIT - English Comedy Sunday Hangout Show with Tyrone Stallone (@Black Wedding Comedy)",
+        "category": "",
+        "description": "It’s Lit! features stand up comedy, story telling, improvisation and audience games all in one night! Get ready for a fully unique and interactive experience. The show is on Sunday so you can have enough laughs to last you all week. Until our next show! LOL. No two shows are the same. You can find us in the Black Wedding Bar just a short walk from S Gesundbrunnen and U Pankstr. We open doors at 8pm",
+        "link": "https://rausgegangen.de/en/events/its-lit-english-comedy-sunday-hangout-show-with-tyrone-stall-18/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Wgvh3Z9FR2anlCeX2MSI_0e1427b2-f7bf-4821-983c-fefbdd6cefab.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Sun, 07.09.2025",
         "time": null,
         "event": "Stadtwerke run & roll City 2025 (@Kesselbrink)",
         "category": "Am 7. September 2025 übernehmen wieder Sportlerinnen und Sportler das Kommando auf Bielefelds...",
@@ -1162,22 +1162,6 @@
     },
     {
         "date": "Mo, 08.09.2025",
-        "time": "20:00",
-        "event": "Pub Quiz (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Mo, 08.09.2025",
-        "time": "18:00",
-        "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Mo, 08.09.2025",
         "time": "17:00",
         "event": "Volleyball(@hochschulsport_bielefeld)",
         "category": "Sport",
@@ -1215,6 +1199,22 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35650",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Mo, 08.09.2025",
+        "time": "20:00",
+        "event": "Pub Quiz (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "Mo, 08.09.2025",
+        "time": "18:00",
+        "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
     },
     {
         "date": "Mon, 08.09.2025",
@@ -1275,6 +1275,56 @@
         "link": "https://rausgegangen.de/en/events/get-up-comedy-137/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/9bZL0UETAqORqvzccKIt_whatsapp-image-2025-04-29-at-13258-pm.jpeg?width=1200&height=900&mode=crop",
         "city": "Hamburg"
+    },
+    {
+        "date": "Mon, 08.09.2025",
+        "time": "17:15",
+        "event": "Meditation und Stille (@Kim Schröer Coaching)",
+        "category": "",
+        "description": "Tauche ein in die Welt der inneren Ruhe und Gelassenheit. In der Stille begegnen wir unserer eigenen Wahrheit. Und das entspannt uns von innen heraus. Somit braucht es manchmal nicht mehr, als uns gemeinsam in die Stille zu begeben. Dabei begleite ich euch und halte den Raum. Der Weg in die Stille kann den Geist beruhigen und dich unterstützen, im Hier und Jetzt anzukommen. Lasst euch überraschen, wie ihr euch nach diesem Erlebnis fühlen werdet. Egal, ob Anfängerin oder Fortgeschrittener – dieser Kurs bietet dir Raum für Entspannung, Selbstreflexion und neue Energie.Von Herz zu Herz ohne Worte. Gemeinsam allein sein. Seelisch erwachsen werden. <3Ihr könnt ohne Vorerfahrung in Alltagsklamotten teilnehmen.Der feel-Freiraum ist ein gemütlicher Coaching-Raum direkt am Severinskirchplatz (neben dem italienischen Restaurant Ludari).www.kim-schroeer.com www.instagram.com/kim_schroeer",
+        "link": "https://rausgegangen.de/en/events/meditation-und-stille-42/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bZEm6BTRTiKsqyNyuXNj_dsc5535.JPG?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Mon, 08.09.2025",
+        "time": "18:30",
+        "event": "Classics im Rex: PLAYTIME (OmU) (@Rex Am Ring)",
+        "category": "",
+        "description": "PlayTime (1967)Directed by Jacques Tati  Clumsy Monsieur Hulot finds himself perplexed by the intimidating complexity of a gadget-filled Paris. He attempts to meet with a business contact but soon becomes lost. His roundabout journey parallels that of an American tourist, and as they weave through the inventive urban environment, they intermittently meet, developing an interest in one another. They eventually get together at a chaotic restaurant, along with several other quirky characters.",
+        "link": "https://rausgegangen.de/en/events/classics-im-rex-playtime-omu-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fInsSGeVSQih4sQ6GOlD_tati-playtime.jpeg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Mon, 08.09.2025",
+        "time": "20:00",
+        "event": "Impro Stand-up Comedy - Ich hab da mal nichts vorbereitet (@Joode Lade)",
+        "category": "",
+        "description": "Stand-up trifft Impro – und das ganz ohne Plan! Vier Comedians, die man aus Nightwash und Quatsch Comedy Club kennt, steigen ohne Skript auf die Bühne und improvisieren.",
+        "link": "https://rausgegangen.de/en/events/impro-stand-up-comedy-ich-hab-da-mal-nichts-vorbereitet-28/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eoyrl3iuRSieOSgXu6Qo_ljvp6610qvybyqfavh20ihdmnv.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Mon, 08.09.2025",
+        "time": "20:00",
+        "event": "NightWash Live im Waschsalon (@Eco-Express Waschsalon)",
+        "category": "",
+        "description": "Diese Show hat Kult-Status in Köln: Comedy im Waschsalon! Welche Comedians auftreten bleibt bis zum Schluss eine Überraschung.",
+        "link": "https://rausgegangen.de/en/events/nightwash-live-im-waschsalon-21/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/v3LG8puRT42xJpr32tMT_nw080916zu9.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Mon, 08.09.2025",
+        "time": "20:00",
+        "event": "SHORT MONDAY (@Filmhaus Köln)",
+        "category": "",
+        "description": "Freu dich auf unterschiedliche internationale Kurzfilme, die eines gemeinsam haben - sie sind preisgekrönt!",
+        "link": "https://rausgegangen.de/en/events/short-monday-47/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/SwbX4vUSpylj3wBQ1eKz_ShortMonday_quer_Paul_Scho%CC%88pfer.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
     },
     {
         "date": "Mon, 08.09.2025",
@@ -1358,86 +1408,12 @@
     },
     {
         "date": "Mon, 08.09.2025",
-        "time": "17:15",
-        "event": "Meditation und Stille (@Kim Schröer Coaching)",
-        "category": "",
-        "description": "Tauche ein in die Welt der inneren Ruhe und Gelassenheit. In der Stille begegnen wir unserer eigenen Wahrheit. Und das entspannt uns von innen heraus. Somit braucht es manchmal nicht mehr, als uns gemeinsam in die Stille zu begeben. Dabei begleite ich euch und halte den Raum. Der Weg in die Stille kann den Geist beruhigen und dich unterstützen, im Hier und Jetzt anzukommen. Lasst euch überraschen, wie ihr euch nach diesem Erlebnis fühlen werdet. Egal, ob Anfängerin oder Fortgeschrittener – dieser Kurs bietet dir Raum für Entspannung, Selbstreflexion und neue Energie.Von Herz zu Herz ohne Worte. Gemeinsam allein sein. Seelisch erwachsen werden. <3Ihr könnt ohne Vorerfahrung in Alltagsklamotten teilnehmen.Der feel-Freiraum ist ein gemütlicher Coaching-Raum direkt am Severinskirchplatz (neben dem italienischen Restaurant Ludari).www.kim-schroeer.com www.instagram.com/kim_schroeer",
-        "link": "https://rausgegangen.de/en/events/meditation-und-stille-42/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bZEm6BTRTiKsqyNyuXNj_dsc5535.JPG?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Mon, 08.09.2025",
-        "time": "18:30",
-        "event": "Classics im Rex: PLAYTIME (OmU) (@Rex Am Ring)",
-        "category": "",
-        "description": "PlayTime (1967)Directed by Jacques Tati  Clumsy Monsieur Hulot finds himself perplexed by the intimidating complexity of a gadget-filled Paris. He attempts to meet with a business contact but soon becomes lost. His roundabout journey parallels that of an American tourist, and as they weave through the inventive urban environment, they intermittently meet, developing an interest in one another. They eventually get together at a chaotic restaurant, along with several other quirky characters.",
-        "link": "https://rausgegangen.de/en/events/classics-im-rex-playtime-omu-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fInsSGeVSQih4sQ6GOlD_tati-playtime.jpeg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Mon, 08.09.2025",
-        "time": "20:00",
-        "event": "Impro Stand-up Comedy - Ich hab da mal nichts vorbereitet (@Joode Lade)",
-        "category": "",
-        "description": "Stand-up trifft Impro – und das ganz ohne Plan! Vier Comedians, die man aus Nightwash und Quatsch Comedy Club kennt, steigen ohne Skript auf die Bühne und improvisieren.",
-        "link": "https://rausgegangen.de/en/events/impro-stand-up-comedy-ich-hab-da-mal-nichts-vorbereitet-28/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eoyrl3iuRSieOSgXu6Qo_ljvp6610qvybyqfavh20ihdmnv.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Mon, 08.09.2025",
-        "time": "20:00",
-        "event": "NightWash Live im Waschsalon (@Eco-Express Waschsalon)",
-        "category": "",
-        "description": "Diese Show hat Kult-Status in Köln: Comedy im Waschsalon! Welche Comedians auftreten bleibt bis zum Schluss eine Überraschung.",
-        "link": "https://rausgegangen.de/en/events/nightwash-live-im-waschsalon-21/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/v3LG8puRT42xJpr32tMT_nw080916zu9.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Mon, 08.09.2025",
-        "time": "20:00",
-        "event": "SHORT MONDAY (@Filmhaus Köln)",
-        "category": "",
-        "description": "Freu dich auf unterschiedliche internationale Kurzfilme, die eines gemeinsam haben - sie sind preisgekrönt!",
-        "link": "https://rausgegangen.de/en/events/short-monday-47/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/SwbX4vUSpylj3wBQ1eKz_ShortMonday_quer_Paul_Scho%CC%88pfer.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Mon, 08.09.2025",
         "time": "19:45",
         "event": "Wanderkino auf dem Siegfriedplatz (@Siegfriedplatz)",
         "category": "Stummfilme mit musikalischer Begleitung live",
         "description": "Stummfilme mit musikalischer Begleitung live",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/webform/termine_melden/16379/wanderkino-siggi.jpg?itok=4meFS9SU",
         "link": "https://www.bielefeld.jetzt/node/1179577"
-    },
-    {
-        "date": "Tu, 09.09.2025",
-        "time": "18:00",
-        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Tu, 09.09.2025",
-        "time": "20:00",
-        "event": "Kneipenquiz(@gegenueber_bar)",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/gegenueber_bar/?hl=de",
-        "image_url": null
-    },
-    {
-        "date": "Tu, 09.09.2025",
-        "time": "07:00",
-        "event": "Wochenmarkt(@Alter Markt)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Di, 09.09.2025",
@@ -1472,6 +1448,40 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "date": "Tu, 09.09.2025",
+        "time": "18:00",
+        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Tu, 09.09.2025",
+        "time": "20:00",
+        "event": "Kneipenquiz(@gegenueber_bar)",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/gegenueber_bar/?hl=de",
+        "image_url": null
+    },
+    {
+        "date": "Tu, 09.09.2025",
+        "time": "07:00",
+        "event": "Wochenmarkt(@Alter Markt)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Tue, 09.09.2025",
+        "time": "20:00",
+        "event": "Die Comedy Werkstatt Dortmund Weingrün (@Weingrün)",
+        "category": "",
+        "description": "Neue Bühne, neues Potential: Hier können Newcomer und Profis ordentlich an ihren Gags pfeilen... und natürlich auch mal failen. Either way, das kann ja lustig werden! 🎭",
+        "link": "https://rausgegangen.de/en/events/die-comedy-werkstatt-dortmund-weingrun-16/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/joicCvrTyumAKm1pXezw_img4282jpg.jpeg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
         "date": "Tue, 09.09.2025",
         "time": "19:00",
         "event": "Dancehall Tanzkurs (@WATCH MI STEP / Studio NIA)",
@@ -1492,62 +1502,12 @@
         "city": "Leipzig"
     },
     {
-        "date": "Tue, 09.09.2025",
-        "time": "20:00",
-        "event": "Die Comedy Werkstatt Dortmund Weingrün (@Weingrün)",
-        "category": "",
-        "description": "Neue Bühne, neues Potential: Hier können Newcomer und Profis ordentlich an ihren Gags pfeilen... und natürlich auch mal failen. Either way, das kann ja lustig werden! 🎭",
-        "link": "https://rausgegangen.de/en/events/die-comedy-werkstatt-dortmund-weingrun-16/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/joicCvrTyumAKm1pXezw_img4282jpg.jpeg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
         "date": "Mi, 10.09",
         "time": "23:00",
         "event": "MI • WET WEDNESDAY (@cafe_europa_bi)",
         "category": "Party",
         "link": "https://cafeeuropa.de/event/mi-wet-wednesday-4/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250910_WetWednesday_4zu5.jpg"
-    },
-    {
-        "date": "We, 10.09.2025",
-        "time": "21:00",
-        "event": "Karaoke (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "We, 10.09.2025",
-        "time": "18:00",
-        "event": "*TRIBE BOULDERN (@Kletterhalle Senne)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "We, 10.09.2025",
-        "time": "07:00",
-        "event": "Wochenmarkt(@Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "We, 10.09.2025",
-        "time": "20:00",
-        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
-        "image_url": null
-    },
-    {
-        "date": "We, 10.09.2025",
-        "time": "20:00",
-        "event": "DIES DAS COMEDY - OPEN MIC (@diesdascomedy)",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/diesdascomedy/",
-        "image_url": null
     },
     {
         "date": "Mi, 10.09.2025",
@@ -1596,6 +1556,46 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35504",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "We, 10.09.2025",
+        "time": "21:00",
+        "event": "Karaoke (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "We, 10.09.2025",
+        "time": "18:00",
+        "event": "*TRIBE BOULDERN (@Kletterhalle Senne)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "We, 10.09.2025",
+        "time": "07:00",
+        "event": "Wochenmarkt(@Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "We, 10.09.2025",
+        "time": "20:00",
+        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
+        "image_url": null
+    },
+    {
+        "date": "We, 10.09.2025",
+        "time": "20:00",
+        "event": "DIES DAS COMEDY - OPEN MIC (@diesdascomedy)",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/diesdascomedy/",
+        "image_url": null
     },
     {
         "date": "Mi, 10.09.2025",
@@ -1678,6 +1678,30 @@
         "image_url": null
     },
     {
+        "date": "Do, 11.09.2025",
+        "time": "16:30",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 11.09.2025",
+        "time": "17:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 11.09.2025",
+        "time": "18:30",
+        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35659",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
         "date": "Th, 11.09.2025",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
@@ -1716,30 +1740,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Do, 11.09.2025",
-        "time": "16:30",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 11.09.2025",
-        "time": "17:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 11.09.2025",
-        "time": "18:30",
-        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35659",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Do, 11.09.2025",
@@ -1836,6 +1836,30 @@
     },
     {
         "date": "Fr, 12.09.2025",
+        "time": "16:00",
+        "event": "Volleyball(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35417",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 12.09.2025",
+        "time": "18:00",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35506",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 12.09.2025",
+        "time": "18:30",
+        "event": "Laufen(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35520",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 12.09.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
         "category": "Party",
@@ -1865,30 +1889,6 @@
         "category": "Kreativität",
         "link": "https://kunsthalle-bielefeld.de/programm/veranstaltungen/#10209",
         "image_url": null
-    },
-    {
-        "date": "Fr, 12.09.2025",
-        "time": "16:00",
-        "event": "Volleyball(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35417",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Fr, 12.09.2025",
-        "time": "18:00",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35506",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Fr, 12.09.2025",
-        "time": "18:30",
-        "event": "Laufen(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35520",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Fr, 12.09.2025",
@@ -2007,6 +2007,30 @@
     },
     {
         "date": "Sa, 13.09.2025",
+        "time": "08:00",
+        "event": "Wandern(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38176",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 13.09.2025",
+        "time": "10:00",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36263",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 13.09.2025",
+        "time": "11:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 13.09.2025",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
         "category": "Sport",
@@ -2036,30 +2060,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sa, 13.09.2025",
-        "time": "08:00",
-        "event": "Wandern(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38176",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 13.09.2025",
-        "time": "10:00",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36263",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 13.09.2025",
-        "time": "11:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Sa, 13.09.2025",
@@ -2155,22 +2155,6 @@
         "link": "https://www.bielefeld.jetzt/node/1164266"
     },
     {
-        "date": "Su, 14.09.2025",
-        "time": "19:00",
-        "event": "*TRIBE KENNENLERNABEND*",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Su, 14.09.2025",
-        "time": "09:00",
-        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/uprunningclub/?hl=de",
-        "image_url": null
-    },
-    {
         "date": "So, 14.09.2025",
         "time": "09:00",
         "event": "Yoga(@hochschulsport_bielefeld)",
@@ -2193,6 +2177,22 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37043",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Su, 14.09.2025",
+        "time": "19:00",
+        "event": "*TRIBE KENNENLERNABEND*",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Su, 14.09.2025",
+        "time": "09:00",
+        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/uprunningclub/?hl=de",
+        "image_url": null
     },
     {
         "date": "So, 14.09",
@@ -2280,22 +2280,6 @@
     },
     {
         "date": "Mo, 15.09.2025",
-        "time": "20:00",
-        "event": "Pub Quiz (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Mo, 15.09.2025",
-        "time": "18:00",
-        "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Mo, 15.09.2025",
         "time": "17:00",
         "event": "Volleyball(@hochschulsport_bielefeld)",
         "category": "Sport",
@@ -2333,6 +2317,22 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35650",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Mo, 15.09.2025",
+        "time": "20:00",
+        "event": "Pub Quiz (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "Mo, 15.09.2025",
+        "time": "18:00",
+        "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
     },
     {
         "date": "Tu, 16.09.2025",
