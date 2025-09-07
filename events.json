@@ -977,6 +977,16 @@
     },
     {
         "date": "Tue, 09.09.2025",
+        "time": "19:30",
+        "event": "THE INVISIBLE HAND by Ayad Akhtar (@The English Theatre of Hamburg)",
+        "category": "",
+        "description": "You’re kidnapped by terrorists and the only way out is to raise your own ransom money – by beating the stock market.When American banker Nick Bright is captured by an Islamic militant group in Pakistan, his prospects are grim. Mistaken for his boss, he holds little strategic value, and no one is coming to negotiate his release. Alone in his cell, Nick has two assets that just might save him: his sharp mind and a deep understanding of global finance. In a desperate attempt, he offers to raise his own ransom money – all $10 million – by manipulating the market.The Pulitzer Prize winner Ayad Akhtar (THE WHO AND THE WHAT) has done it again: THE INVISIBLE HAND is an intelligently layered play that probes the intersection of human survival, capitalism, and geopolitics. Drawing its title from the famous concept coined by Scottish philosopher Adam Smith, the play gives theatrical form to the invisible forces that shape global economics – and leaves the audience pondering a haunting question:Are we prisoners of the system of our own making?",
+        "link": "https://rausgegangen.de/en/events/the-invisible-hand-by-ayad-akhtar-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/kv0YRUSVSdCJO3RPBjHc_the-invisible-hand.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Tue, 09.09.2025",
         "time": "20:00",
         "event": "Casafungo - Support: Ellangton (Jever Live Konzert) (@Hafenbahnhof)",
         "category": "",
@@ -1309,16 +1319,6 @@
     },
     {
         "date": "Wed, 10.09.2025",
-        "time": "20:00",
-        "event": "LUCA VASTA - \"TI VOGLIO BENE\" TOUR 2025 (@NOCHTSPEICHER)",
-        "category": "",
-        "description": "Mehr Italien geht nicht: LUCA VASTA auf Tour mit Spaghetti Pop, Chören und Caruso im Gepäck.",
-        "link": "https://rausgegangen.de/en/events/luca-vasta-ti-voglio-bene-tour-2025-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/VLE1sSJJTIesnHPuBnNf_estate-coverjordann-wood.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Wed, 10.09.2025",
         "time": "19:00",
         "event": "MINUIT MACHINE (@Berghain)",
         "category": "",
@@ -1645,19 +1645,19 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "date": "Fr, 12.09",
+        "time": "24:00",
+        "event": "Get together (@nr.z.p)",
+        "link": "https://nrzp.de/event/get-together",
+        "image_url": "https://nrzp.de/wp-content/uploads/2025/08/15J_NRZP_Instapostings_Fabian_Latka2-scaled.png"
+    },
+    {
         "date": "Fr, 12.09.2025",
         "time": "20:30",
         "category": "Jazz",
         "event": "Pablo Held Trio (@bunkerulmenwall)",
         "link": "https://bunker-ulmenwall.org/pablo-held-trio/",
         "image_url": "https://bunker-ulmenwall.org/wp-content/uploads/2025/04/Pablo-Held-tritt-im-Bunker-Ulmenwall-auf-768x442.jpg"
-    },
-    {
-        "date": "Fr, 12.09",
-        "time": "24:00",
-        "event": "Get together (@nr.z.p)",
-        "link": "https://nrzp.de/event/get-together",
-        "image_url": "https://nrzp.de/wp-content/uploads/2025/08/15J_NRZP_Instapostings_Fabian_Latka2-scaled.png"
     },
     {
         "date": "Fr, 12.09",
@@ -1888,14 +1888,6 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Sa, 13.09.2025",
-        "time": "20:30",
-        "category": "Jazz",
-        "event": "Soundtrips #74: Mats Gustafsson & Christof Kurzmann (@bunkerulmenwall)",
-        "link": "https://bunker-ulmenwall.org/soundtrips-74-gustafsson-kurzmann/",
-        "image_url": "https://bunker-ulmenwall.org/wp-content/uploads/2025/04/Gustafsson-und-Kurzmann-treten-im-Bunker-Ulmenwall-auf-768x512.jpg"
-    },
-    {
         "date": "Sa, 13.09",
         "time": "19:00",
         "event": "Café (@nr.z.p)",
@@ -1908,6 +1900,14 @@
         "event": "DJ Homecoming (@nr.z.p)",
         "link": "https://nrzp.de/event/party-dj-homecoming",
         "image_url": "https://nrzp.de/wp-content/uploads/2025/08/15J_NRZP_Instapostings_Fabian_Latka4-scaled.png"
+    },
+    {
+        "date": "Sa, 13.09.2025",
+        "time": "20:30",
+        "category": "Jazz",
+        "event": "Soundtrips #74: Mats Gustafsson & Christof Kurzmann (@bunkerulmenwall)",
+        "link": "https://bunker-ulmenwall.org/soundtrips-74-gustafsson-kurzmann/",
+        "image_url": "https://bunker-ulmenwall.org/wp-content/uploads/2025/04/Gustafsson-und-Kurzmann-treten-im-Bunker-Ulmenwall-auf-768x512.jpg"
     },
     {
         "date": "Sa, 13.09",
@@ -2268,19 +2268,19 @@
         "image_url": null
     },
     {
+        "date": "Mi, 17.09",
+        "time": "",
+        "event": "Krakeln (@nr.z.p)",
+        "link": "https://nrzp.de/event/krakeln-21",
+        "image_url": "https://nrzp.de/wp-content/uploads/2024/10/Banner-Instagram-Post.zip-2.png"
+    },
+    {
         "date": "Mi, 17.09.2025",
         "time": "",
         "category": "Poetry Slam",
         "event": "PoetrySlam (@bunkerulmenwall)",
         "link": "https://bunker-ulmenwall.org/poetryslam-09-25/",
         "image_url": "https://bunker-ulmenwall.org/wp-content/uploads/2022/11/slam-1.jpg"
-    },
-    {
-        "date": "Mi, 17.09",
-        "time": "",
-        "event": "Krakeln (@nr.z.p)",
-        "link": "https://nrzp.de/event/krakeln-21",
-        "image_url": "https://nrzp.de/wp-content/uploads/2024/10/Banner-Instagram-Post.zip-2.png"
     },
     {
         "date": "Wed, 17.09.2025",
