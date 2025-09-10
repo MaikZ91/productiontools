@@ -133,6 +133,36 @@
     },
     {
         "date": "Wed, 10.09.2025",
+        "time": "16:00",
+        "event": "Vintage POP- UP (@blend.haus)",
+        "category": "",
+        "description": "Im Blendhaus trifft Lieblingsstück auf Lieblingssound – einfach vorbeikommen, stöbern und den Vibe genießen. 🎶🪩",
+        "link": "https://rausgegangen.de/en/events/vintage-pop-up-43/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lUtWUu4Q1u8GJzMdMvni_imgafad83b12eb3-1.jpeg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Wed, 10.09.2025",
+        "time": "18:00",
+        "event": "MUSIK BINGO! präsentiert von Gut Quiz (@KLUBHAUS Dortmund)",
+        "category": "",
+        "description": "Musik-Nerds & Party-People aufgepasst 🎶🍸 – bei MUSIK BINGO mixt sich Quiz-Spannung mit Freigetränken und richtig viel Nostalgie-Vibe!",
+        "link": "https://rausgegangen.de/en/events/musik-bingo-prasentiert-von-gut-quiz-16/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/qaSJVUQyRi6bKGSbrmSz_klubhaus-bingo-collage.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Wed, 10.09.2025",
+        "time": "19:00",
+        "event": "NuClub - Die After Work Party im Strobels (@Strobels)",
+        "category": "",
+        "description": "Frühling im Strobels! 🌸 DJ-Sounds von 80ern bis heute, leckeres Essen und Drinks – der perfekte Mittwochabend! 🎶",
+        "link": "https://rausgegangen.de/en/events/nuclub-die-after-work-party-im-strobels-20/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Lx76sowBTFWxLCtJq5Fk_nu-club-logo-tv-screen.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Wed, 10.09.2025",
         "time": "11:00",
         "event": "IN EVENT  OF MOON DISASTER (@CINÉMATHÈQUE)",
         "category": "",
@@ -180,36 +210,6 @@
         "link": "https://rausgegangen.de/en/events/anouk-adofa-ua-5/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/yfa5kb4qpdnk.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Wed, 10.09.2025",
-        "time": "16:00",
-        "event": "Vintage POP- UP (@blend.haus)",
-        "category": "",
-        "description": "Im Blendhaus trifft Lieblingsstück auf Lieblingssound – einfach vorbeikommen, stöbern und den Vibe genießen. 🎶🪩",
-        "link": "https://rausgegangen.de/en/events/vintage-pop-up-43/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lUtWUu4Q1u8GJzMdMvni_imgafad83b12eb3-1.jpeg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Wed, 10.09.2025",
-        "time": "18:00",
-        "event": "MUSIK BINGO! präsentiert von Gut Quiz (@KLUBHAUS Dortmund)",
-        "category": "",
-        "description": "Musik-Nerds & Party-People aufgepasst 🎶🍸 – bei MUSIK BINGO mixt sich Quiz-Spannung mit Freigetränken und richtig viel Nostalgie-Vibe!",
-        "link": "https://rausgegangen.de/en/events/musik-bingo-prasentiert-von-gut-quiz-16/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/qaSJVUQyRi6bKGSbrmSz_klubhaus-bingo-collage.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Wed, 10.09.2025",
-        "time": "19:00",
-        "event": "NuClub - Die After Work Party im Strobels (@Strobels)",
-        "category": "",
-        "description": "Frühling im Strobels! 🌸 DJ-Sounds von 80ern bis heute, leckeres Essen und Drinks – der perfekte Mittwochabend! 🎶",
-        "link": "https://rausgegangen.de/en/events/nuclub-die-after-work-party-im-strobels-20/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Lx76sowBTFWxLCtJq5Fk_nu-club-logo-tv-screen.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
     },
     {
         "date": "Wed, 10.09.2025",
@@ -449,14 +449,6 @@
     },
     {
         "date": "Th, 11.09.2025",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 11.09.2025",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -494,6 +486,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Th, 11.09.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Do, 11.09.2025",
@@ -1025,6 +1025,14 @@
         "link": "https://www.bielefeld.jetzt/node/1181538"
     },
     {
+        "date": "Fri, 12.09",
+        "time": "23:00",
+        "event": "MoreCore Party Bielefeld - auf 3 Floors (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/morecore-party-bielefeld-auf-3-floors/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/MCP_Bielefeld-eventbanner.png"
+    },
+    {
         "date": "Fr, 12.09.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -1055,14 +1063,6 @@
         "category": "Kreativität",
         "link": "https://kunsthalle-bielefeld.de/programm/veranstaltungen/#10209",
         "image_url": null
-    },
-    {
-        "date": "Fri, 12.09",
-        "time": "23:00",
-        "event": "MoreCore Party Bielefeld - auf 3 Floors (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/morecore-party-bielefeld-auf-3-floors/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/MCP_Bielefeld-eventbanner.png"
     },
     {
         "date": "Fr, 12.09.2025",
@@ -1576,6 +1576,14 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250913_GirlsNightOut_4zu5.jpg"
     },
     {
+        "date": "Sat, 13.09",
+        "time": "23:00",
+        "event": "STEREOLOVE (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/stereolove-2/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/Stereo_13_0925_Feed.jpg"
+    },
+    {
         "date": "Sa, 13.09.2025",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -1606,14 +1614,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sat, 13.09",
-        "time": "23:00",
-        "event": "STEREOLOVE (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/stereolove-2/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/Stereo_13_0925_Feed.jpg"
     },
     {
         "date": "Sa, 13.09.2025",
@@ -1671,26 +1671,6 @@
     },
     {
         "date": "Sat, 13.09.2025",
-        "time": "10:00",
-        "event": "ORIGINS - Ursprung des Lebens (@Kunstkraftwerk Leipzig)",
-        "category": "",
-        "description": "Mit ORIGINS geht’s im Kunstkraftwerk auf eine visuelle Reise durch die Entstehung des Lebens – ein 360-Grad-Erlebnis, das Kunst, Wissenschaft und Technologie vereint!",
-        "link": "https://rausgegangen.de/en/events/origins-ursprung-des-lebens-115/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/w48bObS5GsbzwQueECwK_originsfotograf-luca-migliore003.JPG?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
-    },
-    {
-        "date": "Sat, 13.09.2025",
-        "time": "19:00",
-        "event": "Down the Maw: Metalcore Live-Nacht & Aftershow-Party (@TV-Club Leipzig)",
-        "category": "",
-        "description": "Vier Acts entfesseln die geballte Power des modernen Metalcore: Circle 9, Wither, Vile und Throatcut liefern eine Liveshow, die dich durchschütteln wird – kompromisslos, düster und heavy as hell. 🎧 Danach geht’s direkt weiter mit einer Metalcore-Party, bei der unser DJ dir die härtesten Banger und tiefsten Breakdowns um die Ohren haut. Perfekt zum Abriss bis in die Nacht! 🖤🔥🎶🎟️ Tickets: 💻 VVK Online-Ticket: 15 € 🎫 VVK Hard-Ticket: 16 € 🚪 Abendkasse: 20 €📄 Einlass ausnahmsweise ab 16 Jahren! 👉 Muttizettel unter tv-club-leipzig.de downloaden, ausdrucken & unterschrieben mitbringen!Metalcore, Clubatmosphäre & Heavy Vibes – alles in einer Nacht. Nicht verpassen!",
-        "link": "https://rausgegangen.de/en/events/down-the-maw-metalcore-live-nacht-aftershow-party-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/abRkVMS3RzKZR5s6a53s_2025-09-13-querformat.jpg?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
-    },
-    {
-        "date": "Sat, 13.09.2025",
         "time": "14:00",
         "event": "Die Wunschmaschine (@Theater Fletch Bizzel)",
         "category": "",
@@ -1708,6 +1688,26 @@
         "link": "https://rausgegangen.de/en/events/nice-up-136-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GTCPLSCJQIw9dpOrQQB9_nice-upbeitragneu-1920-x-1080-px-4.jpg?width=1200&height=900&mode=crop",
         "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 13.09.2025",
+        "time": "10:00",
+        "event": "ORIGINS - Ursprung des Lebens (@Kunstkraftwerk Leipzig)",
+        "category": "",
+        "description": "Mit ORIGINS geht’s im Kunstkraftwerk auf eine visuelle Reise durch die Entstehung des Lebens – ein 360-Grad-Erlebnis, das Kunst, Wissenschaft und Technologie vereint!",
+        "link": "https://rausgegangen.de/en/events/origins-ursprung-des-lebens-115/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/w48bObS5GsbzwQueECwK_originsfotograf-luca-migliore003.JPG?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
+    },
+    {
+        "date": "Sat, 13.09.2025",
+        "time": "18:00",
+        "event": "YUNG PEPP I OPEN AIR I + SPECIAL GUESTS (@Moritzbastei)",
+        "category": "",
+        "description": "Yung Pepp kündigt erstes Solokonzert in Leipzig an Nach einem prall gefüllten ersten Halbjahr mit Pop-Up-Events, Splash!-Festival und Songs, die sich ihren Weg durch Schulflure, kleine wie große Bühnen und in die Feeds zahlreicher Supporter gebahnt haben, steht für Yung Pepp jetzt der nächste Schritt an: Am 13. September spielt der 16-jährige Rapper sein erstes Solokonzert – in seiner Heimatstadt Leipzig, in der Moritzbastei. Mit Songs wie „Junge Träume aus Gold“ und „Wassereis“ erzählt Yung Pepp vom Aufwachsen im Osten – mal nachdenklich, mal verspielt, aber immer direkt aus dem Leben. Zwischen Bolzplatz, Spätibänken und den Straßen von Plagwitz fängt er ein Lebensgefühl ein, das persönlich ist, voller Haltung – und vor allem eins: echt. Für sein Heimspiel hat sich Yung Pepp einige handverlesene Special Guests eingeladen, die in den kommenden Wochen nach und nach angekündigt werden. Tickets sind ab sofort erhältlich – der Vorverkauf läuft.",
+        "link": "https://rausgegangen.de/en/events/yung-pepp-live-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/dkZxZ4USGSVZdbh2Xm0i_unnamed.png?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
     },
     {
         "date": "Sat, 13.09.2025",
@@ -2161,14 +2161,6 @@
     },
     {
         "date": "Th, 18.09.2025",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 18.09.2025",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -2206,6 +2198,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Th, 18.09.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Do, 18.09.2025",
@@ -2302,6 +2302,14 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250919_fckgenres_4zu5.jpg"
     },
     {
+        "date": "Fri, 19.09",
+        "time": "23:00",
+        "event": "WILDE HERZEN &amp; Peinlo Pop Party (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/wilde-herzen-peinlo-pop-party/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/2025_Header_WH_neutral.png"
+    },
+    {
         "date": "Fr, 19.09.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -2324,14 +2332,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Fri, 19.09",
-        "time": "23:00",
-        "event": "WILDE HERZEN &amp; Peinlo Pop Party (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/wilde-herzen-peinlo-pop-party/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/2025_Header_WH_neutral.png"
     },
     {
         "date": "Fr, 19.09.2025",
@@ -2449,6 +2449,14 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250920_BTTR_4zu5_NEU.jpg"
     },
     {
+        "date": "Sat, 20.09",
+        "time": "23:00",
+        "event": "STEREOLOVE (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/stereolove-3/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/Stereo_20_0925_Feed.jpg"
+    },
+    {
         "date": "Sa, 20.09.2025",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -2479,14 +2487,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sat, 20.09",
-        "time": "23:00",
-        "event": "STEREOLOVE (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/stereolove-3/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/Stereo_20_0925_Feed.jpg"
     },
     {
         "date": "Sa, 20.09.2025",
@@ -2830,14 +2830,6 @@
     },
     {
         "date": "Th, 25.09.2025",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 25.09.2025",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -2877,6 +2869,14 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Th, 25.09.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
+    },
+    {
         "date": "Thu, 25.09.2025",
         "time": "20:00",
         "event": "Indie-Frühparty! Turbo-Tanz-Treff (Münster) im Lola-Garten mit eavo (@Rote Lola)",
@@ -2914,6 +2914,14 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250926_Turbotrash_4zu5.jpg"
     },
     {
+        "date": "Fri, 26.09",
+        "time": "23:00",
+        "event": "Studi Pop! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/studi-pop/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/Stereo_26_0925_Feed.jpg"
+    },
+    {
         "date": "Fr, 26.09.2025",
         "time": "19:00",
         "event": "*TRIBE CREATIVE CIRCLES*",
@@ -2944,14 +2952,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Fri, 26.09",
-        "time": "23:00",
-        "event": "Studi Pop! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/studi-pop/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/Stereo_26_0925_Feed.jpg"
     },
     {
         "date": "Fri, 26.09.2025",
@@ -3017,6 +3017,14 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250927_LoveSaturdays_Cocktail_4zu5.jpg"
     },
     {
+        "date": "Sat, 27.09",
+        "time": "23:00",
+        "event": "Freundeskreisparty (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/freundeskreisparty/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/Stereo_27_0925_Feed.jpg"
+    },
+    {
         "date": "Sa, 27.09.2025",
         "time": "14:00",
         "event": "*TRIBE WANDERSAMSTAG*",
@@ -3055,14 +3063,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sat, 27.09",
-        "time": "23:00",
-        "event": "Freundeskreisparty (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/freundeskreisparty/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/Stereo_27_0925_Feed.jpg"
     },
     {
         "date": "Sa, 27.09",
@@ -3371,20 +3371,20 @@
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
-        "date": "Th, 02.10.2025",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
         "date": "Do, 02.10",
         "time": "23:00",
         "event": "DO• 95 JAHRE CAFE EUROPA (@cafe_europa_bi)",
         "category": "Party",
         "link": "https://cafeeuropa.de/event/do-95-jahre-cafe-europa/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20251002_95Jahre_Cafe_1zu1-1.jpg"
+    },
+    {
+        "date": "Thu, 02.10",
+        "time": "22:00",
+        "event": "FΛTΞ ◎ INDOOR BLACK MUSIC FESTIVAL ◎ (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/f%ce%bbt%ce%be-%e2%97%8e-indoor-black-music-festival-%e2%97%8e/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/Fate_Feed_01-1.jpg"
     },
     {
         "date": "Th, 02.10.2025",
@@ -3427,12 +3427,12 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Thu, 02.10",
-        "time": "22:00",
-        "event": "FΛTΞ ◎ INDOOR BLACK MUSIC FESTIVAL ◎ (@stereobielefeld)",
+        "date": "Th, 02.10.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/f%ce%bbt%ce%be-%e2%97%8e-indoor-black-music-festival-%e2%97%8e/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/Fate_Feed_01-1.jpg"
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 02.10",
@@ -3552,6 +3552,22 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251004_CasaDanza_4zu5.jpg"
     },
     {
+        "date": "Sat, 04.10",
+        "time": "19:00",
+        "event": "Mutti tanzt! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/mutti-tanzt/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/05/Stereo_MT_04_1025_Feed01.jpg"
+    },
+    {
+        "date": "Sat, 04.10",
+        "time": "23:00",
+        "event": "Bravo Hits (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/stereostern-bravo-hits/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/Key-Visual-2-BRAVO-4-5.jpg"
+    },
+    {
         "date": "Sa, 04.10.2025",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -3582,22 +3598,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sat, 04.10",
-        "time": "19:00",
-        "event": "Mutti tanzt! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/mutti-tanzt/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/05/Stereo_MT_04_1025_Feed01.jpg"
-    },
-    {
-        "date": "Sat, 04.10",
-        "time": "23:00",
-        "event": "Bravo Hits (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/stereostern-bravo-hits/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/Key-Visual-2-BRAVO-4-5.jpg"
     },
     {
         "date": "Sa, 04.10",
@@ -3830,14 +3830,6 @@
     },
     {
         "date": "Th, 09.10.2025",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 09.10.2025",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -3875,6 +3867,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Th, 09.10.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 09.10",
@@ -4152,6 +4152,14 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251015_SalitosWelcome_4zu5-1.jpg"
     },
     {
+        "date": "Wed, 15.10",
+        "time": "23:00",
+        "event": "Semesterstart - Party (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/semesterstart-party/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/Stereo_15_1025_Feed.jpg"
+    },
+    {
         "date": "We, 15.10.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -4182,14 +4190,6 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
-    },
-    {
-        "date": "Wed, 15.10",
-        "time": "23:00",
-        "event": "Semesterstart - Party (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/semesterstart-party/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/Stereo_15_1025_Feed.jpg"
     },
     {
         "date": "Mi, 15.10",
@@ -4224,14 +4224,6 @@
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
-    },
-    {
-        "date": "Th, 16.10.2025",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
     },
     {
         "date": "Th, 16.10.2025",
@@ -4272,6 +4264,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Th, 16.10.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 16.10",
@@ -4539,14 +4539,6 @@
     },
     {
         "date": "Th, 23.10.2025",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 23.10.2025",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -4584,6 +4576,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Th, 23.10.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Thu, 23.10.2025",
@@ -4883,14 +4883,6 @@
     },
     {
         "date": "Th, 30.10.2025",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 30.10.2025",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -4928,6 +4920,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Th, 30.10.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Thu, 30.10.2025",
@@ -5194,14 +5194,6 @@
     },
     {
         "date": "Th, 06.11.2025",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 06.11.2025",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -5239,6 +5231,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Th, 06.11.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Fr, 07.11.2025",
@@ -5517,14 +5517,6 @@
     },
     {
         "date": "Th, 13.11.2025",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 13.11.2025",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -5564,6 +5556,22 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Th, 13.11.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "Fri, 14.11",
+        "time": "23:00",
+        "event": "Taylor &amp; Harry Night (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/taylor-harry-night/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/2025-11-14-TH-Stereo-Kachel.png"
+    },
+    {
         "date": "Fr, 14.11.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -5594,14 +5602,6 @@
         "category": "Kreativität",
         "link": "https://kunsthalle-bielefeld.de/programm/veranstaltungen/#10209",
         "image_url": null
-    },
-    {
-        "date": "Fri, 14.11",
-        "time": "23:00",
-        "event": "Taylor &amp; Harry Night (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/taylor-harry-night/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/2025-11-14-TH-Stereo-Kachel.png"
     },
     {
         "date": "Fri, 14.11.2025",
@@ -5795,14 +5795,6 @@
     },
     {
         "date": "Th, 20.11.2025",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 20.11.2025",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -5840,6 +5832,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Th, 20.11.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Thu, 20.11.2025",
@@ -6079,14 +6079,6 @@
     },
     {
         "date": "Th, 27.11.2025",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 27.11.2025",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -6124,6 +6116,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Th, 27.11.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 27.11",
@@ -6164,6 +6164,14 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Sat, 29.11",
+        "time": "22:00",
+        "event": "DISKO TOTAL! // Die Party für alle ab 25! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/disko-total-die-party-fuer-alle-ab-25/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/DISKOTOTAL.png"
+    },
+    {
         "date": "Sa, 29.11.2025",
         "time": "14:00",
         "event": "*TRIBE WANDERSAMSTAG*",
@@ -6202,14 +6210,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sat, 29.11",
-        "time": "22:00",
-        "event": "DISKO TOTAL! // Die Party für alle ab 25! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/disko-total-die-party-fuer-alle-ab-25/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/DISKOTOTAL.png"
     },
     {
         "date": "Sat, 29.11.2025",
@@ -6344,14 +6344,6 @@
     },
     {
         "date": "Th, 04.12.2025",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 04.12.2025",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -6389,6 +6381,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Th, 04.12.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Fr, 05.12.2025",
@@ -6629,14 +6629,6 @@
     },
     {
         "date": "Th, 11.12.2025",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 11.12.2025",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -6676,10 +6668,26 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Th, 11.12.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
+    },
+    {
         "date": "Th, 11.12",
         "event": "Reis against the Spülmaschine (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/reis-against-the-spuelmaschine/",
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
+    },
+    {
+        "date": "Fri, 12.12",
+        "time": "23:00",
+        "event": "Drunken Masters - ABRISS &amp; DEMONTAGE! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/drunken-masters-abriss-demontage/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Drunken-Masters_Tour_25-26_26-1.jpg"
     },
     {
         "date": "Fr, 12.12.2025",
@@ -6712,14 +6720,6 @@
         "category": "Kreativität",
         "link": "https://kunsthalle-bielefeld.de/programm/veranstaltungen/#10209",
         "image_url": null
-    },
-    {
-        "date": "Fri, 12.12",
-        "time": "23:00",
-        "event": "Drunken Masters - ABRISS &amp; DEMONTAGE! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/drunken-masters-abriss-demontage/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Drunken-Masters_Tour_25-26_26-1.jpg"
     },
     {
         "date": "Fri, 12.12.2025",
@@ -6913,14 +6913,6 @@
     },
     {
         "date": "Th, 18.12.2025",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 18.12.2025",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -6958,6 +6950,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Th, 18.12.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Th, 18.12",
@@ -7134,14 +7134,6 @@
     },
     {
         "date": "Th, 25.12.2025",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 25.12.2025",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -7179,6 +7171,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Th, 25.12.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": null
     },
     {
         "date": "Fr, 26.12.2025",
