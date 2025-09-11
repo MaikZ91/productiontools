@@ -16,30 +16,6 @@
         "image_url": null
     },
     {
-        "date": "Do, 11.09.2025",
-        "time": "16:30",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 11.09.2025",
-        "time": "17:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 11.09.2025",
-        "time": "18:30",
-        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35659",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
         "date": "Th, 11.09.2025",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
@@ -78,6 +54,30 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Do, 11.09.2025",
+        "time": "16:30",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 11.09.2025",
+        "time": "17:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 11.09.2025",
+        "time": "18:30",
+        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35659",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Do, 11.09.2025",
@@ -134,6 +134,66 @@
         "link": "https://rausgegangen.de/en/events/ostwarts-mit-der-transsib-ein-making-of-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/na54xoYoQOCZKEl3iQxx_1auf-der-fur-den-regularen-zugverkehr-stillgelegten-trasse-am-baikalsee.JPG?width=1200&height=900&mode=crop",
         "city": "Münster"
+    },
+    {
+        "date": "Thu, 11.09.2025",
+        "time": "12:00",
+        "event": "Glücksgefühle Festival 2025 (@Hockenheimring)",
+        "category": "",
+        "description": "40 Stunden Live Musik auf dem größten Musikfestival Deutschlands Mit dabei die besten Acts aus den Genres Pop, Rock, Hip Hop und EDM - Endorphine garantiert!",
+        "link": "https://rausgegangen.de/en/events/glucksgefuhle-festival-2024-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fY13HQ1MSHilWa28bjXF_ggfticketshophintergrundbild3.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Thu, 11.09.2025",
+        "time": "16:00",
+        "event": "Vintage POP- UP (@blend.haus)",
+        "category": "",
+        "description": "Im Blendhaus trifft Lieblingsstück auf Lieblingssound – einfach vorbeikommen, stöbern und den Vibe genießen. 🎶🪩",
+        "link": "https://rausgegangen.de/en/events/vintage-pop-up-44/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lUtWUu4Q1u8GJzMdMvni_imgafad83b12eb3-1.jpeg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Thu, 11.09.2025",
+        "time": "16:00",
+        "event": "Feierabend-Markt (@Theater Dortmund)",
+        "category": "",
+        "description": "Ein besonderer Markt mit Live-Musik von Künstler:innen aus dem Ensemble & Opernchor – dazu gutes Essen, Wein & entspannte Vibes. Wie soll man besser den Tag ausklingen? 🍷🎭",
+        "link": "https://rausgegangen.de/en/events/feierabend-markt-28/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/CEdyOeBTAZy0vHWI79ug_250228some-famrausgegangen1080x600.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Thu, 11.09.2025",
+        "time": "17:00",
+        "event": "WerkAtelier MKK x MANUFACTUM Staatspreis 2025 (@Museum für Kunst und Kulturgeschichte)",
+        "category": "",
+        "description": "Kreativ werden, ausprobieren, Kunst feiern – das Werkatelier beim Manufactum Staatspreis 2025 ist der Place to be für alle jungen Macher:innen! ✨",
+        "link": "https://rausgegangen.de/en/events/werkatelier-mkk-x-manufactum-staatspreis-2025-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EyuNjJzXQO6jLeabTVUb_image00002-kopie.jpeg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Thu, 11.09.2025",
+        "time": "18:00",
+        "event": "Come Dogether: Beach Volleyball (@Kletterhalle Bergwerk)",
+        "category": "",
+        "description": "BEACH VOLLEYBALL & CONNECT ☀️🏐 Sonne im Gesicht, Sand unter den Füßen & gute Laune garantiert! Du brauchst keine Vorkenntnisse – nur Lust auf Bewegung & Mädelszeit.🔸 Einfach in Sportkleidung kommen 🔸 Trinkflasche nicht vergessen 🔸 Alles andere ist da – inkl. Vibes, Lachen & Teamspirit 💥Ob du das letzte Mal in der Schulzeit gespielt hast oder einfach Lust auf was Neues hast – du bist willkommen! 💛 📅 11.09, ab 18 Uhr 📍 Kletterhalle Bergwerk, DortmundLet’s move, connect & have fun 💃🏼Mit dem Kauf der Tickets erklärst du dich mit den Teilnahmebedingungen einverstanden: https://tr.ee/zd5JT_8Xr_ (bitte in den Browser kopieren)*Bitte beachtet, dass die Tickets nicht zurückerstattet werden können. Aber es gibt eine Tauschbörse innerhalb der Community, damit die Tickets ggf. weitergegeben werden können. Es gibt keine Garantie dass die Tickets weitervermittelt werden können.*Während der Veranstaltung von GirlsDOgether werden Foto- und Videoaufnahmen gemacht. Diese werden für Social Media Kanäle und Marketingzwecke genutzt. Falls du nicht aufgenommen werden möchtest, teile dies bitte unserem Team vor Ort mit. Vielen Dank für euer Verständnis und viel Spaß beim Event!",
+        "link": "https://rausgegangen.de/en/events/come-dogether-beach-volleyball-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/kTY7Py3RTTSPJWbMRh43_walk-29.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Thu, 11.09.2025",
+        "time": "19:00",
+        "event": "Poetry & Rap//Kleiner Freitag als Rahmenprogramm zur Ausstellung „Roots in Motion“ (@uzwei im Dortmunder U)",
+        "category": "",
+        "description": "Poetry & Rap//Kleiner Freitag als Rahmenprogramm zur Ausstellung „Roots in Motion“ 📅 11.09.25, 19 Uhr 💸 kostenfreiBeim Poetry & Rap Abend der Youth Group des VKII treffen Worte auf Beats – ein Abend voller Stimme, Haltung und kreativer Ausdruckskraft.Mehr zur Ausstellung „Roots in Motion“ auf der uzwei im Dortmunder U: www.aufderuzwei.de/roots-in-motion",
+        "link": "https://rausgegangen.de/en/events/poetry-rapkleiner-freitag-als-rahmenprogramm-zur-ausstellung-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Ufewdl38TompP9CDAMkh_floridadortmunderukleinerfreitageventbannerfbseptember.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Thu, 11.09.2025",
@@ -204,66 +264,6 @@
         "link": "https://rausgegangen.de/en/events/power-plush-release-party-x-cheers-queers-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fRaHdZgQS1eMATxAq9iY_ppreleaseparty1920x1080.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Thu, 11.09.2025",
-        "time": "12:00",
-        "event": "Glücksgefühle Festival 2025 (@Hockenheimring)",
-        "category": "",
-        "description": "40 Stunden Live Musik auf dem größten Musikfestival Deutschlands Mit dabei die besten Acts aus den Genres Pop, Rock, Hip Hop und EDM - Endorphine garantiert!",
-        "link": "https://rausgegangen.de/en/events/glucksgefuhle-festival-2024-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fY13HQ1MSHilWa28bjXF_ggfticketshophintergrundbild3.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Thu, 11.09.2025",
-        "time": "16:00",
-        "event": "Vintage POP- UP (@blend.haus)",
-        "category": "",
-        "description": "Im Blendhaus trifft Lieblingsstück auf Lieblingssound – einfach vorbeikommen, stöbern und den Vibe genießen. 🎶🪩",
-        "link": "https://rausgegangen.de/en/events/vintage-pop-up-44/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lUtWUu4Q1u8GJzMdMvni_imgafad83b12eb3-1.jpeg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Thu, 11.09.2025",
-        "time": "16:00",
-        "event": "Feierabend-Markt (@Theater Dortmund)",
-        "category": "",
-        "description": "Ein besonderer Markt mit Live-Musik von Künstler:innen aus dem Ensemble & Opernchor – dazu gutes Essen, Wein & entspannte Vibes. Wie soll man besser den Tag ausklingen? 🍷🎭",
-        "link": "https://rausgegangen.de/en/events/feierabend-markt-28/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/CEdyOeBTAZy0vHWI79ug_250228some-famrausgegangen1080x600.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Thu, 11.09.2025",
-        "time": "17:00",
-        "event": "WerkAtelier MKK x MANUFACTUM Staatspreis 2025 (@Museum für Kunst und Kulturgeschichte)",
-        "category": "",
-        "description": "Kreativ werden, ausprobieren, Kunst feiern – das Werkatelier beim Manufactum Staatspreis 2025 ist der Place to be für alle jungen Macher:innen! ✨",
-        "link": "https://rausgegangen.de/en/events/werkatelier-mkk-x-manufactum-staatspreis-2025-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EyuNjJzXQO6jLeabTVUb_image00002-kopie.jpeg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Thu, 11.09.2025",
-        "time": "18:00",
-        "event": "Come Dogether: Beach Volleyball (@Kletterhalle Bergwerk)",
-        "category": "",
-        "description": "BEACH VOLLEYBALL & CONNECT ☀️🏐 Sonne im Gesicht, Sand unter den Füßen & gute Laune garantiert! Du brauchst keine Vorkenntnisse – nur Lust auf Bewegung & Mädelszeit.🔸 Einfach in Sportkleidung kommen 🔸 Trinkflasche nicht vergessen 🔸 Alles andere ist da – inkl. Vibes, Lachen & Teamspirit 💥Ob du das letzte Mal in der Schulzeit gespielt hast oder einfach Lust auf was Neues hast – du bist willkommen! 💛 📅 11.09, ab 18 Uhr 📍 Kletterhalle Bergwerk, DortmundLet’s move, connect & have fun 💃🏼Mit dem Kauf der Tickets erklärst du dich mit den Teilnahmebedingungen einverstanden: https://tr.ee/zd5JT_8Xr_ (bitte in den Browser kopieren)*Bitte beachtet, dass die Tickets nicht zurückerstattet werden können. Aber es gibt eine Tauschbörse innerhalb der Community, damit die Tickets ggf. weitergegeben werden können. Es gibt keine Garantie dass die Tickets weitervermittelt werden können.*Während der Veranstaltung von GirlsDOgether werden Foto- und Videoaufnahmen gemacht. Diese werden für Social Media Kanäle und Marketingzwecke genutzt. Falls du nicht aufgenommen werden möchtest, teile dies bitte unserem Team vor Ort mit. Vielen Dank für euer Verständnis und viel Spaß beim Event!",
-        "link": "https://rausgegangen.de/en/events/come-dogether-beach-volleyball-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/kTY7Py3RTTSPJWbMRh43_walk-29.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Thu, 11.09.2025",
-        "time": "19:00",
-        "event": "Poetry & Rap//Kleiner Freitag als Rahmenprogramm zur Ausstellung „Roots in Motion“ (@uzwei im Dortmunder U)",
-        "category": "",
-        "description": "Poetry & Rap//Kleiner Freitag als Rahmenprogramm zur Ausstellung „Roots in Motion“ 📅 11.09.25, 19 Uhr 💸 kostenfreiBeim Poetry & Rap Abend der Youth Group des VKII treffen Worte auf Beats – ein Abend voller Stimme, Haltung und kreativer Ausdruckskraft.Mehr zur Ausstellung „Roots in Motion“ auf der uzwei im Dortmunder U: www.aufderuzwei.de/roots-in-motion",
-        "link": "https://rausgegangen.de/en/events/poetry-rapkleiner-freitag-als-rahmenprogramm-zur-ausstellung-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Ufewdl38TompP9CDAMkh_floridadortmunderukleinerfreitageventbannerfbseptember.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
     },
     {
         "date": "Thu, 11.09.2025",
@@ -534,30 +534,6 @@
     },
     {
         "date": "Fr, 12.09.2025",
-        "time": "16:00",
-        "event": "Volleyball(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35417",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Fr, 12.09.2025",
-        "time": "18:00",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35506",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Fr, 12.09.2025",
-        "time": "18:30",
-        "event": "Laufen(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35520",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Fr, 12.09.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
         "category": "Party",
@@ -587,6 +563,30 @@
         "category": "Kreativität",
         "link": "https://kunsthalle-bielefeld.de/programm/veranstaltungen/#10209",
         "image_url": null
+    },
+    {
+        "date": "Fr, 12.09.2025",
+        "time": "16:00",
+        "event": "Volleyball(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35417",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 12.09.2025",
+        "time": "18:00",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35506",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 12.09.2025",
+        "time": "18:30",
+        "event": "Laufen(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35520",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Fr, 12.09.2025",
@@ -1418,14 +1418,6 @@
         "link": "https://www.bielefeld.jetzt/node/1237970"
     },
     {
-        "date": "Sat, 13.09",
-        "time": "23:00",
-        "event": "STEREOLOVE (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/stereolove-2/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/Stereo_13_0925_Feed.jpg"
-    },
-    {
         "date": "Sa, 13.09",
         "time": "23:00",
         "event": "SA • GIRLS NIGHT OUT • RAUM2 : BOOTY BOUNCE (@cafe_europa_bi)",
@@ -1434,20 +1426,12 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250913_GirlsNightOut_4zu5.jpg"
     },
     {
-        "date": "Sa, 13.09.2025",
-        "time": "08:00",
-        "event": "Wandern(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38176",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 13.09.2025",
-        "time": "11:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+        "date": "Sat, 13.09",
+        "time": "23:00",
+        "event": "STEREOLOVE (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/stereolove-2/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/Stereo_13_0925_Feed.jpg"
     },
     {
         "date": "Sa, 13.09.2025",
@@ -1480,6 +1464,22 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 13.09.2025",
+        "time": "08:00",
+        "event": "Wandern(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38176",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 13.09.2025",
+        "time": "11:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Sa, 13.09.2025",
@@ -1518,6 +1518,26 @@
         "link": "https://rausgegangen.de/en/events/film-talk-how-to-be-normal-2/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/cMgs2EG3S6iWY0L5xOsk_w-filmhowtobenormal01.jpg?width=1200&height=900&mode=crop",
         "city": "Münster"
+    },
+    {
+        "date": "Sat, 13.09.2025",
+        "time": "14:00",
+        "event": "Die Wunschmaschine (@Theater Fletch Bizzel)",
+        "category": "",
+        "description": "Hereinspaziert in die WunschwerkstattEine musikalische Geschichte für Kinder ab 4 Jahren bis zum 2. Schuljahr mit der Wunscherfüllerin Dr. Wanda Kuriosa und ihrer frechen Ratte Ramon.Kinderwünsche sind einfallsreich, bunt und manchmal auch kostspielig für ein kleines Taschengeld. Dr. Wanda Kuriosa hingegen zeigt den Kindern in ihrer Wunschwerkstatt, was man sich alles wünschen kann, ohne es kaufen zu müssen. Denn für kein Geld der Welt ist Liebe, Freundschaft und vieles mehr zu haben.Dank der Wunschmaschine, ihrer ganz großen Erfindung, werden fast alle Wünsche wahr.",
+        "link": "https://rausgegangen.de/en/events/die-wunschmaschine-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/9ixSzk0WSnK7rX9E7xu8_kindertheater-zauberfloeckchen-die-wunschmaschine-dr-wanda-kuriosa-spricht-mit-ramon-1024x797.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 13.09.2025",
+        "time": "23:00",
+        "event": "Nice Up! #137 (@Großmarktschänke)",
+        "category": "",
+        "description": "Greetings, liebe Leute! ❤️💛💚Auch wenn der Sommer langsam seine letzten Sonnenstrahlen verteilt – die Vibes bleiben heiß und unaufhaltsam! Am Samstag, den 13.09., erwartet euch bei der NICE UP! ein ganz besonderes Fest der globalen Sounds und positiven Energie! Wir begrüßen ein fantastisches Line-Up: DJ Cenique, Puppa Julz & Lil Souljah sowie natürlich unser geliebtes Blockbuster Soundsystem.Puppa Julz & Lil Souljah stehen für pure Energie. Mit Reggae, Dancehall, Afro, Shatta und Hip-Hop bringen sie seit Jahren unaufhaltsam sprudelnde Bühnenpower – unter anderem im U Club und auf Festivals wie Ruhr Reggae Summer und Reggae Jam. DJ Cenique und Tschäck von den Blockies sorgen auf dem vorderen Floor mit Afrohouse & Afrobeats für pure Euphorie. Ihre Sets sind kraftvoll, tanzbar und voller Sonne – ein musikalisches Vitamin-D-Bad für Körper und Seele! Auf dem hinteren Floor beglücken uns Puppa Julz & Lil Souljah zusammen mit unseren Residents Blockbuster Soundsystem mit Dancehall & Reggae. Hier treffen tiefe Basslines auf karibische Hitze – perfekte Voraussetzungen für ekstatische Moves, schweißtreibende Stimmung und ein kollektives Abheben bis in die frühen Morgenstunden. Taucht mit uns ein in eine Nacht voller Musik, Tanz und good Vibes. Wir freuen uns auf euch! Big Up! Love Up! Nice Up! ✌️Eintritt bis 23:30 Uhr: € 6,00 - danach € 12,00 Ermäßigter Eintritt: € 8,00 | Zutritt ab 18",
+        "link": "https://rausgegangen.de/en/events/nice-up-136-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GTCPLSCJQIw9dpOrQQB9_nice-upbeitragneu-1920-x-1080-px-4.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Sat, 13.09.2025",
@@ -1568,26 +1588,6 @@
         "link": "https://rausgegangen.de/en/events/golden-apes-this-eternal-decay-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/9CjEUW35RUepPYCKyyd6_header-leipzig.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Sat, 13.09.2025",
-        "time": "14:00",
-        "event": "Die Wunschmaschine (@Theater Fletch Bizzel)",
-        "category": "",
-        "description": "Hereinspaziert in die WunschwerkstattEine musikalische Geschichte für Kinder ab 4 Jahren bis zum 2. Schuljahr mit der Wunscherfüllerin Dr. Wanda Kuriosa und ihrer frechen Ratte Ramon.Kinderwünsche sind einfallsreich, bunt und manchmal auch kostspielig für ein kleines Taschengeld. Dr. Wanda Kuriosa hingegen zeigt den Kindern in ihrer Wunschwerkstatt, was man sich alles wünschen kann, ohne es kaufen zu müssen. Denn für kein Geld der Welt ist Liebe, Freundschaft und vieles mehr zu haben.Dank der Wunschmaschine, ihrer ganz großen Erfindung, werden fast alle Wünsche wahr.",
-        "link": "https://rausgegangen.de/en/events/die-wunschmaschine-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/9ixSzk0WSnK7rX9E7xu8_kindertheater-zauberfloeckchen-die-wunschmaschine-dr-wanda-kuriosa-spricht-mit-ramon-1024x797.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 13.09.2025",
-        "time": "23:00",
-        "event": "Nice Up! #137 (@Großmarktschänke)",
-        "category": "",
-        "description": "Greetings, liebe Leute! ❤️💛💚Auch wenn der Sommer langsam seine letzten Sonnenstrahlen verteilt – die Vibes bleiben heiß und unaufhaltsam! Am Samstag, den 13.09., erwartet euch bei der NICE UP! ein ganz besonderes Fest der globalen Sounds und positiven Energie! Wir begrüßen ein fantastisches Line-Up: DJ Cenique, Puppa Julz & Lil Souljah sowie natürlich unser geliebtes Blockbuster Soundsystem.Puppa Julz & Lil Souljah stehen für pure Energie. Mit Reggae, Dancehall, Afro, Shatta und Hip-Hop bringen sie seit Jahren unaufhaltsam sprudelnde Bühnenpower – unter anderem im U Club und auf Festivals wie Ruhr Reggae Summer und Reggae Jam. DJ Cenique und Tschäck von den Blockies sorgen auf dem vorderen Floor mit Afrohouse & Afrobeats für pure Euphorie. Ihre Sets sind kraftvoll, tanzbar und voller Sonne – ein musikalisches Vitamin-D-Bad für Körper und Seele! Auf dem hinteren Floor beglücken uns Puppa Julz & Lil Souljah zusammen mit unseren Residents Blockbuster Soundsystem mit Dancehall & Reggae. Hier treffen tiefe Basslines auf karibische Hitze – perfekte Voraussetzungen für ekstatische Moves, schweißtreibende Stimmung und ein kollektives Abheben bis in die frühen Morgenstunden. Taucht mit uns ein in eine Nacht voller Musik, Tanz und good Vibes. Wir freuen uns auf euch! Big Up! Love Up! Nice Up! ✌️Eintritt bis 23:30 Uhr: € 6,00 - danach € 12,00 Ermäßigter Eintritt: € 8,00 | Zutritt ab 18",
-        "link": "https://rausgegangen.de/en/events/nice-up-136-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GTCPLSCJQIw9dpOrQQB9_nice-upbeitragneu-1920-x-1080-px-4.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
     },
     {
         "date": "Sat, 13.09.2025",
@@ -1684,6 +1684,22 @@
         "link": "https://www.bielefeld.jetzt/node/1164266"
     },
     {
+        "date": "Su, 14.09.2025",
+        "time": "19:00",
+        "event": "*TRIBE KENNENLERNABEND*",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Su, 14.09.2025",
+        "time": "09:00",
+        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/uprunningclub/?hl=de",
+        "image_url": null
+    },
+    {
         "date": "So, 14.09.2025",
         "time": "09:00",
         "event": "Yoga(@hochschulsport_bielefeld)",
@@ -1706,22 +1722,6 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37043",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Su, 14.09.2025",
-        "time": "19:00",
-        "event": "*TRIBE KENNENLERNABEND*",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Su, 14.09.2025",
-        "time": "09:00",
-        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/uprunningclub/?hl=de",
-        "image_url": null
     },
     {
         "date": "So, 14.09",
@@ -1818,6 +1818,22 @@
     },
     {
         "date": "Mo, 15.09.2025",
+        "time": "20:00",
+        "event": "Pub Quiz (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "Mo, 15.09.2025",
+        "time": "18:00",
+        "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Mo, 15.09.2025",
         "time": "17:00",
         "event": "Volleyball(@hochschulsport_bielefeld)",
         "category": "Sport",
@@ -1857,20 +1873,20 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Mo, 15.09.2025",
-        "time": "20:00",
-        "event": "Pub Quiz (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Mo, 15.09.2025",
+        "date": "Tu, 16.09.2025",
         "time": "18:00",
-        "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
+        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
         "category": "Sport",
         "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         "image_url": null
+    },
+    {
+        "date": "Tu, 16.09.2025",
+        "time": "07:00",
+        "event": "Wochenmarkt(@Alter Markt)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Di, 16.09.2025",
@@ -1903,22 +1919,6 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35416",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Tu, 16.09.2025",
-        "time": "18:00",
-        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Tu, 16.09.2025",
-        "time": "07:00",
-        "event": "Wochenmarkt(@Alter Markt)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Tue, 16.09.2025",
@@ -1956,6 +1956,38 @@
         "category": "Party",
         "link": "https://cafeeuropa.de/event/mi-bergfest-19/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250917_Bergfest_4zu5.jpg"
+    },
+    {
+        "date": "We, 17.09.2025",
+        "time": "21:00",
+        "event": "Karaoke (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "We, 17.09.2025",
+        "time": "18:00",
+        "event": "*TRIBE BOULDERN (@Kletterhalle Senne)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "We, 17.09.2025",
+        "time": "07:00",
+        "event": "Wochenmarkt(@Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "We, 17.09.2025",
+        "time": "20:00",
+        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
+        "image_url": null
     },
     {
         "date": "Mi, 17.09.2025",
@@ -2004,38 +2036,6 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35504",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "We, 17.09.2025",
-        "time": "21:00",
-        "event": "Karaoke (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "We, 17.09.2025",
-        "time": "18:00",
-        "event": "*TRIBE BOULDERN (@Kletterhalle Senne)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "We, 17.09.2025",
-        "time": "07:00",
-        "event": "Wochenmarkt(@Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "We, 17.09.2025",
-        "time": "20:00",
-        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
-        "image_url": null
     },
     {
         "date": "Mi, 17.09.2025",
@@ -2097,30 +2097,6 @@
         "image_url": null
     },
     {
-        "date": "Do, 18.09.2025",
-        "time": "16:30",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 18.09.2025",
-        "time": "17:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 18.09.2025",
-        "time": "18:30",
-        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35659",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
         "date": "Th, 18.09.2025",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
@@ -2159,6 +2135,30 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Do, 18.09.2025",
+        "time": "16:30",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 18.09.2025",
+        "time": "17:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 18.09.2025",
+        "time": "18:30",
+        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35659",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Do, 18.09.2025",
@@ -2223,14 +2223,6 @@
         "link": "https://www.bielefeld.jetzt/node/1089501"
     },
     {
-        "date": "Fri, 19.09",
-        "time": "23:00",
-        "event": "WILDE HERZEN &amp; Peinlo Pop Party (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/wilde-herzen-peinlo-pop-party/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/2025_Header_WH_neutral.png"
-    },
-    {
         "date": "Fr, 19.09",
         "time": "23:00",
         "event": "FR • F*CK GENRES • RAUM2: BOOTY BOUNCE (@cafe_europa_bi)",
@@ -2239,28 +2231,12 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250919_fckgenres_4zu5.jpg"
     },
     {
-        "date": "Fr, 19.09.2025",
-        "time": "16:00",
-        "event": "Volleyball(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35417",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Fr, 19.09.2025",
-        "time": "18:00",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35506",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Fr, 19.09.2025",
-        "time": "18:30",
-        "event": "Laufen(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35520",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+        "date": "Fri, 19.09",
+        "time": "23:00",
+        "event": "WILDE HERZEN &amp; Peinlo Pop Party (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/wilde-herzen-peinlo-pop-party/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/2025_Header_WH_neutral.png"
     },
     {
         "date": "Fr, 19.09.2025",
@@ -2285,6 +2261,30 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 19.09.2025",
+        "time": "16:00",
+        "event": "Volleyball(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35417",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 19.09.2025",
+        "time": "18:00",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35506",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 19.09.2025",
+        "time": "18:30",
+        "event": "Laufen(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35520",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Fr, 19.09.2025",
@@ -2370,14 +2370,6 @@
         "link": "https://www.bielefeld.jetzt/node/1225360"
     },
     {
-        "date": "Sat, 20.09",
-        "time": "23:00",
-        "event": "STEREOLOVE (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/stereolove-3/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/Stereo_20_0925_Feed.jpg"
-    },
-    {
         "date": "Sa, 20.09",
         "time": "23:00",
         "event": "SA • Back To The Roots mit KARYO & NOVA (@cafe_europa_bi)",
@@ -2386,20 +2378,12 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250920_BTTR_4zu5_NEU.jpg"
     },
     {
-        "date": "Sa, 20.09.2025",
-        "time": "08:00",
-        "event": "Wandern(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38176",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 20.09.2025",
-        "time": "11:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+        "date": "Sat, 20.09",
+        "time": "23:00",
+        "event": "STEREOLOVE (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/stereolove-3/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/Stereo_20_0925_Feed.jpg"
     },
     {
         "date": "Sa, 20.09.2025",
@@ -2432,6 +2416,22 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 20.09.2025",
+        "time": "08:00",
+        "event": "Wandern(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38176",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 20.09.2025",
+        "time": "11:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Sa, 20.09.2025",
@@ -2851,20 +2851,20 @@
         "link": "https://www.bielefeld.jetzt/node/955618"
     },
     {
-        "date": "Fri, 26.09",
-        "time": "23:00",
-        "event": "Studi Pop! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/studi-pop/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/Stereo_26_0925_Feed.jpg"
-    },
-    {
         "date": "Fr, 26.09",
         "time": "23:00",
         "event": "FR • TURBO TRASH (@cafe_europa_bi)",
         "category": "Party",
         "link": "https://cafeeuropa.de/event/fr-turbo-trash-5/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250926_Turbotrash_4zu5.jpg"
+    },
+    {
+        "date": "Fri, 26.09",
+        "time": "23:00",
+        "event": "Studi Pop! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/studi-pop/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/Stereo_26_0925_Feed.jpg"
     },
     {
         "date": "Fr, 26.09.2025",
@@ -2954,20 +2954,20 @@
         "link": "https://www.bielefeld.jetzt/node/1225362"
     },
     {
-        "date": "Sat, 27.09",
-        "time": "23:00",
-        "event": "Freundeskreisparty (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/freundeskreisparty/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/Stereo_27_0925_Feed.jpg"
-    },
-    {
         "date": "Sa, 27.09",
         "time": "23:00",
         "event": "SA • LOVE SATURDAYS x COCKTAIL NIGHT (@cafe_europa_bi)",
         "category": "Party",
         "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-cocktail-night-2/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250927_LoveSaturdays_Cocktail_4zu5.jpg"
+    },
+    {
+        "date": "Sat, 27.09",
+        "time": "23:00",
+        "event": "Freundeskreisparty (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/freundeskreisparty/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/Stereo_27_0925_Feed.jpg"
     },
     {
         "date": "Sa, 27.09.2025",
@@ -3324,20 +3324,20 @@
         "image_url": null
     },
     {
-        "date": "Thu, 02.10",
-        "time": "22:00",
-        "event": "FΛTΞ ◎ INDOOR BLACK MUSIC FESTIVAL ◎ (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/f%ce%bbt%ce%be-%e2%97%8e-indoor-black-music-festival-%e2%97%8e/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/Fate_Feed_01-1.jpg"
-    },
-    {
         "date": "Do, 02.10",
         "time": "23:00",
         "event": "DO• 95 JAHRE CAFE EUROPA (@cafe_europa_bi)",
         "category": "Party",
         "link": "https://cafeeuropa.de/event/do-95-jahre-cafe-europa/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20251002_95Jahre_Cafe_1zu1-1.jpg"
+    },
+    {
+        "date": "Thu, 02.10",
+        "time": "22:00",
+        "event": "FΛTΞ ◎ INDOOR BLACK MUSIC FESTIVAL ◎ (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/f%ce%bbt%ce%be-%e2%97%8e-indoor-black-music-festival-%e2%97%8e/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/Fate_Feed_01-1.jpg"
     },
     {
         "date": "Th, 02.10.2025",
@@ -3498,6 +3498,14 @@
         "link": "https://www.bielefeld.jetzt/node/1260170"
     },
     {
+        "date": "Sa, 04.10",
+        "time": "23:00",
+        "event": "SA • CASA DANZA ft CAFE EUROPA (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-caza-danza-ft-cafe-europa/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251004_CasaDanza_4zu5.jpg"
+    },
+    {
         "date": "Sat, 04.10",
         "time": "19:00",
         "event": "Mutti tanzt! (@stereobielefeld)",
@@ -3512,14 +3520,6 @@
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/stereostern-bravo-hits/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/Key-Visual-2-BRAVO-4-5.jpg"
-    },
-    {
-        "date": "Sa, 04.10",
-        "time": "23:00",
-        "event": "SA • CASA DANZA ft CAFE EUROPA (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-caza-danza-ft-cafe-europa/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251004_CasaDanza_4zu5.jpg"
     },
     {
         "date": "Sa, 04.10.2025",
@@ -4074,20 +4074,20 @@
         "city": "Münster"
     },
     {
-        "date": "Wed, 15.10",
-        "time": "23:00",
-        "event": "Semesterstart - Party (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/semesterstart-party/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/Stereo_15_1025_Feed.jpg"
-    },
-    {
         "date": "Mi, 15.10",
         "time": "23:00",
         "event": "MI • SALITOS WELCOME PARTY (@cafe_europa_bi)",
         "category": "Party",
         "link": "https://cafeeuropa.de/event/mi-bergfest-20/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251015_SalitosWelcome_4zu5-1.jpg"
+    },
+    {
+        "date": "Wed, 15.10",
+        "time": "23:00",
+        "event": "Semesterstart - Party (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/semesterstart-party/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/Stereo_15_1025_Feed.jpg"
     },
     {
         "date": "We, 15.10.2025",
