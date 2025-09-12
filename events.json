@@ -9,6 +9,30 @@
     },
     {
         "date": "Fr, 12.09.2025",
+        "time": "16:00",
+        "event": "Volleyball(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35417",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 12.09.2025",
+        "time": "18:00",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35506",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 12.09.2025",
+        "time": "18:30",
+        "event": "Laufen(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35520",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 12.09.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
         "category": "Party",
@@ -41,30 +65,6 @@
     },
     {
         "date": "Fr, 12.09.2025",
-        "time": "16:00",
-        "event": "Volleyball(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35417",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Fr, 12.09.2025",
-        "time": "18:00",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35506",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Fr, 12.09.2025",
-        "time": "18:30",
-        "event": "Laufen(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35520",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Fr, 12.09.2025",
         "time": "20:30",
         "category": "Jazz",
         "event": "Pablo Held Trio (@bunkerulmenwall)",
@@ -93,6 +93,46 @@
         "link": "https://rausgegangen.de/en/events/freitaktevents-x-cafe-neon-pop-up-dj-session-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/V1KkChAzSue3ZEvBH4sJ_beste.png?width=1200&height=900&mode=crop",
         "city": "Münster"
+    },
+    {
+        "date": "Fri, 12.09.2025",
+        "time": "16:00",
+        "event": "Vintage POP- UP (@blend.haus)",
+        "category": "",
+        "description": "Im Blendhaus trifft Lieblingsstück auf Lieblingssound – einfach vorbeikommen, stöbern und den Vibe genießen. 🎶🪩",
+        "link": "https://rausgegangen.de/en/events/vintage-pop-up-45/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lUtWUu4Q1u8GJzMdMvni_imgafad83b12eb3-1.jpeg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Fri, 12.09.2025",
+        "time": "19:00",
+        "event": "Queerslam + Speeddating (@Café Plus)",
+        "category": "",
+        "description": "Hier wird’s laut, queer und wortgewandt – Bühne frei für Texte, die bewegen und einen Abend, der gut tut! 🏳️‍🌈",
+        "link": "https://rausgegangen.de/en/events/queerslam-speeddating-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5gTK2ffwSRwAhHQhHPsB_IMG_7329.jpeg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Fri, 12.09.2025",
+        "time": "19:30",
+        "event": "Dortmund unplugged - Indie/Singer/Songwriter Festival Tag 1 (@Café Langer August)",
+        "category": "",
+        "description": "Nordmarkt Records Festival im Langen August: Zwei Tage Indie-Musik direkt aus dem RevierAm 12. und 13. September 2025 lädt Nordmarkt Records alle Fans handgemachter Musik ins Langer August (Braunschweiger Str. 22, Dortmund) ein. Nach 2023 – damals noch in der mittlerweile geschlossenen Hafenkombüse – steigt dort zum zweiten Mal das Nordmarkt Festival und bringt Indie Bands sowie Singer-Songwriter:innen aus Dortmund und Umgebung auf die Bühne.Los geht es am Freitagabend mit intimen Akustiksets. Das Café des Langen August öffnet seine Türen und zeigt im Rahmen von „Dortmund Unplugged“, wie ehrlich Gitarrensound klingen sollte. Um besonders lauten Applaus wird dabei ausdrücklich gebeten, denn mit vor Ort ist auch eldoradio*, um nicht nur die Auftritte, sondern auch O-Töne der Künstler für seinen Podcast aufzunehmen.Am Samstag gibt es dann gleich doppelt auf die Ohren: Zwei Bühnen, sechs Acts; auf der Unplugged Stage im Café des Langer August und gleich nebenan im KCR auf der Band Stage. Sorgen, einen Auftritt zu verpassen, muss sich niemand machen: Die Acts sind so getaktet, dass alles mitgenommen werden kann und zwischendurch ausreichend Zeit bleibt, um sich noch ein Getränk zu organisieren. Abgerundet wird der Samstagabend durch DJ Kurt Maisfeld, der zwischen den Auftritten für den passenden Sound sorgt.Das Programm im ÜberblickFreitag, 12.09. – Unplugged Bühne (Café): – Tante Matta – Hans Blücher (feat. Martin Buschmann) – Siggi Stern (Hätte Hätte)Samstag, 13.09. – Unplugged Bühne (Café): 17:00 Uhr – Mandy Lee Rose 18:30 Uhr – Hallo Johanson 20:15 Uhr – Boris GottSamstag, 13.09. – Bandbühne (KCR): 17:45 Uhr – Handgemänge 19:15 Uhr – Blomqist 21:00 Uhr – Frau SupertrampDazwischen im Innenhof: DJ Kurt MaisfeldEintritt frei – Spenden willkommen. Weitere Infos zu den Künstler:innen unter: www.nordmarkt-records.de",
+        "link": "https://rausgegangen.de/en/events/dortmund-unplugged-indiesingersongwriter-festival-tag-1-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/0XYrAMgzSXyfpzdF4553_unplugged-titelfoto.JPG?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Fri, 12.09.2025",
+        "time": "23:00",
+        "event": "SCHALTKREIS feat. S.N.D.R, Raufaser, Hip Nik & Dave The Rave (@Oma Doris)",
+        "category": "",
+        "description": "Treibende Beats, groovige Rhythms und hypnotische Melodien - so klingt es beim Schaltkreis Kollektiv aus den Boxen. Damit heben Sie sich musikalisch bewusst und deutlich vom aktuellen Trend nach immer schnelleren und härteren Bässen ab. Und die durchweg positive Resonanz nach den ersten Parties zeigt, dass Sie damit genau ins Schwarze getroffen haben. Nach ein paar tanzreichen Open Air Gigs und einer kurzen Sommerpause ist das Schaltkreis Kollektiv wieder in alter Frische am Start, um mit euch die Clubsaison in der Oma Doris zu eröffnen. Im Gepäck haben Raufaser, S.N.D.R, Dave the Rave und Hip Nik wieder massig treibende House Musik im Fahrwasser von 126+- BPM, um direkt an die wilde letzte Schaltkreis Party im Juli anzuknüpfen.",
+        "link": "https://rausgegangen.de/en/events/schaltkreis-feat-sndr-raufaser-hip-nik-dave-the-rave-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/XcsOYtgRCnpZOciY0aOQ_schaltkreis-veranstaltungs-bannersept.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Fri, 12.09.2025",
@@ -156,43 +196,103 @@
     },
     {
         "date": "Fri, 12.09.2025",
-        "time": "16:00",
-        "event": "Vintage POP- UP (@blend.haus)",
+        "time": "10:00",
+        "event": "Lost Art Festival Vol 3 . (@Luxwerk)",
         "category": "",
-        "description": "Im Blendhaus trifft Lieblingsstück auf Lieblingssound – einfach vorbeikommen, stöbern und den Vibe genießen. 🎶🪩",
-        "link": "https://rausgegangen.de/en/events/vintage-pop-up-45/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lUtWUu4Q1u8GJzMdMvni_imgafad83b12eb3-1.jpeg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
+        "description": "Zeitplan/TimingFr 12.09.25: 10:00 - 02:00 UhrSa 13.09.25: 10:00 - 02:00 UhrSo 14.09.25: 11:00 - 23:00 Uhr*for English read below LOST Art Festival Vol. 3 Die verlassenen Orte in Berlin werden weniger. Nach 4 Jahren intensiver Suche haben wir einen der letzten verlassenen Industriedenkmäler gefunden: ein 100 Jahre altes Glaswerk.  Für nur drei Tage werden diese alten Mauern ein letztes Mal zum Leben erweckt, bevor sie in ihrer rohen Form verschwinden. Besucher*innen wandeln durch diesen riesigen Körper aus Beton und Zeit – still. Schwer. Voller Geschichten.Auf 19.000 Quadratmetern entfaltet sich das Lost Art Festival – dreimal größer als bei seiner letzten Ausgabe im Jahr 2021. In 14 Hallen erwartet die Besucher*innen ein Programm aus monumentalen Licht- und Soundinstallationen, elektronischen Live-Acts und Performances.Zwischen all dem Flackern taucht noch eine weitere Welt auf: Versteckte Bars mit flüsternden Stimmen, raffinierte Pop-up-Restaurants. Berliner Köch:innen schaffen hier Genussmomente, die überraschen – ein kulinarisches Programm, das sich durch den Raum zieht und die Gäste mitnimmt.Programmübersicht: • Die größten Licht- und Sound-Installationen bisher• Elektronische Live-Acts• Performances• Pop-up-Restaurants• Versteckte Bars• Kino• Art-Talks Wichtige Hinweise: Programmhinweis: Das Programm wird an allen drei Festivaltagen zu etwa 90 % identisch sein. Ihr könnt also ganz entspannt den Tag wählen, der Euch am besten passt – ohne Sorge, etwas zu verpassen.Barrierefreiheit: Das Gebäude umfasst zwei Etagen. Das Erdgeschoss ist barrierefrei zugänglich. Der Zugang zum ersten Obergeschoss ist derzeit nur über eine Treppe möglich, da die Aufzüge keine aktuelle Zulassung besitzen.Um allen Besucherinnen ein möglichst umfassendes Festivalerlebnis zu ermöglichen, bitten wir Rollstuhlfahrerinnen, sich vorab über das Kontaktformular auf unserer Website lostartfestival.com bei uns zu melden. Gemeinsam finden wir eine passende und individuelle Lösung.Weitere Fragen und Antworten findet ihr auf unserer Website unter FAQs- - - LOST Art Festival Vol. 3Abandoned places in Berlin are disappearing.After four years of searching, we’ve found one of the last forgotten industrial landmarks: a 100-year-old glass factory.For just three days, these walls will come to life one last time before they vanish in their raw form. Visitors will move through this vast body of concrete and time – quiet. Heavy. Full of presence.Spread across 19,000 square meters, the LOST Art Festival unfolds – three times bigger than its last edition in 2021. In 14 halls, visitors can expect a program of monumental light and sound installations, electronic live acts, and performances.And amidst all the flicker, another world appears: hidden bars with whispering voices, refined pop-up restaurants. Berlin-based chefs create surprising moments of pleasure – a culinary journey that weaves through the space and pulls you in.Program highlights:• The largest light and sound installations to date • Electronic live acts • Performances • Pop-up restaurants • Hidden bars • Cinema • Art talksImportant InformationProgram Note The program will be around 90% identical on all three festival days. You can choose the day that suits you best – without worrying about missing anything.Accessibility The building spans two floors. The ground floor is accessible for wheelchair users. The upper floor can currently only be reached by stairs, as the elevators are not certified for use.To ensure all guests can enjoy the festival to the fullest, we kindly ask wheelchair users to contact us in advance via the form on our website: lostartfestival.com. Together, we’ll find a tailored solution.",
+        "link": "https://rausgegangen.de/en/events/lost-art-festival-vol-3-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/16ssf1ykQhykUxS0pGhU_lostkeyvisualsmall.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
     },
     {
         "date": "Fri, 12.09.2025",
-        "time": "19:00",
-        "event": "Queerslam + Speeddating (@Café Plus)",
+        "time": "13:00",
+        "event": "Wir sehen rot! (@Maigalerie)",
         "category": "",
-        "description": "Hier wird’s laut, queer und wortgewandt – Bühne frei für Texte, die bewegen und einen Abend, der gut tut! 🏳️‍🌈",
-        "link": "https://rausgegangen.de/en/events/queerslam-speeddating-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5gTK2ffwSRwAhHQhHPsB_IMG_7329.jpeg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
+        "description": "Eröffnungswochenende: 15.-17. August 2025 Laufzeit: bis 15. September 2025 Offnungszeiten: Mittwoch bis Freitag, 13-18 Uhr Ort: Maigalerie der jungen Welt, Torstraße 6, 10119 Berlin. Am Eröffnungswochenende erwartet euch ein vielseitiges Programm: Dis-kussionsrunden, Workshops, Konzerte, Filmvorführungen! Während der gesamten Laufzeit kann die Ausstellung zu den regulären Öffnungszeiten der Maigalerie besucht werden. Es werden Kunstdrucke angeboten der Erlös geht an palästinensische Organisationen. Kommt vorbei bringt eure Genoss*in-nen und Freund*innen mit!",
+        "link": "https://rausgegangen.de/en/events/wir-sehen-rot-12/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/9qqzX5ShSDSAtZ03TPFw_500917287179200781850931323873094299452145576n.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
     },
     {
         "date": "Fri, 12.09.2025",
-        "time": "19:30",
-        "event": "Dortmund unplugged - Indie/Singer/Songwriter Festival Tag 1 (@Café Langer August)",
+        "time": "14:00",
+        "event": "POSITIONS Berlin Art Fair 2025 (@Flughafen Berlin Tempelhof)",
         "category": "",
-        "description": "Nordmarkt Records Festival im Langen August: Zwei Tage Indie-Musik direkt aus dem RevierAm 12. und 13. September 2025 lädt Nordmarkt Records alle Fans handgemachter Musik ins Langer August (Braunschweiger Str. 22, Dortmund) ein. Nach 2023 – damals noch in der mittlerweile geschlossenen Hafenkombüse – steigt dort zum zweiten Mal das Nordmarkt Festival und bringt Indie Bands sowie Singer-Songwriter:innen aus Dortmund und Umgebung auf die Bühne.Los geht es am Freitagabend mit intimen Akustiksets. Das Café des Langen August öffnet seine Türen und zeigt im Rahmen von „Dortmund Unplugged“, wie ehrlich Gitarrensound klingen sollte. Um besonders lauten Applaus wird dabei ausdrücklich gebeten, denn mit vor Ort ist auch eldoradio*, um nicht nur die Auftritte, sondern auch O-Töne der Künstler für seinen Podcast aufzunehmen.Am Samstag gibt es dann gleich doppelt auf die Ohren: Zwei Bühnen, sechs Acts; auf der Unplugged Stage im Café des Langer August und gleich nebenan im KCR auf der Band Stage. Sorgen, einen Auftritt zu verpassen, muss sich niemand machen: Die Acts sind so getaktet, dass alles mitgenommen werden kann und zwischendurch ausreichend Zeit bleibt, um sich noch ein Getränk zu organisieren. Abgerundet wird der Samstagabend durch DJ Kurt Maisfeld, der zwischen den Auftritten für den passenden Sound sorgt.Das Programm im ÜberblickFreitag, 12.09. – Unplugged Bühne (Café): – Tante Matta – Hans Blücher (feat. Martin Buschmann) – Siggi Stern (Hätte Hätte)Samstag, 13.09. – Unplugged Bühne (Café): 17:00 Uhr – Mandy Lee Rose 18:30 Uhr – Hallo Johanson 20:15 Uhr – Boris GottSamstag, 13.09. – Bandbühne (KCR): 17:45 Uhr – Handgemänge 19:15 Uhr – Blomqist 21:00 Uhr – Frau SupertrampDazwischen im Innenhof: DJ Kurt MaisfeldEintritt frei – Spenden willkommen. Weitere Infos zu den Künstler:innen unter: www.nordmarkt-records.de",
-        "link": "https://rausgegangen.de/en/events/dortmund-unplugged-indiesingersongwriter-festival-tag-1-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/0XYrAMgzSXyfpzdF4553_unplugged-titelfoto.JPG?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
+        "description": "Vom 11. bis 14. September 2025 findet die zwölfte Ausgabe der POSITIONS Berlin Art Fair im Flughafen Berlin-Tempelhof Hangar 7 statt.Die POSITIONS Berlin Art Fair präsentiert 75 internationale Galerien aus 19 Ländern mit ihren wichtigsten Positionen aus zeitgenössischer und moderner Kunst. In diesem Jahr liegt ein besonderer Schwerpunkt auf Galerien aus Japan.Die POSITIONS Berlin Art Fair ein wichtiger Eckpfeiler der deutschen Kunstszene zu Beginn der Herbstsaison. Die ausgewählten Galerien haben die Möglichkeit, ihre künstlerischen Programme und Positionen im Rahmen der Berlin Art Week einem breiten internationalen Publikum zu präsentieren.Die POSITIONS Berlin Art Fair 2025 findet im großzügigen Hangar 7 des Flughafens Berlin-Tempelhof statt. Der Hangar mit seinem 16 Metern hohen Decken und lichtdurchfluteten Hallen bieten zusammen mit der Kulisse des ehemaligen Flugplatzes eine einzigartige und entspannte Atmosphäre auf über 8.000 qm. Diese großzügige Fläche ermöglicht ein vielfältiges und hochwertiges Rahmenprogramm mit Sonderausstellungen, Preisverleihungen, Talks, dem Berlin Art Week Collectors Dinner und vielen weiteren Höhepunkten. Die POSITIONS Berlin Art Fair ist seit 2014 offizieller Partner und heute die einzige Kunstmesse der Berlin Art Week, einer prestigeträchtigen Veranstaltung, die ausgewählte Ausstellungseröffnungen von Berliner Galerien, Privatsammlungen, Projekträumen und bedeutenden Museen und Institutionen zusammenbringt, darunter die Neue Nationalgalerie, Hamburger Bahnhof, KW Institute of Contemporary Art, Berlinische Galerie, Gropius Bau und viele mehr.Hier findet Ihr die gesamte Galerienliste: https://positions.de/aussteller.html ANFAHRT:Flughafen Tempelhof HANGAR 7 Tempelhofer Damm 45 12101 BerlinU6 Paradestraße",
+        "link": "https://rausgegangen.de/en/events/positions-berlin-art-fair-2025-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lGn1mTRT8vliCdo4xeAx_pos240914-5109web.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
     },
     {
         "date": "Fri, 12.09.2025",
-        "time": "23:00",
-        "event": "SCHALTKREIS feat. S.N.D.R, Raufaser, Hip Nik & Dave The Rave (@Oma Doris)",
+        "time": "18:00",
+        "event": "Mikropunk (@Mikropol)",
         "category": "",
-        "description": "Treibende Beats, groovige Rhythms und hypnotische Melodien - so klingt es beim Schaltkreis Kollektiv aus den Boxen. Damit heben Sie sich musikalisch bewusst und deutlich vom aktuellen Trend nach immer schnelleren und härteren Bässen ab. Und die durchweg positive Resonanz nach den ersten Parties zeigt, dass Sie damit genau ins Schwarze getroffen haben. Nach ein paar tanzreichen Open Air Gigs und einer kurzen Sommerpause ist das Schaltkreis Kollektiv wieder in alter Frische am Start, um mit euch die Clubsaison in der Oma Doris zu eröffnen. Im Gepäck haben Raufaser, S.N.D.R, Dave the Rave und Hip Nik wieder massig treibende House Musik im Fahrwasser von 126+- BPM, um direkt an die wilde letzte Schaltkreis Party im Juli anzuknüpfen.",
-        "link": "https://rausgegangen.de/en/events/schaltkreis-feat-sndr-raufaser-hip-nik-dave-the-rave-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/XcsOYtgRCnpZOciY0aOQ_schaltkreis-veranstaltungs-bannersept.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
+        "description": "Mit Mikropunk bringen wir zur Eröffnung drei Bands auf die Bühne, die den Puls der Zeit zwischen Indie, Punk und Darkwave fühlen lassen. Mikropunk bietet eine Bühne für druckvolle Sounds und klare Haltung. Hier treffen drei energetsiche Acts aufeinander, die Indie, Punk und Darkwave auf ihre ganz eigene Weise interpretieren. Roh, wütend, melancholisch und voller Energie. Die Musiker*innen von LOBSTERBOMB liefern rotzigen Garagepunk mit Herz und Haltung, THE ROXIES bringen feministischen Powerpop auf die Bühne, der gleichzeitig einladet und durch die Garage-Punk einflüsse trotzdem aufrüttelt. Blake Harley lässt düstere Sehnsucht und elektronische Kälte im 90’s Stil miteinander tanzen, wie ein Bunker-Rave im Nebel. Zusammen ergibt das ein Line-up, das nicht nur bewegt, sondern auch Haltung zeigt. Der Abend ist Teil des Eröffnungstanzes!",
+        "link": "https://rausgegangen.de/en/events/mikropunk-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/dmEzBfOlQw2qSmFYaT69_mikropunkigpost.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Fri, 12.09.2025",
+        "time": "20:00",
+        "event": "Drima & Friends (@Prachtwerk Berlin)",
+        "category": "",
+        "description": "Bereits zum zweiten Mal veranstaltet das Duo Drima ihre Show \"Drima & Friends\" – ein Abend in Wohnzimmeratmosphäre, intim, nah und persönlich. Gemeinsam mit befreundeten Newcomer:innen der deutschen Indie-Szene entsteht ein Konzert voller musikalischer Verbundenheit. Als Hauptact des Abends teilt Drima die Bühne immer wieder mit ihren Gästen – so entsteht ein einzigartiges Konzerterlebnis, das sich anfühlt wie eine gemütliche Jamsession im eigenen Wohnzimmer.Einlass: 19:00 | Beginn: 20:00",
+        "link": "https://rausgegangen.de/en/events/drima-friends-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/rPQjYkrQhK7x3xJq8OXA_dsc09821milan-ehrenberg.JPG?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Fri, 12.09.2025",
+        "time": "20:00",
+        "event": "Mitú + Mr.Bleat + El Keamo | SO36 (@SO36)",
+        "category": "",
+        "description": "Entre Trópicos and SO36 present:  MITÚ + Mr. Bleat Aftershow: El Keamo  For more than a decade, MITÚ has been pushing the limits of Latin American electronic music. Their sound, built on analog synthesizers, drum machines, and raw percussive layers, has become a unique language: hypnotic, primal and deeply connected to the body. With unforgettable live shows across the Americas and Europe, MITÚ stands today as one of the most daring projects in experimental club culture.  Now they return to Berlin for a very special night at SO36, premiering their ninth studio album \"Todos Los Santos\". Much of this record was born from sketches and ideas created during their last stay in the city, making Berlin a fundamental part of its DNA. The result is a sound both stripped-down and expansive, designed for collective trance on the dancefloor.  To make the night even more unmissable, Mr. Bleat – one of Medellín’s most innovative electronic acts – will perform in Europe for the very first time, bringing their unique blend of synths, beats and vocals.   Closing the evening, El Keamo (Los Angeles) will deliver a high-energy set that reimagines cumbia for the dancefloor, blending it with guaracha, tribal, house, and acid into a unique Neocumbia sound.  A ritual of sound, movement and community – this will not be just another party, but a night that reaffirms Latin America’s vital place in global electronic music.",
+        "link": "https://rausgegangen.de/en/events/mitu-mrbleat-el-keamo-so36-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ntPztGzQRmY5AyfrGBXM_mituig16x91.png?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Fri, 12.09.2025",
+        "time": "20:00",
+        "event": "MAVI PHOENIX - Konzert & Aftershowparty (@FluxBau)",
+        "category": "",
+        "description": "Genregrenzen? Gibt's bei ihm nicht. Zwischen Electropop, Hip-Hop & Rock erzählt Mavi Phoenix vom Suchen und Finden der eigenen Identität. Seit der ersten EP My Fault (2014) tourte er mit Bilderbuch, stürmte mit Quiet die FM4-Charts und wurde international bekannt durch Aventura und Young Prophet II. Mit Boys Toys und dem Coming-out als trans Mann wurde 2020 ein Meilenstein. Danach: Marlon, biggest asshole in the room, Punk-Vibes auf Kook.  Jetzt kommt Drama Cowboy – sein viertes Album, wild, ehrlich, zweigeteilt. Country-Slides treffen Beats, Emotionen treffen Experiment. Ein echtes Performance-Kunstwerk – live genauso fesselnd wie im Studio. Überzeugt euch selbst, beim Konzert im Rahmen der FeelAustria Week im September. Euch erwartet ein intensives Konzerterlebnis zwischen Soundexperiment und purer Emotion.   Hier schon einmal reinhören. Konzert mit anschließendem DJ-Set.  PS: Erlebe die Feel Austria Week 2025 mit einer Vielfalt an Programmpunkten. Suche auf \"Rausgegangen\" nach \"FeelAustria\", um alle weiteren Veranstaltungen im Rahmen der Österreichwoche zu entdecken. Wir freuen uns auf dich!",
+        "link": "https://rausgegangen.de/en/events/mavi-phoenix-konzert-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/yAaNUQ6TSCqROJ3uXmFF_3-mavi-phoenix-angelica-sabina.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Fri, 12.09.2025",
+        "time": "20:00",
+        "event": "VAN HOLZEN x Release Hangouts (@Rough Trade Store)",
+        "category": "",
+        "description": "Statt großer Bühne gibt's Van Holzen hautnah im LoFi Store – neue Songs, entspannte Vibes und Release-Party-Feeling🪩",
+        "link": "https://rausgegangen.de/en/events/van-holzen-x-release-hangouts-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/tJ5cYlJQISAesQ8maeyQ_vhsdesd-release-hangoutsstorygrafikgesamt.png?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Fri, 12.09.2025",
+        "time": "20:30",
+        "event": "Verprügelt mit Punchlines | Die Live Show (@Mad Monkey Room Comedy Club)",
+        "category": "",
+        "description": "Lachflash garantiert: Jonas, Ivan und Falk bringen ihre besten Jokes live auf die Bühne 🤩. Mit einem Special Guest wird der Abend noch wilder und sorgt für jede Menge gute Laune. Hol dir dein Ticket und erlebe Stand-up vom Feinsten 🎤✨.",
+        "link": "https://rausgegangen.de/en/events/verprugelt-mit-punchlines-die-live-show-23/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/QQTRz8QPR5KtukG1ejNO_rgvmp.png?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Fri, 12.09.2025",
+        "time": "22:00",
+        "event": "Renate 18th Birthday Party - 7 Floors - 65 Hours Birthday Party - Weekend tickets AND daily tickets (@Renate Berlin)",
+        "category": "",
+        "description": "Renate is turning 18 this September, can you believe? Many friendships and collaborations have been formed in these past 18 years and with this spirit, we want to host a big Birthday Rave! We're open non stop from Fri 12.09 - Mon 15.09 with every floor of our paradise filled with our favourite music and people. We'll be hosting garden parties by day, raving by night and lots of unexpected surprises between.   Ticket options:FULL WEEKEND - valid all weekend FRIDAY TICKET - valid Friday 22:00 until Saturday 22:00 SATURDAY TICKET - valid Saturday 10:00AM till Sunday 10:00AM SUNDAY TICKET - valid Sunday 10:00AM until the end ---  The story of Renate begins like so many others: in 2007, a group of creatives discovered the dilapidated old building in the former East of the city.   True to the post-reunification years, the building was initially a multifunctional space. Storage areas, shelters, and workshops were quickly transformed into the first floors, while apartments and community spaces emerged simultaneously.The transitions between art performances, parties, backstage, and after-hours in the living room were fluid both in terms of people and space.This closeness early on shaped the familial and creative character that still defines us today, almost 18 years later, making us one of the oldest clubs in the city.We look back fondly on 18 years full of beautiful moments, events and parties and forward with confidence to our uncertain future.If 2025 marks the end of Renate, we are proud of what we have co-created and celebrate those 18 years together.☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐  Tickets are available online and at the door. Guests can buy tickets valid for the whole weekend, or just the day of their choice.RA ticket does not guarantee entry.Please note that we ONLY accept CARD payments at the entrance.Renate should be a safe space for any ethnicity, gender or sexual orientation. Any sign of racism, sexism or homophobia will not be tolerated. In case you feel that you have been treated wrongly, or that your space has been violated, please notify our awareness team or our staff.",
+        "link": "https://rausgegangen.de/en/events/18-years-renate-7-floors-65-hours-birthday-party-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/sMYuvohwQ8qPB1Va22ON_screenshot-2025-08-14-at-142436.png?width=1200&height=900&mode=crop",
+        "city": "Berlin"
     },
     {
         "date": "Fri, 12.09.2025",
@@ -313,106 +413,6 @@
         "link": "https://rausgegangen.de/en/events/katzengold-lalena-nonameleft-und-underdive-in-odonien-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GDkPR8KzRsyCkU9YJeVk_6oezvnkw.jpg?width=1200&height=900&mode=crop",
         "city": "Köln"
-    },
-    {
-        "date": "Fri, 12.09.2025",
-        "time": "10:00",
-        "event": "Lost Art Festival Vol 3 . (@Luxwerk)",
-        "category": "",
-        "description": "Zeitplan/TimingFr 12.09.25: 10:00 - 02:00 UhrSa 13.09.25: 10:00 - 02:00 UhrSo 14.09.25: 11:00 - 23:00 Uhr*for English read below LOST Art Festival Vol. 3 Die verlassenen Orte in Berlin werden weniger. Nach 4 Jahren intensiver Suche haben wir einen der letzten verlassenen Industriedenkmäler gefunden: ein 100 Jahre altes Glaswerk.  Für nur drei Tage werden diese alten Mauern ein letztes Mal zum Leben erweckt, bevor sie in ihrer rohen Form verschwinden. Besucher*innen wandeln durch diesen riesigen Körper aus Beton und Zeit – still. Schwer. Voller Geschichten.Auf 19.000 Quadratmetern entfaltet sich das Lost Art Festival – dreimal größer als bei seiner letzten Ausgabe im Jahr 2021. In 14 Hallen erwartet die Besucher*innen ein Programm aus monumentalen Licht- und Soundinstallationen, elektronischen Live-Acts und Performances.Zwischen all dem Flackern taucht noch eine weitere Welt auf: Versteckte Bars mit flüsternden Stimmen, raffinierte Pop-up-Restaurants. Berliner Köch:innen schaffen hier Genussmomente, die überraschen – ein kulinarisches Programm, das sich durch den Raum zieht und die Gäste mitnimmt.Programmübersicht: • Die größten Licht- und Sound-Installationen bisher• Elektronische Live-Acts• Performances• Pop-up-Restaurants• Versteckte Bars• Kino• Art-Talks Wichtige Hinweise: Programmhinweis: Das Programm wird an allen drei Festivaltagen zu etwa 90 % identisch sein. Ihr könnt also ganz entspannt den Tag wählen, der Euch am besten passt – ohne Sorge, etwas zu verpassen.Barrierefreiheit: Das Gebäude umfasst zwei Etagen. Das Erdgeschoss ist barrierefrei zugänglich. Der Zugang zum ersten Obergeschoss ist derzeit nur über eine Treppe möglich, da die Aufzüge keine aktuelle Zulassung besitzen.Um allen Besucherinnen ein möglichst umfassendes Festivalerlebnis zu ermöglichen, bitten wir Rollstuhlfahrerinnen, sich vorab über das Kontaktformular auf unserer Website lostartfestival.com bei uns zu melden. Gemeinsam finden wir eine passende und individuelle Lösung.Weitere Fragen und Antworten findet ihr auf unserer Website unter FAQs- - - LOST Art Festival Vol. 3Abandoned places in Berlin are disappearing.After four years of searching, we’ve found one of the last forgotten industrial landmarks: a 100-year-old glass factory.For just three days, these walls will come to life one last time before they vanish in their raw form. Visitors will move through this vast body of concrete and time – quiet. Heavy. Full of presence.Spread across 19,000 square meters, the LOST Art Festival unfolds – three times bigger than its last edition in 2021. In 14 halls, visitors can expect a program of monumental light and sound installations, electronic live acts, and performances.And amidst all the flicker, another world appears: hidden bars with whispering voices, refined pop-up restaurants. Berlin-based chefs create surprising moments of pleasure – a culinary journey that weaves through the space and pulls you in.Program highlights:• The largest light and sound installations to date • Electronic live acts • Performances • Pop-up restaurants • Hidden bars • Cinema • Art talksImportant InformationProgram Note The program will be around 90% identical on all three festival days. You can choose the day that suits you best – without worrying about missing anything.Accessibility The building spans two floors. The ground floor is accessible for wheelchair users. The upper floor can currently only be reached by stairs, as the elevators are not certified for use.To ensure all guests can enjoy the festival to the fullest, we kindly ask wheelchair users to contact us in advance via the form on our website: lostartfestival.com. Together, we’ll find a tailored solution.",
-        "link": "https://rausgegangen.de/en/events/lost-art-festival-vol-3-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/16ssf1ykQhykUxS0pGhU_lostkeyvisualsmall.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Fri, 12.09.2025",
-        "time": "13:00",
-        "event": "Wir sehen rot! (@Maigalerie)",
-        "category": "",
-        "description": "Eröffnungswochenende: 15.-17. August 2025 Laufzeit: bis 15. September 2025 Offnungszeiten: Mittwoch bis Freitag, 13-18 Uhr Ort: Maigalerie der jungen Welt, Torstraße 6, 10119 Berlin. Am Eröffnungswochenende erwartet euch ein vielseitiges Programm: Dis-kussionsrunden, Workshops, Konzerte, Filmvorführungen! Während der gesamten Laufzeit kann die Ausstellung zu den regulären Öffnungszeiten der Maigalerie besucht werden. Es werden Kunstdrucke angeboten der Erlös geht an palästinensische Organisationen. Kommt vorbei bringt eure Genoss*in-nen und Freund*innen mit!",
-        "link": "https://rausgegangen.de/en/events/wir-sehen-rot-12/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/9qqzX5ShSDSAtZ03TPFw_500917287179200781850931323873094299452145576n.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Fri, 12.09.2025",
-        "time": "14:00",
-        "event": "POSITIONS Berlin Art Fair 2025 (@Flughafen Berlin Tempelhof)",
-        "category": "",
-        "description": "Vom 11. bis 14. September 2025 findet die zwölfte Ausgabe der POSITIONS Berlin Art Fair im Flughafen Berlin-Tempelhof Hangar 7 statt.Die POSITIONS Berlin Art Fair präsentiert 75 internationale Galerien aus 19 Ländern mit ihren wichtigsten Positionen aus zeitgenössischer und moderner Kunst. In diesem Jahr liegt ein besonderer Schwerpunkt auf Galerien aus Japan.Die POSITIONS Berlin Art Fair ein wichtiger Eckpfeiler der deutschen Kunstszene zu Beginn der Herbstsaison. Die ausgewählten Galerien haben die Möglichkeit, ihre künstlerischen Programme und Positionen im Rahmen der Berlin Art Week einem breiten internationalen Publikum zu präsentieren.Die POSITIONS Berlin Art Fair 2025 findet im großzügigen Hangar 7 des Flughafens Berlin-Tempelhof statt. Der Hangar mit seinem 16 Metern hohen Decken und lichtdurchfluteten Hallen bieten zusammen mit der Kulisse des ehemaligen Flugplatzes eine einzigartige und entspannte Atmosphäre auf über 8.000 qm. Diese großzügige Fläche ermöglicht ein vielfältiges und hochwertiges Rahmenprogramm mit Sonderausstellungen, Preisverleihungen, Talks, dem Berlin Art Week Collectors Dinner und vielen weiteren Höhepunkten. Die POSITIONS Berlin Art Fair ist seit 2014 offizieller Partner und heute die einzige Kunstmesse der Berlin Art Week, einer prestigeträchtigen Veranstaltung, die ausgewählte Ausstellungseröffnungen von Berliner Galerien, Privatsammlungen, Projekträumen und bedeutenden Museen und Institutionen zusammenbringt, darunter die Neue Nationalgalerie, Hamburger Bahnhof, KW Institute of Contemporary Art, Berlinische Galerie, Gropius Bau und viele mehr.Hier findet Ihr die gesamte Galerienliste: https://positions.de/aussteller.html ANFAHRT:Flughafen Tempelhof HANGAR 7 Tempelhofer Damm 45 12101 BerlinU6 Paradestraße",
-        "link": "https://rausgegangen.de/en/events/positions-berlin-art-fair-2025-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lGn1mTRT8vliCdo4xeAx_pos240914-5109web.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Fri, 12.09.2025",
-        "time": "18:00",
-        "event": "Mikropunk (@Mikropol)",
-        "category": "",
-        "description": "Mit Mikropunk bringen wir zur Eröffnung drei Bands auf die Bühne, die den Puls der Zeit zwischen Indie, Punk und Darkwave fühlen lassen. Mikropunk bietet eine Bühne für druckvolle Sounds und klare Haltung. Hier treffen drei energetsiche Acts aufeinander, die Indie, Punk und Darkwave auf ihre ganz eigene Weise interpretieren. Roh, wütend, melancholisch und voller Energie. Die Musiker*innen von LOBSTERBOMB liefern rotzigen Garagepunk mit Herz und Haltung, THE ROXIES bringen feministischen Powerpop auf die Bühne, der gleichzeitig einladet und durch die Garage-Punk einflüsse trotzdem aufrüttelt. Blake Harley lässt düstere Sehnsucht und elektronische Kälte im 90’s Stil miteinander tanzen, wie ein Bunker-Rave im Nebel. Zusammen ergibt das ein Line-up, das nicht nur bewegt, sondern auch Haltung zeigt. Der Abend ist Teil des Eröffnungstanzes!",
-        "link": "https://rausgegangen.de/en/events/mikropunk-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/dmEzBfOlQw2qSmFYaT69_mikropunkigpost.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Fri, 12.09.2025",
-        "time": "20:00",
-        "event": "Drima & Friends (@Prachtwerk Berlin)",
-        "category": "",
-        "description": "Bereits zum zweiten Mal veranstaltet das Duo Drima ihre Show \"Drima & Friends\" – ein Abend in Wohnzimmeratmosphäre, intim, nah und persönlich. Gemeinsam mit befreundeten Newcomer:innen der deutschen Indie-Szene entsteht ein Konzert voller musikalischer Verbundenheit. Als Hauptact des Abends teilt Drima die Bühne immer wieder mit ihren Gästen – so entsteht ein einzigartiges Konzerterlebnis, das sich anfühlt wie eine gemütliche Jamsession im eigenen Wohnzimmer.Einlass: 19:00 | Beginn: 20:00",
-        "link": "https://rausgegangen.de/en/events/drima-friends-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/rPQjYkrQhK7x3xJq8OXA_dsc09821milan-ehrenberg.JPG?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Fri, 12.09.2025",
-        "time": "20:00",
-        "event": "Mitú + Mr.Bleat + El Keamo | SO36 (@SO36)",
-        "category": "",
-        "description": "Entre Trópicos and SO36 present:  MITÚ + Mr. Bleat Aftershow: El Keamo  For more than a decade, MITÚ has been pushing the limits of Latin American electronic music. Their sound, built on analog synthesizers, drum machines, and raw percussive layers, has become a unique language: hypnotic, primal and deeply connected to the body. With unforgettable live shows across the Americas and Europe, MITÚ stands today as one of the most daring projects in experimental club culture.  Now they return to Berlin for a very special night at SO36, premiering their ninth studio album \"Todos Los Santos\". Much of this record was born from sketches and ideas created during their last stay in the city, making Berlin a fundamental part of its DNA. The result is a sound both stripped-down and expansive, designed for collective trance on the dancefloor.  To make the night even more unmissable, Mr. Bleat – one of Medellín’s most innovative electronic acts – will perform in Europe for the very first time, bringing their unique blend of synths, beats and vocals.   Closing the evening, El Keamo (Los Angeles) will deliver a high-energy set that reimagines cumbia for the dancefloor, blending it with guaracha, tribal, house, and acid into a unique Neocumbia sound.  A ritual of sound, movement and community – this will not be just another party, but a night that reaffirms Latin America’s vital place in global electronic music.",
-        "link": "https://rausgegangen.de/en/events/mitu-mrbleat-el-keamo-so36-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ntPztGzQRmY5AyfrGBXM_mituig16x91.png?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Fri, 12.09.2025",
-        "time": "20:00",
-        "event": "MAVI PHOENIX - Konzert & Aftershowparty (@FluxBau)",
-        "category": "",
-        "description": "Genregrenzen? Gibt's bei ihm nicht. Zwischen Electropop, Hip-Hop & Rock erzählt Mavi Phoenix vom Suchen und Finden der eigenen Identität. Seit der ersten EP My Fault (2014) tourte er mit Bilderbuch, stürmte mit Quiet die FM4-Charts und wurde international bekannt durch Aventura und Young Prophet II. Mit Boys Toys und dem Coming-out als trans Mann wurde 2020 ein Meilenstein. Danach: Marlon, biggest asshole in the room, Punk-Vibes auf Kook.  Jetzt kommt Drama Cowboy – sein viertes Album, wild, ehrlich, zweigeteilt. Country-Slides treffen Beats, Emotionen treffen Experiment. Ein echtes Performance-Kunstwerk – live genauso fesselnd wie im Studio. Überzeugt euch selbst, beim Konzert im Rahmen der FeelAustria Week im September. Euch erwartet ein intensives Konzerterlebnis zwischen Soundexperiment und purer Emotion.   Hier schon einmal reinhören. Konzert mit anschließendem DJ-Set.  PS: Erlebe die Feel Austria Week 2025 mit einer Vielfalt an Programmpunkten. Suche auf \"Rausgegangen\" nach \"FeelAustria\", um alle weiteren Veranstaltungen im Rahmen der Österreichwoche zu entdecken. Wir freuen uns auf dich!",
-        "link": "https://rausgegangen.de/en/events/mavi-phoenix-konzert-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/yAaNUQ6TSCqROJ3uXmFF_3-mavi-phoenix-angelica-sabina.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Fri, 12.09.2025",
-        "time": "20:00",
-        "event": "VAN HOLZEN x Release Hangouts (@Rough Trade Store)",
-        "category": "",
-        "description": "Statt großer Bühne gibt's Van Holzen hautnah im LoFi Store – neue Songs, entspannte Vibes und Release-Party-Feeling🪩",
-        "link": "https://rausgegangen.de/en/events/van-holzen-x-release-hangouts-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/tJ5cYlJQISAesQ8maeyQ_vhsdesd-release-hangoutsstorygrafikgesamt.png?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Fri, 12.09.2025",
-        "time": "20:30",
-        "event": "Verprügelt mit Punchlines | Die Live Show (@Mad Monkey Room Comedy Club)",
-        "category": "",
-        "description": "Lachflash garantiert: Jonas, Ivan und Falk bringen ihre besten Jokes live auf die Bühne 🤩. Mit einem Special Guest wird der Abend noch wilder und sorgt für jede Menge gute Laune. Hol dir dein Ticket und erlebe Stand-up vom Feinsten 🎤✨.",
-        "link": "https://rausgegangen.de/en/events/verprugelt-mit-punchlines-die-live-show-23/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/QQTRz8QPR5KtukG1ejNO_rgvmp.png?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Fri, 12.09.2025",
-        "time": "22:00",
-        "event": "Renate 18th Birthday Party - 7 Floors - 65 Hours Birthday Party - Weekend tickets AND daily tickets (@Renate Berlin)",
-        "category": "",
-        "description": "Renate is turning 18 this September, can you believe? Many friendships and collaborations have been formed in these past 18 years and with this spirit, we want to host a big Birthday Rave! We're open non stop from Fri 12.09 - Mon 15.09 with every floor of our paradise filled with our favourite music and people. We'll be hosting garden parties by day, raving by night and lots of unexpected surprises between.   Ticket options:FULL WEEKEND - valid all weekend FRIDAY TICKET - valid Friday 22:00 until Saturday 22:00 SATURDAY TICKET - valid Saturday 10:00AM till Sunday 10:00AM SUNDAY TICKET - valid Sunday 10:00AM until the end ---  The story of Renate begins like so many others: in 2007, a group of creatives discovered the dilapidated old building in the former East of the city.   True to the post-reunification years, the building was initially a multifunctional space. Storage areas, shelters, and workshops were quickly transformed into the first floors, while apartments and community spaces emerged simultaneously.The transitions between art performances, parties, backstage, and after-hours in the living room were fluid both in terms of people and space.This closeness early on shaped the familial and creative character that still defines us today, almost 18 years later, making us one of the oldest clubs in the city.We look back fondly on 18 years full of beautiful moments, events and parties and forward with confidence to our uncertain future.If 2025 marks the end of Renate, we are proud of what we have co-created and celebrate those 18 years together.☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐  Tickets are available online and at the door. Guests can buy tickets valid for the whole weekend, or just the day of their choice.RA ticket does not guarantee entry.Please note that we ONLY accept CARD payments at the entrance.Renate should be a safe space for any ethnicity, gender or sexual orientation. Any sign of racism, sexism or homophobia will not be tolerated. In case you feel that you have been treated wrongly, or that your space has been violated, please notify our awareness team or our staff.",
-        "link": "https://rausgegangen.de/en/events/18-years-renate-7-floors-65-hours-birthday-party-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/sMYuvohwQ8qPB1Va22ON_screenshot-2025-08-14-at-142436.png?width=1200&height=900&mode=crop",
-        "city": "Berlin"
     },
     {
         "date": "Fri, 12.09.2025",
@@ -541,12 +541,20 @@
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/Stereo_13_0925_Feed.jpg"
     },
     {
-        "date": "Sa, 13.09",
-        "time": "23:00",
-        "event": "SA • GIRLS NIGHT OUT • RAUM2 : BOOTY BOUNCE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-girls-night-out-raum2-booty-bounce-9/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250913_GirlsNightOut_4zu5.jpg"
+        "date": "Sa, 13.09.2025",
+        "time": "08:00",
+        "event": "Wandern(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38176",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 13.09.2025",
+        "time": "11:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Sa, 13.09.2025",
@@ -579,22 +587,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sa, 13.09.2025",
-        "time": "08:00",
-        "event": "Wandern(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38176",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 13.09.2025",
-        "time": "11:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Sa, 13.09.2025",
@@ -633,6 +625,26 @@
         "link": "https://rausgegangen.de/en/events/film-talk-how-to-be-normal-2/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/cMgs2EG3S6iWY0L5xOsk_w-filmhowtobenormal01.jpg?width=1200&height=900&mode=crop",
         "city": "Münster"
+    },
+    {
+        "date": "Sat, 13.09.2025",
+        "time": "14:00",
+        "event": "Die Wunschmaschine (@Theater Fletch Bizzel)",
+        "category": "",
+        "description": "Hereinspaziert in die WunschwerkstattEine musikalische Geschichte für Kinder ab 4 Jahren bis zum 2. Schuljahr mit der Wunscherfüllerin Dr. Wanda Kuriosa und ihrer frechen Ratte Ramon.Kinderwünsche sind einfallsreich, bunt und manchmal auch kostspielig für ein kleines Taschengeld. Dr. Wanda Kuriosa hingegen zeigt den Kindern in ihrer Wunschwerkstatt, was man sich alles wünschen kann, ohne es kaufen zu müssen. Denn für kein Geld der Welt ist Liebe, Freundschaft und vieles mehr zu haben.Dank der Wunschmaschine, ihrer ganz großen Erfindung, werden fast alle Wünsche wahr.",
+        "link": "https://rausgegangen.de/en/events/die-wunschmaschine-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/9ixSzk0WSnK7rX9E7xu8_kindertheater-zauberfloeckchen-die-wunschmaschine-dr-wanda-kuriosa-spricht-mit-ramon-1024x797.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 13.09.2025",
+        "time": "23:00",
+        "event": "Nice Up! #137 (@Großmarktschänke)",
+        "category": "",
+        "description": "Greetings, liebe Leute! ❤️💛💚Auch wenn der Sommer langsam seine letzten Sonnenstrahlen verteilt – die Vibes bleiben heiß und unaufhaltsam! Am Samstag, den 13.09., erwartet euch bei der NICE UP! ein ganz besonderes Fest der globalen Sounds und positiven Energie! Wir begrüßen ein fantastisches Line-Up: DJ Cenique, Puppa Julz & Lil Souljah sowie natürlich unser geliebtes Blockbuster Soundsystem.Puppa Julz & Lil Souljah stehen für pure Energie. Mit Reggae, Dancehall, Afro, Shatta und Hip-Hop bringen sie seit Jahren unaufhaltsam sprudelnde Bühnenpower – unter anderem im U Club und auf Festivals wie Ruhr Reggae Summer und Reggae Jam. DJ Cenique und Tschäck von den Blockies sorgen auf dem vorderen Floor mit Afrohouse & Afrobeats für pure Euphorie. Ihre Sets sind kraftvoll, tanzbar und voller Sonne – ein musikalisches Vitamin-D-Bad für Körper und Seele! Auf dem hinteren Floor beglücken uns Puppa Julz & Lil Souljah zusammen mit unseren Residents Blockbuster Soundsystem mit Dancehall & Reggae. Hier treffen tiefe Basslines auf karibische Hitze – perfekte Voraussetzungen für ekstatische Moves, schweißtreibende Stimmung und ein kollektives Abheben bis in die frühen Morgenstunden. Taucht mit uns ein in eine Nacht voller Musik, Tanz und good Vibes. Wir freuen uns auf euch! Big Up! Love Up! Nice Up! ✌️Eintritt bis 23:30 Uhr: € 6,00 - danach € 12,00 Ermäßigter Eintritt: € 8,00 | Zutritt ab 18",
+        "link": "https://rausgegangen.de/en/events/nice-up-136-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GTCPLSCJQIw9dpOrQQB9_nice-upbeitragneu-1920-x-1080-px-4.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Sat, 13.09.2025",
@@ -753,196 +765,6 @@
         "link": "https://rausgegangen.de/en/events/praxis-135-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/U6L00vYLSLu8JbgazSzU_bildschirmfoto-2025-08-26-um-121442.png?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Sat, 13.09.2025",
-        "time": "14:00",
-        "event": "Die Wunschmaschine (@Theater Fletch Bizzel)",
-        "category": "",
-        "description": "Hereinspaziert in die WunschwerkstattEine musikalische Geschichte für Kinder ab 4 Jahren bis zum 2. Schuljahr mit der Wunscherfüllerin Dr. Wanda Kuriosa und ihrer frechen Ratte Ramon.Kinderwünsche sind einfallsreich, bunt und manchmal auch kostspielig für ein kleines Taschengeld. Dr. Wanda Kuriosa hingegen zeigt den Kindern in ihrer Wunschwerkstatt, was man sich alles wünschen kann, ohne es kaufen zu müssen. Denn für kein Geld der Welt ist Liebe, Freundschaft und vieles mehr zu haben.Dank der Wunschmaschine, ihrer ganz großen Erfindung, werden fast alle Wünsche wahr.",
-        "link": "https://rausgegangen.de/en/events/die-wunschmaschine-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/9ixSzk0WSnK7rX9E7xu8_kindertheater-zauberfloeckchen-die-wunschmaschine-dr-wanda-kuriosa-spricht-mit-ramon-1024x797.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 13.09.2025",
-        "time": "23:00",
-        "event": "Nice Up! #137 (@Großmarktschänke)",
-        "category": "",
-        "description": "Greetings, liebe Leute! ❤️💛💚Auch wenn der Sommer langsam seine letzten Sonnenstrahlen verteilt – die Vibes bleiben heiß und unaufhaltsam! Am Samstag, den 13.09., erwartet euch bei der NICE UP! ein ganz besonderes Fest der globalen Sounds und positiven Energie! Wir begrüßen ein fantastisches Line-Up: DJ Cenique, Puppa Julz & Lil Souljah sowie natürlich unser geliebtes Blockbuster Soundsystem.Puppa Julz & Lil Souljah stehen für pure Energie. Mit Reggae, Dancehall, Afro, Shatta und Hip-Hop bringen sie seit Jahren unaufhaltsam sprudelnde Bühnenpower – unter anderem im U Club und auf Festivals wie Ruhr Reggae Summer und Reggae Jam. DJ Cenique und Tschäck von den Blockies sorgen auf dem vorderen Floor mit Afrohouse & Afrobeats für pure Euphorie. Ihre Sets sind kraftvoll, tanzbar und voller Sonne – ein musikalisches Vitamin-D-Bad für Körper und Seele! Auf dem hinteren Floor beglücken uns Puppa Julz & Lil Souljah zusammen mit unseren Residents Blockbuster Soundsystem mit Dancehall & Reggae. Hier treffen tiefe Basslines auf karibische Hitze – perfekte Voraussetzungen für ekstatische Moves, schweißtreibende Stimmung und ein kollektives Abheben bis in die frühen Morgenstunden. Taucht mit uns ein in eine Nacht voller Musik, Tanz und good Vibes. Wir freuen uns auf euch! Big Up! Love Up! Nice Up! ✌️Eintritt bis 23:30 Uhr: € 6,00 - danach € 12,00 Ermäßigter Eintritt: € 8,00 | Zutritt ab 18",
-        "link": "https://rausgegangen.de/en/events/nice-up-136-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GTCPLSCJQIw9dpOrQQB9_nice-upbeitragneu-1920-x-1080-px-4.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 13.09.2025",
-        "time": "11:00",
-        "event": "Wim Hof Methode Grundlagen Workshop (@shunia Zentrum)",
-        "category": "",
-        "description": "Bei unserer menschlichen Erfahrung geht es um Verbindung. Paradoxerweise erleben wir immer weniger Verbindung je vernetzter wir durch die Digitalisierung und die sozialen Medien werden.In meinem Berufsalltag stehe ich täglich in engem Kontakt mit Menschen und erlebe hautnah, was es bedeutet, sich innerlich verloren oder isoliert zu fühlen. Vielen Menschen fehlt ein tieferer Lebenssinn, sie leiden unter Einsamkeit, Ängsten und Depressionen. Oft äußern sich diese seelischen Belastungen auch in Form von psychosomatischen Beschwerden.Wie damit umgehen? Nun, die Wirkung der Wim Hof Methode geht über das hinaus, was ich in meiner medizinischen Berufsausbildung gelernt habe. Mich hat die Wim Hof Methode dabei unterstützt mein volles menschliches Potential zu entfalten, tief in meine innere Natur vorzudringen und mich wieder mit mir selbst, anderen und der Schönheit der Natur zu verbinden.Für mich persönlich gibt es keinen besseren Weg meine Vitalität zu steigern, als mich der Kälte auszusetzen und die transformative Kraft der tiefen bewussten Atmung zu erleben.Das Leben besteht nicht nur aus Sonnenschein, wir alle haben unsere Last zu tragen. Ob du nun mit deiner Motivation kämpfst, dich von dir selbst oder deiner Umwelt abgekoppelt fühst, unter Schmerzen oder anderen körperlichen Beschwerden leidest. Jeder von uns kann jedoch die bewusste Entscheidung treffen, die Verantwortung für sein eigenes Dasein auf dieser Erde zu übernehmen und ein glückliches, starkes und gesundes Leben zu führen.Ich lade dich herzlich dazu ein, die Kraft der Wim Hof Methode selbst zu erfahren und lade dich ein meine Workshops zu besuchen.Alles LiebeChristoph_________________________________________________Die hier angebotenen Workshops richten sich an gesunde Menschen. Sie ersetzen keine ärztliche Behandlung und Beratung. Sie stellen keine ärztliche Tätigkeit dar! Wenn du unsicher bist bist, ob dein Gesundheitszustand eine Workshopteilnahme zulässt, ist ein Besuch bei deinem behandelnden Arzt empfehlenswert. Wenn du dazu Fragen hast, kontaktiere mich gerne über das Kontaktformular.",
-        "link": "https://rausgegangen.de/en/events/wim-hof-methode-grundlagen-workshop-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bMGlsywcTZSjCq4mey6T_as05939.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 13.09.2025",
-        "time": "12:00",
-        "event": "Peppa feiert Geburtstag (@Alte Wursterei)",
-        "category": "",
-        "description": "„PEPPA FEIERT GEBURTSTAG“ Tanztheater Clowneske für Kinder ab 3 Jahrenvon disdance projectIrgendwas war doch heute...? Na klar! Heute ist Peppas Geburtstag! Nun aber schleunigst den Geburtstagstisch decken, ein Kuchen darf natürlich nicht fehlen – Schokoooo, das mag Peppa am liebsten, ein paar zickige Blumen auf den Tisch und Geschenke gibt es auch! Fehlt noch ein Geburtstagstänzchen mit den lieben Gästen...  Im gemütlichen Studiotheater der Alten Wursterei in Köln-Ehrenfeld können Kinder ab 3 Jahren gemeinsam mit den Eltern oder Großeltern eine Vorstellung besuchen. Die Aufführung dauert eine halbe Stunde. Gezahlt wird hier ein Austritt nach der Aufführung, je nach Möglichkeit, ehrlich selbst eigeschätzt . Im Anschluss lässt es sich bei lecker Kuchen, Eistee und Limonade gut nachschmunzeln. Kinder bekommen ein Getränk kostenlos. Und wer möchte, kann Peppa noch ein Bild malen oder einen Brief schreiben. „Peppa feiert Geburtstag“ ist eine von sieben Inszenierungen für junges Publikum. Die nonverbalen Tanztheaterstücke erzählen mittels Tanz, Clownerie und Musik Geschichten zu Themen aus der Erfahrungswelt der Kinder. Sie zeichnen sich durch feines Spiel, vielseitiges Bewegungsvokabular und einfühlsame Interaktion aus. Über sprachliche und kulturelle Barrieren hinweg schaffen die Inszenierungen emotionale Erlebnisse ganz ohne Worte. Sie regen die Fantasie, die eigene Spiel- und Gestaltungslust und den (auch verbalen) Austausch der Kinder untereinander an. Seit 2018 ist Peppa mit ihren Stücken auf Kita-Tour in Köln, dem Umland und Mecklenburg-Vorpommern unterwegs sowie in der Alten Wursterei zu sehen. Sie erreichte schon mehr als 12.000 junge Zuschauer.Kostenlose Reservierung:  disdanceproject.de/reservierung/peppa-feiert-geburtstag-familyInfos: altewursterei.de disdanceproject.de/projekte/peppa-macht-urlaub-family peppa@disdanceproject.de 0221 – 169 09 379Ort: Alte Wursterei Pettenkofer Str. 4 50823 Köln-Ehrenfeld altewursterei.de Preise: Zahl was Du kanns, nach Selbsteinschätzung. Beträge ab 10 Euro pro Ticket werden zur Unterstützung von Vorstellungen in Kitas mit wenig Geld verwendet.Besetzung Tanz | Choreografie ...........................Paula Scherf (aka Peppalina Pappelotti) Regie | Ton | Licht | Moderation ............André Lehnert (aka Herr Müller) Assistenz.........................................Emil Lehnert (aka Müller jr.) Ausstattung | Produktion | Veranstalter...disdance project (gUG)  disdance project realisiert interdisziplinäre Projekte mit Schnittstellen zwischen Tanz, Theater, Videokunst und Vermittlung für jung und alt. Es kooperiert bundesweit mit Akteuren aus Kultur und Bildung und ist Mitglied der Internationalen Vereinigung des Theaters für Kinder und Jugendliche ASSITEJ. Projekte wurden ausgezeichnet durch den Kölner Kunstsalon Theaterpreis 2022, nominiert für den Kölner Theaterpreis 2024, 2023 und 2008, den Kinder- und Jugendkulturpreis NRW 2016 und den Preis für Kulturelle Bildung 2013 des Bundesbeauftragten für Kultur und Medien.",
-        "link": "https://rausgegangen.de/en/events/peppa-feiert-geburtstag-4/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pq0KzP9pTiWpdAuwh67m_flyer-geburtstag-25-www-16-9-rausgegangen.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 13.09.2025",
-        "time": "12:00",
-        "event": "Weinflohmarkt (@Weinhalle)",
-        "category": "",
-        "description": "Wein-Flohmarkt – Genuss trifft Schnäppchen!Am 13. September 2025 öffnet der große Wein-Flohmarkt in Köln seine Türen – von 12 bis 18 Uhr erwartet euch ein besonderes Einkaufserlebnis rund um edle Tropfen zu kleinen Preisen.Ob Restposten, Einzelstücke oder echte Raritäten – hier kommen Weinliebhaber und Schnäppchenjäger gleichermaßen auf ihre Kosten. Freut euch auf Hammerpreise, echten Weingenuss und die Gelegenheit, besondere Flaschen zu entdecken und zu sparen.Die Veranstaltung findet im Rahmen eines Lagerverkaufs statt: 📍 Gutenbergstraße 8, 50823 KölnKommt vorbei, stöbert, entdeckt und genießt – ideal für alle, die das Besondere suchen!Verlosung: Zu gewinnen gibt es 3x2 Flaschen Wein unserer Raritäten und Restposten.",
-        "link": "https://rausgegangen.de/en/events/weinflohmarkt-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/52jB40QQIiJ2p0T4knYM_weinflohmarkt.PNG?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 13.09.2025",
-        "time": "13:00",
-        "event": "FÜNFZEHN vor weltuntergang | Utopist*innen (@COMEDIA Theater)",
-        "category": "",
-        "description": "Im Rahmen des Spielzeiteröffnungsfests der COMEDIA. Alle weiteren Programmpunkte findest du hier.  SCHAUSPIELDie Welt geht unter. Und dieses Mal wirklich. Keine Schlagzeile, keine Metapher, kein Hollywood-Drehbuch.  Was bleibt? 15 Stimmen. 15 Körper. 15 Perspektiven zwischen Hoffnung und Resignation, Wut und Witz, Chaos und Stille. Keine Ordnung, kein Trost, kein großer Plan. Nur Menschen – an der Kante. Im Versuch, sich irgendwie zu halten – an Erinnerungen, aneinander, am Nichts. Es ist ein Versuch, das Ende zu erzählen, ohne endgültig zu sein. Eine performative Überforderung. Ein sarkastischer Abgesang. Ein Chor aus Stimmen, die zu spät kommen – und vielleicht gerade deshalb gehört werden müssen.  Spoiler: Niemand wird gerettet. Aber vielleicht versteht man sich ein kleines Stück besser. Kurz bevor alles vorbei ist.Es spielen: Havva Sümbül Baran, Hannah Ramm, Benjamin Kleiner, Ella Schwertzel, Anna Germer, Kian Najarajampour, Levin Heitzer, Eda Gün, Simon Zerzawy, Marisstella Camesi, Dina Najarajampour, Joana Feldhusen, Esther Hellmann, Nicole Etschberger, Naomi LemmerLeitung: Sefa Küskü  Choreografie: Janine D’Aragona  Es spielen: Havva Sümbül Baran, Hannah Ramm, Benjamin Kleiner, Ella Schwertzel, Anna Germer, Kian Najarajampour, Levin Heitzer, Eda Gün, Simon Zerzawy, Marisstella Camesi, Dina Najarajampour, Joana Feldhusen, Esther Hellmann, Nicole Etschberger, Naomi LemmerContent Notes: Das Stück enthält laute Musik, Stroboskoplicht, sowie Darstellungen von Gewalt, psychischer Belastung und militärisch anmutenden Bildern.",
-        "link": "https://rausgegangen.de/en/events/funfzehn-vor-weltuntergang-utopistinnen-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vguPJpwHSEaaoaXXPrkm_image.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 13.09.2025",
-        "time": "14:00",
-        "event": "fi x LANGER TAG (@fi)",
-        "category": "",
-        "description": "18 Stunden nonstop feiern – vom Nachmittag draußen bis zum Sonnenaufgang drinnen, der ultimative Techno-Ausdauertest! Wer schafft's bis zum Ende?👀🪩",
-        "link": "https://rausgegangen.de/en/events/fi-x-langer-tag-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/idwbHAecQrSM67MeZnGf_bildschirmfoto-2025-08-21-um-135410.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 13.09.2025",
-        "time": "16:30",
-        "event": "Ecstatic Dance Köln (Kakao-Zeremonie, DJ Set, live Musik) · Sa 13. September 2025, 16:30-20h 💃 🎼🕺🏻🤸🏻‍♂️🪬 (@Clouth 104)",
-        "category": "",
-        "description": "Shanti CollectLive, das sind Thomas und Hendrick aus Berlin & Köln, die euch herzlich zu regelmäßigen „Ecstatic Dance“ Abenden in schöner Studioatmosphäre in Köln einladen. Als Gastgeber und DJ Act haben sie über 12 Jahre u. a. den Stadtgarten bei der „art of house“ auf den Kopf gestellt. Ebenso durften sie ihre Musik bereits auf dem Burning-Man-Festival in den USA, Ibiza, Panama, México, Südafrika und vielen anderen Orten spielen. Zurück aus der Sommerpause! Nach dem wundervollen Dance an Ort & Stelle im April, sind wir am 13. September zurück in der schönen Atmosphäre der Clouth-Höfe in Köln Nippes ◡̈    Wir beginnen wie immer mit dem Kakao-Ritual, geführt von der lieben Kati (@yoga_shaktie / Studio: Yoga Liebe), gehen über in unser 2 Stunden DJ Set von THOMÆS & SHANTI (house-music, electronica, psy, soul, world & spiritual music) und zaubern dann eine Endentspannung-Klangreise für euch. Kein Alkohol, keine Drogen, keine Handys, nur die Musik, als Extase und der gemeinsame Moment. „tanze als würde niemand zuschauen„ ist das Motto und dennoch sei erwähnt: es geht nicht ums performen, sondern um euer Gefühl 💃 🎼🕺🏻🤸🏻‍♂️🪬 Wir freuen uns auf eine schöne gemeinsame Zeit ✨ Alles Liebe Thomas & Hendrick Wann & Wo? Samstag 13. September 2025 16:30-20:00 Uhr Clouth 104, Niehler Str. 104, 50733 Köln (Von der Niehler Str. aus kommend in den Innenhof und geradeaus im großen Eventraum)  Begrenzte Teilnehmerzahl, wir empfehlen, das Ticket rechtzeitig zu kaufen. Wichtiges zum Schluss; · Bequeme Kleidung zum Tanzen / ggf. Wechselkleidung · warme Socken · Wasser für den Durst nicht vergessen · Bitte bringt euch eine eigene Tasse für den Kakao mit  · Einlass 16:30 Uhr. Die Kakao-Zeremonie beginnt um 17:00 Uhr, bitte erscheint pünktlich, da wir euch nicht mehr hereinlassen können, sobald die Zeremonie begonnen hat und ihr könnt dann erst um 17:15 Uhr wieder zum DJ Set mit einsteigen✨Lasst Gespräche während der Zeremonie und des Tanzes ruhen",
-        "link": "https://rausgegangen.de/en/events/ecstatic-dance-koln-kakao-zeremonie-dj-set-live-musik-sa-13--0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Mqn4GpBnTCOvLPPCWOGc_shanti-dance-clouth-koln-foto.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 13.09.2025",
-        "time": "17:00",
-        "event": "Liebling, der Honig brennt | Urbanist*innen (@COMEDIA Theater)",
-        "category": "",
-        "description": "Im Rahmen des Spielzeiteröffnungsfests der COMEDIA. Alle weiteren Programmpunkte findest du hier. TanzBUBBLES SOLLEN VERSCHMELZEN UND DIE BRÜCKE KLINGT WIE DAS MEER IN MEINEM KOPF IST DAS ALLES UND NICHTS ALLEIN UND ZUSAMMEN SCHAU NICHT WEG SCHAU HIN LAUF NICHT WEG BLEIB STEHEN NIMM NOCH EIN BISSCHEN HONIG LIEBLING! Die Urbanist*innen verschaffen sich tanzend Raum. Sie erkunden das Zusammenspiel von Choreografie und Chaos, Kollektiv und Individuum. Interdisziplinär, wütend, random. Schließlich ist hier alles Außer Kontrolle - oder?Die Urbanist*innen:  Katharina Lorber, Alma Reinhardt, Hendrik Ziemann, Anna Lange, Vivienne Wendels, Deli de la Rubia, Oliana BerschauerSpielleitung Juri Jaworsky Assistenz Jasper Sander Kostümbild und Outside-Eye YeoJin Kim",
-        "link": "https://rausgegangen.de/en/events/liebling-der-honig-brennt-urbanistinnen-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/1fqnWxZVQzWNaaE6lgqz_image.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 13.09.2025",
-        "time": "18:00",
-        "event": "SCHNACK Stand-Up Comedy im Adina Köln (@Adina Köln)",
-        "category": "",
-        "description": "Von Norddeutschland direkt nach Köln – die SCHNACK Stand-Up Comedy Show. Von kleinen Comedians bis zu alten Bekannten sind hier alle dabei. Also wenn ihr mal wieder lachen wollt ist das mit Sicherheit das Richtige. 🤩🎙️",
-        "link": "https://rausgegangen.de/en/events/schnack-stand-up-comedy-im-adina-koln-17/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EDa6dHDrTZyiYhPeGQDi_eventbrite-header-51.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 13.09.2025",
-        "time": "18:15",
-        "event": "Ecstatic Dance Cologne | Sensation Light (@La Danza Dos (Saal 2))",
-        "category": "",
-        "description": "🙏 Namasté,  wir laden euch herzlich zu einem ganz besonderen Abend ein! Wir erschaffen gemeinsam einen Raum der Reinheit, der Klarheit, des Lichts und der ekstatischen Bewegung. SENSATION LIGHT ist der Auftakt für eine neue Serie regelmäßiger Samstagabende in Köln - und ihr könnt von Anfang an mit dabei sein!  ✦ Dresscode | ein lichtvoller AbendKommt in hellen Farben - Weiß, Creme, Gold oder sanfte Pastelltöne. Gemeinsam erschaffen wir eine leuchtende Gemeinschaft und laden die Spirits des Lichts ein. Eure helle Kleidung wird Teil des Gesamtkunstwerks und verstärkt die magische Atmosphäre des Abends.  Dieser Abend markiert den Start regelmäßiger Samstagabende mit Mitsingkonzerten, Ecstatic Dance mit Zeremoniechakrakter.Kommt mit offenen Herzen und lasst uns gemeinsam einen Abend erschaffen, der uns alle berührt und verändert. Dies ist mehr als nur ein Event - es ist eine Einladung, Teil einer liebevollen Gemeinschaft zu werden. ✦ Blue Lotus | Tea CeremonyWir beginnen mit einer rituellen Tee-Zeremonie im heiligen Kreis. Der Blue Lotus, die heilige Blüte der alten Ägypter, öffnet sanft unser Bewusstsein und bereitet unsere Herzen auf einen Abend voller Magie vor. Diese uralte Pflanze wirkt entspannend, bewusstseinserweiternd und herzöffnend - der perfekte Einstieg in unsere gemeinsame Reise.   ✦ Mitsingkonzert | Jemma Endersby & Laxmi EaswaranLasst eure Stimmen erklingen! Zwei wunderbare Künstlerinnen führen uns durch Mantras, Chants und Sacred Songs. Es ist ein interaktives Erlebnis - ihr müsst nicht perfekt singen können, sondern einfach nur euer Herz öffnen und mitmachen. Die Kraft der gemeinsamen Stimme wird uns alle berühren. ✦ Ecstatic Dance | DJ BOMBYE ✦Danach lädt dich DJ Bombye (@bombye.de) auf eine sinnliche Tanzreise ein. Von meditativen Melodien bis zu ekstatischen Rhythmen - hier darf sich dein Körper frei ausdrücken. Kein Alkohol, keine Drogen, nur pure, authentische Bewegung und die Kraft der Gemeinschaft. 18:00 Uhr | Arrival in Silence Kommt an, atmet durch und lasst den Alltag hinter euch. Ein sanfter Übergang in unseren heiligen Raum.18:30 Uhr | Blue Lotus Ceremony & Mitsingkonzert Die rituelle Tee-Zeremonie mit Jemma Endersby & Laxmi Easwaran öffnet unsere Herzen für das, was kommen mag.19:30 Uhr | Ecstatic Dance into Light Journey DJ Bombye führt uns durch eine transformative Klanglandschaft - von meditativen Tönen bis zu ekstatischen Rhythmen.21:30 Uhr | Soundhealing & Integration Sanfte Klänge helfen uns, die Erfahrungen des Abends zu integrieren und in uns wirken zu lassen.22:00 Uhr | Closing Circle Wir schließen den Kreis gemeinsam ab und nehmen die Magie des Abends mit nach Hause.  Damit du ein intensives und tiefes Tanzerlebnis genießen kannst, bitten wir dich, folgende Punkte zu beachten:🧡 Wir tanzen barfuß 🧡 Kein Alkohol & keine Drogen 🧡 Keine verbale Kommunikation 🧡 Keine Smartphones  Mitbringen:Eine Decke für die Integration danachEine TrinkflascheNüsse / Obst / Früchte für deinen Energieboost  Wir freuen uns auf dich und einen lichtvollen und transformierenden Abend.See you on the dancefloor!",
-        "link": "https://rausgegangen.de/en/events/ecstatic-dance-cologne-sensation-light-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/1N89W3H1QQ62wDivivtP_1309ecstatic-dancesensation-light.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 13.09.2025",
-        "time": "19:00",
-        "event": "FUN! - Stand Up Comedy (@Goldfinger)",
-        "category": "",
-        "description": "Hier übernehmen erstklassige Comedians mit Witz, Spontaneität und scharfen Pointen die Bühne. Drinks, Vibes & gute Laune sind garantiert – perfekt für dich und deine Crew.",
-        "link": "https://rausgegangen.de/en/events/fun-stand-up-comedy-62/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RfdBh4SwTHGSlIsw4glL_screenshot-2025-04-08-182954.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 13.09.2025",
-        "time": "19:00",
-        "event": "GOGOL BORDELLO (@Live Music Hall)",
-        "category": "",
-        "description": "Wenn Eugene Hütz auf die Bühne tritt, ist es, als würde ein Orkan durch den Konzertsaal fegen. Seine Band Gogol Bordello entfacht eine Energie, die mühelos eine Stadt zum Beben bringen könnte. Nachdem die Band kürzlich mit Dropkick Murphys getourt ist und für ein begeistertes Publikum gesorgt hat, gilt es nun, diese Live-Dynamik erneut in voller Länge auf die deutschen Bühnen zu bringen. Seit ihrer Gründung 1999 in New York, steht die multikulturelle Truppe für eine explosive Mischung aus Punk, Dub und der mitreißenden Folklore der Roma. Ihr einzigartiger Sound ist laut, wild und kompromisslos – eine entfesselte Feier der Freiheit, die sich nicht in Schubladen pressen lässt. Wie ihr erstes Label über das Album „Multi Kontra Culti Vs. Irony“ sagte: Eine Ästhetik, welche die Brücke zwischen osteuropäischer und westlicher Kultur schlägt. Ein Akkordeon und eine Geige ergänzen die klassische Punk-Besetzung aus Gitarre, Schlagzeug und Bass. Dadurch entsteht ein wahres musikalisches Feuerwerk, das in jeder Sprache verstanden wird. Denn auch wenn die Texte überwiegend auf Englisch sind, tauchen immer wieder ukrainische und Romani-Passagen auf, die den transkulturellen Charakter der Band betonen. In der Ukraine aufgewachsen, kam Hütz in den 90er-Jahren in New York an. Er schlief auf Sofas von Freund*innen, spielte Akustiksets in ukrainischen Bars, bevor er schließlich selbst im legendären CBGB auftrat. Aus dieser Underground-Szene heraus, entwickelte sich Gogol Bordello zu einer achtköpfigen Formation, die über die Jahre mit Größen wie System of a Down, Rancid oder den Dropkick Murphys auf der Bühne stand. Ihre Alben entstanden unter der Regie von Produzentenlegenden wie Rick Rubin, Steve Albini und jüngst Nic Launay. Doch die Band ist mehr als nur eine musikalische Urgewalt. Der russische Krieg gegen die Ukraine ist für Hütz eine persönliche Angelegenheit. Gogol Bordello engagiert sich mit Benefizkonzerten, sammelt Spenden für Hilfsorganisationen wie Nova Ukraine und ArtDopomoga und nimmt Songs wie „Solidarity“ mit Bernard Sumner auf, um verletzte ukrainische Soldat*innen zu unterstützen. Der von Liev Schreiber produzierte Dokumentarfilm „Scream of My Blood: A Gogol Bordello Story“ gibt einen tiefen Einblick in das bewegte Leben von Hütz und seiner Band, und wurde auf Festivals von Tribeca bis Warschau gefeiert. Neben der Musik ist Hütz ebenfalls in der Filmwelt aktiv. Er spielte unter anderem an der Seite von Elijah Wood in „Everything Is Illuminated“ oder unter der Regie von Madonna in „Filth and Wisdom“. Seine Mission bleibt dabei stets dieselbe: Den Menschen durch Kunst einen Moment der Freiheit zu schenken. „Das Universum will Gutes für uns, aber viele erkennen es nicht“, sagt er in einem Interview, „Unsere Musik soll ein Portal sein, das den Kopf von all dem Mist befreit.“ Und genau diese befreiende Kraft wird bald wieder live zu erleben sein: Im September 2025 kommt Gogol Bordello für acht Konzerte nach Deutschland. Als Support wird das Londoner Duo Bob Vylan auf der Tour dabei sein. Ähnlich wie Gogol Bordello vereinen sie Chaos und Ruhe, wobei sie ihren ganz eigenen, sich stets entwickelnden Sound, mit dem sie Fans von Rock, Rap, Punk, Dance und Alternative gleichermaßen begeistern. Wer sich für ein paar Stunden in Ekstase tanzen will, sollte sich die Tour von Gogol Bordello nicht entgehen lassen. - Fall 2025 European Tour     SPECIAL GUEST: BOB VYLAN",
-        "link": "https://rausgegangen.de/en/events/gogol-bordello-4/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/yqt0jshp93u7.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 13.09.2025",
-        "time": "19:30",
-        "event": "Queerfeministische Stand Up Comedy von FLINTA* und queer Comedians (@die wohngemeinschaft)",
-        "category": "",
-        "description": "Laut, divers und garantiert ohne toxische Vibes – hier übernehmen nämlich FLINTA* und queere Comedians die Bühne und erschaffen eine Safe Space in der Comedy Szene💖",
-        "link": "https://rausgegangen.de/en/events/queerfeministische-stand-up-comedy-von-flinta-und-queer-come-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/afj2FC18QQ2Fp2uBr9M9_1309.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 13.09.2025",
-        "time": "20:00",
-        "event": "BOING! Comedy Club Köln (@Horizont Theater)",
-        "category": "",
-        "description": "BOING! Comedy Club Köln - das Original!von Manuel WolffJetzt wird's lustig!Comedy in Köln: BOING!Der echteste, ehrlichste, roheste, frechste, authentischste, beste Stand Up Comedy Club hat eine neue Heimat im kultigen Horizont-Theater nähe Eigelstein gefunden. Immer mit ca. 5 tollen Comedians und einem verrückten speziell ausgewählten Host des Abends.BOING! Comedy Club steht für die Motti \"Vielfalt leben\" und \"Liebe statt Hass\" und versucht die Comedy-Shows bunt und tolerant zu gestalten und gegen Diskriminierung einzutreten. Wir heißen alle willkommen, um gemeinsam einen schönen, lustigen Abend zu erleben.VERANSTALTUNGSORT ist das Horizont-Theater, Thürmchenswall 25, 50668 Köln, - ab 19 Uhr ist Einlass, Showbeginn 20 Uhr.Mehr Termine, Infos, etc. auf unsere Homepage: www.boingcomedy.deBOING! Comedy Club - Das OriginalErlebe den unglaublichen Mix aus gestandenen Profis und aufregenden Newcomern, oft kopiert, aber nie erreicht. Mit exzellenter Moderation und authentischem Stand-up-Comedy, wie sie sein sollte: ehrlich, pur und natürlich sehr lustig. BOING! ist nicht nur eine Show – es ist Kult und DER Treffpunkt für die Kölner Comedy-Szene. Lass dir das nicht entgehen!",
-        "link": "https://rausgegangen.de/en/events/boing-comedy-club-koln-107/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wcC2UUTmRyOyK1cc6HCj_manuel-und-boing-16zu9.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 13.09.2025",
-        "time": "20:00",
-        "event": "🍹 Cocktails, Camp & Critical Cuteness - Die Revue meines Lebens (@Theater im Bauturm)",
-        "category": "",
-        "description": "Regie und Konzept Thomas Bartling | Komposition Marcel Tolle | Videokunst Philipp Wachowitz | Kostüm Crimson Vixe | Mit Gareth Charles, Marcus Chiwaeze, Jolinus Pape und Thomas BartlingPremiere am 13. September 2025 Mit einer Mischung aus queerem Humor, popkulturellem Overdrive und scharfer Gesellschaftsanalyse hat sich Thomas Bartling in den letzten Jahren als eine der provokantesten Stimmen der deutschen Performance-Szene etabliert. Seine Arbeiten changieren zwischen Trash und Theorie, Teleshopping und Theater, Entertainment und Entlarvung – stets mit einem wachen Blick auf das Politische im Alltäglichen. Are You Man enough to camp? Dieser Abend mixt Glanz und Elend queerer Performancekunst mit kritischer Männlichkeit und exzentrischem Self-Empowerment. Mit Machos, Mythen und Martinis nimmt Bartling zusammen mit seinem Ensemble die eigene Retrospektive vorweg und hinterfragt somit den zukünftigen Wert von queerer Performance Kunst, denn Glitter is Political und zudem überraschend köstlich. Stirred, Not Straight! Gefördert durch die Konzeptionsförderung aus Geldern des Ministeriums für Kultur und Wissenschaft des Landes Nordrhein-WestfalensTickets gibt's hier!",
-        "link": "https://rausgegangen.de/en/events/cocktails-camp-critical-cuteness-die-revue-meines-lebens-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/VnWs449DR8iLgJSafNWd_cocktails10-alexander-schneider.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 13.09.2025",
-        "time": "20:00",
-        "event": "Echtzeit Comedy - Stand-Up am Samstag (@Echtzeit Grill & Thrill)",
-        "category": "",
-        "description": "„Samstag ist Comedy-Time! 🎤🔥 Um 20 Uhr rocken drei Comedians die Bühne, und um 22:30 Uhr geht’s im Open Mic weiter – Newcomer, frisches Material, BBQ und Drinks🍔✨“",
-        "link": "https://rausgegangen.de/en/events/echtzeit-comedy-stand-up-am-samstag-35/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zUbkuklCT1GNCqQVjqg9_echteit-comedy-website-bild.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 13.09.2025",
-        "time": "20:00",
-        "event": "Jazz at JAKI: Julian Bossert Trio (@JAKI)",
-        "category": "",
-        "description": "20:00 I Konzert I 💿 JAKI Lakonik muss man können. Und man darf sie nicht mit Ironie verwechseln. Beides sind Künste der Anspielung, doch die eine behält einen tiefen Ernst im Inneren, während die andere auf Distanz geht. Julian Bossert, Matthias Akeo Nowak und Dominik Raab fühlen sich der latent lakonischen Haltung des fröhlichen Ernstes verbunden und haben gerade an der Vielfältigkeit der Kontraste Spaß, die sich daraus entwickeln lassen. Es braucht dazu nicht die üblichen Mechanismen jazzmusikalischen Erkennens, die an eingeübten Mustern von Komplexität, Expressivität oder Grenzüberschreitung andocken. Die Musiker pflegen vielmehr die dynamische Rücknahme, die Beschränkung auf Grundmuster etwa des Besen- und Beckenspiels, der walkenden Bassphrasierung oder den samten geblasenen Ansatzes, die dann in der Detailarbeit ihre Kraft entfalten. Sie verzichten auf die Sicherheit des Harmonischen und spielen mit der Offenheit der Andeutungen, die sich daraus ergeben. Und sie konzentrieren sich auf pointierten Swing, auf den Groove im Feinen, vor allem auf das Zusammenwirken der Charaktere, die der Musik die Anmutung des Organischen verleihen und zugleich genügend Integrität behalten, um nicht klischeehaft zu wirken. Wieder hilft das Lakonische, um der Musik eine Aura der Präsenz zu verliehen. Man hört das Lächeln, aber auch die Klarheit, den Wunsch, das Ziel. Dead Beat, Bad Deed – und vielleicht ist doch auch ein Körnchen Ironie im Spiel. Ein Augenzwinkern nur. Ralf Dombrowski...Julian Bossert (alto saxophone), Matthias Akeo Novak (double bass), Dominik Raab (drums)",
-        "link": "https://rausgegangen.de/en/events/jazz-at-jaki-julian-bossert-trio-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/b3QVuSixQNev3pAQRe06_julian-bossert-trio-lena-semmelroggen.jpeg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 13.09.2025",
-        "time": "20:00",
-        "event": "POMMES // ein AUSWÄRTSSPIEL der studiobühneköln (@TanzFaktur)",
-        "category": "",
-        "description": "Ein Stück über die Bundeswehr eine Koproduktion von boy:band und studiobühneköln ein AUSWÄRTSSPIEL der studiobühneköln in der TanzFaktur  Rechtsextremismus, Diskriminierungsvorwürfe, brutale Aufnahmerituale – die Bundeswehr ist schon lange überholt. Dachten wir. Dank Putins Machtwahn erlebt deutscher Flecktarn einen neuen Hype. Ob auf TikTok, Werbeplakaten oder in Schulen, überall wird fleißig rekrutiert – mit Erfolg. Passend dazu: Aufrüstungsgelder in Milliardenhöhe, neue Waffen, neue Outfits. Make Bundeswehr great again!  Die boy:s wollen auch ein Stück vom Schlammkuchen! Wie die deutschen Kartoffeln, die durch den Pommesschneider genormt werden, legen wir unsere Individualität ab und unseren Tarnanzug an. Wir trainieren bis zum Umfallen, lassen uns demütigen und essen Schweineleber, um schließlich als Gefreite, als Fritten, zu enden. Wir sind kriegstüchtig – sind kriegssüchtig! Wir sind die Truppe, die euch beschützt – ja, viel- leicht sexistisch, rassistisch, queerfeindlich und antipluralistisch, ja, traumatisiert und mehr denn je, mit der diffusen Frage im Kopf: Geht das nicht auch anders? mit: Noelle Fleckenstein, Isabella Kolb, Carmen Konopka, Jan van Putten und Katharina Rettich Musik: zurreal Regie: Noelle Fleckenstein und Carmen Konopka Assistenz: Michelle Wiesemes Choreografie: Tatiana Feldman Technik: Hannah Brown Finanzen: Niels Nester Gefördert durch das Kulturamt der Stadt Köln, das NRW Landesbüro Freie Darstellende Künste und das Ministerium für Kultur und Wissenschaft des Landes Nordrhein-WestfalenIm Rahmen von BEYOND REALITIES – Europäische Positionen  Preisinformation: 15 € | 7 € | Begleitperson für Schwerbehinderte frei Freier Eintritt für Erstsemester der Universität zu Köln",
-        "link": "https://rausgegangen.de/en/events/pommes-29/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hlPpM7haR5MbBpuK3XWg_pommes1-foto-jan-van-putten.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
     },
     {
         "date": "Sat, 13.09.2025",
@@ -1133,6 +955,176 @@
         "link": "https://rausgegangen.de/en/events/saint-omer-5/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/2gsErIfEQ9C9HiqzH7wx_20250913sinema-5-years-5-films-saint-omer.png?width=1200&height=900&mode=crop",
         "city": "Berlin"
+    },
+    {
+        "date": "Sat, 13.09.2025",
+        "time": "11:00",
+        "event": "Wim Hof Methode Grundlagen Workshop (@shunia Zentrum)",
+        "category": "",
+        "description": "Bei unserer menschlichen Erfahrung geht es um Verbindung. Paradoxerweise erleben wir immer weniger Verbindung je vernetzter wir durch die Digitalisierung und die sozialen Medien werden.In meinem Berufsalltag stehe ich täglich in engem Kontakt mit Menschen und erlebe hautnah, was es bedeutet, sich innerlich verloren oder isoliert zu fühlen. Vielen Menschen fehlt ein tieferer Lebenssinn, sie leiden unter Einsamkeit, Ängsten und Depressionen. Oft äußern sich diese seelischen Belastungen auch in Form von psychosomatischen Beschwerden.Wie damit umgehen? Nun, die Wirkung der Wim Hof Methode geht über das hinaus, was ich in meiner medizinischen Berufsausbildung gelernt habe. Mich hat die Wim Hof Methode dabei unterstützt mein volles menschliches Potential zu entfalten, tief in meine innere Natur vorzudringen und mich wieder mit mir selbst, anderen und der Schönheit der Natur zu verbinden.Für mich persönlich gibt es keinen besseren Weg meine Vitalität zu steigern, als mich der Kälte auszusetzen und die transformative Kraft der tiefen bewussten Atmung zu erleben.Das Leben besteht nicht nur aus Sonnenschein, wir alle haben unsere Last zu tragen. Ob du nun mit deiner Motivation kämpfst, dich von dir selbst oder deiner Umwelt abgekoppelt fühst, unter Schmerzen oder anderen körperlichen Beschwerden leidest. Jeder von uns kann jedoch die bewusste Entscheidung treffen, die Verantwortung für sein eigenes Dasein auf dieser Erde zu übernehmen und ein glückliches, starkes und gesundes Leben zu führen.Ich lade dich herzlich dazu ein, die Kraft der Wim Hof Methode selbst zu erfahren und lade dich ein meine Workshops zu besuchen.Alles LiebeChristoph_________________________________________________Die hier angebotenen Workshops richten sich an gesunde Menschen. Sie ersetzen keine ärztliche Behandlung und Beratung. Sie stellen keine ärztliche Tätigkeit dar! Wenn du unsicher bist bist, ob dein Gesundheitszustand eine Workshopteilnahme zulässt, ist ein Besuch bei deinem behandelnden Arzt empfehlenswert. Wenn du dazu Fragen hast, kontaktiere mich gerne über das Kontaktformular.",
+        "link": "https://rausgegangen.de/en/events/wim-hof-methode-grundlagen-workshop-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bMGlsywcTZSjCq4mey6T_as05939.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 13.09.2025",
+        "time": "12:00",
+        "event": "Peppa feiert Geburtstag (@Alte Wursterei)",
+        "category": "",
+        "description": "„PEPPA FEIERT GEBURTSTAG“ Tanztheater Clowneske für Kinder ab 3 Jahrenvon disdance projectIrgendwas war doch heute...? Na klar! Heute ist Peppas Geburtstag! Nun aber schleunigst den Geburtstagstisch decken, ein Kuchen darf natürlich nicht fehlen – Schokoooo, das mag Peppa am liebsten, ein paar zickige Blumen auf den Tisch und Geschenke gibt es auch! Fehlt noch ein Geburtstagstänzchen mit den lieben Gästen...  Im gemütlichen Studiotheater der Alten Wursterei in Köln-Ehrenfeld können Kinder ab 3 Jahren gemeinsam mit den Eltern oder Großeltern eine Vorstellung besuchen. Die Aufführung dauert eine halbe Stunde. Gezahlt wird hier ein Austritt nach der Aufführung, je nach Möglichkeit, ehrlich selbst eigeschätzt . Im Anschluss lässt es sich bei lecker Kuchen, Eistee und Limonade gut nachschmunzeln. Kinder bekommen ein Getränk kostenlos. Und wer möchte, kann Peppa noch ein Bild malen oder einen Brief schreiben. „Peppa feiert Geburtstag“ ist eine von sieben Inszenierungen für junges Publikum. Die nonverbalen Tanztheaterstücke erzählen mittels Tanz, Clownerie und Musik Geschichten zu Themen aus der Erfahrungswelt der Kinder. Sie zeichnen sich durch feines Spiel, vielseitiges Bewegungsvokabular und einfühlsame Interaktion aus. Über sprachliche und kulturelle Barrieren hinweg schaffen die Inszenierungen emotionale Erlebnisse ganz ohne Worte. Sie regen die Fantasie, die eigene Spiel- und Gestaltungslust und den (auch verbalen) Austausch der Kinder untereinander an. Seit 2018 ist Peppa mit ihren Stücken auf Kita-Tour in Köln, dem Umland und Mecklenburg-Vorpommern unterwegs sowie in der Alten Wursterei zu sehen. Sie erreichte schon mehr als 12.000 junge Zuschauer.Kostenlose Reservierung:  disdanceproject.de/reservierung/peppa-feiert-geburtstag-familyInfos: altewursterei.de disdanceproject.de/projekte/peppa-macht-urlaub-family peppa@disdanceproject.de 0221 – 169 09 379Ort: Alte Wursterei Pettenkofer Str. 4 50823 Köln-Ehrenfeld altewursterei.de Preise: Zahl was Du kanns, nach Selbsteinschätzung. Beträge ab 10 Euro pro Ticket werden zur Unterstützung von Vorstellungen in Kitas mit wenig Geld verwendet.Besetzung Tanz | Choreografie ...........................Paula Scherf (aka Peppalina Pappelotti) Regie | Ton | Licht | Moderation ............André Lehnert (aka Herr Müller) Assistenz.........................................Emil Lehnert (aka Müller jr.) Ausstattung | Produktion | Veranstalter...disdance project (gUG)  disdance project realisiert interdisziplinäre Projekte mit Schnittstellen zwischen Tanz, Theater, Videokunst und Vermittlung für jung und alt. Es kooperiert bundesweit mit Akteuren aus Kultur und Bildung und ist Mitglied der Internationalen Vereinigung des Theaters für Kinder und Jugendliche ASSITEJ. Projekte wurden ausgezeichnet durch den Kölner Kunstsalon Theaterpreis 2022, nominiert für den Kölner Theaterpreis 2024, 2023 und 2008, den Kinder- und Jugendkulturpreis NRW 2016 und den Preis für Kulturelle Bildung 2013 des Bundesbeauftragten für Kultur und Medien.",
+        "link": "https://rausgegangen.de/en/events/peppa-feiert-geburtstag-4/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pq0KzP9pTiWpdAuwh67m_flyer-geburtstag-25-www-16-9-rausgegangen.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 13.09.2025",
+        "time": "12:00",
+        "event": "Weinflohmarkt (@Weinhalle)",
+        "category": "",
+        "description": "Wein-Flohmarkt – Genuss trifft Schnäppchen!Am 13. September 2025 öffnet der große Wein-Flohmarkt in Köln seine Türen – von 12 bis 18 Uhr erwartet euch ein besonderes Einkaufserlebnis rund um edle Tropfen zu kleinen Preisen.Ob Restposten, Einzelstücke oder echte Raritäten – hier kommen Weinliebhaber und Schnäppchenjäger gleichermaßen auf ihre Kosten. Freut euch auf Hammerpreise, echten Weingenuss und die Gelegenheit, besondere Flaschen zu entdecken und zu sparen.Die Veranstaltung findet im Rahmen eines Lagerverkaufs statt: 📍 Gutenbergstraße 8, 50823 KölnKommt vorbei, stöbert, entdeckt und genießt – ideal für alle, die das Besondere suchen!Verlosung: Zu gewinnen gibt es 3x2 Flaschen Wein unserer Raritäten und Restposten.",
+        "link": "https://rausgegangen.de/en/events/weinflohmarkt-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/52jB40QQIiJ2p0T4knYM_weinflohmarkt.PNG?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 13.09.2025",
+        "time": "13:00",
+        "event": "FÜNFZEHN vor weltuntergang | Utopist*innen (@COMEDIA Theater)",
+        "category": "",
+        "description": "Im Rahmen des Spielzeiteröffnungsfests der COMEDIA. Alle weiteren Programmpunkte findest du hier.  SCHAUSPIELDie Welt geht unter. Und dieses Mal wirklich. Keine Schlagzeile, keine Metapher, kein Hollywood-Drehbuch.  Was bleibt? 15 Stimmen. 15 Körper. 15 Perspektiven zwischen Hoffnung und Resignation, Wut und Witz, Chaos und Stille. Keine Ordnung, kein Trost, kein großer Plan. Nur Menschen – an der Kante. Im Versuch, sich irgendwie zu halten – an Erinnerungen, aneinander, am Nichts. Es ist ein Versuch, das Ende zu erzählen, ohne endgültig zu sein. Eine performative Überforderung. Ein sarkastischer Abgesang. Ein Chor aus Stimmen, die zu spät kommen – und vielleicht gerade deshalb gehört werden müssen.  Spoiler: Niemand wird gerettet. Aber vielleicht versteht man sich ein kleines Stück besser. Kurz bevor alles vorbei ist.Es spielen: Havva Sümbül Baran, Hannah Ramm, Benjamin Kleiner, Ella Schwertzel, Anna Germer, Kian Najarajampour, Levin Heitzer, Eda Gün, Simon Zerzawy, Marisstella Camesi, Dina Najarajampour, Joana Feldhusen, Esther Hellmann, Nicole Etschberger, Naomi LemmerLeitung: Sefa Küskü  Choreografie: Janine D’Aragona  Es spielen: Havva Sümbül Baran, Hannah Ramm, Benjamin Kleiner, Ella Schwertzel, Anna Germer, Kian Najarajampour, Levin Heitzer, Eda Gün, Simon Zerzawy, Marisstella Camesi, Dina Najarajampour, Joana Feldhusen, Esther Hellmann, Nicole Etschberger, Naomi LemmerContent Notes: Das Stück enthält laute Musik, Stroboskoplicht, sowie Darstellungen von Gewalt, psychischer Belastung und militärisch anmutenden Bildern.",
+        "link": "https://rausgegangen.de/en/events/funfzehn-vor-weltuntergang-utopistinnen-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vguPJpwHSEaaoaXXPrkm_image.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 13.09.2025",
+        "time": "14:00",
+        "event": "fi x LANGER TAG (@fi)",
+        "category": "",
+        "description": "18 Stunden nonstop feiern – vom Nachmittag draußen bis zum Sonnenaufgang drinnen, der ultimative Techno-Ausdauertest! Wer schafft's bis zum Ende?👀🪩",
+        "link": "https://rausgegangen.de/en/events/fi-x-langer-tag-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/idwbHAecQrSM67MeZnGf_bildschirmfoto-2025-08-21-um-135410.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 13.09.2025",
+        "time": "16:30",
+        "event": "Ecstatic Dance Köln (Kakao-Zeremonie, DJ Set, live Musik) · Sa 13. September 2025, 16:30-20h 💃 🎼🕺🏻🤸🏻‍♂️🪬 (@Clouth 104)",
+        "category": "",
+        "description": "Shanti CollectLive, das sind Thomas und Hendrick aus Berlin & Köln, die euch herzlich zu regelmäßigen „Ecstatic Dance“ Abenden in schöner Studioatmosphäre in Köln einladen. Als Gastgeber und DJ Act haben sie über 12 Jahre u. a. den Stadtgarten bei der „art of house“ auf den Kopf gestellt. Ebenso durften sie ihre Musik bereits auf dem Burning-Man-Festival in den USA, Ibiza, Panama, México, Südafrika und vielen anderen Orten spielen. Zurück aus der Sommerpause! Nach dem wundervollen Dance an Ort & Stelle im April, sind wir am 13. September zurück in der schönen Atmosphäre der Clouth-Höfe in Köln Nippes ◡̈    Wir beginnen wie immer mit dem Kakao-Ritual, geführt von der lieben Kati (@yoga_shaktie / Studio: Yoga Liebe), gehen über in unser 2 Stunden DJ Set von THOMÆS & SHANTI (house-music, electronica, psy, soul, world & spiritual music) und zaubern dann eine Endentspannung-Klangreise für euch. Kein Alkohol, keine Drogen, keine Handys, nur die Musik, als Extase und der gemeinsame Moment. „tanze als würde niemand zuschauen„ ist das Motto und dennoch sei erwähnt: es geht nicht ums performen, sondern um euer Gefühl 💃 🎼🕺🏻🤸🏻‍♂️🪬 Wir freuen uns auf eine schöne gemeinsame Zeit ✨ Alles Liebe Thomas & Hendrick Wann & Wo? Samstag 13. September 2025 16:30-20:00 Uhr Clouth 104, Niehler Str. 104, 50733 Köln (Von der Niehler Str. aus kommend in den Innenhof und geradeaus im großen Eventraum)  Begrenzte Teilnehmerzahl, wir empfehlen, das Ticket rechtzeitig zu kaufen. Wichtiges zum Schluss; · Bequeme Kleidung zum Tanzen / ggf. Wechselkleidung · warme Socken · Wasser für den Durst nicht vergessen · Bitte bringt euch eine eigene Tasse für den Kakao mit  · Einlass 16:30 Uhr. Die Kakao-Zeremonie beginnt um 17:00 Uhr, bitte erscheint pünktlich, da wir euch nicht mehr hereinlassen können, sobald die Zeremonie begonnen hat und ihr könnt dann erst um 17:15 Uhr wieder zum DJ Set mit einsteigen✨Lasst Gespräche während der Zeremonie und des Tanzes ruhen",
+        "link": "https://rausgegangen.de/en/events/ecstatic-dance-koln-kakao-zeremonie-dj-set-live-musik-sa-13--0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Mqn4GpBnTCOvLPPCWOGc_shanti-dance-clouth-koln-foto.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 13.09.2025",
+        "time": "17:00",
+        "event": "Liebling, der Honig brennt | Urbanist*innen (@COMEDIA Theater)",
+        "category": "",
+        "description": "Im Rahmen des Spielzeiteröffnungsfests der COMEDIA. Alle weiteren Programmpunkte findest du hier. TanzBUBBLES SOLLEN VERSCHMELZEN UND DIE BRÜCKE KLINGT WIE DAS MEER IN MEINEM KOPF IST DAS ALLES UND NICHTS ALLEIN UND ZUSAMMEN SCHAU NICHT WEG SCHAU HIN LAUF NICHT WEG BLEIB STEHEN NIMM NOCH EIN BISSCHEN HONIG LIEBLING! Die Urbanist*innen verschaffen sich tanzend Raum. Sie erkunden das Zusammenspiel von Choreografie und Chaos, Kollektiv und Individuum. Interdisziplinär, wütend, random. Schließlich ist hier alles Außer Kontrolle - oder?Die Urbanist*innen:  Katharina Lorber, Alma Reinhardt, Hendrik Ziemann, Anna Lange, Vivienne Wendels, Deli de la Rubia, Oliana BerschauerSpielleitung Juri Jaworsky Assistenz Jasper Sander Kostümbild und Outside-Eye YeoJin Kim",
+        "link": "https://rausgegangen.de/en/events/liebling-der-honig-brennt-urbanistinnen-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/1fqnWxZVQzWNaaE6lgqz_image.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 13.09.2025",
+        "time": "18:00",
+        "event": "SCHNACK Stand-Up Comedy im Adina Köln (@Adina Köln)",
+        "category": "",
+        "description": "Von Norddeutschland direkt nach Köln – die SCHNACK Stand-Up Comedy Show. Von kleinen Comedians bis zu alten Bekannten sind hier alle dabei. Also wenn ihr mal wieder lachen wollt ist das mit Sicherheit das Richtige. 🤩🎙️",
+        "link": "https://rausgegangen.de/en/events/schnack-stand-up-comedy-im-adina-koln-17/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EDa6dHDrTZyiYhPeGQDi_eventbrite-header-51.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 13.09.2025",
+        "time": "18:15",
+        "event": "Ecstatic Dance Cologne | Sensation Light (@La Danza Dos (Saal 2))",
+        "category": "",
+        "description": "🙏 Namasté,  wir laden euch herzlich zu einem ganz besonderen Abend ein! Wir erschaffen gemeinsam einen Raum der Reinheit, der Klarheit, des Lichts und der ekstatischen Bewegung. SENSATION LIGHT ist der Auftakt für eine neue Serie regelmäßiger Samstagabende in Köln - und ihr könnt von Anfang an mit dabei sein!  ✦ Dresscode | ein lichtvoller AbendKommt in hellen Farben - Weiß, Creme, Gold oder sanfte Pastelltöne. Gemeinsam erschaffen wir eine leuchtende Gemeinschaft und laden die Spirits des Lichts ein. Eure helle Kleidung wird Teil des Gesamtkunstwerks und verstärkt die magische Atmosphäre des Abends.  Dieser Abend markiert den Start regelmäßiger Samstagabende mit Mitsingkonzerten, Ecstatic Dance mit Zeremoniechakrakter.Kommt mit offenen Herzen und lasst uns gemeinsam einen Abend erschaffen, der uns alle berührt und verändert. Dies ist mehr als nur ein Event - es ist eine Einladung, Teil einer liebevollen Gemeinschaft zu werden. ✦ Blue Lotus | Tea CeremonyWir beginnen mit einer rituellen Tee-Zeremonie im heiligen Kreis. Der Blue Lotus, die heilige Blüte der alten Ägypter, öffnet sanft unser Bewusstsein und bereitet unsere Herzen auf einen Abend voller Magie vor. Diese uralte Pflanze wirkt entspannend, bewusstseinserweiternd und herzöffnend - der perfekte Einstieg in unsere gemeinsame Reise.   ✦ Mitsingkonzert | Jemma Endersby & Laxmi EaswaranLasst eure Stimmen erklingen! Zwei wunderbare Künstlerinnen führen uns durch Mantras, Chants und Sacred Songs. Es ist ein interaktives Erlebnis - ihr müsst nicht perfekt singen können, sondern einfach nur euer Herz öffnen und mitmachen. Die Kraft der gemeinsamen Stimme wird uns alle berühren. ✦ Ecstatic Dance | DJ BOMBYE ✦Danach lädt dich DJ Bombye (@bombye.de) auf eine sinnliche Tanzreise ein. Von meditativen Melodien bis zu ekstatischen Rhythmen - hier darf sich dein Körper frei ausdrücken. Kein Alkohol, keine Drogen, nur pure, authentische Bewegung und die Kraft der Gemeinschaft. 18:00 Uhr | Arrival in Silence Kommt an, atmet durch und lasst den Alltag hinter euch. Ein sanfter Übergang in unseren heiligen Raum.18:30 Uhr | Blue Lotus Ceremony & Mitsingkonzert Die rituelle Tee-Zeremonie mit Jemma Endersby & Laxmi Easwaran öffnet unsere Herzen für das, was kommen mag.19:30 Uhr | Ecstatic Dance into Light Journey DJ Bombye führt uns durch eine transformative Klanglandschaft - von meditativen Tönen bis zu ekstatischen Rhythmen.21:30 Uhr | Soundhealing & Integration Sanfte Klänge helfen uns, die Erfahrungen des Abends zu integrieren und in uns wirken zu lassen.22:00 Uhr | Closing Circle Wir schließen den Kreis gemeinsam ab und nehmen die Magie des Abends mit nach Hause.  Damit du ein intensives und tiefes Tanzerlebnis genießen kannst, bitten wir dich, folgende Punkte zu beachten:🧡 Wir tanzen barfuß 🧡 Kein Alkohol & keine Drogen 🧡 Keine verbale Kommunikation 🧡 Keine Smartphones  Mitbringen:Eine Decke für die Integration danachEine TrinkflascheNüsse / Obst / Früchte für deinen Energieboost  Wir freuen uns auf dich und einen lichtvollen und transformierenden Abend.See you on the dancefloor!",
+        "link": "https://rausgegangen.de/en/events/ecstatic-dance-cologne-sensation-light-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/1N89W3H1QQ62wDivivtP_1309ecstatic-dancesensation-light.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 13.09.2025",
+        "time": "19:00",
+        "event": "FUN! - Stand Up Comedy (@Goldfinger)",
+        "category": "",
+        "description": "Hier übernehmen erstklassige Comedians mit Witz, Spontaneität und scharfen Pointen die Bühne. Drinks, Vibes & gute Laune sind garantiert – perfekt für dich und deine Crew.",
+        "link": "https://rausgegangen.de/en/events/fun-stand-up-comedy-62/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RfdBh4SwTHGSlIsw4glL_screenshot-2025-04-08-182954.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 13.09.2025",
+        "time": "19:00",
+        "event": "GOGOL BORDELLO (@Live Music Hall)",
+        "category": "",
+        "description": "Wenn Eugene Hütz auf die Bühne tritt, ist es, als würde ein Orkan durch den Konzertsaal fegen. Seine Band Gogol Bordello entfacht eine Energie, die mühelos eine Stadt zum Beben bringen könnte. Nachdem die Band kürzlich mit Dropkick Murphys getourt ist und für ein begeistertes Publikum gesorgt hat, gilt es nun, diese Live-Dynamik erneut in voller Länge auf die deutschen Bühnen zu bringen. Seit ihrer Gründung 1999 in New York, steht die multikulturelle Truppe für eine explosive Mischung aus Punk, Dub und der mitreißenden Folklore der Roma. Ihr einzigartiger Sound ist laut, wild und kompromisslos – eine entfesselte Feier der Freiheit, die sich nicht in Schubladen pressen lässt. Wie ihr erstes Label über das Album „Multi Kontra Culti Vs. Irony“ sagte: Eine Ästhetik, welche die Brücke zwischen osteuropäischer und westlicher Kultur schlägt. Ein Akkordeon und eine Geige ergänzen die klassische Punk-Besetzung aus Gitarre, Schlagzeug und Bass. Dadurch entsteht ein wahres musikalisches Feuerwerk, das in jeder Sprache verstanden wird. Denn auch wenn die Texte überwiegend auf Englisch sind, tauchen immer wieder ukrainische und Romani-Passagen auf, die den transkulturellen Charakter der Band betonen. In der Ukraine aufgewachsen, kam Hütz in den 90er-Jahren in New York an. Er schlief auf Sofas von Freund*innen, spielte Akustiksets in ukrainischen Bars, bevor er schließlich selbst im legendären CBGB auftrat. Aus dieser Underground-Szene heraus, entwickelte sich Gogol Bordello zu einer achtköpfigen Formation, die über die Jahre mit Größen wie System of a Down, Rancid oder den Dropkick Murphys auf der Bühne stand. Ihre Alben entstanden unter der Regie von Produzentenlegenden wie Rick Rubin, Steve Albini und jüngst Nic Launay. Doch die Band ist mehr als nur eine musikalische Urgewalt. Der russische Krieg gegen die Ukraine ist für Hütz eine persönliche Angelegenheit. Gogol Bordello engagiert sich mit Benefizkonzerten, sammelt Spenden für Hilfsorganisationen wie Nova Ukraine und ArtDopomoga und nimmt Songs wie „Solidarity“ mit Bernard Sumner auf, um verletzte ukrainische Soldat*innen zu unterstützen. Der von Liev Schreiber produzierte Dokumentarfilm „Scream of My Blood: A Gogol Bordello Story“ gibt einen tiefen Einblick in das bewegte Leben von Hütz und seiner Band, und wurde auf Festivals von Tribeca bis Warschau gefeiert. Neben der Musik ist Hütz ebenfalls in der Filmwelt aktiv. Er spielte unter anderem an der Seite von Elijah Wood in „Everything Is Illuminated“ oder unter der Regie von Madonna in „Filth and Wisdom“. Seine Mission bleibt dabei stets dieselbe: Den Menschen durch Kunst einen Moment der Freiheit zu schenken. „Das Universum will Gutes für uns, aber viele erkennen es nicht“, sagt er in einem Interview, „Unsere Musik soll ein Portal sein, das den Kopf von all dem Mist befreit.“ Und genau diese befreiende Kraft wird bald wieder live zu erleben sein: Im September 2025 kommt Gogol Bordello für acht Konzerte nach Deutschland. Als Support wird das Londoner Duo Bob Vylan auf der Tour dabei sein. Ähnlich wie Gogol Bordello vereinen sie Chaos und Ruhe, wobei sie ihren ganz eigenen, sich stets entwickelnden Sound, mit dem sie Fans von Rock, Rap, Punk, Dance und Alternative gleichermaßen begeistern. Wer sich für ein paar Stunden in Ekstase tanzen will, sollte sich die Tour von Gogol Bordello nicht entgehen lassen. - Fall 2025 European Tour     SPECIAL GUEST: BOB VYLAN",
+        "link": "https://rausgegangen.de/en/events/gogol-bordello-4/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/yqt0jshp93u7.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 13.09.2025",
+        "time": "19:30",
+        "event": "Queerfeministische Stand Up Comedy von FLINTA* und queer Comedians (@die wohngemeinschaft)",
+        "category": "",
+        "description": "Laut, divers und garantiert ohne toxische Vibes – hier übernehmen nämlich FLINTA* und queere Comedians die Bühne und erschaffen eine Safe Space in der Comedy Szene💖",
+        "link": "https://rausgegangen.de/en/events/queerfeministische-stand-up-comedy-von-flinta-und-queer-come-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/afj2FC18QQ2Fp2uBr9M9_1309.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 13.09.2025",
+        "time": "20:00",
+        "event": "BOING! Comedy Club Köln (@Horizont Theater)",
+        "category": "",
+        "description": "BOING! Comedy Club Köln - das Original!von Manuel WolffJetzt wird's lustig!Comedy in Köln: BOING!Der echteste, ehrlichste, roheste, frechste, authentischste, beste Stand Up Comedy Club hat eine neue Heimat im kultigen Horizont-Theater nähe Eigelstein gefunden. Immer mit ca. 5 tollen Comedians und einem verrückten speziell ausgewählten Host des Abends.BOING! Comedy Club steht für die Motti \"Vielfalt leben\" und \"Liebe statt Hass\" und versucht die Comedy-Shows bunt und tolerant zu gestalten und gegen Diskriminierung einzutreten. Wir heißen alle willkommen, um gemeinsam einen schönen, lustigen Abend zu erleben.VERANSTALTUNGSORT ist das Horizont-Theater, Thürmchenswall 25, 50668 Köln, - ab 19 Uhr ist Einlass, Showbeginn 20 Uhr.Mehr Termine, Infos, etc. auf unsere Homepage: www.boingcomedy.deBOING! Comedy Club - Das OriginalErlebe den unglaublichen Mix aus gestandenen Profis und aufregenden Newcomern, oft kopiert, aber nie erreicht. Mit exzellenter Moderation und authentischem Stand-up-Comedy, wie sie sein sollte: ehrlich, pur und natürlich sehr lustig. BOING! ist nicht nur eine Show – es ist Kult und DER Treffpunkt für die Kölner Comedy-Szene. Lass dir das nicht entgehen!",
+        "link": "https://rausgegangen.de/en/events/boing-comedy-club-koln-107/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wcC2UUTmRyOyK1cc6HCj_manuel-und-boing-16zu9.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 13.09.2025",
+        "time": "20:00",
+        "event": "🍹 Cocktails, Camp & Critical Cuteness - Die Revue meines Lebens (@Theater im Bauturm)",
+        "category": "",
+        "description": "Regie und Konzept Thomas Bartling | Komposition Marcel Tolle | Videokunst Philipp Wachowitz | Kostüm Crimson Vixe | Mit Gareth Charles, Marcus Chiwaeze, Jolinus Pape und Thomas BartlingPremiere am 13. September 2025 Mit einer Mischung aus queerem Humor, popkulturellem Overdrive und scharfer Gesellschaftsanalyse hat sich Thomas Bartling in den letzten Jahren als eine der provokantesten Stimmen der deutschen Performance-Szene etabliert. Seine Arbeiten changieren zwischen Trash und Theorie, Teleshopping und Theater, Entertainment und Entlarvung – stets mit einem wachen Blick auf das Politische im Alltäglichen. Are You Man enough to camp? Dieser Abend mixt Glanz und Elend queerer Performancekunst mit kritischer Männlichkeit und exzentrischem Self-Empowerment. Mit Machos, Mythen und Martinis nimmt Bartling zusammen mit seinem Ensemble die eigene Retrospektive vorweg und hinterfragt somit den zukünftigen Wert von queerer Performance Kunst, denn Glitter is Political und zudem überraschend köstlich. Stirred, Not Straight! Gefördert durch die Konzeptionsförderung aus Geldern des Ministeriums für Kultur und Wissenschaft des Landes Nordrhein-WestfalensTickets gibt's hier!",
+        "link": "https://rausgegangen.de/en/events/cocktails-camp-critical-cuteness-die-revue-meines-lebens-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/VnWs449DR8iLgJSafNWd_cocktails10-alexander-schneider.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 13.09.2025",
+        "time": "20:00",
+        "event": "Echtzeit Comedy - Stand-Up am Samstag (@Echtzeit Grill & Thrill)",
+        "category": "",
+        "description": "„Samstag ist Comedy-Time! 🎤🔥 Um 20 Uhr rocken drei Comedians die Bühne, und um 22:30 Uhr geht’s im Open Mic weiter – Newcomer, frisches Material, BBQ und Drinks🍔✨“",
+        "link": "https://rausgegangen.de/en/events/echtzeit-comedy-stand-up-am-samstag-35/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zUbkuklCT1GNCqQVjqg9_echteit-comedy-website-bild.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 13.09.2025",
+        "time": "20:00",
+        "event": "Jazz at JAKI: Julian Bossert Trio (@JAKI)",
+        "category": "",
+        "description": "20:00 I Konzert I 💿 JAKI Lakonik muss man können. Und man darf sie nicht mit Ironie verwechseln. Beides sind Künste der Anspielung, doch die eine behält einen tiefen Ernst im Inneren, während die andere auf Distanz geht. Julian Bossert, Matthias Akeo Nowak und Dominik Raab fühlen sich der latent lakonischen Haltung des fröhlichen Ernstes verbunden und haben gerade an der Vielfältigkeit der Kontraste Spaß, die sich daraus entwickeln lassen. Es braucht dazu nicht die üblichen Mechanismen jazzmusikalischen Erkennens, die an eingeübten Mustern von Komplexität, Expressivität oder Grenzüberschreitung andocken. Die Musiker pflegen vielmehr die dynamische Rücknahme, die Beschränkung auf Grundmuster etwa des Besen- und Beckenspiels, der walkenden Bassphrasierung oder den samten geblasenen Ansatzes, die dann in der Detailarbeit ihre Kraft entfalten. Sie verzichten auf die Sicherheit des Harmonischen und spielen mit der Offenheit der Andeutungen, die sich daraus ergeben. Und sie konzentrieren sich auf pointierten Swing, auf den Groove im Feinen, vor allem auf das Zusammenwirken der Charaktere, die der Musik die Anmutung des Organischen verleihen und zugleich genügend Integrität behalten, um nicht klischeehaft zu wirken. Wieder hilft das Lakonische, um der Musik eine Aura der Präsenz zu verliehen. Man hört das Lächeln, aber auch die Klarheit, den Wunsch, das Ziel. Dead Beat, Bad Deed – und vielleicht ist doch auch ein Körnchen Ironie im Spiel. Ein Augenzwinkern nur. Ralf Dombrowski...Julian Bossert (alto saxophone), Matthias Akeo Novak (double bass), Dominik Raab (drums)",
+        "link": "https://rausgegangen.de/en/events/jazz-at-jaki-julian-bossert-trio-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/b3QVuSixQNev3pAQRe06_julian-bossert-trio-lena-semmelroggen.jpeg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 13.09.2025",
+        "time": "20:00",
+        "event": "POMMES // ein AUSWÄRTSSPIEL der studiobühneköln (@TanzFaktur)",
+        "category": "",
+        "description": "Ein Stück über die Bundeswehr eine Koproduktion von boy:band und studiobühneköln ein AUSWÄRTSSPIEL der studiobühneköln in der TanzFaktur  Rechtsextremismus, Diskriminierungsvorwürfe, brutale Aufnahmerituale – die Bundeswehr ist schon lange überholt. Dachten wir. Dank Putins Machtwahn erlebt deutscher Flecktarn einen neuen Hype. Ob auf TikTok, Werbeplakaten oder in Schulen, überall wird fleißig rekrutiert – mit Erfolg. Passend dazu: Aufrüstungsgelder in Milliardenhöhe, neue Waffen, neue Outfits. Make Bundeswehr great again!  Die boy:s wollen auch ein Stück vom Schlammkuchen! Wie die deutschen Kartoffeln, die durch den Pommesschneider genormt werden, legen wir unsere Individualität ab und unseren Tarnanzug an. Wir trainieren bis zum Umfallen, lassen uns demütigen und essen Schweineleber, um schließlich als Gefreite, als Fritten, zu enden. Wir sind kriegstüchtig – sind kriegssüchtig! Wir sind die Truppe, die euch beschützt – ja, viel- leicht sexistisch, rassistisch, queerfeindlich und antipluralistisch, ja, traumatisiert und mehr denn je, mit der diffusen Frage im Kopf: Geht das nicht auch anders? mit: Noelle Fleckenstein, Isabella Kolb, Carmen Konopka, Jan van Putten und Katharina Rettich Musik: zurreal Regie: Noelle Fleckenstein und Carmen Konopka Assistenz: Michelle Wiesemes Choreografie: Tatiana Feldman Technik: Hannah Brown Finanzen: Niels Nester Gefördert durch das Kulturamt der Stadt Köln, das NRW Landesbüro Freie Darstellende Künste und das Ministerium für Kultur und Wissenschaft des Landes Nordrhein-WestfalenIm Rahmen von BEYOND REALITIES – Europäische Positionen  Preisinformation: 15 € | 7 € | Begleitperson für Schwerbehinderte frei Freier Eintritt für Erstsemester der Universität zu Köln",
+        "link": "https://rausgegangen.de/en/events/pommes-29/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hlPpM7haR5MbBpuK3XWg_pommes1-foto-jan-van-putten.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
     },
     {
         "date": "Sat, 13.09.2025",
@@ -1388,22 +1380,6 @@
         "link": "https://www.bielefeld.jetzt/node/1278530"
     },
     {
-        "date": "Su, 14.09.2025",
-        "time": "19:00",
-        "event": "*TRIBE KENNENLERNABEND*",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Su, 14.09.2025",
-        "time": "09:00",
-        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/uprunningclub/?hl=de",
-        "image_url": null
-    },
-    {
         "date": "So, 14.09.2025",
         "time": "09:00",
         "event": "Yoga(@hochschulsport_bielefeld)",
@@ -1428,6 +1404,22 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "date": "Su, 14.09.2025",
+        "time": "19:00",
+        "event": "*TRIBE KENNENLERNABEND*",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Su, 14.09.2025",
+        "time": "09:00",
+        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/uprunningclub/?hl=de",
+        "image_url": null
+    },
+    {
         "date": "So, 14.09",
         "time": "19:00",
         "event": "MC WINDHUND + GEN NULL (@nr.z.p)",
@@ -1443,16 +1435,6 @@
         "link": "https://rausgegangen.de/en/events/white-reznichenko-quintett-1/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/KpPlAE7uRy2SgjDqw59n_20251409olgajordan-c-lisakrueger.jpg?width=1200&height=900&mode=crop",
         "city": "Münster"
-    },
-    {
-        "date": "Sun, 14.09.2025",
-        "time": "18:00",
-        "event": "SILICON DREAMS (@LOFFT - DAS THEATER)",
-        "category": "",
-        "description": "Zwischen historischen Fundstücken und spekulativen Szenarien beleuchtet SILICON DREAMS den Mikrochip als globales Machtinstrument – und als überraschendes Kapitel ostdeutscher Technikgeschichte.Ohne Mikrochips steht unsere Welt still: Sie steuern Smartphones, Fahrzeuge, Stromnetze, Kommunikationssysteme, Börsen und militärische Systeme. Mikrochips sind nicht nur technische Bauteile, sondern auch geopolitische Schlüsselfaktoren. Mit SILICON DREAMS widmet sich OutOfTheBox dem Mikrochip als globalem Machtinstrument und als Motor regionaler Zukunftsstrategien. Wusstet ihr, dass die Mikrochip-Industrie in Ostdeutschland eine überraschend lange Geschichte hat? Bereits in der DDR wurde an eigener Mikroelektronik geforscht – und besonders Sachsen hat sich zu einem wichtigen Zentrum entwickelt. Eine Region, die heute durch bemerkenswerte Hightech-Ansiedlungen wieder ins Rampenlicht der globalen Chip-Industrie rückt. SILICON DREAMS lädt das Publikum auf eine Reise zwischen gestern und morgen ein. In einer Objekttheater-Performance trifft dokumentarisches Material auf eigens entwickelte Soft und Hardware-Objekte. Zwischen historischen Fundstücken und spekulativen Szenarien entsteht ein vielschichtiger Raum, der die Vergangenheit, Gegenwart und Zukunft des Mikrochips in Ostdeutschland miteinander verschränkt. Die Gruppe OutOfTheBox entwickelt spekulative Software und gestaltet performative Erfahrungsräume an der Schnittstelle von Theater, Medienkunst und Gamedesign und lädt ein, die Macht und Magie des Mikrochips neu zu entdecken.  Ab 12 Jahren. In deutscher Sprache.Akustische Reize: Laute Motorengeräusche.Dauer: ca. 70 Minuten. Am Sonntag, den 14.09. findet um 16:30 Uhr das Gespräch ECHOLOT: DIGITALE TRÄUME – ZWISCHEN DDR-VERGANGENHEIT UND HIGHTECH-ZUKUNFT statt.   Hier gehts zum Trailer.",
-        "link": "https://rausgegangen.de/en/events/silicon-dreams-14/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BXVGB9TIQwCgj3sgCkN4_silicondreams4cmoritzkustner.jpg?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
     },
     {
         "date": "Sun, 14.09.2025",
@@ -1496,6 +1478,16 @@
     },
     {
         "date": "Sun, 14.09.2025",
+        "time": "18:00",
+        "event": "SILICON DREAMS (@LOFFT - DAS THEATER)",
+        "category": "",
+        "description": "Zwischen historischen Fundstücken und spekulativen Szenarien beleuchtet SILICON DREAMS den Mikrochip als globales Machtinstrument – und als überraschendes Kapitel ostdeutscher Technikgeschichte.Ohne Mikrochips steht unsere Welt still: Sie steuern Smartphones, Fahrzeuge, Stromnetze, Kommunikationssysteme, Börsen und militärische Systeme. Mikrochips sind nicht nur technische Bauteile, sondern auch geopolitische Schlüsselfaktoren. Mit SILICON DREAMS widmet sich OutOfTheBox dem Mikrochip als globalem Machtinstrument und als Motor regionaler Zukunftsstrategien. Wusstet ihr, dass die Mikrochip-Industrie in Ostdeutschland eine überraschend lange Geschichte hat? Bereits in der DDR wurde an eigener Mikroelektronik geforscht – und besonders Sachsen hat sich zu einem wichtigen Zentrum entwickelt. Eine Region, die heute durch bemerkenswerte Hightech-Ansiedlungen wieder ins Rampenlicht der globalen Chip-Industrie rückt. SILICON DREAMS lädt das Publikum auf eine Reise zwischen gestern und morgen ein. In einer Objekttheater-Performance trifft dokumentarisches Material auf eigens entwickelte Soft und Hardware-Objekte. Zwischen historischen Fundstücken und spekulativen Szenarien entsteht ein vielschichtiger Raum, der die Vergangenheit, Gegenwart und Zukunft des Mikrochips in Ostdeutschland miteinander verschränkt. Die Gruppe OutOfTheBox entwickelt spekulative Software und gestaltet performative Erfahrungsräume an der Schnittstelle von Theater, Medienkunst und Gamedesign und lädt ein, die Macht und Magie des Mikrochips neu zu entdecken.  Ab 12 Jahren. In deutscher Sprache.Akustische Reize: Laute Motorengeräusche.Dauer: ca. 70 Minuten. Am Sonntag, den 14.09. findet um 16:30 Uhr das Gespräch ECHOLOT: DIGITALE TRÄUME – ZWISCHEN DDR-VERGANGENHEIT UND HIGHTECH-ZUKUNFT statt.   Hier gehts zum Trailer.",
+        "link": "https://rausgegangen.de/en/events/silicon-dreams-14/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BXVGB9TIQwCgj3sgCkN4_silicondreams4cmoritzkustner.jpg?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
+    },
+    {
+        "date": "Sun, 14.09.2025",
         "time": "11:00",
         "event": "Da müssen wir durch! (@Sennefriedhof)",
         "category": "Kabarett auf dem Sennefriedhof mit Heinz Flottmann",
@@ -1529,22 +1521,6 @@
         "description": "Blues, R & B and more, Opener Band: VOODOO FOODOO BLUES CLUB (Osnabrück)",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/webform/termine_melden/16620/bluessession.jpg?itok=Rhqdqokn",
         "link": "https://www.bielefeld.jetzt/node/1225358"
-    },
-    {
-        "date": "Mo, 15.09.2025",
-        "time": "20:00",
-        "event": "Pub Quiz (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Mo, 15.09.2025",
-        "time": "18:00",
-        "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
     },
     {
         "date": "Mo, 15.09.2025",
@@ -1587,6 +1563,22 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "date": "Mo, 15.09.2025",
+        "time": "20:00",
+        "event": "Pub Quiz (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "Mo, 15.09.2025",
+        "time": "18:00",
+        "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
         "date": "Mon, 15.09.2025",
         "time": "20:00",
         "event": "CLIPPING. + Counterfeit Madison (Sharon Udoh) (@Moritzbastei)",
@@ -1595,22 +1587,6 @@
         "link": "https://rausgegangen.de/en/events/clipping-counterfeit-madison-sharon-udoh-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/qBahwzWTPebVw91k5gUm_clipping-2020-promo-03-cristinabercovitz-2100x1500-300.jpeg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Tu, 16.09.2025",
-        "time": "18:00",
-        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Tu, 16.09.2025",
-        "time": "07:00",
-        "event": "Wochenmarkt(@Alter Markt)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Di, 16.09.2025",
@@ -1643,6 +1619,42 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35416",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Tu, 16.09.2025",
+        "time": "18:00",
+        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Tu, 16.09.2025",
+        "time": "07:00",
+        "event": "Wochenmarkt(@Alter Markt)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Tue, 16.09.2025",
+        "time": "20:00",
+        "event": "Comedy Light (@BierCafé West)",
+        "category": "",
+        "description": "Ein Abend voller Humor und gute Laune:Erlebe ab 20:00 Uhr im BierCafé West eine besondere Nacht des Lachens und der guten Laune in Dortmund. Es erwartet Dich ein humorvoller Abend, der Dich Sorgen für eine Weile vergessen lässt. Diese Veranstaltung ist der perfekte Ort, um neue Talente der Comedy-Szene zu entdecken, während sie ihre frischen und originellen Witze zum Besten geben.Comedy Light Stand-up Comedy Open Mic bietet aufstrebenden Comedians aus ganz Deutschland eine Bühne, um Ihre neuen Witze zu präsentieren. Hier stehen 6-8 talentierte Nachwuchs-Comedians im Rampenlicht und bringen einen bunten Mix aus ihren neuesten Scherzen und Geschichten mit. Es ist eine gute Gelegenheit, neue Gesichter in der Comedy-Welt zu entdecken.Egal, ob Du ein eingefleischter Fan der Stand-up Comedy bist, oder zum ersten Mal eine Live-Show besuchst, die Veranstaltung bietet ein einzigartiges Erlebnis, das Du so schnell nicht vergessen wirst.Einlass um 19:00 UhrBeginn um 20:00 UhrAK 8€Komm gerne vorbei!Wir freuen uns auf euch!",
+        "link": "https://rausgegangen.de/en/events/comedy-light-54/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TFx4IRphQpqn0e7qaUAr_280225.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Tue, 16.09.2025",
+        "time": "20:00",
+        "event": "Die Comedy Werkstatt Dortmund Weingrün (@Weingrün)",
+        "category": "",
+        "description": "Neue Bühne, neues Potential: Hier können Newcomer und Profis ordentlich an ihren Gags pfeilen... und natürlich auch mal failen. Either way, das kann ja lustig werden! 🎭",
+        "link": "https://rausgegangen.de/en/events/die-comedy-werkstatt-dortmund-weingrun-17/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/joicCvrTyumAKm1pXezw_img4282jpg.jpeg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Tue, 16.09.2025",
@@ -1686,26 +1698,6 @@
     },
     {
         "date": "Tue, 16.09.2025",
-        "time": "20:00",
-        "event": "Comedy Light (@BierCafé West)",
-        "category": "",
-        "description": "Ein Abend voller Humor und gute Laune:Erlebe ab 20:00 Uhr im BierCafé West eine besondere Nacht des Lachens und der guten Laune in Dortmund. Es erwartet Dich ein humorvoller Abend, der Dich Sorgen für eine Weile vergessen lässt. Diese Veranstaltung ist der perfekte Ort, um neue Talente der Comedy-Szene zu entdecken, während sie ihre frischen und originellen Witze zum Besten geben.Comedy Light Stand-up Comedy Open Mic bietet aufstrebenden Comedians aus ganz Deutschland eine Bühne, um Ihre neuen Witze zu präsentieren. Hier stehen 6-8 talentierte Nachwuchs-Comedians im Rampenlicht und bringen einen bunten Mix aus ihren neuesten Scherzen und Geschichten mit. Es ist eine gute Gelegenheit, neue Gesichter in der Comedy-Welt zu entdecken.Egal, ob Du ein eingefleischter Fan der Stand-up Comedy bist, oder zum ersten Mal eine Live-Show besuchst, die Veranstaltung bietet ein einzigartiges Erlebnis, das Du so schnell nicht vergessen wirst.Einlass um 19:00 UhrBeginn um 20:00 UhrAK 8€Komm gerne vorbei!Wir freuen uns auf euch!",
-        "link": "https://rausgegangen.de/en/events/comedy-light-54/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TFx4IRphQpqn0e7qaUAr_280225.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Tue, 16.09.2025",
-        "time": "20:00",
-        "event": "Die Comedy Werkstatt Dortmund Weingrün (@Weingrün)",
-        "category": "",
-        "description": "Neue Bühne, neues Potential: Hier können Newcomer und Profis ordentlich an ihren Gags pfeilen... und natürlich auch mal failen. Either way, das kann ja lustig werden! 🎭",
-        "link": "https://rausgegangen.de/en/events/die-comedy-werkstatt-dortmund-weingrun-17/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/joicCvrTyumAKm1pXezw_img4282jpg.jpeg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Tue, 16.09.2025",
         "time": "21:00",
         "event": "120 Minuten Party (@Cutie)",
         "category": "Von 21 bis 23 Uhr wird durchgetanzt zu Indie, Wave, Synthie-Pop, Hip-Hop, Soul, R'n'B ... worauf die...",
@@ -1720,38 +1712,6 @@
         "category": "Party",
         "link": "https://cafeeuropa.de/event/mi-bergfest-19/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250917_Bergfest_4zu5.jpg"
-    },
-    {
-        "date": "We, 17.09.2025",
-        "time": "21:00",
-        "event": "Karaoke (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "We, 17.09.2025",
-        "time": "18:00",
-        "event": "*TRIBE BOULDERN (@Kletterhalle Senne)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "We, 17.09.2025",
-        "time": "07:00",
-        "event": "Wochenmarkt(@Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "We, 17.09.2025",
-        "time": "20:00",
-        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
-        "image_url": null
     },
     {
         "date": "Mi, 17.09.2025",
@@ -1802,6 +1762,38 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "date": "We, 17.09.2025",
+        "time": "21:00",
+        "event": "Karaoke (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "We, 17.09.2025",
+        "time": "18:00",
+        "event": "*TRIBE BOULDERN (@Kletterhalle Senne)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "We, 17.09.2025",
+        "time": "07:00",
+        "event": "Wochenmarkt(@Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "We, 17.09.2025",
+        "time": "20:00",
+        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
+        "image_url": null
+    },
+    {
         "date": "Mi, 17.09.2025",
         "time": "",
         "category": "Poetry Slam",
@@ -1815,6 +1807,16 @@
         "event": "Krakeln (@nr.z.p)",
         "link": "https://nrzp.de/event/krakeln-21",
         "image_url": "https://nrzp.de/wp-content/uploads/2024/10/Banner-Instagram-Post.zip-2.png"
+    },
+    {
+        "date": "Wed, 17.09.2025",
+        "time": "20:00",
+        "event": "Die Comedy Werkstatt Dortmund FHH (@Fritz-Henßler-Haus Dortmund)",
+        "category": "",
+        "description": "Du willst andere unterhalten oder selbst zum schmunzeln gebracht werden? Dann bist du hier genau richtig! 😁",
+        "link": "https://rausgegangen.de/en/events/die-comedy-werkstatt-dortmund-fhh-14/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/yujRT2lATNGWs37AROGC__DSC8180%201.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Wed, 17.09.2025",
@@ -1868,16 +1870,6 @@
     },
     {
         "date": "Wed, 17.09.2025",
-        "time": "20:00",
-        "event": "Die Comedy Werkstatt Dortmund FHH (@Fritz-Henßler-Haus Dortmund)",
-        "category": "",
-        "description": "Du willst andere unterhalten oder selbst zum schmunzeln gebracht werden? Dann bist du hier genau richtig! 😁",
-        "link": "https://rausgegangen.de/en/events/die-comedy-werkstatt-dortmund-fhh-14/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/yujRT2lATNGWs37AROGC__DSC8180%201.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Wed, 17.09.2025",
         "time": null,
         "event": "Verwandelte Räume (@Ostblock - Kulturhaus Bielefeld)",
         "category": "Multimedia Inszenierung",
@@ -1909,6 +1901,30 @@
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Do, 18.09.2025",
+        "time": "16:30",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 18.09.2025",
+        "time": "17:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 18.09.2025",
+        "time": "18:30",
+        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35659",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Th, 18.09.2025",
@@ -1949,30 +1965,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Do, 18.09.2025",
-        "time": "16:30",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 18.09.2025",
-        "time": "17:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 18.09.2025",
-        "time": "18:30",
-        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35659",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Do, 18.09.2025",
@@ -2054,30 +2046,6 @@
     },
     {
         "date": "Fr, 19.09.2025",
-        "time": "23:00",
-        "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
-        "category": "Party",
-        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
-        "image_url": null
-    },
-    {
-        "date": "Fr, 19.09.2025",
-        "time": "23:00",
-        "event": "CUTIE DANCE (@cutiebielefeld)",
-        "category": "Party",
-        "link": "https://www.instagram.com/cutiebielefeld/?hl=de",
-        "image_url": null
-    },
-    {
-        "date": "Fr, 19.09.2025",
-        "time": "07:00",
-        "event": "Wochenmarkt (@Alter Markt, Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Fr, 19.09.2025",
         "time": "16:00",
         "event": "Volleyball(@hochschulsport_bielefeld)",
         "category": "Sport",
@@ -2099,6 +2067,30 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35520",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 19.09.2025",
+        "time": "23:00",
+        "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
+        "category": "Party",
+        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
+        "image_url": null
+    },
+    {
+        "date": "Fr, 19.09.2025",
+        "time": "23:00",
+        "event": "CUTIE DANCE (@cutiebielefeld)",
+        "category": "Party",
+        "link": "https://www.instagram.com/cutiebielefeld/?hl=de",
+        "image_url": null
+    },
+    {
+        "date": "Fr, 19.09.2025",
+        "time": "07:00",
+        "event": "Wochenmarkt (@Alter Markt, Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Fr, 19.09.2025",
@@ -2201,6 +2193,22 @@
     },
     {
         "date": "Sa, 20.09.2025",
+        "time": "08:00",
+        "event": "Wandern(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38176",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 20.09.2025",
+        "time": "11:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 20.09.2025",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
         "category": "Sport",
@@ -2230,22 +2238,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sa, 20.09.2025",
-        "time": "08:00",
-        "event": "Wandern(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38176",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 20.09.2025",
-        "time": "11:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Sa, 20.09.2025",
@@ -2349,22 +2341,6 @@
         "link": "https://www.bielefeld.jetzt/node/1267487"
     },
     {
-        "date": "Su, 21.09.2025",
-        "time": "19:00",
-        "event": "*TRIBE KENNENLERNABEND*",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Su, 21.09.2025",
-        "time": "09:00",
-        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/uprunningclub/?hl=de",
-        "image_url": null
-    },
-    {
         "date": "So, 21.09.2025",
         "time": "09:00",
         "event": "Yoga(@hochschulsport_bielefeld)",
@@ -2387,6 +2363,22 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37043",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Su, 21.09.2025",
+        "time": "19:00",
+        "event": "*TRIBE KENNENLERNABEND*",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Su, 21.09.2025",
+        "time": "09:00",
+        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/uprunningclub/?hl=de",
+        "image_url": null
     },
     {
         "date": "Sun, 21.09.2025",
