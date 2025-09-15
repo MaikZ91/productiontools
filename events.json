@@ -1,6 +1,22 @@
 [
     {
         "date": "Mo, 15.09.2025",
+        "time": "20:00",
+        "event": "Pub Quiz (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "Mo, 15.09.2025",
+        "time": "18:00",
+        "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Mo, 15.09.2025",
         "time": "17:00",
         "event": "Volleyball(@hochschulsport_bielefeld)",
         "category": "Sport",
@@ -40,22 +56,6 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Mo, 15.09.2025",
-        "time": "20:00",
-        "event": "Pub Quiz (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Mo, 15.09.2025",
-        "time": "18:00",
-        "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
         "date": "Mon, 15.09.2025",
         "time": "20:30",
         "event": "Apocalypse Now - Final Cut (OV) (@Cinema Filmtheater)",
@@ -64,26 +64,6 @@
         "link": "https://rausgegangen.de/en/events/apocalypse-now-final-cut-ov-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5x8a9VBS120kkrRxVHQA_headerapocalypsenow.jpg?width=1200&height=900&mode=crop",
         "city": "Münster"
-    },
-    {
-        "date": "Mon, 15.09.2025",
-        "time": "18:00",
-        "event": "Gut Quiz! Kneipenquiz in Dortmund (@KLUBHAUS Dortmund)",
-        "category": "",
-        "description": "Kneipenquiz mit Kultpotenzial: Im KLUBHAUS Dortmund wird alle zwei Wochen gerätselt, gelacht und gefeiert – mit kniffligen Fragen, Musikrunden, Shots und sauren Gurken. Perfekt für alle, die Bock auf Teamspirit, Fun und ein bisschen Hirnschmalz haben! 🧠🍻",
-        "link": "https://rausgegangen.de/en/events/gut-quiz-kneipenquiz-in-dortmund-13/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/DkGh9usOR8GuLeheYS4o_foto-mit-logo.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Mon, 15.09.2025",
-        "time": "18:30",
-        "event": "JUGAD pick-up football / pick-up Soccer (@Tremonia Park)",
-        "category": "",
-        "description": "Kicken ohne Stress, neue Leute treffen und einfach Spaß haben! ⚽🙌",
-        "link": "https://rausgegangen.de/en/events/jugad-pick-up-football-pick-up-soccer-4412/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Gbw62R32QbGULqcpXIxp_e4dda8a282da754f0a4fb2201068e0cc.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
     },
     {
         "date": "Mon, 15.09.2025",
@@ -114,6 +94,26 @@
         "link": "https://rausgegangen.de/en/events/julia-shaw-liest-green-crime-im-rahmen-des-festivals-gutes-l-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/j44VH6OR6WKioeIC2PIj_autorinnenfoto-julia-shaw-c-boris-breuer.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
+    },
+    {
+        "date": "Mon, 15.09.2025",
+        "time": "18:00",
+        "event": "Gut Quiz! Kneipenquiz in Dortmund (@KLUBHAUS Dortmund)",
+        "category": "",
+        "description": "Kneipenquiz mit Kultpotenzial: Im KLUBHAUS Dortmund wird alle zwei Wochen gerätselt, gelacht und gefeiert – mit kniffligen Fragen, Musikrunden, Shots und sauren Gurken. Perfekt für alle, die Bock auf Teamspirit, Fun und ein bisschen Hirnschmalz haben! 🧠🍻",
+        "link": "https://rausgegangen.de/en/events/gut-quiz-kneipenquiz-in-dortmund-13/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/DkGh9usOR8GuLeheYS4o_foto-mit-logo.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Mon, 15.09.2025",
+        "time": "18:30",
+        "event": "JUGAD pick-up football / pick-up Soccer (@Tremonia Park)",
+        "category": "",
+        "description": "Kicken ohne Stress, neue Leute treffen und einfach Spaß haben! ⚽🙌",
+        "link": "https://rausgegangen.de/en/events/jugad-pick-up-football-pick-up-soccer-4412/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Gbw62R32QbGULqcpXIxp_e4dda8a282da754f0a4fb2201068e0cc.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Mon, 15.09.2025",
@@ -276,6 +276,22 @@
         "city": "Hamburg"
     },
     {
+        "date": "Tu, 16.09.2025",
+        "time": "18:00",
+        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Tu, 16.09.2025",
+        "time": "07:00",
+        "event": "Wochenmarkt(@Alter Markt)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
         "date": "Di, 16.09.2025",
         "time": "18:00",
         "event": "Fitnesstraining(@hochschulsport_bielefeld)",
@@ -308,22 +324,6 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Tu, 16.09.2025",
-        "time": "18:00",
-        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Tu, 16.09.2025",
-        "time": "07:00",
-        "event": "Wochenmarkt(@Alter Markt)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
         "date": "Tue, 16.09.2025",
         "time": "00:00",
         "event": "Momo Weiss /// Great Bathers (@Wewerka-Pavillon am Aasee)",
@@ -332,26 +332,6 @@
         "link": "https://rausgegangen.de/en/events/momo-weiss-great-bathers-28/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/64gNXWleTwGmI7sCcSHy_photo-1495125175509-8fddf00e56cd?width=1200&height=900&mode=crop",
         "city": "Münster"
-    },
-    {
-        "date": "Tue, 16.09.2025",
-        "time": "20:00",
-        "event": "Comedy Light (@BierCafé West)",
-        "category": "",
-        "description": "Ein Abend voller Humor und gute Laune:Erlebe ab 20:00 Uhr im BierCafé West eine besondere Nacht des Lachens und der guten Laune in Dortmund. Es erwartet Dich ein humorvoller Abend, der Dich Sorgen für eine Weile vergessen lässt. Diese Veranstaltung ist der perfekte Ort, um neue Talente der Comedy-Szene zu entdecken, während sie ihre frischen und originellen Witze zum Besten geben.Comedy Light Stand-up Comedy Open Mic bietet aufstrebenden Comedians aus ganz Deutschland eine Bühne, um Ihre neuen Witze zu präsentieren. Hier stehen 6-8 talentierte Nachwuchs-Comedians im Rampenlicht und bringen einen bunten Mix aus ihren neuesten Scherzen und Geschichten mit. Es ist eine gute Gelegenheit, neue Gesichter in der Comedy-Welt zu entdecken.Egal, ob Du ein eingefleischter Fan der Stand-up Comedy bist, oder zum ersten Mal eine Live-Show besuchst, die Veranstaltung bietet ein einzigartiges Erlebnis, das Du so schnell nicht vergessen wirst.Einlass um 19:00 UhrBeginn um 20:00 UhrAK 8€Komm gerne vorbei!Wir freuen uns auf euch!",
-        "link": "https://rausgegangen.de/en/events/comedy-light-54/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TFx4IRphQpqn0e7qaUAr_280225.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Tue, 16.09.2025",
-        "time": "20:00",
-        "event": "Die Comedy Werkstatt Dortmund Weingrün (@Weingrün)",
-        "category": "",
-        "description": "Neue Bühne, neues Potential: Hier können Newcomer und Profis ordentlich an ihren Gags pfeilen... und natürlich auch mal failen. Either way, das kann ja lustig werden! 🎭",
-        "link": "https://rausgegangen.de/en/events/die-comedy-werkstatt-dortmund-weingrun-17/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/joicCvrTyumAKm1pXezw_img4282jpg.jpeg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
     },
     {
         "date": "Tue, 16.09.2025",
@@ -402,6 +382,26 @@
         "link": "https://rausgegangen.de/en/events/stand-up-comedy-open-mic-377/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/XulR4M7TT6GHwn3dnb9K_comedy-vs-poetry-5.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
+    },
+    {
+        "date": "Tue, 16.09.2025",
+        "time": "20:00",
+        "event": "Comedy Light (@BierCafé West)",
+        "category": "",
+        "description": "Ein Abend voller Humor und gute Laune:Erlebe ab 20:00 Uhr im BierCafé West eine besondere Nacht des Lachens und der guten Laune in Dortmund. Es erwartet Dich ein humorvoller Abend, der Dich Sorgen für eine Weile vergessen lässt. Diese Veranstaltung ist der perfekte Ort, um neue Talente der Comedy-Szene zu entdecken, während sie ihre frischen und originellen Witze zum Besten geben.Comedy Light Stand-up Comedy Open Mic bietet aufstrebenden Comedians aus ganz Deutschland eine Bühne, um Ihre neuen Witze zu präsentieren. Hier stehen 6-8 talentierte Nachwuchs-Comedians im Rampenlicht und bringen einen bunten Mix aus ihren neuesten Scherzen und Geschichten mit. Es ist eine gute Gelegenheit, neue Gesichter in der Comedy-Welt zu entdecken.Egal, ob Du ein eingefleischter Fan der Stand-up Comedy bist, oder zum ersten Mal eine Live-Show besuchst, die Veranstaltung bietet ein einzigartiges Erlebnis, das Du so schnell nicht vergessen wirst.Einlass um 19:00 UhrBeginn um 20:00 UhrAK 8€Komm gerne vorbei!Wir freuen uns auf euch!",
+        "link": "https://rausgegangen.de/en/events/comedy-light-54/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TFx4IRphQpqn0e7qaUAr_280225.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Tue, 16.09.2025",
+        "time": "20:00",
+        "event": "Die Comedy Werkstatt Dortmund Weingrün (@Weingrün)",
+        "category": "",
+        "description": "Neue Bühne, neues Potential: Hier können Newcomer und Profis ordentlich an ihren Gags pfeilen... und natürlich auch mal failen. Either way, das kann ja lustig werden! 🎭",
+        "link": "https://rausgegangen.de/en/events/die-comedy-werkstatt-dortmund-weingrun-17/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/joicCvrTyumAKm1pXezw_img4282jpg.jpeg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Tue, 16.09.2025",
@@ -781,6 +781,38 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250917_Bergfest_4zu5.jpg"
     },
     {
+        "date": "We, 17.09.2025",
+        "time": "21:00",
+        "event": "Karaoke (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "We, 17.09.2025",
+        "time": "18:00",
+        "event": "*TRIBE BOULDERN (@Kletterhalle Senne)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "We, 17.09.2025",
+        "time": "07:00",
+        "event": "Wochenmarkt(@Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "We, 17.09.2025",
+        "time": "20:00",
+        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
+        "image_url": null
+    },
+    {
         "date": "Mi, 17.09.2025",
         "time": "10:00",
         "event": "Yoga(@hochschulsport_bielefeld)",
@@ -829,38 +861,6 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "We, 17.09.2025",
-        "time": "21:00",
-        "event": "Karaoke (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "We, 17.09.2025",
-        "time": "18:00",
-        "event": "*TRIBE BOULDERN (@Kletterhalle Senne)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "We, 17.09.2025",
-        "time": "07:00",
-        "event": "Wochenmarkt(@Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "We, 17.09.2025",
-        "time": "20:00",
-        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
-        "image_url": null
-    },
-    {
         "date": "Mi, 17.09",
         "time": "",
         "event": "Krakeln (@nr.z.p)",
@@ -874,16 +874,6 @@
         "event": "PoetrySlam (@bunkerulmenwall)",
         "link": "https://bunker-ulmenwall.org/poetryslam-09-25/",
         "image_url": "https://bunker-ulmenwall.org/wp-content/uploads/2022/11/slam-1.jpg"
-    },
-    {
-        "date": "Wed, 17.09.2025",
-        "time": "20:00",
-        "event": "Die Comedy Werkstatt Dortmund FHH (@Fritz-Henßler-Haus Dortmund)",
-        "category": "",
-        "description": "Du willst andere unterhalten oder selbst zum schmunzeln gebracht werden? Dann bist du hier genau richtig! 😁",
-        "link": "https://rausgegangen.de/en/events/die-comedy-werkstatt-dortmund-fhh-14/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/yujRT2lATNGWs37AROGC__DSC8180%201.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
     },
     {
         "date": "Wed, 17.09.2025",
@@ -934,6 +924,16 @@
         "link": "https://rausgegangen.de/en/events/zanias-cataclysm-live-2025-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Qq0bSWN3S5GHlkgeWquP_zanias-01-by-dovile-shurpo.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
+    },
+    {
+        "date": "Wed, 17.09.2025",
+        "time": "20:00",
+        "event": "Die Comedy Werkstatt Dortmund FHH (@Fritz-Henßler-Haus Dortmund)",
+        "category": "",
+        "description": "Du willst andere unterhalten oder selbst zum schmunzeln gebracht werden? Dann bist du hier genau richtig! 😁",
+        "link": "https://rausgegangen.de/en/events/die-comedy-werkstatt-dortmund-fhh-14/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/yujRT2lATNGWs37AROGC__DSC8180%201.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Wed, 17.09.2025",
@@ -1140,30 +1140,6 @@
         "image_url": null
     },
     {
-        "date": "Do, 18.09.2025",
-        "time": "16:30",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 18.09.2025",
-        "time": "17:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 18.09.2025",
-        "time": "18:30",
-        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35659",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
         "date": "Th, 18.09.2025",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
@@ -1205,6 +1181,30 @@
     },
     {
         "date": "Do, 18.09.2025",
+        "time": "16:30",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_36241",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 18.09.2025",
+        "time": "17:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35505",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 18.09.2025",
+        "time": "18:30",
+        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35659",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 18.09.2025",
         "time": "20:30",
         "category": "Konzert",
         "event": "Jukebox (@bunkerulmenwall)",
@@ -1229,26 +1229,6 @@
     },
     {
         "date": "Thu, 18.09.2025",
-        "time": "19:30",
-        "event": "7STAGES COMEDY NIGHT (@Café Rot)",
-        "category": "",
-        "description": "*E-mail Ticket – kein physischer Versand*Stand-Up for Everyone in Dortmund! Wir laden Dich ins gemütliche Café Rot ein, um Deine Lachmuskeln auf die Probe zu stellen! Hier erwarten Dich aufstrebende Comedy Newcomer, die neue Jokes testen oder ein bestehendes Programm ausarbeiten. Ein erfahrener Headliner Comedian rundet den Abend ab.Mit Überraschungen im Gepäck leiten die Hosts Nico und Leon Soete durch den AbendLass Dich bereichern von kreativen Menschen und bedienen vom exklusiven Service des Café Rot.EINLASS AB 19.00 UHR – BEGINN 19:30 UHR – Abendkasse nur solange der Vorrat reicht",
-        "link": "https://rausgegangen.de/en/events/7stages-comedy-open-mic-30/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/MpTS19DPTECy1DHDFB85_1.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Thu, 18.09.2025",
-        "time": "19:30",
-        "event": "María Moctezuma (@subrosa)",
-        "category": "",
-        "description": "Singer/Songwriter * SONIDO RAIZOSO * New Mexican (Roots) MusicMaría Moctezuma ist mit ihrem eigens erschaffenen Genre \"Sonido Raizoso\" seit über 10 Jahren eine Vertreterin der neuen mexikanischen Musik. Die Songwriterin verbindet lateinamerikanische Rhythmen mit indigenen, prä-hispanischen und traditionellen mexikanischen sowie auch neuartigen Instrumenten: hier ein Bossa Nova / Cumbia, dort ein Jarana / Rock oder eine Polka / ein Reggae, begleitet von den Timbres einer Okarina oder einer Riesen-Meerschnecke. Bereits 2012 erschien sie in der Dokumentation \"HECHO EN MEXICO\" des Engländers Duncan Birdgeman im internationalen Kino. So ist die SongwriterinMaría Moctezumas Show ist eine Begegnung der musikalischen Wurzeln Mexikos und einer Mischung moderner Latino-Rhythmen. Sie singt hauptsächlich in spanischer, aber auch englischer und deutscher Sprache und präsentiert neben ihrem aktuellen Album „XAMAJANÁ“ neue Versionen ihrer erfolgreichsten Songs. Dazu interpretiert sie ausgewählte lateinamerikanische Klassiker - heute in der Kult(ur)-Spelunke subrosa...unten, am Hafen.Mehr INFO + VIDEOS > https://hafenschaenke.de/event/moctezuma Do, 18.09.2025Einlass: 19:00h,  Beginn: 20:00h, Tickets: AK 15€, VVK 12€.",
-        "link": "https://rausgegangen.de/en/events/maria-moctezuma-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zqLl6SEPSuyeJMnHcEKw_mariamoctezuma-guit-wide1024x0683-col150dpijpg.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Thu, 18.09.2025",
         "time": "19:00",
         "event": "DOTA (@Felsenkeller Leipzig)",
         "category": "",
@@ -1266,6 +1246,26 @@
         "link": "https://rausgegangen.de/en/events/smash-hit-thursday-w-phylis-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/gTnsVfjRsOXjoYGpgNfQ_smash-hit-thursday.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
+    },
+    {
+        "date": "Thu, 18.09.2025",
+        "time": "19:30",
+        "event": "7STAGES COMEDY NIGHT (@Café Rot)",
+        "category": "",
+        "description": "*E-mail Ticket – kein physischer Versand*Stand-Up for Everyone in Dortmund! Wir laden Dich ins gemütliche Café Rot ein, um Deine Lachmuskeln auf die Probe zu stellen! Hier erwarten Dich aufstrebende Comedy Newcomer, die neue Jokes testen oder ein bestehendes Programm ausarbeiten. Ein erfahrener Headliner Comedian rundet den Abend ab.Mit Überraschungen im Gepäck leiten die Hosts Nico und Leon Soete durch den AbendLass Dich bereichern von kreativen Menschen und bedienen vom exklusiven Service des Café Rot.EINLASS AB 19.00 UHR – BEGINN 19:30 UHR – Abendkasse nur solange der Vorrat reicht",
+        "link": "https://rausgegangen.de/en/events/7stages-comedy-open-mic-30/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/MpTS19DPTECy1DHDFB85_1.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Thu, 18.09.2025",
+        "time": "19:30",
+        "event": "María Moctezuma (@subrosa)",
+        "category": "",
+        "description": "Singer/Songwriter * SONIDO RAIZOSO * New Mexican (Roots) MusicMaría Moctezuma ist mit ihrem eigens erschaffenen Genre \"Sonido Raizoso\" seit über 10 Jahren eine Vertreterin der neuen mexikanischen Musik. Die Songwriterin verbindet lateinamerikanische Rhythmen mit indigenen, prä-hispanischen und traditionellen mexikanischen sowie auch neuartigen Instrumenten: hier ein Bossa Nova / Cumbia, dort ein Jarana / Rock oder eine Polka / ein Reggae, begleitet von den Timbres einer Okarina oder einer Riesen-Meerschnecke. Bereits 2012 erschien sie in der Dokumentation \"HECHO EN MEXICO\" des Engländers Duncan Birdgeman im internationalen Kino. So ist die SongwriterinMaría Moctezumas Show ist eine Begegnung der musikalischen Wurzeln Mexikos und einer Mischung moderner Latino-Rhythmen. Sie singt hauptsächlich in spanischer, aber auch englischer und deutscher Sprache und präsentiert neben ihrem aktuellen Album „XAMAJANÁ“ neue Versionen ihrer erfolgreichsten Songs. Dazu interpretiert sie ausgewählte lateinamerikanische Klassiker - heute in der Kult(ur)-Spelunke subrosa...unten, am Hafen.Mehr INFO + VIDEOS > https://hafenschaenke.de/event/moctezuma Do, 18.09.2025Einlass: 19:00h,  Beginn: 20:00h, Tickets: AK 15€, VVK 12€.",
+        "link": "https://rausgegangen.de/en/events/maria-moctezuma-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zqLl6SEPSuyeJMnHcEKw_mariamoctezuma-guit-wide1024x0683-col150dpijpg.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Thu, 18.09.2025",
@@ -1373,30 +1373,6 @@
     },
     {
         "date": "Fr, 19.09.2025",
-        "time": "16:00",
-        "event": "Volleyball(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35417",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Fr, 19.09.2025",
-        "time": "18:00",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35506",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Fr, 19.09.2025",
-        "time": "18:30",
-        "event": "Laufen(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35520",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Fr, 19.09.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
         "category": "Party",
@@ -1418,6 +1394,30 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 19.09.2025",
+        "time": "16:00",
+        "event": "Volleyball(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35417",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 19.09.2025",
+        "time": "18:00",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35506",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 19.09.2025",
+        "time": "18:30",
+        "event": "Laufen(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35520",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Fr, 19.09.2025",
@@ -1446,16 +1446,6 @@
         "link": "https://rausgegangen.de/en/events/take-me-out-munster-die-indieparty-mit-eavo-im-hot-club-11/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Kru7K4VbT2uKP6ALlo9O_tmoheadercreme.jpg?width=1200&height=900&mode=crop",
         "city": "Münster"
-    },
-    {
-        "date": "Fri, 19.09.2025",
-        "time": "23:00",
-        "event": "UMAMI w/ Backz, Celodic, Juulz, Kuschelmaus, Plntddy, Sven Wach, wonka • Raw Techno / Groove Techno (@Oma Doris)",
-        "category": "",
-        "description": "UMAMI A Flavor of Raw & Groove Techno 🫶🍜Eine neue Ausgabe UMAMI 🖤   Diesmal mit Backz, Celodic, Juulz, Kuschelmaus, Plntddy, Sven Wach – und natürlich Gastgeberin Wonka. Freut euch auf Groovy Techno und Raw Techno, die ganze Nacht in unserem Wohnzimmer Oma Doris.  Don’t miss – be part of it. Sichere dir jetzt dein Ticket im VVK! 😌🎫ARTISTS (a-z): Backz • @backz___  Celodic • @celodicc Juulz • @juulz.wav Kuschelmaus • @kuschelmaus.maus Plntddy • @plntddy_ Sven Wach • @kickstarter_2000 wonka • @wonka.djFACTS: ⏰ FR 19.09.25 | ab 23:00 📍 Oma Doris – Reinoldistr. 2–4, DortmundVVK 12 € | AK 15 €",
-        "link": "https://rausgegangen.de/en/events/tickets-fur-umami-w-backz-celodic-juulz-kuschelmaus-plntddy--0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lqpIm1CR5a7RedZAJaeN_umamineuticket.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
     },
     {
         "date": "Fri, 19.09.2025",
@@ -1536,6 +1526,16 @@
         "link": "https://rausgegangen.de/en/events/n8schicht-clubnight-8/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/JrNS2JFQ2ijgPSYXUSGc_urbaniten8schicht1008x567px.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
+    },
+    {
+        "date": "Fri, 19.09.2025",
+        "time": "23:00",
+        "event": "UMAMI w/ Backz, Celodic, Juulz, Kuschelmaus, Plntddy, Sven Wach, wonka • Raw Techno / Groove Techno (@Oma Doris)",
+        "category": "",
+        "description": "UMAMI A Flavor of Raw & Groove Techno 🫶🍜Eine neue Ausgabe UMAMI 🖤   Diesmal mit Backz, Celodic, Juulz, Kuschelmaus, Plntddy, Sven Wach – und natürlich Gastgeberin Wonka. Freut euch auf Groovy Techno und Raw Techno, die ganze Nacht in unserem Wohnzimmer Oma Doris.  Don’t miss – be part of it. Sichere dir jetzt dein Ticket im VVK! 😌🎫ARTISTS (a-z): Backz • @backz___  Celodic • @celodicc Juulz • @juulz.wav Kuschelmaus • @kuschelmaus.maus Plntddy • @plntddy_ Sven Wach • @kickstarter_2000 wonka • @wonka.djFACTS: ⏰ FR 19.09.25 | ab 23:00 📍 Oma Doris – Reinoldistr. 2–4, DortmundVVK 12 € | AK 15 €",
+        "link": "https://rausgegangen.de/en/events/tickets-fur-umami-w-backz-celodic-juulz-kuschelmaus-plntddy--0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lqpIm1CR5a7RedZAJaeN_umamineuticket.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Fri, 19.09.2025",
@@ -1710,22 +1710,6 @@
     },
     {
         "date": "Sa, 20.09.2025",
-        "time": "08:00",
-        "event": "Wandern(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38176",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 20.09.2025",
-        "time": "11:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 20.09.2025",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
         "category": "Sport",
@@ -1755,6 +1739,22 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 20.09.2025",
+        "time": "08:00",
+        "event": "Wandern(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38176",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 20.09.2025",
+        "time": "11:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35507",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Sa, 20.09.2025",
@@ -1799,26 +1799,6 @@
         "link": "https://rausgegangen.de/en/events/modern-love-munster-80s-new-wave-synth-pop-im-hot-club-6/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FhENTY2rSjxtPE8m49wq_80sinternetneu-kopie.png?width=1200&height=900&mode=crop",
         "city": "Münster"
-    },
-    {
-        "date": "Sat, 20.09.2025",
-        "time": "23:00",
-        "event": "KILLING ME SOFTLY (@Großmarktschänke)",
-        "category": "",
-        "description": "Hey Beautiful Souls! 💕  It’s that time again! Killing Me Softly lädt zu einer Nacht ein, die die Herzen höherschlagen lässt – voller RnB-Klassiker, Hip-Hop-Goldstücke und einer Prise Nostalgie. Wenn der Bass unter die Haut geht, die Beats Erinnerungen wecken und der Tanzboden ruft, dann weißt du: Diese Nacht ist für dich gemacht. An den Decks zwei ganz besondere Artists: DJ Marshall Artz – Dortmunder DJ-Ikone mit einem feinen Gespür für die richtigen Grooves und Kid Busy aka DJ Score – eine feste Größe der Szene, bekannt vom LePrestige, der Bootynight & den Asian Touch Events. Das Highlight: Kid Busy legt ausschließlich auf Vinyl auf – echtes Oldschool-Feeling inklusive.Diese Nacht ist wie ein musikalischer Mädelsabend auf der Tanzfläche: voller Lieblingssongs, Erinnerungen und purem Herzklopfen. Tanze mit uns durch die schönsten Tracks der 90er und 2000er – mit Leichtigkeit, mit Gefühl, mit Stil. Pack deine Girls ein, zieh dein schönstes Outfit an, oder die bequemsten Sneaker und feier mit uns bis die Sterne schlafen gehen.  Let the music move you – wir freuen uns auf dich!Eintritt bis 23:30 Uhr: € 6,00 - danach € 12,00 Ermäßigter Eintritt: € 8,00 | Zutritt ab 18",
-        "link": "https://rausgegangen.de/en/events/killing-me-softly-31/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4R9Do6XSoGPLTWtmpWQw_killing-me-softly-banner-4.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 20.09.2025",
-        "time": "23:00",
-        "event": "Pop Girly Night • FZW • Dortmund (@FZW Dortmund)",
-        "category": "",
-        "description": "Glitzer an, Lieblingssongs auf repeat und die Pop-Queen in dir rauslassen 💖✨",
-        "link": "https://rausgegangen.de/en/events/pop-girly-night-fzw-dortmund-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8jY3UBfsQROdW60wv7T0_2025-07-pgn-header.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
     },
     {
         "date": "Sat, 20.09.2025",
@@ -1882,6 +1862,26 @@
     },
     {
         "date": "Sat, 20.09.2025",
+        "time": "23:00",
+        "event": "KILLING ME SOFTLY (@Großmarktschänke)",
+        "category": "",
+        "description": "Hey Beautiful Souls! 💕  It’s that time again! Killing Me Softly lädt zu einer Nacht ein, die die Herzen höherschlagen lässt – voller RnB-Klassiker, Hip-Hop-Goldstücke und einer Prise Nostalgie. Wenn der Bass unter die Haut geht, die Beats Erinnerungen wecken und der Tanzboden ruft, dann weißt du: Diese Nacht ist für dich gemacht. An den Decks zwei ganz besondere Artists: DJ Marshall Artz – Dortmunder DJ-Ikone mit einem feinen Gespür für die richtigen Grooves und Kid Busy aka DJ Score – eine feste Größe der Szene, bekannt vom LePrestige, der Bootynight & den Asian Touch Events. Das Highlight: Kid Busy legt ausschließlich auf Vinyl auf – echtes Oldschool-Feeling inklusive.Diese Nacht ist wie ein musikalischer Mädelsabend auf der Tanzfläche: voller Lieblingssongs, Erinnerungen und purem Herzklopfen. Tanze mit uns durch die schönsten Tracks der 90er und 2000er – mit Leichtigkeit, mit Gefühl, mit Stil. Pack deine Girls ein, zieh dein schönstes Outfit an, oder die bequemsten Sneaker und feier mit uns bis die Sterne schlafen gehen.  Let the music move you – wir freuen uns auf dich!Eintritt bis 23:30 Uhr: € 6,00 - danach € 12,00 Ermäßigter Eintritt: € 8,00 | Zutritt ab 18",
+        "link": "https://rausgegangen.de/en/events/killing-me-softly-31/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4R9Do6XSoGPLTWtmpWQw_killing-me-softly-banner-4.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 20.09.2025",
+        "time": "23:00",
+        "event": "Pop Girly Night • FZW • Dortmund (@FZW Dortmund)",
+        "category": "",
+        "description": "Glitzer an, Lieblingssongs auf repeat und die Pop-Queen in dir rauslassen 💖✨",
+        "link": "https://rausgegangen.de/en/events/pop-girly-night-fzw-dortmund-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8jY3UBfsQROdW60wv7T0_2025-07-pgn-header.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 20.09.2025",
         "time": null,
         "event": "Sennefest (@Schulzentrum Senne)",
         "category": "Stadtteilfest",
@@ -1908,6 +1908,22 @@
         "link": "https://www.bielefeld.jetzt/node/1267487"
     },
     {
+        "date": "Su, 21.09.2025",
+        "time": "19:00",
+        "event": "*TRIBE KENNENLERNABEND*",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Su, 21.09.2025",
+        "time": "09:00",
+        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/uprunningclub/?hl=de",
+        "image_url": null
+    },
+    {
         "date": "So, 21.09.2025",
         "time": "09:00",
         "event": "Yoga(@hochschulsport_bielefeld)",
@@ -1930,22 +1946,6 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37043",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Su, 21.09.2025",
-        "time": "19:00",
-        "event": "*TRIBE KENNENLERNABEND*",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Su, 21.09.2025",
-        "time": "09:00",
-        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/uprunningclub/?hl=de",
-        "image_url": null
     },
     {
         "date": "Sun, 21.09.2025",
@@ -2013,6 +2013,22 @@
     },
     {
         "date": "Mo, 22.09.2025",
+        "time": "20:00",
+        "event": "Pub Quiz (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "Mo, 22.09.2025",
+        "time": "18:00",
+        "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Mo, 22.09.2025",
         "time": "17:00",
         "event": "Volleyball(@hochschulsport_bielefeld)",
         "category": "Sport",
@@ -2052,22 +2068,6 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Mo, 22.09.2025",
-        "time": "20:00",
-        "event": "Pub Quiz (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Mo, 22.09.2025",
-        "time": "18:00",
-        "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
         "date": "Mon, 22.09.2025",
         "time": "19:00",
         "event": "HONIG / MEURSAULT (@Pension Schmidt)",
@@ -2085,6 +2085,22 @@
         "description": "Aktuelle Hits, Rockklassiker, Evergreens, Oldies und gerne auch mal ein altes Volkslied – alles steht auf dem Programm, und das Publikum singt mit Pausen über zwei Stunden lang begeistert mit. Diese bunte Mischung macht nun seit 12 Jahren den großen Erfolg des Rudelsingens aus. Wir feiern das 77. Bielefelder Rudelsingen in Bielefeld mit einem Best-of Programm der größten Rudelsingen Hits von gestern bis heute – das wird ein Fest!",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/webform/termine_melden/16525/42200231_315881575633727_6225859905086029824_o_1_2_3_4_5_6_7_8_9_10_11_12.jpg?itok=F4XGz35H",
         "link": "https://www.bielefeld.jetzt/node/1207617"
+    },
+    {
+        "date": "Tu, 23.09.2025",
+        "time": "18:00",
+        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Tu, 23.09.2025",
+        "time": "07:00",
+        "event": "Wochenmarkt(@Alter Markt)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Di, 23.09.2025",
@@ -2119,22 +2135,6 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Tu, 23.09.2025",
-        "time": "18:00",
-        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Tu, 23.09.2025",
-        "time": "07:00",
-        "event": "Wochenmarkt(@Alter Markt)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
         "date": "Tue, 23.09.2025",
         "time": null,
         "event": "Hol mal Feuer, Prometheus (@Rudolf-Oetker-Halle)",
@@ -2159,6 +2159,46 @@
         "category": "Party",
         "link": "https://cafeeuropa.de/event/mi-wednesdate-10/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20250924_Wednesdate_4zu5.jpg"
+    },
+    {
+        "date": "We, 24.09.2025",
+        "time": "21:00",
+        "event": "Karaoke (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "We, 24.09.2025",
+        "time": "18:00",
+        "event": "*TRIBE BOULDERN (@Kletterhalle Senne)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "We, 24.09.2025",
+        "time": "07:00",
+        "event": "Wochenmarkt(@Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "We, 24.09.2025",
+        "time": "20:00",
+        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
+        "image_url": null
+    },
+    {
+        "date": "We, 24.09.2025",
+        "time": "20:00",
+        "event": "DIES DAS COMEDY - OPEN MIC (@diesdascomedy)",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/diesdascomedy/",
+        "image_url": null
     },
     {
         "date": "Mi, 24.09.2025",
@@ -2207,46 +2247,6 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_35504",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "We, 24.09.2025",
-        "time": "21:00",
-        "event": "Karaoke (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "We, 24.09.2025",
-        "time": "18:00",
-        "event": "*TRIBE BOULDERN (@Kletterhalle Senne)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "We, 24.09.2025",
-        "time": "07:00",
-        "event": "Wochenmarkt(@Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "We, 24.09.2025",
-        "time": "20:00",
-        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
-        "image_url": null
-    },
-    {
-        "date": "We, 24.09.2025",
-        "time": "20:00",
-        "event": "DIES DAS COMEDY - OPEN MIC (@diesdascomedy)",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/diesdascomedy/",
-        "image_url": null
     },
     {
         "date": "Mi, 24.09",
@@ -2869,20 +2869,20 @@
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
-        "date": "Do, 02.10",
-        "time": "23:00",
-        "event": "DO• 95 JAHRE CAFE EUROPA (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/do-95-jahre-cafe-europa/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20251002_95Jahre_Cafe_1zu1-1.jpg"
-    },
-    {
         "date": "Th, 02.10.2025",
         "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": null
+    },
+    {
+        "date": "Do, 02.10",
+        "time": "23:00",
+        "event": "DO• 95 JAHRE CAFE EUROPA (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/do-95-jahre-cafe-europa/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20251002_95Jahre_Cafe_1zu1-1.jpg"
     },
     {
         "date": "Thu, 02.10",
