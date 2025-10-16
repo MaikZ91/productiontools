@@ -87,6 +87,26 @@
     },
     {
         "date": "Thu, 16.10.2025",
+        "time": "14:00",
+        "event": "Wochenmarkt Gievenbeck (@Rüschhausweg/ Ortsmitte)",
+        "category": "",
+        "description": "Wochenmärkte in Münster sind mehr als nur Einkauf – sie sind ein Stück Lebensgefühl. Ob auf dem Domplatz mit Blick auf den St.-Paulus-Dom oder in den Stadtteilen wie Gievenbeck, Hiltrup oder am Hansaplatz: Hier findest du frische Lebensmittel, Blumen, Spezialitäten aus der Region und jede Menge gute Laune. Zwischen Obst, Käse und Kaffee auf die Hand wird geschlemmt, geplaudert und entdeckt. Perfekt für alle, die gerne draußen sind, Lust auf gute Produkte haben und Münster von seiner lebendigen Seite erleben wollen.",
+        "link": "https://rausgegangen.de/en/events/wochenmarkt-gievenbeck-16/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/szCA9x9USFGoq2ozCZvp_shelley-pauls-zaiuy5dkeck-unsplash.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Thu, 16.10.2025",
+        "time": "19:30",
+        "event": "Music Quiz (@Das Piano)",
+        "category": "",
+        "description": "Los geht es am 20.03.2025 mit einem musik Pub-Quiz in der Piano Bar in Münster. Ein bunter Mix von Beethoven bis Beyonce. Sei dabei und reserviere einen Tisch für eure Team auf Instagram (@en.de.quizops) oder per E-Mail an Regn.quizops@gmail.com.",
+        "link": "https://rausgegangen.de/en/events/music-quiz-7/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EZu8Y8O3TjmNygAMJuF9_piano-landscape.png?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Thu, 16.10.2025",
         "time": "15:00",
         "event": "Ferienfilm: Flow (@Kino im U)",
         "category": "",
@@ -194,26 +214,6 @@
         "link": "https://rausgegangen.de/en/events/dave-holland-trio-49-leipziger-jazztage-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/tMs4dqCSkeVGtc2y7WjQ_ljt2025-okt16-dave-holland-solo-by-ulli-gruber.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Thu, 16.10.2025",
-        "time": "14:00",
-        "event": "Wochenmarkt Gievenbeck (@Rüschhausweg/ Ortsmitte)",
-        "category": "",
-        "description": "Wochenmärkte in Münster sind mehr als nur Einkauf – sie sind ein Stück Lebensgefühl. Ob auf dem Domplatz mit Blick auf den St.-Paulus-Dom oder in den Stadtteilen wie Gievenbeck, Hiltrup oder am Hansaplatz: Hier findest du frische Lebensmittel, Blumen, Spezialitäten aus der Region und jede Menge gute Laune. Zwischen Obst, Käse und Kaffee auf die Hand wird geschlemmt, geplaudert und entdeckt. Perfekt für alle, die gerne draußen sind, Lust auf gute Produkte haben und Münster von seiner lebendigen Seite erleben wollen.",
-        "link": "https://rausgegangen.de/en/events/wochenmarkt-gievenbeck-16/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/szCA9x9USFGoq2ozCZvp_shelley-pauls-zaiuy5dkeck-unsplash.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Thu, 16.10.2025",
-        "time": "19:30",
-        "event": "Music Quiz (@Das Piano)",
-        "category": "",
-        "description": "Los geht es am 20.03.2025 mit einem musik Pub-Quiz in der Piano Bar in Münster. Ein bunter Mix von Beethoven bis Beyonce. Sei dabei und reserviere einen Tisch für eure Team auf Instagram (@en.de.quizops) oder per E-Mail an Regn.quizops@gmail.com.",
-        "link": "https://rausgegangen.de/en/events/music-quiz-7/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EZu8Y8O3TjmNygAMJuF9_piano-landscape.png?width=1200&height=900&mode=crop",
-        "city": "Münster"
     },
     {
         "date": "Thu, 16.10.2025",
@@ -464,14 +464,6 @@
         "image_url": "https://www.club-sams.de/data/202510/WhatsApp_Image_2025-10-13_at_17_46_55_150.jpeg?v=1760371575"
     },
     {
-        "date": "Fr, 17.10",
-        "time": "23:00",
-        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-back-to-2000-6/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20251017_Backto2000_4zu5.jpg"
-    },
-    {
         "date": "Fri, 17.10",
         "time": "23:00",
         "event": "Studi Pop! (@stereobielefeld)",
@@ -502,6 +494,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 17.10",
+        "time": "23:00",
+        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-back-to-2000-6/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20251017_Backto2000_4zu5.jpg"
     },
     {
         "date": "Fr, 17.10.2025",
@@ -555,6 +555,16 @@
         "event": "Dead BobTerra Flop (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/dead-bob/",
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
+    },
+    {
+        "date": "Fri, 17.10.2025",
+        "time": "23:00",
+        "event": "Take Me Out Münster - die Indieparty mit eavo im Hot Club (@Hot Jazz Club, Münster)",
+        "category": "",
+        "description": "🎶 Lust auf ne klassische Indieparty mit allem drum und dran? Dann kommt zur Take Me Out! Die bringt euch die Hits, die Hymnen und eure Lieblingssongs. Außerdem: Nostalgie ist kein Genre - deswegen stehen neben den Klassikern auch frische Songs jenseits des Mainstreams auf dem Zettel.🎉 Findet ihr auch die immergleichen Hits und Reihenfolgen langweilig? Dann freut euch bei Take Me Out auf Abwechslung, Song-Überraschungen und natürlich auf guten Flow und flüssige Übergänge.😻 Ach so, mein Name ist eavo. Take Me Out ist meine Indieparty, mit der ich seit 2014 in den schönsten Clubs in ganz Deutschland unterwegs bin. Wenn ihr Ideen oder Fragen habt, sprecht mich gern an oder schickt mir ne Nachricht. Musikvorschläge sind willkommen, denn ich hab Spaß daran, eure Ideen - wenn's passt - ins Set zu puzzlen.💃🏼 Macht mit und es wird ne überragende Party, klebriger Fußboden und durchtanzte Schuhe inklusive!❗️Spread the word, schnappt euch eure Leute und kommt vorbei!Take Me Out klingt wie z. B: Arctic Monkeys – Alt–J – Art Brut – Bilderbuch – 3xBeat! – Betterov – Bloc Party – Blond – Blood Red Shoes – Blur – BOY – Bonaparte – Cage the Elephant – Cure – DIIV – Drums – Editors – Edwin Rosen – Faber – Florence – Foals – FONTAINES D.C. – Franz Ferdinand – Friska – Frittenbude – Giant Rooks – girl in red – IDLES – Interpol – Jamie T – Johnossi – Joy Division – Justice – Kaiser Chiefs – Kate Nash – KennyHoopla – Killers – Kooks – KMF – Kraftklub – KYTES – Le Tigre – Leoniden – Libertines – Lykke Li – M83 – Mando Diao – Maxïmo Park – Metronomy – MGMT – Mitski – Miyagi – Nerven – Organ – Pabst – Phoenix – Pixies – Postal Service – Pulp – Rakes – Razz – SALÒ – Sam Fender – Shame – Shout Out Louds – Sterne – Streets – Strokes – Team Scheisse – Ting Tings – Tomte – Tränen – TDCC – Vampire Weekend – Viagra Boys – WWP Jetpacks – Wet Leg – Wombats – Yard Act – YYYs – The xx – uvm.🌍 Mehr Infos inkl. Spotify-Listen auf www.eavo.de/takemeout/  📷 www.instagram.com/__eavo__ 📘 www.facebook.com/neinmaschine🔹 AK 8€🎟 Spare 20% beim Vorverkauf, indem du dich für meinen Newsletter anmeldest: www.eavo.de/NL! 🔹 VVK: Limitiertes Kontingent Earlybird-Tickets: 5€ zzgl. Gebühren bis 6 Tage vor dem Abend 🔹 Danach 7€ zzgl. Gebühren bei rausgegangen.de.",
+        "link": "https://rausgegangen.de/en/events/take-me-out-munster-die-indieparty-mit-eavo-im-hot-club-12/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/v2BVS1Y2QaO7iiOrQjqF_tmoheadercreme.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Fri, 17.10.2025",
@@ -715,16 +725,6 @@
         "link": "https://rausgegangen.de/en/events/dark-dances-w-lampe-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/yAJdVcmTSdS7IcVIaNkw_bildschirmfoto-2025-08-19-um-155354.png?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Fri, 17.10.2025",
-        "time": "23:00",
-        "event": "Take Me Out Münster - die Indieparty mit eavo im Hot Club (@Hot Jazz Club, Münster)",
-        "category": "",
-        "description": "🎶 Lust auf ne klassische Indieparty mit allem drum und dran? Dann kommt zur Take Me Out! Die bringt euch die Hits, die Hymnen und eure Lieblingssongs. Außerdem: Nostalgie ist kein Genre - deswegen stehen neben den Klassikern auch frische Songs jenseits des Mainstreams auf dem Zettel.🎉 Findet ihr auch die immergleichen Hits und Reihenfolgen langweilig? Dann freut euch bei Take Me Out auf Abwechslung, Song-Überraschungen und natürlich auf guten Flow und flüssige Übergänge.😻 Ach so, mein Name ist eavo. Take Me Out ist meine Indieparty, mit der ich seit 2014 in den schönsten Clubs in ganz Deutschland unterwegs bin. Wenn ihr Ideen oder Fragen habt, sprecht mich gern an oder schickt mir ne Nachricht. Musikvorschläge sind willkommen, denn ich hab Spaß daran, eure Ideen - wenn's passt - ins Set zu puzzlen.💃🏼 Macht mit und es wird ne überragende Party, klebriger Fußboden und durchtanzte Schuhe inklusive!❗️Spread the word, schnappt euch eure Leute und kommt vorbei!Take Me Out klingt wie z. B: Arctic Monkeys – Alt–J – Art Brut – Bilderbuch – 3xBeat! – Betterov – Bloc Party – Blond – Blood Red Shoes – Blur – BOY – Bonaparte – Cage the Elephant – Cure – DIIV – Drums – Editors – Edwin Rosen – Faber – Florence – Foals – FONTAINES D.C. – Franz Ferdinand – Friska – Frittenbude – Giant Rooks – girl in red – IDLES – Interpol – Jamie T – Johnossi – Joy Division – Justice – Kaiser Chiefs – Kate Nash – KennyHoopla – Killers – Kooks – KMF – Kraftklub – KYTES – Le Tigre – Leoniden – Libertines – Lykke Li – M83 – Mando Diao – Maxïmo Park – Metronomy – MGMT – Mitski – Miyagi – Nerven – Organ – Pabst – Phoenix – Pixies – Postal Service – Pulp – Rakes – Razz – SALÒ – Sam Fender – Shame – Shout Out Louds – Sterne – Streets – Strokes – Team Scheisse – Ting Tings – Tomte – Tränen – TDCC – Vampire Weekend – Viagra Boys – WWP Jetpacks – Wet Leg – Wombats – Yard Act – YYYs – The xx – uvm.🌍 Mehr Infos inkl. Spotify-Listen auf www.eavo.de/takemeout/  📷 www.instagram.com/__eavo__ 📘 www.facebook.com/neinmaschine🔹 AK 8€🎟 Spare 20% beim Vorverkauf, indem du dich für meinen Newsletter anmeldest: www.eavo.de/NL! 🔹 VVK: Limitiertes Kontingent Earlybird-Tickets: 5€ zzgl. Gebühren bis 6 Tage vor dem Abend 🔹 Danach 7€ zzgl. Gebühren bei rausgegangen.de.",
-        "link": "https://rausgegangen.de/en/events/take-me-out-munster-die-indieparty-mit-eavo-im-hot-club-12/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/v2BVS1Y2QaO7iiOrQjqF_tmoheadercreme.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
     },
     {
         "date": "Fri, 17.10.2025",
@@ -1198,16 +1198,6 @@
     },
     {
         "date": "Fri, 17.10.2025",
-        "time": "19:00",
-        "event": "SCHNACK auf ZACK - Comedy mit Stars! (@Haus 73)",
-        "category": "",
-        "description": "Wenn ihr \"Falsch, aber Lustig!\" gut findet, werdet ihr SCHNACK auf Zack lieben! Jeden Freitag bringen wir die besten Comedians des Landes nach Hamburg und präsentieren die neuen Stand-Up Stars der Stadt. In dieser 60-minütigen Show treffen immer 3 der witzigsten Köpfe der deutschen Comedy-Szene aufeinander, um Auszüge aus ihren aktuellen Solo-Programmen zum Besten zu geben und zu improvisieren. Unsere Comedians sind bekannt aus u.a. Falsch aber Lustig, Downstairs Comedy Club, NDR Comedy Contest, Night Wash, Comedy Central Roast Battle, Comedy Studio Berlin, Stand-Up 44, 4 Feinde uvm. Mit einer großen Auswahl an kühlen Getränken und feinsten Cocktails seid ihr auf jeden Fall gut versorgt! Genießt mit Euren Freunden, Date, Kollegen, Verwandten den Start ins Wochenende, oder feiert Eure Weihnachtsfeier mit uns im Herzen der Sternschanze! +++ Ab 18 Jahren +++Wir freuen uns auf euch!Euer SCHNACK Stand-Up Team SCHNACK bei InstagramSCHNACK Website",
-        "link": "https://rausgegangen.de/en/events/schnack-auf-zack-comedy-mit-stars-44/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4SKAOFUdQ7KYIpkRjN7v_eventbrite-header-71.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 17.10.2025",
         "time": "20:00",
         "event": "Die Orestie (@Kellertheater Hamburg)",
         "category": "",
@@ -1358,6 +1348,16 @@
     },
     {
         "date": "Fri, 17.10.2025",
+        "time": "23:00",
+        "event": "YOTO x AFRO SLOT SPECIAL (@Yoto)",
+        "category": "",
+        "description": "Afro Slot feiern am kommenden Freitag ein Special im YOTO –  mit DJ BOAS, KOFI RYAN und TRACY MAYY.DJ Boas begeistert mit seinem einzigartigen Mix aus Afrobeats, Amapiano und Dancehall. Schon früh stand er als Support-Act für internationale Artists wie Omah Lay, TayC und NSG auf der Bühne. Als Mitveranstalter und Resident der Afro Slot Night sowie Mitglied des Roots Soundsystem Kollektivs gehört er heute zu den meistgebuchten und prägendsten Afro-DJs Hamburgs – ein Garant für Energie, Stil und musikalische Vielfalt.Kofi Ryan, Resident DJ for Creativity, ist bekannt für seine präzise Auswahl und seinen unverkennbaren Flow zwischen Afro, Afrotech und Amapiano. Seine Sets verschmelzen treibende Rhythmen mit tiefen Grooves und schaffen eine Atmosphäre voller Leidenschaft, Energie und globalem Clubsound. Mit seiner kreativen Handschrift prägt er das moderne Klangbild der Hamburger Afro-Clubkultur entscheidend mit.Tracy Mayy ist DJ, Schauspielerin, Comedian, Digital Creator und fühlt sich auf jeder Bühne zu Hause – ob im Club, auf Comedybühnen oder bei großen Events wie den Telecel Ghana Music Awards (TGMA), Ghanas bedeutendster Musikpreisverleihung. Mit über 530.000 TikTok-Followern verbindet sie Musik, Humor und kulturelle Vielfalt auf einzigartige Weise – eine echte Multikünstlerin, die Beats mit Charisma und Entertainment vereint.https://www.instagram.com/dj_boas_/https://www.instagram.com/kofiryangram/ https://www.instagram.com/tracymayy/ https://www.instagram.com/afro_slot/https://www.instagram.com/yoto_hamburg/ 23.00 hYoto / Schulterblatt 73 / 20357 Hamburg Schanze",
+        "link": "https://rausgegangen.de/en/events/yoto-x-afro-slot-special-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/75ckVu0TS8ahLRL3ebBz_coll-boaskofiryan-tracymayytracy-creditlionelsam1600x900.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Fri, 17.10.2025",
         "time": "19:30",
         "event": "Konzert StudiKester (Studentisches Kammerorchester Bielefeld) (@Universität Bielefeld)",
         "category": "Werke für Streichorchester",
@@ -1391,14 +1391,6 @@
         "description": "Milonga mit Tango Vagabundo und Bohemio e.V.",
         "image_url": null,
         "link": "https://www.bielefeld.jetzt/node/1297113"
-    },
-    {
-        "date": "Sa, 18.10",
-        "time": "23:00",
-        "event": "SA • LOVE SATURDAYS (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-love-saturdays-4/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251018_LoveSaturdays_4zu5.jpg"
     },
     {
         "date": "Sat, 18.10",
@@ -1439,6 +1431,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 18.10",
+        "time": "23:00",
+        "event": "SA • LOVE SATURDAYS (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-love-saturdays-4/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251018_LoveSaturdays_4zu5.jpg"
     },
     {
         "date": "Sa, 18.10.2025",
@@ -1490,6 +1490,16 @@
         "event": "WXW Wrestling25th anniversary tourausverkauft! (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/wxw-wrestling-16/",
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
+    },
+    {
+        "date": "Sat, 18.10.2025",
+        "time": "19:30",
+        "event": "Mein Einziger Freund (@BLACK BOX im cuba)",
+        "category": "",
+        "description": "cuba kultur präsentiert:JazzToday Mein einziger FreundMein einziger Freund lebt im Moment, formt die Stille und feiert mit seinem Echtzeit-Ambient die Transformation. Das Trio Jaeger-Membrez-Hemingway reisst die Zuhörer:innen aus dem Vertrauten und katapultiert sie in ein elektro-akustisches Universum voller Schönheit.  Michael Jaeger (Saxophone), Vincent Membrez (Synthesizer) und Gerry Hemingway (Schlagzeug) sind Mein einziger Freund. Sie kommen aus der Schweiz und den USA und sind seit einigen Jahren gemeinsam unterwegs. Ihr Ambient ist laut und still wie die Mitternacht. Ihr Klang ein lebendiger Organismus.  Der Amerikanische Schlagzeuger Gerry Hemingway kreiert und spielt seit 1974 Solo- und Ensemblemusik. Er war lange Zeit Teil des Anthony Braxton Quartett und lebt heute in Luzern. Der Zürcher Saxophonist Michael Jaeger ist eine prägende Stimme des Schweizer Jazz und hat als Bandleader mit Musikern wie Greg Osby, Tom Rainey oder Norbert Pfammatter gearbeitet. Der Bieler Vincent Membrez zeichnet sich durch seine Vielseitigkeit aus, die von Pop bis zur zeitgenössischen Musik reicht. Seine persönliche Sprache auf den Synthesizern transportiert Spontaneität, Energie und Groove.  Mit der Debüt-CD \"Zoomorphisms\" (UNIT) schafft Mein einziger Freund ein lebendiges Experiment, in dem Free Noise, Jazz und Improvisation zu einem pulsierenden Klanggewebe verschmelzen.Besetzung: Michael Jaeger - Saxophon, Klarinette Vincent Membrez - Synthesizer Gerry Hemingway - Schlagzeug, Stimme",
+        "link": "https://rausgegangen.de/en/events/mein-einziger-freund-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5G3IE9BBStam8T84CphW_jaegermembrezhemingwayrgbonline406d0ea5db4896f71.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Sat, 18.10.2025",
@@ -1640,16 +1650,6 @@
         "link": "https://rausgegangen.de/en/events/kolibri-kollektiv-x-absturz-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lO8tHdYlRzuXkKXaUqUb_kolibri-x-absturz-urbanite-flyer.png?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Sat, 18.10.2025",
-        "time": "19:30",
-        "event": "Mein Einziger Freund (@BLACK BOX im cuba)",
-        "category": "",
-        "description": "cuba kultur präsentiert:JazzToday Mein einziger FreundMein einziger Freund lebt im Moment, formt die Stille und feiert mit seinem Echtzeit-Ambient die Transformation. Das Trio Jaeger-Membrez-Hemingway reisst die Zuhörer:innen aus dem Vertrauten und katapultiert sie in ein elektro-akustisches Universum voller Schönheit.  Michael Jaeger (Saxophone), Vincent Membrez (Synthesizer) und Gerry Hemingway (Schlagzeug) sind Mein einziger Freund. Sie kommen aus der Schweiz und den USA und sind seit einigen Jahren gemeinsam unterwegs. Ihr Ambient ist laut und still wie die Mitternacht. Ihr Klang ein lebendiger Organismus.  Der Amerikanische Schlagzeuger Gerry Hemingway kreiert und spielt seit 1974 Solo- und Ensemblemusik. Er war lange Zeit Teil des Anthony Braxton Quartett und lebt heute in Luzern. Der Zürcher Saxophonist Michael Jaeger ist eine prägende Stimme des Schweizer Jazz und hat als Bandleader mit Musikern wie Greg Osby, Tom Rainey oder Norbert Pfammatter gearbeitet. Der Bieler Vincent Membrez zeichnet sich durch seine Vielseitigkeit aus, die von Pop bis zur zeitgenössischen Musik reicht. Seine persönliche Sprache auf den Synthesizern transportiert Spontaneität, Energie und Groove.  Mit der Debüt-CD \"Zoomorphisms\" (UNIT) schafft Mein einziger Freund ein lebendiges Experiment, in dem Free Noise, Jazz und Improvisation zu einem pulsierenden Klanggewebe verschmelzen.Besetzung: Michael Jaeger - Saxophon, Klarinette Vincent Membrez - Synthesizer Gerry Hemingway - Schlagzeug, Stimme",
-        "link": "https://rausgegangen.de/en/events/mein-einziger-freund-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5G3IE9BBStam8T84CphW_jaegermembrezhemingwayrgbonline406d0ea5db4896f71.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
     },
     {
         "date": "Sat, 18.10.2025",
@@ -1930,14 +1930,6 @@
         "link": "https://www.bielefeld.jetzt/node/862997"
     },
     {
-        "date": "Mi, 22.10",
-        "time": "23:00",
-        "event": "MI • BERGFEST (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-jura-start-party-4/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251015_Bergfest_4zu5-2.jpg"
-    },
-    {
         "date": "We, 22.10.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -1976,6 +1968,14 @@
         "category": "Ausgehen",
         "link": "https://www.instagram.com/diesdascomedy/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 22.10",
+        "time": "23:00",
+        "event": "MI • BERGFEST (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-jura-start-party-4/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251015_Bergfest_4zu5-2.jpg"
     },
     {
         "date": "Mi, 22.10.2025",
@@ -2143,6 +2143,16 @@
     },
     {
         "date": "Thu, 23.10.2025",
+        "time": "19:00",
+        "event": "23.10.2025 - rnb&paint - Münster (@PULS)",
+        "category": "",
+        "description": "Erlebe unser rnb&paint Event mit einem extra Live-DJ, der den Abend mit mitreißenden Beats untermalt!Bei diesem besonderen Motiv werden wir gemeinsam verschiedene Techniken ausprobieren. Die Materialien und Medien, die wir verwenden, bieten dir die Möglichkeit, deine Kreativität voll auszuleben. Wir werden einzigartige Farbverläufe mit dem Pinsel gestalten und durch die Spachteltechnik unserem Kunstwerk eine besondere Spannung und Tiefe verleihen. Tauche mit uns in die farbenfrohe Welt der Acrylmalerei ein und erschaffe dein individuelles Kunstwerk.  Lass deiner Kreativität freien Lauf während du dich von der RnB und Hip Hop Musik inspirieren lässt!",
+        "link": "https://rausgegangen.de/en/events/23102025-rnbpaint-munster-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FA3TDR6lQmavGyP4hdjg_rnb.png?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Thu, 23.10.2025",
         "time": "19:30",
         "event": "7STAGES COMEDY NIGHT (@Café Rot)",
         "category": "",
@@ -2183,16 +2193,6 @@
     },
     {
         "date": "Thu, 23.10.2025",
-        "time": "19:00",
-        "event": "23.10.2025 - rnb&paint - Münster (@PULS)",
-        "category": "",
-        "description": "Erlebe unser rnb&paint Event mit einem extra Live-DJ, der den Abend mit mitreißenden Beats untermalt!Bei diesem besonderen Motiv werden wir gemeinsam verschiedene Techniken ausprobieren. Die Materialien und Medien, die wir verwenden, bieten dir die Möglichkeit, deine Kreativität voll auszuleben. Wir werden einzigartige Farbverläufe mit dem Pinsel gestalten und durch die Spachteltechnik unserem Kunstwerk eine besondere Spannung und Tiefe verleihen. Tauche mit uns in die farbenfrohe Welt der Acrylmalerei ein und erschaffe dein individuelles Kunstwerk.  Lass deiner Kreativität freien Lauf während du dich von der RnB und Hip Hop Musik inspirieren lässt!",
-        "link": "https://rausgegangen.de/en/events/23102025-rnbpaint-munster-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FA3TDR6lQmavGyP4hdjg_rnb.png?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Thu, 23.10.2025",
         "time": "18:30",
         "event": "Tanja Taylor & Emerson da Silva (@Bürgerwache)",
         "category": "Biergartenkonzert",
@@ -2227,14 +2227,6 @@
         "image_url": "https://www.club-sams.de/data/202510/WhatsApp_Image_2025-10-13_at_22_50_15_150.jpeg?v=1760458914"
     },
     {
-        "date": "Fr, 24.10",
-        "time": "23:00",
-        "event": "FR • F*CK GENRES • RAUM2: BOOTY BOUNCE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-fck-genres-raum2-booty-bounce-3/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251024_fckgenres_4zu5.jpg"
-    },
-    {
         "date": "Fri, 24.10",
         "time": "23:00",
         "event": "Studi Pop! (@stereobielefeld)",
@@ -2265,6 +2257,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 24.10",
+        "time": "23:00",
+        "event": "FR • F*CK GENRES • RAUM2: BOOTY BOUNCE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-fck-genres-raum2-booty-bounce-3/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251024_fckgenres_4zu5.jpg"
     },
     {
         "date": "Fr, 24.10.2025",
@@ -2377,14 +2377,6 @@
         "link": "https://www.bielefeld.jetzt/node/1274755"
     },
     {
-        "date": "Sa, 25.10",
-        "time": "23:00",
-        "event": "SA • LOVE SATURDAYS x COCKTAIL NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-cocktail-night-3/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251025_LoveSaturdays_Cocktail_4zu5.jpg"
-    },
-    {
         "date": "Sat, 25.10",
         "time": "23:00",
         "event": "Tequila Party (@stereobielefeld)",
@@ -2431,6 +2423,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 25.10",
+        "time": "23:00",
+        "event": "SA • LOVE SATURDAYS x COCKTAIL NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-cocktail-night-3/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251025_LoveSaturdays_Cocktail_4zu5.jpg"
     },
     {
         "date": "Sa, 25.10.2025",
@@ -2652,14 +2652,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Mi, 29.10",
-        "time": "23:00",
-        "event": "MI • HALLOWEEN WEEK OPENING (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-halloween-week-opening/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20251029_Halloween_4zu5.jpg"
-    },
-    {
         "date": "Wed, 29.10",
         "time": "20:00",
         "event": "Public Viewing im Stereo! (@stereobielefeld)",
@@ -2706,6 +2698,14 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 29.10",
+        "time": "23:00",
+        "event": "MI • HALLOWEEN WEEK OPENING (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-halloween-week-opening/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20251029_Halloween_4zu5.jpg"
     },
     {
         "date": "Th, 30.10.2025",
@@ -2781,14 +2781,6 @@
         "image_url": "https://www.club-sams.de/data/202510/HALLOWEEN_Instagram_Post__150.png?v=1760626719"
     },
     {
-        "date": "Fr, 31.10",
-        "time": "23:00",
-        "event": "FR • HALLOWEEN – Die düsterste Party der Stadt (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/halloween-die-duesterste-party-der-stadt/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20251031_Halloween_4zu5.jpg"
-    },
-    {
         "date": "Fri, 31.10",
         "time": "23:00",
         "event": "DIA DE LOS MUERTOS - DIE HALLOWEEN PARTY! (@stereobielefeld)",
@@ -2835,6 +2827,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 31.10",
+        "time": "23:00",
+        "event": "FR • HALLOWEEN – Die düsterste Party der Stadt (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/halloween-die-duesterste-party-der-stadt/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20251031_Halloween_4zu5.jpg"
     },
     {
         "date": "Fr, 31.10",
@@ -2909,14 +2909,6 @@
         "link": "https://www.bielefeld.jetzt/node/1274757"
     },
     {
-        "date": "Sa, 01.11",
-        "time": "23:00",
-        "event": "SA • HALLOWEEN WEEK CLOSING (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-halloween-week-closing/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20251101_Halloween_4zu5.jpg"
-    },
-    {
         "date": "Sat, 01.11",
         "time": "23:00",
         "event": "STEREOLOVE (@stereobielefeld)",
@@ -2955,6 +2947,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 01.11",
+        "time": "23:00",
+        "event": "SA • HALLOWEEN WEEK CLOSING (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-halloween-week-closing/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20251101_Halloween_4zu5.jpg"
     },
     {
         "date": "Sa, 01.11",
@@ -3102,14 +3102,6 @@
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
-        "date": "Mi, 05.11",
-        "time": "23:00",
-        "event": "MI • WEDNESDATE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wednesdate-12/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251105_Wednesdate_4zu5.jpg"
-    },
-    {
         "date": "We, 05.11.2025",
         "time": "17:00",
         "event": "Art Night (@loom_bielefeld)",
@@ -3148,6 +3140,14 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 05.11",
+        "time": "23:00",
+        "event": "MI • WEDNESDATE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wednesdate-12/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251105_Wednesdate_4zu5.jpg"
     },
     {
         "date": "Mi, 05.11",
@@ -3247,14 +3247,6 @@
         "city": "Münster"
     },
     {
-        "date": "Fr, 07.11",
-        "time": "23:00",
-        "event": "FR • 2010 FLASHBACK RAUM2: HIP HOP INVASION (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-2010-flashback-raum2-hip-hop-invasion/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251107_2010Flashback_4zu5.jpg"
-    },
-    {
         "date": "Fri, 07.11",
         "time": "23:00",
         "event": "Studi Pop! (@stereobielefeld)",
@@ -3285,6 +3277,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 07.11",
+        "time": "23:00",
+        "event": "FR • 2010 FLASHBACK RAUM2: HIP HOP INVASION (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-2010-flashback-raum2-hip-hop-invasion/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251107_2010Flashback_4zu5.jpg"
     },
     {
         "date": "Fr, 07.11",
@@ -3336,14 +3336,6 @@
         "link": "https://www.bielefeld.jetzt/node/1339493"
     },
     {
-        "date": "Sa, 08.11",
-        "time": "23:00",
-        "event": "SA • GIRLS NIGHT OUT • RAUM2 : BOOTY BOUNCE SONDERVERANSTALTUNG (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-girls-night-out-raum2-booty-bounce-sonderveranstaltung/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251108_GirlsNightOut_4zu5-1.jpg"
-    },
-    {
         "date": "Sat, 08.11",
         "time": "23:00",
         "event": "STEREOLOVE (@stereobielefeld)",
@@ -3382,6 +3374,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 08.11",
+        "time": "23:00",
+        "event": "SA • GIRLS NIGHT OUT • RAUM2 : BOOTY BOUNCE SONDERVERANSTALTUNG (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-girls-night-out-raum2-booty-bounce-sonderveranstaltung/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251108_GirlsNightOut_4zu5-1.jpg"
     },
     {
         "date": "Sa, 08.11",
@@ -3572,14 +3572,6 @@
         "city": "Münster"
     },
     {
-        "date": "Mi, 12.11",
-        "time": "23:00",
-        "event": "MI • JURA START PARTY (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-jura-start-party-5/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251112_JuraStart_4zu5.jpg"
-    },
-    {
         "date": "Wed, 12.11",
         "time": "06:00",
         "event": "GuMo Bielefeld (@stereobielefeld)",
@@ -3634,6 +3626,14 @@
         "category": "Ausgehen",
         "link": "https://www.instagram.com/diesdascomedy/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 12.11",
+        "time": "23:00",
+        "event": "MI • JURA START PARTY (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-jura-start-party-5/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251112_JuraStart_4zu5.jpg"
     },
     {
         "date": "We, 12.11",
@@ -3718,14 +3718,6 @@
         "city": "Münster"
     },
     {
-        "date": "Fr, 14.11",
-        "time": "23:00",
-        "event": "FR• BLFD -9th BIRHTDAY! – SONDERVERANSTALTUNG (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-blfd-9th-birhtday-sonderveranstaltung/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251114_BLFD_4zu5.jpg"
-    },
-    {
         "date": "Fri, 14.11",
         "time": "23:00",
         "event": "Taylor &amp; Harry Night (@stereobielefeld)",
@@ -3766,6 +3758,14 @@
         "image_url": null
     },
     {
+        "date": "Fr, 14.11",
+        "time": "23:00",
+        "event": "FR• BLFD -9th BIRHTDAY! – SONDERVERANSTALTUNG (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-blfd-9th-birhtday-sonderveranstaltung/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251114_BLFD_4zu5.jpg"
+    },
+    {
         "date": "Fri, 14.11.2025",
         "time": "20:00",
         "event": "EASY EASY \"ALLES SO LEID\" TOUR 2025 (@GLEIS 22)",
@@ -3801,14 +3801,6 @@
         "description": "Hommage an die Sinti Musiker Häns'che und Martin Weiss",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/webform/termine_melden/17569/weissguitars.jpg?itok=tgdQfO7Q",
         "link": "https://www.bielefeld.jetzt/node/1339495"
-    },
-    {
-        "date": "Sa, 15.11",
-        "time": "23:00",
-        "event": "SA • LOVE SATURDAYS x TEQUILA NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-tequila-night-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251115_LoveSaturdays_Tequila_4zu5.jpg"
     },
     {
         "date": "Sat, 15.11",
@@ -3849,6 +3841,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 15.11",
+        "time": "23:00",
+        "event": "SA • LOVE SATURDAYS x TEQUILA NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-tequila-night-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251115_LoveSaturdays_Tequila_4zu5.jpg"
     },
     {
         "date": "Sat, 15.11.2025",
@@ -3978,14 +3978,6 @@
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
-        "date": "Mi, 19.11",
-        "time": "23:00",
-        "event": "MI • WYLD WEDNESDAY (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wyld-wednesday-17/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251119_WyldWednesday_4zu5.jpg"
-    },
-    {
         "date": "We, 19.11.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -4016,6 +4008,14 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 19.11",
+        "time": "23:00",
+        "event": "MI • WYLD WEDNESDAY (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wyld-wednesday-17/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251119_WyldWednesday_4zu5.jpg"
     },
     {
         "date": "Mi, 19.11",
@@ -4180,14 +4180,6 @@
         "link": "https://www.bielefeld.jetzt/node/1191518"
     },
     {
-        "date": "Fr, 21.11",
-        "time": "23:00",
-        "event": "FR• CAFE EUROPA pres. NOEL HOLLER (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-cafe-europa-pres-noel-holler-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251121_NoelHoller_4zu5.jpg"
-    },
-    {
         "date": "Fri, 21.11",
         "time": "23:00",
         "event": "Studi Pop! (@stereobielefeld)",
@@ -4218,6 +4210,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 21.11",
+        "time": "23:00",
+        "event": "FR• CAFE EUROPA pres. NOEL HOLLER (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-cafe-europa-pres-noel-holler-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251121_NoelHoller_4zu5.jpg"
     },
     {
         "date": "Fr, 21.11",
@@ -4621,14 +4621,6 @@
         "link": "https://www.bielefeld.jetzt/node/1339499"
     },
     {
-        "date": "Fr, 28.11",
-        "time": "23:00",
-        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-back-to-2000-7/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251128_Backto2000_4zu5.jpg"
-    },
-    {
         "date": "Fri, 28.11",
         "time": "23:00",
         "event": "ON A TRIP w/ ELY OAKS (@stereobielefeld)",
@@ -4670,18 +4662,18 @@
     },
     {
         "date": "Fr, 28.11",
+        "time": "23:00",
+        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-back-to-2000-7/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251128_Backto2000_4zu5.jpg"
+    },
+    {
+        "date": "Fr, 28.11",
         "time": "",
         "event": "NÉ-K Trio & Bleidiät (@nr.z.p)",
         "link": "https://nrzp.de/event/jzp25",
         "image_url": "https://nrzp.de/wp-content/uploads/2023/02/Logo_small-150x150.png"
-    },
-    {
-        "date": "Sa, 29.11",
-        "time": "23:00",
-        "event": "SA • LOVE SATURDAYS (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-love-saturdays-5/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251129_LoveSaturdays_4zu5.jpg"
     },
     {
         "date": "Sat, 29.11",
@@ -4730,6 +4722,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 29.11",
+        "time": "23:00",
+        "event": "SA • LOVE SATURDAYS (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-love-saturdays-5/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251129_LoveSaturdays_4zu5.jpg"
     },
     {
         "date": "Sat, 29.11.2025",
@@ -4833,14 +4833,6 @@
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
-        "date": "Mi, 03.12",
-        "time": "23:00",
-        "event": "MI • GLÜH DICH GLÜCKLICH (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-glueh-dich-gluecklich/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251203_Gluehdichgluecklich_4zu5.jpg"
-    },
-    {
         "date": "We, 03.12.2025",
         "time": "17:00",
         "event": "Art Night (@loom_bielefeld)",
@@ -4879,6 +4871,14 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 03.12",
+        "time": "23:00",
+        "event": "MI • GLÜH DICH GLÜCKLICH (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-glueh-dich-gluecklich/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251203_Gluehdichgluecklich_4zu5.jpg"
     },
     {
         "date": "Wed, 03.12.2025",
@@ -4946,14 +4946,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Fr, 05.12",
-        "time": "23:00",
-        "event": "FR • 2010 FLASHBACK RAUM2: BOOTY BOUNCE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-2010-flashback-raum2-booty-bounce-4/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251205_2010Flashback_4zu5.jpg"
-    },
-    {
         "date": "Fr, 05.12.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -4976,6 +4968,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 05.12",
+        "time": "23:00",
+        "event": "FR • 2010 FLASHBACK RAUM2: BOOTY BOUNCE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-2010-flashback-raum2-booty-bounce-4/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251205_2010Flashback_4zu5.jpg"
     },
     {
         "date": "Fr, 05.12",
@@ -5028,14 +5028,6 @@
         "image_url": "https://www.club-sams.de/data/202508/DARKSIDE_OF_SAMS_Instagram_Post_3__150.jpg?v=1754406768"
     },
     {
-        "date": "Sa, 06.12",
-        "time": "23:00",
-        "event": "SA • BAD SANTA (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-bad-santa/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251206_BadSanta_4zu5-1.jpg"
-    },
-    {
         "date": "Sa, 06.12.2025",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -5066,6 +5058,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 06.12",
+        "time": "23:00",
+        "event": "SA • BAD SANTA (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-bad-santa/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251206_BadSanta_4zu5-1.jpg"
     },
     {
         "date": "Sat, 06.12.2025",
@@ -5160,14 +5160,6 @@
         "link": "https://www.bielefeld.jetzt/node/1220070"
     },
     {
-        "date": "Mi, 10.12",
-        "time": "23:00",
-        "event": "MI • GLÜH DICH GLÜCKLICH (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-glueh-dich-gluecklich-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251210_Gluehdichgluecklich_4zu5.jpg"
-    },
-    {
         "date": "We, 10.12.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -5206,6 +5198,14 @@
         "category": "Ausgehen",
         "link": "https://www.instagram.com/diesdascomedy/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 10.12",
+        "time": "23:00",
+        "event": "MI • GLÜH DICH GLÜCKLICH (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-glueh-dich-gluecklich-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251210_Gluehdichgluecklich_4zu5.jpg"
     },
     {
         "date": "Wed, 10.12.2025",
@@ -5297,14 +5297,6 @@
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
-        "date": "Fr, 12.12",
-        "time": "23:00",
-        "event": "FR• CHRISTMAS CLUB FEAT. JUIZZED (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-christmas-club-feat-juizzed/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251212_ChristmasClub_Juizzed_4zu5.jpg"
-    },
-    {
         "date": "Fri, 12.12",
         "time": "23:00",
         "event": "Drunken Masters - ABRISS &amp; DEMONTAGE! (@stereobielefeld)",
@@ -5346,6 +5338,14 @@
     },
     {
         "date": "Fr, 12.12",
+        "time": "23:00",
+        "event": "FR• CHRISTMAS CLUB FEAT. JUIZZED (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-christmas-club-feat-juizzed/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251212_ChristmasClub_Juizzed_4zu5.jpg"
+    },
+    {
+        "date": "Fr, 12.12",
         "event": "No MoreTilly ElectronicsIm dunkeln (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/no-more/",
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
@@ -5358,14 +5358,6 @@
         "description": "Heinz Flottmann & die High-Liga-Bend",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/webform/termine_melden/17091/2023-leere-buehne-glitzer-1.4-150.jpg?itok=EQedXrHF",
         "link": "https://www.bielefeld.jetzt/node/1272963"
-    },
-    {
-        "date": "Sa, 13.12",
-        "time": "23:00",
-        "event": "SA • LOVE SATURDAYS (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-love-saturdays-6/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251213_LoveSaturdays_4zu5-2.jpg"
     },
     {
         "date": "Sa, 13.12.2025",
@@ -5398,6 +5390,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 13.12",
+        "time": "23:00",
+        "event": "SA • LOVE SATURDAYS (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-love-saturdays-6/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251213_LoveSaturdays_4zu5-2.jpg"
     },
     {
         "date": "Sat, 13.12.2025",
@@ -5493,14 +5493,6 @@
         "link": "https://www.bielefeld.jetzt/node/947509"
     },
     {
-        "date": "Mi, 17.12",
-        "time": "23:00",
-        "event": "MI • GLÜH DICH GLÜCKLICH (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-glueh-dich-gluecklich-3/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251217_Gluehdichgluecklich_4zu5.jpg"
-    },
-    {
         "date": "We, 17.12.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -5531,6 +5523,14 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 17.12",
+        "time": "23:00",
+        "event": "MI • GLÜH DICH GLÜCKLICH (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-glueh-dich-gluecklich-3/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251217_Gluehdichgluecklich_4zu5.jpg"
     },
     {
         "date": "Mi, 17.12",
@@ -5620,14 +5620,6 @@
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
-        "date": "Fr, 19.12",
-        "time": "23:00",
-        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-back-to-2000-8/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251219_Backto2000_4zu5-1.jpg"
-    },
-    {
         "date": "Fr, 19.12.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -5653,6 +5645,14 @@
     },
     {
         "date": "Fr, 19.12",
+        "time": "23:00",
+        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-back-to-2000-8/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251219_Backto2000_4zu5-1.jpg"
+    },
+    {
+        "date": "Fr, 19.12",
         "time": "",
         "event": "Born in Madness, No Rest for the Jaded, KRATR (@nr.z.p)",
         "link": "https://nrzp.de/event/born-in-madness",
@@ -5672,14 +5672,6 @@
         "description": "Tel. 0521 55774555 (Erreichbar von Mo-Do 9-15 Uhr | Fr 9-13 Uhr) Fax 0521 55774510 info@bielefeld-marketing.de https://www.bielefeld-marketing.de",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/hbz-family-forever-tour-2025-tickets_306630_2585122_222x222.jpg?itok=NumotlJm",
         "link": "https://www.bielefeld.jetzt/node/699582"
-    },
-    {
-        "date": "Sa, 20.12",
-        "time": "23:00",
-        "event": "SA • WE LOVE CHRISTMAS x TEQUILA NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-we-love-christmas-x-tequila-night/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251115_LoveSaturdays_Tequila_4zu5.jpg"
     },
     {
         "date": "Sa, 20.12.2025",
@@ -5712,6 +5704,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 20.12",
+        "time": "23:00",
+        "event": "SA • WE LOVE CHRISTMAS x TEQUILA NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-we-love-christmas-x-tequila-night/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251115_LoveSaturdays_Tequila_4zu5.jpg"
     },
     {
         "date": "Su, 21.12.2025",
@@ -5755,14 +5755,6 @@
         "image_url": null
     },
     {
-        "date": "Di, 23.12",
-        "time": "23:00",
-        "event": "DI• THE HOMECOMING (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-the-homecoming/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251223_TheHomeComing_4zu5.jpg"
-    },
-    {
         "date": "Tu, 23.12.2025",
         "time": "18:00",
         "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
@@ -5777,6 +5769,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Di, 23.12",
+        "time": "23:00",
+        "event": "DI• THE HOMECOMING (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-the-homecoming/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251223_TheHomeComing_4zu5.jpg"
     },
     {
         "date": "We, 24.12.2025",
@@ -5925,14 +5925,6 @@
         "link": "https://www.bielefeld.jetzt/node/975160"
     },
     {
-        "date": "Sa, 27.12",
-        "time": "23:00",
-        "event": "SA• 2025 FLASHBACK (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-2025-flashback/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251227_2025Flashback_4zu5.jpg"
-    },
-    {
         "date": "Sa, 27.12.2025",
         "time": "14:00",
         "event": "*TRIBE WANDERSAMSTAG*",
@@ -5971,6 +5963,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 27.12",
+        "time": "23:00",
+        "event": "SA• 2025 FLASHBACK (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-2025-flashback/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251227_2025Flashback_4zu5.jpg"
     },
     {
         "date": "Sat, 27.12.2025",
@@ -6090,14 +6090,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Di, 31.12",
-        "time": "23:00",
-        "event": "MI • GOLDEN NIGHT – SILVESTER MIT STIL (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-golden-night-silvester-mit-stil/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251231_Silvesternacht_4zu5-1.jpg"
-    },
-    {
         "date": "Wed, 31.12",
         "time": "23:00",
         "event": "HAPPY NEW YEAH! (@stereobielefeld)",
@@ -6144,5 +6136,13 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
+    },
+    {
+        "date": "Di, 31.12",
+        "time": "23:00",
+        "event": "MI • GOLDEN NIGHT – SILVESTER MIT STIL (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-golden-night-silvester-mit-stil/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251231_Silvesternacht_4zu5-1.jpg"
     }
 ]
