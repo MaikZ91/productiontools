@@ -16,30 +16,6 @@
         "image_url": null
     },
     {
-        "date": "Do, 16.10.2025",
-        "time": "09:30",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38178",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 16.10.2025",
-        "time": "17:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37269",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 16.10.2025",
-        "time": "18:30",
-        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37398",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
         "date": "Th, 16.10.2025",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
@@ -80,10 +56,54 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Do, 16.10.2025",
+        "time": "09:30",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38178",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 16.10.2025",
+        "time": "17:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37269",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 16.10.2025",
+        "time": "18:30",
+        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37398",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
         "date": "Th, 16.10",
         "event": "The ObsessedPsychlona (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/the-obsessed/",
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
+    },
+    {
+        "date": "Thu, 16.10.2025",
+        "time": "14:00",
+        "event": "Wochenmarkt Gievenbeck (@Rüschhausweg/ Ortsmitte)",
+        "category": "",
+        "description": "Wochenmärkte in Münster sind mehr als nur Einkauf – sie sind ein Stück Lebensgefühl. Ob auf dem Domplatz mit Blick auf den St.-Paulus-Dom oder in den Stadtteilen wie Gievenbeck, Hiltrup oder am Hansaplatz: Hier findest du frische Lebensmittel, Blumen, Spezialitäten aus der Region und jede Menge gute Laune. Zwischen Obst, Käse und Kaffee auf die Hand wird geschlemmt, geplaudert und entdeckt. Perfekt für alle, die gerne draußen sind, Lust auf gute Produkte haben und Münster von seiner lebendigen Seite erleben wollen.",
+        "link": "https://rausgegangen.de/en/events/wochenmarkt-gievenbeck-16/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/szCA9x9USFGoq2ozCZvp_shelley-pauls-zaiuy5dkeck-unsplash.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Thu, 16.10.2025",
+        "time": "19:30",
+        "event": "Music Quiz (@Das Piano)",
+        "category": "",
+        "description": "Los geht es am 20.03.2025 mit einem musik Pub-Quiz in der Piano Bar in Münster. Ein bunter Mix von Beethoven bis Beyonce. Sei dabei und reserviere einen Tisch für eure Team auf Instagram (@en.de.quizops) oder per E-Mail an Regn.quizops@gmail.com.",
+        "link": "https://rausgegangen.de/en/events/music-quiz-7/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EZu8Y8O3TjmNygAMJuF9_piano-landscape.png?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Thu, 16.10.2025",
@@ -197,76 +217,6 @@
     },
     {
         "date": "Thu, 16.10.2025",
-        "time": "14:00",
-        "event": "Wochenmarkt Gievenbeck (@Rüschhausweg/ Ortsmitte)",
-        "category": "",
-        "description": "Wochenmärkte in Münster sind mehr als nur Einkauf – sie sind ein Stück Lebensgefühl. Ob auf dem Domplatz mit Blick auf den St.-Paulus-Dom oder in den Stadtteilen wie Gievenbeck, Hiltrup oder am Hansaplatz: Hier findest du frische Lebensmittel, Blumen, Spezialitäten aus der Region und jede Menge gute Laune. Zwischen Obst, Käse und Kaffee auf die Hand wird geschlemmt, geplaudert und entdeckt. Perfekt für alle, die gerne draußen sind, Lust auf gute Produkte haben und Münster von seiner lebendigen Seite erleben wollen.",
-        "link": "https://rausgegangen.de/en/events/wochenmarkt-gievenbeck-16/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/szCA9x9USFGoq2ozCZvp_shelley-pauls-zaiuy5dkeck-unsplash.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Thu, 16.10.2025",
-        "time": "19:30",
-        "event": "Music Quiz (@Das Piano)",
-        "category": "",
-        "description": "Los geht es am 20.03.2025 mit einem musik Pub-Quiz in der Piano Bar in Münster. Ein bunter Mix von Beethoven bis Beyonce. Sei dabei und reserviere einen Tisch für eure Team auf Instagram (@en.de.quizops) oder per E-Mail an Regn.quizops@gmail.com.",
-        "link": "https://rausgegangen.de/en/events/music-quiz-7/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EZu8Y8O3TjmNygAMJuF9_piano-landscape.png?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Thu, 16.10.2025",
-        "time": "12:00",
-        "event": "Vintage Y2K and 90s Pop-up Market (@Lynk & Co Berlin Club)",
-        "category": "",
-        "description": "✨ Vintage The People Market - Berlin Vol. 3 ✨Join us at Lynk & Co Berlin in the heart of Mitte for an exclusive vintage experience. Discover a curated selection of Y2K and 90s treasures, with every single piece handpicked in Italy for you.📅 Save the dates: 🗓 Thu, 16.10 – 12 PM to 7 PM 🗓 Fri, 17.10 – 12 PM to 7 PM 🗓 Sat, 18.10 – 12 PM to 5 PM📍 Lynk & Co Berlin, Münzstraße 21–23What’s in store: – Vintage clothing & accessories – Local brand pop-ups – Free drinks & chill atmosphere✨ Featured local brands ✨ – Hola Amor Estudios: Vintage jewelry – Laia Ossorio: Handmande silver jewelry – Berlin Bags: Vintage bags – Dekoora : Sustainable print art",
-        "link": "https://rausgegangen.de/en/events/vintage-y2k-and-90s-pop-up-market-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TC5bfzQqS9W770FyN0ne_mmmm.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Thu, 16.10.2025",
-        "time": "16:00",
-        "event": "ЯE:IMAGINE: THE RED HOUSE (@Maxim Gorki Theater)",
-        "category": "",
-        "description": "Ausgewählte Arbeiten aus den vergangenen sechs Herbstsalon-Editionen werden in der 7. Ausgabe in neue Zusammenhänge gestellt und um neue Exponate ergänzt. Werke von u.a. Nevin Aladağ, Cana Bilir-Meier, Danica Dakić, Zehra Doğan, Daniel Knorr, Hiwa K, Delaine Le Bas, Emine Sevgi Özdamar, Ülkü Süngün, Nasan Tur, Serpil Yeter und Želimir Žilnik laden ein, Geschichte persönlich zu nehmen und unser Hier und Jetzt zu reflektieren. Im Programm werden auch einige Werke von Künstler*innen gezeigt, u.a. Astghik Melkonyan und Atom Egoyan, die bereits im Programm von 100 + 10 – Armenian Allegories zu sehen waren, das im Frühjahr im Gorki den Prolog des 7. Herbstsalons ЯE:IMAGINE bildete. Insgesamt werden in der Ausstellung mehr als 100 Arbeiten von rund 60 Künstler*innen gezeigt. Mit Werken von Nevin Aladağ, Züli Aladağ, bankleer, Mehtap Baydu, Cana Bilir-Meier, Zühal Bilir-Meier, Luchezar Boyadjiev, Timur Çelik, Danica Dakić, Silvina Der Meguerditchian, Nihan Devecioğlu, Zehra Doğan, Can Dündar, Ahu Dural, Atom Egoyan, Semra Ertan, Harun Farocki, Marta Górnicka, Manaf Halbouni, IMAGINARY COLLECTIVE (initiiert von Danica Dakić, Ina Weise, Lea Wittich, Arijit Bhattacharyya), Hiwa K, Gülsün Karamustafa, Miro Kaygalak, Piruza Khalapyan, Daniel Knorr, Davit Kochunts, Omer Krieger, Damian Le Bas, Damian James Le Bas, Delaine Le Bas, Jazgul Madazimova, Maria Paula Maldonado, Khoren Matevosyan, Astghik Melkonyan, Hakan Savaş Mican, Karen Mirzoyan, Ersan Mondtag, Lousineh Navasartian, Emine Sevgi Özdamar, Sasapin Siriwanij, Ülkü Süngün, Filiz Taşkın, Hale Tenger, Nasan Tur, Melek Tulgan, Serpil Yeter, Zentrum für Politische Schönheit, Želimir Žilnik und weitere.Im Rahmen des 7. Berliner Herbstsalon ЯE:IMAGINE: THE RED HOUSE © IMA LI SNIJEGA?, Danica Dakić, 2024, VG Bild-Kunst, Bonn",
-        "link": "https://rausgegangen.de/en/events/eimagine-the-red-house-10/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/nx20m9vxq5xi.png?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Thu, 16.10.2025",
-        "time": "17:30",
-        "event": "Herbstwanderung (@Hewrî Café)",
-        "category": "",
-        "description": "Bei dieser ArtNight bringst du die farbigste und schillerndste Jahreszeit künstlerisch auf die Leinwand. Du nutzt die Nass-in-Nass-Technik für lebendige Farbübergänge und trägst die Farbe mit der Impasto-Technik besonders dick auf. Dadurch entsteht eine bunte Herbstlandschaft wie aus dem Bilderbuch.",
-        "link": "https://rausgegangen.de/en/events/herbstwanderung-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/h3jw61cn0v47.png?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Thu, 16.10.2025",
-        "time": "19:00",
-        "event": "Aaron - Album Release Show (@Hole44)",
-        "category": "",
-        "description": "Mit seinem kommenden Debütalbum „versprochen, ichbindafürdich“ schlägt Aaron ein neues Kapitel auf – persönlich, atmosphärisch und nahbar. Aufgewachsen am Niederrhein und musikalisch geprägt durch erste Erfahrungen mit seinen Brüdern in der Band 3A, sammelte er früh Bühnenerfahrung – unter anderem als Support für internationale Stars wie Selena Gomez. Nach dieser frühen Popkarriere zieht es ihn nach Berlin, wo er beginnt, sich künstlerisch neu zu erfinden: Hin zu einem Sound, der Raum lässt für Brüche, Emotion und Zwischentöne. Zwischen Gitarren, modernen Produktionen und ehrlichem Songwriting hat Aaron in den letzten Jahren seinen ganz eigenen Stil entwickelt – eine Mischung aus Großstadtgefühl, Selbstreflexion und dem ständigen Suchen nach Zugehörigkeit.Anlässlich der Veröffentlichung seines Albums spielt Aaron zwei exklusive Release Shows:Di, 14.10.2025 – Hamburg, Bahnhof St. Pauli Do, 16.10.2025 – Berlin, Hole44Bei den beiden Release Shows können sich Fans auf intime, besondere Abende freuen – mit emotionalen Live-Versionen der neuen Songs, Überraschungsgästen und einem Sound, der live genauso unter die Haut geht wie auf dem Album. Es sind Abende, an denen Aarons Musik dort ankommt, wo sie hingehört: bei den Menschen.",
-        "link": "https://rausgegangen.de/en/events/aaron-album-release-show-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/gwQhI6KRbiZktXwqT3uB_aaronreleaseshow-albumig-story.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Thu, 16.10.2025",
-        "time": "20:00",
-        "event": "Plàsi - Camino Tour 2025 (@Kulturhaus Insel)",
-        "category": "",
-        "description": "Der greco-schwedische Künstler Plàsi verkörpert einen grenzenlosen kreativen Geist und verbindet nahtlos verschiedenste klangliche Welten. Seine Musik – eine fesselnde Mischung aus Intimität und Größe, akustischer Wärme und cineastischer Tiefe – offenbart einen tiefgründigen, introspektiven Kern, der von ansteckender Energie durchdrungen ist. Dieser furchtlose Ansatz, getrieben von Instinkt und kindlicher Neugier, hat ihm Millionen von Streams und begeisterte Kritiken eingebracht – und ebnet nun den Weg für seine „Camino“-EP im Jahr 2025.",
-        "link": "https://rausgegangen.de/en/events/plasi-camino-tour-2025-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OxAB9FZVSteGyorw9fd4_nettwerksweden20255amandagyllinghorizontal.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Thu, 16.10.2025",
         "time": "10:00",
         "event": "Africa Xchange Summit (@Filmpalast Köln | Kino 7)",
         "category": "",
@@ -344,6 +294,56 @@
         "link": "https://rausgegangen.de/en/events/tingel-tangel-show-2025-queere-variety-show-2/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/E6jFB8RzQzKZSKLE4atU_tt-rausgegangen.png?width=1200&height=900&mode=crop",
         "city": "Köln"
+    },
+    {
+        "date": "Thu, 16.10.2025",
+        "time": "12:00",
+        "event": "Vintage Y2K and 90s Pop-up Market (@Lynk & Co Berlin Club)",
+        "category": "",
+        "description": "✨ Vintage The People Market - Berlin Vol. 3 ✨Join us at Lynk & Co Berlin in the heart of Mitte for an exclusive vintage experience. Discover a curated selection of Y2K and 90s treasures, with every single piece handpicked in Italy for you.📅 Save the dates: 🗓 Thu, 16.10 – 12 PM to 7 PM 🗓 Fri, 17.10 – 12 PM to 7 PM 🗓 Sat, 18.10 – 12 PM to 5 PM📍 Lynk & Co Berlin, Münzstraße 21–23What’s in store: – Vintage clothing & accessories – Local brand pop-ups – Free drinks & chill atmosphere✨ Featured local brands ✨ – Hola Amor Estudios: Vintage jewelry – Laia Ossorio: Handmande silver jewelry – Berlin Bags: Vintage bags – Dekoora : Sustainable print art",
+        "link": "https://rausgegangen.de/en/events/vintage-y2k-and-90s-pop-up-market-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TC5bfzQqS9W770FyN0ne_mmmm.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Thu, 16.10.2025",
+        "time": "16:00",
+        "event": "ЯE:IMAGINE: THE RED HOUSE (@Maxim Gorki Theater)",
+        "category": "",
+        "description": "Ausgewählte Arbeiten aus den vergangenen sechs Herbstsalon-Editionen werden in der 7. Ausgabe in neue Zusammenhänge gestellt und um neue Exponate ergänzt. Werke von u.a. Nevin Aladağ, Cana Bilir-Meier, Danica Dakić, Zehra Doğan, Daniel Knorr, Hiwa K, Delaine Le Bas, Emine Sevgi Özdamar, Ülkü Süngün, Nasan Tur, Serpil Yeter und Želimir Žilnik laden ein, Geschichte persönlich zu nehmen und unser Hier und Jetzt zu reflektieren. Im Programm werden auch einige Werke von Künstler*innen gezeigt, u.a. Astghik Melkonyan und Atom Egoyan, die bereits im Programm von 100 + 10 – Armenian Allegories zu sehen waren, das im Frühjahr im Gorki den Prolog des 7. Herbstsalons ЯE:IMAGINE bildete. Insgesamt werden in der Ausstellung mehr als 100 Arbeiten von rund 60 Künstler*innen gezeigt. Mit Werken von Nevin Aladağ, Züli Aladağ, bankleer, Mehtap Baydu, Cana Bilir-Meier, Zühal Bilir-Meier, Luchezar Boyadjiev, Timur Çelik, Danica Dakić, Silvina Der Meguerditchian, Nihan Devecioğlu, Zehra Doğan, Can Dündar, Ahu Dural, Atom Egoyan, Semra Ertan, Harun Farocki, Marta Górnicka, Manaf Halbouni, IMAGINARY COLLECTIVE (initiiert von Danica Dakić, Ina Weise, Lea Wittich, Arijit Bhattacharyya), Hiwa K, Gülsün Karamustafa, Miro Kaygalak, Piruza Khalapyan, Daniel Knorr, Davit Kochunts, Omer Krieger, Damian Le Bas, Damian James Le Bas, Delaine Le Bas, Jazgul Madazimova, Maria Paula Maldonado, Khoren Matevosyan, Astghik Melkonyan, Hakan Savaş Mican, Karen Mirzoyan, Ersan Mondtag, Lousineh Navasartian, Emine Sevgi Özdamar, Sasapin Siriwanij, Ülkü Süngün, Filiz Taşkın, Hale Tenger, Nasan Tur, Melek Tulgan, Serpil Yeter, Zentrum für Politische Schönheit, Želimir Žilnik und weitere.Im Rahmen des 7. Berliner Herbstsalon ЯE:IMAGINE: THE RED HOUSE © IMA LI SNIJEGA?, Danica Dakić, 2024, VG Bild-Kunst, Bonn",
+        "link": "https://rausgegangen.de/en/events/eimagine-the-red-house-10/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/nx20m9vxq5xi.png?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Thu, 16.10.2025",
+        "time": "17:30",
+        "event": "Herbstwanderung (@Hewrî Café)",
+        "category": "",
+        "description": "Bei dieser ArtNight bringst du die farbigste und schillerndste Jahreszeit künstlerisch auf die Leinwand. Du nutzt die Nass-in-Nass-Technik für lebendige Farbübergänge und trägst die Farbe mit der Impasto-Technik besonders dick auf. Dadurch entsteht eine bunte Herbstlandschaft wie aus dem Bilderbuch.",
+        "link": "https://rausgegangen.de/en/events/herbstwanderung-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/h3jw61cn0v47.png?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Thu, 16.10.2025",
+        "time": "19:00",
+        "event": "Aaron - Album Release Show (@Hole44)",
+        "category": "",
+        "description": "Mit seinem kommenden Debütalbum „versprochen, ichbindafürdich“ schlägt Aaron ein neues Kapitel auf – persönlich, atmosphärisch und nahbar. Aufgewachsen am Niederrhein und musikalisch geprägt durch erste Erfahrungen mit seinen Brüdern in der Band 3A, sammelte er früh Bühnenerfahrung – unter anderem als Support für internationale Stars wie Selena Gomez. Nach dieser frühen Popkarriere zieht es ihn nach Berlin, wo er beginnt, sich künstlerisch neu zu erfinden: Hin zu einem Sound, der Raum lässt für Brüche, Emotion und Zwischentöne. Zwischen Gitarren, modernen Produktionen und ehrlichem Songwriting hat Aaron in den letzten Jahren seinen ganz eigenen Stil entwickelt – eine Mischung aus Großstadtgefühl, Selbstreflexion und dem ständigen Suchen nach Zugehörigkeit.Anlässlich der Veröffentlichung seines Albums spielt Aaron zwei exklusive Release Shows:Di, 14.10.2025 – Hamburg, Bahnhof St. Pauli Do, 16.10.2025 – Berlin, Hole44Bei den beiden Release Shows können sich Fans auf intime, besondere Abende freuen – mit emotionalen Live-Versionen der neuen Songs, Überraschungsgästen und einem Sound, der live genauso unter die Haut geht wie auf dem Album. Es sind Abende, an denen Aarons Musik dort ankommt, wo sie hingehört: bei den Menschen.",
+        "link": "https://rausgegangen.de/en/events/aaron-album-release-show-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/gwQhI6KRbiZktXwqT3uB_aaronreleaseshow-albumig-story.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Thu, 16.10.2025",
+        "time": "20:00",
+        "event": "Plàsi - Camino Tour 2025 (@Kulturhaus Insel)",
+        "category": "",
+        "description": "Der greco-schwedische Künstler Plàsi verkörpert einen grenzenlosen kreativen Geist und verbindet nahtlos verschiedenste klangliche Welten. Seine Musik – eine fesselnde Mischung aus Intimität und Größe, akustischer Wärme und cineastischer Tiefe – offenbart einen tiefgründigen, introspektiven Kern, der von ansteckender Energie durchdrungen ist. Dieser furchtlose Ansatz, getrieben von Instinkt und kindlicher Neugier, hat ihm Millionen von Streams und begeisterte Kritiken eingebracht – und ebnet nun den Weg für seine „Camino“-EP im Jahr 2025.",
+        "link": "https://rausgegangen.de/en/events/plasi-camino-tour-2025-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OxAB9FZVSteGyorw9fd4_nettwerksweden20255amandagyllinghorizontal.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
     },
     {
         "date": "Thu, 16.10.2025",
@@ -464,20 +464,44 @@
         "image_url": "https://www.club-sams.de/data/202510/WhatsApp_Image_2025-10-13_at_17_46_55_150.jpeg?v=1760371575"
     },
     {
-        "date": "Fr, 17.10",
-        "time": "23:00",
-        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-back-to-2000-6/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20251017_Backto2000_4zu5.jpg"
-    },
-    {
         "date": "Fri, 17.10",
         "time": "23:00",
         "event": "Studi Pop! (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/studi-pop-3/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/Stereo_17_1025_FeedB.jpg"
+    },
+    {
+        "date": "Fr, 17.10.2025",
+        "time": "23:00",
+        "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
+        "category": "Party",
+        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
+        "image_url": null
+    },
+    {
+        "date": "Fr, 17.10.2025",
+        "time": "23:00",
+        "event": "CUTIE DANCE (@cutiebielefeld)",
+        "category": "Party",
+        "link": "https://www.instagram.com/cutiebielefeld/?hl=de",
+        "image_url": null
+    },
+    {
+        "date": "Fr, 17.10.2025",
+        "time": "07:00",
+        "event": "Wochenmarkt (@Alter Markt, Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 17.10",
+        "time": "23:00",
+        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-back-to-2000-6/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20251017_Backto2000_4zu5.jpg"
     },
     {
         "date": "Fr, 17.10.2025",
@@ -520,30 +544,6 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Fr, 17.10.2025",
-        "time": "23:00",
-        "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
-        "category": "Party",
-        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
-        "image_url": null
-    },
-    {
-        "date": "Fr, 17.10.2025",
-        "time": "23:00",
-        "event": "CUTIE DANCE (@cutiebielefeld)",
-        "category": "Party",
-        "link": "https://www.instagram.com/cutiebielefeld/?hl=de",
-        "image_url": null
-    },
-    {
-        "date": "Fr, 17.10.2025",
-        "time": "07:00",
-        "event": "Wochenmarkt (@Alter Markt, Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
         "date": "Fr, 17.10",
         "time": "20:00",
         "event": "Svaneborg Kardyb (@nr.z.p)",
@@ -555,6 +555,16 @@
         "event": "Dead BobTerra Flop (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/dead-bob/",
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
+    },
+    {
+        "date": "Fri, 17.10.2025",
+        "time": "23:00",
+        "event": "Take Me Out Münster - die Indieparty mit eavo im Hot Club (@Hot Jazz Club, Münster)",
+        "category": "",
+        "description": "🎶 Lust auf ne klassische Indieparty mit allem drum und dran? Dann kommt zur Take Me Out! Die bringt euch die Hits, die Hymnen und eure Lieblingssongs. Außerdem: Nostalgie ist kein Genre - deswegen stehen neben den Klassikern auch frische Songs jenseits des Mainstreams auf dem Zettel.🎉 Findet ihr auch die immergleichen Hits und Reihenfolgen langweilig? Dann freut euch bei Take Me Out auf Abwechslung, Song-Überraschungen und natürlich auf guten Flow und flüssige Übergänge.😻 Ach so, mein Name ist eavo. Take Me Out ist meine Indieparty, mit der ich seit 2014 in den schönsten Clubs in ganz Deutschland unterwegs bin. Wenn ihr Ideen oder Fragen habt, sprecht mich gern an oder schickt mir ne Nachricht. Musikvorschläge sind willkommen, denn ich hab Spaß daran, eure Ideen - wenn's passt - ins Set zu puzzlen.💃🏼 Macht mit und es wird ne überragende Party, klebriger Fußboden und durchtanzte Schuhe inklusive!❗️Spread the word, schnappt euch eure Leute und kommt vorbei!Take Me Out klingt wie z. B: Arctic Monkeys – Alt–J – Art Brut – Bilderbuch – 3xBeat! – Betterov – Bloc Party – Blond – Blood Red Shoes – Blur – BOY – Bonaparte – Cage the Elephant – Cure – DIIV – Drums – Editors – Edwin Rosen – Faber – Florence – Foals – FONTAINES D.C. – Franz Ferdinand – Friska – Frittenbude – Giant Rooks – girl in red – IDLES – Interpol – Jamie T – Johnossi – Joy Division – Justice – Kaiser Chiefs – Kate Nash – KennyHoopla – Killers – Kooks – KMF – Kraftklub – KYTES – Le Tigre – Leoniden – Libertines – Lykke Li – M83 – Mando Diao – Maxïmo Park – Metronomy – MGMT – Mitski – Miyagi – Nerven – Organ – Pabst – Phoenix – Pixies – Postal Service – Pulp – Rakes – Razz – SALÒ – Sam Fender – Shame – Shout Out Louds – Sterne – Streets – Strokes – Team Scheisse – Ting Tings – Tomte – Tränen – TDCC – Vampire Weekend – Viagra Boys – WWP Jetpacks – Wet Leg – Wombats – Yard Act – YYYs – The xx – uvm.🌍 Mehr Infos inkl. Spotify-Listen auf www.eavo.de/takemeout/  📷 www.instagram.com/__eavo__ 📘 www.facebook.com/neinmaschine🔹 AK 8€🎟 Spare 20% beim Vorverkauf, indem du dich für meinen Newsletter anmeldest: www.eavo.de/NL! 🔹 VVK: Limitiertes Kontingent Earlybird-Tickets: 5€ zzgl. Gebühren bis 6 Tage vor dem Abend 🔹 Danach 7€ zzgl. Gebühren bei rausgegangen.de.",
+        "link": "https://rausgegangen.de/en/events/take-me-out-munster-die-indieparty-mit-eavo-im-hot-club-12/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/v2BVS1Y2QaO7iiOrQjqF_tmoheadercreme.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Fri, 17.10.2025",
@@ -718,13 +728,213 @@
     },
     {
         "date": "Fri, 17.10.2025",
-        "time": "23:00",
-        "event": "Take Me Out Münster - die Indieparty mit eavo im Hot Club (@Hot Jazz Club, Münster)",
+        "time": "18:15",
+        "event": "Meditation und Stille (@Kim Schröer Coaching)",
         "category": "",
-        "description": "🎶 Lust auf ne klassische Indieparty mit allem drum und dran? Dann kommt zur Take Me Out! Die bringt euch die Hits, die Hymnen und eure Lieblingssongs. Außerdem: Nostalgie ist kein Genre - deswegen stehen neben den Klassikern auch frische Songs jenseits des Mainstreams auf dem Zettel.🎉 Findet ihr auch die immergleichen Hits und Reihenfolgen langweilig? Dann freut euch bei Take Me Out auf Abwechslung, Song-Überraschungen und natürlich auf guten Flow und flüssige Übergänge.😻 Ach so, mein Name ist eavo. Take Me Out ist meine Indieparty, mit der ich seit 2014 in den schönsten Clubs in ganz Deutschland unterwegs bin. Wenn ihr Ideen oder Fragen habt, sprecht mich gern an oder schickt mir ne Nachricht. Musikvorschläge sind willkommen, denn ich hab Spaß daran, eure Ideen - wenn's passt - ins Set zu puzzlen.💃🏼 Macht mit und es wird ne überragende Party, klebriger Fußboden und durchtanzte Schuhe inklusive!❗️Spread the word, schnappt euch eure Leute und kommt vorbei!Take Me Out klingt wie z. B: Arctic Monkeys – Alt–J – Art Brut – Bilderbuch – 3xBeat! – Betterov – Bloc Party – Blond – Blood Red Shoes – Blur – BOY – Bonaparte – Cage the Elephant – Cure – DIIV – Drums – Editors – Edwin Rosen – Faber – Florence – Foals – FONTAINES D.C. – Franz Ferdinand – Friska – Frittenbude – Giant Rooks – girl in red – IDLES – Interpol – Jamie T – Johnossi – Joy Division – Justice – Kaiser Chiefs – Kate Nash – KennyHoopla – Killers – Kooks – KMF – Kraftklub – KYTES – Le Tigre – Leoniden – Libertines – Lykke Li – M83 – Mando Diao – Maxïmo Park – Metronomy – MGMT – Mitski – Miyagi – Nerven – Organ – Pabst – Phoenix – Pixies – Postal Service – Pulp – Rakes – Razz – SALÒ – Sam Fender – Shame – Shout Out Louds – Sterne – Streets – Strokes – Team Scheisse – Ting Tings – Tomte – Tränen – TDCC – Vampire Weekend – Viagra Boys – WWP Jetpacks – Wet Leg – Wombats – Yard Act – YYYs – The xx – uvm.🌍 Mehr Infos inkl. Spotify-Listen auf www.eavo.de/takemeout/  📷 www.instagram.com/__eavo__ 📘 www.facebook.com/neinmaschine🔹 AK 8€🎟 Spare 20% beim Vorverkauf, indem du dich für meinen Newsletter anmeldest: www.eavo.de/NL! 🔹 VVK: Limitiertes Kontingent Earlybird-Tickets: 5€ zzgl. Gebühren bis 6 Tage vor dem Abend 🔹 Danach 7€ zzgl. Gebühren bei rausgegangen.de.",
-        "link": "https://rausgegangen.de/en/events/take-me-out-munster-die-indieparty-mit-eavo-im-hot-club-12/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/v2BVS1Y2QaO7iiOrQjqF_tmoheadercreme.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
+        "description": "Tauche ein in die Welt der inneren Ruhe und Gelassenheit. In der Stille begegnen wir unserer eigenen Wahrheit. Und das entspannt uns von innen heraus. Somit braucht es manchmal nicht mehr, als uns gemeinsam in die Stille zu begeben. Dabei begleite ich euch und halte den Raum. Der Weg in die Stille kann den Geist beruhigen und dich unterstützen, im Hier und Jetzt anzukommen. Lasst euch überraschen, wie ihr euch nach diesem Erlebnis fühlen werdet. Egal, ob Anfängerin oder Fortgeschrittener – dieser Kurs bietet dir Raum für Entspannung, Selbstreflexion und neue Energie.Von Herz zu Herz ohne Worte. Gemeinsam allein sein. Seelisch erwachsen werden. <3Ihr könnt ohne Vorerfahrung in Alltagsklamotten teilnehmen.Der feel-Freiraum ist ein gemütlicher Coaching-Raum direkt am Severinskirchplatz (neben dem italienischen Restaurant Ludari).www.kim-schroeer.com www.instagram.com/kim_schroeer",
+        "link": "https://rausgegangen.de/en/events/meditation-und-stille-56/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bZEm6BTRTiKsqyNyuXNj_dsc5535.JPG?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 17.10.2025",
+        "time": "19:00",
+        "event": "FIASKO | Gloria Theater (@GLORIA Köln)",
+        "category": "",
+        "description": "FIASKO sind zurück im GLORIA",
+        "link": "https://rausgegangen.de/en/events/fiasko-gloria-theater-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vdpoWySLSzSF6o6WCbnk_fbeventheadervorlage-1920x1005.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 17.10.2025",
+        "time": "19:00",
+        "event": "Middance Crisis - Herbst Special (@Blue Shell)",
+        "category": "",
+        "description": "Freitag, 17. OktoberBeginn: 19 UhrBlue Shell Party: Middance Crisis - Herbst SpecialGute Laune trotz fallender Blätter: Middance Crisis – Das Herbst-Special für Murmeltiere und Frühaufsteher! 🍂 Die Tage werden kürzer, die Abende kühler – aber wir lassen uns die Tanzlaune nicht nehmen! Am Freitag, den 17. Oktober, heißt es im Blue Shell wieder: Middance Crisis – die Party für alle, die lieber früh feiern als spät versacken. Egal, ob du der Herbstmüdigkeit trotzen willst oder einfach vor Mitternacht schon müde wirst – hier bist du richtig.Einlass ist ab 19 Uhr, getanzt wird ab dem ersten Beat. Wenn andere noch beim Vorglühen sind, lassen wir schon die Hüften kreisen.Drei DJs (eine Frau, zwei Männer) bringen euch mit einer abwechslungsreichen Mischung aus Rock, Indie, Pop, Electronic, Disco, R&B, Funk und Soul von den 70ern bis heute in Bewegung. Ob jung oder alt, ob Nachteule im Trainingslager oder echtes Murmeltier – komm zum Middance Crisis Herbst-Special und tanz dich warm für die kalte Jahreszeit! Weitere Infos finden sich auf:https://www.instagram.com/middance_crisis/ Eintritt: 10 € an der Abendkasse, 9 € im Vorverkauf(die Hälfte des Erlös geht als Spende an eine regionale Hilfsorganisation)",
+        "link": "https://rausgegangen.de/en/events/middance-crisis-herbst-special-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/m2m42i8SjyLjgKGFCEkc_251017.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 17.10.2025",
+        "time": "19:00",
+        "event": "Poetry & Hip-Hop Köln (@Club Subway)",
+        "category": "",
+        "description": "Lyrik trifft auf Lyrics, Poesie verschmilzt mit Punchlines – bei Poetry & Hip-Hop kommen zwei Welten zusammen, die mehr verbindet, als man denkt. Auf der Bühne stehen Spoken-Word-Künstler:innen und Rapper:innen, die ihre Texte, Rhymes und Stories teilen – roh, ehrlich, laut, leise, politisch, persönlich.Erlebt einen Abend voller Wortkunst, Beats und Vibes – live, lokal und mit Message. Zwischen Freestyle-Sessions, poetischen Momenten und musikalischen Überraschungen feiert Köln seine kreative Stimme.Einlass 19.00h / Beginn 19.30h Instagram: @poetryandhiphop",
+        "link": "https://rausgegangen.de/en/events/poetry-hip-hop-koln-9/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Hzfl5bPRSWZmCvcf7nvg_sabway-04221.jpeg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 17.10.2025",
+        "time": "19:00",
+        "event": "Stockhausen, Puntin, Weber / YOM + Ceccaldi: Le Rhythme du Silence (@Filmforum NRW im Museum Ludwig)",
+        "category": "",
+        "description": "Markus Stockhausen, Florian Weber, Claudio PuntinDrei herausragende Solisten, vom Multiphonics-Festival exklusiv zum Trio zusammengerufen. Alle mit weit aufgefächerten Musiksensoren, tief verwurzelt in der europäischen Kunstmusik, lebensgeprägt von der Einmaligkeit der Improvisation, Spuren, die sie zum Jazz führen. Was kann da alles passieren, künstlerisch-musikalisch, psychologisch, menschlich? Markus Stockhausen, Claudio Puntin und Florian Weber kennen sich seit Jahrzehnten, für diesen besonderen Anlass haben sie neue Musik komponiert – individuell, füreinander, im Dialog. Sie wissen, was geht, sie wissen, dass vieles geht. Was dabei entsteht, ist nicht planbar, aber erlebbar: Musik voller Spontaneität, Vertrauen und künstlerischem Wagemut. Ein Moment, ein Klang, ein Sprung ins Ungewisse. Und vielleicht genau deshalb: ins Wesentliche.Besetzung Markus Stockhausen – Trompete, Flügelhorn Florian Weber – Piano Claudio Puntin – KlarinettenYom X Ceccaldi – Le Rythme du SilenceYom bezeichnet sich als leidenschaftlichen Klarinetten-Nomaden. Ausgehend von traditionellem Klezmer, flaniert er, gewürzt mit einem Hauch Elektronik, über Rock, Americana, Klassik und zeitgenössische Musik zu unklassifizierbaren Formen und verwirklicht dabei seine Vision von Musik als stetige Annäherung an die menschliche Seele. Sein Streben nach Universalität und Spiritualität inspirierte ihn zudem zu sakraler Musik, die ebenfalls Einklang findet in die Musik seines Trios mit Violinist Théo Ceccaldi und Cellist Valentin Ceccaldi. Als illustre Entdecker des zeitgenössischen französischen Jazz erforschen sie den „Rhythmus der Stille“ von der Meditation zur Trance, von der Aufhebung der Zeit zur rhythmischen Befreiung jenseits aller kultureller Referenzen.Besetzung Yom – Klarinette Theo Ceccaldi – Violine Valentin Ceccaldi – Cello",
+        "link": "https://rausgegangen.de/en/events/stockhausen-puntin-weber-yom-ceccaldi-le-rhythme-du-silence-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/nSo0ArU2RxmFp98bHW1B_trio-1.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 17.10.2025",
+        "time": "19:30",
+        "event": "Sing-ÄH-Long (@Hotel am Chlodwigplatz - Zimmer 406)",
+        "category": "",
+        "description": "Lasst euch mitreißen von der Brühler Musikerin Nina Anders auf eine Reise quer durch die letzten 30 Jahre Rock- und Popmusik!Gesungen wird was gefällt, fern ab von allem was nach \"Über den Wolken\" oder \"Let it be\" klingt. Im Programm sind Songs von The Killers, Metallica, Radiohead, Amy Winehouse etc!Kommt vorbei und singt in einer ausgelassenen und entspannten Stimmung die Lieblingslieder aus eurer Jugend.Die Texte werden per Projektor sichtbar gemacht, sodass ihr auch schön alle mit- singen, -grölen oder auch -tanzen könnt!!!Diese Veranstaltung ist sehr beliebt, also sichert euch Tickets im Vorfeld. ;)Wir freuen uns auf euch !",
+        "link": "https://rausgegangen.de/en/events/sing-ah-long-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/r9Z6pWJSTbinFDEFTcAl_whatsapp-bild-2025-09-09-um-153006e8684eab.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 17.10.2025",
+        "time": "19:45",
+        "event": "Geschichten aus der Nebelwelt (@Basement)",
+        "category": "",
+        "description": "Ein immersives Theatererlebnis zwischen Nebel, Mythen und magischen Zwischenwelten – „Geschichten aus der Nebelwelt“ führt dich durch alte Legenden, poetische Bilder und berührende Begegnungen.",
+        "link": "https://rausgegangen.de/en/events/geschichten-aus-der-nebelwelt-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/C4K1veoTWyfpvPn4lbU4_rausgegangen-kopie.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 17.10.2025",
+        "time": "20:00",
+        "event": "ANNETTE, EIN HELDINNENEPOS (@Freies Werkstatt Theater Köln)",
+        "category": "",
+        "description": "Nach dem Versepos von Anne Weber NOMINIERT FÜR DEN KÖLNER THEATERPREIS 2022 BRIT PURWIN AUSGEZEICHNET MIT DEM PUCK ALS BESTE NACHWUCHSSCHAUSPIELERIN 2022  Die reale Lebensgeschichte der Französin Anne Beaumanoir. Das mit dem Deutschen Buchpreis 2020 ausgezeichnete Werk stellt bewusst eine Frau ins Zentrum einer literarischen Form, die in der Regel männlichen Helden vorbehalten ist.  Anne, genannt Annette, wird 1923 in der Bretagne geboren. Zur Zeit der Nazi-Besetzung Frankreichs geht Annette zur Résistance. Ende der 1950er-Jahre schließt sie sich dem Freiheitskampf der Algerier gegen die Kolonialmacht Frankreich an, muss aus Frankreich fliehen und lässt ihre Familie auf unbestimmte Zeit zurück. Ihre Biographie ist reich an „großer Geschichte“, und das heißt: reich an kleinen Entscheidungen mit großer Wirkung. Was treibt einen Menschen in den Widerstand? Wofür lohnt es sich zu kämpfen? Welche Opfer fordert ein solches Leben?  MIT Mirka Ritter, Daniel Kuschewski, Agnes Fischer REGIE Guido Rademachers TEXTFASSUNG Gerhard Seidel BÜHNE Katrin Lehmacher KOSTÜME Regina Rösing TECHNIK Anil Tepe REGIEASSISTENZ Barbara Büchmann PRAKTIKANTIN Ida Steinkampf",
+        "link": "https://rausgegangen.de/en/events/annette-ein-heldinnenepos-56/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/HelehduZQxSVkzuaYlNd_ANNETTE_FWT_c_Jan%20Niklas%20Berg_3.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 17.10.2025",
+        "time": "20:00",
+        "event": "BOING! Comedy Club Köln (@Horizont Theater)",
+        "category": "",
+        "description": "BOING! Comedy Club Köln - das Original!von Manuel WolffJetzt wird's lustig!Comedy in Köln: BOING!Der echteste, ehrlichste, roheste, frechste, authentischste, beste Stand Up Comedy Club hat eine neue Heimat im kultigen Horizont-Theater nähe Eigelstein gefunden. Immer mit ca. 5 tollen Comedians und einem verrückten speziell ausgewählten Host des Abends.BOING! Comedy Club steht für die Motti \"Vielfalt leben\" und \"Liebe statt Hass\" und versucht die Comedy-Shows bunt und tolerant zu gestalten und gegen Diskriminierung einzutreten. Wir heißen alle willkommen, um gemeinsam einen schönen, lustigen Abend zu erleben.VERANSTALTUNGSORT ist das Horizont-Theater, Thürmchenswall 25, 50668 Köln, - ab 19 Uhr ist Einlass, Showbeginn 20 Uhr.Mehr Termine, Infos, etc. auf unsere Homepage: www.boingcomedy.deBOING! Comedy Club - Das OriginalErlebe den unglaublichen Mix aus gestandenen Profis und aufregenden Newcomern, oft kopiert, aber nie erreicht. Mit exzellenter Moderation und authentischem Stand-up-Comedy, wie sie sein sollte: ehrlich, pur und natürlich sehr lustig. BOING! ist nicht nur eine Show – es ist Kult und DER Treffpunkt für die Kölner Comedy-Szene. Lass dir das nicht entgehen!",
+        "link": "https://rausgegangen.de/en/events/boing-comedy-club-koln-113/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wcC2UUTmRyOyK1cc6HCj_manuel-und-boing-16zu9.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 17.10.2025",
+        "time": "20:00",
+        "event": "Echtzeit Comedy - Stand-Up am Freitag (@Echtzeit Grill & Thrill)",
+        "category": "",
+        "description": "Lust auf Stand-Up-Comedy? 🎙️ Bei Echtzeit Comedy erwartet dich jede Woche ein wechselndes Line-Up! Freu dich auf einen lustigen Abend und einen Mix aus neuen & bereits bekannten Talenten - jetzt Tickets sichern! ✨",
+        "link": "https://rausgegangen.de/en/events/echtzeit-comedy-stand-up-am-freitag-40/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/nqPlL65iQPGV1QFe4oz6_echteit-comedy-website-bild.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 17.10.2025",
+        "time": "20:00",
+        "event": "Kalipo & Holly North - Elektro (@YUCA)",
+        "category": "",
+        "description": "Ein Konzert, das das Publikum tanzen lässt⚡️ Emotionale, mitreißende Sounds & ein Duo, das sich kraftvoll ergänzt🤝",
+        "link": "https://rausgegangen.de/en/events/kalipo-koln-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aUv8Xy39SsiiYKRc9gS4_rausgegangen-khn.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 17.10.2025",
+        "time": "20:00",
+        "event": "KUNST - Die Improshow mit Kunstwerken (@Impro Köln / Studio A)",
+        "category": "",
+        "description": "Ist das jetzt Kunst? Oder Improtheater? Oder kann das weg? Wir sagen: Beides. Und nein, kann nicht weg. Denn wer hat Mona Lisa zum Lächeln gebracht? Und warum schreit der Mann auf der Bühne eigentlich? Freut Euch auf einen frei improvisierten Theaterabend, der inspiriert ist von Gemälden, Kunstwerken und Zeichnungen berühmter KünstlerInnen und solchen, die es noch werden wollen. Wir tauchen ein in die bunte Welt der KUNST und erzählen Geschichten, die es so nur einmal geben wird. Und: Es wird auch vor Ort gemalt. Von uns, vielleicht von Euch.",
+        "link": "https://rausgegangen.de/en/events/kunst-die-improshow-mit-kunstwerken-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/rdfKfyqgSIqcGT2DOgbO_impro-koeln-rausgegangen-kunst.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 17.10.2025",
+        "time": "20:00",
+        "event": "Lonely Spring • it still is what it is (@artheater Köln)",
+        "category": "",
+        "description": "Lonely Spring gehen im Herbst 2025 auf \"it still is what it is\" Tour. Die Fortsetzung zu ihrer diesjährigen \"it is what it is till it is what it isn ́t\" Tour 2024 und dem dazugehörigen Album.",
+        "link": "https://rausgegangen.de/en/events/lonely-spring-it-still-is-what-it-is-munchen-9/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zehh1KAqR3GaMGff73XG_hqls-bandtill-itisnt-20-9-credit-katharina-aigner.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 17.10.2025",
+        "time": "20:00",
+        "event": "Man With A Mission | Howling Across The World UK/EU Tour 2025 (@Essigfabrik)",
+        "category": "",
+        "description": "Kingstar presents MAN WITH A MISSION ‚HOWLING ACROSS THE WORLD‘  UK/EU TOUR 2025 Plus Special Guest08.10.2025    Berlin, Metropol 14.10.2025    Frankfurt, Batschkapp 17.10.2025    Köln, Essigfabrik (verlegt aus dem E-Werk) 18.10.2025    Hamburg, Markthalle 23.10.2025    München, Backstage Werk Präsentiert von morecore.de🎫 Tickets gibt es ab sofort unter eventim.de",
+        "link": "https://rausgegangen.de/en/events/man-with-a-mission-howling-across-the-world-ukeu-tour-2025-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lB6bCRlROaaFeNuqTzU1_mwamheader.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 17.10.2025",
+        "time": "20:00",
+        "event": "Nils Heinrich: Brückentage in Übergangsjacke (@Atelier Theater)",
+        "category": "",
+        "description": "Vorpremiere  Nils Heinrich hat keine Bedenken bezüglich seiner ganz persönlichen Zukunft. Jeder muss heute gucken, wo er ganz persönlich bleibt. Im Flugzeug, im Bunker, im selbstfahrenden Auto, im Flugtaxi. Auch hierzulande. Und Heinrich heißt Heinrich. Mega! Deutscher geht's nicht. Er ist fein raus, haha! Dunkelblond, blaugraue Augen. Halt: BlauGRAU, das Blau ist ostdeutsch akzentuiert! Wenn das Justizsystem geschliffen, der Polizeiapparat umgebaut und die Medien synchronisiert wurden, sagt er privat einfach wie früher das, was die da oben hören wollen. Er muss nur abchecken, wie. Leute unter 20 erreicht man über 4chan oder 8kan, wohingegen Menschen zwischen 30 und 50 per WhatsApp kommunizieren. Die eigenen Eltern schicken einem SMS und das Festnetztelefon haben viele nur noch wegen Oma. Und dann fragt man da rein: „Was findest du cringe, was ist nice, was geht ab?“",
+        "link": "https://rausgegangen.de/en/events/nils-heinrich-junger-gebrauchter-kopie-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/SOCxPohYTA22YZmKCaS8_ateliernils-heinrichmarvin-ruppert.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 17.10.2025",
+        "time": "20:00",
+        "event": "SOAP & SKIN (@Theater am Tanzbrunnen)",
+        "category": "",
+        "description": "Da ist steinerner Torso auf dem Cover. Etwas an ihm wölbt sich hervor, leicht schwarz, als sei es ihm eingebrannt geworden. Oder hat es sich in Schimmelsporen lebend aus ihm erhoben?    Sieht man genauer hin, erkennt man: Es ist ein Gesicht. Wie Perlmutt glänzt es aus dem Hohlraum des Torsos hervor. Es ist das Abbild von Anja Plaschgs Gesicht.    Coversongs gab es schon immer in ihrem Repertoire, einfach weil „es sich gut anfühlt, auch von mir weg zu kommen“, sagt Plaschg. Sie mag Cover – ganz wörtlich als Verhüllung und Versteck. Wie sagte Dylan nochmal? „Nur hinter einer Maske lässt sich die Wahrheit sagen.“ In der Berlinale-prämierten Ulrich-Seidl-Produktion Des Teufels Bad (2024) erinnerte Anja Plaschgs Darstellung der um 1750 lebenden Protagonistin Agnes manch langjährige Hörer:innen an Soap&Skins erste Alben: Das Ausbrechenwollen aus dörflicher Enge. Das Scheitern der Empfindsamen an den anderen. Das Erdige, Morbide und der Wahn.    Seit NARROW (2012) findet sich auf jedem Soap&Skin-Album ein Cover, ohne dass man es sofort als solches wahrgenommen hätte, da Plaschg jedes Material tentakulös durchwächst, bis aus einer Radiolaune wie „Voyage, Voyage“ eine brunnentiefe Parabel auf das Leben geworden ist. Den Song, im Original von Desireless, nahm sie erstmals 2011 für den Soundtrack zu Sebastian Meises Stillleben auf. Seitdem gehört er zu ihrem Live-Repertoire und ist über die Jahre musikalisch mit ihr metamorphosiert.    Seit FROM GAS TO SOLID (2018) sind Furor und Agonie zarteren Arrangements gewichen. In der Neuaufnahme von „Voyage, Voyage“ wird dieser Werdegang geschichtet, die Verzweiflung in der Stimme und die Heilung, die den Bläsern zu entströmen scheint, sie liegen wie Dias übereinander, werden zu einem nuancierten Bild – vom Damals und Jetzt.    TORSO ist, wenn man so will, eine Werkschau hinter den vorgehaltenen Masken der anderen.    „Mystery of Love“ spiegelt deren Gegenwart. Sufjan Stevens’ Song, übersetzt in Waldhorn und Posaune, lässt einen hauchzart in die Klangwelt von TORSO ein, durch die alsbald Soap&Skins Stimme mit ihrem Fanggarn bricht. „Ich höre einen Song“, sagt sie, „und fühle, dass da noch etwas ist, das ich ihm gerne hinzufügen würde. Dann höre ich die Originalversion nicht mehr. Manchmal jahrelang nicht. Ich nehme die Songs aus der Erinnerung auf.“    The Doors’ „The End“ hat sie seit über sieben Jahren nicht gehört. Es ist ein alter Lieblingssong, eine Zeitkapsel, die ihr heute schon fast peinlich ist, ähnlich wie Shirley Basseys „Born To Lose“. Aber in ihrer Aufnahme weitet sie die Perspektive der Songs. Weg vom Ich, hin zum Wir, das born to lose ist.  Sowieso.    Bekannt für ihre transformative Kraft, wird Soap&Skin immer wieder gebeten, Songs neu zu interpretieren. Als das Donau-Festival sie 2022 einlud, an einem Abend sämtliche über die Jahre entstandenen Cover-Stücke aufzuführen, kam ihr die Idee zu einer festen Sammlung.    Und so hören wir Cat Powers „Maybe Not“, das Anja Plaschg im Burgtheater anlässlich einer Benefizmatinee zum russischen Angriffskrieg auf die Ukraine aufführte. Ein Song, der auffordert, Dinge loszulassen, das Machtbestreben fallen zu lassen. Sie begleitet sich selbst auf dem Klavier. Die Gesangsspur auf TORSO entstammt der Live-Aufnahme von eben jener Matinee kurz nach Kriegsbeginn.    Mit Anna Calvi und Laeticia Sadier führte sie 2018 David Bowies BLACKSTAR in Paris, Amsterdam und Hamburg auf. „Girl Loves Me“ gibt es nun als Aufnahme. Ein Stück, das mit seiner leicht jodelnd entgleitenden Stimme wie für Plaschg geschrieben wirkt.    TORSO wurde von einem Ensemble unter ihrer Leitung in Wien eingespielt. „Zum ersten Mal“, sagt sie, „da es eigentlich eher meine Art ist, in einem Schutzraum, allein zu Hause, aus bereits eingespielten Samples die Musik zusammenzubauen.“ Aber was in Zusammenarbeit entstand, muss vielleicht auch in Zusammenarbeit aufgenommen werden.    Den Multiinstrumentalisten und Tom-Waits-Gefährten David Coulter bat sie, seine singende Säge möglichst geradlinig durch „Johnsburg, Illinois“ fliegen zu lassen. „Es ist ein so unglaubliches Liebeslied, aus so vielen Akkorden in so kurzer Zeit. Ich denke an meine Tochter, wenn ich es singe“, sagt Plaschg. Sie liebt Waits’ Musik, weniger allerdings die Urmännlichkeit seiner Stimme. Durch sich kann sie sie zum Gegenpol wandeln.    Die stärkste Umwandlung aber hat der digitale Bonus-Song, Plaschgs Version von Lana Del Reys \"Gods & Monsters\" erfahren. Der Text dreht sich. In Plaschgs Version dreht sich der Text. Will Lana Del Rey 2012 noch „Fame“ und „liquor“ und das „slowly“, singt Soap&Skin: „Fame“ und „liquor“? „That is nothing holy.“ Die einstige Begierde ist in Anja Plaschgs Version zu einem Täter geworden, dessen Hände sie nicht auf ihren Hüften will. Und aus sonniger Lethargie wurde ein Upside-down-Slow-Core-Banger auf den Beats des experimentellen Wiener Elektromusikers Asfast.    Und da hängen sie nun, all die Flechten einer Wandlung. In der Ballade „Stars“, die sie durch Nina Simone entdeckte, bindet Soap&Skin sie ab. „Stars“, heißt es da, kommen und gehen. „They live their lives in sad cafes and online halls/ And they always have a story.“ Und Letztere bleibt.    Lässt sich immer weiterspinnen als Garn, in dem die eigene Erfahrung nahbar wird. -",
+        "link": "https://rausgegangen.de/en/events/soap-skin-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/74k2ph5u5stt.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 17.10.2025",
+        "time": "20:00",
+        "event": "Traudl Junge (@Theater der Keller)",
+        "category": "",
+        "description": "Traudl Junge war Hitlers Sekretärin - in jungen Jahren naiv, reflektiert sie im Alter selbstkritisch und geplagt von Schuldgefühlen ihre Verstrickung in moralisch dunkle Gefilde.Daniel Breitfelder (ausgezeichnet mit dem Kölner Darsteller*innenpreis) stellt sie und ihr Ringen mit den Schatten der Vergangenheit eindrucksvoll dar.Darüber hinaus entdecken er und Sebastian Kreyer auf der Bühne nach und nach aber auch die Risse im eigenen Lebensentwurf, wenn es um moralisch gute Lebensführung geht; immer mehr treten die kleinen Lügen, Verstellungen und Ungereimtheiten zum Vorschein, die die Beiden selbst von einem „guten“ Leben trennen. Zumal als Theaterschaffende, denen es in dieser „moralischen Anstalt“ doppelt schwer fällt, sich gänzlich ohne Zynismus zu bewegen.All das zeigt der Abend mit großer Leichtigkeit und viel Humor - was angesichts des eigentlich ernsten Themas nicht selbstverständlich ist. Ein unerwartet privater und ehrlicher Abend des Produktionsbüros Petra P. in Kooperation mit NS-DOK und dem Sommerblut Kulturfestival. Gefördert durch das Kulturamt der Stadt Köln.Das queere Kollektiv Produktionsbüros Petra P. besteht aus Daniel Breitfelder, Johannes Brüssau und Sebastian Kreyer. Mit ihrer unverwechselbaren Ästhetik lesen sie die unterschiedlichsten Stoffe que(e)r. Für das Theater Der Keller produzierten sie zuletzt Der ewige Spießer, für das Sommerblutfestival 2024 den Abend Queere Revolution (u.a. Nominierung Kölner Theaterpreis).",
+        "link": "https://rausgegangen.de/en/events/traudl-junge-9/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EeyI9ieQS7CWdr48bT8S_dscf0090boese2.JPG?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 17.10.2025",
+        "time": "21:00",
+        "event": "Aperitivo Friday - Open Air & Indoor (@Goldfinger)",
+        "category": "",
+        "description": "Aperitivo Friday – Dein Start ins Wochenende!Im August haben wir mit unserer neuen Reihe tolle Partys gefeiert – volle Tanzflächen, entspannte Lounge-Vibes und richtig gute Stimmung. ✨Natürlich haben viele von euch unser besonderes Angebot genutzt – und genau das behalten wir bei: 👉 Vorverkauf nur 5 € inkl. gratis Aperitivo (z. B. Aperol, Sarti, Limoncello oder Lillet Wild Berry)Und das Beste: Alle Aperitivos kosten die ganze Nacht nur 6 € – selbstverständlich mit hochwertigen Edelspirituosen. Perfekt auch für Geburtstage oder besondere Anlässe in entspanntem Flair.🎶 Musikalisch spielen wir alles, was gute Laune macht – von den 90ern über die 2000er, quer durch alle Genres bis hin zu aktuellen Hits. Auch Musikwünsche des Publikums finden ihren Platz.🌴 Indoor & Open Air: Drinnen tanzt du zur Party, draußen erwartet dich unsere Lounge – mit gleicher Musik, aber in entspannter Lautstärke. Hier kannst du dich bei einem frisch gemixten Aperol Spritz von unserer Aperol-Bar, einem Glas Wein oder einem kühlen Kölsch entspannt mit Freunden unterhalten und den Abend im sommerlichen Vibe genießen. Bei gutem Wetter bleibt das Dach offen, bei Regen schützt uns das elektronische Dach – feiern kannst du also immer.📍 Goldfinger, Friesenstraße 54, Köln 📅 Jeden Freitag 🕙 Einlass: ab 21 Uhr 🎟️ Vorverkauf: 5 € inkl. Aperitivo 🍹 Aperitivos all night long: 6 €Aperitivo Friday – das neue Ritual zum Runterkommen, Austauschen, Anstoßen & Tanzen.",
+        "link": "https://rausgegangen.de/en/events/aperitivo-friday-open-air-indoor-4/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/uKpwIQZQSheGoCR05XnW_aperitivo-friday-event-form.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 17.10.2025",
+        "time": "21:00",
+        "event": "Swing & Lindy Night (@King Georg)",
+        "category": "",
+        "description": "\"It don't mean a thing if it ain't got that swing!\" Deswegen darf im King Georg - in diesem Sommer ganz im Stile des Cotton Club - getanzt und gefeiert werden. \"Hagen's Little Big Horns\" ein Oktett unter der künstlerischen Leitung des Trompeters und Arrangeurs Alexander von Sommerfeld gibt sich die Ehre und spielt für alle Lindy Hopper, Barboa aficionados und Cocktailschlürfer zum Tanz auf.",
+        "link": "https://rausgegangen.de/en/events/swing-lindy-night-8/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aiF5Snd5QD7bU5zoP79i_screenshot-2025-08-19-123548.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 17.10.2025",
+        "time": "22:00",
+        "event": "ECLIPSE | Solar Bookings Showcase inkl. Afterhour Reineke Fuchs, Tech-House (@Reineke Fuchs)",
+        "category": "",
+        "description": "Solar Bookings presents: A New Chapter for Cologne’s Underground SceneCologne, are you ready?Solar is launching a brand-new night dedicated to cutting-edge underground sounds – and it all begins Friday, October 17th at 22:00 at the iconic Reineke Fuchs. Experience an unstoppable journey from night into morning and beyond – as we move seamlessly into the Afterhour starting Saturday, October 18th at 05:00. Line-Up:TOMI & KESH – All around the globe this Duo is known for their percussive & groove-heavy signature soundLULO – Rising uruguayan talent & Pete Tong Beatport-Award winnerPERFECT TIMING – Internationally supported trio with crisp, rolling beats and impeccable flowSALVATORE BRUNO – Italian energy with a raw underground touchSEBASTIAN REICH – Local talent bringing pure Cologne heatWHITNY – Rising star delivering infectious late-night groovesThis is the first edition of a series destined to become Cologne’s new underground secret. Capacity is limited – don’t miss your chance to be part of the beginning.Tickets on sale now – secure yours before it’s too late!",
+        "link": "https://rausgegangen.de/en/events/eclipse-solar-bookings-showcase-inkl-afterhour-reineke-fuchs-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/oicPfLeCTzZmfDSeTzcg_eclipse-banner-facebook.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 17.10.2025",
+        "time": "22:45",
+        "event": "BRASSERIE PROVOCATEUR -Burlesque Show- (@Echtzeit Grill & Thrill)",
+        "category": "",
+        "description": "Das Cologne Rouge – Late-Night-Burlesque in KölnFreitags öffnet das Cologne Rouge die Tore für eine unvergessliche Nacht voller Eleganz, Sinnlichkeit und atemberaubender Unterhaltung.Tauchen Sie ein in die faszinierende Welt des Burlesque – präsentiert in der stilvollen Atmosphäre der Brasserie des Restaurants „Echtzeit“. Freuen Sie sich auf verführerische Darbietungen, glamouröse Kostüme und eine Show, die Ihre Sinne verzaubern wird. Lassen Sie sich von der professionellen Tänzerin Parfait de la Neige und ihrer meisterhaften Performance begeistern.Ein Abend, der Sie in eine Welt voller Zauber und Glamour entführt – sinnlich, inspirierend und einzigartig.Details zur Veranstaltung:Einlass: 22:15 Uhr Showbeginn: 22:45 Uhr Ort: Echtzeit – Grill & Thrill, Köln Eintritt: Der Ticketpreis geht zu 100 % an die Künstlerin.Verpassen Sie auch nicht Termine von unseren traumhaften Burlesqueperlen: Elinor Divine, Nita Bon Air und Anna Venture.Bitte beachten:-Mindestverzehr von 15 Euro für Getränke, Speisen und Snacks wird vom Restaurant erhoben. Essen und Getränke sind nicht im Eintrittspreis enthalten.-Sollte Parfait de la Neige aus gesundheitlichen Gründen verhindert sein, übernimmt eine andere erfahrene Künstlerin die Show. In diesem Fall ist keine Rückerstattung möglich. Eine Rückerstattung erfolgt nur bei vollständigem Ausfall der Veranstaltung.Wir laden Sie herzlich ein, den Zauber des Burlesque hautnah zu erleben. Lassen Sie sich von der Kunst und Magie dieses Abends mitreißen!",
+        "link": "https://rausgegangen.de/en/events/brasserie-provocateur-burlesque-show-kopie-31/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/2YgyiZnRRcPOqAioYrgQ_2816.jpeg?width=1200&height=900&mode=crop",
+        "city": "Köln"
     },
     {
         "date": "Fri, 17.10.2025",
@@ -968,216 +1178,6 @@
     },
     {
         "date": "Fri, 17.10.2025",
-        "time": "18:15",
-        "event": "Meditation und Stille (@Kim Schröer Coaching)",
-        "category": "",
-        "description": "Tauche ein in die Welt der inneren Ruhe und Gelassenheit. In der Stille begegnen wir unserer eigenen Wahrheit. Und das entspannt uns von innen heraus. Somit braucht es manchmal nicht mehr, als uns gemeinsam in die Stille zu begeben. Dabei begleite ich euch und halte den Raum. Der Weg in die Stille kann den Geist beruhigen und dich unterstützen, im Hier und Jetzt anzukommen. Lasst euch überraschen, wie ihr euch nach diesem Erlebnis fühlen werdet. Egal, ob Anfängerin oder Fortgeschrittener – dieser Kurs bietet dir Raum für Entspannung, Selbstreflexion und neue Energie.Von Herz zu Herz ohne Worte. Gemeinsam allein sein. Seelisch erwachsen werden. <3Ihr könnt ohne Vorerfahrung in Alltagsklamotten teilnehmen.Der feel-Freiraum ist ein gemütlicher Coaching-Raum direkt am Severinskirchplatz (neben dem italienischen Restaurant Ludari).www.kim-schroeer.com www.instagram.com/kim_schroeer",
-        "link": "https://rausgegangen.de/en/events/meditation-und-stille-56/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bZEm6BTRTiKsqyNyuXNj_dsc5535.JPG?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 17.10.2025",
-        "time": "19:00",
-        "event": "FIASKO | Gloria Theater (@GLORIA Köln)",
-        "category": "",
-        "description": "FIASKO sind zurück im GLORIA",
-        "link": "https://rausgegangen.de/en/events/fiasko-gloria-theater-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vdpoWySLSzSF6o6WCbnk_fbeventheadervorlage-1920x1005.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 17.10.2025",
-        "time": "19:00",
-        "event": "Middance Crisis - Herbst Special (@Blue Shell)",
-        "category": "",
-        "description": "Freitag, 17. OktoberBeginn: 19 UhrBlue Shell Party: Middance Crisis - Herbst SpecialGute Laune trotz fallender Blätter: Middance Crisis – Das Herbst-Special für Murmeltiere und Frühaufsteher! 🍂 Die Tage werden kürzer, die Abende kühler – aber wir lassen uns die Tanzlaune nicht nehmen! Am Freitag, den 17. Oktober, heißt es im Blue Shell wieder: Middance Crisis – die Party für alle, die lieber früh feiern als spät versacken. Egal, ob du der Herbstmüdigkeit trotzen willst oder einfach vor Mitternacht schon müde wirst – hier bist du richtig.Einlass ist ab 19 Uhr, getanzt wird ab dem ersten Beat. Wenn andere noch beim Vorglühen sind, lassen wir schon die Hüften kreisen.Drei DJs (eine Frau, zwei Männer) bringen euch mit einer abwechslungsreichen Mischung aus Rock, Indie, Pop, Electronic, Disco, R&B, Funk und Soul von den 70ern bis heute in Bewegung. Ob jung oder alt, ob Nachteule im Trainingslager oder echtes Murmeltier – komm zum Middance Crisis Herbst-Special und tanz dich warm für die kalte Jahreszeit! Weitere Infos finden sich auf:https://www.instagram.com/middance_crisis/ Eintritt: 10 € an der Abendkasse, 9 € im Vorverkauf(die Hälfte des Erlös geht als Spende an eine regionale Hilfsorganisation)",
-        "link": "https://rausgegangen.de/en/events/middance-crisis-herbst-special-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/m2m42i8SjyLjgKGFCEkc_251017.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 17.10.2025",
-        "time": "19:00",
-        "event": "Poetry & Hip-Hop Köln (@Club Subway)",
-        "category": "",
-        "description": "Lyrik trifft auf Lyrics, Poesie verschmilzt mit Punchlines – bei Poetry & Hip-Hop kommen zwei Welten zusammen, die mehr verbindet, als man denkt. Auf der Bühne stehen Spoken-Word-Künstler:innen und Rapper:innen, die ihre Texte, Rhymes und Stories teilen – roh, ehrlich, laut, leise, politisch, persönlich.Erlebt einen Abend voller Wortkunst, Beats und Vibes – live, lokal und mit Message. Zwischen Freestyle-Sessions, poetischen Momenten und musikalischen Überraschungen feiert Köln seine kreative Stimme.Einlass 19.00h / Beginn 19.30h Instagram: @poetryandhiphop",
-        "link": "https://rausgegangen.de/en/events/poetry-hip-hop-koln-9/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Hzfl5bPRSWZmCvcf7nvg_sabway-04221.jpeg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 17.10.2025",
-        "time": "19:00",
-        "event": "Stockhausen, Puntin, Weber / YOM + Ceccaldi: Le Rhythme du Silence (@Filmforum NRW im Museum Ludwig)",
-        "category": "",
-        "description": "Markus Stockhausen, Florian Weber, Claudio PuntinDrei herausragende Solisten, vom Multiphonics-Festival exklusiv zum Trio zusammengerufen. Alle mit weit aufgefächerten Musiksensoren, tief verwurzelt in der europäischen Kunstmusik, lebensgeprägt von der Einmaligkeit der Improvisation, Spuren, die sie zum Jazz führen. Was kann da alles passieren, künstlerisch-musikalisch, psychologisch, menschlich? Markus Stockhausen, Claudio Puntin und Florian Weber kennen sich seit Jahrzehnten, für diesen besonderen Anlass haben sie neue Musik komponiert – individuell, füreinander, im Dialog. Sie wissen, was geht, sie wissen, dass vieles geht. Was dabei entsteht, ist nicht planbar, aber erlebbar: Musik voller Spontaneität, Vertrauen und künstlerischem Wagemut. Ein Moment, ein Klang, ein Sprung ins Ungewisse. Und vielleicht genau deshalb: ins Wesentliche.Besetzung Markus Stockhausen – Trompete, Flügelhorn Florian Weber – Piano Claudio Puntin – KlarinettenYom X Ceccaldi – Le Rythme du SilenceYom bezeichnet sich als leidenschaftlichen Klarinetten-Nomaden. Ausgehend von traditionellem Klezmer, flaniert er, gewürzt mit einem Hauch Elektronik, über Rock, Americana, Klassik und zeitgenössische Musik zu unklassifizierbaren Formen und verwirklicht dabei seine Vision von Musik als stetige Annäherung an die menschliche Seele. Sein Streben nach Universalität und Spiritualität inspirierte ihn zudem zu sakraler Musik, die ebenfalls Einklang findet in die Musik seines Trios mit Violinist Théo Ceccaldi und Cellist Valentin Ceccaldi. Als illustre Entdecker des zeitgenössischen französischen Jazz erforschen sie den „Rhythmus der Stille“ von der Meditation zur Trance, von der Aufhebung der Zeit zur rhythmischen Befreiung jenseits aller kultureller Referenzen.Besetzung Yom – Klarinette Theo Ceccaldi – Violine Valentin Ceccaldi – Cello",
-        "link": "https://rausgegangen.de/en/events/stockhausen-puntin-weber-yom-ceccaldi-le-rhythme-du-silence-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/nSo0ArU2RxmFp98bHW1B_trio-1.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 17.10.2025",
-        "time": "19:30",
-        "event": "Sing-ÄH-Long (@Hotel am Chlodwigplatz - Zimmer 406)",
-        "category": "",
-        "description": "Lasst euch mitreißen von der Brühler Musikerin Nina Anders auf eine Reise quer durch die letzten 30 Jahre Rock- und Popmusik!Gesungen wird was gefällt, fern ab von allem was nach \"Über den Wolken\" oder \"Let it be\" klingt. Im Programm sind Songs von The Killers, Metallica, Radiohead, Amy Winehouse etc!Kommt vorbei und singt in einer ausgelassenen und entspannten Stimmung die Lieblingslieder aus eurer Jugend.Die Texte werden per Projektor sichtbar gemacht, sodass ihr auch schön alle mit- singen, -grölen oder auch -tanzen könnt!!!Diese Veranstaltung ist sehr beliebt, also sichert euch Tickets im Vorfeld. ;)Wir freuen uns auf euch !",
-        "link": "https://rausgegangen.de/en/events/sing-ah-long-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/r9Z6pWJSTbinFDEFTcAl_whatsapp-bild-2025-09-09-um-153006e8684eab.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 17.10.2025",
-        "time": "19:45",
-        "event": "Geschichten aus der Nebelwelt (@Basement)",
-        "category": "",
-        "description": "Ein immersives Theatererlebnis zwischen Nebel, Mythen und magischen Zwischenwelten – „Geschichten aus der Nebelwelt“ führt dich durch alte Legenden, poetische Bilder und berührende Begegnungen.",
-        "link": "https://rausgegangen.de/en/events/geschichten-aus-der-nebelwelt-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/C4K1veoTWyfpvPn4lbU4_rausgegangen-kopie.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 17.10.2025",
-        "time": "20:00",
-        "event": "ANNETTE, EIN HELDINNENEPOS (@Freies Werkstatt Theater Köln)",
-        "category": "",
-        "description": "Nach dem Versepos von Anne Weber NOMINIERT FÜR DEN KÖLNER THEATERPREIS 2022 BRIT PURWIN AUSGEZEICHNET MIT DEM PUCK ALS BESTE NACHWUCHSSCHAUSPIELERIN 2022  Die reale Lebensgeschichte der Französin Anne Beaumanoir. Das mit dem Deutschen Buchpreis 2020 ausgezeichnete Werk stellt bewusst eine Frau ins Zentrum einer literarischen Form, die in der Regel männlichen Helden vorbehalten ist.  Anne, genannt Annette, wird 1923 in der Bretagne geboren. Zur Zeit der Nazi-Besetzung Frankreichs geht Annette zur Résistance. Ende der 1950er-Jahre schließt sie sich dem Freiheitskampf der Algerier gegen die Kolonialmacht Frankreich an, muss aus Frankreich fliehen und lässt ihre Familie auf unbestimmte Zeit zurück. Ihre Biographie ist reich an „großer Geschichte“, und das heißt: reich an kleinen Entscheidungen mit großer Wirkung. Was treibt einen Menschen in den Widerstand? Wofür lohnt es sich zu kämpfen? Welche Opfer fordert ein solches Leben?  MIT Mirka Ritter, Daniel Kuschewski, Agnes Fischer REGIE Guido Rademachers TEXTFASSUNG Gerhard Seidel BÜHNE Katrin Lehmacher KOSTÜME Regina Rösing TECHNIK Anil Tepe REGIEASSISTENZ Barbara Büchmann PRAKTIKANTIN Ida Steinkampf",
-        "link": "https://rausgegangen.de/en/events/annette-ein-heldinnenepos-56/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/HelehduZQxSVkzuaYlNd_ANNETTE_FWT_c_Jan%20Niklas%20Berg_3.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 17.10.2025",
-        "time": "20:00",
-        "event": "BOING! Comedy Club Köln (@Horizont Theater)",
-        "category": "",
-        "description": "BOING! Comedy Club Köln - das Original!von Manuel WolffJetzt wird's lustig!Comedy in Köln: BOING!Der echteste, ehrlichste, roheste, frechste, authentischste, beste Stand Up Comedy Club hat eine neue Heimat im kultigen Horizont-Theater nähe Eigelstein gefunden. Immer mit ca. 5 tollen Comedians und einem verrückten speziell ausgewählten Host des Abends.BOING! Comedy Club steht für die Motti \"Vielfalt leben\" und \"Liebe statt Hass\" und versucht die Comedy-Shows bunt und tolerant zu gestalten und gegen Diskriminierung einzutreten. Wir heißen alle willkommen, um gemeinsam einen schönen, lustigen Abend zu erleben.VERANSTALTUNGSORT ist das Horizont-Theater, Thürmchenswall 25, 50668 Köln, - ab 19 Uhr ist Einlass, Showbeginn 20 Uhr.Mehr Termine, Infos, etc. auf unsere Homepage: www.boingcomedy.deBOING! Comedy Club - Das OriginalErlebe den unglaublichen Mix aus gestandenen Profis und aufregenden Newcomern, oft kopiert, aber nie erreicht. Mit exzellenter Moderation und authentischem Stand-up-Comedy, wie sie sein sollte: ehrlich, pur und natürlich sehr lustig. BOING! ist nicht nur eine Show – es ist Kult und DER Treffpunkt für die Kölner Comedy-Szene. Lass dir das nicht entgehen!",
-        "link": "https://rausgegangen.de/en/events/boing-comedy-club-koln-113/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wcC2UUTmRyOyK1cc6HCj_manuel-und-boing-16zu9.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 17.10.2025",
-        "time": "20:00",
-        "event": "Echtzeit Comedy - Stand-Up am Freitag (@Echtzeit Grill & Thrill)",
-        "category": "",
-        "description": "Lust auf Stand-Up-Comedy? 🎙️ Bei Echtzeit Comedy erwartet dich jede Woche ein wechselndes Line-Up! Freu dich auf einen lustigen Abend und einen Mix aus neuen & bereits bekannten Talenten - jetzt Tickets sichern! ✨",
-        "link": "https://rausgegangen.de/en/events/echtzeit-comedy-stand-up-am-freitag-40/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/nqPlL65iQPGV1QFe4oz6_echteit-comedy-website-bild.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 17.10.2025",
-        "time": "20:00",
-        "event": "Kalipo & Holly North - Elektro (@YUCA)",
-        "category": "",
-        "description": "Ein Konzert, das das Publikum tanzen lässt⚡️ Emotionale, mitreißende Sounds & ein Duo, das sich kraftvoll ergänzt🤝",
-        "link": "https://rausgegangen.de/en/events/kalipo-koln-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aUv8Xy39SsiiYKRc9gS4_rausgegangen-khn.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 17.10.2025",
-        "time": "20:00",
-        "event": "KUNST - Die Improshow mit Kunstwerken (@Impro Köln / Studio A)",
-        "category": "",
-        "description": "Ist das jetzt Kunst? Oder Improtheater? Oder kann das weg? Wir sagen: Beides. Und nein, kann nicht weg. Denn wer hat Mona Lisa zum Lächeln gebracht? Und warum schreit der Mann auf der Bühne eigentlich? Freut Euch auf einen frei improvisierten Theaterabend, der inspiriert ist von Gemälden, Kunstwerken und Zeichnungen berühmter KünstlerInnen und solchen, die es noch werden wollen. Wir tauchen ein in die bunte Welt der KUNST und erzählen Geschichten, die es so nur einmal geben wird. Und: Es wird auch vor Ort gemalt. Von uns, vielleicht von Euch.",
-        "link": "https://rausgegangen.de/en/events/kunst-die-improshow-mit-kunstwerken-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/rdfKfyqgSIqcGT2DOgbO_impro-koeln-rausgegangen-kunst.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 17.10.2025",
-        "time": "20:00",
-        "event": "Lonely Spring • it still is what it is (@artheater Köln)",
-        "category": "",
-        "description": "Lonely Spring gehen im Herbst 2025 auf \"it still is what it is\" Tour. Die Fortsetzung zu ihrer diesjährigen \"it is what it is till it is what it isn ́t\" Tour 2024 und dem dazugehörigen Album.",
-        "link": "https://rausgegangen.de/en/events/lonely-spring-it-still-is-what-it-is-munchen-9/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zehh1KAqR3GaMGff73XG_hqls-bandtill-itisnt-20-9-credit-katharina-aigner.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 17.10.2025",
-        "time": "20:00",
-        "event": "Man With A Mission | Howling Across The World UK/EU Tour 2025 (@Essigfabrik)",
-        "category": "",
-        "description": "Kingstar presents MAN WITH A MISSION ‚HOWLING ACROSS THE WORLD‘  UK/EU TOUR 2025 Plus Special Guest08.10.2025    Berlin, Metropol 14.10.2025    Frankfurt, Batschkapp 17.10.2025    Köln, Essigfabrik (verlegt aus dem E-Werk) 18.10.2025    Hamburg, Markthalle 23.10.2025    München, Backstage Werk Präsentiert von morecore.de🎫 Tickets gibt es ab sofort unter eventim.de",
-        "link": "https://rausgegangen.de/en/events/man-with-a-mission-howling-across-the-world-ukeu-tour-2025-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lB6bCRlROaaFeNuqTzU1_mwamheader.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 17.10.2025",
-        "time": "20:00",
-        "event": "Nils Heinrich: Brückentage in Übergangsjacke (@Atelier Theater)",
-        "category": "",
-        "description": "Vorpremiere  Nils Heinrich hat keine Bedenken bezüglich seiner ganz persönlichen Zukunft. Jeder muss heute gucken, wo er ganz persönlich bleibt. Im Flugzeug, im Bunker, im selbstfahrenden Auto, im Flugtaxi. Auch hierzulande. Und Heinrich heißt Heinrich. Mega! Deutscher geht's nicht. Er ist fein raus, haha! Dunkelblond, blaugraue Augen. Halt: BlauGRAU, das Blau ist ostdeutsch akzentuiert! Wenn das Justizsystem geschliffen, der Polizeiapparat umgebaut und die Medien synchronisiert wurden, sagt er privat einfach wie früher das, was die da oben hören wollen. Er muss nur abchecken, wie. Leute unter 20 erreicht man über 4chan oder 8kan, wohingegen Menschen zwischen 30 und 50 per WhatsApp kommunizieren. Die eigenen Eltern schicken einem SMS und das Festnetztelefon haben viele nur noch wegen Oma. Und dann fragt man da rein: „Was findest du cringe, was ist nice, was geht ab?“",
-        "link": "https://rausgegangen.de/en/events/nils-heinrich-junger-gebrauchter-kopie-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/SOCxPohYTA22YZmKCaS8_ateliernils-heinrichmarvin-ruppert.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 17.10.2025",
-        "time": "20:00",
-        "event": "SOAP & SKIN (@Theater am Tanzbrunnen)",
-        "category": "",
-        "description": "Da ist steinerner Torso auf dem Cover. Etwas an ihm wölbt sich hervor, leicht schwarz, als sei es ihm eingebrannt geworden. Oder hat es sich in Schimmelsporen lebend aus ihm erhoben?    Sieht man genauer hin, erkennt man: Es ist ein Gesicht. Wie Perlmutt glänzt es aus dem Hohlraum des Torsos hervor. Es ist das Abbild von Anja Plaschgs Gesicht.    Coversongs gab es schon immer in ihrem Repertoire, einfach weil „es sich gut anfühlt, auch von mir weg zu kommen“, sagt Plaschg. Sie mag Cover – ganz wörtlich als Verhüllung und Versteck. Wie sagte Dylan nochmal? „Nur hinter einer Maske lässt sich die Wahrheit sagen.“ In der Berlinale-prämierten Ulrich-Seidl-Produktion Des Teufels Bad (2024) erinnerte Anja Plaschgs Darstellung der um 1750 lebenden Protagonistin Agnes manch langjährige Hörer:innen an Soap&Skins erste Alben: Das Ausbrechenwollen aus dörflicher Enge. Das Scheitern der Empfindsamen an den anderen. Das Erdige, Morbide und der Wahn.    Seit NARROW (2012) findet sich auf jedem Soap&Skin-Album ein Cover, ohne dass man es sofort als solches wahrgenommen hätte, da Plaschg jedes Material tentakulös durchwächst, bis aus einer Radiolaune wie „Voyage, Voyage“ eine brunnentiefe Parabel auf das Leben geworden ist. Den Song, im Original von Desireless, nahm sie erstmals 2011 für den Soundtrack zu Sebastian Meises Stillleben auf. Seitdem gehört er zu ihrem Live-Repertoire und ist über die Jahre musikalisch mit ihr metamorphosiert.    Seit FROM GAS TO SOLID (2018) sind Furor und Agonie zarteren Arrangements gewichen. In der Neuaufnahme von „Voyage, Voyage“ wird dieser Werdegang geschichtet, die Verzweiflung in der Stimme und die Heilung, die den Bläsern zu entströmen scheint, sie liegen wie Dias übereinander, werden zu einem nuancierten Bild – vom Damals und Jetzt.    TORSO ist, wenn man so will, eine Werkschau hinter den vorgehaltenen Masken der anderen.    „Mystery of Love“ spiegelt deren Gegenwart. Sufjan Stevens’ Song, übersetzt in Waldhorn und Posaune, lässt einen hauchzart in die Klangwelt von TORSO ein, durch die alsbald Soap&Skins Stimme mit ihrem Fanggarn bricht. „Ich höre einen Song“, sagt sie, „und fühle, dass da noch etwas ist, das ich ihm gerne hinzufügen würde. Dann höre ich die Originalversion nicht mehr. Manchmal jahrelang nicht. Ich nehme die Songs aus der Erinnerung auf.“    The Doors’ „The End“ hat sie seit über sieben Jahren nicht gehört. Es ist ein alter Lieblingssong, eine Zeitkapsel, die ihr heute schon fast peinlich ist, ähnlich wie Shirley Basseys „Born To Lose“. Aber in ihrer Aufnahme weitet sie die Perspektive der Songs. Weg vom Ich, hin zum Wir, das born to lose ist.  Sowieso.    Bekannt für ihre transformative Kraft, wird Soap&Skin immer wieder gebeten, Songs neu zu interpretieren. Als das Donau-Festival sie 2022 einlud, an einem Abend sämtliche über die Jahre entstandenen Cover-Stücke aufzuführen, kam ihr die Idee zu einer festen Sammlung.    Und so hören wir Cat Powers „Maybe Not“, das Anja Plaschg im Burgtheater anlässlich einer Benefizmatinee zum russischen Angriffskrieg auf die Ukraine aufführte. Ein Song, der auffordert, Dinge loszulassen, das Machtbestreben fallen zu lassen. Sie begleitet sich selbst auf dem Klavier. Die Gesangsspur auf TORSO entstammt der Live-Aufnahme von eben jener Matinee kurz nach Kriegsbeginn.    Mit Anna Calvi und Laeticia Sadier führte sie 2018 David Bowies BLACKSTAR in Paris, Amsterdam und Hamburg auf. „Girl Loves Me“ gibt es nun als Aufnahme. Ein Stück, das mit seiner leicht jodelnd entgleitenden Stimme wie für Plaschg geschrieben wirkt.    TORSO wurde von einem Ensemble unter ihrer Leitung in Wien eingespielt. „Zum ersten Mal“, sagt sie, „da es eigentlich eher meine Art ist, in einem Schutzraum, allein zu Hause, aus bereits eingespielten Samples die Musik zusammenzubauen.“ Aber was in Zusammenarbeit entstand, muss vielleicht auch in Zusammenarbeit aufgenommen werden.    Den Multiinstrumentalisten und Tom-Waits-Gefährten David Coulter bat sie, seine singende Säge möglichst geradlinig durch „Johnsburg, Illinois“ fliegen zu lassen. „Es ist ein so unglaubliches Liebeslied, aus so vielen Akkorden in so kurzer Zeit. Ich denke an meine Tochter, wenn ich es singe“, sagt Plaschg. Sie liebt Waits’ Musik, weniger allerdings die Urmännlichkeit seiner Stimme. Durch sich kann sie sie zum Gegenpol wandeln.    Die stärkste Umwandlung aber hat der digitale Bonus-Song, Plaschgs Version von Lana Del Reys \"Gods & Monsters\" erfahren. Der Text dreht sich. In Plaschgs Version dreht sich der Text. Will Lana Del Rey 2012 noch „Fame“ und „liquor“ und das „slowly“, singt Soap&Skin: „Fame“ und „liquor“? „That is nothing holy.“ Die einstige Begierde ist in Anja Plaschgs Version zu einem Täter geworden, dessen Hände sie nicht auf ihren Hüften will. Und aus sonniger Lethargie wurde ein Upside-down-Slow-Core-Banger auf den Beats des experimentellen Wiener Elektromusikers Asfast.    Und da hängen sie nun, all die Flechten einer Wandlung. In der Ballade „Stars“, die sie durch Nina Simone entdeckte, bindet Soap&Skin sie ab. „Stars“, heißt es da, kommen und gehen. „They live their lives in sad cafes and online halls/ And they always have a story.“ Und Letztere bleibt.    Lässt sich immer weiterspinnen als Garn, in dem die eigene Erfahrung nahbar wird. -",
-        "link": "https://rausgegangen.de/en/events/soap-skin-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/74k2ph5u5stt.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 17.10.2025",
-        "time": "20:00",
-        "event": "Traudl Junge (@Theater der Keller)",
-        "category": "",
-        "description": "Traudl Junge war Hitlers Sekretärin - in jungen Jahren naiv, reflektiert sie im Alter selbstkritisch und geplagt von Schuldgefühlen ihre Verstrickung in moralisch dunkle Gefilde.Daniel Breitfelder (ausgezeichnet mit dem Kölner Darsteller*innenpreis) stellt sie und ihr Ringen mit den Schatten der Vergangenheit eindrucksvoll dar.Darüber hinaus entdecken er und Sebastian Kreyer auf der Bühne nach und nach aber auch die Risse im eigenen Lebensentwurf, wenn es um moralisch gute Lebensführung geht; immer mehr treten die kleinen Lügen, Verstellungen und Ungereimtheiten zum Vorschein, die die Beiden selbst von einem „guten“ Leben trennen. Zumal als Theaterschaffende, denen es in dieser „moralischen Anstalt“ doppelt schwer fällt, sich gänzlich ohne Zynismus zu bewegen.All das zeigt der Abend mit großer Leichtigkeit und viel Humor - was angesichts des eigentlich ernsten Themas nicht selbstverständlich ist. Ein unerwartet privater und ehrlicher Abend des Produktionsbüros Petra P. in Kooperation mit NS-DOK und dem Sommerblut Kulturfestival. Gefördert durch das Kulturamt der Stadt Köln.Das queere Kollektiv Produktionsbüros Petra P. besteht aus Daniel Breitfelder, Johannes Brüssau und Sebastian Kreyer. Mit ihrer unverwechselbaren Ästhetik lesen sie die unterschiedlichsten Stoffe que(e)r. Für das Theater Der Keller produzierten sie zuletzt Der ewige Spießer, für das Sommerblutfestival 2024 den Abend Queere Revolution (u.a. Nominierung Kölner Theaterpreis).",
-        "link": "https://rausgegangen.de/en/events/traudl-junge-9/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EeyI9ieQS7CWdr48bT8S_dscf0090boese2.JPG?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 17.10.2025",
-        "time": "21:00",
-        "event": "Aperitivo Friday - Open Air & Indoor (@Goldfinger)",
-        "category": "",
-        "description": "Aperitivo Friday – Dein Start ins Wochenende!Im August haben wir mit unserer neuen Reihe tolle Partys gefeiert – volle Tanzflächen, entspannte Lounge-Vibes und richtig gute Stimmung. ✨Natürlich haben viele von euch unser besonderes Angebot genutzt – und genau das behalten wir bei: 👉 Vorverkauf nur 5 € inkl. gratis Aperitivo (z. B. Aperol, Sarti, Limoncello oder Lillet Wild Berry)Und das Beste: Alle Aperitivos kosten die ganze Nacht nur 6 € – selbstverständlich mit hochwertigen Edelspirituosen. Perfekt auch für Geburtstage oder besondere Anlässe in entspanntem Flair.🎶 Musikalisch spielen wir alles, was gute Laune macht – von den 90ern über die 2000er, quer durch alle Genres bis hin zu aktuellen Hits. Auch Musikwünsche des Publikums finden ihren Platz.🌴 Indoor & Open Air: Drinnen tanzt du zur Party, draußen erwartet dich unsere Lounge – mit gleicher Musik, aber in entspannter Lautstärke. Hier kannst du dich bei einem frisch gemixten Aperol Spritz von unserer Aperol-Bar, einem Glas Wein oder einem kühlen Kölsch entspannt mit Freunden unterhalten und den Abend im sommerlichen Vibe genießen. Bei gutem Wetter bleibt das Dach offen, bei Regen schützt uns das elektronische Dach – feiern kannst du also immer.📍 Goldfinger, Friesenstraße 54, Köln 📅 Jeden Freitag 🕙 Einlass: ab 21 Uhr 🎟️ Vorverkauf: 5 € inkl. Aperitivo 🍹 Aperitivos all night long: 6 €Aperitivo Friday – das neue Ritual zum Runterkommen, Austauschen, Anstoßen & Tanzen.",
-        "link": "https://rausgegangen.de/en/events/aperitivo-friday-open-air-indoor-4/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/uKpwIQZQSheGoCR05XnW_aperitivo-friday-event-form.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 17.10.2025",
-        "time": "21:00",
-        "event": "Swing & Lindy Night (@King Georg)",
-        "category": "",
-        "description": "\"It don't mean a thing if it ain't got that swing!\" Deswegen darf im King Georg - in diesem Sommer ganz im Stile des Cotton Club - getanzt und gefeiert werden. \"Hagen's Little Big Horns\" ein Oktett unter der künstlerischen Leitung des Trompeters und Arrangeurs Alexander von Sommerfeld gibt sich die Ehre und spielt für alle Lindy Hopper, Barboa aficionados und Cocktailschlürfer zum Tanz auf.",
-        "link": "https://rausgegangen.de/en/events/swing-lindy-night-8/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aiF5Snd5QD7bU5zoP79i_screenshot-2025-08-19-123548.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 17.10.2025",
-        "time": "22:00",
-        "event": "ECLIPSE | Solar Bookings Showcase inkl. Afterhour Reineke Fuchs, Tech-House (@Reineke Fuchs)",
-        "category": "",
-        "description": "Solar Bookings presents: A New Chapter for Cologne’s Underground SceneCologne, are you ready?Solar is launching a brand-new night dedicated to cutting-edge underground sounds – and it all begins Friday, October 17th at 22:00 at the iconic Reineke Fuchs. Experience an unstoppable journey from night into morning and beyond – as we move seamlessly into the Afterhour starting Saturday, October 18th at 05:00. Line-Up:TOMI & KESH – All around the globe this Duo is known for their percussive & groove-heavy signature soundLULO – Rising uruguayan talent & Pete Tong Beatport-Award winnerPERFECT TIMING – Internationally supported trio with crisp, rolling beats and impeccable flowSALVATORE BRUNO – Italian energy with a raw underground touchSEBASTIAN REICH – Local talent bringing pure Cologne heatWHITNY – Rising star delivering infectious late-night groovesThis is the first edition of a series destined to become Cologne’s new underground secret. Capacity is limited – don’t miss your chance to be part of the beginning.Tickets on sale now – secure yours before it’s too late!",
-        "link": "https://rausgegangen.de/en/events/eclipse-solar-bookings-showcase-inkl-afterhour-reineke-fuchs-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/oicPfLeCTzZmfDSeTzcg_eclipse-banner-facebook.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 17.10.2025",
-        "time": "22:45",
-        "event": "BRASSERIE PROVOCATEUR -Burlesque Show- (@Echtzeit Grill & Thrill)",
-        "category": "",
-        "description": "Das Cologne Rouge – Late-Night-Burlesque in KölnFreitags öffnet das Cologne Rouge die Tore für eine unvergessliche Nacht voller Eleganz, Sinnlichkeit und atemberaubender Unterhaltung.Tauchen Sie ein in die faszinierende Welt des Burlesque – präsentiert in der stilvollen Atmosphäre der Brasserie des Restaurants „Echtzeit“. Freuen Sie sich auf verführerische Darbietungen, glamouröse Kostüme und eine Show, die Ihre Sinne verzaubern wird. Lassen Sie sich von der professionellen Tänzerin Parfait de la Neige und ihrer meisterhaften Performance begeistern.Ein Abend, der Sie in eine Welt voller Zauber und Glamour entführt – sinnlich, inspirierend und einzigartig.Details zur Veranstaltung:Einlass: 22:15 Uhr Showbeginn: 22:45 Uhr Ort: Echtzeit – Grill & Thrill, Köln Eintritt: Der Ticketpreis geht zu 100 % an die Künstlerin.Verpassen Sie auch nicht Termine von unseren traumhaften Burlesqueperlen: Elinor Divine, Nita Bon Air und Anna Venture.Bitte beachten:-Mindestverzehr von 15 Euro für Getränke, Speisen und Snacks wird vom Restaurant erhoben. Essen und Getränke sind nicht im Eintrittspreis enthalten.-Sollte Parfait de la Neige aus gesundheitlichen Gründen verhindert sein, übernimmt eine andere erfahrene Künstlerin die Show. In diesem Fall ist keine Rückerstattung möglich. Eine Rückerstattung erfolgt nur bei vollständigem Ausfall der Veranstaltung.Wir laden Sie herzlich ein, den Zauber des Burlesque hautnah zu erleben. Lassen Sie sich von der Kunst und Magie dieses Abends mitreißen!",
-        "link": "https://rausgegangen.de/en/events/brasserie-provocateur-burlesque-show-kopie-31/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/2YgyiZnRRcPOqAioYrgQ_2816.jpeg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 17.10.2025",
         "time": "18:00",
         "event": "REALITY TV QUIZ - Hamburg (@Villa Viva Hamburg)",
         "category": "",
@@ -1393,52 +1393,12 @@
         "link": "https://www.bielefeld.jetzt/node/1297113"
     },
     {
-        "date": "Sa, 18.10",
-        "time": "23:00",
-        "event": "SA • LOVE SATURDAYS (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-love-saturdays-4/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251018_LoveSaturdays_4zu5.jpg"
-    },
-    {
         "date": "Sat, 18.10",
         "time": "23:00",
         "event": "STEREOLOVE (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/stereolove-2/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/Stereo_18_1025_FeedB.jpg"
-    },
-    {
-        "date": "Sa, 18.10.2025",
-        "time": "09:00",
-        "event": "Wandern(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37454",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 18.10.2025",
-        "time": "08:00",
-        "event": "Wandern(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37456",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 18.10.2025",
-        "time": "08:30",
-        "event": "Wandern(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37455",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 18.10.2025",
-        "time": "10:00",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37322",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Sa, 18.10.2025",
@@ -1474,6 +1434,46 @@
     },
     {
         "date": "Sa, 18.10",
+        "time": "23:00",
+        "event": "SA • LOVE SATURDAYS (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-love-saturdays-4/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251018_LoveSaturdays_4zu5.jpg"
+    },
+    {
+        "date": "Sa, 18.10.2025",
+        "time": "09:00",
+        "event": "Wandern(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37454",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 18.10.2025",
+        "time": "08:00",
+        "event": "Wandern(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37456",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 18.10.2025",
+        "time": "08:30",
+        "event": "Wandern(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37455",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 18.10.2025",
+        "time": "10:00",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37322",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 18.10",
         "time": "06:00",
         "event": "Tanz mit den Sternen (@nr.z.p)",
         "link": "https://nrzp.de/event/2274",
@@ -1490,6 +1490,16 @@
         "event": "WXW Wrestling25th anniversary tourausverkauft! (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/wxw-wrestling-16/",
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
+    },
+    {
+        "date": "Sat, 18.10.2025",
+        "time": "19:30",
+        "event": "Mein Einziger Freund (@BLACK BOX im cuba)",
+        "category": "",
+        "description": "cuba kultur präsentiert:JazzToday Mein einziger FreundMein einziger Freund lebt im Moment, formt die Stille und feiert mit seinem Echtzeit-Ambient die Transformation. Das Trio Jaeger-Membrez-Hemingway reisst die Zuhörer:innen aus dem Vertrauten und katapultiert sie in ein elektro-akustisches Universum voller Schönheit.  Michael Jaeger (Saxophone), Vincent Membrez (Synthesizer) und Gerry Hemingway (Schlagzeug) sind Mein einziger Freund. Sie kommen aus der Schweiz und den USA und sind seit einigen Jahren gemeinsam unterwegs. Ihr Ambient ist laut und still wie die Mitternacht. Ihr Klang ein lebendiger Organismus.  Der Amerikanische Schlagzeuger Gerry Hemingway kreiert und spielt seit 1974 Solo- und Ensemblemusik. Er war lange Zeit Teil des Anthony Braxton Quartett und lebt heute in Luzern. Der Zürcher Saxophonist Michael Jaeger ist eine prägende Stimme des Schweizer Jazz und hat als Bandleader mit Musikern wie Greg Osby, Tom Rainey oder Norbert Pfammatter gearbeitet. Der Bieler Vincent Membrez zeichnet sich durch seine Vielseitigkeit aus, die von Pop bis zur zeitgenössischen Musik reicht. Seine persönliche Sprache auf den Synthesizern transportiert Spontaneität, Energie und Groove.  Mit der Debüt-CD \"Zoomorphisms\" (UNIT) schafft Mein einziger Freund ein lebendiges Experiment, in dem Free Noise, Jazz und Improvisation zu einem pulsierenden Klanggewebe verschmelzen.Besetzung: Michael Jaeger - Saxophon, Klarinette Vincent Membrez - Synthesizer Gerry Hemingway - Schlagzeug, Stimme",
+        "link": "https://rausgegangen.de/en/events/mein-einziger-freund-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5G3IE9BBStam8T84CphW_jaegermembrezhemingwayrgbonline406d0ea5db4896f71.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Sat, 18.10.2025",
@@ -1643,16 +1653,6 @@
     },
     {
         "date": "Sat, 18.10.2025",
-        "time": "19:30",
-        "event": "Mein Einziger Freund (@BLACK BOX im cuba)",
-        "category": "",
-        "description": "cuba kultur präsentiert:JazzToday Mein einziger FreundMein einziger Freund lebt im Moment, formt die Stille und feiert mit seinem Echtzeit-Ambient die Transformation. Das Trio Jaeger-Membrez-Hemingway reisst die Zuhörer:innen aus dem Vertrauten und katapultiert sie in ein elektro-akustisches Universum voller Schönheit.  Michael Jaeger (Saxophone), Vincent Membrez (Synthesizer) und Gerry Hemingway (Schlagzeug) sind Mein einziger Freund. Sie kommen aus der Schweiz und den USA und sind seit einigen Jahren gemeinsam unterwegs. Ihr Ambient ist laut und still wie die Mitternacht. Ihr Klang ein lebendiger Organismus.  Der Amerikanische Schlagzeuger Gerry Hemingway kreiert und spielt seit 1974 Solo- und Ensemblemusik. Er war lange Zeit Teil des Anthony Braxton Quartett und lebt heute in Luzern. Der Zürcher Saxophonist Michael Jaeger ist eine prägende Stimme des Schweizer Jazz und hat als Bandleader mit Musikern wie Greg Osby, Tom Rainey oder Norbert Pfammatter gearbeitet. Der Bieler Vincent Membrez zeichnet sich durch seine Vielseitigkeit aus, die von Pop bis zur zeitgenössischen Musik reicht. Seine persönliche Sprache auf den Synthesizern transportiert Spontaneität, Energie und Groove.  Mit der Debüt-CD \"Zoomorphisms\" (UNIT) schafft Mein einziger Freund ein lebendiges Experiment, in dem Free Noise, Jazz und Improvisation zu einem pulsierenden Klanggewebe verschmelzen.Besetzung: Michael Jaeger - Saxophon, Klarinette Vincent Membrez - Synthesizer Gerry Hemingway - Schlagzeug, Stimme",
-        "link": "https://rausgegangen.de/en/events/mein-einziger-freund-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5G3IE9BBStam8T84CphW_jaegermembrezhemingwayrgbonline406d0ea5db4896f71.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Sat, 18.10.2025",
         "time": "12:00",
         "event": "Salsa Beginner Bootcamp (@Bielefeld-Mitte)",
         "category": "Lerne die Salsa-Grundlagen an einem Tag!",
@@ -1688,22 +1688,6 @@
         "link": "https://www.bielefeld.jetzt/node/1300787"
     },
     {
-        "date": "So, 19.10.2025",
-        "time": "11:00",
-        "event": "Laufen(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37280",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "So, 19.10.2025",
-        "time": "11:45",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37310",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
         "date": "Su, 19.10.2025",
         "time": "19:00",
         "event": "*TRIBE KENNENLERNABEND*",
@@ -1718,6 +1702,22 @@
         "category": "Sport",
         "link": "https://www.instagram.com/uprunningclub/?hl=de",
         "image_url": null
+    },
+    {
+        "date": "So, 19.10.2025",
+        "time": "11:00",
+        "event": "Laufen(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37280",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "So, 19.10.2025",
+        "time": "11:45",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37310",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Sun, 19.10.2025",
@@ -1766,6 +1766,22 @@
         "description": "Disco am Sonntag Nachmittag",
         "image_url": null,
         "link": "https://www.bielefeld.jetzt/node/1337510"
+    },
+    {
+        "date": "Mo, 20.10.2025",
+        "time": "20:00",
+        "event": "Pub Quiz (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "Mo, 20.10.2025",
+        "time": "18:00",
+        "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
     },
     {
         "date": "Mo, 20.10.2025",
@@ -1824,22 +1840,6 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Mo, 20.10.2025",
-        "time": "20:00",
-        "event": "Pub Quiz (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Mo, 20.10.2025",
-        "time": "18:00",
-        "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
         "date": "Mon, 20.10.2025",
         "time": "14:30",
         "event": "Balboa-Workshop (@Hotel-Restaurant Bartsch)",
@@ -1847,6 +1847,22 @@
         "description": "Balboa-Workshop mit Hanne und Bernd – inkl. Taster bei Kaffee- und Kuchen-Flatrate 10 Euro.",
         "image_url": null,
         "link": "https://www.bielefeld.jetzt/node/1297115"
+    },
+    {
+        "date": "Tu, 21.10.2025",
+        "time": "18:00",
+        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Tu, 21.10.2025",
+        "time": "07:00",
+        "event": "Wochenmarkt(@Alter Markt)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Di, 21.10.2025",
@@ -1889,22 +1905,6 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Tu, 21.10.2025",
-        "time": "18:00",
-        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Tu, 21.10.2025",
-        "time": "07:00",
-        "event": "Wochenmarkt(@Alter Markt)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
         "date": "Tu, 21.10",
         "event": "Joya MarleenMimi (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/joya-marleen/",
@@ -1928,6 +1928,46 @@
         "description": "Tel. 0521 55774555 (Erreichbar von Mo-Do 9-15 Uhr | Fr 9-13 Uhr) Fax 0521 55774510 info@bielefeld-marketing.de https://www.bielefeld-marketing.de",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/chris-de-burgh-tickets-2024.jpg?itok=BtHV0hy-",
         "link": "https://www.bielefeld.jetzt/node/862997"
+    },
+    {
+        "date": "We, 22.10.2025",
+        "time": "21:00",
+        "event": "Karaoke (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "We, 22.10.2025",
+        "time": "18:00",
+        "event": "*TRIBE BOULDERN (@Kletterhalle Senne)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "We, 22.10.2025",
+        "time": "07:00",
+        "event": "Wochenmarkt(@Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "We, 22.10.2025",
+        "time": "20:00",
+        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
+        "image_url": null
+    },
+    {
+        "date": "We, 22.10.2025",
+        "time": "20:00",
+        "event": "DIES DAS COMEDY - OPEN MIC (@diesdascomedy)",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/diesdascomedy/",
+        "image_url": null
     },
     {
         "date": "Mi, 22.10",
@@ -1994,46 +2034,6 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "We, 22.10.2025",
-        "time": "21:00",
-        "event": "Karaoke (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "We, 22.10.2025",
-        "time": "18:00",
-        "event": "*TRIBE BOULDERN (@Kletterhalle Senne)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "We, 22.10.2025",
-        "time": "07:00",
-        "event": "Wochenmarkt(@Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "We, 22.10.2025",
-        "time": "20:00",
-        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
-        "image_url": null
-    },
-    {
-        "date": "We, 22.10.2025",
-        "time": "20:00",
-        "event": "DIES DAS COMEDY - OPEN MIC (@diesdascomedy)",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/diesdascomedy/",
-        "image_url": null
-    },
-    {
         "date": "Wed, 22.10.2025",
         "time": "19:30",
         "event": "Comedy Light Open Mic (@SpecOps network)",
@@ -2078,30 +2078,6 @@
         "image_url": null
     },
     {
-        "date": "Do, 23.10.2025",
-        "time": "09:30",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38178",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 23.10.2025",
-        "time": "17:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37269",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Do, 23.10.2025",
-        "time": "18:30",
-        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37398",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
         "date": "Th, 23.10.2025",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
@@ -2140,6 +2116,40 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Do, 23.10.2025",
+        "time": "09:30",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38178",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 23.10.2025",
+        "time": "17:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37269",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 23.10.2025",
+        "time": "18:30",
+        "event": "Salsa/Bachata(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37398",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Thu, 23.10.2025",
+        "time": "19:00",
+        "event": "23.10.2025 - rnb&paint - Münster (@PULS)",
+        "category": "",
+        "description": "Erlebe unser rnb&paint Event mit einem extra Live-DJ, der den Abend mit mitreißenden Beats untermalt!Bei diesem besonderen Motiv werden wir gemeinsam verschiedene Techniken ausprobieren. Die Materialien und Medien, die wir verwenden, bieten dir die Möglichkeit, deine Kreativität voll auszuleben. Wir werden einzigartige Farbverläufe mit dem Pinsel gestalten und durch die Spachteltechnik unserem Kunstwerk eine besondere Spannung und Tiefe verleihen. Tauche mit uns in die farbenfrohe Welt der Acrylmalerei ein und erschaffe dein individuelles Kunstwerk.  Lass deiner Kreativität freien Lauf während du dich von der RnB und Hip Hop Musik inspirieren lässt!",
+        "link": "https://rausgegangen.de/en/events/23102025-rnbpaint-munster-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FA3TDR6lQmavGyP4hdjg_rnb.png?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Thu, 23.10.2025",
@@ -2183,16 +2193,6 @@
     },
     {
         "date": "Thu, 23.10.2025",
-        "time": "19:00",
-        "event": "23.10.2025 - rnb&paint - Münster (@PULS)",
-        "category": "",
-        "description": "Erlebe unser rnb&paint Event mit einem extra Live-DJ, der den Abend mit mitreißenden Beats untermalt!Bei diesem besonderen Motiv werden wir gemeinsam verschiedene Techniken ausprobieren. Die Materialien und Medien, die wir verwenden, bieten dir die Möglichkeit, deine Kreativität voll auszuleben. Wir werden einzigartige Farbverläufe mit dem Pinsel gestalten und durch die Spachteltechnik unserem Kunstwerk eine besondere Spannung und Tiefe verleihen. Tauche mit uns in die farbenfrohe Welt der Acrylmalerei ein und erschaffe dein individuelles Kunstwerk.  Lass deiner Kreativität freien Lauf während du dich von der RnB und Hip Hop Musik inspirieren lässt!",
-        "link": "https://rausgegangen.de/en/events/23102025-rnbpaint-munster-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FA3TDR6lQmavGyP4hdjg_rnb.png?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Thu, 23.10.2025",
         "time": "18:30",
         "event": "Tanja Taylor & Emerson da Silva (@Bürgerwache)",
         "category": "Biergartenkonzert",
@@ -2227,20 +2227,44 @@
         "image_url": "https://www.club-sams.de/data/202510/WhatsApp_Image_2025-10-13_at_22_50_15_150.jpeg?v=1760458914"
     },
     {
-        "date": "Fr, 24.10",
-        "time": "23:00",
-        "event": "FR • F*CK GENRES • RAUM2: BOOTY BOUNCE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-fck-genres-raum2-booty-bounce-3/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251024_fckgenres_4zu5.jpg"
-    },
-    {
         "date": "Fri, 24.10",
         "time": "23:00",
         "event": "Studi Pop! (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/studi-pop-4/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/Stereo_24_1025_FeedB.jpg"
+    },
+    {
+        "date": "Fr, 24.10.2025",
+        "time": "23:00",
+        "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
+        "category": "Party",
+        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
+        "image_url": null
+    },
+    {
+        "date": "Fr, 24.10.2025",
+        "time": "23:00",
+        "event": "CUTIE DANCE (@cutiebielefeld)",
+        "category": "Party",
+        "link": "https://www.instagram.com/cutiebielefeld/?hl=de",
+        "image_url": null
+    },
+    {
+        "date": "Fr, 24.10.2025",
+        "time": "07:00",
+        "event": "Wochenmarkt (@Alter Markt, Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 24.10",
+        "time": "23:00",
+        "event": "FR • F*CK GENRES • RAUM2: BOOTY BOUNCE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-fck-genres-raum2-booty-bounce-3/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251024_fckgenres_4zu5.jpg"
     },
     {
         "date": "Fr, 24.10.2025",
@@ -2281,30 +2305,6 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38781",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Fr, 24.10.2025",
-        "time": "23:00",
-        "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
-        "category": "Party",
-        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
-        "image_url": null
-    },
-    {
-        "date": "Fr, 24.10.2025",
-        "time": "23:00",
-        "event": "CUTIE DANCE (@cutiebielefeld)",
-        "category": "Party",
-        "link": "https://www.instagram.com/cutiebielefeld/?hl=de",
-        "image_url": null
-    },
-    {
-        "date": "Fr, 24.10.2025",
-        "time": "07:00",
-        "event": "Wochenmarkt (@Alter Markt, Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Fr, 24.10",
@@ -2377,52 +2377,12 @@
         "link": "https://www.bielefeld.jetzt/node/1274755"
     },
     {
-        "date": "Sa, 25.10",
-        "time": "23:00",
-        "event": "SA • LOVE SATURDAYS x COCKTAIL NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-cocktail-night-3/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251025_LoveSaturdays_Cocktail_4zu5.jpg"
-    },
-    {
         "date": "Sat, 25.10",
         "time": "23:00",
         "event": "Tequila Party (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/tequila-party/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/Stereo_25_1025_FeedB.jpg"
-    },
-    {
-        "date": "Sa, 25.10.2025",
-        "time": "09:00",
-        "event": "Wandern(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37454",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 25.10.2025",
-        "time": "08:00",
-        "event": "Wandern(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37456",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 25.10.2025",
-        "time": "08:30",
-        "event": "Wandern(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37455",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 25.10.2025",
-        "time": "10:00",
-        "event": "Yoga(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37322",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Sa, 25.10.2025",
@@ -2463,6 +2423,46 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 25.10",
+        "time": "23:00",
+        "event": "SA • LOVE SATURDAYS x COCKTAIL NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-cocktail-night-3/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251025_LoveSaturdays_Cocktail_4zu5.jpg"
+    },
+    {
+        "date": "Sa, 25.10.2025",
+        "time": "09:00",
+        "event": "Wandern(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37454",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 25.10.2025",
+        "time": "08:00",
+        "event": "Wandern(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37456",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 25.10.2025",
+        "time": "08:30",
+        "event": "Wandern(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37455",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 25.10.2025",
+        "time": "10:00",
+        "event": "Yoga(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37322",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Sat, 25.10.2025",
@@ -2652,14 +2652,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Mi, 29.10",
-        "time": "23:00",
-        "event": "MI • HALLOWEEN WEEK OPENING (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-halloween-week-opening/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20251029_Halloween_4zu5.jpg"
-    },
-    {
         "date": "Wed, 29.10",
         "time": "20:00",
         "event": "Public Viewing im Stereo! (@stereobielefeld)",
@@ -2706,6 +2698,14 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 29.10",
+        "time": "23:00",
+        "event": "MI • HALLOWEEN WEEK OPENING (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-halloween-week-opening/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20251029_Halloween_4zu5.jpg"
     },
     {
         "date": "Th, 30.10.2025",
@@ -2773,14 +2773,6 @@
         "link": "https://www.bielefeld.jetzt/node/765620"
     },
     {
-        "date": "Fr, 31.10",
-        "time": "23:00",
-        "event": "FR • HALLOWEEN – Die düsterste Party der Stadt (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/halloween-die-duesterste-party-der-stadt/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20251031_Halloween_4zu5.jpg"
-    },
-    {
         "date": "Fri, 31.10",
         "time": "23:00",
         "event": "DIA DE LOS MUERTOS - DIE HALLOWEEN PARTY! (@stereobielefeld)",
@@ -2827,6 +2819,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 31.10",
+        "time": "23:00",
+        "event": "FR • HALLOWEEN – Die düsterste Party der Stadt (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/halloween-die-duesterste-party-der-stadt/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20251031_Halloween_4zu5.jpg"
     },
     {
         "date": "Fr, 31.10",
@@ -2901,14 +2901,6 @@
         "link": "https://www.bielefeld.jetzt/node/1274757"
     },
     {
-        "date": "Sa, 01.11",
-        "time": "23:00",
-        "event": "SA • HALLOWEEN WEEK CLOSING (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-halloween-week-closing/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20251101_Halloween_4zu5.jpg"
-    },
-    {
         "date": "Sat, 01.11",
         "time": "23:00",
         "event": "STEREOLOVE (@stereobielefeld)",
@@ -2947,6 +2939,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 01.11",
+        "time": "23:00",
+        "event": "SA • HALLOWEEN WEEK CLOSING (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-halloween-week-closing/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20251101_Halloween_4zu5.jpg"
     },
     {
         "date": "Sa, 01.11",
@@ -3085,14 +3085,6 @@
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
-        "date": "Mi, 05.11",
-        "time": "23:00",
-        "event": "MI • WEDNESDATE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wednesdate-12/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251105_Wednesdate_4zu5.jpg"
-    },
-    {
         "date": "We, 05.11.2025",
         "time": "17:00",
         "event": "Art Night (@loom_bielefeld)",
@@ -3131,6 +3123,14 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 05.11",
+        "time": "23:00",
+        "event": "MI • WEDNESDATE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wednesdate-12/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251105_Wednesdate_4zu5.jpg"
     },
     {
         "date": "Mi, 05.11",
@@ -3230,14 +3230,6 @@
         "city": "Münster"
     },
     {
-        "date": "Fr, 07.11",
-        "time": "23:00",
-        "event": "FR • 2010 FLASHBACK RAUM2: HIP HOP INVASION (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-2010-flashback-raum2-hip-hop-invasion/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251107_2010Flashback_4zu5.jpg"
-    },
-    {
         "date": "Fri, 07.11",
         "time": "23:00",
         "event": "Studi Pop! (@stereobielefeld)",
@@ -3268,6 +3260,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 07.11",
+        "time": "23:00",
+        "event": "FR • 2010 FLASHBACK RAUM2: HIP HOP INVASION (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-2010-flashback-raum2-hip-hop-invasion/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251107_2010Flashback_4zu5.jpg"
     },
     {
         "date": "Fr, 07.11",
@@ -3319,14 +3319,6 @@
         "link": "https://www.bielefeld.jetzt/node/1339493"
     },
     {
-        "date": "Sa, 08.11",
-        "time": "23:00",
-        "event": "SA • GIRLS NIGHT OUT • RAUM2 : BOOTY BOUNCE SONDERVERANSTALTUNG (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-girls-night-out-raum2-booty-bounce-sonderveranstaltung/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251108_GirlsNightOut_4zu5-1.jpg"
-    },
-    {
         "date": "Sat, 08.11",
         "time": "23:00",
         "event": "STEREOLOVE (@stereobielefeld)",
@@ -3365,6 +3357,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 08.11",
+        "time": "23:00",
+        "event": "SA • GIRLS NIGHT OUT • RAUM2 : BOOTY BOUNCE SONDERVERANSTALTUNG (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-girls-night-out-raum2-booty-bounce-sonderveranstaltung/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251108_GirlsNightOut_4zu5-1.jpg"
     },
     {
         "date": "Sa, 08.11",
@@ -3555,14 +3555,6 @@
         "city": "Münster"
     },
     {
-        "date": "Mi, 12.11",
-        "time": "23:00",
-        "event": "MI • JURA START PARTY (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-jura-start-party-5/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251112_JuraStart_4zu5.jpg"
-    },
-    {
         "date": "Wed, 12.11",
         "time": "06:00",
         "event": "GuMo Bielefeld (@stereobielefeld)",
@@ -3617,6 +3609,14 @@
         "category": "Ausgehen",
         "link": "https://www.instagram.com/diesdascomedy/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 12.11",
+        "time": "23:00",
+        "event": "MI • JURA START PARTY (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-jura-start-party-5/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251112_JuraStart_4zu5.jpg"
     },
     {
         "date": "We, 12.11",
@@ -3701,14 +3701,6 @@
         "city": "Münster"
     },
     {
-        "date": "Fr, 14.11",
-        "time": "23:00",
-        "event": "FR• BLFD -9th BIRHTDAY! – SONDERVERANSTALTUNG (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-blfd-9th-birhtday-sonderveranstaltung/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251114_BLFD_4zu5.jpg"
-    },
-    {
         "date": "Fri, 14.11",
         "time": "23:00",
         "event": "Taylor &amp; Harry Night (@stereobielefeld)",
@@ -3749,6 +3741,14 @@
         "image_url": null
     },
     {
+        "date": "Fr, 14.11",
+        "time": "23:00",
+        "event": "FR• BLFD -9th BIRHTDAY! – SONDERVERANSTALTUNG (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-blfd-9th-birhtday-sonderveranstaltung/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251114_BLFD_4zu5.jpg"
+    },
+    {
         "date": "Fri, 14.11.2025",
         "time": "20:00",
         "event": "EASY EASY \"ALLES SO LEID\" TOUR 2025 (@GLEIS 22)",
@@ -3784,14 +3784,6 @@
         "description": "Hommage an die Sinti Musiker Häns'che und Martin Weiss",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/webform/termine_melden/17569/weissguitars.jpg?itok=tgdQfO7Q",
         "link": "https://www.bielefeld.jetzt/node/1339495"
-    },
-    {
-        "date": "Sa, 15.11",
-        "time": "23:00",
-        "event": "SA • LOVE SATURDAYS x TEQUILA NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-tequila-night-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251115_LoveSaturdays_Tequila_4zu5.jpg"
     },
     {
         "date": "Sat, 15.11",
@@ -3832,6 +3824,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 15.11",
+        "time": "23:00",
+        "event": "SA • LOVE SATURDAYS x TEQUILA NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-tequila-night-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251115_LoveSaturdays_Tequila_4zu5.jpg"
     },
     {
         "date": "Sat, 15.11.2025",
@@ -3961,14 +3961,6 @@
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
-        "date": "Mi, 19.11",
-        "time": "23:00",
-        "event": "MI • WYLD WEDNESDAY (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wyld-wednesday-17/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251119_WyldWednesday_4zu5.jpg"
-    },
-    {
         "date": "We, 19.11.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -3999,6 +3991,14 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 19.11",
+        "time": "23:00",
+        "event": "MI • WYLD WEDNESDAY (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wyld-wednesday-17/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251119_WyldWednesday_4zu5.jpg"
     },
     {
         "date": "Mi, 19.11",
@@ -4163,14 +4163,6 @@
         "link": "https://www.bielefeld.jetzt/node/1191518"
     },
     {
-        "date": "Fr, 21.11",
-        "time": "23:00",
-        "event": "FR• CAFE EUROPA pres. NOEL HOLLER (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-cafe-europa-pres-noel-holler-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251121_NoelHoller_4zu5.jpg"
-    },
-    {
         "date": "Fri, 21.11",
         "time": "23:00",
         "event": "Studi Pop! (@stereobielefeld)",
@@ -4201,6 +4193,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 21.11",
+        "time": "23:00",
+        "event": "FR• CAFE EUROPA pres. NOEL HOLLER (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-cafe-europa-pres-noel-holler-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251121_NoelHoller_4zu5.jpg"
     },
     {
         "date": "Fr, 21.11",
@@ -4595,14 +4595,6 @@
         "link": "https://www.bielefeld.jetzt/node/1339499"
     },
     {
-        "date": "Fr, 28.11",
-        "time": "23:00",
-        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-back-to-2000-7/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251128_Backto2000_4zu5.jpg"
-    },
-    {
         "date": "Fri, 28.11",
         "time": "23:00",
         "event": "ON A TRIP w/ ELY OAKS (@stereobielefeld)",
@@ -4644,18 +4636,18 @@
     },
     {
         "date": "Fr, 28.11",
+        "time": "23:00",
+        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-back-to-2000-7/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251128_Backto2000_4zu5.jpg"
+    },
+    {
+        "date": "Fr, 28.11",
         "time": "",
         "event": "NÉ-K Trio & Bleidiät (@nr.z.p)",
         "link": "https://nrzp.de/event/jzp25",
         "image_url": "https://nrzp.de/wp-content/uploads/2023/02/Logo_small-150x150.png"
-    },
-    {
-        "date": "Sa, 29.11",
-        "time": "23:00",
-        "event": "SA • LOVE SATURDAYS (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-love-saturdays-5/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251129_LoveSaturdays_4zu5.jpg"
     },
     {
         "date": "Sat, 29.11",
@@ -4704,6 +4696,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 29.11",
+        "time": "23:00",
+        "event": "SA • LOVE SATURDAYS (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-love-saturdays-5/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251129_LoveSaturdays_4zu5.jpg"
     },
     {
         "date": "Sat, 29.11.2025",
@@ -4807,14 +4807,6 @@
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
-        "date": "Mi, 03.12",
-        "time": "23:00",
-        "event": "MI • GLÜH DICH GLÜCKLICH (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-glueh-dich-gluecklich/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251203_Gluehdichgluecklich_4zu5.jpg"
-    },
-    {
         "date": "We, 03.12.2025",
         "time": "17:00",
         "event": "Art Night (@loom_bielefeld)",
@@ -4853,6 +4845,14 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 03.12",
+        "time": "23:00",
+        "event": "MI • GLÜH DICH GLÜCKLICH (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-glueh-dich-gluecklich/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251203_Gluehdichgluecklich_4zu5.jpg"
     },
     {
         "date": "Wed, 03.12.2025",
@@ -4920,14 +4920,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Fr, 05.12",
-        "time": "23:00",
-        "event": "FR • 2010 FLASHBACK RAUM2: BOOTY BOUNCE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-2010-flashback-raum2-booty-bounce-4/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251205_2010Flashback_4zu5.jpg"
-    },
-    {
         "date": "Fr, 05.12.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -4950,6 +4942,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 05.12",
+        "time": "23:00",
+        "event": "FR • 2010 FLASHBACK RAUM2: BOOTY BOUNCE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-2010-flashback-raum2-booty-bounce-4/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251205_2010Flashback_4zu5.jpg"
     },
     {
         "date": "Fr, 05.12",
@@ -5002,14 +5002,6 @@
         "image_url": "https://www.club-sams.de/data/202508/DARKSIDE_OF_SAMS_Instagram_Post_3__150.jpg?v=1754406768"
     },
     {
-        "date": "Sa, 06.12",
-        "time": "23:00",
-        "event": "SA • BAD SANTA (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-bad-santa/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251206_BadSanta_4zu5-1.jpg"
-    },
-    {
         "date": "Sa, 06.12.2025",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -5040,6 +5032,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 06.12",
+        "time": "23:00",
+        "event": "SA • BAD SANTA (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-bad-santa/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251206_BadSanta_4zu5-1.jpg"
     },
     {
         "date": "Sat, 06.12.2025",
@@ -5134,14 +5134,6 @@
         "link": "https://www.bielefeld.jetzt/node/1220070"
     },
     {
-        "date": "Mi, 10.12",
-        "time": "23:00",
-        "event": "MI • GLÜH DICH GLÜCKLICH (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-glueh-dich-gluecklich-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251210_Gluehdichgluecklich_4zu5.jpg"
-    },
-    {
         "date": "We, 10.12.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -5180,6 +5172,14 @@
         "category": "Ausgehen",
         "link": "https://www.instagram.com/diesdascomedy/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 10.12",
+        "time": "23:00",
+        "event": "MI • GLÜH DICH GLÜCKLICH (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-glueh-dich-gluecklich-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251210_Gluehdichgluecklich_4zu5.jpg"
     },
     {
         "date": "Wed, 10.12.2025",
@@ -5271,14 +5271,6 @@
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
-        "date": "Fr, 12.12",
-        "time": "23:00",
-        "event": "FR• CHRISTMAS CLUB FEAT. JUIZZED (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-christmas-club-feat-juizzed/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251212_ChristmasClub_Juizzed_4zu5.jpg"
-    },
-    {
         "date": "Fri, 12.12",
         "time": "23:00",
         "event": "Drunken Masters - ABRISS &amp; DEMONTAGE! (@stereobielefeld)",
@@ -5320,6 +5312,14 @@
     },
     {
         "date": "Fr, 12.12",
+        "time": "23:00",
+        "event": "FR• CHRISTMAS CLUB FEAT. JUIZZED (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-christmas-club-feat-juizzed/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251212_ChristmasClub_Juizzed_4zu5.jpg"
+    },
+    {
+        "date": "Fr, 12.12",
         "event": "No MoreTilly ElectronicsIm dunkeln (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/no-more/",
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
@@ -5332,14 +5332,6 @@
         "description": "Heinz Flottmann & die High-Liga-Bend",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/webform/termine_melden/17091/2023-leere-buehne-glitzer-1.4-150.jpg?itok=EQedXrHF",
         "link": "https://www.bielefeld.jetzt/node/1272963"
-    },
-    {
-        "date": "Sa, 13.12",
-        "time": "23:00",
-        "event": "SA • LOVE SATURDAYS (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-love-saturdays-6/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251213_LoveSaturdays_4zu5-2.jpg"
     },
     {
         "date": "Sa, 13.12.2025",
@@ -5372,6 +5364,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 13.12",
+        "time": "23:00",
+        "event": "SA • LOVE SATURDAYS (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-love-saturdays-6/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251213_LoveSaturdays_4zu5-2.jpg"
     },
     {
         "date": "Sat, 13.12.2025",
@@ -5467,14 +5467,6 @@
         "link": "https://www.bielefeld.jetzt/node/947509"
     },
     {
-        "date": "Mi, 17.12",
-        "time": "23:00",
-        "event": "MI • GLÜH DICH GLÜCKLICH (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-glueh-dich-gluecklich-3/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251217_Gluehdichgluecklich_4zu5.jpg"
-    },
-    {
         "date": "We, 17.12.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -5505,6 +5497,14 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
+    },
+    {
+        "date": "Mi, 17.12",
+        "time": "23:00",
+        "event": "MI • GLÜH DICH GLÜCKLICH (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-glueh-dich-gluecklich-3/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251217_Gluehdichgluecklich_4zu5.jpg"
     },
     {
         "date": "Mi, 17.12",
@@ -5594,14 +5594,6 @@
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
-        "date": "Fr, 19.12",
-        "time": "23:00",
-        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-back-to-2000-8/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251219_Backto2000_4zu5-1.jpg"
-    },
-    {
         "date": "Fr, 19.12.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -5627,6 +5619,14 @@
     },
     {
         "date": "Fr, 19.12",
+        "time": "23:00",
+        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-back-to-2000-8/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251219_Backto2000_4zu5-1.jpg"
+    },
+    {
+        "date": "Fr, 19.12",
         "time": "",
         "event": "Born in Madness, No Rest for the Jaded, KRATR (@nr.z.p)",
         "link": "https://nrzp.de/event/born-in-madness",
@@ -5646,14 +5646,6 @@
         "description": "Tel. 0521 55774555 (Erreichbar von Mo-Do 9-15 Uhr | Fr 9-13 Uhr) Fax 0521 55774510 info@bielefeld-marketing.de https://www.bielefeld-marketing.de",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/hbz-family-forever-tour-2025-tickets_306630_2585122_222x222.jpg?itok=NumotlJm",
         "link": "https://www.bielefeld.jetzt/node/699582"
-    },
-    {
-        "date": "Sa, 20.12",
-        "time": "23:00",
-        "event": "SA • WE LOVE CHRISTMAS x TEQUILA NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-we-love-christmas-x-tequila-night/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251115_LoveSaturdays_Tequila_4zu5.jpg"
     },
     {
         "date": "Sa, 20.12.2025",
@@ -5686,6 +5678,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 20.12",
+        "time": "23:00",
+        "event": "SA • WE LOVE CHRISTMAS x TEQUILA NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-we-love-christmas-x-tequila-night/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251115_LoveSaturdays_Tequila_4zu5.jpg"
     },
     {
         "date": "Su, 21.12.2025",
@@ -5729,14 +5729,6 @@
         "image_url": null
     },
     {
-        "date": "Di, 23.12",
-        "time": "23:00",
-        "event": "DI• THE HOMECOMING (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-the-homecoming/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251223_TheHomeComing_4zu5.jpg"
-    },
-    {
         "date": "Tu, 23.12.2025",
         "time": "18:00",
         "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
@@ -5751,6 +5743,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Di, 23.12",
+        "time": "23:00",
+        "event": "DI• THE HOMECOMING (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-the-homecoming/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251223_TheHomeComing_4zu5.jpg"
     },
     {
         "date": "We, 24.12.2025",
@@ -5899,14 +5899,6 @@
         "link": "https://www.bielefeld.jetzt/node/975160"
     },
     {
-        "date": "Sa, 27.12",
-        "time": "23:00",
-        "event": "SA• 2025 FLASHBACK (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-2025-flashback/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251227_2025Flashback_4zu5.jpg"
-    },
-    {
         "date": "Sa, 27.12.2025",
         "time": "14:00",
         "event": "*TRIBE WANDERSAMSTAG*",
@@ -5945,6 +5937,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sa, 27.12",
+        "time": "23:00",
+        "event": "SA• 2025 FLASHBACK (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-2025-flashback/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251227_2025Flashback_4zu5.jpg"
     },
     {
         "date": "Sat, 27.12.2025",
@@ -6064,14 +6064,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Di, 31.12",
-        "time": "23:00",
-        "event": "MI • GOLDEN NIGHT – SILVESTER MIT STIL (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-golden-night-silvester-mit-stil/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251231_Silvesternacht_4zu5-1.jpg"
-    },
-    {
         "date": "Wed, 31.12",
         "time": "23:00",
         "event": "HAPPY NEW YEAH! (@stereobielefeld)",
@@ -6118,5 +6110,13 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
+    },
+    {
+        "date": "Di, 31.12",
+        "time": "23:00",
+        "event": "MI • GOLDEN NIGHT – SILVESTER MIT STIL (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-golden-night-silvester-mit-stil/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251231_Silvesternacht_4zu5-1.jpg"
     }
 ]
