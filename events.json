@@ -63,16 +63,6 @@
     },
     {
         "date": "Tue, 21.10.2025",
-        "time": "13:30",
-        "event": "Wochenmarkt Handorf (@Hugo-Pottebaum-Platz Münster)",
-        "category": "",
-        "description": "Wochenmärkte in Münster sind mehr als nur Einkauf – sie sind ein Stück Lebensgefühl. Ob auf dem Domplatz mit Blick auf den St.-Paulus-Dom oder in den Stadtteilen wie Gievenbeck, Hiltrup oder am Hansaplatz: Hier findest du frische Lebensmittel, Blumen, Spezialitäten aus der Region und jede Menge gute Laune. Zwischen Obst, Käse und Kaffee auf die Hand wird geschlemmt, geplaudert und entdeckt. Perfekt für alle, die gerne draußen sind, Lust auf gute Produkte haben und Münster von seiner lebendigen Seite erleben wollen.",
-        "link": "https://rausgegangen.de/en/events/wochenmarkt-handorf-16/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/9uAP344TQWbyQ0NfsvOV_mk-s-thhfiw6gneu-unsplash.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Tue, 21.10.2025",
         "time": "17:30",
         "event": "Bezahlbares Wohnen – Geht’s noch? (@Pöge-Haus)",
         "category": "",
@@ -130,6 +120,16 @@
         "link": "https://rausgegangen.de/en/events/karaoke-queer-o-ke-47/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vtSu0aZSNqbrZ0dvWEne_karaoke-quer.png?width=1200&height=900&mode=crop",
         "city": "Leipzig"
+    },
+    {
+        "date": "Tue, 21.10.2025",
+        "time": "13:30",
+        "event": "Wochenmarkt Handorf (@Hugo-Pottebaum-Platz Münster)",
+        "category": "",
+        "description": "Wochenmärkte in Münster sind mehr als nur Einkauf – sie sind ein Stück Lebensgefühl. Ob auf dem Domplatz mit Blick auf den St.-Paulus-Dom oder in den Stadtteilen wie Gievenbeck, Hiltrup oder am Hansaplatz: Hier findest du frische Lebensmittel, Blumen, Spezialitäten aus der Region und jede Menge gute Laune. Zwischen Obst, Käse und Kaffee auf die Hand wird geschlemmt, geplaudert und entdeckt. Perfekt für alle, die gerne draußen sind, Lust auf gute Produkte haben und Münster von seiner lebendigen Seite erleben wollen.",
+        "link": "https://rausgegangen.de/en/events/wochenmarkt-handorf-16/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/9uAP344TQWbyQ0NfsvOV_mk-s-thhfiw6gneu-unsplash.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Tue, 21.10.2025",
@@ -223,66 +223,6 @@
     },
     {
         "date": "Tue, 21.10.2025",
-        "time": "18:00",
-        "event": "Queere Quiz-Night für U27 @ anyway (@anyway)",
-        "category": "",
-        "description": "Spannende Fragen, wechselnde Kategorien und ein Überraschungspreis sorgen für gute Stimmung und viel Spaß – spontan Teams bilden und mitraten!✨",
-        "link": "https://rausgegangen.de/en/events/queere-quiz-night-fur-u27-anyway-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7SFuUpwSQlQfQMtfUxvQ_werbebild-rausgegangen.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Tue, 21.10.2025",
-        "time": "18:30",
-        "event": "Board Game Night @ Bingo Club (@Bingo Club)",
-        "category": "",
-        "description": "Gemütlicher Spieleabend im Bingo Club mit neuen Spielen, netten Leuten, leckeren Drinks und Snacks✨",
-        "link": "https://rausgegangen.de/en/events/board-game-night-bingo-club-10/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/sBg0Cb9RjO4AMvPmtkKH_cafe.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Tue, 21.10.2025",
-        "time": "19:00",
-        "event": "Lesen in Ehren*feld – queerfeministische-Lesereihe in Köln* (@Bürgerzentrum Ehrenfeld)",
-        "category": "",
-        "description": "Representation ist wichtig!💜 Komm vorbei und lass dich von FLINTA* Autor:innen inspirieren und begeistern✨",
-        "link": "https://rausgegangen.de/en/events/lesen-in-ehrenfeld-queerfeministische-lesereihe-in-koln-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/i1gcqF6LQ6SRiByvWZCG_leseninehrenfeldsindpenisserealrausgegangenv2-1.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Tue, 21.10.2025",
-        "time": "19:30",
-        "event": "Ethel Cain /// The Willloughby Tucker Forever Tour 2025 (@Carlswerk Victoria)",
-        "category": "",
-        "description": "ihre einzigartigen Southern Gothic-Sounds Ende 2025 für drei exklusive Shows nach Deutschland. Drone, Noise, Slowcore und Ambient verschmelzen zu einer düsteren, atmosphärischen Klanglandschaft, die an den Soundtrack einer True Detective-Staffel erinnert. Alles selbst geschrieben, produziert und gemischt – ein intensiver Einblick in ihre Seele. Ein Teil der Ticketeinnahmen wird an The Ally Coalition gespendet, die sich für Trans-Communities einsetzt.",
-        "link": "https://rausgegangen.de/en/events/ethel-cain-the-willloughby-tucker-forever-tour-2025-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/gvxlrHloR46BmpU0wVuf_ethelcaincsilkenweinberg0325.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Tue, 21.10.2025",
-        "time": "20:00",
-        "event": "ONE OK ROCK – DETOX EUROPEAN TOUR 2025 (@LANXESS arena)",
-        "category": "",
-        "description": "Man hat sie schon gemeinsam mit Linkin Park gesehen und jetzt spielen sie ihre eigene Tour quer durch Europa✨ Sei bei ihrer bis jetzt größten Show dabei, wenn sie einen Tourstopp in Köln machen!🤩",
-        "link": "https://rausgegangen.de/en/events/one-ok-rock-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Sh7o2jPFQBTfc8oF20zI_oneokrock2025euukp1920x1080horz.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Tue, 21.10.2025",
-        "time": "20:00",
-        "event": "ELEKTRORAMA! #2 Totenhagen feat. Rumpeln + Jamsession (@artheater Köln)",
-        "category": "",
-        "description": "Eine Jamsession, die nicht so schnell in Vergessenheit gerät🎶 Laura Totenhagen war schon am anderen Ende der Welt unterwegs und jetzt ist sie in Köln🥹",
-        "link": "https://rausgegangen.de/en/events/elektrorama-2-totenhagen-feat-rumpeln-jamsession-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/YA1uDJ6nTFGhCAKi4juj_totenhagen-elektrorama1.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Tue, 21.10.2025",
         "time": "10:00",
         "event": "ANDERS ZORN. Schwedens Superstar (@Hamburger Kunsthalle)",
         "category": "",
@@ -350,6 +290,66 @@
         "link": "https://rausgegangen.de/en/events/fk-open-stage-137/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/sq81d0LjTqG0ZAHfUlud_081016jonaswalzbergthelowflyingducks019.jpg?width=1200&height=900&mode=crop",
         "city": "Hamburg"
+    },
+    {
+        "date": "Tue, 21.10.2025",
+        "time": "18:00",
+        "event": "Queere Quiz-Night für U27 @ anyway (@anyway)",
+        "category": "",
+        "description": "Spannende Fragen, wechselnde Kategorien und ein Überraschungspreis sorgen für gute Stimmung und viel Spaß – spontan Teams bilden und mitraten!✨",
+        "link": "https://rausgegangen.de/en/events/queere-quiz-night-fur-u27-anyway-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7SFuUpwSQlQfQMtfUxvQ_werbebild-rausgegangen.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Tue, 21.10.2025",
+        "time": "18:30",
+        "event": "Board Game Night @ Bingo Club (@Bingo Club)",
+        "category": "",
+        "description": "Gemütlicher Spieleabend im Bingo Club mit neuen Spielen, netten Leuten, leckeren Drinks und Snacks✨",
+        "link": "https://rausgegangen.de/en/events/board-game-night-bingo-club-10/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/sBg0Cb9RjO4AMvPmtkKH_cafe.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Tue, 21.10.2025",
+        "time": "19:00",
+        "event": "Lesen in Ehren*feld – queerfeministische-Lesereihe in Köln* (@Bürgerzentrum Ehrenfeld)",
+        "category": "",
+        "description": "Representation ist wichtig!💜 Komm vorbei und lass dich von FLINTA* Autor:innen inspirieren und begeistern✨",
+        "link": "https://rausgegangen.de/en/events/lesen-in-ehrenfeld-queerfeministische-lesereihe-in-koln-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/i1gcqF6LQ6SRiByvWZCG_leseninehrenfeldsindpenisserealrausgegangenv2-1.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Tue, 21.10.2025",
+        "time": "19:30",
+        "event": "Ethel Cain /// The Willloughby Tucker Forever Tour 2025 (@Carlswerk Victoria)",
+        "category": "",
+        "description": "ihre einzigartigen Southern Gothic-Sounds Ende 2025 für drei exklusive Shows nach Deutschland. Drone, Noise, Slowcore und Ambient verschmelzen zu einer düsteren, atmosphärischen Klanglandschaft, die an den Soundtrack einer True Detective-Staffel erinnert. Alles selbst geschrieben, produziert und gemischt – ein intensiver Einblick in ihre Seele. Ein Teil der Ticketeinnahmen wird an The Ally Coalition gespendet, die sich für Trans-Communities einsetzt.",
+        "link": "https://rausgegangen.de/en/events/ethel-cain-the-willloughby-tucker-forever-tour-2025-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/gvxlrHloR46BmpU0wVuf_ethelcaincsilkenweinberg0325.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Tue, 21.10.2025",
+        "time": "20:00",
+        "event": "ONE OK ROCK – DETOX EUROPEAN TOUR 2025 (@LANXESS arena)",
+        "category": "",
+        "description": "Man hat sie schon gemeinsam mit Linkin Park gesehen und jetzt spielen sie ihre eigene Tour quer durch Europa✨ Sei bei ihrer bis jetzt größten Show dabei, wenn sie einen Tourstopp in Köln machen!🤩",
+        "link": "https://rausgegangen.de/en/events/one-ok-rock-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Sh7o2jPFQBTfc8oF20zI_oneokrock2025euukp1920x1080horz.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Tue, 21.10.2025",
+        "time": "20:00",
+        "event": "ELEKTRORAMA! #2 Totenhagen feat. Rumpeln + Jamsession (@artheater Köln)",
+        "category": "",
+        "description": "Eine Jamsession, die nicht so schnell in Vergessenheit gerät🎶 Laura Totenhagen war schon am anderen Ende der Welt unterwegs und jetzt ist sie in Köln🥹",
+        "link": "https://rausgegangen.de/en/events/elektrorama-2-totenhagen-feat-rumpeln-jamsession-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/YA1uDJ6nTFGhCAKi4juj_totenhagen-elektrorama1.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
     },
     {
         "date": "Tue, 21.10.2025",
@@ -466,16 +466,6 @@
     },
     {
         "date": "Wed, 22.10.2025",
-        "time": "19:30",
-        "event": "Comedy Light Open Mic (@SpecOps network)",
-        "category": "",
-        "description": "Ein Abend voller Humor und gute Laune:Erlebe in Münster im SpecOps Network eine besondere Nacht des Lachens und der guten Laune in Münster. Es erwartet Dich ein humorvoller Abend, der Dich Sorgen für eine Weile vergessen lässt. Diese Veranstaltung ist der perfekte Ort, um neue Talente der Comedy-Szene zu entdecken, während sie ihre frischen und originellen Witze zum Besten geben.Comedy Light Stand-up Comedy Open Mic bietet aufstrebenden Comedians aus ganz Deutschland eine Bühne, um Ihre neuen Witze zu präsentieren. Hier stehen 6-8 talentierte Nachwuchs-Comedians im Rampenlicht und bringen einen bunten Mix aus ihren neuesten Scherzen und Geschichten mit. Es ist eine gute Gelegenheit, neue Gesichter in der Comedy-Welt zu entdecken.Egal, ob Du ein eingefleischter Fan der Stand-up Comedy bist, oder zum ersten Mal eine Live-Show besuchst, die Veranstaltung bietet ein einzigartiges Erlebnis, das Du so schnell nicht vergessen wirst.Einlass um 19:00 UhrBeginn um 19:30 UhrAK8 €Komm gerne vorbei!Wir freuen uns auf euch!",
-        "link": "https://rausgegangen.de/en/events/comedy-light-open-mic-27/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BjxIFVZQRHKArYQB9Tmn_comedy-light-137.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Wed, 22.10.2025",
         "time": "19:00",
         "event": "Friedensnobelpreisträgerin Irina Scherbakowa & Najem Wali: Schreiben & Identität im politischen Asyl (Gespräch) (@Haus des Buches)",
         "category": "",
@@ -526,6 +516,16 @@
     },
     {
         "date": "Wed, 22.10.2025",
+        "time": "19:30",
+        "event": "Comedy Light Open Mic (@SpecOps network)",
+        "category": "",
+        "description": "Ein Abend voller Humor und gute Laune:Erlebe in Münster im SpecOps Network eine besondere Nacht des Lachens und der guten Laune in Münster. Es erwartet Dich ein humorvoller Abend, der Dich Sorgen für eine Weile vergessen lässt. Diese Veranstaltung ist der perfekte Ort, um neue Talente der Comedy-Szene zu entdecken, während sie ihre frischen und originellen Witze zum Besten geben.Comedy Light Stand-up Comedy Open Mic bietet aufstrebenden Comedians aus ganz Deutschland eine Bühne, um Ihre neuen Witze zu präsentieren. Hier stehen 6-8 talentierte Nachwuchs-Comedians im Rampenlicht und bringen einen bunten Mix aus ihren neuesten Scherzen und Geschichten mit. Es ist eine gute Gelegenheit, neue Gesichter in der Comedy-Welt zu entdecken.Egal, ob Du ein eingefleischter Fan der Stand-up Comedy bist, oder zum ersten Mal eine Live-Show besuchst, die Veranstaltung bietet ein einzigartiges Erlebnis, das Du so schnell nicht vergessen wirst.Einlass um 19:00 UhrBeginn um 19:30 UhrAK8 €Komm gerne vorbei!Wir freuen uns auf euch!",
+        "link": "https://rausgegangen.de/en/events/comedy-light-open-mic-27/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BjxIFVZQRHKArYQB9Tmn_comedy-light-137.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Wed, 22.10.2025",
         "time": "19:00",
         "event": "LEFTOVERS - ALLES ENDET 2025 (@Festsaal Kreuzberg)",
         "category": "",
@@ -573,156 +573,6 @@
         "link": "https://rausgegangen.de/en/events/der-mad-monkey-mittwoch-125/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/02WTSVxQNOxJw0a5PJEA_rgmittwoch.png?width=1200&height=900&mode=crop",
         "city": "Berlin"
-    },
-    {
-        "date": "Wed, 22.10.2025",
-        "time": "09:30",
-        "event": "Yoga für Menschen mit Mehrgewicht (@Raum für Resonanz)",
-        "category": "",
-        "description": "Yoga für Menschen mit Mehrgewicht by Tara Onlyyou Cologne & CarinaWir wollen die Sicht auf Yoga verändern, Yoga ist nicht nur dünn sein Yoga ist viel mehr als das !  🩷 💛  Beschreibung unserer Klassen:Diese Yoga Klasse ist speziell für Menschen mit Mehrgewicht konzipiert, die in einem sicheren, wertschätzenden Raum praktizieren möchten. Wir legen den Fokus auf achtsame Bewegung, sanften Muskelaufbau, Atemübungen und Körperwahrnehmung ganz ohne Leistungsdruck.In dieser Stunde geht es nicht um „die perfekte Pose“, sondern darum, deinen Körper zu stärken, zu entspannen und dich mit dir selbst wohlzufühlen. Hilfsmittel wie Blöcke, Gurte und Bolster unterstützen dich dabei, jede Übung individuell an deine Bedürfnisse anzupassen.Für wen geeignet? Für alle Menschen mit Mehrgewicht egal ob Anfänger:in oder Wiedereinsteiger:in. Keine Vorerfahrung nötig.Du darfst dich auf Folgendes freuen:🩷Dein eigenes Tempo und klare Anleitungen💚Ein unterstützendes Umfeld ohne Bewertung💛Sanfte, aber wirkungsvolle Bewegungen💜Atemübungen und EntspannungstechnikenKomm, wie du bist und finde in deinem eigenem Tempo zu mehr Beweglichkeit, Kraft und innerer Ruhe.FLINTA* ONLY 🩵Wir sehen uns ab Oktober auf der Matte 🩷Tara&Carry 💛ALLE WICHTIGEN INFOS FINDEST DU AUCH AUF UNSERER WEBSEITE: www.onlyyoucologne.de",
-        "link": "https://rausgegangen.de/en/events/yoga-fur-menschen-mit-mehrgewicht-55/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/v8ofTKWiTTeYdgsIzxvh_img2090.jpeg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Wed, 22.10.2025",
-        "time": "15:00",
-        "event": "MMC Studioführung - TV Backstage Tour (@MMC Studios)",
-        "category": "",
-        "description": "Die MMC Film & TV Studios Cologne – Heimat von Shows wie DSDS, Ninja Warrior, Unter Uns und vielen mehr. Hier wird Film & Fernsehen gemacht!In dieser 90-minütigen Führung über eines der größten Studiogelände Europas erfahren Sie unter anderem, wie ein Studio- oder Serienset ausgestattet ist, wie Green-Screen-Aufnahmen gemacht werden oder wie viele Mitarbeiter nötig sind, um eine TV-Produktion zu verwirklichen.Je nach Verfügbarkeit besichtigen SieFilm- & TV-StudiosRegieräumeGreen-Screen-Studio – hier können Sie auch selber aktiv werden!Verschiedene Setbauten und AußenkulissenMaskenraumSie sehen eine kurze Video-gestützte Einführung über den Einsatz von Visual Effects (VFX) bei Fernsehserien und FilmenZum Abschluss sind Sie eingeladen vor der Presse-Fotowand Ihr persönliches Erinnerungsfoto zu schießen Mehr Informationen finden Sie auf der Buchungsseite.Auch als Geschenkgutschein verfügbar.MMC Verhaltensregeln",
-        "link": "https://rausgegangen.de/en/events/mmc-studiofuhrung-tv-backstage-tour-348/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BPVXnXlTSTmL4LCsjntb_mmc-studiotour.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Wed, 22.10.2025",
-        "time": "18:00",
-        "event": "Kölner Bier Bachelor (@PÄFF)",
-        "category": "",
-        "description": "10 Bars. 10 #porst. 10 Stempel. 1 Abschluss. Der Kölner Bier Bachelor Leute, es geht erstmals los – der legändere Studiengang startet in Köln! Schnappt euch eure Mitbewohner, Studienkollegen oder einfach eure Lieblingsgang und genießt einen Abend mit (neuen) Freunden in der Kneipenkultur eurer Stadt!Beim Bier Bachelor geht’s nicht nur ums Trinken, sondern auch ums Erleben. Das Event verbindet Kneipenkultur, Gemeinschaft und eine Prise Wahnsinn – ideal für neue Bekanntschaften, WG-Abende mit Plan oder einfach mal wieder ein unvergesslicher Abend im Semester.#prost***  SCROLL DOWN FOR ENGLISH VERSION (if you’re Erasmus & thirsty) ***   Wie läuft das Ganze ab? --------------------------------------  In jeder Bar mindestens ein Getränk eurer Wahl trinken (alkoholfrei = auch cool).  Für jeden Drink gibt’s einen Stempel aufs offizielle „Bachelor-Zeugnis“.  Innerhalb von 5 Stunden alle Stempel sammeln = Prüfung fast abgeschlossen.  Ab zur Abschlusslocation, eine kreative Prüfung ablegen und euren Abschluss feiern. Easy, oder?   START -------------------------------------- Los geht’s in Köln, am 22.10.2025 – findet euch pünktlich zur Zeit auf eurem Ticket am Startpunkt ein. Es wird im 15-Minuten-Takt zwischen 18:00 und 20:00 Uhr gestartet.Am Start:  Gestartet wird an bzw. in der gebuchten Startlocation (abhängig von der Endlocation)  Ihr bekommt eure \"Bier Bachelor\"-Bändchen und  eure „Bier Bachelor“-Zeugnis mit den Stempelfeldern und  den City-& Locationguide   GETRÄNKE-DEALS -------------------------------------- Wir haben für euch mit allen Bars Specials klargemacht – fast alles (Bier, Radler, Shots, Alkfrei-Zeug etc.) für max. 2,50 Euro. Ihr dürft natürlich auch fancy Drinks wählen – Hauptsache, ein Getränk = ein Stempel!   STEMPEL & TEILNEHMENDE LOCATIONS -------------------------------------- Für jedes erste Getränk gibt es in der teilnehmenden Location 1 Stempel    ABSCHLUSSLOCATION & PRÜFUNG -------------------------------------- In der gebuchten Endlocation wartet die große Abschlussprüfung auf euch. Keine Sorge, das ist kein Mathetest:Seid kreativ! Ob Bierchen-Gedicht, kurzer Song, Mini-Performance oder Gruppenspaß – alles ist erlaubt! Zwei „Profs“ (aka unsere Jury) geben dir die Note – je wilder, desto besser.Danach: den Erfolg gebührend feiern! Endlocation(s): Päff   DIE ABSCHLÜSSE --------------------------------------  Bier Bachelor: 10 Drinks, 10 Bars, 5 Stunden   WANN? -------------------------------------- 22.10.2025 ab 18:00 Uhr   WO? -------------------------------------- Köln, Start: Der schwarze Hase (Ehrenfeld) End: Päff (Belgisches Viertel)   LOCATIONS -------------------------------------- Der schwarze Hase Franky's Bar No.6 The Beast Päff Pier 124 Red Fox Bar Cologne The Bär Umleitung Woodies Saloon Zum scheuen Reh ZUR GOLDENEN NACHT   TICKETS -------------------------------------- - Vorverkauf: ab 7 EURO (inkl. VVK-Gebühr) - Abendkasse: 10,00 € Tickets & Infos: www.bierbachelor.com/tickets   EXTRAS -------------------------------------- - Jutebeutel (mit kleinen Gadgets) im VVK für 5 € – an der Abendkasse 1 € mehr - Zeugnis nach Hause schicken lassen? Kein Ding! Einfach vorher anmelden. - Bock auf Shirts mit unserem Promille Monster oder dem Drinking Animal?   FOTOS -------------------------------------- Unsere Leute sind mit Kameras unterwegs – lächeln oder Bierchen hochhalten, beides geht. Die Pics findet ihr später auf: www.bierbachelor.com/fotos-------------------------------------- Lust auf Kneipenkultur, Gemeinschaft und ein bisschen Wahnsinn? Dann hol dir dein Ticket – wir sehen uns beim Bier Bachelor!#prost  MEHR INFOS ------------------------------------ www.bierbachelor.com www.facebook.com/bierbachelor.original www.instagram.com/bierbachelor  ***  ENGLISH VERSION *** 10 bars. 10 #porst. 10 stamps. 1 degree. The Kölner Bier Bachelor Guys, here we go again - the legendary course in Köln is starting the next semester! Grab your flatmates, fellow students or simply your favorite gang and enjoy an evening with (new) friends in the pub culture of your city!The Bier Bachelor is not just about drinking, but also about experiencing. The event combines pub culture, community and a pinch of madness - ideal for new acquaintances, flat-share evenings with a plan or simply an unforgettable evening during the semester. #prost***  SCROLL UP FOR GERMAN VERSION (if you’re local & thirsty) ***   How does the whole thing work? --------------------------------------  Drink at least one drink of your choice in each bar (non-alcoholic = also cool). For each drink you get a stamp on your official “Bachelor certificate”. Collect all stamps within 5 hours = exam almost completed. Off to the graduation location, take a creative exam and celebrate your graduation. Easy, right?   START -------------------------------------- The event starts in Köln, on 22.10.2025 - arrive at the starting point at the time on your ticket. It will start every 15 minutes between 18:00 and 20:00.At the start:  The start is at or in the booked startlocation (depeneds on the booked endlocation) You will receive your \"Bier Bachelor\" wristbands and your \"Bier Bachelor” certificate with the stamp fields and the city & location guide   DRINK DEALS -------------------------------------- We have arranged specials for you with all the bars - almost everything (beer, shandy, shots, alcohol-free stuff etc.) for a maximum of 2,50 Euro. Of course you can also choose fancy drinks - the main thing is that one drink = one stamp!   STAMPS & PARTICIPATING LOCATIONS -------------------------------------- For every first drink you will get 1 stamp in the partipicating location   ENDLOCATION & EXAM -------------------------------------- The big final exam awaits you at the booked final location. Don't worry, it's not a math test:Be creative! Whether it's a beer poem, short song, mini-performance or group fun - anything goes! Two “profs” (aka our jury) will give you the grade - the wilder, the better.Afterwards: celebrate your success in style! Endlocation(s): Päff   THE DEGREES --------------------------------------  Bier Bachelor: 10 Drinks, 10 Bars, 5 hours   WHEN? -------------------------------------- 22.10.2025 FROM 6:00 PM   WHERE? -------------------------------------- Köln, Start: Der schwarze Hase (Ehrenfeld) End: Päff (Belgisches Viertel)   LOCATIONS -------------------------------------- Der schwarze Hase Franky's Bar No.6 The Beast Päff Pier 124 Red Fox Bar Cologne The Bär Umleitung Woodies Saloon Zum scheuen Reh ZUR GOLDENEN NACHT   TICKETS -------------------------------------- - Online Ticketing: ab 7 EURO (including ticket-fee) - Box office: 10,00 € Tickets & Infos: www.bierbachelor.com/EN/tickets   EXTRAS -------------------------------------- - Jute bag (with small gadgets) in advance for €5 - €1 more at the box office - Have your certificate sent home? No problem! Just register in advance online. - Fancy shirts with our Promille Monster or the Drinking Animal?   PHOTOS -------------------------------------- Our people are out and about with cameras - smiling or holding up a beer, both are possible. You'll find the pics later at: www.bierbachelor.com/fotos-------------------------------------- Fancy pub culture, community and a bit of madness? Then get your ticket - see you at the Bier Bachelor!#prost  MORE INFORMATION -------------------------------------- www.bierbachelor.com www.facebook.com/bierbachelor.original www.instagram.com/bierbachelor",
-        "link": "https://rausgegangen.de/en/events/kolner-bier-bachelor-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jjPtHl27SK1Rrt5mhI5Z_54792526311768674944643554248845309501571366n.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Wed, 22.10.2025",
-        "time": "18:30",
-        "event": "22.10.2025 - drink&paint - Köln (@Yuicery Köln)",
-        "category": "",
-        "description": "Mit guten Drinks & netten Leuten lernst du hier eine neue Art der Kunst kennen🎨 Maybe dein neues Lieblingshobby?👀",
-        "link": "https://rausgegangen.de/en/events/22102025-drinkpaint-koln-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6jxR4LS8JI78ZMY1XnwS_drink.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Wed, 22.10.2025",
-        "time": "19:00",
-        "event": "FUN! - Open Mic @goldfinger (@Goldfinger)",
-        "category": "",
-        "description": "🌅🌟 OPEN MIC im Goldfinger 🎤😄 Ein Abend voller Lacher & Drinks! 🍹>>> BEI GUTEM WETTER OPEN AIR <<<Jeden Mittwoch verwandelt sich das legendäre Goldfinger (Friesenstraße 54, Köln) in die Bühne für Stand-up-Comedy in ihrer reinsten Form. Newcomer testen ihre ersten Gags, erfahrene Comedians probieren brandneue Nummern – nichts ist vorbereitet, alles kann passieren.Durch den Abend führt Denno Makadassopoulos 🎤👉 Was dich erwartet: Ein bunter Mix aus frischen Talenten & bekannten Gesichtern der  Comedy-SzeneÜberraschendes Line-up – jede Woche anders, immer einzigartigJeden Mittwoch ein neues Special-Getränk im GoldfingerKomm vorbei, gönn dir ein Getränk, und lach mit uns – wenn Comedians ihre besten und wildesten Ideen direkt vor Publikum ausprobieren.🌍 Du willst selber auftreten? Schreibe da gerne unserem Booker Denno Makadassopoulos auf Instagram (@denno_maka) und wir finden den perfekten Spot für dich! 📍 Goldfinger Bar – Mitten in Köln Nur 3 Minuten vom Friesenplatz, easy erreichbar mit den Linien 3, 4, 5, 12 und 15 🚋.",
-        "link": "https://rausgegangen.de/en/events/fun-open-mic-goldfinger-26/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/e4EwQC1BTe22IgcaM7WL_open-mic-friesengarten-tv-format.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Wed, 22.10.2025",
-        "time": "19:00",
-        "event": "LAWN CHAIR + GLOIN (@Bumann & SOHN)",
-        "category": "",
-        "description": "popanz LAWN CHAIR (Berlin) special guest: GLOIN (Toronto CAN) Mittwoch, 22. Oktober 2025 Bumann & Sohn, Köln Einlass 19:00, Beginn 20:00  Lawn Chair veröffentlichten zwei EPs in Zusammenarbeit mit den Produzenten Olaf Opal (The Notwist, International Music) und Chris Coady (Beach House, Yeah Yeah Yeahs), spielten ihre eigene UK Tour, Toursupport für Sleaford Mods und Festivals von Immergut bis Fusion. Im Herbst 2025 erscheint nun das lange erwartete Debütalbum: YOU WANT IT! YOU GOT IT! verhandelt das Leben im Spätkapitalismus, gefangen zwischen Handysucht und toxischer Männlichkeit, zwischen der Sehnsucht nach Erfolg und innerer Ruhe, immer begleitet von den unausweichlichen Prägungen der eigenen Herkunft. Das alles verpackt die Band um Sängerin und Frontfrau Claudia Schlutius in einen fesselnden Genremix aus Post-Punkigen Hallarien, kompromisslos trockenen Gitarrenriffs, poppigen Basslines und treibenden Synthesizern, von Produzent Olaf Opal stilsicher in Szene gesetzt. Inspiriert von stilprägenden Bands wie DEVO, Broadcast und Beck ist YOU WANT IT! YOU GOT IT! eine packende Auseinandersetzung mit den Widersprüchen des modernen Lebens. https://lawnchairband.com/  Gloin is a four-piece noise rock group from Toronto, Canada, known for their cathartic live sets and eclectic songwriting. https://gloinxo.bandcamp.com/music",
-        "link": "https://rausgegangen.de/en/events/lawn-chair-gloin-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OKqqQEhsRoiKmDh0MF2Z_lawnchairheader.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Wed, 22.10.2025",
-        "time": "19:00",
-        "event": "Quiz Night im H26 (@H26)",
-        "category": "",
-        "description": "Im H26 gibt’s sechs Runden mit cleveren Fragen, coole Preise und beste Stimmung – live, analog und richtig spaßig!",
-        "link": "https://rausgegangen.de/en/events/quiz-night-im-h26-7/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TMMtTOKTQDSRSfTzJKZ2_quiznightlogo01.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Wed, 22.10.2025",
-        "time": "19:30",
-        "event": "It`s my MUSICAL (@Volksbühne am Rudolfplatz)",
-        "category": "",
-        "description": "Musik, Comedy und richtig viel los auf der Bühne!  Bereits im achten Jahr bringt das Ensemble PREMIERENFABRIK auch in 2025 das Flair einer Broadway Show in die Volksbühne am Rudolfplatz nach Köln.  Das magische Element, das jeden Abend erneut für Staunen sorgt: Alles ist komplett frei improvisiert. Die Story, die Choreografie, sogar die Songs.  Das 10köpfige Ensemble der PREMIERENFABRIK bringt also Abend für Abend Weltpremieren auf die Bühne. Die mitreißenden Comedy-Musicals entstehen mit den Ideen aus dem Publikum, so dass jeder Gast sagen kann: It’s MY Musical.Wer`s nicht glaubt, kommt zwei Mal!",
-        "link": "https://rausgegangen.de/en/events/its-my-musical-45/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/V0l5N8kDTQixEbwzRIOI_premierenfabrik-8938.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Wed, 22.10.2025",
-        "time": "20:00",
-        "event": "BASHT. (@MTC - LIVE❌MUSIC❌CLUB)",
-        "category": "",
-        "description": "Das irische Musikmagazin Hot Press bezeichnete Basht. als eine der „aufregendsten jungen Rockbands, die seit Äonen in Irland entstanden ist“. Mit ihrem vielseitigen Sound, der moderne Rockmusik mit Post-Punk-Einflüssen mischt, konnte die Band seit ihrer Gründung 2022 bereits im Vorprogramm von Wunderhorse, bdrmmm, Deadletter und Been Stellar überzeugen und machte längst den Schritt hin zu ersten Headline-Touren. Nach einer Performance auf dem Great Escape Festival in Brighton veröffentlichten Basht. nun ihre zweite EP „Bitter and Twisted“, die von Clash als „Mix aus frischem Denken und Erfahrung“ beschrieben wurde. Auf ihrer kommenden Bitter and Twisted EU Tour kommt die Band aus Irland Ende Oktober 2025 nach Berlin und Köln.    Basht. gründeten sich 2022 aus den fünf Musikern Jack (Gesang), Louis (Bass), Luke (Schlagzeug), Rossa und Sam (Gitarre), die von Beginn an gemeinsam an ihrer Musik schrieben und damit einen vielseitigen Mix an Einflüssen miteinander vereinten. 2022 erschien die Debütsingle „Never Love.“, eine Liveversion des Songs „456.“ sowie die Single „Tomorrow.“, die bereits auf die Vielfalt innerhalb der Musik von Basht. deuteten. Nach der Single „Gone Girl“ im Februar 2024 veröffentlichte die Band im März des Jahres ihre Debüt-EP „Dirty White Lies“, die von Give It A Spin als eine der besten EPs des Jahres beschrieben wurde. 2025 meldeten Basht. – mittlerweile nur noch aus vier Mitgliedern bestehend – mit den Singles „Vain“, „Stockholm“ und „Burn“ zurück, die einen Vorgeschmack auf ihre zweite EP „Bitter and Twisted“ gaben. Die EP erschien Anfang Mai mit zwei weiteren Tracks und wurde über LAB Records veröffentlicht. Mit ihrem rockigen Post-Punk-Sound greift die Band noch immer Einflüsse aus Garage, Alternative, Grunge und Indie auf und macht auch vor Britpop-Einflüssen keinen Halt. Auch wenn Basht. gewissermaßen noch am Anfang ihrer Karriere stehen, erkennen Kritiker, Presse und Musikindustrie bereits früh das große Potenzial der irischen Band, der 2025 zweifelsfrei ihr bisher größtes Jahr bevorsteht. Anschließend an den Release der EP tourte die Band durch Großbritannien auf dem ersten Teil ihrer Bitter and Twisted Tour, die sie im Herbst 2025 auch auf das europäische Festland und erstmalig nach Deutschland bringen wird. - Bitter and Twisted EU Tour",
-        "link": "https://rausgegangen.de/en/events/basht-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/ayof41kt2tes.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Wed, 22.10.2025",
-        "time": "20:00",
-        "event": "Comedy Frischgezapft (@Kölschbar)",
-        "category": "",
-        "description": "Guter Humor & frischgezapftes Kölsch- sounds like a plan!🙂‍↕️🍻",
-        "link": "https://rausgegangen.de/en/events/comedy-frischgezapft-26/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OKw1rtOiRAurZJW8PKxS_photo-output.JPEG?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Wed, 22.10.2025",
-        "time": "20:00",
-        "event": "Echtzeit Comedy - Open Mic + Bingo (@Echtzeit Grill & Thrill)",
-        "category": "",
-        "description": "Echtzeit Comedy - Open Mic + BingoJeden Mittwoch um 20.00 Uhr erwartet euch \"Echtzeit Comedy - Open Mic + Bingo\".Bei diesem Open Mic erlebt ihr nicht nur Newcomer bei ihren ersten Schritten auf der Bühne und Profis, die neues Material testen, auch zwischen den Acts bleibt es spannend, denn es wird gratis Bingo gespielt. Unsere erfahrenen Hosts führen dabei nicht nur gekonnt durch den Abend, es werden nach jedem Comedian ein paar Zahlen gezogen und im Laufe des Abends heißt es garantiert zwei Mal: „BINGO!“ Seid also live dabei, lacht und staubt mit ein bisschen Glück zum Beispiel nützliche Tools für eure Bude ab.Köstliches BBQ wird serviert:Vertrauen Sie auf unser erfahrenes Einlass-Team, das Sie zu Beginn an Ihren Platz führt. Über einen QR-Code diesen können Sie mit ihrem Smartphone Speisen und Getränke ordern. Wir servieren unser köstliches BBQ: Von zarten Steaks, Smashburger, Spare-Ribs bis zum vegetarischen Beyond-Meat-Burger ist für jeden Geschmack etwas dabei.Unsere Gäste platzieren wir der Reihe nach. Für die besten Plätze und Gruppen empfehlen wir daher, möglichst früh zu erscheinen. Unser Einlass startet ab 18 Uhr.Wir freuen uns auf euren Besuch!Euer Echtzeit",
-        "link": "https://rausgegangen.de/en/events/echtzeit-comedy-open-mic-bingo-49/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eBtG3yQCRTc9iuekvQa7_open-mic-bingo.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Wed, 22.10.2025",
-        "time": "20:00",
-        "event": "fiora - und dann gehst du heim tour 2025 (@Club Subway)",
-        "category": "",
-        "description": "fiora macht ihre erste eigene Tour – und wer sie schon mal live gesehen hat, weiß: Hier geht es um mehr als nur Musik, es geht um ein Gefühl, das bleibt. 💗",
-        "link": "https://rausgegangen.de/en/events/fiora-und-dann-gehst-du-heim-tour-2025-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LGI599nKTfO9JgC3OvLd_tourplakat-foto.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Wed, 22.10.2025",
-        "time": "20:00",
-        "event": "Modern Love Köln - 80s-Frühparty // New Wave, Synth & Pop mit eavo im Tsunami Club (@Tsunami Club)",
-        "category": "",
-        "description": "🪩 Bei der Frühparty (20:00-23:00) erwarten euch 80s-Smasher aus Synth, New Wave, Italo und Pop, aber natürlich auch der ein oder andere Geheimtipp.🎉 Außerdem: Findet ihr die immergleichen Hits und Reihenfolgen auch langweilig? Dann freut euch bei der Modern Love auf Abwechslung, Song-Überraschungen und viele eurer Musikwünsche, schön im Flow aufgelegt und mit passenden Übergängen.😻 Ach so, mein Name ist eavo. Ich bin schon seit vielen Jahren in den schönsten Clubs in ganz Deutschland unterwegs.  Ein Gast hat mich “eine DJ–gewordene Symbiose aus Nerd und Partymaschine“ genannt. Ob das stimmt? Mir hat's jedenfalls gefallen und eigentlich beschreibt es auch ganz gut, wen ich mit meinen Partys am liebsten erreiche.💃🏼 Wenn ihr mitmacht, wird's ne überragende Party, klebriger Fußboden und durchtanzte Schuhe inklusive.Kommt vorbei! Jeden vierten Mittwoch im Monat. Der Eintritt beträgt schlappe 4€.Modern Love klingt wie: A Flock of Seagulls – a-ha – ABC – Alphaville – The B-52’s – The Bangles – Pat Benatar – Berlin – Blondie – B-Movie – Boytronic – Bronski Beat – David Bowie – Kate Bush – Camouflage – Anne Clark – The Communards – Culture Club – The Cure – Dead or Alive – Depeche Mode – Desireless – Duran Duran – Erasure – Eurythmics – Harold Faltermeyer – Falco – Frankie Goes To Hollywood – Freeez – Grauzone – Heaven 17 – Don Henley – Billy Idol – Howard Jones – The Housemartins – The Human League – Ideal – Indochine – INXS – Japan –Joy Division – Nik Kershaw – Cyndi Lauper – Les Immer Essen – Level 42 – Les Rita Mitsouko – Madness – Madonna – Men At Work – Men Without Hats – Miami Sound Machine - Midnight Oil – New Order – OMD – Ryan Paris – Pet Shop Boys – Pixies – Queen – Rainbirds – Righeira – Real Life – Rheingold – Les Rita Mitsouko – Michael Sembello – Simple Minds – Siouxsie And The Banshees – The Smiths – Soft Cell – Spandau Ballet – Talk Talk – Talking Heads – Tears for Fears – Trans X – U2 – Ultravox – Visage – Kim Wilde – Yazoo – YelloMehr Infos inkl. Spotify-Listen auf www.eavo.de/modernlove/ www.facebook.com/neinmaschine www.instagram.com/__eavo__",
-        "link": "https://rausgegangen.de/en/events/modern-love-koln-80s-fruhparty-new-wave-synth-pop-mit-eavo-i-14/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zMpPsBnnRjGvgPfevxB8_80sfruhparty.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Wed, 22.10.2025",
-        "time": "20:00",
-        "event": "Young Talents: Gesangsensemble Romy Camerun (@King Georg)",
-        "category": "",
-        "description": "Catalina Isidora (Vocals), Lilly Gocht (Vocals), Sophia Hufschmidt (Vocals), Jacob Fuhrmann (Vocals), Leo Richartz (Piano), Jasper Edeler (Gitarre), Alex Rosendahl (Bass), Marcus Buschmann (Drums), Leitung: Romy CamerunDie Vocal Combo der Jazzabteilung der Folkwang Hochschule spielt von swingenden Jazz „Whisper Not „ von Benny Golson zu Latin Jazz „ Spain“ von Chick Corea. Die drei Sängerinnen und der Sänger kommen zu einigen Stücken zum Gesangsquartett zusammen, das begleitet vom Jazzquartett vierstimmige Sätze zu Gehör bringt.Freude an der Improvisation und exzellenter Gesang machen diese Besetzung aus und versprechen einen abwechslungsreichen, intensiven Abend.",
-        "link": "https://rausgegangen.de/en/events/young-talents-gesangsensemble-romy-camerun-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/JiNLTDcsT7qRVkJ7zMQe_screenshot-2025-08-19-125203.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Wed, 22.10.2025",
-        "time": "23:00",
-        "event": "Beats x Bass x Cologne CLOSING 2025 w/ TAUSENDNAMEN KOLLEKTIV #MittWochenende (@Odonien)",
-        "category": "",
-        "description": "Elektronisch, roh und unter freiem Himmel in Odonien. Jede Woche andere Sounds – von Techno bis Drum’n’Bass – zwischen Stahl, Licht und Bass.",
-        "link": "https://rausgegangen.de/en/events/beats-x-bass-x-cologne-mittwochenende-46/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vdlEjX9Symqt6vWE0GTy_mwe221025header02-min.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
     },
     {
         "date": "Wed, 22.10.2025",
@@ -806,13 +656,143 @@
     },
     {
         "date": "Wed, 22.10.2025",
-        "time": "20:00",
-        "event": "Standup Comedy Show Hafenbahnhof Altona (@Hafenbahnhof)",
+        "time": "09:30",
+        "event": "Yoga für Menschen mit Mehrgewicht (@Raum für Resonanz)",
         "category": "",
-        "description": "Katta Standup Comedy Open Mic im Hafenbahnhof Altona Katta Comedy begrüßt euch zur neuen Comedy Show im Hafenbahnhof Altona an der Wasserkante der Elbe.   8 Comedians bringen euch zum Lachen In uriger Atmosphäre testen 8 Standup Comedians im Open Mic Format eure Lachmuskeln. Erfahrene Comedians feilen an ihrem Bühnenprogramm und testen neue Jokes. Newcomer sammeln erste oder weitere Bühnenerfahrung. Alle haben natürlich ein Ziel: Dass ihr einen super lustigen Abend habt.  Event-Location Ihr erreicht den Hafenbahnhof zu Fuß vom Bahnhof Altona aus in knapp 15 Minuten oder aber mit dem 111 oder 113 Bus in rund 5 Minuten. Eintritt ab 18 Jahren.",
-        "link": "https://rausgegangen.de/en/events/standup-comedy-show-hafenbahnhof-altona-15/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/37MLCTuBSxKrK4xYG7Hj_istock-942752254-15-4.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
+        "description": "Yoga für Menschen mit Mehrgewicht by Tara Onlyyou Cologne & CarinaWir wollen die Sicht auf Yoga verändern, Yoga ist nicht nur dünn sein Yoga ist viel mehr als das !  🩷 💛  Beschreibung unserer Klassen:Diese Yoga Klasse ist speziell für Menschen mit Mehrgewicht konzipiert, die in einem sicheren, wertschätzenden Raum praktizieren möchten. Wir legen den Fokus auf achtsame Bewegung, sanften Muskelaufbau, Atemübungen und Körperwahrnehmung ganz ohne Leistungsdruck.In dieser Stunde geht es nicht um „die perfekte Pose“, sondern darum, deinen Körper zu stärken, zu entspannen und dich mit dir selbst wohlzufühlen. Hilfsmittel wie Blöcke, Gurte und Bolster unterstützen dich dabei, jede Übung individuell an deine Bedürfnisse anzupassen.Für wen geeignet? Für alle Menschen mit Mehrgewicht egal ob Anfänger:in oder Wiedereinsteiger:in. Keine Vorerfahrung nötig.Du darfst dich auf Folgendes freuen:🩷Dein eigenes Tempo und klare Anleitungen💚Ein unterstützendes Umfeld ohne Bewertung💛Sanfte, aber wirkungsvolle Bewegungen💜Atemübungen und EntspannungstechnikenKomm, wie du bist und finde in deinem eigenem Tempo zu mehr Beweglichkeit, Kraft und innerer Ruhe.FLINTA* ONLY 🩵Wir sehen uns ab Oktober auf der Matte 🩷Tara&Carry 💛ALLE WICHTIGEN INFOS FINDEST DU AUCH AUF UNSERER WEBSEITE: www.onlyyoucologne.de",
+        "link": "https://rausgegangen.de/en/events/yoga-fur-menschen-mit-mehrgewicht-55/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/v8ofTKWiTTeYdgsIzxvh_img2090.jpeg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Wed, 22.10.2025",
+        "time": "15:00",
+        "event": "MMC Studioführung - TV Backstage Tour (@MMC Studios)",
+        "category": "",
+        "description": "Die MMC Film & TV Studios Cologne – Heimat von Shows wie DSDS, Ninja Warrior, Unter Uns und vielen mehr. Hier wird Film & Fernsehen gemacht!In dieser 90-minütigen Führung über eines der größten Studiogelände Europas erfahren Sie unter anderem, wie ein Studio- oder Serienset ausgestattet ist, wie Green-Screen-Aufnahmen gemacht werden oder wie viele Mitarbeiter nötig sind, um eine TV-Produktion zu verwirklichen.Je nach Verfügbarkeit besichtigen SieFilm- & TV-StudiosRegieräumeGreen-Screen-Studio – hier können Sie auch selber aktiv werden!Verschiedene Setbauten und AußenkulissenMaskenraumSie sehen eine kurze Video-gestützte Einführung über den Einsatz von Visual Effects (VFX) bei Fernsehserien und FilmenZum Abschluss sind Sie eingeladen vor der Presse-Fotowand Ihr persönliches Erinnerungsfoto zu schießen Mehr Informationen finden Sie auf der Buchungsseite.Auch als Geschenkgutschein verfügbar.MMC Verhaltensregeln",
+        "link": "https://rausgegangen.de/en/events/mmc-studiofuhrung-tv-backstage-tour-348/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BPVXnXlTSTmL4LCsjntb_mmc-studiotour.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Wed, 22.10.2025",
+        "time": "18:00",
+        "event": "Kölner Bier Bachelor (@PÄFF)",
+        "category": "",
+        "description": "10 Bars. 10 #porst. 10 Stempel. 1 Abschluss. Der Kölner Bier Bachelor Leute, es geht erstmals los – der legändere Studiengang startet in Köln! Schnappt euch eure Mitbewohner, Studienkollegen oder einfach eure Lieblingsgang und genießt einen Abend mit (neuen) Freunden in der Kneipenkultur eurer Stadt!Beim Bier Bachelor geht’s nicht nur ums Trinken, sondern auch ums Erleben. Das Event verbindet Kneipenkultur, Gemeinschaft und eine Prise Wahnsinn – ideal für neue Bekanntschaften, WG-Abende mit Plan oder einfach mal wieder ein unvergesslicher Abend im Semester.#prost***  SCROLL DOWN FOR ENGLISH VERSION (if you’re Erasmus & thirsty) ***   Wie läuft das Ganze ab? --------------------------------------  In jeder Bar mindestens ein Getränk eurer Wahl trinken (alkoholfrei = auch cool).  Für jeden Drink gibt’s einen Stempel aufs offizielle „Bachelor-Zeugnis“.  Innerhalb von 5 Stunden alle Stempel sammeln = Prüfung fast abgeschlossen.  Ab zur Abschlusslocation, eine kreative Prüfung ablegen und euren Abschluss feiern. Easy, oder?   START -------------------------------------- Los geht’s in Köln, am 22.10.2025 – findet euch pünktlich zur Zeit auf eurem Ticket am Startpunkt ein. Es wird im 15-Minuten-Takt zwischen 18:00 und 20:00 Uhr gestartet.Am Start:  Gestartet wird an bzw. in der gebuchten Startlocation (abhängig von der Endlocation)  Ihr bekommt eure \"Bier Bachelor\"-Bändchen und  eure „Bier Bachelor“-Zeugnis mit den Stempelfeldern und  den City-& Locationguide   GETRÄNKE-DEALS -------------------------------------- Wir haben für euch mit allen Bars Specials klargemacht – fast alles (Bier, Radler, Shots, Alkfrei-Zeug etc.) für max. 2,50 Euro. Ihr dürft natürlich auch fancy Drinks wählen – Hauptsache, ein Getränk = ein Stempel!   STEMPEL & TEILNEHMENDE LOCATIONS -------------------------------------- Für jedes erste Getränk gibt es in der teilnehmenden Location 1 Stempel    ABSCHLUSSLOCATION & PRÜFUNG -------------------------------------- In der gebuchten Endlocation wartet die große Abschlussprüfung auf euch. Keine Sorge, das ist kein Mathetest:Seid kreativ! Ob Bierchen-Gedicht, kurzer Song, Mini-Performance oder Gruppenspaß – alles ist erlaubt! Zwei „Profs“ (aka unsere Jury) geben dir die Note – je wilder, desto besser.Danach: den Erfolg gebührend feiern! Endlocation(s): Päff   DIE ABSCHLÜSSE --------------------------------------  Bier Bachelor: 10 Drinks, 10 Bars, 5 Stunden   WANN? -------------------------------------- 22.10.2025 ab 18:00 Uhr   WO? -------------------------------------- Köln, Start: Der schwarze Hase (Ehrenfeld) End: Päff (Belgisches Viertel)   LOCATIONS -------------------------------------- Der schwarze Hase Franky's Bar No.6 The Beast Päff Pier 124 Red Fox Bar Cologne The Bär Umleitung Woodies Saloon Zum scheuen Reh ZUR GOLDENEN NACHT   TICKETS -------------------------------------- - Vorverkauf: ab 7 EURO (inkl. VVK-Gebühr) - Abendkasse: 10,00 € Tickets & Infos: www.bierbachelor.com/tickets   EXTRAS -------------------------------------- - Jutebeutel (mit kleinen Gadgets) im VVK für 5 € – an der Abendkasse 1 € mehr - Zeugnis nach Hause schicken lassen? Kein Ding! Einfach vorher anmelden. - Bock auf Shirts mit unserem Promille Monster oder dem Drinking Animal?   FOTOS -------------------------------------- Unsere Leute sind mit Kameras unterwegs – lächeln oder Bierchen hochhalten, beides geht. Die Pics findet ihr später auf: www.bierbachelor.com/fotos-------------------------------------- Lust auf Kneipenkultur, Gemeinschaft und ein bisschen Wahnsinn? Dann hol dir dein Ticket – wir sehen uns beim Bier Bachelor!#prost  MEHR INFOS ------------------------------------ www.bierbachelor.com www.facebook.com/bierbachelor.original www.instagram.com/bierbachelor  ***  ENGLISH VERSION *** 10 bars. 10 #porst. 10 stamps. 1 degree. The Kölner Bier Bachelor Guys, here we go again - the legendary course in Köln is starting the next semester! Grab your flatmates, fellow students or simply your favorite gang and enjoy an evening with (new) friends in the pub culture of your city!The Bier Bachelor is not just about drinking, but also about experiencing. The event combines pub culture, community and a pinch of madness - ideal for new acquaintances, flat-share evenings with a plan or simply an unforgettable evening during the semester. #prost***  SCROLL UP FOR GERMAN VERSION (if you’re local & thirsty) ***   How does the whole thing work? --------------------------------------  Drink at least one drink of your choice in each bar (non-alcoholic = also cool). For each drink you get a stamp on your official “Bachelor certificate”. Collect all stamps within 5 hours = exam almost completed. Off to the graduation location, take a creative exam and celebrate your graduation. Easy, right?   START -------------------------------------- The event starts in Köln, on 22.10.2025 - arrive at the starting point at the time on your ticket. It will start every 15 minutes between 18:00 and 20:00.At the start:  The start is at or in the booked startlocation (depeneds on the booked endlocation) You will receive your \"Bier Bachelor\" wristbands and your \"Bier Bachelor” certificate with the stamp fields and the city & location guide   DRINK DEALS -------------------------------------- We have arranged specials for you with all the bars - almost everything (beer, shandy, shots, alcohol-free stuff etc.) for a maximum of 2,50 Euro. Of course you can also choose fancy drinks - the main thing is that one drink = one stamp!   STAMPS & PARTICIPATING LOCATIONS -------------------------------------- For every first drink you will get 1 stamp in the partipicating location   ENDLOCATION & EXAM -------------------------------------- The big final exam awaits you at the booked final location. Don't worry, it's not a math test:Be creative! Whether it's a beer poem, short song, mini-performance or group fun - anything goes! Two “profs” (aka our jury) will give you the grade - the wilder, the better.Afterwards: celebrate your success in style! Endlocation(s): Päff   THE DEGREES --------------------------------------  Bier Bachelor: 10 Drinks, 10 Bars, 5 hours   WHEN? -------------------------------------- 22.10.2025 FROM 6:00 PM   WHERE? -------------------------------------- Köln, Start: Der schwarze Hase (Ehrenfeld) End: Päff (Belgisches Viertel)   LOCATIONS -------------------------------------- Der schwarze Hase Franky's Bar No.6 The Beast Päff Pier 124 Red Fox Bar Cologne The Bär Umleitung Woodies Saloon Zum scheuen Reh ZUR GOLDENEN NACHT   TICKETS -------------------------------------- - Online Ticketing: ab 7 EURO (including ticket-fee) - Box office: 10,00 € Tickets & Infos: www.bierbachelor.com/EN/tickets   EXTRAS -------------------------------------- - Jute bag (with small gadgets) in advance for €5 - €1 more at the box office - Have your certificate sent home? No problem! Just register in advance online. - Fancy shirts with our Promille Monster or the Drinking Animal?   PHOTOS -------------------------------------- Our people are out and about with cameras - smiling or holding up a beer, both are possible. You'll find the pics later at: www.bierbachelor.com/fotos-------------------------------------- Fancy pub culture, community and a bit of madness? Then get your ticket - see you at the Bier Bachelor!#prost  MORE INFORMATION -------------------------------------- www.bierbachelor.com www.facebook.com/bierbachelor.original www.instagram.com/bierbachelor",
+        "link": "https://rausgegangen.de/en/events/kolner-bier-bachelor-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jjPtHl27SK1Rrt5mhI5Z_54792526311768674944643554248845309501571366n.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Wed, 22.10.2025",
+        "time": "18:30",
+        "event": "22.10.2025 - drink&paint - Köln (@Yuicery Köln)",
+        "category": "",
+        "description": "Mit guten Drinks & netten Leuten lernst du hier eine neue Art der Kunst kennen🎨 Maybe dein neues Lieblingshobby?👀",
+        "link": "https://rausgegangen.de/en/events/22102025-drinkpaint-koln-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6jxR4LS8JI78ZMY1XnwS_drink.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Wed, 22.10.2025",
+        "time": "19:00",
+        "event": "FUN! - Open Mic @goldfinger (@Goldfinger)",
+        "category": "",
+        "description": "🌅🌟 OPEN MIC im Goldfinger 🎤😄 Ein Abend voller Lacher & Drinks! 🍹>>> BEI GUTEM WETTER OPEN AIR <<<Jeden Mittwoch verwandelt sich das legendäre Goldfinger (Friesenstraße 54, Köln) in die Bühne für Stand-up-Comedy in ihrer reinsten Form. Newcomer testen ihre ersten Gags, erfahrene Comedians probieren brandneue Nummern – nichts ist vorbereitet, alles kann passieren.Durch den Abend führt Denno Makadassopoulos 🎤👉 Was dich erwartet: Ein bunter Mix aus frischen Talenten & bekannten Gesichtern der  Comedy-SzeneÜberraschendes Line-up – jede Woche anders, immer einzigartigJeden Mittwoch ein neues Special-Getränk im GoldfingerKomm vorbei, gönn dir ein Getränk, und lach mit uns – wenn Comedians ihre besten und wildesten Ideen direkt vor Publikum ausprobieren.🌍 Du willst selber auftreten? Schreibe da gerne unserem Booker Denno Makadassopoulos auf Instagram (@denno_maka) und wir finden den perfekten Spot für dich! 📍 Goldfinger Bar – Mitten in Köln Nur 3 Minuten vom Friesenplatz, easy erreichbar mit den Linien 3, 4, 5, 12 und 15 🚋.",
+        "link": "https://rausgegangen.de/en/events/fun-open-mic-goldfinger-26/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/e4EwQC1BTe22IgcaM7WL_open-mic-friesengarten-tv-format.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Wed, 22.10.2025",
+        "time": "19:00",
+        "event": "LAWN CHAIR + GLOIN (@Bumann & SOHN)",
+        "category": "",
+        "description": "popanz LAWN CHAIR (Berlin) special guest: GLOIN (Toronto CAN) Mittwoch, 22. Oktober 2025 Bumann & Sohn, Köln Einlass 19:00, Beginn 20:00  Lawn Chair veröffentlichten zwei EPs in Zusammenarbeit mit den Produzenten Olaf Opal (The Notwist, International Music) und Chris Coady (Beach House, Yeah Yeah Yeahs), spielten ihre eigene UK Tour, Toursupport für Sleaford Mods und Festivals von Immergut bis Fusion. Im Herbst 2025 erscheint nun das lange erwartete Debütalbum: YOU WANT IT! YOU GOT IT! verhandelt das Leben im Spätkapitalismus, gefangen zwischen Handysucht und toxischer Männlichkeit, zwischen der Sehnsucht nach Erfolg und innerer Ruhe, immer begleitet von den unausweichlichen Prägungen der eigenen Herkunft. Das alles verpackt die Band um Sängerin und Frontfrau Claudia Schlutius in einen fesselnden Genremix aus Post-Punkigen Hallarien, kompromisslos trockenen Gitarrenriffs, poppigen Basslines und treibenden Synthesizern, von Produzent Olaf Opal stilsicher in Szene gesetzt. Inspiriert von stilprägenden Bands wie DEVO, Broadcast und Beck ist YOU WANT IT! YOU GOT IT! eine packende Auseinandersetzung mit den Widersprüchen des modernen Lebens. https://lawnchairband.com/  Gloin is a four-piece noise rock group from Toronto, Canada, known for their cathartic live sets and eclectic songwriting. https://gloinxo.bandcamp.com/music",
+        "link": "https://rausgegangen.de/en/events/lawn-chair-gloin-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OKqqQEhsRoiKmDh0MF2Z_lawnchairheader.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Wed, 22.10.2025",
+        "time": "19:30",
+        "event": "It`s my MUSICAL (@Volksbühne am Rudolfplatz)",
+        "category": "",
+        "description": "Musik, Comedy und richtig viel los auf der Bühne!  Bereits im achten Jahr bringt das Ensemble PREMIERENFABRIK auch in 2025 das Flair einer Broadway Show in die Volksbühne am Rudolfplatz nach Köln.  Das magische Element, das jeden Abend erneut für Staunen sorgt: Alles ist komplett frei improvisiert. Die Story, die Choreografie, sogar die Songs.  Das 10köpfige Ensemble der PREMIERENFABRIK bringt also Abend für Abend Weltpremieren auf die Bühne. Die mitreißenden Comedy-Musicals entstehen mit den Ideen aus dem Publikum, so dass jeder Gast sagen kann: It’s MY Musical.Wer`s nicht glaubt, kommt zwei Mal!",
+        "link": "https://rausgegangen.de/en/events/its-my-musical-45/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/V0l5N8kDTQixEbwzRIOI_premierenfabrik-8938.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Wed, 22.10.2025",
+        "time": "20:00",
+        "event": "BASHT. (@MTC - LIVE❌MUSIC❌CLUB)",
+        "category": "",
+        "description": "Das irische Musikmagazin Hot Press bezeichnete Basht. als eine der „aufregendsten jungen Rockbands, die seit Äonen in Irland entstanden ist“. Mit ihrem vielseitigen Sound, der moderne Rockmusik mit Post-Punk-Einflüssen mischt, konnte die Band seit ihrer Gründung 2022 bereits im Vorprogramm von Wunderhorse, bdrmmm, Deadletter und Been Stellar überzeugen und machte längst den Schritt hin zu ersten Headline-Touren. Nach einer Performance auf dem Great Escape Festival in Brighton veröffentlichten Basht. nun ihre zweite EP „Bitter and Twisted“, die von Clash als „Mix aus frischem Denken und Erfahrung“ beschrieben wurde. Auf ihrer kommenden Bitter and Twisted EU Tour kommt die Band aus Irland Ende Oktober 2025 nach Berlin und Köln.    Basht. gründeten sich 2022 aus den fünf Musikern Jack (Gesang), Louis (Bass), Luke (Schlagzeug), Rossa und Sam (Gitarre), die von Beginn an gemeinsam an ihrer Musik schrieben und damit einen vielseitigen Mix an Einflüssen miteinander vereinten. 2022 erschien die Debütsingle „Never Love.“, eine Liveversion des Songs „456.“ sowie die Single „Tomorrow.“, die bereits auf die Vielfalt innerhalb der Musik von Basht. deuteten. Nach der Single „Gone Girl“ im Februar 2024 veröffentlichte die Band im März des Jahres ihre Debüt-EP „Dirty White Lies“, die von Give It A Spin als eine der besten EPs des Jahres beschrieben wurde. 2025 meldeten Basht. – mittlerweile nur noch aus vier Mitgliedern bestehend – mit den Singles „Vain“, „Stockholm“ und „Burn“ zurück, die einen Vorgeschmack auf ihre zweite EP „Bitter and Twisted“ gaben. Die EP erschien Anfang Mai mit zwei weiteren Tracks und wurde über LAB Records veröffentlicht. Mit ihrem rockigen Post-Punk-Sound greift die Band noch immer Einflüsse aus Garage, Alternative, Grunge und Indie auf und macht auch vor Britpop-Einflüssen keinen Halt. Auch wenn Basht. gewissermaßen noch am Anfang ihrer Karriere stehen, erkennen Kritiker, Presse und Musikindustrie bereits früh das große Potenzial der irischen Band, der 2025 zweifelsfrei ihr bisher größtes Jahr bevorsteht. Anschließend an den Release der EP tourte die Band durch Großbritannien auf dem ersten Teil ihrer Bitter and Twisted Tour, die sie im Herbst 2025 auch auf das europäische Festland und erstmalig nach Deutschland bringen wird. - Bitter and Twisted EU Tour",
+        "link": "https://rausgegangen.de/en/events/basht-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/ayof41kt2tes.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Wed, 22.10.2025",
+        "time": "20:00",
+        "event": "Comedy Frischgezapft (@Kölschbar)",
+        "category": "",
+        "description": "Guter Humor & frischgezapftes Kölsch- sounds like a plan!🙂‍↕️🍻",
+        "link": "https://rausgegangen.de/en/events/comedy-frischgezapft-26/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OKw1rtOiRAurZJW8PKxS_photo-output.JPEG?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Wed, 22.10.2025",
+        "time": "20:00",
+        "event": "Echtzeit Comedy - Open Mic + Bingo (@Echtzeit Grill & Thrill)",
+        "category": "",
+        "description": "Echtzeit Comedy - Open Mic + BingoJeden Mittwoch um 20.00 Uhr erwartet euch \"Echtzeit Comedy - Open Mic + Bingo\".Bei diesem Open Mic erlebt ihr nicht nur Newcomer bei ihren ersten Schritten auf der Bühne und Profis, die neues Material testen, auch zwischen den Acts bleibt es spannend, denn es wird gratis Bingo gespielt. Unsere erfahrenen Hosts führen dabei nicht nur gekonnt durch den Abend, es werden nach jedem Comedian ein paar Zahlen gezogen und im Laufe des Abends heißt es garantiert zwei Mal: „BINGO!“ Seid also live dabei, lacht und staubt mit ein bisschen Glück zum Beispiel nützliche Tools für eure Bude ab.Köstliches BBQ wird serviert:Vertrauen Sie auf unser erfahrenes Einlass-Team, das Sie zu Beginn an Ihren Platz führt. Über einen QR-Code diesen können Sie mit ihrem Smartphone Speisen und Getränke ordern. Wir servieren unser köstliches BBQ: Von zarten Steaks, Smashburger, Spare-Ribs bis zum vegetarischen Beyond-Meat-Burger ist für jeden Geschmack etwas dabei.Unsere Gäste platzieren wir der Reihe nach. Für die besten Plätze und Gruppen empfehlen wir daher, möglichst früh zu erscheinen. Unser Einlass startet ab 18 Uhr.Wir freuen uns auf euren Besuch!Euer Echtzeit",
+        "link": "https://rausgegangen.de/en/events/echtzeit-comedy-open-mic-bingo-49/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eBtG3yQCRTc9iuekvQa7_open-mic-bingo.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Wed, 22.10.2025",
+        "time": "20:00",
+        "event": "fiora - und dann gehst du heim tour 2025 (@Club Subway)",
+        "category": "",
+        "description": "fiora macht ihre erste eigene Tour – und wer sie schon mal live gesehen hat, weiß: Hier geht es um mehr als nur Musik, es geht um ein Gefühl, das bleibt. 💗",
+        "link": "https://rausgegangen.de/en/events/fiora-und-dann-gehst-du-heim-tour-2025-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LGI599nKTfO9JgC3OvLd_tourplakat-foto.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Wed, 22.10.2025",
+        "time": "20:00",
+        "event": "Modern Love Köln - 80s-Frühparty // New Wave, Synth & Pop mit eavo im Tsunami Club (@Tsunami Club)",
+        "category": "",
+        "description": "🪩 Bei der Frühparty (20:00-23:00) erwarten euch 80s-Smasher aus Synth, New Wave, Italo und Pop, aber natürlich auch der ein oder andere Geheimtipp.🎉 Außerdem: Findet ihr die immergleichen Hits und Reihenfolgen auch langweilig? Dann freut euch bei der Modern Love auf Abwechslung, Song-Überraschungen und viele eurer Musikwünsche, schön im Flow aufgelegt und mit passenden Übergängen.😻 Ach so, mein Name ist eavo. Ich bin schon seit vielen Jahren in den schönsten Clubs in ganz Deutschland unterwegs.  Ein Gast hat mich “eine DJ–gewordene Symbiose aus Nerd und Partymaschine“ genannt. Ob das stimmt? Mir hat's jedenfalls gefallen und eigentlich beschreibt es auch ganz gut, wen ich mit meinen Partys am liebsten erreiche.💃🏼 Wenn ihr mitmacht, wird's ne überragende Party, klebriger Fußboden und durchtanzte Schuhe inklusive.Kommt vorbei! Jeden vierten Mittwoch im Monat. Der Eintritt beträgt schlappe 4€.Modern Love klingt wie: A Flock of Seagulls – a-ha – ABC – Alphaville – The B-52’s – The Bangles – Pat Benatar – Berlin – Blondie – B-Movie – Boytronic – Bronski Beat – David Bowie – Kate Bush – Camouflage – Anne Clark – The Communards – Culture Club – The Cure – Dead or Alive – Depeche Mode – Desireless – Duran Duran – Erasure – Eurythmics – Harold Faltermeyer – Falco – Frankie Goes To Hollywood – Freeez – Grauzone – Heaven 17 – Don Henley – Billy Idol – Howard Jones – The Housemartins – The Human League – Ideal – Indochine – INXS – Japan –Joy Division – Nik Kershaw – Cyndi Lauper – Les Immer Essen – Level 42 – Les Rita Mitsouko – Madness – Madonna – Men At Work – Men Without Hats – Miami Sound Machine - Midnight Oil – New Order – OMD – Ryan Paris – Pet Shop Boys – Pixies – Queen – Rainbirds – Righeira – Real Life – Rheingold – Les Rita Mitsouko – Michael Sembello – Simple Minds – Siouxsie And The Banshees – The Smiths – Soft Cell – Spandau Ballet – Talk Talk – Talking Heads – Tears for Fears – Trans X – U2 – Ultravox – Visage – Kim Wilde – Yazoo – YelloMehr Infos inkl. Spotify-Listen auf www.eavo.de/modernlove/ www.facebook.com/neinmaschine www.instagram.com/__eavo__",
+        "link": "https://rausgegangen.de/en/events/modern-love-koln-80s-fruhparty-new-wave-synth-pop-mit-eavo-i-14/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zMpPsBnnRjGvgPfevxB8_80sfruhparty.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Wed, 22.10.2025",
+        "time": "20:00",
+        "event": "Young Talents: Gesangsensemble Romy Camerun (@King Georg)",
+        "category": "",
+        "description": "Catalina Isidora (Vocals), Lilly Gocht (Vocals), Sophia Hufschmidt (Vocals), Jacob Fuhrmann (Vocals), Leo Richartz (Piano), Jasper Edeler (Gitarre), Alex Rosendahl (Bass), Marcus Buschmann (Drums), Leitung: Romy CamerunDie Vocal Combo der Jazzabteilung der Folkwang Hochschule spielt von swingenden Jazz „Whisper Not „ von Benny Golson zu Latin Jazz „ Spain“ von Chick Corea. Die drei Sängerinnen und der Sänger kommen zu einigen Stücken zum Gesangsquartett zusammen, das begleitet vom Jazzquartett vierstimmige Sätze zu Gehör bringt.Freude an der Improvisation und exzellenter Gesang machen diese Besetzung aus und versprechen einen abwechslungsreichen, intensiven Abend.",
+        "link": "https://rausgegangen.de/en/events/young-talents-gesangsensemble-romy-camerun-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/JiNLTDcsT7qRVkJ7zMQe_screenshot-2025-08-19-125203.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Wed, 22.10.2025",
+        "time": "23:00",
+        "event": "Beats x Bass x Cologne CLOSING 2025 w/ TAUSENDNAMEN KOLLEKTIV #MittWochenende (@Odonien)",
+        "category": "",
+        "description": "Elektronisch, roh und unter freiem Himmel in Odonien. Jede Woche andere Sounds – von Techno bis Drum’n’Bass – zwischen Stahl, Licht und Bass.",
+        "link": "https://rausgegangen.de/en/events/beats-x-bass-x-cologne-mittwochenende-46/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vdlEjX9Symqt6vWE0GTy_mwe221025header02-min.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
     },
     {
         "date": "Wed, 22.10.2025",
@@ -1085,16 +1065,6 @@
     {
         "date": "Thu, 23.10.2025",
         "time": "20:00",
-        "event": "Berlin, Baby! Kein Porno (@Ballhaus Prinzenallee)",
-        "category": "",
-        "description": "Berlin, Baby! Kein Porno‍ von Ulas Inac‍ “Zehn verdammte Zentimeter Fleisch, die entscheiden ob du in Seidenlaken oder auf durchpissten Matratzen geboren wirst.”‍ Ursula, Tochter einer Berliner Pornodarstellerin, kämpft um ihr Leben – und um ihre Stimme. Aufgewachsen zwischen Scham, Verachtung und dem unbarmherzigen Rhythmus der Stadt, sucht sie nach einem elften Zentimeter: einem eigenen Weg, der über Herkunft, Stigma und Schmerz hinausführt.Mit ungebremster Sprache, scharfen Bildern und bitterem Humor erzählt Berlin, Baby! Kein Porno von weiblicher Wut, Überleben und der Sehnsucht nach Selbstbestimmung. Eine Geschichte über Erbe und Aufbruch. Über das Schweigen, das Generationen einschließt. Und über die Frage: Wie viel Raum bleibt für ein Leben?",
-        "link": "https://rausgegangen.de/en/events/berlin-baby-kein-porno-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/u0z0YpZTRyxdXl4yLnog_img7840.JPG?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Thu, 23.10.2025",
-        "time": "20:00",
         "event": "Billie Marten (@Frannz Club)",
         "category": "",
         "description": "Nur eine Handvoll Künstler haben die seltene Gabe, mit wenigen Akkorden und Worten eine ganze Welt aus Emotionen zu erschaffen – Billie Marten gehört definitiv dazu. Mit ihrer sanften, melancholischen Stimme und ihren introspektiven Texten hat sie sich längst als eine der besten britischen Singer/Songwriterinnen etabliert. Geboren als Isabella Sophie Tweddle, wuchs Billie Marten in der idyllischen Landschaft Nordenglands auf. Durch ihre Eltern entdeckte sie schon früh ihre Liebe zur Musik und ließ sich von Größen wie Joni Mitchell, Kate Bush und Nick Drake inspirieren.Bereits als Kind begann sie, ihre eigenen Lieder zu schreiben und veröffentlichte mit nur 15 Jahren ihre erste EP. Der Durchbruch gelang ihr 2016 mit ihrem gefeierten Debütalbum „Writing of Blues and Yellows“, das Kritik und Fans gleichermaßen begeisterte. Mit ihrem 2019 veröffentlichten zweiten Album „Feeding Seahorses by Hand“ vertiefte sie ihren introspektiven Stil, den sie 2021 auf „Flora Fauna“ noch weiter verfeinerte – mal zart und verträumt, mal eindringlich und experimentell. Auf „Drop Cherries“ (2023) zeigte sie sich als reife Künstlerin, die auf poetische Weise universelle Themen wie Liebe, Natur und Identität erforscht.Nun steht mit „Dog Eared“ das nächste Kapitel ihrer musikalischen Reise bevor: In New York aufgenommen und produziert von Phil Weinrobe (bekannt für seine Arbeit mit Adrianne Lenker und Buck Meek), verspricht es mitreißende Lyrik und dank einer beeindruckenden Gruppe von Musiker eine noch intensivere Klangwelt. Einen ersten Vorgeschmack darauf lieferte bereits die Singleauskopplung „Feeling“, bevor am 18. Juli das Gesamtwerk „Dog Eared“ erscheint.Billie Martens Konzerte fühlen sich an wie eine warme Umarmung: Sie sind geprägt von bewegenden Momenten, ihrem feinen Gespür für Melodie und einer ganz besonderen Nähe zum Publikum. Ihre Mischung aus verträumtem Folk und atmosphärischem Indie entfaltet auf der Bühne eine einzigartige Intensität – mal reduziert und zerbrechlich, mal voller Energie – ihre Auftritte bleiben lange in Erinnerung. Wer solch ein magisches Konzert selbst erleben möchte: Im Herbst kommt Billie Marten mit ihrem neuen Album für vier intime Konzerte nach Deutschland!",
@@ -1184,6 +1154,76 @@
     },
     {
         "date": "Thu, 23.10.2025",
+        "time": "23:00",
+        "event": "(5€) Savory - Techno Every Thursday (@Club OST)",
+        "category": "",
+        "description": "alemiko (live) b2b Balkhausen (live) Ginger B m4tsch1  WAN.1",
+        "link": "https://rausgegangen.de/en/events/5-savory-techno-every-thursday-10/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/2hHAQDxcSpil1Xqkklfo_251023ostevent5.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Thu, 23.10.2025",
+        "time": "19:00",
+        "event": "LEFTOVERS - ALLES ENDET 2025 (@Molotow)",
+        "category": "",
+        "description": "Roh, ehrlich und voller Herzblut – LEFTOVERS bringen mit „Alles endet“ ihren unverwechselbaren Punk-Sound auf die Bühne. 🎸🔥 Kein Filter – nur echte Emotionen, Texte, die hängen bleiben, und eine Energie, die dich vom ersten Akkord an packt. Lass dich mitreißen und erlebe einen Abend, der so intensiv ist, dass er noch lange nachklingt.",
+        "link": "https://rausgegangen.de/en/events/leftovers-alles-endet-2025-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jmrjNoeRQ6qxeEZh6L2z_leftoverspress24af13.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 23.10.2025",
+        "time": "19:00",
+        "event": "Urban Combat Class: Girls* only (@Planten un Blomen Haupteingang, U St. Pauli)",
+        "category": "",
+        "description": "Urban Combat Class is a one-hour outdoor training that combines martial arts drills from MMA & Muay Thai, strength and conditioning, and fun partner exercises — all without equipment. Just bring sneakers, comfy clothes & your bestie!This class is exclusively open to FLINTA* people.More details on insta: @defendthegirlies & www.defendthegirlies.com",
+        "link": "https://rausgegangen.de/en/events/urban-combat-class-girls-only-6/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lLkDoYmaQMW8mUak5E4r_250828-040.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 23.10.2025",
+        "time": "19:30",
+        "event": "Poetry & Hip-Hop Hamburg (@Cascadas)",
+        "category": "",
+        "description": "Lyrik trifft auf Lyrics, Poesie verschmilzt mit Punchlines – bei Poetry & Hip-Hop kommen zwei Welten zusammen, die mehr verbindet, als man denkt. Auf der Bühne stehen Spoken-Word-Künstler:innen und Rapper:innen, die ihre Texte, Rhymes und Stories teilen – roh, ehrlich, laut, leise, politisch, persönlich.Erlebt einen Abend voller Wortkunst, Beats und Vibes – live, lokal und mit Message. Zwischen Freestyle-Sessions, poetischen Momenten und musikalischen Überraschungen feiert Hamburg seine kreative Stimme.Einlass 19.30h / Beginn 20.00h Instagram: @poetryandhiphop",
+        "link": "https://rausgegangen.de/en/events/poetry-hip-hop-hamburg-11/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GXT7I74ZTSioDGlVCpoA_dscf0949.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 23.10.2025",
+        "time": "20:00",
+        "event": "ONE OK ROCK – DETOX EUROPEAN TOUR 2025 (@Barclays Arena Hamburg)",
+        "category": "",
+        "description": "Man hat sie schon gemeinsam mit Linkin Park gesehen und jetzt spielen sie ihre eigene Tour quer durch Europa✨ Sei bei ihrer bis jetzt größten Show dabei, wenn sie einen Tourstopp in Köln machen!🤩",
+        "link": "https://rausgegangen.de/en/events/one-ok-rock-detox-european-tour-2025-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Sh7o2jPFQBTfc8oF20zI_oneokrock2025euukp1920x1080horz.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 23.10.2025",
+        "time": "20:00",
+        "event": "St. Pauli Comedy Club (@St. Pauli Comedy Club)",
+        "category": "",
+        "description": "St. Pauli Comedy Club: Lachen garantiert!Willkommen im St. Pauli Comedy Club, der neuen Top-Adresse für Comedy im Herzen Hamburgs! Tauchen Sie ein in eine Welt voller Humor und genießen Sie unvergessliche Abende mit Deutschlands besten Comedians und aufstrebenden Talenten. Unsere vielseitigen Shows – von Stand-up über Impro bis hin zu Satire – bieten für jeden Geschmack das Richtige.Unsere gemütliche und intime Atmosphäre macht jeden Besuch zu einem besonderen Erlebnis. Ob Stammgast oder Neuling, bei uns fühlt sich jeder sofort wohl. Der St. Pauli Comedy Club ist der perfekte Ort, um dem Alltag zu entfliehen und herzhaft zu lachen.Besuchen Sie uns auf St. Pauli und lassen Sie sich von erstklassiger Comedy verzaubern. Jetzt Tickets sichern und dabei sein, wenn Lachen zur Kunst wird!  Jeden Donnerstag und Freitag von 20:00 - 22:00 Uhr. Jeden Samstag von 17:00 - 19:00 Uhr & von 20:00 - 22:00 Uhr.  Einlass immer 60 Minuten vor Showbeginn.  Spielbudenplatz 22 20359 Hamburg  www.stpaulicomedyclub.de",
+        "link": "https://rausgegangen.de/en/events/st-pauli-comedy-club-71/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ZCKO2xfAQaiiNaBjDb0k_1.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 23.10.2025",
+        "time": "21:00",
+        "event": "AFAR - Elektro (@Nachtasyl)",
+        "category": "",
+        "description": "AFAR live zu sehen ist immer wieder eine neue, besondere Erfahrung. Das Duo verbindet magnetische Präsenz, hypnotisierende Stimmen und Synthesizer, die aus einer anderen Welt scheinen, zu einer Performance, die sowohl intim als auch gewaltig wirkt. Diesen Herbst gehen sie mit ihrem neuen Album Changing Rules auf Tournee. Changing Rules ist das dritte Studioalbum von AFAR - ein klangliches Manifest der Präsenz, der Eruption und des Widerstands. Psychedelischer Krautwave in analoger Wärme, rohen Gitarrenausbrüchen und maschinengetriebenem Puls, getragen von einer hypnotisierenden Stimme. Songs, die die Zeit dehnen, Bequemlichkeit ablehnen und sich nach dem Realen sehnen. Eine romantische Revolte gegen den täglichen Lärm, der betäubt und ablenkt - langsam, ehrlich und sehr bewusst. Für alle, die sich immer noch zu sehr danach sehnen und sich weigern, es sich bequem zu machen.Wir freuen uns sehr auf das neue Album und die beiden erneut in Hamburg begrüßen zu dürfen und tanzen uns schon mal warm. Kommen Sie doch auch am 23. Oktober ins Nachtasyl.",
+        "link": "https://rausgegangen.de/en/events/afar-7/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/osLTlLfrRuOcmSMGaZW0_rausgegangen-a.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 23.10.2025",
         "time": "18:00",
         "event": "Kölsch Bachelor Köln (@Roonburg)",
         "category": "",
@@ -1264,63 +1304,13 @@
     },
     {
         "date": "Thu, 23.10.2025",
-        "time": "19:00",
-        "event": "LEFTOVERS - ALLES ENDET 2025 (@Molotow)",
-        "category": "",
-        "description": "Roh, ehrlich und voller Herzblut – LEFTOVERS bringen mit „Alles endet“ ihren unverwechselbaren Punk-Sound auf die Bühne. 🎸🔥 Kein Filter – nur echte Emotionen, Texte, die hängen bleiben, und eine Energie, die dich vom ersten Akkord an packt. Lass dich mitreißen und erlebe einen Abend, der so intensiv ist, dass er noch lange nachklingt.",
-        "link": "https://rausgegangen.de/en/events/leftovers-alles-endet-2025-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jmrjNoeRQ6qxeEZh6L2z_leftoverspress24af13.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Thu, 23.10.2025",
-        "time": "19:00",
-        "event": "Urban Combat Class: Girls* only (@Planten un Blomen Haupteingang, U St. Pauli)",
-        "category": "",
-        "description": "Urban Combat Class is a one-hour outdoor training that combines martial arts drills from MMA & Muay Thai, strength and conditioning, and fun partner exercises — all without equipment. Just bring sneakers, comfy clothes & your bestie!This class is exclusively open to FLINTA* people.More details on insta: @defendthegirlies & www.defendthegirlies.com",
-        "link": "https://rausgegangen.de/en/events/urban-combat-class-girls-only-6/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lLkDoYmaQMW8mUak5E4r_250828-040.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Thu, 23.10.2025",
-        "time": "19:30",
-        "event": "Poetry & Hip-Hop Hamburg (@Cascadas)",
-        "category": "",
-        "description": "Lyrik trifft auf Lyrics, Poesie verschmilzt mit Punchlines – bei Poetry & Hip-Hop kommen zwei Welten zusammen, die mehr verbindet, als man denkt. Auf der Bühne stehen Spoken-Word-Künstler:innen und Rapper:innen, die ihre Texte, Rhymes und Stories teilen – roh, ehrlich, laut, leise, politisch, persönlich.Erlebt einen Abend voller Wortkunst, Beats und Vibes – live, lokal und mit Message. Zwischen Freestyle-Sessions, poetischen Momenten und musikalischen Überraschungen feiert Hamburg seine kreative Stimme.Einlass 19.30h / Beginn 20.00h Instagram: @poetryandhiphop",
-        "link": "https://rausgegangen.de/en/events/poetry-hip-hop-hamburg-11/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GXT7I74ZTSioDGlVCpoA_dscf0949.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Thu, 23.10.2025",
         "time": "20:00",
-        "event": "ONE OK ROCK – DETOX EUROPEAN TOUR 2025 (@Barclays Arena Hamburg)",
+        "event": "Jörg Seidel - MERCI...MY PERSONAL TRIBUTE TO UDO JÜRGENS (@VENTANA)",
         "category": "",
-        "description": "Man hat sie schon gemeinsam mit Linkin Park gesehen und jetzt spielen sie ihre eigene Tour quer durch Europa✨ Sei bei ihrer bis jetzt größten Show dabei, wenn sie einen Tourstopp in Köln machen!🤩",
-        "link": "https://rausgegangen.de/en/events/one-ok-rock-detox-european-tour-2025-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Sh7o2jPFQBTfc8oF20zI_oneokrock2025euukp1920x1080horz.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Thu, 23.10.2025",
-        "time": "20:00",
-        "event": "St. Pauli Comedy Club (@St. Pauli Comedy Club)",
-        "category": "",
-        "description": "St. Pauli Comedy Club: Lachen garantiert!Willkommen im St. Pauli Comedy Club, der neuen Top-Adresse für Comedy im Herzen Hamburgs! Tauchen Sie ein in eine Welt voller Humor und genießen Sie unvergessliche Abende mit Deutschlands besten Comedians und aufstrebenden Talenten. Unsere vielseitigen Shows – von Stand-up über Impro bis hin zu Satire – bieten für jeden Geschmack das Richtige.Unsere gemütliche und intime Atmosphäre macht jeden Besuch zu einem besonderen Erlebnis. Ob Stammgast oder Neuling, bei uns fühlt sich jeder sofort wohl. Der St. Pauli Comedy Club ist der perfekte Ort, um dem Alltag zu entfliehen und herzhaft zu lachen.Besuchen Sie uns auf St. Pauli und lassen Sie sich von erstklassiger Comedy verzaubern. Jetzt Tickets sichern und dabei sein, wenn Lachen zur Kunst wird!  Jeden Donnerstag und Freitag von 20:00 - 22:00 Uhr. Jeden Samstag von 17:00 - 19:00 Uhr & von 20:00 - 22:00 Uhr.  Einlass immer 60 Minuten vor Showbeginn.  Spielbudenplatz 22 20359 Hamburg  www.stpaulicomedyclub.de",
-        "link": "https://rausgegangen.de/en/events/st-pauli-comedy-club-71/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ZCKO2xfAQaiiNaBjDb0k_1.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Thu, 23.10.2025",
-        "time": "21:00",
-        "event": "AFAR - Elektro (@Nachtasyl)",
-        "category": "",
-        "description": "AFAR live zu sehen ist immer wieder eine neue, besondere Erfahrung. Das Duo verbindet magnetische Präsenz, hypnotisierende Stimmen und Synthesizer, die aus einer anderen Welt scheinen, zu einer Performance, die sowohl intim als auch gewaltig wirkt. Diesen Herbst gehen sie mit ihrem neuen Album Changing Rules auf Tournee. Changing Rules ist das dritte Studioalbum von AFAR - ein klangliches Manifest der Präsenz, der Eruption und des Widerstands. Psychedelischer Krautwave in analoger Wärme, rohen Gitarrenausbrüchen und maschinengetriebenem Puls, getragen von einer hypnotisierenden Stimme. Songs, die die Zeit dehnen, Bequemlichkeit ablehnen und sich nach dem Realen sehnen. Eine romantische Revolte gegen den täglichen Lärm, der betäubt und ablenkt - langsam, ehrlich und sehr bewusst. Für alle, die sich immer noch zu sehr danach sehnen und sich weigern, es sich bequem zu machen.Wir freuen uns sehr auf das neue Album und die beiden erneut in Hamburg begrüßen zu dürfen und tanzen uns schon mal warm. Kommen Sie doch auch am 23. Oktober ins Nachtasyl.",
-        "link": "https://rausgegangen.de/en/events/afar-7/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/osLTlLfrRuOcmSMGaZW0_rausgegangen-a.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
+        "description": "\"Ein Herzensprojekt und meine zweite musikalische Verbeugung vor Udo Jürgens\", nennt Jörg Seidel sein Programm \"Die andere Seite\" - und alles daran ist wörtlich zu nehmen. Der renommierte Jazzsänger und Gitarrist aus Bremerhaven hatte 2015 mit seiner Tribute-CD \"Merci...\" für ein starkes Presse-und Kritiker-Echo gesorgt und auch das Publikum mit überzeugenden Neu-Interpretationen der Werke begeistert, die zu den musikalischen Wurzeln Udo Jürgens ́- Zeit seines Lebens ein Jazzfan - führten.Im Nachfolge-Programm präsentiert Jörg Seidel nun Kompositionen aus Udo Jürgens ́Phase Mitte der 60er bis Mitte der 70er Jahre, in der er eindeutig vom Jazz beeinflusste Stücke kreierte - darunter das von Sarah Vaughan gesungene \"Right or wrong\" und die englische Version des Ireen Sheer-Songs \"Sonntag\". auch das 1967 aufgenommene \"Mein erster Weg\" zeigt die hohe kompositorische und sprachliche Qualität Udo Jürgens ́, der ja im Kern nie ein Mainstream-Schlagersänger war.Jörg Seidel, der \"aktuell herausragende europäsiche Jazzsänger\" - wie die \"German Jazzpages\" schrieben - zeigt, wie lebendig Jürgens ́ Musik auch viele Jahre nach ihrer Entstehung ist. Mit seinen Neu-Arrangements will er der Musik nichts aufzwingen, was sie nicht schon in sich trägt. Gemeinsam mit seiner hochklassig besetzten Band lässt er die Poesie der Texte sprechen und macht es so dem Publikum möglich, diese Juwelen von einer ganz neuen Seite zu entdecken.Einlass 19.00 Uhr I Beginn 20.00 Uhr",
+        "link": "https://rausgegangen.de/en/events/jorg-seidel-mercimy-personal-tribute-to-udo-jurgens-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/rNqI9LpEQM6hMHgFcDKj_jorg-seidel-udo-jurgens-rechte-christian-streili-dominik-beckmann.jpeg?width=1200&height=900&mode=crop",
+        "city": "Köln"
     },
     {
         "date": "Thu, 23.10.2025",
@@ -1366,6 +1356,14 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251024_fckgenres_4zu5.jpg"
     },
     {
+        "date": "Fri, 24.10",
+        "time": "23:00",
+        "event": "Studi Pop! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/studi-pop-4/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/Stereo_24_1025_FeedB.jpg"
+    },
+    {
         "date": "Fr, 24.10.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -1388,14 +1386,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Fri, 24.10",
-        "time": "23:00",
-        "event": "Studi Pop! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/studi-pop-4/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/Stereo_24_1025_FeedB.jpg"
     },
     {
         "date": "Fr, 24.10.2025",
@@ -1655,6 +1645,16 @@
     },
     {
         "date": "Fri, 24.10.2025",
+        "time": "20:00",
+        "event": "Jadu Heart (@Mojo Club)",
+        "category": "",
+        "description": "Jadu Heart – das Duo aus London und Huddersfield – hat sich mit hypnotischem Genre-Wandel und unwiderstehlichen Melodien eine eingeschworene Fanbase aufgebaut. Bekannt für ihre mysteriöse Ästhetik und kreative Visuals, schaffen sie ein immersives künstlerisches Erlebnis. Nach 600 Millionen Streams und einer US-Tour mit Fontaines DC kommen sie jetzt endlich auf große Headline-Tour. Bereit, ihre ganz eigene Welt auf die Bühne zu bringen.",
+        "link": "https://rausgegangen.de/en/events/jadu-heart-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fDhgnDL2QRKARmHm3gpP_jh-assetswebsite.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Fri, 24.10.2025",
         "time": null,
         "event": "35. Film + MusikFest: Unter Verdacht (@Rudolf-Oetker-Halle)",
         "category": "»Unter Verdacht« steht neben der Juwelenelse auch der brave Wachtmeister Holt in Joe Mays...",
@@ -1716,6 +1716,14 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251025_LoveSaturdays_Cocktail_4zu5.jpg"
     },
     {
+        "date": "Sat, 25.10",
+        "time": "23:00",
+        "event": "Tequila Party (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/tequila-party/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/Stereo_25_1025_FeedB.jpg"
+    },
+    {
         "date": "Sa, 25.10.2025",
         "time": "14:00",
         "event": "*TRIBE WANDERSAMSTAG*",
@@ -1754,14 +1762,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sat, 25.10",
-        "time": "23:00",
-        "event": "Tequila Party (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/tequila-party/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/Stereo_25_1025_FeedB.jpg"
     },
     {
         "date": "Sa, 25.10.2025",
@@ -2130,6 +2130,22 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20251029_Halloween_4zu5.jpg"
     },
     {
+        "date": "Wed, 29.10",
+        "time": "20:00",
+        "event": "Public Viewing im Stereo! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/public-viewing-im-stereo/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/10/Stereo_29_1025_Feed02.jpg"
+    },
+    {
+        "date": "Wed, 29.10",
+        "time": "22:00",
+        "event": "SPRITTWOCH (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/sprittwoch/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/10/Stereo_29_1025_Feed01.jpg"
+    },
+    {
         "date": "We, 29.10.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -2160,22 +2176,6 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
-    },
-    {
-        "date": "Wed, 29.10",
-        "time": "20:00",
-        "event": "Public Viewing im Stereo! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/public-viewing-im-stereo/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/10/Stereo_29_1025_Feed02.jpg"
-    },
-    {
-        "date": "Wed, 29.10",
-        "time": "22:00",
-        "event": "SPRITTWOCH (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/sprittwoch/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/10/Stereo_29_1025_Feed01.jpg"
     },
     {
         "date": "Mi, 29.10.2025",
@@ -2348,6 +2348,22 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20251031_Halloween_4zu5.jpg"
     },
     {
+        "date": "Fri, 31.10",
+        "time": "23:00",
+        "event": "DIA DE LOS MUERTOS - DIE HALLOWEEN PARTY! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/dia-de-los-muertos-die-halloween-party/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/Stereo_31_1025_Feed01.jpg"
+    },
+    {
+        "date": "Fri, 31.10",
+        "time": "23:00",
+        "event": "DIA DE LOS MUERTOS - DIE HALLOWEEN PARTY! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/dia-de-los-muertos-die-halloween-party/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/Stereo_31_1025_Feed01.jpg"
+    },
+    {
         "date": "Fr, 31.10.2025",
         "time": "19:00",
         "event": "*TRIBE CREATIVE CIRCLES*",
@@ -2378,22 +2394,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Fri, 31.10",
-        "time": "23:00",
-        "event": "DIA DE LOS MUERTOS - DIE HALLOWEEN PARTY! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/dia-de-los-muertos-die-halloween-party/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/Stereo_31_1025_Feed01.jpg"
-    },
-    {
-        "date": "Fri, 31.10",
-        "time": "23:00",
-        "event": "DIA DE LOS MUERTOS - DIE HALLOWEEN PARTY! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/dia-de-los-muertos-die-halloween-party/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/Stereo_31_1025_Feed01.jpg"
     },
     {
         "date": "Fr, 31.10",
@@ -2496,6 +2496,14 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/08/20251101_Halloween_4zu5.jpg"
     },
     {
+        "date": "Sat, 01.11",
+        "time": "23:00",
+        "event": "STEREOLOVE (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/stereolove2/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/10/Stereo_01_1125_Feed.jpg"
+    },
+    {
         "date": "Sa, 01.11.2025",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -2526,14 +2534,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sat, 01.11",
-        "time": "23:00",
-        "event": "STEREOLOVE (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/stereolove2/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/10/Stereo_01_1125_Feed.jpg"
     },
     {
         "date": "Sa, 01.11",
@@ -2959,6 +2959,14 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251107_2010Flashback_4zu5.jpg"
     },
     {
+        "date": "Fri, 07.11",
+        "time": "23:00",
+        "event": "Studi Pop! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/studi-pop/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/10/Stereo_07_1125_Feed.jpg"
+    },
+    {
         "date": "Fr, 07.11.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -2981,14 +2989,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Fri, 07.11",
-        "time": "23:00",
-        "event": "Studi Pop! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/studi-pop/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/10/Stereo_07_1125_Feed.jpg"
     },
     {
         "date": "Fr, 07.11",
@@ -3048,6 +3048,14 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251108_GirlsNightOut_4zu5-1.jpg"
     },
     {
+        "date": "Sat, 08.11",
+        "time": "23:00",
+        "event": "STEREOLOVE (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/stereolove-3/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/10/Stereo_08_1125_Feed.jpg"
+    },
+    {
         "date": "Sa, 08.11.2025",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -3078,14 +3086,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sat, 08.11",
-        "time": "23:00",
-        "event": "STEREOLOVE (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/stereolove-3/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/10/Stereo_08_1125_Feed.jpg"
     },
     {
         "date": "Sa, 08.11",
@@ -3350,6 +3350,22 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251112_JuraStart_4zu5.jpg"
     },
     {
+        "date": "Wed, 12.11",
+        "time": "06:00",
+        "event": "GuMo Bielefeld (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/gumo-bielefeld/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/10/Stereo_12_1125_GuMo_Feed.jpg"
+    },
+    {
+        "date": "Wed, 12.11",
+        "time": "22:00",
+        "event": "SPRITTWOCH (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/sprittwoch-3/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/10/Stereo_12_1125Feed.jpg"
+    },
+    {
         "date": "We, 12.11.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -3388,22 +3404,6 @@
         "category": "Ausgehen",
         "link": "https://www.instagram.com/diesdascomedy/",
         "image_url": null
-    },
-    {
-        "date": "Wed, 12.11",
-        "time": "06:00",
-        "event": "GuMo Bielefeld (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/gumo-bielefeld/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/10/Stereo_12_1125_GuMo_Feed.jpg"
-    },
-    {
-        "date": "Wed, 12.11",
-        "time": "22:00",
-        "event": "SPRITTWOCH (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/sprittwoch-3/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/10/Stereo_12_1125Feed.jpg"
     },
     {
         "date": "We, 12.11",
@@ -3496,6 +3496,14 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251114_BLFD_4zu5.jpg"
     },
     {
+        "date": "Fri, 14.11",
+        "time": "23:00",
+        "event": "Taylor &amp; Harry Night (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/taylor-harry-night/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/2025-11-14-TH-Stereo-Kachel.png"
+    },
+    {
         "date": "Fr, 14.11.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -3526,14 +3534,6 @@
         "category": "Kreativität",
         "link": "https://kunsthalle-bielefeld.de/programm/veranstaltungen/#10209",
         "image_url": null
-    },
-    {
-        "date": "Fri, 14.11",
-        "time": "23:00",
-        "event": "Taylor &amp; Harry Night (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/taylor-harry-night/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/08/2025-11-14-TH-Stereo-Kachel.png"
     },
     {
         "date": "Fri, 14.11.2025",
@@ -3572,6 +3572,14 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251115_LoveSaturdays_Tequila_4zu5.jpg"
     },
     {
+        "date": "Sat, 15.11",
+        "time": "23:00",
+        "event": "STEREOLOVE (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/stereolove/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/10/Stereo_15_1125_Feed.jpg"
+    },
+    {
         "date": "Sa, 15.11.2025",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -3602,14 +3610,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sat, 15.11",
-        "time": "23:00",
-        "event": "STEREOLOVE (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/stereolove/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/10/Stereo_15_1125_Feed.jpg"
     },
     {
         "date": "Sat, 15.11.2025",
@@ -3967,6 +3967,14 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251121_NoelHoller_4zu5.jpg"
     },
     {
+        "date": "Fri, 21.11",
+        "time": "23:00",
+        "event": "Studi Pop! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/studi-pop-2/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/10/Stereo_21_1125_Feed.jpg"
+    },
+    {
         "date": "Fr, 21.11.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -3989,14 +3997,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Fri, 21.11",
-        "time": "23:00",
-        "event": "Studi Pop! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/studi-pop-2/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/10/Stereo_21_1125_Feed.jpg"
     },
     {
         "date": "Fr, 21.11",
@@ -4121,6 +4121,14 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251122_BTTR_4zu5.jpg"
     },
     {
+        "date": "Sat, 22.11",
+        "time": "23:00",
+        "event": "STEREOLOVE (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/stereolove-4/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/10/Stereo_22_1125_Feed.jpg"
+    },
+    {
         "date": "Sa, 22.11.2025",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -4151,14 +4159,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sat, 22.11",
-        "time": "23:00",
-        "event": "STEREOLOVE (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/stereolove-4/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/10/Stereo_22_1125_Feed.jpg"
     },
     {
         "date": "Sat, 22.11.2025",
@@ -4308,6 +4308,14 @@
         "city": "Münster"
     },
     {
+        "date": "Wed, 26.11",
+        "time": "22:00",
+        "event": "SPRITTWOCH (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/sprittwoch-2/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/10/Stereo_26_1125_Feed.jpg"
+    },
+    {
         "date": "We, 26.11.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -4346,14 +4354,6 @@
         "category": "Ausgehen",
         "link": "https://www.instagram.com/diesdascomedy/",
         "image_url": null
-    },
-    {
-        "date": "Wed, 26.11",
-        "time": "22:00",
-        "event": "SPRITTWOCH (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/sprittwoch-2/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/10/Stereo_26_1125_Feed.jpg"
     },
     {
         "date": "Wed, 26.11.2025",
@@ -4463,6 +4463,14 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251128_Backto2000_4zu5.jpg"
     },
     {
+        "date": "Fri, 28.11",
+        "time": "23:00",
+        "event": "ON A TRIP w/ ELY OAKS (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/on-a-trip-w-ely-oaks/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/Stereo_28_1125_Feed-1.jpg"
+    },
+    {
         "date": "Fr, 28.11.2025",
         "time": "19:00",
         "event": "*TRIBE CREATIVE CIRCLES*",
@@ -4493,14 +4501,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Fri, 28.11",
-        "time": "23:00",
-        "event": "ON A TRIP w/ ELY OAKS (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/on-a-trip-w-ely-oaks/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/Stereo_28_1125_Feed-1.jpg"
     },
     {
         "date": "Fr, 28.11",
@@ -4535,6 +4535,14 @@
         "category": "Party",
         "link": "https://cafeeuropa.de/event/sa-love-saturdays-5/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251129_LoveSaturdays_4zu5.jpg"
+    },
+    {
+        "date": "Sat, 29.11",
+        "time": "22:00",
+        "event": "DISKO TOTAL! // Die Party für alle ab 25! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/disko-total-die-party-fuer-alle-ab-25/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/DISKOTOTAL.png"
     },
     {
         "date": "Sa, 29.11.2025",
@@ -4575,14 +4583,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sat, 29.11",
-        "time": "22:00",
-        "event": "DISKO TOTAL! // Die Party für alle ab 25! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/disko-total-die-party-fuer-alle-ab-25/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/DISKOTOTAL.png"
     },
     {
         "date": "Sat, 29.11.2025",
@@ -5186,6 +5186,14 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251212_ChristmasClub_Juizzed_4zu5.jpg"
     },
     {
+        "date": "Fri, 12.12",
+        "time": "23:00",
+        "event": "Drunken Masters - ABRISS &amp; DEMONTAGE! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/drunken-masters-abriss-demontage/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Drunken-Masters_Tour_25-26_26-1.jpg"
+    },
+    {
         "date": "Fr, 12.12.2025",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro (@hinterzimmer.club)",
@@ -5216,14 +5224,6 @@
         "category": "Kreativität",
         "link": "https://kunsthalle-bielefeld.de/programm/veranstaltungen/#10209",
         "image_url": null
-    },
-    {
-        "date": "Fri, 12.12",
-        "time": "23:00",
-        "event": "Drunken Masters - ABRISS &amp; DEMONTAGE! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/drunken-masters-abriss-demontage/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/07/Drunken-Masters_Tour_25-26_26-1.jpg"
     },
     {
         "date": "Fr, 12.12",
@@ -6014,6 +6014,22 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251231_Silvesternacht_4zu5-1.jpg"
     },
     {
+        "date": "Wed, 31.12",
+        "time": "23:00",
+        "event": "HAPPY NEW YEAH! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/happy-new-yeah/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/Stereo_31_1225_Feed.jpg"
+    },
+    {
+        "date": "Wed, 31.12",
+        "time": "23:00",
+        "event": "HAPPY NEW YEAH! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/happy-new-yeah/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/Stereo_31_1225_Feed.jpg"
+    },
+    {
         "date": "We, 31.12.2025",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -6044,21 +6060,5 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
-    },
-    {
-        "date": "Wed, 31.12",
-        "time": "23:00",
-        "event": "HAPPY NEW YEAH! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/happy-new-yeah/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/Stereo_31_1225_Feed.jpg"
-    },
-    {
-        "date": "Wed, 31.12",
-        "time": "23:00",
-        "event": "HAPPY NEW YEAH! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/happy-new-yeah/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/Stereo_31_1225_Feed.jpg"
     }
 ]
