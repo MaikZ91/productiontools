@@ -1,30 +1,35 @@
-import random
+import os, sys, time, threading, random
 import cv2
 import numpy as np
 import matplotlib
+matplotlib.use('Agg')  # weiterhin Offscreen für Saves; QtCanvas rendert separat
 import matplotlib.pyplot as plt
 import serial
-from tkinter import Tk, Scale, HORIZONTAL, Label, Button, filedialog
-import threading
-import time
-from PIL import Image, ImageEnhance, ImageFilter
+from PIL import Image
 import pandas as pd
 import seaborn as sns
-import os
-import sys
 import tifffile as tif
-import AngleAnalysisFunctions as AAF
-from PyQt5 import uic
-from PyQt5.QtWidgets import (QApplication, QGraphicsScene, QLabel, QWidget, QSlider,
-                             QScrollBar, QTextEdit, QHBoxLayout, QVBoxLayout)
-from PyQt5.QtGui import QImage, QPixmap
+
+from tkinter import filedialog
+
+from PyQt5 import uic  # bleibt importiert, wird aber nicht mehr genutzt
+from PyQt5.QtWidgets import (
+    QApplication, QGraphicsScene, QLabel, QWidget, QSlider,
+    QScrollBar, QTextEdit, QHBoxLayout, QVBoxLayout,
+    QMainWindow, QGraphicsView, QPushButton, QDockWidget,
+    QSizePolicy, QFrame, QDial
+)
+from PyQt5.QtGui import QImage, QPixmap, QPalette, QColor, QFont
 from PyQt5.QtCore import QTimer, Qt, QThread, QMetaObject, Q_ARG, QObject, pyqtSignal, pyqtSlot
+
+from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
+from matplotlib.figure import Figure
+from collections import deque
+
 from pipython import GCSDevice, pitools
+import AngleAnalysisFunctions as AAF
 
-# unterdrücke Plots
-matplotlib.use('Agg')
-
-####    CONSTANTS       ####
+# ----------------- KONSTANTEN -----------------
 STAGE_WAIT_TIME = 1e-4
 ser = serial.Serial('COM5', baudrate=9600, timeout=1)
 volt_addr = 0xD0
@@ -66,13 +71,23 @@ latest_base_bgr = None        # Basismotiv (für Rücksprung nach Flash)
 # ----------------- Overlay-Flash -----------------
 overlay_flash_ms = 2500      # Dauer des Einblendens in Millisekunden
 
-####    FUNCTIONS   ####
+# ----------------- Globals (GUI etc.) -----------------
+gui = None
+bridge = None
+timer = None
+timer_camera = None
+fig = None
+axes = None
+dino_lite = None
+filedir = os.getcwd()
 
+# ----------------- HILFSFUNKTIONEN HARDWARE -----------------
 def SelectImgDir():
     global filedir
     pathselect = filedialog.askdirectory(initialdir=filedir, title="Select image directory")
     print(pathselect)
-    filedir = pathselect
+    if pathselect:
+        filedir = pathselect
 
 def wait_time(oldPos, newPos):
     stageDisplacement = abs(newPos - oldPos)
@@ -135,30 +150,11 @@ class DinoLiteController:
     def release(self):
         self.cap.release()
 
-def update_position(val):
-    global pos
-    pos = int(val)
-    move_to_pos(y_addr, pos)
-    position_label.config(text=f"Position: {pos}")
-
-def start_live_feed():
-    live_feed_thread = threading.Thread(target=dino_lite.show_live_feed)
-    live_feed_thread.start()
-
-def update_frame():
-    frame = dino_lite.capture_image()
-    h, w, ch = frame.shape
-    rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
-    qt_image = QImage(rgb.data, w, h, rgb.strides[0], QImage.Format_RGB888)
-    scene = QGraphicsScene()
-    gui.graphicsView.setScene(scene)
-    scene.clear()
-    scene.addPixmap(QPixmap.fromImage(qt_image).scaled(gui.graphicsView.width(),
-                                                       gui.graphicsView.height(),
-                                                       Qt.KeepAspectRatio))
-
+# ----------------- RENDER-HILFE -----------------
 def show_in_view(img_bgr: np.ndarray):
     """Zeigt ein BGR-Image im PyQt graphicsView skaliert an."""
+    if gui is None or not hasattr(gui, "graphicsView"):
+        return
     h, w = img_bgr.shape[:2]
     rgb = cv2.cvtColor(img_bgr, cv2.COLOR_BGR2RGB)
     qimg = QImage(rgb.data, w, h, rgb.strides[0], QImage.Format_RGB888)
@@ -176,13 +172,11 @@ def blend_overlay_and_annotate(base_bgr: np.ndarray,
     """
     Blendet Overlay halbtransparent auf das Basismotiv und zeichnet die Partikelanzahl ein.
     """
-    # Größenabgleich
     if overlay_bgr.shape[:2] != base_bgr.shape[:2]:
         overlay_bgr = cv2.resize(overlay_bgr, (base_bgr.shape[1], base_bgr.shape[0]), interpolation=cv2.INTER_AREA)
 
     comp = cv2.addWeighted(overlay_bgr, alpha, base_bgr, 1.0 - alpha, 0.0)
 
-    # Textbox mit Count
     label = f"Particles: {count}"
     font = cv2.FONT_HERSHEY_SIMPLEX
     scale = 0.9
@@ -195,8 +189,7 @@ def blend_overlay_and_annotate(base_bgr: np.ndarray,
     box = comp.copy()
     cv2.rectangle(box, (x0 - pad, y0 - pad), (x0 + tw + pad, y0 + th + pad), (0, 0, 0), -1)
     comp = cv2.addWeighted(box, 0.35, comp, 0.65, 0.0)
-
-    # Text (weiß mit Schatten)
+    # Text mit Schatten
     cv2.putText(comp, label, (x0, y0 + th), font, scale, (0, 0, 0), thickness + 2, cv2.LINE_AA)
     cv2.putText(comp, label, (x0, y0 + th), font, scale, (255, 255, 255), thickness, cv2.LINE_AA)
     return comp
@@ -204,64 +197,17 @@ def blend_overlay_and_annotate(base_bgr: np.ndarray,
 # ---------- GUI-Bridge für thread-sichere Flash-Anzeige ----------
 class GuiBridge(QObject):
     doFlash = pyqtSignal(object, object, int)  # base_bgr, overlay_bgr, count
-
     def __init__(self, parent=None):
         super().__init__(parent)
         self.doFlash.connect(self.flash)  # Slot im GUI-Thread
 
     @pyqtSlot(object, object, int)
     def flash(self, base_bgr, overlay_bgr, count):
-        # 1) Flash anzeigen
         flash = blend_overlay_and_annotate(base_bgr, overlay_bgr, count, alpha=0.55)
         show_in_view(flash)
-        # 2) Nach overlay_flash_ms zurück auf Basismotiv
         QTimer.singleShot(overlay_flash_ms, lambda: show_in_view(base_bgr))
 
-def process_image(stitched_image):
-    global latest_frame, particle_total, latest_base_bgr
-
-    focus_frame = stitched_image
-    latest_frame = focus_frame  # für Slider-Updates
-
-    # Basismotiv (BGR) – Rücksprungziel nach Flash
-    if focus_frame.ndim == 2:
-        base_bgr = cv2.cvtColor(focus_frame, cv2.COLOR_GRAY2BGR)
-    else:
-        base_bgr = focus_frame.copy()
-    latest_base_bgr = base_bgr.copy()
-
-    cv2.imwrite('focused_image.tif', focus_frame)
-
-    # Detection
-    overlay, mask, df = particle_detection(
-        focus_frame,
-        sensitivity=DETECTION_SENSITIVITY,
-        do_fft=True,
-        save_dir=filedir
-    )
-
-    total = int(len(df))
-    QMetaObject.invokeMethod(gui.particle_count, "setPlainText",
-                             Qt.QueuedConnection, Q_ARG(str, str(total)))
-
-    particle_total += total
-    QMetaObject.invokeMethod(gui.particle_count_2, "setPlainText",
-                             Qt.QueuedConnection, Q_ARG(str, str(particle_total)))
-
-    threshold = 5
-    gui.particle_count.setStyleSheet("background-color: red;" if total > threshold else "")
-
-    # 1) Overlay + Count im GUI-Thread kurz einblenden (Signal)
-    bridge.doFlash.emit(base_bgr, overlay, total)
-
-    # detected.tif für spätere Messung
-    cv2.imwrite(os.path.join(filedir, "detected.tif"), overlay)
-
-    return focus_frame
-
-fig = None
-axes = None
-
+# ----------------- PLOTTING -----------------
 def init_plot():
     global fig, axes
     plt.ion()
@@ -304,6 +250,7 @@ def create_particle_plot(particle_diameters, focus_frame):
     outfile = os.path.join(filedir, f"particle_plot_{ts}.png")
     fig.savefig(outfile, dpi=300)
 
+# ----------------- PARTICLE DETECTION -----------------
 def particle_detection(
     image_or_path,
     sensitivity: float = 0.66,
@@ -329,7 +276,7 @@ def particle_detection(
     else:
         gray_f32 = src.astype(np.float32)
 
-    # ---- FFT-Gitterentfernung (inline helper) ----
+    # ---- FFT-Gitterentfernung ----
     def _fft_grid_remove(gf32: np.ndarray, sigma_k: float = 2.5, search_r_factor: float = 0.18) -> np.ndarray:
         h, w = gf32.shape; cy, cx = h//2, w//2
         inner_keep_r = max(4, int(min(h, w) * 0.006))
@@ -343,7 +290,6 @@ def particle_detection(
         ys, xs = np.nonzero(cand)
         mask = np.ones((h,w), np.float32)
 
-        # <<< FIX: Signatur nimmt 'm' entgegen, damit notch(mask, y0, x0, r) funktioniert
         def notch(m, y0, x0, r):
             y1=max(0,y0-r); y2=min(h,y0+r+1); x1=max(0,x0-r); x2=min(w,x0+r+1)
             yy,xx=np.ogrid[y1:y2,x1:x2]; sub=m[y1:y2,x1:x2]
@@ -437,6 +383,7 @@ def particle_detection(
 
     # ---- Optional speichern ----
     if save_dir:
+        from pathlib import Path
         out = Path(save_dir); out.mkdir(parents=True, exist_ok=True)
         cv2.imwrite(str(out / "filtered.tif"), gray_u8)
         cv2.imwrite(str(out / "overlay.tif"), overlay)
@@ -445,6 +392,7 @@ def particle_detection(
 
     return overlay, mask, df
 
+# ----------------- AUTOFOKUS / WORKFLOWS -----------------
 def autofocus():
     global z_slices
     z_slices = []
@@ -496,6 +444,51 @@ def measure_distance():
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 
+def process_image(stitched_image):
+    global latest_frame, particle_total, latest_base_bgr
+
+    focus_frame = stitched_image
+    latest_frame = focus_frame  # für Slider-Updates
+
+    # Basismotiv (BGR) – Rücksprungziel nach Flash
+    if focus_frame.ndim == 2:
+        base_bgr = cv2.cvtColor(focus_frame, cv2.COLOR_GRAY2BGR)
+    else:
+        base_bgr = focus_frame.copy()
+    latest_base_bgr = base_bgr.copy()
+
+    cv2.imwrite('focused_image.tif', focus_frame)
+
+    # Detection
+    overlay, mask, df = particle_detection(
+        focus_frame,
+        sensitivity=DETECTION_SENSITIVITY,
+        do_fft=True,
+        save_dir=filedir
+    )
+
+    total = int(len(df))
+    QMetaObject.invokeMethod(gui.particle_count, "setPlainText",
+                             Qt.QueuedConnection, Q_ARG(str, str(total)))
+
+    particle_total += total
+    QMetaObject.invokeMethod(gui.particle_count_2, "setPlainText",
+                             Qt.QueuedConnection, Q_ARG(str, str(particle_total)))
+
+    threshold = 5
+    gui.particle_count.setStyleSheet("background-color: rgb(130,0,0);" if total > threshold else "")
+
+    # 1) Overlay + Count im GUI-Thread kurz einblenden (Signal)
+    bridge.doFlash.emit(base_bgr, overlay, total)
+
+    # 2) Live-Chart aktualisieren
+    gui.livechart.addValue.emit(total)
+
+    # detected.tif für spätere Messung
+    cv2.imwrite(os.path.join(filedir, "detected.tif"), overlay)
+
+    return focus_frame
+
 def stitch():
     imagesy = []
     imagesx = []
@@ -527,88 +520,13 @@ def stitch():
     Image.fromarray(combined_image_rgb).save("C:/Users/LVBT/Desktop/Combined_Image.png")
     create_particle_plot(particle_diameters, stitched_image)
 
-
 def start_particle_thread():
     global thread
     thread = QThread()
     thread.run = stitch
     thread.start()
 
-def create_GUI2():
-    global gui, timer, timer_particle, timer_camera, bridge
-
-    app = QApplication(sys.argv)
-    gui = uic.loadUi("C:/Users/LVBT/Desktop/gui.ui")
-
-    # Bridge-Objekt im GUI-Thread
-    bridge = GuiBridge(gui)
-
-    # Buttons mit Funktionen verbinden
-    gui.pushButton.clicked.connect(toggle_angle_processing)
-    gui.pushButton_3.clicked.connect(autofocus)
-    gui.pushButton_2.clicked.connect(start_particle_thread)
-
-    # Timer für Live-Aktualisierungen
-    timer = QTimer()
-    timer.timeout.connect(liveAngle)
-
-    # Timer für Kamera-Update
-    timer_camera = QTimer()
-    timer_camera.timeout.connect(update_frame)
-    timer_camera.start(30)
-
-    # ---- Empfindlichkeits-Slider (Tool-Fenster) ----
-    def on_sensitivity_changed(val):
-        """Live-Empfindlichkeits-Update: re-run detection auf latest_frame mit Flash (GUI-Thread)."""
-        global DETECTION_SENSITIVITY, latest_frame, latest_base_bgr
-        DETECTION_SENSITIVITY = float(val) / 100.0
-
-        lvl = "balanced_low" if DETECTION_SENSITIVITY < 0.33 else ("balanced_mid" if DETECTION_SENSITIVITY < 0.66 else "balanced_high")
-        sensValue.setText(lvl)
-
-        if latest_frame is not None:
-            overlay, mask, df = particle_detection(
-                latest_frame,
-                sensitivity=DETECTION_SENSITIVITY,
-                do_fft=True,
-                save_dir=None
-            )
-            total = int(len(df))
-            QMetaObject.invokeMethod(gui.particle_count, "setPlainText",
-                                     Qt.QueuedConnection, Q_ARG(str, str(total)))
-            threshold = 5
-            gui.particle_count.setStyleSheet("background-color: red;" if total > threshold else "")
-
-            base = latest_base_bgr if latest_base_bgr is not None else (
-                cv2.cvtColor(latest_frame, cv2.COLOR_GRAY2BGR) if latest_frame.ndim == 2 else latest_frame
-            )
-            # Flash via Bridge im GUI-Thread
-            bridge.doFlash.emit(base, overlay, total)
-
-    sensWin = QWidget(gui)
-    sensWin.setWindowFlags(Qt.Tool)
-    sensWin.setWindowTitle("Empfindlichkeit")
-    sensLayout = QHBoxLayout(sensWin)
-
-    sensLabel = QLabel("Empfindlichkeit:", sensWin)
-    sensSlider = QSlider(Qt.Horizontal, sensWin)
-    sensSlider.setRange(0, 100)
-    sensSlider.setValue(int(DETECTION_SENSITIVITY * 100))
-    sensSlider.valueChanged.connect(on_sensitivity_changed)
-    sensValue = QLabel("balanced_high" if DETECTION_SENSITIVITY >= 0.66
-                       else ("balanced_mid" if DETECTION_SENSITIVITY >= 0.33 else "balanced_low"), sensWin)
-
-    sensLayout.addWidget(sensLabel)
-    sensLayout.addWidget(sensSlider)
-    sensLayout.addWidget(sensValue)
-    sensWin.resize(380, 60)
-    sensWin.move(50, 50)
-    sensWin.show()
-    # -----------------------------------------------
-
-    gui.show()
-    sys.exit(app.exec_())
-
+# ----------------- ANGLE / PIEZO WORKFLOWS -----------------
 def startpos():
     move_to_pos(x_addr, startpos_x)
     time.sleep(2)
@@ -825,10 +743,239 @@ def connect_DPC():
     print("POS:", dev.qPOS()[ax])
     dev.CloseConnection()
 
-# --- Start ---
-init_plot()
-dino_lite = DinoLiteController()
-pos = 0
-filedir = os.getcwd()
+# ----------------- QT LIVE-VIEW -----------------
+def update_frame():
+    frame = dino_lite.capture_image()
+    h, w, ch = frame.shape
+    rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+    qt_image = QImage(rgb.data, w, h, rgb.strides[0], QImage.Format_RGB888)
+    scene = QGraphicsScene()
+    gui.graphicsView.setScene(scene)
+    scene.clear()
+    scene.addPixmap(QPixmap.fromImage(qt_image).scaled(gui.graphicsView.width(),
+                                                       gui.graphicsView.height(),
+                                                       Qt.KeepAspectRatio))
 
-create_GUI2()
+# ----------------- MODERNE DARK-GUI (code-only) -----------------
+class MplCanvas(FigureCanvas):
+    def __init__(self, parent=None):
+        self.fig = Figure(figsize=(4, 2.2), tight_layout=True)
+        super().__init__(self.fig)
+        self.ax = self.fig.add_subplot(111)
+        self.ax.set_xlabel("Frame")
+        self.ax.set_ylabel("Particles")
+        self.ax.grid(True, alpha=0.25)
+        self.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.Fixed)
+        self.setMinimumHeight(170)
+
+class LiveChart(QWidget):
+    addValue = pyqtSignal(int)   # thread-safe updater
+    def __init__(self, parent=None, max_points=300):
+        super().__init__(parent)
+        self.canvas = MplCanvas(self)
+        self.values = deque(maxlen=max_points)
+        self.x = deque(maxlen=max_points)
+        self.counter = 0
+
+        lay = QVBoxLayout(self)
+        title = QLabel("Live: Particles / Frame", self)
+        title.setStyleSheet("font-weight: 600;")
+        lay.addWidget(title)
+        lay.addWidget(self.canvas)
+
+        self.line, = self.canvas.ax.plot([], [], linewidth=1.8)
+        self.addValue.connect(self._on_add)
+
+    @pyqtSlot(int)
+    def _on_add(self, val:int):
+        self.counter += 1
+        self.values.append(val)
+        self.x.append(self.counter)
+        self.line.set_data(self.x, self.values)
+        # autoscale
+        if len(self.x) == 1:
+            self.canvas.ax.set_xlim(0, 10)
+            self.canvas.ax.set_ylim(0, max(5, val+5))
+        else:
+            self.canvas.ax.set_xlim(max(0, self.counter-300), self.counter+5)
+            ymax = max(5, max(self.values)*1.25)
+            self.canvas.ax.set_ylim(0, ymax)
+        self.canvas.draw_idle()
+
+class MainWindow(QMainWindow):
+    def __init__(self):
+        super().__init__()
+        self.setWindowTitle("Particle Analyzer & Angle Toolkit")
+        self._apply_dark_theme()
+
+        # ==== Center layout ====
+        central = QWidget(self); self.setCentralWidget(central)
+        root = QHBoxLayout(central); root.setContentsMargins(12,12,12,12); root.setSpacing(12)
+
+        # --- Left: Image view ---
+        left = QVBoxLayout(); left.setSpacing(8)
+        self.graphicsView = QGraphicsView(self)
+        self.graphicsView.setFrameShape(QFrame.NoFrame)
+        left.addWidget(self.graphicsView, 1)
+
+        # Status row (angle + counts)
+        statusRow = QHBoxLayout()
+        self.label = QLabel("0.0°")
+        self.label.setToolTip("Aktueller Grating-Winkel (berechnet)")
+        self.label.setFont(QFont("Segoe UI", 18, QFont.Bold))
+        statusRow.addWidget(QLabel("Angle:", self))
+        statusRow.addWidget(self.label)
+        statusRow.addStretch(1)
+
+        self.particle_count = QTextEdit(self);  self.particle_count.setFixedHeight(36)
+        self.particle_count.setReadOnly(True)
+        self.particle_count.setPlaceholderText("Frame Count")
+        self.particle_count_2 = QTextEdit(self); self.particle_count_2.setFixedHeight(36)
+        self.particle_count_2.setReadOnly(True)
+        self.particle_count_2.setPlaceholderText("Total Count")
+        for w in (self.particle_count, self.particle_count_2):
+            w.setStyleSheet("QTextEdit{border-radius:10px;padding:6px 10px;}")
+
+        statusRow.addWidget(QLabel("Frame:", self))
+        statusRow.addWidget(self.particle_count, 1)
+        statusRow.addWidget(QLabel("Total:", self))
+        statusRow.addWidget(self.particle_count_2, 1)
+        left.addLayout(statusRow)
+
+        # Live chart under image
+        self.livechart = LiveChart(self)
+        left.addWidget(self.livechart)
+
+        # --- Right: Controls ---
+        right = QVBoxLayout(); right.setSpacing(10)
+
+        self.angle_dial = QDial(self); self.angle_dial.setNotchesVisible(True)
+        self.angle_dial.setRange(-180, 180); self.angle_dial.setValue(0)
+        self.angle_dial.setToolTip("Winkelanzeige (read-only)")
+        self.angle_dial.setEnabled(False)
+        right.addWidget(self._wrap("Angle Dial", self.angle_dial))
+
+        self.pushButton   = QPushButton("Winkel Justage starten")
+        self.pushButton_2 = QPushButton("Scan starten")
+        self.pushButton_3 = QPushButton("Autofokus")
+        for b in (self.pushButton, self.pushButton_2, self.pushButton_3):
+            b.setCursor(Qt.PointingHandCursor)
+            b.setMinimumHeight(42)
+            b.setStyleSheet("QPushButton{border-radius:12px;font-weight:600;}")
+
+        right.addWidget(self.pushButton)
+        right.addWidget(self.pushButton_2)
+        right.addWidget(self.pushButton_3)
+        right.addStretch(1)
+
+        # assemble split
+        root.addLayout(left, 3)
+        root.addLayout(right, 1)
+
+        # ==== Sensitivity Dock ====
+        dock = QDockWidget("Empfindlichkeit", self)
+        dock.setFeatures(QDockWidget.DockWidgetMovable | QDockWidget.DockWidgetFloatable)
+        dock.setAllowedAreas(Qt.LeftDockWidgetArea | Qt.RightDockWidgetArea)
+        dockw = QWidget(dock); dlay = QHBoxLayout(dockw)
+        self.sensLabel = QLabel("balanced_high", dockw)
+        self.sensSlider = QSlider(Qt.Horizontal, dockw); self.sensSlider.setRange(0,100)
+        self.sensSlider.setValue(int(DETECTION_SENSITIVITY*100))
+        dlay.addWidget(QLabel("Empfindlichkeit:"))
+        dlay.addWidget(self.sensSlider, 1)
+        dlay.addWidget(self.sensLabel)
+        dock.setWidget(dockw)
+        self.addDockWidget(Qt.RightDockWidgetArea, dock)
+
+        # ==== Wire up external callbacks (deine Funktionsnamen!) ====
+        self.pushButton.clicked.connect(toggle_angle_processing)
+        self.pushButton_2.clicked.connect(start_particle_thread)
+        self.pushButton_3.clicked.connect(autofocus)
+
+    def _wrap(self, title:str, widget:QWidget) -> QWidget:
+        box = QWidget(self); lay = QVBoxLayout(box); lay.setContentsMargins(0,0,0,0)
+        lab = QLabel(title, box); lab.setStyleSheet("font-weight:600;")
+        lay.addWidget(lab); lay.addWidget(widget)
+        return box
+
+    def _apply_dark_theme(self):
+        self.setStyleSheet("""
+            QMainWindow { background:#0f1115; }
+            QWidget { color:#e6e6e6; font-family:'Segoe UI', Arial, sans-serif; font-size:12pt; }
+            QGraphicsView { background:#151820; border-radius:14px; }
+            QDockWidget { titlebar-close-icon: url(none); titlebar-normal-icon:url(none); }
+            QDockWidget::title { background:#12151c; padding:8px 10px; border-bottom:1px solid #1e2230; }
+            QLabel { color:#eaeaea; }
+            QSlider::groove:horizontal { height:6px; background:#202433; border-radius:3px; }
+            QSlider::handle:horizontal { width:18px; background:#3a7bfd; border-radius:9px; margin:-6px 0; }
+            QDial { background:#12151c; }
+            QTextEdit { background:#12151c; border:1px solid #222638; }
+            QPushButton { background:#1b2030; border:1px solid #222638; }
+            QPushButton:hover { background:#242b3f; }
+            QPushButton:pressed { background:#29314a; }
+        """)
+        pal = QPalette()
+        pal.setColor(QPalette.Window, QColor("#0f1115"))
+        pal.setColor(QPalette.Base, QColor("#12151c"))
+        pal.setColor(QPalette.AlternateBase, QColor("#151820"))
+        pal.setColor(QPalette.Text, QColor("#e6e6e6"))
+        pal.setColor(QPalette.ButtonText, QColor("#f0f0f0"))
+        pal.setColor(QPalette.Button, QColor("#1b2030"))
+        pal.setColor(QPalette.Highlight, QColor("#3a7bfd"))
+        pal.setColor(QPalette.HighlightedText, QColor("#ffffff"))
+        self.setPalette(pal)
+
+# ======= GUI-Factory ersetzt .ui =======
+def create_GUI2():
+    global gui, timer_camera, bridge
+
+    app = QApplication(sys.argv)
+    gui = MainWindow()
+
+    # Bridge im GUI-Thread
+    global bridge
+    bridge = GuiBridge(gui)
+
+    # Empfindlichkeits-Slider Callback (Live-Rerun)
+    def on_sensitivity_changed(val):
+        global DETECTION_SENSITIVITY, latest_frame, latest_base_bgr
+        DETECTION_SENSITIVITY = float(val) / 100.0
+        lvl = "balanced_low" if DETECTION_SENSITIVITY < 0.33 else ("balanced_mid" if DETECTION_SENSITIVITY < 0.66 else "balanced_high")
+        gui.sensLabel.setText(lvl)
+
+        if latest_frame is not None:
+            overlay, mask, df = particle_detection(
+                latest_frame,
+                sensitivity=DETECTION_SENSITIVITY,
+                do_fft=True,
+                save_dir=None
+            )
+            total = int(len(df))
+            QMetaObject.invokeMethod(gui.particle_count, "setPlainText",
+                                     Qt.QueuedConnection, Q_ARG(str, str(total)))
+            threshold = 5
+            gui.particle_count.setStyleSheet("background-color: rgb(130,0,0);" if total > threshold else "")
+
+            base = latest_base_bgr if latest_base_bgr is not None else (
+                cv2.cvtColor(latest_frame, cv2.COLOR_GRAY2BGR) if latest_frame.ndim == 2 else latest_frame
+            )
+            bridge.doFlash.emit(base, overlay, total)
+            gui.livechart.addValue.emit(total)
+
+    gui.sensSlider.valueChanged.connect(on_sensitivity_changed)
+
+    # Kamera-Update (wie zuvor)
+    timer_camera = QTimer()
+    timer_camera.timeout.connect(update_frame)
+    timer_camera.start(30)
+
+    gui.resize(1320, 820)
+    gui.show()
+    sys.exit(app.exec_())
+
+# ----------------- MAIN -----------------
+if __name__ == "__main__":
+    init_plot()
+    dino_lite = DinoLiteController()
+    pos = 0
+    filedir = os.getcwd()
+    create_GUI2()
