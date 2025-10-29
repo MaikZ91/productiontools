@@ -38,21 +38,21 @@ germany = "https://rausgegangen.de/en/hamburg/eventsbydate/"
 RAUSGEGANGEN_CITIES = {
     "Berlin": "berlin",
     "Hamburg": "hamburg",
-    #"München": "munich",
+    "München": "munich",
     "Köln": "cologne",
-    #"Frankfurt": "frankfurt",
-    #"Stuttgart": "stuttgart",
-    #"Düsseldorf": "duesseldorf",
+    "Frankfurt": "frankfurt",
+    "Stuttgart": "stuttgart",
+    "Düsseldorf": "duesseldorf",
     "Leipzig": "leipzig",
     "Hannover": "hanover",
-    #"Nürnberg": "nuremberg",
-    #"Bremen": "bremen",
-    #"Dresden": "dresden",
-    #"Essen": "essen",
+    "Nürnberg": "nuremberg",
+    "Bremen": "bremen",
+    "Dresden": "dresden",
+    "Essen": "essen",
     "Dortmund": "dortmund",
     "Münster": "muenster",
-    #"Lübeck": "luebeck",
-    #"Detmold": "detmold" 
+    "Lübeck": "luebeck",
+    "Detmold": "detmold" 
 }
 
 def scrape_events(base_url):
