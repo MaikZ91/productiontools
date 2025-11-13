@@ -1078,7 +1078,7 @@ def scrape_events(base_url):
             add_recurring_events(events, "CUTIE DANCE(@cutiebielefeld)", "SATURDAY", "https://www.instagram.com/cutiebielefeld/?hl=de", 'weekly', None,'23:00','Party')
             add_recurring_events(events, "CUTIE DANCE (@cutiebielefeld)", "FRIDAY", "https://www.instagram.com/cutiebielefeld/?hl=de", 'weekly', None,'23:00','Party')
             add_recurring_events(events, "Afterwork (@harmsmarkt)", "THURSDAY", "https://harms-markt.de/allgemein/after-work/", 'weekly', None, '18:00','Ausgehen')
-            add_recurring_events(events, "PingPong(@nr.z.p)", "THURSDAY", nrzp, 'weekly',None,'21:00','Ausgehen')
+            add_recurring_events(events, "PingPong(@nr.z.p)", "THURSDAY", nrzp, 'weekly',None,'21:00','Ausgehen','https://nrzp.de/wp-content/uploads/2023/02/dein_abschnittstext.jpg')
             add_recurring_events(events, "Kneipenquiz(@gegenueber_bar)", "TUESDAY", 'https://www.instagram.com/gegenueber_bar/?hl=de', 'monthly_nth_weekday', 2, '20:00','Ausgehen')
             add_recurring_events(events, "Wochenmarkt(@Alter Markt)", "TUESDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly',None, '07:00','Ausgehen','https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN')
             add_recurring_events(events, "Wochenmarkt(@Siegfriedplatz)", "WEDNESDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly',None, '07:00','Ausgehen','https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN')
