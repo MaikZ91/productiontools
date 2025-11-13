@@ -1049,7 +1049,7 @@ def scrape_events(base_url):
             
     if base_url in [movie, platzhirsch, irish_pub]:
         if base_url == movie:
-            add_recurring_events(events, "Salsa Party (@movie_liveclub)", "THURSDAY", movie, 'weekly', None, '20:00', 'Party')
+            add_recurring_events(events, "Salsa Party (@movie_liveclub)", "THURSDAY", movie, 'weekly', None, '20:00', 'Party',"https://www.facebook.com/events/944942910931799/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22external_search_engine%22%7D%2C%7B%22mechanism%22%3A%22attachment%22%2C%22surface%22%3A%22newsfeed%22%7D]%2C%22ref_notif_type%22%3Anull%7D&__cft__[0]=AZWTyC6dBZZG5TDYeXe7wSIAxcioGSOZJ9IGuPm3DZEd_4EkX_bp0AapX5HTBt1RSo4-Rhqm-cE34rIB85CjuI7r22EDnreK-O3cf9oAFcNpsPVpWb1rU2HG6xhYEePBa-XG_f9o79uV9hQuqWVdVT6cO_bcz5CRzBqPNMbiUXtNYihoAu1tb57PqFzssw2w3BeJ9OhLRGEZYWeqtUctQGTS&__tn__=H-R")
         elif base_url == platzhirsch:
             add_recurring_events(events, "Afterwork Party (@platzhirschbielefeld)", "THURSDAY", platzhirsch, 'weekly', None, '20:00', 'Party','https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg')
             add_recurring_events(events, "Bingo (@platzhirschbielefeld)", "WEDNESDAY", platzhirsch, 'monthly_nth_weekday', 1, '20:00', 'Ausgehen','https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg')
