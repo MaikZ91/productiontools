@@ -1087,8 +1087,8 @@ def scrape_events(base_url):
             add_recurring_events(events, "Wochenmarkt (@Alter Markt)", "SATURDAY", 'https://www.bielefeld.jetzt/wochenmarkt', 'weekly',None, '07:00','Ausgehen','https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN')
             add_recurring_events(events, "Sip&Sketch (@kunsthalle_bielefeld)", "FRIDAY", 'https://kunsthalle-bielefeld.de/programm/veranstaltungen/#10209', 'monthly_nth_weekday',2, '17:30','Kreativität')
             add_recurring_events(events, "Lauftreff @teilzeitläufer (@Rathaus)", "WEDNESDAY", 'https://www.instagram.com/teilzeitlaeuferbi/', 'weekly',None, '20:00','Sport')
-            add_recurring_events(events, "DIES DAS COMEDY - OPEN MIC (@diesdascomedy)", "WEDNESDAY",'https://www.instagram.com/diesdascomedy/', 'monthly_nth_weekday',2,'20:00','Ausgehen')
-            add_recurring_events(events, "DIES DAS COMEDY - OPEN MIC (@diesdascomedy)", "WEDNESDAY",'https://www.instagram.com/diesdascomedy/', 'monthly_nth_weekday',4,'20:00','Ausgehen')
+            add_recurring_events(events, "DIES DAS COMEDY - OPEN MIC (@diesdascomedy)", "WEDNESDAY",'https://www.instagram.com/diesdascomedy/', 'monthly_nth_weekday',2,'20:00','Ausgehen',"https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1149914903%2F458602689502%2F1%2Foriginal.jpg?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=9fe71dc7482ee7b9a2010ffe02860068")
+            add_recurring_events(events, "DIES DAS COMEDY - OPEN MIC (@diesdascomedy)", "WEDNESDAY",'https://www.instagram.com/diesdascomedy/', 'monthly_nth_weekday',4,'20:00','Ausgehen',"https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1149914903%2F458602689502%2F1%2Foriginal.jpg?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=9fe71dc7482ee7b9a2010ffe02860068")
     return events
 
 def split_dates(date_string):
