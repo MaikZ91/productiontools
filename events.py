@@ -1224,9 +1224,9 @@ if __name__ == '__main__':
     sources = [
         platzhirsch, irish_pub, movie,
         bielefeld_jetzt, forum, f2f, sams, nrzp,
-        bunker, stereobielefeld, cafe, arminia, impro, hsp,
+        bunker, stereobielefeld, cafe, arminia, impro, hsp, vhs, theater,
         *[f"https://rausgegangen.de/en/{slug}/eventsbydate/" for slug in RAUSGEGANGEN_CITIES.values()]
-        # vhs, theater
+
     ]
     events = []
     MAX_WORKERS = 25
