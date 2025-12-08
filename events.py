@@ -1010,72 +1010,98 @@ def scrape_events(base_url):
                 continue
 
     if base_url == vhs:
+        # VHS Bielefeld – Kursliste direkt von /programm parsen
         WEEKDAY_ABBR = ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"]
-
-        vhs_headers = {
-            "User-Agent": "Mozilla/5.0 (compatible; KreativScraper/1.0)"
+        headers = {
+            "User-Agent": "Mozilla/5.0 (compatible; TRIBE-Scraper/1.0)"
         }
 
-        base = base_url
-        url = base + "/programm"
-        resp = requests.get(url, headers=vhs_headers, timeout=10)
-        resp.raise_for_status()
+        try:
+            resp = requests.get(base_url + "/programm", headers=headers, timeout=10)
+            resp.raise_for_status()
+        except Exception as e:
+            print(f"[VHS] Fehler beim Abruf der Programmliste: {e}")
+            return events
+
         soup = BeautifulSoup(resp.text, "html.parser")
 
+        # Links nur einmal verwenden
         seen_links = set()
 
-        for a in soup.select("a[href*='/programm/kurs/']"):
-            raw_link = a["href"].split("#")[0]
-            link = raw_link if raw_link.startswith("http") else base + raw_link
+        # Wann-Block parsen, z.B.:
+        # "VHS-Sprachcafé: Englisch Wann: ab Do. , 30.01.25, 17.00 Uhr Wo: Nr.: 2514037K8"
+        date_time_re = re.compile(
+            r"(?:ab\s*)?"
+            r"(?P<wd>Mo\.|Di\.|Mi\.|Do\.|Fr\.|Sa\.|So\.)?\s*,?\s*"
+            r"(?P<day>\d{1,2})\.(?P<month>\d{1,2})\.(?P<year>\d{2,4})\s*,\s*"
+            r"(?P<hour>\d{1,2})\.(?P<minute>\d{2})"
+        )
+
+        for a in soup.find_all("a"):
+            raw_text = a.get_text(" ", strip=True)
+            # Nur die Kurs-Zeilen, die "Wann:" und "Nr.:" enthalten
+            if "Wann:" not in raw_text or "Nr.:" not in raw_text:
+                continue
+
+            href = a.get("href")
+            if not href:
+                continue
+
+            link = href if href.startswith("http") else base_url + href
             if link in seen_links:
                 continue
             seen_links.add(link)
 
-            raw_text = a.get_text(" ", strip=True)
-            if not raw_text:
-                continue
-
+            # Titel = alles vor "Wann:"
             m_title = re.match(r"^(.*?)\s*Wann:", raw_text)
             title = m_title.group(1).strip() if m_title else raw_text
 
-            date_str = ""
+            # "Wann:"-Block extrahieren (zwischen "Wann:" und "Wo:")
+            when_part = raw_text.split("Wann:", 1)[1]
+            if "Wo:" in when_part:
+                when_part = when_part.split("Wo:", 1)[0]
+            when_part = when_part.strip()
+
+            m_dt = date_time_re.search(when_part)
+            if not m_dt:
+                # Fälle wie "Wann: Info im Text ..." -> überspringen
+                continue
+
+            day = int(m_dt.group("day"))
+            month = int(m_dt.group("month"))
+            year = int(m_dt.group("year"))
+            if year < 100:
+                year += 2000
+            hour = int(m_dt.group("hour"))
+            minute = int(m_dt.group("minute"))
+
             try:
-                r2 = requests.get(link + "#inhalt", headers=vhs_headers, timeout=10)
-                r2.raise_for_status()
-                doc = BeautifulSoup(r2.text, "html.parser")
-                hdr = doc.find(lambda tag: tag.name in ["h2", "h3"] and "Termine" in tag.get_text())
-                if hdr:
-                    tbl = hdr.find_next("table")
-                    if tbl:
-                        first_td = tbl.find("td")
-                        if first_td:
-                            raw = first_td.get_text(strip=True)
-                            m = re.match(r"(\d{1,2})\.(\d{1,2})\.(\d{2,4})", raw)
-                            if m:
-                                d, mth, yr = map(int, m.groups())
-                                if yr < 100:
-                                    yr += 2000
-                                event_dt = dt(yr, mth, d)
-                                date_str = f"{WEEKDAY_ABBR[event_dt.weekday()]}, {event_dt.day:02d}.{event_dt.month:02d}"
-            except Exception:
-                pass
+                event_dt = dt(year, month, day, hour, minute)
+            except ValueError:
+                continue
 
-            if not date_str:
+            wd_abbr = WEEKDAY_ABBR[event_dt.weekday()]
+            date_str = event_dt.strftime(f"{wd_abbr}, %d.%m.%Y")
+            time_str = event_dt.strftime("%H:%M")
 
-                m_date = re.search(
-                    r"Wann:.*?(Mo|Di|Mi|Do|Fr|Sa|So)\.?\s*,\s*(\d{1,2})\.(\d{1,2})\.(\d{2})",
-                    raw_text
-                )
-                if m_date:
-                    wd_abbr, d, mth, yy = m_date.groups()
-                    day, month, year = int(d), int(mth), 2000 + int(yy)
-                    event_dt = dt(year, month, day)
-                    date_str = f"{wd_abbr}, {event_dt.day:02d}.{event_dt.month:02d}"
+            # Optional: Ort aus "Wo:" herausziehen (wenn vorhanden)
+            location = ""
+            if "Wo:" in raw_text:
+                loc_part = raw_text.split("Wo:", 1)[1]
+                if "Nr.:" in loc_part:
+                    loc_part = loc_part.split("Nr.:", 1)[0]
+                location = loc_part.strip(" ,")
+
+            if location:
+                event_name = f"{title} (@volkshochschule.bielefeld)"
+            else:
+                event_name = f"{title} (@volkshochschule.bielefeld)"
 
             events.append({
-                "event": f"{title}(@volkshochschule.bielefeld)",
+                "event": event_name,
                 "date": date_str,
-                "category": 'Bildung',
+                "time": time_str,
+                "category": "Bildung",
                 "link": link
             })
 
@@ -1410,10 +1436,11 @@ def parse_event_date(s: str) -> Optional[datetime.date]:
 
 if __name__ == '__main__':
     sources = [
-        platzhirsch, irish_pub, movie,
-        bielefeld_jetzt, forum, f2f, sams, nrzp,
-        bunker, stereobielefeld, cafe, arminia, impro, hsp, vhs, theater, kunsthalle,cinemaxx,
-        *[f"https://rausgegangen.de/en/{slug}/eventsbydate/" for slug in RAUSGEGANGEN_CITIES.values()]
+        vhs
+        #platzhirsch, irish_pub, movie,
+        #bielefeld_jetzt, forum, f2f, sams, nrzp,
+        #bunker, stereobielefeld, cafe, arminia, impro, hsp, vhs, theater, kunsthalle,cinemaxx,
+        #*[f"https://rausgegangen.de/en/{slug}/eventsbydate/" for slug in RAUSGEGANGEN_CITIES.values()]
 
     ]
     events = []
