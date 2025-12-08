@@ -751,75 +751,37 @@ def scrape_events(base_url):
                 "link": link
             })
 
-    if base_url == impro:          # z. B.
-        # Jede Listenzeile ist bereits der Link auf die Detailseite
-        event_containers = soup.select("a[href^='/event/']")
-
-        for link_tag in event_containers:
+    if base_url == impro:
+        # Yesticket / Impro logic
+        event_links = soup.select("a[href^='/event/']")
+        for link_tag in event_links:
             try:
-                event_link = link_tag["href"]
-                raw_text = " ".join(link_tag.get_text(" ", strip=True).split())
+                href = link_tag['href']
+                full_link = urljoin(base_url, href)
+                
+                # Title
+                title_tag = link_tag.find(['h2', 'h3', 'h4', 'div'], class_=re.compile(r'title|name', re.I))
+                event_name = title_tag.get_text(strip=True) if title_tag else "Impro Show"
 
-                m = re.match(
-                    r"^([A-Za-z]{3})\s+(\d{1,2})\s+(\d{4})\s+(.+?)\s+(\d{2}:\d{2})(?:\s*Uhr)?\s+(.+)$",
-                    raw_text
-                )
-
-                if not m:
-                    continue
-
-                mon_str, day, year, event_name, start_time, event_location = m.groups()
-
-                try:
-                    parsed_date = dt.strptime(f"{day} {mon_str} {year}", "%d %b %Y")
-                    formatted_event_date = parsed_date.strftime("%a, %d.%m.%Y")
-                except ValueError:
-                    formatted_event_date = f"{day}.{mon_str}.{year}"
-
-                heading = link_tag.find_previous(lambda t: t.name in ("h2", "h3"))
-                event_category = heading.get_text(strip=True) if heading else ""
-
-                formatted_event_name = f"{event_name} (@{event_location})"
-
-                description = ""
-                image_url = None
-                try:
-                    detail_resp = requests.get(urljoin(base_url, event_link), timeout=10)
-                    detail_resp.raise_for_status()
-                    detail_soup = BeautifulSoup(detail_resp.text, "html.parser")
-
-                    for selector in (
-                        "div.event-description", "div.text", "div.teaser",
-                        "div.v-copy", "article .text"
-                    ):
-                        node = detail_soup.select_one(selector)
-                        if node and node.get_text(strip=True):
-                            description = re.sub(r"\s+", " ", node.get_text(" ")).strip()
-                            break
-
-                    if not description:
-                        first_p = detail_soup.find("p")
-                        if first_p:
-                            description = re.sub(r"\s+", " ", first_p.get_text(" ")).strip()
-
-                    og = detail_soup.find("meta", property="og:image")
-                    if og and og.get("content"):
-                        image_url = urljoin(base_url, og["content"])
-                except Exception as ex:
-                    print(f"Fehler beim Laden der Detailseite: {ex}")
+                # Date
+                # Usually in a specific container or badge
+                date_tag = link_tag.find(class_=re.compile(r'date|day', re.I))
+                date_str = date_tag.get_text(strip=True) if date_tag else ""
+                
+                # Image
+                img_tag = link_tag.find('img')
+                image_url = urljoin(base_url, img_tag['src']) if img_tag else None
 
                 events.append({
-                    "date": formatted_event_date,
-                    "time": start_time,
-                    "event": formatted_event_name,
-                    "category": event_category,
-                    "description": description,
-                    "link": urljoin(base_url, event_link),
-                    'image_url': image_url
+                    "date": date_str,
+                    "event": f"{event_name} (@impro_bielefeld)",
+                    "link": full_link,
+                    "category": "Kultur",
+                    "image_url": image_url
                 })
-
-            except Exception as ex:
-                print(f"Fehler beim Verarbeiten eines Events: {ex}")
+            except Exception as e:
+                # print(f"Error parsing impro item: {e}")
+                continue
 
     if base_url == vhs:
         WEEKDAY_ABBR = ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"]
