@@ -1436,11 +1436,11 @@ def parse_event_date(s: str) -> Optional[datetime.date]:
 
 if __name__ == '__main__':
     sources = [
-        vhs
-        #platzhirsch, irish_pub, movie,
-        #bielefeld_jetzt, forum, f2f, sams, nrzp,
-        #bunker, stereobielefeld, cafe, arminia, impro, hsp, vhs, theater, kunsthalle,cinemaxx,
-        #*[f"https://rausgegangen.de/en/{slug}/eventsbydate/" for slug in RAUSGEGANGEN_CITIES.values()]
+        
+        platzhirsch, irish_pub, movie,
+        bielefeld_jetzt, forum, f2f, sams, nrzp,
+        bunker, stereobielefeld, cafe, arminia, impro, hsp, vhs, theater, kunsthalle,cinemaxx,
+        *[f"https://rausgegangen.de/en/{slug}/eventsbydate/" for slug in RAUSGEGANGEN_CITIES.values()]
 
     ]
     events = []
