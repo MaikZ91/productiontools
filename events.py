@@ -864,7 +864,7 @@ def scrape_events(base_url):
             })
 
     
-     if base_url == cinemaxx:
+    if base_url == cinemaxx:
         # Kinoprogramm für CinemaxX Bielefeld über Cylex
         page_text = soup.get_text("\n", strip=True)
         lines = [ln.strip() for ln in page_text.split("\n") if ln.strip()]
