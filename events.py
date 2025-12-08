@@ -865,25 +865,19 @@ def scrape_events(base_url):
 
     
     if base_url == cinemaxx:
-        # Kinoprogramm für CinemaxX Bielefeld über Cylex
+        # Gesamten Text holen und in Zeilen splitten
         page_text = soup.get_text("\n", strip=True)
         lines = [ln.strip() for ln in page_text.split("\n") if ln.strip()]
 
-        # Header-Zeile: "Kinoprogramm 08.12.2025 - 14.12.2025:"
-        header_idx = None
-        for i, ln in enumerate(lines):
-            if ln.startswith("Kinoprogramm ") and "-" in ln:
-                header_idx = i
-                break
-
-        if header_idx is None:
-            return events  # nichts gefunden
-
-        header_line = lines[header_idx]
-        m = re.search(
-            r"Kinoprogramm\s+(\d{2}\.\d{2}\.\d{4})\s*-\s*(\d{2}\.\d{2}\.\d{4})",
-            header_line
+        # Header-Zeile finden: "Kinoprogramm 08.12.2025 - 14.12.2025:"
+        header_line = next(
+            (ln for ln in lines if ln.startswith("Kinoprogramm ") and "-" in ln),
+            None
         )
+        if not header_line:
+            return events
+
+        m = re.search(r"(\d{2}\.\d{2}\.\d{4})\s*-\s*(\d{2}\.\d{2}\.\d{4})", header_line)
         if m:
             start_date = dt.strptime(m.group(1), "%d.%m.%Y").date()
             end_date = dt.strptime(m.group(2), "%d.%m.%Y").date()
@@ -891,14 +885,15 @@ def scrape_events(base_url):
             start_date = TODAY
             end_date = TODAY
 
-        # Programmzeilen bis zum Infotext
+        # Nur die Programmlinien zwischen Header und Infoblock
+        start_idx = lines.index(header_line) + 1
         prog_lines = []
-        for ln in lines[header_idx + 1:]:
+        for ln in lines[start_idx:]:
             if ln.startswith("Hier finden Sie lokale Unternehmen"):
                 break
             prog_lines.append(ln)
 
-        # Blöcke pro Film, getrennt durch "* * *"
+        # Blöcke pro Film: getrennt durch "* * *"
         blocks = []
         cur = []
         for ln in prog_lines:
@@ -912,22 +907,22 @@ def scrape_events(base_url):
             blocks.append(cur)
 
         for block in blocks:
-            if len(block) < 5:
+            # Erwartet grob: Titel, Genre, "Regie …", Tage/Datumszeilen, Zeitenzeile
+            if len(block) < 4:
                 continue
 
-            # Titel = erste Zeile
             title = block[0].strip()
+            genre = block[1].strip()
 
-            # Genre = erste nicht-leere Zeile nach dem Titel, die nicht mit "Regie" beginnt
-            genre = ""
-            for ln in block[1:]:
-                if ln.lower().startswith("regie"):
-                    break
-                if ln.strip():
-                    genre = ln.strip()
-                    break
+            # Index der "Regie"-Zeile suchen
+            regie_idx = next(
+                (i for i, ln in enumerate(block) if ln.lower().startswith("regie")),
+                None
+            )
+            if regie_idx is None:
+                continue
 
-            # Zeit-Zeile = letzte Zeile mit Uhrzeiten
+            # Zeitzeile = letzte Zeile im Block mit HH:MM
             time_line = None
             for ln in reversed(block):
                 if re.search(r"\d{1,2}:\d{2}", ln):
@@ -936,27 +931,23 @@ def scrape_events(base_url):
             if not time_line:
                 continue
 
-            times = re.findall(r"\d{1,2}:\d{2}", time_line)
+            # Zeiten extrahieren (einmalig)
+            times = sorted(set(re.findall(r"\d{1,2}:\d{2}", time_line)))
 
-            # Datums-Teil: nach "Regie"-Zeile bis vor die Zeitzeile
-            date_lines = []
-            seen_regie = False
-            for ln in block:
-                if ln.lower().startswith("regie"):
-                    seen_regie = True
-                    continue
-                if ln == time_line:
-                    break
-                if seen_regie:
-                    date_lines.append(ln)
-
+            # Datumszeilen: alles zwischen "Regie"-Zeile und Zeitzeile
+            tl_idx = block.index(time_line)
+            date_lines = block[regie_idx + 1:tl_idx]
             dates_text = " ".join(date_lines)
             ddmm_tokens = re.findall(r"\d{2}\.\d{2}", dates_text)
 
             date_list = []
             if ddmm_tokens:
                 year = start_date.year
+                seen = set()
                 for dstr in ddmm_tokens:
+                    if dstr in seen:
+                        continue
+                    seen.add(dstr)
                     day, month = map(int, dstr.split("."))
                     try:
                         d_obj = datetime.date(year, month, day)
@@ -971,7 +962,7 @@ def scrape_events(base_url):
                     date_list.append(d_obj)
                     d_obj += datetime.timedelta(days=1)
 
-            # Cross-Produkt: jede Zeit für jeden Tag
+            # Events bauen: jede (Datum, Zeit) Kombi
             for d_obj in date_list:
                 wd_abbr = _WD[d_obj.weekday()]  # ["Mo","Di","Mi","Do","Fr","Sa","So"]
                 date_str = d_obj.strftime(f"{wd_abbr}, %d.%m.%Y")
@@ -984,6 +975,8 @@ def scrape_events(base_url):
                         "genre": genre,
                         "link": base_url
                     })
+
+        return events
     if base_url == impro:
         # Yesticket / Impro logic
         event_links = soup.select("a[href^='/event/']")
@@ -1220,7 +1213,7 @@ def scrape_events(base_url):
                                  'Ausgehen')
             add_recurring_events(events, "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*", "TUESDAY",
                                  'https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==',
-                                 'weekly', None, '18:00', 'Sport')
+                                 'weekly', None, '18:00', 'Sport','https://tse4.mm.bing.net/th/id/OIP.VTOApn7FxTY9KgXPQ-C0YgHaEK?pid=Api&P=0&h=180')
             add_recurring_events(events, "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*", "MONDAY",
                                  'https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==',
                                  'weekly', None, '18:00', 'Sport','https://tse3.mm.bing.net/th/id/OIP.S2SyS4KZbgQ0_dDtL7HNZgAAAA?pid=Api&P=0&h=180')
