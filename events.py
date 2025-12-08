@@ -1050,14 +1050,14 @@ def scrape_events(base_url):
             add_recurring_events(events, "Lauftreff @apero_runners (@Luttercafe)", "THURSDAY",
                                  "https://www.instagram.com/apero_runners/?hl=de", 'weekly', None, '19:00', 'Sport',
                                  "https://scontent-dus1-1.cdninstagram.com/v/t51.2885-19/438862626_403374899131107_8121470992097519210_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDM3LmMyIn0&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QHUcQrauDzCYoMIDEPYrSYe85kBc7OrgBVsELXVLgFHqjVKxfWchabFl5yxG5JeRPI&_nc_ohc=xXJD1wXmVekQ7kNvwGrwK6s&_nc_gid=LdvieMPHIMzmntbW1-1odQ&edm=APoiHPcBAAAA&ccb=7-5&oh=00_AfjuW9iBlNTXK85tzmUvZC-i4pResgtv0LA4Fb_XVznVzg&oe=691B7A59&_nc_sid=22de04")
-            add_recurring_events(events, "LIV/Hinterzimmer Afro (@hinterzimmer.club)", "SATURDAY",
+            add_recurring_events(events, "LIV/Hinterzimmer Afro SATURDAY (@hinterzimmer.club)", "SATURDAY",
                                  "https://www.instagram.com/liv.bielefeld/?hl=de", 'weekly', None, '23:00', 'Party')
-            add_recurring_events(events, "LIV/Hinterzimmer Afro (@hinterzimmer.club)", "FRIDAY",
+            add_recurring_events(events, "LIV/Hinterzimmer Afro FRIDAY (@hinterzimmer.club)", "FRIDAY",
                                  "https://www.instagram.com/liv.bielefeld/?hl=de", 'weekly', None, '23:00', 'Party')
-            add_recurring_events(events, "CUTIE DANCE(@cutiebielefeld)", "SATURDAY",
-                                 "https://www.instagram.com/cutiebielefeld/?hl=de", 'weekly', None, '23:00', 'Party')
-            add_recurring_events(events, "CUTIE DANCE (@cutiebielefeld)", "FRIDAY",
-                                 "https://www.instagram.com/cutiebielefeld/?hl=de", 'weekly', None, '23:00', 'Party')
+            add_recurring_events(events, "CUTIE DANCE SATURDAY(@cutiebielefeld)", "SATURDAY",
+                                 "https://www.instagram.com/cutiebielefeld/?hl=de", 'weekly', None, '23:00', 'Party', "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Fw8RSOQNOBg4twdohZ5g_fidel-fernando-249dzaujtqq-unsplash.jpg?width=1200&height=900&mode=crop")
+            add_recurring_events(events, "CUTIE DANCE FRIDAY (@cutiebielefeld)", "FRIDAY",
+                                 "https://www.instagram.com/cutiebielefeld/?hl=de", 'weekly', None, '23:00', 'Party', "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Fw8RSOQNOBg4twdohZ5g_fidel-fernando-249dzaujtqq-unsplash.jpg?width=1200&height=900&mode=crop")
             add_recurring_events(events, "Afterwork (@harmsmarkt)", "THURSDAY",
                                  "https://harms-markt.de/allgemein/after-work/", 'weekly', None, '18:00', 'Ausgehen')
             add_recurring_events(events, "PingPong(@nr.z.p)", "THURSDAY", nrzp, 'weekly', None, '21:00', 'Ausgehen',
