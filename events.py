@@ -35,6 +35,8 @@ vhs = "https://www.vhs-bielefeld.de"
 impro = "https://www.yesticket.org/events/de/impro-bielefeld/?lastView=list"
 germany = "https://rausgegangen.de/en/hamburg/eventsbydate/"
 kunsthalle = "https://kunsthalle-bielefeld.de/en/calender/"
+cinemaxx = "https://kino.cylex.de/cinemaxx-5994747/"
+
 
 RAUSGEGANGEN_CITIES = {
     "Berlin": "berlin",
@@ -861,6 +863,127 @@ def scrape_events(base_url):
                 "link": link
             })
 
+    
+     if base_url == cinemaxx:
+        # Kinoprogramm für CinemaxX Bielefeld über Cylex
+        page_text = soup.get_text("\n", strip=True)
+        lines = [ln.strip() for ln in page_text.split("\n") if ln.strip()]
+
+        # Header-Zeile: "Kinoprogramm 08.12.2025 - 14.12.2025:"
+        header_idx = None
+        for i, ln in enumerate(lines):
+            if ln.startswith("Kinoprogramm ") and "-" in ln:
+                header_idx = i
+                break
+
+        if header_idx is None:
+            return events  # nichts gefunden
+
+        header_line = lines[header_idx]
+        m = re.search(
+            r"Kinoprogramm\s+(\d{2}\.\d{2}\.\d{4})\s*-\s*(\d{2}\.\d{2}\.\d{4})",
+            header_line
+        )
+        if m:
+            start_date = dt.strptime(m.group(1), "%d.%m.%Y").date()
+            end_date = dt.strptime(m.group(2), "%d.%m.%Y").date()
+        else:
+            start_date = TODAY
+            end_date = TODAY
+
+        # Programmzeilen bis zum Infotext
+        prog_lines = []
+        for ln in lines[header_idx + 1:]:
+            if ln.startswith("Hier finden Sie lokale Unternehmen"):
+                break
+            prog_lines.append(ln)
+
+        # Blöcke pro Film, getrennt durch "* * *"
+        blocks = []
+        cur = []
+        for ln in prog_lines:
+            if ln.startswith("* * *"):
+                if cur:
+                    blocks.append(cur)
+                    cur = []
+            else:
+                cur.append(ln)
+        if cur:
+            blocks.append(cur)
+
+        for block in blocks:
+            if len(block) < 5:
+                continue
+
+            # Titel = erste Zeile
+            title = block[0].strip()
+
+            # Genre = erste nicht-leere Zeile nach dem Titel, die nicht mit "Regie" beginnt
+            genre = ""
+            for ln in block[1:]:
+                if ln.lower().startswith("regie"):
+                    break
+                if ln.strip():
+                    genre = ln.strip()
+                    break
+
+            # Zeit-Zeile = letzte Zeile mit Uhrzeiten
+            time_line = None
+            for ln in reversed(block):
+                if re.search(r"\d{1,2}:\d{2}", ln):
+                    time_line = ln
+                    break
+            if not time_line:
+                continue
+
+            times = re.findall(r"\d{1,2}:\d{2}", time_line)
+
+            # Datums-Teil: nach "Regie"-Zeile bis vor die Zeitzeile
+            date_lines = []
+            seen_regie = False
+            for ln in block:
+                if ln.lower().startswith("regie"):
+                    seen_regie = True
+                    continue
+                if ln == time_line:
+                    break
+                if seen_regie:
+                    date_lines.append(ln)
+
+            dates_text = " ".join(date_lines)
+            ddmm_tokens = re.findall(r"\d{2}\.\d{2}", dates_text)
+
+            date_list = []
+            if ddmm_tokens:
+                year = start_date.year
+                for dstr in ddmm_tokens:
+                    day, month = map(int, dstr.split("."))
+                    try:
+                        d_obj = datetime.date(year, month, day)
+                    except ValueError:
+                        continue
+                    if start_date <= d_obj <= end_date:
+                        date_list.append(d_obj)
+            else:
+                # Fallback: alle Tage im Programmzeitraum
+                d_obj = start_date
+                while d_obj <= end_date:
+                    date_list.append(d_obj)
+                    d_obj += datetime.timedelta(days=1)
+
+            # Cross-Produkt: jede Zeit für jeden Tag
+            for d_obj in date_list:
+                wd_abbr = _WD[d_obj.weekday()]  # ["Mo","Di","Mi","Do","Fr","Sa","So"]
+                date_str = d_obj.strftime(f"{wd_abbr}, %d.%m.%Y")
+                for t in times:
+                    events.append({
+                        "date": date_str,
+                        "time": t,
+                        "event": f"{title} (@cinemaxx_bielefeld)",
+                        "category": "Kino",
+                        "genre": genre,
+                        "link": base_url
+                    })
     if base_url == impro:
         # Yesticket / Impro logic
         event_links = soup.select("a[href^='/event/']")
@@ -1100,18 +1223,18 @@ def scrape_events(base_url):
                                  'weekly', None, '18:00', 'Sport')
             add_recurring_events(events, "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*", "MONDAY",
                                  'https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==',
-                                 'weekly', None, '18:00', 'Sport')
+                                 'weekly', None, '18:00', 'Sport','https://tse3.mm.bing.net/th/id/OIP.S2SyS4KZbgQ0_dDtL7HNZgAAAA?pid=Api&P=0&h=180')
             add_recurring_events(events, "*TRIBE BOULDERN (@Kletterhalle Senne)*", "WEDNESDAY",
                                  'https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==',
-                                 'weekly', None, '18:00', 'Sport')
+                                 'weekly', None, '18:00', 'Sport','https://tse1.mm.bing.net/th/id/OIP.D7cGrd3eVbKKmPzuTGy3bAHaE7?pid=Api&P=0&h=180')
             add_recurring_events(events, "*TRIBE FUSSBALL (@Obersee Fussballplatz)*", "THURSDAY",
                                  'https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==',
-                                 'weekly', None, '18:00', 'Sport')
+                                 'weekly', None, '18:00', 'Sport','https://tse4.mm.bing.net/th/id/OIP.z4_tOpHu9LDKhBvwMmtfaAHaDF?pid=Api&P=0&h=180')
             add_recurring_events(events, "*TRIBE KENNENLERNABEND*", "SUNDAY",
                                  'https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==',
-                                 'weekly', None, '19:00', 'Ausgehen')
+                                 'weekly', None, '19:00', 'Ausgehen','https://tse4.mm.bing.net/th/id/OIP.htPgRNUrO64Waz18vYeGCwHaE8?pid=Api&P=0&h=180')
             add_recurring_events(events, "*TRIBE WANDERSAMSTAG*", "SATURDAY", irish_pub, 'monthly_last', None, '14:00',
-                                 'Sport')
+                                 'Sport','https://tse3.mm.bing.net/th/id/OIP.iKA0DHF5Zm45ymk7fGiQqAHaEK?pid=Api&P=0&h=180')
             add_recurring_events(events, "*TRIBE CREATIVE CIRCLES*", "FRIDAY",
                                  'https://www.instagram.com/reel/DBwDGB9IL3_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==',
                                  'monthly_last', None, '19:00', 'Kreativität')
@@ -1296,7 +1419,7 @@ if __name__ == '__main__':
     sources = [
         platzhirsch, irish_pub, movie,
         bielefeld_jetzt, forum, f2f, sams, nrzp,
-        bunker, stereobielefeld, cafe, arminia, impro, hsp, vhs, theater, kunsthalle,
+        bunker, stereobielefeld, cafe, arminia, impro, hsp, vhs, theater, kunsthalle,cinemaxx,
         *[f"https://rausgegangen.de/en/{slug}/eventsbydate/" for slug in RAUSGEGANGEN_CITIES.values()]
 
     ]
