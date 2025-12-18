@@ -9,14 +9,6 @@
     },
     {
         "date": "Th, 18.12.2025",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
-        "date": "Th, 18.12.2025",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -54,6 +46,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Th, 18.12.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Do, 18.12.2025",
@@ -106,6 +106,16 @@
         "event": "Picturebooks (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/the-picturebooks-4/",
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
+    },
+    {
+        "date": "Thu, 18.12.2025",
+        "time": "16:30",
+        "event": "Christmas Garden Dresden (@Christmas Garden Dresden)",
+        "category": "",
+        "description": "Vom 20. November 2025 bis 11. Januar 2026 erstrahlen Schloss & Park Pillnitz in einem funkelnden Lichtermeer! 🌟 Dich erwarten über 30 zauberhafte Lichtinstallationen auf einem rund 2 km langen Rundweg, begleitet von stimmungsvoller Musik und magischen Momenten 🎶💫 . Genieße das vielfältige weihnachtliche Gastronomieangebot und lass dich vom festlichen Glanz und der winterlichen Atmosphäre verzaubern.🎄",
+        "link": "https://rausgegangen.de/en/events/christmas-garden-dresden-71/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/H6QoSBFQluEgW09NMbeR_christmas-garden-dresden-2024christmas-gardendennis-reimann-23-web.jpg?width=1200&height=900&mode=crop",
+        "city": "Dresden"
     },
     {
         "date": "Thu, 18.12.2025",
@@ -169,16 +179,6 @@
     },
     {
         "date": "Thu, 18.12.2025",
-        "time": "16:30",
-        "event": "Christmas Garden Dresden (@Christmas Garden Dresden)",
-        "category": "",
-        "description": "Vom 20. November 2025 bis 11. Januar 2026 erstrahlen Schloss & Park Pillnitz in einem funkelnden Lichtermeer! 🌟 Dich erwarten über 30 zauberhafte Lichtinstallationen auf einem rund 2 km langen Rundweg, begleitet von stimmungsvoller Musik und magischen Momenten 🎶💫 . Genieße das vielfältige weihnachtliche Gastronomieangebot und lass dich vom festlichen Glanz und der winterlichen Atmosphäre verzaubern.🎄",
-        "link": "https://rausgegangen.de/en/events/christmas-garden-dresden-71/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/H6QoSBFQluEgW09NMbeR_christmas-garden-dresden-2024christmas-gardendennis-reimann-23-web.jpg?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Thu, 18.12.2025",
         "time": "12:00",
         "event": "Kunst Weihnachts Market (@ippuku)",
         "category": "",
@@ -210,22 +210,82 @@
     {
         "date": "Thu, 18.12.2025",
         "time": "19:30",
-        "event": "QUIZLABOR Leipzig (@StuK (Leipziger Studentenkeller e.V.))",
-        "category": "",
-        "description": "Ein Quizlabor einfach nur ein \"Kneipenquiz\" zu nennen ist, als ob man eine Klärgrube ein \"warmes Bad\" nennen würde: vom Prinzip her das Gleiche, bloß mit unterschiedlich viel Leben gefüllt.  Denn wir stellen nicht die üblichen Fragen (doch, einmal hatten wir eine übliche Frage gestellt, aber dann warf man mit Stiften nach uns), sondern bei uns wird quer gedacht, schräg gerätselt und schief kombiniert.  Und wie unser Name schon sagt, entwickeln wir immer neue Arten von Fragen und Rätseln, die Eure Synapsen zum glühen bringen: von Bilderrätseln bis hin zu \"Doku oder Porno\" und der berühmten \"Computerstimme Sabine\" - ein Quizlabor fordert mehr von Euch, als einfach nur \"Wissen\".  Um das Ganze noch fröhlicher zu gestalten, wird unsere Show mit albernen Katzenvideos aus diesem Internet und arglistigen Spielereien, wie dem Glücksrad oder dem Hyper-Punktediagramm untermalt.  Und nicht zu verachten: bei einem Quizlabor gewinnt nicht nur der erste Platz. Wir werfen mit Likören um uns, dass es nur so eine Freude ist!  Wenn ihr bei einem Quizlabor dabei sein wollt meldet euer Team über unsere Reservierungsseite an. Für die Veranstaltungen in der Eisengiesserei geht das immer einen Monat im Voraus, für die Veranstaltungen im StuK immer sieben Tage vorher.",
-        "link": "https://rausgegangen.de/en/events/quizlabor-kneipenquiz-im-stuk-37/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/x1yMXPoORfKpB43MIxFX_ql-event-photo.jpg?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
-    },
-    {
-        "date": "Thu, 18.12.2025",
-        "time": "19:30",
         "event": "advenzz benefizz jazz  2025 (@Neue Musik Leipzig)",
         "category": "",
         "description": "Adventszeit ist Traditionszeit. Und Traditionen soll man pflegen, wie Oma einst nicht müde wurde zu betonen. Da schalten die meisten bereits ab, mit Recht. Aber halt!Seit mittlerweile neun Jahren lädt das »advenzz benefizz jazz« zum vorweihnachtlich-karitativen Konzertabend ein. Und das ist nicht nur deshalb eine gute Sache, weil es für die gute Sache ist, nein: Denn hier gibt sich seit 2016 das Who-is-Who der illustren Leipziger Jazzszene die Klinke in die Hand!Ein Blick aufs diesjährige Line-Up verrät: Da kannste nix sagen! Das Lucas Rauch Organ Trio präsentiert ein zeitgemäßes Update des klassischen Organ-Jazz-Sounds der Sechziger. Wer es moderner mag, kommt mit den zwischen Ambient, Jazz und Neuer Klassik mäandernden Klangminiaturen des Pianisten Johannes Wasikowski auf seine Kosten. Druckvoller wird es dagegen mit dem Mona Linus Quintett. Und auch das MONDAYBOXX – The Real Jazz Orchestra schaut vorbei und spielt Jazz der guten alten Schule.Die Einnahmen gehen dieses Mal an die beiden gemeinnützigen Vereine Ärzte Ohne Grenzen und TiMMi ToHelp. Wie gesagt: Da kannste nix sagen!",
         "link": "https://rausgegangen.de/en/events/advenzz-benefizz-jazz-2025-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/O4HH0BFwRXqMVp1Ocd27_yrjyzeesxw3qfpnm8gcwfb-eventbild-v2-advenzzbenefizzjazz2025.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
+    },
+    {
+        "date": "Thu, 18.12.2025",
+        "time": "11:00",
+        "event": "70 Years of Design – Masterpieces Selected by Peter Zec (@Red Dot Design Museum)",
+        "category": "",
+        "description": "Anlässlich seines 70-jährigen Jubiläums blickt das Red Dot Design Museum auf seine bewegte Geschichte zurück, die 1955 mit der „Ständigen Schau formschöner Industrieerzeugnisse“ in Essen begann. „70 Years of Design – Masterpieces Selected by Peter Zec“ versammelt Produkte aus sieben Jahrzehnten, die für wegweisendes Design und gestalterische Qualität stehen.Kuratiert wurde die Ausstellung von Professor Dr. Peter Zec, Initiator und CEO von Red Dot und seit 34 Jahren an der Spitze des Design Zentrums Nordrhein Westfalen, der Institution hinter dem Museum. Seine persönlichen Kommentare und fachlichen Einordnungen machen die Präsentation zu einem Plädoyer für Qualität und Konsequenz in der Gestaltung.Die Ausstellung ist bis zum 1. Februar 2026 im Red Dot Design Museum auf dem Gelände des UNESCO-Welterbes Zollverein in Essen zu sehen.",
+        "link": "https://rausgegangen.de/en/events/70-years-of-design-masterpieces-selected-by-peter-zec-61/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zewJBLcPTKOZICobxL4a_rdm70-jahre-designipad802x586neutral.png?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Thu, 18.12.2025",
+        "time": "18:30",
+        "event": "The Game Club (@Cafe Delulu)",
+        "category": "",
+        "description": "Spieleabend Vibes  – Christmas Edition 🎄It’s game time, Girls! Beim Christmas Game Club erwartet dich ein entspannter Abend voller Brett- und Gesellschaftsspiele, leckerer Verpflegung und neuer Connections – alles in der gemütlichen Atmosphäre des Café Delulu in Essen.Was dich erwartet: • Eine Auswahl an klassischen & kreativen Gesellschaftsspielen • 15 % auf alle Drinks im Café Delulu ☕ • Neue Gesichter, echte Gespräche & ganz viel Girls Club Vibe • Und dieses Mal: ein weihnachtlicher Twist – wir spielen Secret Santa 🎁✨So funktioniert’s: 🎁 Bring ein kleines Wichtelgeschenk für ein anderes Girl mit 💸 Budget: 8–12 € ✨ Lass deinem inneren Weihnachts-Elfen freien Lauf – wir freuen uns auf süße, persönliche Geschenke, die jemandem eine Freude machen, den du vielleicht erst an diesem Abend kennenlernstLet’s play, connect & vibe together – mit einer Extraportion Christmas Magic! 🎄🧩✨Hinweis:Bei dieser Veranstaltung handelt es sich um ein Event eines Social Clubs für Frauen in den Zwanzigern! Um den Community-Gedanken zu fördern und allen die Chance zu geben, neue Girls kennenzulernen, werden die Gruppen immer wieder gemischt und keiner sitzt dauerhaft mit den selben Girls! So bleibt es fair & im Sinne des Social Clubs – danke für euer Verständnis!Bitte beachtet, dass die Tickets leider nicht erstattet werden können. Gerne könnt ihr uns jedoch über Instagram kontaktieren, und wir schauen, ob sich vielleicht jemand aus der Community findet, der die Tickets übernehmen möchte.Außerdem möchten wir euch darauf hinweisen, dass während der Veranstaltung Fotos und Videos gemacht werden, die für Marketingzwecke verwendet werden.",
+        "link": "https://rausgegangen.de/en/events/the-game-club-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/qajvvv4xRrYKKAu2fV1g_39.png?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Thu, 18.12.2025",
+        "time": "16:00",
+        "event": "Hub Zeit - Get Together im Creative Hub Bremen (@Creative HUB)",
+        "category": "",
+        "description": "Es ist wieder unsere HUB-Zeit!  Wir wollen uns im Creative HUB in einem gemütlichem Rahmen Austauschen und Netzwerken!Alle Community-Mitglieder sind willkommen, ebenso alle Interessierten von außerhalb, die gerne mal einen Einblick in den HUB bekommen wollen.Aber Achtung: es besteht die Gefahr, dass der kreative Charme im Haus euch umhaut und ihr nicht wieder davon los kommt...Treffen ist im Café im Creative HUB. Für Getränke und Snacks wird gesorgt 🙂 Wir freuen uns auf spannende Gespräche und viele Menschen!",
+        "link": "https://rausgegangen.de/en/events/hub-zeit-get-together-im-creative-hub-bremen-10/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/NDhYhzAtRMzAbMiEVqG5_bildschirmfoto23-1-2025121226zentraleevents.jpeg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Thu, 18.12.2025",
+        "time": "17:00",
+        "event": "Community Art Night: DIY-Geschenkpapier, Silent Reading & Sketching (@Weserburg Museum für moderne Kunst)",
+        "category": "",
+        "description": "Mitmachangebote zur Ausstellung Cold as Ice. Kälte in Kunst und GesellschaftIn dieser Ausgabe der Community Art Night wird es kreativ: Gemeinsam mit der Künstlerin Rümeysa Biricik entsteht im Projektraum Geschenkpapier in der Marmorier-Technik – ein farbintensives DIY-Projekt für alle, die noch eine besondere Verpackung für ihre Weihnachtsgeschenke gestalten möchten.Daneben laden wir zu einer ruhigen und atmosphärischen Museumszeit ein: Bringt eure Lieblingsbücher mit und macht es euch in einer Leseecke im Museum bequem oder entdeckt mit Klemmbrett, Papier und Bleistift zeichnend neue Perspektiven auf die Weser, die Schlachte und die Lichter des Weihnachtsmarkts. Passend zur Ausstellung Cold as Ice. Kälte in Kunst und Gesellschaft gibt es eine kleine Bücherauswahl für Kinder und Erwachsene.Und für alle, die die Ausstellung vertiefen möchten, gibt es die Möglichkeit, Cold as Ice. Kälte in Kunst und Gesellschaft in einem stillen Rundgang oder im Flüstergespräch näher kennenzulernen.Zur Community Art Night:Während der Ausstellung Cold as Ice. Kälte in Kunst und Gesellschaft lädt der Projektraum in der Weserburg einmal im Monat donnerstags von 17–20:30 Uhr zum Aufwärmen ein. Beim gemeinsamen Gestalten und Begegnen entsteht hier ein Gegenpol zur Kälte – offen für alle und jenseits von Zuschreibungen, Disziplinen oder Sprachen.Das Programm ist vielfältig: Druckwerkstatt, Malaktionen, Silent Reading & Sketching Event oder ein Community Chor. Zum Abschluss gibt es im März einen Kleidertausch Pop-Up und DJ-Set.Zwischen 17 und 18 Uhr besteht zudem die Möglichkeit die Ausstellung Cold as Ice zu besuchen. Bei kurzen Führungen und Gesprächen mit Menschen aus der Stadtgesellschaft und Museum werden einzelne Arbeiten vorgestellt.Ermöglicht durch die Sparkasse Bremen sowie gefördert von der Kulturstiftung des Bundes.",
+        "link": "https://rausgegangen.de/en/events/community-art-night-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bIny9HHfTU6A2Lg2EWUp_bild-community-art-night-2.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Thu, 18.12.2025",
+        "time": "18:00",
+        "event": "Tropical Thursday  - Jaya meets Modernes (@Modernes)",
+        "category": "",
+        "description": "Jaya Afterwork meets Modernes! Die heißeste Afterwork im Bremer Winter.Tanz dich glücklich zu Salsa, Bachata, Afrobeat & Merengue – voller Energie, Freude und Sommerfeeling im Herzen Bremens!Wir bringen dir die Sonne zurück – mit heißen Rhythmen, coolen Drinks & einer Atmosphäre, die pure Lebensfreude versprüht. Egal ob Tanzprofi oder Neuling – hier zählt nur eins: das Leben feiern! TROPICAL THURSDAY X CHRISTMAS NEVERLAND:Zudem freuen wir uns mächtig, an diesem Abend zusätzlich die Community von Network Neverland im Hause begrüßen zu dürfen! Und wie immer kommen sie mit riesiger Entourage: Neben der Star DJ Chany Dakota und der Influencerin Dana Feist, kommen weitere Creator, Kreative und Party People.🎧 DJs: Alexey & Pedro Gonzalez & Chany Dakota🔥 Salsa | Bachata | Afro Beats | Latin | SPECIAL TECH HOUSE SET VON CHANY DAKOTA",
+        "link": "https://rausgegangen.de/en/events/tropical-thursday-jaya-meets-modernes-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/IIv4YagR0SqWqcCvrH3C_tt-jaya-1920x1080.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Thu, 18.12.2025",
+        "time": "19:00",
+        "event": "Kerzenlichtkonzert mit dem Bremer Barock Consort (@St. Petri Dom Bremen)",
+        "category": "",
+        "description": "Bachkantaten zur WeihnachtszeitKonzert mit dem Bremer Barock Consort unter der Leitung von Prof. Detlef Bratschke. Eintritt: € 15 / 10 erm. (nur Abendkasse) Kinder bis 14 Jahren freiEine Veranstaltung vom St. Petri Dom Bremen in Kooperation mit der Hochschule für Künste Bremen.",
+        "link": "https://rausgegangen.de/en/events/kerzenlichtkonzert-mit-dem-bremer-barock-consort-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/qeEO3hKRgCziXcypqKiT_kerzenlicht2022-020.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Thu, 18.12.2025",
+        "time": "20:00",
+        "event": "Viertel Comedy #8 (@Kulturzentrum Lagerhaus)",
+        "category": "",
+        "description": "🎤 Viertel Comedy – 18.12.2025 im Kulturzentrum Lagerhaus 🎤Ein Abend für Leute, die gerne junge Stand-Up Comedy sehen wollen. Mit auf der Bühne:✨ Karo Bender – bei ihr wird’s gern schwarz und schräg. Karo nimmt Alltag, Beziehungen und gesellschaftliche Abgründe auseinander und serviert die unangenehme Wahrheit mit beißender Präzision.✨ Behrend Ibbeken – er baut Pointen wie kleine Konstruktionen: Schauspiel und Jazz sind die Basis seiner Bühne. Bildsprache, Dialekte und eine große Portion Selbstironie prägen sein Programm.✨ Björn von Morgenstern – Geschichten aus dem Provinzalltag, erzählt mit eigenem Takt und einer Mischung aus Irritation und Nostalgie; einer, der aus kleinen Momenten ganze Szenen formt.👉 Einlass: 19:30 Uhr 👉 Beginn: 20:00 UhrKommt hin, setzt und gönnt euch.",
+        "link": "https://rausgegangen.de/en/events/viertel-comedy-8-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5uA4tfu5TW2inl0xrS54_169-vc-dez.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Thu, 18.12.2025",
@@ -286,126 +346,6 @@
         "link": "https://rausgegangen.de/en/events/holytizer-donnerstag-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aHppknjWTHCaGk8dA0Kx_photo-1672841284521-902007897fe8?width=1200&height=900&mode=crop",
         "city": "Stuttgart"
-    },
-    {
-        "date": "Thu, 18.12.2025",
-        "time": "16:00",
-        "event": "Hub Zeit - Get Together im Creative Hub Bremen (@Creative HUB)",
-        "category": "",
-        "description": "Es ist wieder unsere HUB-Zeit!  Wir wollen uns im Creative HUB in einem gemütlichem Rahmen Austauschen und Netzwerken!Alle Community-Mitglieder sind willkommen, ebenso alle Interessierten von außerhalb, die gerne mal einen Einblick in den HUB bekommen wollen.Aber Achtung: es besteht die Gefahr, dass der kreative Charme im Haus euch umhaut und ihr nicht wieder davon los kommt...Treffen ist im Café im Creative HUB. Für Getränke und Snacks wird gesorgt 🙂 Wir freuen uns auf spannende Gespräche und viele Menschen!",
-        "link": "https://rausgegangen.de/en/events/hub-zeit-get-together-im-creative-hub-bremen-10/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/NDhYhzAtRMzAbMiEVqG5_bildschirmfoto23-1-2025121226zentraleevents.jpeg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Thu, 18.12.2025",
-        "time": "17:00",
-        "event": "Community Art Night: Silent Reading, Sketching & DIY-Geschenkpapier (@Weserburg Museum für moderne Kunst)",
-        "category": "",
-        "description": "Mitmachangebote zur Ausstellung Cold as Ice. Kälte in Kunst und GesellschaftIn dieser Ausgabe der Community Art Night wird es kreativ: Gemeinsam mit der Künstlerin Rümeysa Biricik entsteht im Projektraum Geschenkpapier in der Marmorier-Technik – ein farbintensives DIY-Projekt für alle, die noch eine besondere Verpackung für ihre Weihnachtsgeschenke gestalten möchten.Daneben laden wir zu einer ruhigen und atmosphärischen Museumszeit ein: Bringt eure Lieblingsbücher mit und macht es euch in einer Leseecke im Museum bequem oder entdeckt mit Klemmbrett, Papier und Bleistift zeichnend neue Perspektiven auf die Weser, die Schlachte und die Lichter des Weihnachtsmarkts. Passend zur Ausstellung Cold as Ice. Kälte in Kunst und Gesellschaft gibt es eine kleine Bücherauswahl für Kinder und Erwachsene.Und für alle, die die Ausstellung vertiefen möchten, gibt es die Möglichkeit, Cold as Ice. Kälte in Kunst und Gesellschaft in einem stillen Rundgang oder im Flüstergespräch näher kennenzulernen.Zur Community Art Night:Während der Ausstellung Cold as Ice. Kälte in Kunst und Gesellschaft lädt der Projektraum in der Weserburg einmal im Monat donnerstags von 17–20:30 Uhr zum Aufwärmen ein. Beim gemeinsamen Gestalten und Begegnen entsteht hier ein Gegenpol zur Kälte – offen für alle und jenseits von Zuschreibungen, Disziplinen oder Sprachen.Das Programm ist vielfältig: Druckwerkstatt, Malaktionen, Silent Reading & Sketching Event oder ein Community Chor. Zum Abschluss gibt es im März einen Kleidertausch Pop-Up und DJ-Set.Zwischen 17 und 18 Uhr besteht zudem die Möglichkeit die Ausstellung Cold as Ice zu besuchen. Bei kurzen Führungen und Gesprächen mit Menschen aus der Stadtgesellschaft und Museum werden einzelne Arbeiten vorgestellt.Ermöglicht durch die Sparkasse Bremen sowie gefördert von der Kulturstiftung des Bundes.",
-        "link": "https://rausgegangen.de/en/events/community-art-night-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bIny9HHfTU6A2Lg2EWUp_bild-community-art-night-2.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Thu, 18.12.2025",
-        "time": "18:00",
-        "event": "Tropical Thursday  - Jaya meets Modernes (@Modernes)",
-        "category": "",
-        "description": "Jaya Afterwork meets Modernes! Die heißeste Afterwork im Bremer Winter.Tanz dich glücklich zu Salsa, Bachata, Afrobeat & Merengue – voller Energie, Freude und Sommerfeeling im Herzen Bremens!Wir bringen dir die Sonne zurück – mit heißen Rhythmen, coolen Drinks & einer Atmosphäre, die pure Lebensfreude versprüht. Egal ob Tanzprofi oder Neuling – hier zählt nur eins: das Leben feiern! TROPICAL THURSDAY X CHRISTMAS NEVERLAND:Zudem freuen wir uns mächtig, an diesem Abend zusätzlich die Community von Network Neverland im Hause begrüßen zu dürfen! Und wie immer kommen sie mit riesiger Entourage: Neben der Star DJ Chany Dakota und der Influencerin Dana Feist, kommen weitere Creator, Kreative und Party People.🎧 DJs: Alexey & Pedro Gonzalez & Chany Dakota🔥 Salsa | Bachata | Afro Beats | Latin | SPECIAL TECH HOUSE SET VON CHANY DAKOTA",
-        "link": "https://rausgegangen.de/en/events/tropical-thursday-jaya-meets-modernes-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/IIv4YagR0SqWqcCvrH3C_tt-jaya-1920x1080.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Thu, 18.12.2025",
-        "time": "19:00",
-        "event": "Kerzenlichtkonzert mit dem Bremer Barock Consort (@St. Petri Dom Bremen)",
-        "category": "",
-        "description": "Bachkantaten zur WeihnachtszeitKonzert mit dem Bremer Barock Consort unter der Leitung von Prof. Detlef Bratschke. Eintritt: € 15 / 10 erm. (nur Abendkasse) Kinder bis 14 Jahren freiEine Veranstaltung vom St. Petri Dom Bremen in Kooperation mit der Hochschule für Künste Bremen.",
-        "link": "https://rausgegangen.de/en/events/kerzenlichtkonzert-mit-dem-bremer-barock-consort-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/qeEO3hKRgCziXcypqKiT_kerzenlicht2022-020.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Thu, 18.12.2025",
-        "time": "20:00",
-        "event": "Viertel Comedy #8 (@Kulturzentrum Lagerhaus)",
-        "category": "",
-        "description": "🎤 Viertel Comedy – 18.12.2025 im Kulturzentrum Lagerhaus 🎤Ein Abend für Leute, die gerne junge Stand-Up Comedy sehen wollen. Mit auf der Bühne:✨ Karo Bender – bei ihr wird’s gern schwarz und schräg. Karo nimmt Alltag, Beziehungen und gesellschaftliche Abgründe auseinander und serviert die unangenehme Wahrheit mit beißender Präzision.✨ Behrend Ibbeken – er baut Pointen wie kleine Konstruktionen: Schauspiel und Jazz sind die Basis seiner Bühne. Bildsprache, Dialekte und eine große Portion Selbstironie prägen sein Programm.✨ Björn von Morgenstern – Geschichten aus dem Provinzalltag, erzählt mit eigenem Takt und einer Mischung aus Irritation und Nostalgie; einer, der aus kleinen Momenten ganze Szenen formt.👉 Einlass: 19:30 Uhr 👉 Beginn: 20:00 UhrKommt hin, setzt und gönnt euch.",
-        "link": "https://rausgegangen.de/en/events/viertel-comedy-8-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5uA4tfu5TW2inl0xrS54_169-vc-dez.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Thu, 18.12.2025",
-        "time": "18:30",
-        "event": "Berlinale Spotlight – Generation: „Autokar & Los Lobos“ (@Dokumentationszentrum Flucht, Vertreibung, Versöhnung)",
-        "category": "",
-        "description": "Film 1: Autokar In den 1990er-Jahren verlässt die achtjährige Agata ihre polnische Heimat in Richtung Belgien – eine Reise, die ihr Angst macht. Im Bus beginnt sie, einen Brief an ihren Vater zu schreiben, der in Polen geblieben ist. Als ihr Bleistift herunterfällt und wegrollt, ist Agata gezwungen, ihre Schüchternheit zu überwinden. Auf der Suche nach dem Stift schlängelt sie sich zwischen den Sitzreihen hindurch und taucht dabei in eine fantastische Welt ein, die von seltsamen Fahrgästen – halb Mensch, halb Tier – bewohnt wird. Agatas Wahrnehmung verwandelt migrantische Realität in ein Initiationserlebnis. Film 2: Los Lobos „Ihr seid starke Wölfe. Wölfe weinen nicht. Wölfe beißen. Sie heulen. Und sie beschützen ihr Zuhause.“ Viel haben sie nicht, der achtjährige Max und sein kleiner Bruder Leo, aber sie haben einander, sie haben ihre Mutter Lucía. Und sie haben einen gemeinsamen Traum: Nach Disneyland zu fahren. Die Familie ist kürzlich aus Mexiko in die USA emigriert, und während Lucía mit verschiedenen Jobs versucht, eine finanzielle Grundlage für den Neubeginn zu schaffen, verbringen die beiden Brüder lange Tage in der kargen Einzimmerwohnung. Die neuen vier Wände, die sie nicht verlassen dürfen, werden zur Projektionsfläche fantasievoller Abenteuer und eröffnen einen Ausblick auf das neue Leben. Regisseur Samuel Kishi Leopo greift in Los Lobos auf eigene Kindheitserfahrungen zurück und verortet sie in einem hochaktuellen Kontext – schonungslos und poetisch, melancholisch und hoffnungsvoll. PROGRAMMBegrüßungDr. Gundula Bavendamm, Direktorin Dokumentationszentrum Flucht, Vertreibung, VersöhnungSebastian Markt, Leiter Sektion Generation, BerlinaleFilmvorführungen Film 1 Autokar Von: Sylwia Skiładź (Regie, Buch) Land: Belgien / Frankreich 2025 Sprache: Polnisch / Französisch mit englischen Untertiteln Dauer: 18 Minuten Empfohlen ab 9 JahrenFilm 2 Los Lobos Von: Samuel Kishi Leopo (Regie, Buch), Sofía Gómez Córdova (Buch), Luis Briones (Buch) Land: Mexiko 2019 Sprache: Spanisch / Englisch / Kantonesisch mit englischen Untertiteln Dauer: 95 Minuten Empfohlen ab 9 JahrenFilmgesprächSamuel Kishi Leopo, Regisseur Los LobosSylwia Skiładź, Regisseurin AutokarModeration: Sebastian Markt, Leiter Sektion Generation, BerlinaleSprache: Englisch WEITERE HINWEISEEinlasszeit: 18.00 UhrSprache: EnglischEINTRITT FREIMIT ANMELDUNG Das Berlinale Spotlight - Berlinale Generation ist eine Kooperation zwischen dem Dokumentationszentrum Flucht, Vertreibung, Versöhnung und dem European Film Market (EFM) der Berlinale.",
-        "link": "https://rausgegangen.de/en/events/berlinale-spotlight-generation-autokar-los-lobos-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TbVMiRmzQC2xOLhLY5ze_generations.png?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Thu, 18.12.2025",
-        "time": "18:30",
-        "event": "Oysters and Movies: A Bigger Splash (OV: ENG) (@Filmtheater Colosseum)",
-        "category": "",
-        "description": "A Bigger Splash - Regie: Luca GuadagninoOYSTERS AND MOVIES – Kino & Genuss. Nach Amélie reisen wir weiter – diesmal dorthin, wo die Sonne brennt, das Meer glitzert und die Nächte schwer sind vor Sehnsucht.Am 18. Dezember zeigen wir im Colosseum Kino Berlin den Film „A Bigger Splash“ von Luca Guadagnino – ein vibrierendes, sinnliches Urlaubsszenario auf einer italienischen Insel: Musik, Leidenschaft, Hitze, Eifersucht, Meer. Ein Film, der sich anfühlt wie ein endloser Spätsommertag. Dazu serviert House of Oysters frische Austern und Champagner – perfekt, um für einen Abend in diese mediterrane Welt einzutauchen. Austern & Champagner gibt es nur solange der Vorrat reicht und sind nicht im Ticketpreis enthalten.Eigentlich wollen Filmemacher Paul und seine Freundin, die Rock-Legende Marianne, einen ruhigen Erholungsurlaub auf der italienischen Insel Pantelleria verbringen. Ihre Ferienidylle wird jedoch durch die unerwartete Ankunft von Mariannes Ex, dem Musik-Produzenten Harry, mit seiner erwachsenen Tochter Penelope gestört. Während Harry sich erneut um seine Verflossene bemüht, flirtet Penelope ungeniert mit Paul. Die plötzlich erwachenden Leidenschaften werden für alle Beteiligten zur Gefahr.",
-        "link": "https://rausgegangen.de/en/events/oysters-and-movies-a-bigger-splash-ov-eng-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/HRRguVwTaO2vbt0MmBoT_201130behindthetreeposterquer.jpeg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Thu, 18.12.2025",
-        "time": "19:00",
-        "event": "JETZT! TOGETHER Special Screening zum Kurzfilmtag (@ACUDkino)",
-        "category": "",
-        "description": "Zum (fast) kürzesten Tag des Jahres bringen wir Festivals aus dem deutschsprachigen Raum an einem Abend zusammen. Fünf Festivals aus dem deutschsprachigen Raum präsentieren Kurzfilme ihrer letzten Programme.   🇩🇪 PREVYOU Kurzfilmfestival (DE) präsentiert FEED YOUR HEAD | Bernhard Strobel 🇩🇪 Sehsüchte (DE) präsentiert FREAK OF NATURE | Alexandra Lermer 🇦🇹 YOUKI (AU) präsentiert ALS ICH HEUTE AUFGEWACHT BIN, WUSSTE ICH NICHT, WELCHER TAG ES WAR. ES IST WOHL SOMMER | J. S. Schönbauer 🇨🇭 upcoming filmmakers (CH) präsentiert TWO POINT FIVE STARS | Dario Boger / Dario Marti / Sina Lerf 🇱🇺 Lux Film Fest (LUX) präsentiert MIA MIO | Roxanne Peguet",
-        "link": "https://rausgegangen.de/en/events/jetzt-together-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/z7Pbr9imQWOwV5vIGMYe_jtrausgegangen.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Thu, 18.12.2025",
-        "time": "20:00",
-        "event": "EMMA-JEAN THACKRAY (@Privatclub)",
-        "category": "",
-        "description": "Multi-dimensional multi-instrumentalist and producer Emma-Jean Thackray releases her extraordinary second album on Gilles Peterson’s Brownswood label. Musically and creatively, Weirdo bridges grunge, pop, soul and jazz, channelling George Clinton and Kurt Cobain in the award-winning artist’s powerfully idiosyncratic style. Virtuosic musicality and self-expression is combined with humour in this triumphant exploration of loss, recovery and gratitude.Playing and recording every instrument, writing, singing, and arranging all of the songs, and producing, recording, and mixing the whole album, alone in her south London flat, Weirdo is a truly remarkable achievement on every level: compositionally, lyrically and personally.Emma-Jean Thackray: “I’ve made records before where I’m playing, recording and having total control over the entire creation but have always downplayed it. I feel now is the time to talk about it, because this is such a personal record. It’s the essence of who I am.”",
-        "link": "https://rausgegangen.de/en/events/emma-jean-thackray-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Z9pAx2Y5QxmHSOtlru67_4008awhighres01.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Thu, 18.12.2025",
-        "time": "20:00",
-        "event": "A Scenario Of A System Off (@Radialsystem)",
-        "category": "",
-        "description": "Erlebe eine Performance, die mit Bewegung, Klang und überraschenden Bildern deine Wahrnehmung auf den Kopf stellt. Drei Tänzer:innen und unsichtbare Wesen schaffen poetische Momente, in denen Gewohntes plötzlich ganz neu erscheint. Hier werden alltägliche Gesten zu spannenden Rätseln und laden dich zum Staunen ein.",
-        "link": "https://rausgegangen.de/en/events/a-scenario-of-a-system-off-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ff2WrGWgQemYvhk9m4mt_01visualscenariocdora-urkesacprint.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Thu, 18.12.2025",
-        "time": "11:00",
-        "event": "70 Years of Design – Masterpieces Selected by Peter Zec (@Red Dot Design Museum)",
-        "category": "",
-        "description": "Anlässlich seines 70-jährigen Jubiläums blickt das Red Dot Design Museum auf seine bewegte Geschichte zurück, die 1955 mit der „Ständigen Schau formschöner Industrieerzeugnisse“ in Essen begann. „70 Years of Design – Masterpieces Selected by Peter Zec“ versammelt Produkte aus sieben Jahrzehnten, die für wegweisendes Design und gestalterische Qualität stehen.Kuratiert wurde die Ausstellung von Professor Dr. Peter Zec, Initiator und CEO von Red Dot und seit 34 Jahren an der Spitze des Design Zentrums Nordrhein Westfalen, der Institution hinter dem Museum. Seine persönlichen Kommentare und fachlichen Einordnungen machen die Präsentation zu einem Plädoyer für Qualität und Konsequenz in der Gestaltung.Die Ausstellung ist bis zum 1. Februar 2026 im Red Dot Design Museum auf dem Gelände des UNESCO-Welterbes Zollverein in Essen zu sehen.",
-        "link": "https://rausgegangen.de/en/events/70-years-of-design-masterpieces-selected-by-peter-zec-61/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zewJBLcPTKOZICobxL4a_rdm70-jahre-designipad802x586neutral.png?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Thu, 18.12.2025",
-        "time": "18:30",
-        "event": "The Game Club (@Cafe Delulu)",
-        "category": "",
-        "description": "Spieleabend Vibes  – Christmas Edition 🎄It’s game time, Girls! Beim Christmas Game Club erwartet dich ein entspannter Abend voller Brett- und Gesellschaftsspiele, leckerer Verpflegung und neuer Connections – alles in der gemütlichen Atmosphäre des Café Delulu in Essen.Was dich erwartet: • Eine Auswahl an klassischen & kreativen Gesellschaftsspielen • 15 % auf alle Drinks im Café Delulu ☕ • Neue Gesichter, echte Gespräche & ganz viel Girls Club Vibe • Und dieses Mal: ein weihnachtlicher Twist – wir spielen Secret Santa 🎁✨So funktioniert’s: 🎁 Bring ein kleines Wichtelgeschenk für ein anderes Girl mit 💸 Budget: 8–12 € ✨ Lass deinem inneren Weihnachts-Elfen freien Lauf – wir freuen uns auf süße, persönliche Geschenke, die jemandem eine Freude machen, den du vielleicht erst an diesem Abend kennenlernstLet’s play, connect & vibe together – mit einer Extraportion Christmas Magic! 🎄🧩✨Hinweis:Bei dieser Veranstaltung handelt es sich um ein Event eines Social Clubs für Frauen in den Zwanzigern! Um den Community-Gedanken zu fördern und allen die Chance zu geben, neue Girls kennenzulernen, werden die Gruppen immer wieder gemischt und keiner sitzt dauerhaft mit den selben Girls! So bleibt es fair & im Sinne des Social Clubs – danke für euer Verständnis!Bitte beachtet, dass die Tickets leider nicht erstattet werden können. Gerne könnt ihr uns jedoch über Instagram kontaktieren, und wir schauen, ob sich vielleicht jemand aus der Community findet, der die Tickets übernehmen möchte.Außerdem möchten wir euch darauf hinweisen, dass während der Veranstaltung Fotos und Videos gemacht werden, die für Marketingzwecke verwendet werden.",
-        "link": "https://rausgegangen.de/en/events/the-game-club-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/qajvvv4xRrYKKAu2fV1g_39.png?width=1200&height=900&mode=crop",
-        "city": "Essen"
     },
     {
         "date": "Thu, 18.12.2025",
@@ -486,6 +426,56 @@
         "link": "https://rausgegangen.de/en/events/rock-show-180-minutes-guitar-hymns-2/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/COq1M4RWQBGkng6OfyPQ_rockshowbanner.jpg?width=1200&height=900&mode=crop",
         "city": "Dortmund"
+    },
+    {
+        "date": "Thu, 18.12.2025",
+        "time": "18:30",
+        "event": "Berlinale Spotlight – Generation: „Autokar & Los Lobos“ (@Dokumentationszentrum Flucht, Vertreibung, Versöhnung)",
+        "category": "",
+        "description": "Film 1: Autokar In den 1990er-Jahren verlässt die achtjährige Agata ihre polnische Heimat in Richtung Belgien – eine Reise, die ihr Angst macht. Im Bus beginnt sie, einen Brief an ihren Vater zu schreiben, der in Polen geblieben ist. Als ihr Bleistift herunterfällt und wegrollt, ist Agata gezwungen, ihre Schüchternheit zu überwinden. Auf der Suche nach dem Stift schlängelt sie sich zwischen den Sitzreihen hindurch und taucht dabei in eine fantastische Welt ein, die von seltsamen Fahrgästen – halb Mensch, halb Tier – bewohnt wird. Agatas Wahrnehmung verwandelt migrantische Realität in ein Initiationserlebnis. Film 2: Los Lobos „Ihr seid starke Wölfe. Wölfe weinen nicht. Wölfe beißen. Sie heulen. Und sie beschützen ihr Zuhause.“ Viel haben sie nicht, der achtjährige Max und sein kleiner Bruder Leo, aber sie haben einander, sie haben ihre Mutter Lucía. Und sie haben einen gemeinsamen Traum: Nach Disneyland zu fahren. Die Familie ist kürzlich aus Mexiko in die USA emigriert, und während Lucía mit verschiedenen Jobs versucht, eine finanzielle Grundlage für den Neubeginn zu schaffen, verbringen die beiden Brüder lange Tage in der kargen Einzimmerwohnung. Die neuen vier Wände, die sie nicht verlassen dürfen, werden zur Projektionsfläche fantasievoller Abenteuer und eröffnen einen Ausblick auf das neue Leben. Regisseur Samuel Kishi Leopo greift in Los Lobos auf eigene Kindheitserfahrungen zurück und verortet sie in einem hochaktuellen Kontext – schonungslos und poetisch, melancholisch und hoffnungsvoll. PROGRAMMBegrüßungDr. Gundula Bavendamm, Direktorin Dokumentationszentrum Flucht, Vertreibung, VersöhnungSebastian Markt, Leiter Sektion Generation, BerlinaleFilmvorführungen Film 1 Autokar Von: Sylwia Skiładź (Regie, Buch) Land: Belgien / Frankreich 2025 Sprache: Polnisch / Französisch mit englischen Untertiteln Dauer: 18 Minuten Empfohlen ab 9 JahrenFilm 2 Los Lobos Von: Samuel Kishi Leopo (Regie, Buch), Sofía Gómez Córdova (Buch), Luis Briones (Buch) Land: Mexiko 2019 Sprache: Spanisch / Englisch / Kantonesisch mit englischen Untertiteln Dauer: 95 Minuten Empfohlen ab 9 JahrenFilmgesprächSamuel Kishi Leopo, Regisseur Los LobosSylwia Skiładź, Regisseurin AutokarModeration: Sebastian Markt, Leiter Sektion Generation, BerlinaleSprache: Englisch WEITERE HINWEISEEinlasszeit: 18.00 UhrSprache: EnglischEINTRITT FREIMIT ANMELDUNG Das Berlinale Spotlight - Berlinale Generation ist eine Kooperation zwischen dem Dokumentationszentrum Flucht, Vertreibung, Versöhnung und dem European Film Market (EFM) der Berlinale.",
+        "link": "https://rausgegangen.de/en/events/berlinale-spotlight-generation-autokar-los-lobos-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TbVMiRmzQC2xOLhLY5ze_generations.png?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Thu, 18.12.2025",
+        "time": "18:30",
+        "event": "Oysters and Movies: A Bigger Splash (OV: ENG) (@Filmtheater Colosseum)",
+        "category": "",
+        "description": "A Bigger Splash - Regie: Luca GuadagninoOYSTERS AND MOVIES – Kino & Genuss. Nach Amélie reisen wir weiter – diesmal dorthin, wo die Sonne brennt, das Meer glitzert und die Nächte schwer sind vor Sehnsucht.Am 18. Dezember zeigen wir im Colosseum Kino Berlin den Film „A Bigger Splash“ von Luca Guadagnino – ein vibrierendes, sinnliches Urlaubsszenario auf einer italienischen Insel: Musik, Leidenschaft, Hitze, Eifersucht, Meer. Ein Film, der sich anfühlt wie ein endloser Spätsommertag. Dazu serviert House of Oysters frische Austern und Champagner – perfekt, um für einen Abend in diese mediterrane Welt einzutauchen. Austern & Champagner gibt es nur solange der Vorrat reicht und sind nicht im Ticketpreis enthalten.Eigentlich wollen Filmemacher Paul und seine Freundin, die Rock-Legende Marianne, einen ruhigen Erholungsurlaub auf der italienischen Insel Pantelleria verbringen. Ihre Ferienidylle wird jedoch durch die unerwartete Ankunft von Mariannes Ex, dem Musik-Produzenten Harry, mit seiner erwachsenen Tochter Penelope gestört. Während Harry sich erneut um seine Verflossene bemüht, flirtet Penelope ungeniert mit Paul. Die plötzlich erwachenden Leidenschaften werden für alle Beteiligten zur Gefahr.",
+        "link": "https://rausgegangen.de/en/events/oysters-and-movies-a-bigger-splash-ov-eng-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/HRRguVwTaO2vbt0MmBoT_201130behindthetreeposterquer.jpeg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Thu, 18.12.2025",
+        "time": "19:00",
+        "event": "JETZT! TOGETHER Special Screening zum Kurzfilmtag (@ACUDkino)",
+        "category": "",
+        "description": "Zum (fast) kürzesten Tag des Jahres bringen wir Festivals aus dem deutschsprachigen Raum an einem Abend zusammen. Fünf Festivals aus dem deutschsprachigen Raum präsentieren Kurzfilme ihrer letzten Programme.   🇩🇪 PREVYOU Kurzfilmfestival (DE) präsentiert FEED YOUR HEAD | Bernhard Strobel 🇩🇪 Sehsüchte (DE) präsentiert FREAK OF NATURE | Alexandra Lermer 🇦🇹 YOUKI (AU) präsentiert ALS ICH HEUTE AUFGEWACHT BIN, WUSSTE ICH NICHT, WELCHER TAG ES WAR. ES IST WOHL SOMMER | J. S. Schönbauer 🇨🇭 upcoming filmmakers (CH) präsentiert TWO POINT FIVE STARS | Dario Boger / Dario Marti / Sina Lerf 🇱🇺 Lux Film Fest (LUX) präsentiert MIA MIO | Roxanne Peguet",
+        "link": "https://rausgegangen.de/en/events/jetzt-together-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/z7Pbr9imQWOwV5vIGMYe_jtrausgegangen.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Thu, 18.12.2025",
+        "time": "20:00",
+        "event": "EMMA-JEAN THACKRAY (@Privatclub)",
+        "category": "",
+        "description": "Multi-dimensional multi-instrumentalist and producer Emma-Jean Thackray releases her extraordinary second album on Gilles Peterson’s Brownswood label. Musically and creatively, Weirdo bridges grunge, pop, soul and jazz, channelling George Clinton and Kurt Cobain in the award-winning artist’s powerfully idiosyncratic style. Virtuosic musicality and self-expression is combined with humour in this triumphant exploration of loss, recovery and gratitude.Playing and recording every instrument, writing, singing, and arranging all of the songs, and producing, recording, and mixing the whole album, alone in her south London flat, Weirdo is a truly remarkable achievement on every level: compositionally, lyrically and personally.Emma-Jean Thackray: “I’ve made records before where I’m playing, recording and having total control over the entire creation but have always downplayed it. I feel now is the time to talk about it, because this is such a personal record. It’s the essence of who I am.”",
+        "link": "https://rausgegangen.de/en/events/emma-jean-thackray-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Z9pAx2Y5QxmHSOtlru67_4008awhighres01.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Thu, 18.12.2025",
+        "time": "20:00",
+        "event": "A Scenario Of A System Off (@Radialsystem)",
+        "category": "",
+        "description": "Erlebe eine Performance, die mit Bewegung, Klang und überraschenden Bildern deine Wahrnehmung auf den Kopf stellt. Drei Tänzer:innen und unsichtbare Wesen schaffen poetische Momente, in denen Gewohntes plötzlich ganz neu erscheint. Hier werden alltägliche Gesten zu spannenden Rätseln und laden dich zum Staunen ein.",
+        "link": "https://rausgegangen.de/en/events/a-scenario-of-a-system-off-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ff2WrGWgQemYvhk9m4mt_01visualscenariocdora-urkesacprint.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
     },
     {
         "date": "Thu, 18.12.2025",
@@ -652,14 +642,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Fr, 19.12",
-        "time": "23:00",
-        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-back-to-2000-8/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251219_Backto2000_4zu5-1.jpg"
-    },
-    {
         "date": "Fr, 19.12.2025",
         "time": "10:45",
         "event": "Avatar: Fire And Ash (@cinemaxx_bielefeld)",
@@ -674,6 +656,14 @@
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/hbz_aftershowparty_studi__pop/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/12/2ecb3112-bd34-4e62-ab3f-c8724a6c36e9.jpeg"
+    },
+    {
+        "date": "Fr, 19.12",
+        "time": "23:00",
+        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-back-to-2000-8/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251219_Backto2000_4zu5-1.jpg"
     },
     {
         "date": "Fr, 19.12.2025",
@@ -722,26 +712,6 @@
     },
     {
         "date": "Fri, 19.12.2025",
-        "time": "20:15",
-        "event": "Comedy für Freunde - Best of Show (@Comedy für Freunde Club Frankfurt)",
-        "category": "",
-        "description": "Lust auf 90 Minuten Comedy pur? 🎤 Erlebe die besten Comedians aus Frankfurt und ganz Deutschland bei „Comedy für Freunde“ – eine Show voller Lacher mit Profi-Comedians und aufstrebenden Talenten! Bleib nach der Show im Club, genieß coole Drinks und starte perfekt ins Wochenende! 🍹",
-        "link": "https://rausgegangen.de/en/events/comedy-fur-freunde-open-mic-249/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7yNj8BkRRiOTaVZzjaII_bildschirmfoto-2024-12-14-um-152115.png?width=1200&height=900&mode=crop",
-        "city": "Frankfurt"
-    },
-    {
-        "date": "Fri, 19.12.2025",
-        "time": "22:00",
-        "event": "RnB only (@Fortuna Irgendwo)",
-        "category": "",
-        "description": "Freitag 19.12.202522.00 - 04.00 UHR / VVK: € 15 / AK € 18RnB onlyLINE UP: ANTHONY | MATHIEU | LIL MARnB ONLYGet ready to vibe to your fav RnB Hits at the first RnB Only Party. Playing Artist like Drake, Sza, Usher, Brent Faiyaz, Don Toliver, Summer Walker, Destinys Child and more. An unforgettable Night for RnB LoversMusic by ANTHONY | MATHIEU | LIL MADon’t miss out on this unforgettable experience. Tell ur friends and save the date!",
-        "link": "https://rausgegangen.de/en/events/rnb-only-33/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hhjylTjR8SkkH8EKcDDT_ffm-rnb-only-fb-format-xmas.png?width=1200&height=900&mode=crop",
-        "city": "Frankfurt"
-    },
-    {
-        "date": "Fri, 19.12.2025",
         "time": "16:30",
         "event": "Christmas Garden Dresden (@Christmas Garden Dresden)",
         "category": "",
@@ -759,6 +729,26 @@
         "link": "https://rausgegangen.de/en/events/the-lazy-boys-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/rS6dDjP9TVG4gGJMWH6J_lazy-boysposterquer.jpg?width=1200&height=900&mode=crop",
         "city": "Dresden"
+    },
+    {
+        "date": "Fri, 19.12.2025",
+        "time": "20:15",
+        "event": "Comedy für Freunde - Best of Show (@Comedy für Freunde Club Frankfurt)",
+        "category": "",
+        "description": "Lust auf 90 Minuten Comedy pur? 🎤 Erlebe die besten Comedians aus Frankfurt und ganz Deutschland bei „Comedy für Freunde“ – eine Show voller Lacher mit Profi-Comedians und aufstrebenden Talenten! Bleib nach der Show im Club, genieß coole Drinks und starte perfekt ins Wochenende! 🍹",
+        "link": "https://rausgegangen.de/en/events/comedy-fur-freunde-open-mic-249/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7yNj8BkRRiOTaVZzjaII_bildschirmfoto-2024-12-14-um-152115.png?width=1200&height=900&mode=crop",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Fri, 19.12.2025",
+        "time": "22:00",
+        "event": "RnB only (@Fortuna Irgendwo)",
+        "category": "",
+        "description": "Freitag 19.12.202522.00 - 04.00 UHR / VVK: € 15 / AK € 18RnB onlyLINE UP: ANTHONY | MATHIEU | LIL MARnB ONLYGet ready to vibe to your fav RnB Hits at the first RnB Only Party. Playing Artist like Drake, Sza, Usher, Brent Faiyaz, Don Toliver, Summer Walker, Destinys Child and more. An unforgettable Night for RnB LoversMusic by ANTHONY | MATHIEU | LIL MADon’t miss out on this unforgettable experience. Tell ur friends and save the date!",
+        "link": "https://rausgegangen.de/en/events/rnb-only-33/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hhjylTjR8SkkH8EKcDDT_ffm-rnb-only-fb-format-xmas.png?width=1200&height=900&mode=crop",
+        "city": "Frankfurt"
     },
     {
         "date": "Fri, 19.12.2025",
@@ -862,6 +852,46 @@
     },
     {
         "date": "Fri, 19.12.2025",
+        "time": "20:00",
+        "event": "A Christmas Carol, Charles Dickens, von UMS'n JIP (@Rabbit Hole Theater)",
+        "category": "",
+        "description": "Über die Kraft von Güte und Mitgefühl.A Christmas Carol nach der gleichnamigen Erzählung von Charles Dickens ist ein Musiktheater mit Musik von UMS  ́n JIP (Ulrike Mayer-Spohn und Javier Hagen), das von Wolfgang Beuschel inszeniert ist. A Christmas Carol fasst die bekannte Geschichte in einen 80-minütigen musikalischen Klangraum – ein performatives Hörspiel sozusagen – der subversiv Electropop mit experimentellen Sounds vermischt: Morton Feldman und Bronski Beat reichen sich hier die Hand.  UMS  ́n JIP interessieren Grauzonen, Übergänge, Klangräume, die Ambivalenz eines Wortes zwischen Klang und Bedeutung, die Ambivalenz eines Bildes zwischen Erscheinung und Bedeutung, die Gleichzeitigkeit und das Verweben verschiedener Medien.Wie von Geisterhand geführt interagieren Videoprojektionen, Musik, Gesang und Inszenierung: Footings der Abfallberge Accras, vietnamesischer Kriegsversehrter, aus industriellen Schlachthäusern und amerikanischen Armenvierteln flimmern – man merkt es kaum – rückwärts über Fensteröffnungen, welche an Weihnachtskugeln erinnern, und die geheimnisvoll mit den Klangmixturen des Duos verwoben sind. Analog zu einer fragmentierten Wirklichkeitswahrnehmung erscheinen die Videoprojektionen fragmentiert, und immer durch verschiedene Brillen. Sobald sich in Scrooges Seele die Wende zum Guten abzeichnet, fließen die Bilder – Footings von gefährlichen Schulwegen in Lateinamerika – vorwärts. Es ist im Leben, wenn auch nicht leicht, nie zu spät, um zu lernen und Dinge besser zu machen.Mit ihren ‚electropop operas‘ ONE, TWO, THREE, FOUR, FIVE, EINER, SANCHO, zahlreichen halbszenischen und performativen Auftragsarbeiten und den Musiktheatern in Zusammenarbeit mit dem CETC am Teatro Colon in Buenos Aires können UMS  ́n JIP seit 2007 auf eine jahrelange Erfahrung mit dem Genre zurückblicken. Ihre Arbeiten sind am ehesten dem instrumentalen Theater und dem konzeptuellen Musiktheater zuzuordnen und spielen virtuos und nicht ohne Ironie mit Ästhetiken zwischen Experimentalmusik und Electropop. UMS  ́n JIP ́s Electropop Operas sind ein unkonventionelles Taschenformat, das künstlerisches High-Tech-Labor und maximale Agilität vereinigt.Zusammen mit ihrem Hausregisseur Wolfgang Beuschel (Zürich) nehmen sie sich mit A Christmas Carol die phantastische und sozialkritische Erzählung Dickens ́ vor und kreieren um die berührende Geschichte ein zauberhaft verträumtes Klanguniversum. Textgrundlage ist ausschließlich das (gekürzte und dramaturgisch verdichtete) englische Original. Die Aufführung wird mit deutschen Untertiteln versehen. Für die Bühne und Visuals zeichnen UMS  ́n JIP verantwortlich.„A Christmas Carol in Prose, Being a Ghost-Story of Christmas“ aus dem Jahre 1843 ist eine der bekanntesten Erzählungen von Charles Dickens. Sie handelt vom Geldverleiher Ebenezer Scrooge, einem alten, grantigen Geizhals, der in einer einzigen Nacht zunächst Besuch von seinem verstorbenen Teilhaber Jacob Marley und dann von drei weiteren Geistern erhält, die ihm schließlich dazu verhelfen, sein Leben zu ändern. A Christmas Carol enthält stark sozialkritische Töne, mit denen Dickens die Missstände im England des 19. Jahrhunderts anprangert. Das wohl größte Vermächtnis seiner Weihnachtsgeschichte ist aber die Botschaft, dass Güte und Mitgefühl für die Mitmenschen zu den höchsten Gütern der Menschheit zählen. Nicht nur an Weihnachten, sondern das ganze Jahr über.electropop opera based on the novel A Christmas Carol by Charles Dickens English (German subtitles) 2020, world premiere  Original Text: Charles Dickens Libretto & Music: UMS  ́n JIP Stage Director: Wolfgang Beuschel Stage & Light Design: UMS  ́n JIP Performers: Ulrike Mayer-Spohn, Javier Hagen",
+        "link": "https://rausgegangen.de/en/events/a-chtristmas-carol-dickens-von-umsn-jip-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/26Ap5xZRQrGFOzMY0wGn_christmas-carol-rausgegangen.jpg?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Fri, 19.12.2025",
+        "time": "20:00",
+        "event": "Eine schrecklich schöne Bescherung (@Theater Courage - so spielt das Leben!)",
+        "category": "",
+        "description": "Weihnachtskomödie von Gabi DauenhauerSEIT 21 JAHREN IM PROGRAMM!Es ist mal wieder soweit: Wie jedes Jahr Heiligabend bei Familie Niklas! Doch dieses Mal stehen die Vorzeichen nicht gerade bestens: Familienoberhaupt Klaus hat seinen Job in der Firma verloren und Ecki, das schwarze Schaf in der Familie, taucht plötzlich als Überraschungsgast auf... Eine Weihnachtskomödie zum Totlachen - unverwüstlich seit 2004 im Programm, aber Achtung: mit deftigem Humor!!! Trotzdem (oder gerade deswegen) KULT!!! Stückdauer: 2 Stunden mit Pause. Eintritt: Vollpreis 18,00 €, Studierende / Arbeitslose (mit gültiger Bescheinigung) 12,00 € und Schüler bis 18 Jahre 10,00 €, Rollstuhlfahrer/in mit Begl.: 22,00 €ACHTUNG: - Ticketkauf via Internet z. Zt. NICHT möglich! - Vorbestellung per Telefon (0201/791466, Bürozeiten: 11.30 - 17.30 Uhr). - Vorbestellung per Mail (theatercourage@t-online.de) - Eintritt pro Person 18 Euro (bzw. 12/10 Euro) möglichst in bar. Zahlung per Handy (Paypal) an der Abendkasse notfalls möglich. - Einlass ab einer halben Stunde vor Beginn.",
+        "link": "https://rausgegangen.de/en/events/eine-schrecklich-schone-bescherung-10/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/geDohRzRWy4ANeOk0sUx_bild1.jpg?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Fri, 19.12.2025",
+        "time": "21:00",
+        "event": "Faravaz / Katanna (@Schwankhalle)",
+        "category": "",
+        "description": "Hier treffen starke Stimmen auf coole Sounds – und du spürst sofort, wie viel Herz und Haltung in jeder Performance steckt. ✨ Faravaz, Katanna & Isi I bringen dir Musik, die mutig, emotional und voller eigener Geschichten ist. 💥",
+        "link": "https://rausgegangen.de/en/events/faravaz-katanna-isi-i-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/af2ZQFsYQzyFB5OYCoLe_collageunknownconcertcsvenschwedemonikaallesch.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Fri, 19.12.2025",
+        "time": "21:30",
+        "event": "Ü30 DISCO - 90's & 00's PARTY (@Shagall Klub)",
+        "category": "",
+        "description": "Ü30 DISCO – 90’s & 00’s Party im Shagall Klub! Am Freitag, den 19. Dezember, geht es direkt nach dem Weihnachtsmarkt weiter: Ab 21:30 Uhr starten wir mit den besten Hits der 90er und 2000er in eine unvergessliche Partynacht! DJ Ceed liefert den perfekten Mix aus Pop, Dance und legendären Partyklassikern – von den Backstreet Boys bis Lady Gaga! Specials: • Eintritt frei bis 22:30 Uhr • Free Welcome Shot zur BegrüßungSchnapp dir deine Freunde und feier mit uns eine Nacht voller Nostalgie, guter Laune und echten Party-Vibes im Shagall Klub!  Ort: Shagall Klub  Datum: Freitag, 19. Dezember 21:30h  DJ: Ceed Werde Teil der exklusiven Shagall VIP-WhatsApp-Gruppe und sichere dir Vorteile, Aktionen & Gästelistenplätze!  Tritt jetzt bei über den Link in Gruppe ein!https://chat.whatsapp.com/IOvB03NjB7z4ZbAmTZ9osDEINTRITT 10€",
+        "link": "https://rausgegangen.de/en/events/u30-disco-90s-00s-party-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jThlfPCZTfaC6GOIwOkp_1912.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Fri, 19.12.2025",
         "time": "17:00",
         "event": "Christmas Garden Stuttgart (@Christmas Garden Stuttgart)",
         "category": "",
@@ -912,23 +942,73 @@
     },
     {
         "date": "Fri, 19.12.2025",
-        "time": "21:00",
-        "event": "Faravaz / Katanna (@Schwankhalle)",
+        "time": "17:00",
+        "event": "Comedy Open Mic Düsseldorf (@Comedy Club Düsseldorf)",
         "category": "",
-        "description": "Hier treffen starke Stimmen auf coole Sounds – und du spürst sofort, wie viel Herz und Haltung in jeder Performance steckt. ✨ Faravaz, Katanna & Isi I bringen dir Musik, die mutig, emotional und voller eigener Geschichten ist. 💥",
-        "link": "https://rausgegangen.de/en/events/faravaz-katanna-isi-i-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/af2ZQFsYQzyFB5OYCoLe_collageunknownconcertcsvenschwedemonikaallesch.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/comedy-open-mic-dusseldorf-48/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/nC8Fwq5cQCmeA9HoBWgB_flash-2-169.jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
     },
     {
         "date": "Fri, 19.12.2025",
-        "time": "21:30",
-        "event": "Ü30 DISCO - 90's & 00's PARTY (@Shagall Klub)",
+        "time": "19:00",
+        "event": "Liverpool Club (@Graf Eventlocation)",
         "category": "",
-        "description": "Ü30 DISCO – 90’s & 00’s Party im Shagall Klub! Am Freitag, den 19. Dezember, geht es direkt nach dem Weihnachtsmarkt weiter: Ab 21:30 Uhr starten wir mit den besten Hits der 90er und 2000er in eine unvergessliche Partynacht! DJ Ceed liefert den perfekten Mix aus Pop, Dance und legendären Partyklassikern – von den Backstreet Boys bis Lady Gaga! Specials: • Eintritt frei bis 22:30 Uhr • Free Welcome Shot zur BegrüßungSchnapp dir deine Freunde und feier mit uns eine Nacht voller Nostalgie, guter Laune und echten Party-Vibes im Shagall Klub!  Ort: Shagall Klub  Datum: Freitag, 19. Dezember 21:30h  DJ: Ceed Werde Teil der exklusiven Shagall VIP-WhatsApp-Gruppe und sichere dir Vorteile, Aktionen & Gästelistenplätze!  Tritt jetzt bei über den Link in Gruppe ein!https://chat.whatsapp.com/IOvB03NjB7z4ZbAmTZ9osDEINTRITT 10€",
-        "link": "https://rausgegangen.de/en/events/u30-disco-90s-00s-party-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jThlfPCZTfaC6GOIwOkp_1912.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
+        "description": "Am 19.12.25 kurz, vor Weihnachten bringen wir den „Liverpool Club“ zurück nach Düsseldorf! Feiert mit uns im „Graf 39“ die Rückkehr des legendären „Liverpool Club“, benannt nach dem Originalnamen der Location aus den Sechziger Jahren. Graf-Adolf-Strasse 39 40210 Düsseldorf, GermanyTickets: https://www.eventbrite.de/e/liverpool-club-dusseldorf-tickets-1965837645316?aff=ebdsoporgprofileWir sind die erfrischende Alternative zur Düsseldorfer Elektroszene! DJ Capt. Blake und Monsieur Discothèque garantieren mit ihren Sets aus Soul und Disco eine unvergessliche, legendäre Partynacht!  Unsere Gäste lieben diesen Sound: Hier erleben junge Besucher die Songs, die sie sonst nur von TikTok kennen, zum ersten Mal im Vinyl-Original. Eine legendäre Partynacht für jede Generation!",
+        "link": "https://rausgegangen.de/en/events/liverpool-club-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/abm8wtExRFKc107Ozh5e_liverpoolclub16-9.PNG?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Fri, 19.12.2025",
+        "time": "20:00",
+        "event": "The Visitor (Modular-Set), Tom Förderer (Multi-layerd Soundscapes),  Louretta & Dr. Schmitt  (Electro-Acoustic)DIY Synth and Sound Art Festival 2025 (@WELTKUNSTZIMMER)",
+        "category": "",
+        "description": "19.12.-21.12.2025 It’s DIY Synth Time! Performances, Installationen, Workshops.Tickets: VVK 5-10€ + VVK Ticketlink: tinyurl.com/diy-synthDIY-Kultur, Modulare Synthesizer und Elektro-Akustische Musikprojekte im WELTKUNSTZIMMER. 19.12.25, 20:00 Uhr, KonzertThe Visitor (Modular-Set) Tom Förderer (Multi-layerd Soundscapes) Louretta & Dr. Schmitt  (Electro-Acoustic)Weitere Events: 21.12. DIY Instrument WORKSHOPInfos: tinyurl.com/workshop-DIY Ort: Weltkunstzimmer Ronsdorfer Str. 77a 40233 Düsseldorf Gefördert vom Kulturamt Düsseldorf Präsentiert vom DIY-Synth & Sound Art Festival // Mit freundlicher Unterstützung des WELTKUNSTZIMMER",
+        "link": "https://rausgegangen.de/en/events/diy-synth-and-sound-art-festival-2025-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wNMa209ER5iFywPIYs9i_abdj0i5.jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Fri, 19.12.2025",
+        "time": "20:30",
+        "event": "JJO NRW – JugendJazzOrchester NRW (@Jazz-Schmiede Düsseldorf | Jazzclub)",
+        "category": "",
+        "description": "Seit 1975 steht das JugendJazzOrchester NRW (JJO NRW) für exzellenten Nachwuchsjazz und ist längst eine feste Größe in der deutschen Big-Band-Landschaft. In seinem 50. Jubiläumsjahr 2025 feiert das Landesensemble sein beeindruckendes Bestehen mit zahlreichen Konzerten – das Jahresabschlusskonzert als krönenden Schlusspunkt des Jubiläumsjahres findet in der Jazz-Schmiede statt. Unter der Leitung von Stefan Pfeifer-Galilea, Gabriel Pérez und Stephan Schulze präsentiert das Orchester einen spannenden Mix aus energiegeladenen Eigenkompositionen, modernen Arrangements und swingender Tradition – gespielt von den besten jungen Jazzmusiker:innen des Landes. Ein Abend voller Spielfreude, Präzision und Jazz auf höchstem Niveau – und ein Ausblick auf die nächsten 50 Jahre JJO NRW.",
+        "link": "https://rausgegangen.de/en/events/jjo-nrw-jugendjazzorchester-nrw-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wceolRBzTlquONBkBh3F_20251219-jjo-nrw-2025-rebecca-ter-braak-4.jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Fri, 19.12.2025",
+        "time": "21:00",
+        "event": "Riddance - Global Dance Music (@reinraum e.V.)",
+        "category": "",
+        "description": "Afro-Disco, Boogie, Caribbean, Latin, Brazil, Proto-House, Baile Funk, Rare Groove, Old SchoolWir schaffen das, wofür man eigentlich mehrere Floors braucht. Wechselnde Styles All Night Long. Quality Tunes aus verschiedenen genres. Rare Perlen und globale Lieblingslieder. VVK 5 EU. AK 8.Nice Price Drinks.DJs: Nora & Klaus Insehaus & Taimles",
+        "link": "https://rausgegangen.de/en/events/riddance-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fVgu0DLFTLCjM29rJaGE_chatgpt-image-9-dez-2025-130908.png?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Fri, 19.12.2025",
+        "time": "20:00",
+        "event": "CUMA Kollektiv // Vacation from Love (@Theater im Pumpenhaus)",
+        "category": "",
+        "description": "Um einen Sänger und seine Liebesaffäre mit seiner Band geht es in VACATION FROM LOVE. Um die Magie der Bühne und den verfliegenden Zauber hinter den Kulissen. Liebe und Sex, Rausch und Ruhm, Glanz und Gier – dieser Star hat alles. So scheint es zumindest. Aber wo endet der Glamour der Show – und wo beginnt der private Größenwahn? Das CUMA Kollektiv stimmt in diesem Physical Theatre-Konzert die bittersüße Sinfonie des „life on the road“ an. Und befragt unterwegs normierte Beziehungsmodelle. Mit neu interpretierten Songs der kanadischen Künstlerin Michelle Gurevich. Im Zentrum: Performer*in Elina Brams Ritzau tanzt, singt spielt Klavier. Ritzau verkörpert dabei virtuos eine Figur zwischen den Geschlechtern, deren innere und äußerer Kämpfe sichtbar werden. VACATION FROM LOVE ist ein Plädoyer dafür, das Leben in all seinen Facetten auszukosten. Why resist temptation? Konzept und Inszenierung Elina Brams Ritzau Musik und Performance Bruna Cabral, Jakob Jentgens, Elina Brams Ritzau Outside Eye Saskia Rudat Kostüm Alexandra Tivig, Elina Brams Ritzau Ton Martin Preu Licht Oliver Semrau Original score Michelle Gurevich Foto André Syman",
+        "link": "https://rausgegangen.de/en/events/cuma-kollektiv-vacation-from-love-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/d1rf209cRUKnICbDnAhC_vacationfromlove300dpiandresymann20211016221848sz66754.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Fri, 19.12.2025",
+        "time": "23:00",
+        "event": "Take Me Out Münster - die Indieparty mit eavo im Hot Club (@Hot Jazz Club, Münster)",
+        "category": "",
+        "description": "🎶 Lust auf ne klassische Indieparty mit allem drum und dran? Dann kommt zur Take Me Out! Die bringt euch die Hits, die Hymnen und eure Lieblingssongs. Außerdem: Nostalgie ist kein Genre - deswegen stehen neben den Klassikern auch frische Songs jenseits des Mainstreams auf dem Zettel.🎉 Findet ihr auch die immergleichen Hits und Reihenfolgen langweilig? Dann freut euch bei Take Me Out auf Abwechslung, Song-Überraschungen und natürlich auf guten Flow und flüssige Übergänge.😻 Ach so, mein Name ist eavo. Take Me Out ist meine Indieparty, mit der ich seit 2014 in den schönsten Clubs in ganz Deutschland unterwegs bin. Wenn ihr Ideen oder Fragen habt, sprecht mich gern an oder schickt mir ne Nachricht. Musikvorschläge sind willkommen, denn ich hab Spaß daran, eure Ideen - wenn's passt - ins Set zu puzzlen.💃🏼 Macht mit und es wird ne überragende Party, klebriger Fußboden und durchtanzte Schuhe inklusive!❗️Spread the word, schnappt euch eure Leute und kommt vorbei!Take Me Out klingt wie z. B: Arctic Monkeys – Alt–J – Art Brut – Bilderbuch – 3xBeat! – Betterov – Bloc Party – Blond – Blood Red Shoes – Blur – BOY – Bonaparte – Cage the Elephant – Cure – DIIV – Drums – Editors – Edwin Rosen – Faber – Florence – Foals – FONTAINES D.C. – Franz Ferdinand – Friska – Frittenbude – Giant Rooks – girl in red – IDLES – Interpol – Jamie T – Johnossi – Joy Division – Justice – Kaiser Chiefs – Kate Nash – KennyHoopla – Killers – Kooks – KMF – Kraftklub – KYTES – Le Tigre – Leoniden – Libertines – Lykke Li – M83 – Mando Diao – Maxïmo Park – Metronomy – MGMT – Mitski – Miyagi – Nerven – Organ – Pabst – Phoenix – Pixies – Postal Service – Pulp – Rakes – Razz – SALÒ – Sam Fender – Shame – Shout Out Louds – Sterne – Streets – Strokes – Team Scheisse – Ting Tings – Tomte – Tränen – TDCC – Vampire Weekend – Viagra Boys – WWP Jetpacks – Wet Leg – Wombats – Yard Act – YYYs – The xx – uvm.🌍 Mehr Infos inkl. Spotify-Listen auf www.eavo.de/takemeout/  📷 www.instagram.com/__eavo__ 📘 www.facebook.com/neinmaschine🔹 AK 8€🎟 Spare 20% beim Vorverkauf, indem du dich für meinen Newsletter anmeldest: www.eavo.de/NL! 🔹 VVK: Limitiertes Kontingent Earlybird-Tickets: 5€ zzgl. Gebühren bis 6 Tage vor dem Abend 🔹 Danach 7€ zzgl. Gebühren bei rausgegangen.de.",
+        "link": "https://rausgegangen.de/en/events/take-me-out-munster-die-indieparty-mit-eavo-im-hot-club-14/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EQxYpfjRHKPZvYSdrlxc_tmoheadercreme.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Fri, 19.12.2025",
@@ -1169,96 +1249,6 @@
         "link": "https://rausgegangen.de/en/events/berlin-underground-party-tour-154/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LsOv1acWQHmBcSzfwdx6_image00038.jpg?width=1200&height=900&mode=crop",
         "city": "Berlin"
-    },
-    {
-        "date": "Fri, 19.12.2025",
-        "time": "20:00",
-        "event": "A Christmas Carol, Charles Dickens, von UMS'n JIP (@Rabbit Hole Theater)",
-        "category": "",
-        "description": "Über die Kraft von Güte und Mitgefühl.A Christmas Carol nach der gleichnamigen Erzählung von Charles Dickens ist ein Musiktheater mit Musik von UMS  ́n JIP (Ulrike Mayer-Spohn und Javier Hagen), das von Wolfgang Beuschel inszeniert ist. A Christmas Carol fasst die bekannte Geschichte in einen 80-minütigen musikalischen Klangraum – ein performatives Hörspiel sozusagen – der subversiv Electropop mit experimentellen Sounds vermischt: Morton Feldman und Bronski Beat reichen sich hier die Hand.  UMS  ́n JIP interessieren Grauzonen, Übergänge, Klangräume, die Ambivalenz eines Wortes zwischen Klang und Bedeutung, die Ambivalenz eines Bildes zwischen Erscheinung und Bedeutung, die Gleichzeitigkeit und das Verweben verschiedener Medien.Wie von Geisterhand geführt interagieren Videoprojektionen, Musik, Gesang und Inszenierung: Footings der Abfallberge Accras, vietnamesischer Kriegsversehrter, aus industriellen Schlachthäusern und amerikanischen Armenvierteln flimmern – man merkt es kaum – rückwärts über Fensteröffnungen, welche an Weihnachtskugeln erinnern, und die geheimnisvoll mit den Klangmixturen des Duos verwoben sind. Analog zu einer fragmentierten Wirklichkeitswahrnehmung erscheinen die Videoprojektionen fragmentiert, und immer durch verschiedene Brillen. Sobald sich in Scrooges Seele die Wende zum Guten abzeichnet, fließen die Bilder – Footings von gefährlichen Schulwegen in Lateinamerika – vorwärts. Es ist im Leben, wenn auch nicht leicht, nie zu spät, um zu lernen und Dinge besser zu machen.Mit ihren ‚electropop operas‘ ONE, TWO, THREE, FOUR, FIVE, EINER, SANCHO, zahlreichen halbszenischen und performativen Auftragsarbeiten und den Musiktheatern in Zusammenarbeit mit dem CETC am Teatro Colon in Buenos Aires können UMS  ́n JIP seit 2007 auf eine jahrelange Erfahrung mit dem Genre zurückblicken. Ihre Arbeiten sind am ehesten dem instrumentalen Theater und dem konzeptuellen Musiktheater zuzuordnen und spielen virtuos und nicht ohne Ironie mit Ästhetiken zwischen Experimentalmusik und Electropop. UMS  ́n JIP ́s Electropop Operas sind ein unkonventionelles Taschenformat, das künstlerisches High-Tech-Labor und maximale Agilität vereinigt.Zusammen mit ihrem Hausregisseur Wolfgang Beuschel (Zürich) nehmen sie sich mit A Christmas Carol die phantastische und sozialkritische Erzählung Dickens ́ vor und kreieren um die berührende Geschichte ein zauberhaft verträumtes Klanguniversum. Textgrundlage ist ausschließlich das (gekürzte und dramaturgisch verdichtete) englische Original. Die Aufführung wird mit deutschen Untertiteln versehen. Für die Bühne und Visuals zeichnen UMS  ́n JIP verantwortlich.„A Christmas Carol in Prose, Being a Ghost-Story of Christmas“ aus dem Jahre 1843 ist eine der bekanntesten Erzählungen von Charles Dickens. Sie handelt vom Geldverleiher Ebenezer Scrooge, einem alten, grantigen Geizhals, der in einer einzigen Nacht zunächst Besuch von seinem verstorbenen Teilhaber Jacob Marley und dann von drei weiteren Geistern erhält, die ihm schließlich dazu verhelfen, sein Leben zu ändern. A Christmas Carol enthält stark sozialkritische Töne, mit denen Dickens die Missstände im England des 19. Jahrhunderts anprangert. Das wohl größte Vermächtnis seiner Weihnachtsgeschichte ist aber die Botschaft, dass Güte und Mitgefühl für die Mitmenschen zu den höchsten Gütern der Menschheit zählen. Nicht nur an Weihnachten, sondern das ganze Jahr über.electropop opera based on the novel A Christmas Carol by Charles Dickens English (German subtitles) 2020, world premiere  Original Text: Charles Dickens Libretto & Music: UMS  ́n JIP Stage Director: Wolfgang Beuschel Stage & Light Design: UMS  ́n JIP Performers: Ulrike Mayer-Spohn, Javier Hagen",
-        "link": "https://rausgegangen.de/en/events/a-chtristmas-carol-dickens-von-umsn-jip-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/26Ap5xZRQrGFOzMY0wGn_christmas-carol-rausgegangen.jpg?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Fri, 19.12.2025",
-        "time": "20:00",
-        "event": "Eine schrecklich schöne Bescherung (@Theater Courage - so spielt das Leben!)",
-        "category": "",
-        "description": "Weihnachtskomödie von Gabi DauenhauerSEIT 21 JAHREN IM PROGRAMM!Es ist mal wieder soweit: Wie jedes Jahr Heiligabend bei Familie Niklas! Doch dieses Mal stehen die Vorzeichen nicht gerade bestens: Familienoberhaupt Klaus hat seinen Job in der Firma verloren und Ecki, das schwarze Schaf in der Familie, taucht plötzlich als Überraschungsgast auf... Eine Weihnachtskomödie zum Totlachen - unverwüstlich seit 2004 im Programm, aber Achtung: mit deftigem Humor!!! Trotzdem (oder gerade deswegen) KULT!!! Stückdauer: 2 Stunden mit Pause. Eintritt: Vollpreis 18,00 €, Studierende / Arbeitslose (mit gültiger Bescheinigung) 12,00 € und Schüler bis 18 Jahre 10,00 €, Rollstuhlfahrer/in mit Begl.: 22,00 €ACHTUNG: - Ticketkauf via Internet z. Zt. NICHT möglich! - Vorbestellung per Telefon (0201/791466, Bürozeiten: 11.30 - 17.30 Uhr). - Vorbestellung per Mail (theatercourage@t-online.de) - Eintritt pro Person 18 Euro (bzw. 12/10 Euro) möglichst in bar. Zahlung per Handy (Paypal) an der Abendkasse notfalls möglich. - Einlass ab einer halben Stunde vor Beginn.",
-        "link": "https://rausgegangen.de/en/events/eine-schrecklich-schone-bescherung-10/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/geDohRzRWy4ANeOk0sUx_bild1.jpg?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Fri, 19.12.2025",
-        "time": "17:00",
-        "event": "Comedy Open Mic Düsseldorf (@Comedy Club Düsseldorf)",
-        "category": "",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/comedy-open-mic-dusseldorf-48/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/nC8Fwq5cQCmeA9HoBWgB_flash-2-169.jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Fri, 19.12.2025",
-        "time": "19:00",
-        "event": "Liverpool Club (@Graf Eventlocation)",
-        "category": "",
-        "description": "Am 19.12.25 kurz, vor Weihnachten bringen wir den „Liverpool Club“ zurück nach Düsseldorf! Feiert mit uns im „Graf 39“ die Rückkehr des legendären „Liverpool Club“, benannt nach dem Originalnamen der Location aus den Sechziger Jahren. Graf-Adolf-Strasse 39 40210 Düsseldorf, GermanyTickets: https://www.eventbrite.de/e/liverpool-club-dusseldorf-tickets-1965837645316?aff=ebdsoporgprofileWir sind die erfrischende Alternative zur Düsseldorfer Elektroszene! DJ Capt. Blake und Monsieur Discothèque garantieren mit ihren Sets aus Soul und Disco eine unvergessliche, legendäre Partynacht!  Unsere Gäste lieben diesen Sound: Hier erleben junge Besucher die Songs, die sie sonst nur von TikTok kennen, zum ersten Mal im Vinyl-Original. Eine legendäre Partynacht für jede Generation!",
-        "link": "https://rausgegangen.de/en/events/liverpool-club-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/abm8wtExRFKc107Ozh5e_liverpoolclub16-9.PNG?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Fri, 19.12.2025",
-        "time": "20:00",
-        "event": "The Visitor (Modular-Set), Tom Förderer (Multi-layerd Soundscapes),  Louretta & Dr. Schmitt  (Electro-Acoustic)DIY Synth and Sound Art Festival 2025 (@WELTKUNSTZIMMER)",
-        "category": "",
-        "description": "19.12.-21.12.2025 It’s DIY Synth Time! Performances, Installationen, Workshops.Tickets: VVK 5-10€ + VVK Ticketlink: tinyurl.com/diy-synthDIY-Kultur, Modulare Synthesizer und Elektro-Akustische Musikprojekte im WELTKUNSTZIMMER. 19.12.25, 20:00 Uhr, KonzertThe Visitor (Modular-Set) Tom Förderer (Multi-layerd Soundscapes) Louretta & Dr. Schmitt  (Electro-Acoustic)Weitere Events: 21.12. DIY Instrument WORKSHOPInfos: tinyurl.com/workshop-DIY Ort: Weltkunstzimmer Ronsdorfer Str. 77a 40233 Düsseldorf Gefördert vom Kulturamt Düsseldorf Präsentiert vom DIY-Synth & Sound Art Festival // Mit freundlicher Unterstützung des WELTKUNSTZIMMER",
-        "link": "https://rausgegangen.de/en/events/diy-synth-and-sound-art-festival-2025-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wNMa209ER5iFywPIYs9i_abdj0i5.jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Fri, 19.12.2025",
-        "time": "20:30",
-        "event": "JJO NRW – JugendJazzOrchester NRW (@Jazz-Schmiede Düsseldorf | Jazzclub)",
-        "category": "",
-        "description": "Seit 1975 steht das JugendJazzOrchester NRW (JJO NRW) für exzellenten Nachwuchsjazz und ist längst eine feste Größe in der deutschen Big-Band-Landschaft. In seinem 50. Jubiläumsjahr 2025 feiert das Landesensemble sein beeindruckendes Bestehen mit zahlreichen Konzerten – das Jahresabschlusskonzert als krönenden Schlusspunkt des Jubiläumsjahres findet in der Jazz-Schmiede statt. Unter der Leitung von Stefan Pfeifer-Galilea, Gabriel Pérez und Stephan Schulze präsentiert das Orchester einen spannenden Mix aus energiegeladenen Eigenkompositionen, modernen Arrangements und swingender Tradition – gespielt von den besten jungen Jazzmusiker:innen des Landes. Ein Abend voller Spielfreude, Präzision und Jazz auf höchstem Niveau – und ein Ausblick auf die nächsten 50 Jahre JJO NRW.",
-        "link": "https://rausgegangen.de/en/events/jjo-nrw-jugendjazzorchester-nrw-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wceolRBzTlquONBkBh3F_20251219-jjo-nrw-2025-rebecca-ter-braak-4.jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Fri, 19.12.2025",
-        "time": "21:00",
-        "event": "Riddance - Global Dance Music (@reinraum e.V.)",
-        "category": "",
-        "description": "Afro-Disco, Boogie, Caribbean, Latin, Brazil, Proto-House, Baile Funk, Rare Groove, Old SchoolWir schaffen das, wofür man eigentlich mehrere Floors braucht. Wechselnde Styles All Night Long. Quality Tunes aus verschiedenen genres. Rare Perlen und globale Lieblingslieder. VVK 5 EU. AK 8.Nice Price Drinks.DJs: Nora & Klaus Insehaus & Taimles",
-        "link": "https://rausgegangen.de/en/events/riddance-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fVgu0DLFTLCjM29rJaGE_chatgpt-image-9-dez-2025-130908.png?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Fri, 19.12.2025",
-        "time": "20:00",
-        "event": "CUMA Kollektiv // Vacation from Love (@Theater im Pumpenhaus)",
-        "category": "",
-        "description": "Um einen Sänger und seine Liebesaffäre mit seiner Band geht es in VACATION FROM LOVE. Um die Magie der Bühne und den verfliegenden Zauber hinter den Kulissen. Liebe und Sex, Rausch und Ruhm, Glanz und Gier – dieser Star hat alles. So scheint es zumindest. Aber wo endet der Glamour der Show – und wo beginnt der private Größenwahn? Das CUMA Kollektiv stimmt in diesem Physical Theatre-Konzert die bittersüße Sinfonie des „life on the road“ an. Und befragt unterwegs normierte Beziehungsmodelle. Mit neu interpretierten Songs der kanadischen Künstlerin Michelle Gurevich. Im Zentrum: Performer*in Elina Brams Ritzau tanzt, singt spielt Klavier. Ritzau verkörpert dabei virtuos eine Figur zwischen den Geschlechtern, deren innere und äußerer Kämpfe sichtbar werden. VACATION FROM LOVE ist ein Plädoyer dafür, das Leben in all seinen Facetten auszukosten. Why resist temptation? Konzept und Inszenierung Elina Brams Ritzau Musik und Performance Bruna Cabral, Jakob Jentgens, Elina Brams Ritzau Outside Eye Saskia Rudat Kostüm Alexandra Tivig, Elina Brams Ritzau Ton Martin Preu Licht Oliver Semrau Original score Michelle Gurevich Foto André Syman",
-        "link": "https://rausgegangen.de/en/events/cuma-kollektiv-vacation-from-love-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/d1rf209cRUKnICbDnAhC_vacationfromlove300dpiandresymann20211016221848sz66754.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Fri, 19.12.2025",
-        "time": "23:00",
-        "event": "Take Me Out Münster - die Indieparty mit eavo im Hot Club (@Hot Jazz Club, Münster)",
-        "category": "",
-        "description": "🎶 Lust auf ne klassische Indieparty mit allem drum und dran? Dann kommt zur Take Me Out! Die bringt euch die Hits, die Hymnen und eure Lieblingssongs. Außerdem: Nostalgie ist kein Genre - deswegen stehen neben den Klassikern auch frische Songs jenseits des Mainstreams auf dem Zettel.🎉 Findet ihr auch die immergleichen Hits und Reihenfolgen langweilig? Dann freut euch bei Take Me Out auf Abwechslung, Song-Überraschungen und natürlich auf guten Flow und flüssige Übergänge.😻 Ach so, mein Name ist eavo. Take Me Out ist meine Indieparty, mit der ich seit 2014 in den schönsten Clubs in ganz Deutschland unterwegs bin. Wenn ihr Ideen oder Fragen habt, sprecht mich gern an oder schickt mir ne Nachricht. Musikvorschläge sind willkommen, denn ich hab Spaß daran, eure Ideen - wenn's passt - ins Set zu puzzlen.💃🏼 Macht mit und es wird ne überragende Party, klebriger Fußboden und durchtanzte Schuhe inklusive!❗️Spread the word, schnappt euch eure Leute und kommt vorbei!Take Me Out klingt wie z. B: Arctic Monkeys – Alt–J – Art Brut – Bilderbuch – 3xBeat! – Betterov – Bloc Party – Blond – Blood Red Shoes – Blur – BOY – Bonaparte – Cage the Elephant – Cure – DIIV – Drums – Editors – Edwin Rosen – Faber – Florence – Foals – FONTAINES D.C. – Franz Ferdinand – Friska – Frittenbude – Giant Rooks – girl in red – IDLES – Interpol – Jamie T – Johnossi – Joy Division – Justice – Kaiser Chiefs – Kate Nash – KennyHoopla – Killers – Kooks – KMF – Kraftklub – KYTES – Le Tigre – Leoniden – Libertines – Lykke Li – M83 – Mando Diao – Maxïmo Park – Metronomy – MGMT – Mitski – Miyagi – Nerven – Organ – Pabst – Phoenix – Pixies – Postal Service – Pulp – Rakes – Razz – SALÒ – Sam Fender – Shame – Shout Out Louds – Sterne – Streets – Strokes – Team Scheisse – Ting Tings – Tomte – Tränen – TDCC – Vampire Weekend – Viagra Boys – WWP Jetpacks – Wet Leg – Wombats – Yard Act – YYYs – The xx – uvm.🌍 Mehr Infos inkl. Spotify-Listen auf www.eavo.de/takemeout/  📷 www.instagram.com/__eavo__ 📘 www.facebook.com/neinmaschine🔹 AK 8€🎟 Spare 20% beim Vorverkauf, indem du dich für meinen Newsletter anmeldest: www.eavo.de/NL! 🔹 VVK: Limitiertes Kontingent Earlybird-Tickets: 5€ zzgl. Gebühren bis 6 Tage vor dem Abend 🔹 Danach 7€ zzgl. Gebühren bei rausgegangen.de.",
-        "link": "https://rausgegangen.de/en/events/take-me-out-munster-die-indieparty-mit-eavo-im-hot-club-14/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EQxYpfjRHKPZvYSdrlxc_tmoheadercreme.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
     },
     {
         "date": "Fri, 19.12.2025",
@@ -1765,14 +1755,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Sa, 20.12",
-        "time": "23:00",
-        "event": "SA • WE LOVE CHRISTMAS x TEQUILA NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-we-love-christmas-x-tequila-night/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251115_LoveSaturdays_Tequila_4zu5.jpg"
-    },
-    {
         "date": "Sa, 20.12.2025",
         "time": "10:45",
         "event": "Avatar: Fire And Ash (@cinemaxx_bielefeld)",
@@ -1787,6 +1769,14 @@
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/stereolove3/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/11/Stereo_20_1225_Feed.jpg"
+    },
+    {
+        "date": "Sa, 20.12",
+        "time": "23:00",
+        "event": "SA • WE LOVE CHRISTMAS x TEQUILA NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-we-love-christmas-x-tequila-night/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251115_LoveSaturdays_Tequila_4zu5.jpg"
     },
     {
         "date": "Sa, 20.12.2025",
@@ -1818,6 +1808,26 @@
         "event": "Aspect:Ratio (@nr.z.p)",
         "link": "https://nrzp.de/event/aspectratio-2",
         "image_url": "https://nrzp.de/wp-content/uploads/2025/12/5.png"
+    },
+    {
+        "date": "Sat, 20.12.2025",
+        "time": "20:00",
+        "event": "NewDEF Jam Vol. 10 (@GrooveStation)",
+        "category": "",
+        "description": "We're still run these streets! Wir feiern dieses Jahr nicht nur die 10te Ausgabe unserer NewDEF-Jam, sondern auch legendäre 50 Jahre \"Slider\", 30 Jahre \"Bandits\", 20 Jahre \"NewDEF\" und 10 Jahre \"The Saxonz\"!  Damit dieser Abend unvergesslich wird, haben wir ein LineUp aufgefahren, was es so noch nicht gab. Wir verbinden prominenten LiveRap, Live-Painting, DJing und Breakdance auf einem Event!  Live-Rap: xxxx xxxxx (Berlin) xxxx xxxxxxx (Freestyle-Set / München) xxxx (Free Game / Hamburg) xxxxx (Leipzig)  Live-Painting: Bandits feat. SLIDEFLY & Caparso  DJs & Host: Xkap Access Red DEE  Breakdance: The Saxonz / 84til e.V.  Opening-Beatset by Monkay!  SoulBox-Aftershow ab 23 Uhr!  Give-Aways, Merchandise & weitere Specials!  LiveRap, Live-Painting, Beatbox, Breakdance  19:00 Uhr Einlass 20:00 Uhr Start Live Shows 23:00 Uhr Start Aftershow Party  Early Bird Tickets bis 30.04.25",
+        "link": "https://rausgegangen.de/en/events/newdef-jam-vol-10-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OeaFpQTLRBSstMyY2HVV_ndjteaserwww.png?width=1200&height=900&mode=crop",
+        "city": "Dresden"
+    },
+    {
+        "date": "Sat, 20.12.2025",
+        "time": "22:00",
+        "event": "Slay Sexy (@Kashay Salon)",
+        "category": "",
+        "description": "If you’re reading this... someone wants you on this night.  A night made of heat, tension, and electric chemistry. Send this post to the person you want to flirt with, dance with, or get in trouble with 👀.  Dress Code  Metallics & chrome ✨ Lace, mesh, velvet ✨ Leather, latex, faux-fur ✨ Body jewelry, chokers, chains ✨ Skin. Shoulders. Hips. Glow. ✨ Pink, black, silver, deep red  Save your tickets , and get your crush one 🔥 Because this night , could change all!",
+        "link": "https://rausgegangen.de/en/events/slay-sexy-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wbesuW5Qby7WRyGEmslQ_photo2025-12-1712-07-37.jpg?width=1200&height=900&mode=crop",
+        "city": "Dresden"
     },
     {
         "date": "Sat, 20.12.2025",
@@ -1858,26 +1868,6 @@
         "link": "https://rausgegangen.de/en/events/jahresabrissparty-frankfurt-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/WBNAt60aTmiAiFhBsQx3_01jahresabrisspartyfacebookeventbanner1920x1005.jpg?width=1200&height=900&mode=crop",
         "city": "Frankfurt"
-    },
-    {
-        "date": "Sat, 20.12.2025",
-        "time": "20:00",
-        "event": "NewDEF Jam Vol. 10 (@GrooveStation)",
-        "category": "",
-        "description": "We're still run these streets! Wir feiern dieses Jahr nicht nur die 10te Ausgabe unserer NewDEF-Jam, sondern auch legendäre 50 Jahre \"Slider\", 30 Jahre \"Bandits\", 20 Jahre \"NewDEF\" und 10 Jahre \"The Saxonz\"!  Damit dieser Abend unvergesslich wird, haben wir ein LineUp aufgefahren, was es so noch nicht gab. Wir verbinden prominenten LiveRap, Live-Painting, DJing und Breakdance auf einem Event!  Live-Rap: xxxx xxxxx (Berlin) xxxx xxxxxxx (Freestyle-Set / München) xxxx (Free Game / Hamburg) xxxxx (Leipzig)  Live-Painting: Bandits feat. SLIDEFLY & Caparso  DJs & Host: Xkap Access Red DEE  Breakdance: The Saxonz / 84til e.V.  Opening-Beatset by Monkay!  SoulBox-Aftershow ab 23 Uhr!  Give-Aways, Merchandise & weitere Specials!  LiveRap, Live-Painting, Beatbox, Breakdance  19:00 Uhr Einlass 20:00 Uhr Start Live Shows 23:00 Uhr Start Aftershow Party  Early Bird Tickets bis 30.04.25",
-        "link": "https://rausgegangen.de/en/events/newdef-jam-vol-10-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OeaFpQTLRBSstMyY2HVV_ndjteaserwww.png?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Sat, 20.12.2025",
-        "time": "22:00",
-        "event": "Slay Sexy (@Kashay Salon)",
-        "category": "",
-        "description": "If you’re reading this... someone wants you on this night.  A night made of heat, tension, and electric chemistry. Send this post to the person you want to flirt with, dance with, or get in trouble with 👀.  Dress Code  Metallics & chrome ✨ Lace, mesh, velvet ✨ Leather, latex, faux-fur ✨ Body jewelry, chokers, chains ✨ Skin. Shoulders. Hips. Glow. ✨ Pink, black, silver, deep red  Save your tickets , and get your crush one 🔥 Because this night , could change all!",
-        "link": "https://rausgegangen.de/en/events/slay-sexy-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wbesuW5Qby7WRyGEmslQ_photo2025-12-1712-07-37.jpg?width=1200&height=900&mode=crop",
-        "city": "Dresden"
     },
     {
         "date": "Sat, 20.12.2025",
@@ -1981,6 +1971,56 @@
     },
     {
         "date": "Sat, 20.12.2025",
+        "time": "23:00",
+        "event": "А NIGHT LIKE THIS • The Alternative 80s Party • Hotel Shanghai Essen (@Hotel Shanghai)",
+        "category": "",
+        "description": "Sounds like: THE CURE • THE SMITHS • PIXIES • JOY DIVISION • DEPECHE MODE • SISTERS OF MERCY • ANNE CLARK • TEARS FOR FEARS • BILLY IDOL • DAF • ECHO & THE BUNNYMEN • NO MORE • PHILLIP BOA AND THE VOODOOCLUB • VISAGE • BAUHAUS • PINK TURNS BLUE • YAZOO • NEW ORDER • CHRISTIAN DEATH • THE HUMAN LEAGUE • BRONSKI BEATDunkel, tanzbar, zeitlos – eine Nacht voller Wave, Post-Punk und Synthie-Klassiker! Von The Cure über Depeche Mode bis Joy Division feiern wir die größten Hymnen der 80er und den Sound der ewigen Außenseiter. Taucht ein in melancholische Melodien, treibende Beats und eine Atmosphäre voller Nostalgie und Ekstase!-------------------------------------------engl.Dark, danceable, timeless – a night filled with wave, post-punk, and synth classics! From The Cure to Depeche Mode to Joy Division, we celebrate the greatest anthems of the '80s and the sound of eternal outsiders. Immerse yourself in melancholic melodies, driving beats, and an atmosphere of nostalgia and ecstasy!--------------------------------------------Samstag 20.12.25 // 22:00 // Hotel Shanghai // EssenWir bei Instagram & SpotifyMinimum age: 18Bitte seht in eurem eigenen Interesse davon ab, Tickets bei Drittanbietern zu kaufen.",
+        "link": "https://rausgegangen.de/en/events/night-like-this-the-alternative-80s-party-hotel-shanghai-ess-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BeZ92Jj5QlSQcj1hpwUJ_2025-12-20-anlt-essenbannerrelaunch.png?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Sat, 20.12.2025",
+        "time": "20:00",
+        "event": "A Christmas Carol, Charles Dickens, von UMS'n JIP (@Rabbit Hole Theater)",
+        "category": "",
+        "description": "Über die Kraft von Güte und Mitgefühl.A Christmas Carol nach der gleichnamigen Erzählung von Charles Dickens ist ein Musiktheater mit Musik von UMS  ́n JIP (Ulrike Mayer-Spohn und Javier Hagen), das von Wolfgang Beuschel inszeniert ist. A Christmas Carol fasst die bekannte Geschichte in einen 80-minütigen musikalischen Klangraum – ein performatives Hörspiel sozusagen – der subversiv Electropop mit experimentellen Sounds vermischt: Morton Feldman und Bronski Beat reichen sich hier die Hand.  UMS  ́n JIP interessieren Grauzonen, Übergänge, Klangräume, die Ambivalenz eines Wortes zwischen Klang und Bedeutung, die Ambivalenz eines Bildes zwischen Erscheinung und Bedeutung, die Gleichzeitigkeit und das Verweben verschiedener Medien.Wie von Geisterhand geführt interagieren Videoprojektionen, Musik, Gesang und Inszenierung: Footings der Abfallberge Accras, vietnamesischer Kriegsversehrter, aus industriellen Schlachthäusern und amerikanischen Armenvierteln flimmern – man merkt es kaum – rückwärts über Fensteröffnungen, welche an Weihnachtskugeln erinnern, und die geheimnisvoll mit den Klangmixturen des Duos verwoben sind. Analog zu einer fragmentierten Wirklichkeitswahrnehmung erscheinen die Videoprojektionen fragmentiert, und immer durch verschiedene Brillen. Sobald sich in Scrooges Seele die Wende zum Guten abzeichnet, fließen die Bilder – Footings von gefährlichen Schulwegen in Lateinamerika – vorwärts. Es ist im Leben, wenn auch nicht leicht, nie zu spät, um zu lernen und Dinge besser zu machen.Mit ihren ‚electropop operas‘ ONE, TWO, THREE, FOUR, FIVE, EINER, SANCHO, zahlreichen halbszenischen und performativen Auftragsarbeiten und den Musiktheatern in Zusammenarbeit mit dem CETC am Teatro Colon in Buenos Aires können UMS  ́n JIP seit 2007 auf eine jahrelange Erfahrung mit dem Genre zurückblicken. Ihre Arbeiten sind am ehesten dem instrumentalen Theater und dem konzeptuellen Musiktheater zuzuordnen und spielen virtuos und nicht ohne Ironie mit Ästhetiken zwischen Experimentalmusik und Electropop. UMS  ́n JIP ́s Electropop Operas sind ein unkonventionelles Taschenformat, das künstlerisches High-Tech-Labor und maximale Agilität vereinigt.Zusammen mit ihrem Hausregisseur Wolfgang Beuschel (Zürich) nehmen sie sich mit A Christmas Carol die phantastische und sozialkritische Erzählung Dickens ́ vor und kreieren um die berührende Geschichte ein zauberhaft verträumtes Klanguniversum. Textgrundlage ist ausschließlich das (gekürzte und dramaturgisch verdichtete) englische Original. Die Aufführung wird mit deutschen Untertiteln versehen. Für die Bühne und Visuals zeichnen UMS  ́n JIP verantwortlich.„A Christmas Carol in Prose, Being a Ghost-Story of Christmas“ aus dem Jahre 1843 ist eine der bekanntesten Erzählungen von Charles Dickens. Sie handelt vom Geldverleiher Ebenezer Scrooge, einem alten, grantigen Geizhals, der in einer einzigen Nacht zunächst Besuch von seinem verstorbenen Teilhaber Jacob Marley und dann von drei weiteren Geistern erhält, die ihm schließlich dazu verhelfen, sein Leben zu ändern. A Christmas Carol enthält stark sozialkritische Töne, mit denen Dickens die Missstände im England des 19. Jahrhunderts anprangert. Das wohl größte Vermächtnis seiner Weihnachtsgeschichte ist aber die Botschaft, dass Güte und Mitgefühl für die Mitmenschen zu den höchsten Gütern der Menschheit zählen. Nicht nur an Weihnachten, sondern das ganze Jahr über.electropop opera based on the novel A Christmas Carol by Charles Dickens English (German subtitles) 2020, world premiere  Original Text: Charles Dickens Libretto & Music: UMS  ́n JIP Stage Director: Wolfgang Beuschel Stage & Light Design: UMS  ́n JIP Performers: Ulrike Mayer-Spohn, Javier Hagen",
+        "link": "https://rausgegangen.de/en/events/a-christmas-carol-dickens-von-umsn-jip-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/IfAxIJUPTIOlDyGLaCg7_christmas-carol-rausgegangen.jpg?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Sat, 20.12.2025",
+        "time": "17:30",
+        "event": "Dance Tribe Bremen lädt ein: *Celebration Dance* – Wir feiern mit euch 1 Jahr Dance Tribe Bremen! (@tanzwerk bremen)",
+        "category": "",
+        "description": "Dance Tribe Bremen lädt ein: *Celebration Dance*Wir feiern mit euch 1 Jahr Dance Tribe Bremen!Mit ganz viel Freude und Dankbarkeit schauen wir auf 9 einzigartige Veranstaltungen in den Räumen vom tanzwerk bremen zurück. Die Kreativität und Vielfalt unserer DJs zieht immer mehr tanzbegeisterte Menschen an. Lasst uns gemeinsam tanzend darauf anstoßen!Und auch darauf, dass wir im nächsten Jahr weitermachen, natürlich mit euch!Wir tanzen durch die längste Nacht des Jahres, lassen uns dabei von der Magie der Wintersonnwende verzaubern und den mystisch-ekstatischen Rhythmen der DJs inspirieren. Wann: Samstag 20. Dezember 2025 von 17:30 bis 20:30 Uhr Wo: @tanzwerkbremen im Kulturzentrum | Schildstr. 12 – 19 l 28203 Bremen | www.tanzwerk-bremen.deAblauf:17:00 Einlass​ 17:30 DJ-Set 1​ 18:30 DJ-Set 2​ 20:00 Abschlusskreis​Die DJs des Abends:DJ Amritha (@silke_amritha) DJ WolfspiritDie Sets der beiden DJs führen uns durch ein breites Spektrum an Musik-Genres:  Von erdig-groovig über tribal-ekstatisch durch wild verspielte Landschaften, eingestreuten Rock- und Funkperlen und abschließend sanftem Landen in gefühlvoll-meditativen Klängen. Wir tanzen  - barfuß  - ohne Worte  - frei (ohne Vorgaben)  - Substanz- und Alkoholfrei  - friedlich, achtsam und respektvoll Wieviel: 20 Euro | Ermäßigung nach SelbsteinschätzungAnkommen zwischen 17:00 und 17:30 Uhr | keine Anmeldung erforderlichLet ́s dance together!@dancetribebremen www.dance-tribe-bremen.de#dancetribebremen #tanzwerkbremen#barfuss #tanzen #conscious #dance #bremen #ecstatic #dj",
+        "link": "https://rausgegangen.de/en/events/dance-tribe-bremen-ladt-ein-celebration-dance-wir-feiern-mit-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/899pLBsvRKiBeH0LtwAR_2025-12-20fb-banner.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Sat, 20.12.2025",
+        "time": "19:00",
+        "event": "Hamlet & Elsa (@Blaumeier-Atelier)",
+        "category": "",
+        "description": "(Theaterlabor)Schon wieder etwas Neues bei Blaumeier, was ausprobiert werden will - und zwar von Ihnen und von uns gleichermaßen. Das kurzerhand erfundene „Theaterlabor\" ist ein kleines Format für Schauspieler*innen mit großer Spielfreude und wenig Zeit. Das Ergebnis ist noch nicht abzusehen und lässt einen Spagat zwischen ganz großem Theater und spontanem Schuss aus der Hüfte vermuten. Die zehn Blaumeier-Spieler*innen stellen sich in nur zwei Monaten der Herausforderung und nehmen sich den ewigen Theaterklassiker Hamlet vor. In einer experimentellen Annäherung an die großen Themen Katastrophe, Verantwortung und Wahrheit fragen sie sich, ob am Ende das Theater die Welt retten kann. Wird es gelingen, die Welt in Ordnung zu bringen? Oder endet alles im Drama? Und hilft uns Hamlet dabei? Ophelia? Oder Elsa? Sehen Sie es selbst an nur drei Präsentationen im Dezember.",
+        "link": "https://rausgegangen.de/en/events/hamlet-elsa-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8NlygbE0SVecKcJsxzIR_hamletundelsacopyrightalfonsromertesar.JPG?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Sat, 20.12.2025",
+        "time": "20:00",
+        "event": "Slammer Filet - Poetry Slam (@Schaulust)",
+        "category": "",
+        "description": "Bremens größter regelmäßiger Poetry Slam in der Schaulust im Güterbahnhof. Das Slammer Filet bringt euch die besten Poetry Slammer:innen aus dem gesamten deutschsprachigen Raum sowie die hoffnungsvollsten regionalen Talente nach Bremen. Immer abwechslungsreich, immer spannend, immer fulminant!Beginn: 20 Uhr Einlass: 19 UhrTickets über Nordwest Ticket (zzgl. Gebühren):6€ (ermäßigt) / 10€Freie Sitzplatzwahl.Preisinformation:VVK: 10€ / 6€ ermäßigt. Abendkasse: 12€ / 8€ ermäßigt. Ermäßigung für Schüler:innen, Studierende, Auszubildende, Freiwilligendienstleistende, Erwerbslose und Rollstuhlfahrende. Ticketpreise zzgl. Vorverkaufsgebühren.",
+        "link": "https://rausgegangen.de/en/events/slammer-filet-poetry-slam-7/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Fq7GxRDcR2u9MdhU29wc_2you5571-1.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Sat, 20.12.2025",
         "time": "19:00",
         "event": "pogendroblem - Es kann nicht immer so weitergehn - Tour 2025/2026 (@Helene P)",
         "category": "",
@@ -2018,56 +2058,6 @@
         "link": "https://rausgegangen.de/en/events/slick-w-hanaby-berlin-khadija-berlin-immi-bakes-frau-wei-pre-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/IzHc3DUnQ2GAbfj9QoVi_lerche22preooooo-1640218.jpg?width=1200&height=900&mode=crop",
         "city": "Stuttgart"
-    },
-    {
-        "date": "Sat, 20.12.2025",
-        "time": "17:30",
-        "event": "Dance Tribe Bremen lädt ein: *Celebration Dance* – Wir feiern mit euch 1 Jahr Dance Tribe Bremen! (@tanzwerk bremen)",
-        "category": "",
-        "description": "Dance Tribe Bremen lädt ein: *Celebration Dance*Wir feiern mit euch 1 Jahr Dance Tribe Bremen!Mit ganz viel Freude und Dankbarkeit schauen wir auf 9 einzigartige Veranstaltungen in den Räumen vom tanzwerk bremen zurück. Die Kreativität und Vielfalt unserer DJs zieht immer mehr tanzbegeisterte Menschen an. Lasst uns gemeinsam tanzend darauf anstoßen!Und auch darauf, dass wir im nächsten Jahr weitermachen, natürlich mit euch!Wir tanzen durch die längste Nacht des Jahres, lassen uns dabei von der Magie der Wintersonnwende verzaubern und den mystisch-ekstatischen Rhythmen der DJs inspirieren. Wann: Samstag 20. Dezember 2025 von 17:30 bis 20:30 Uhr Wo: @tanzwerkbremen im Kulturzentrum | Schildstr. 12 – 19 l 28203 Bremen | www.tanzwerk-bremen.deAblauf:17:00 Einlass​ 17:30 DJ-Set 1​ 18:30 DJ-Set 2​ 20:00 Abschlusskreis​Die DJs des Abends:DJ Amritha (@silke_amritha) DJ WolfspiritDie Sets der beiden DJs führen uns durch ein breites Spektrum an Musik-Genres:  Von erdig-groovig über tribal-ekstatisch durch wild verspielte Landschaften, eingestreuten Rock- und Funkperlen und abschließend sanftem Landen in gefühlvoll-meditativen Klängen. Wir tanzen  - barfuß  - ohne Worte  - frei (ohne Vorgaben)  - Substanz- und Alkoholfrei  - friedlich, achtsam und respektvoll Wieviel: 20 Euro | Ermäßigung nach SelbsteinschätzungAnkommen zwischen 17:00 und 17:30 Uhr | keine Anmeldung erforderlichLet ́s dance together!@dancetribebremen www.dance-tribe-bremen.de#dancetribebremen #tanzwerkbremen#barfuss #tanzen #conscious #dance #bremen #ecstatic #dj",
-        "link": "https://rausgegangen.de/en/events/dance-tribe-bremen-ladt-ein-celebration-dance-wir-feiern-mit-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/899pLBsvRKiBeH0LtwAR_2025-12-20fb-banner.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Sat, 20.12.2025",
-        "time": "19:00",
-        "event": "Hamlet & Elsa (@Blaumeier-Atelier)",
-        "category": "",
-        "description": "(Theaterlabor)Schon wieder etwas Neues bei Blaumeier, was ausprobiert werden will - und zwar von Ihnen und von uns gleichermaßen. Das kurzerhand erfundene „Theaterlabor\" ist ein kleines Format für Schauspieler*innen mit großer Spielfreude und wenig Zeit. Das Ergebnis ist noch nicht abzusehen und lässt einen Spagat zwischen ganz großem Theater und spontanem Schuss aus der Hüfte vermuten. Die zehn Blaumeier-Spieler*innen stellen sich in nur zwei Monaten der Herausforderung und nehmen sich den ewigen Theaterklassiker Hamlet vor. In einer experimentellen Annäherung an die großen Themen Katastrophe, Verantwortung und Wahrheit fragen sie sich, ob am Ende das Theater die Welt retten kann. Wird es gelingen, die Welt in Ordnung zu bringen? Oder endet alles im Drama? Und hilft uns Hamlet dabei? Ophelia? Oder Elsa? Sehen Sie es selbst an nur drei Präsentationen im Dezember.",
-        "link": "https://rausgegangen.de/en/events/hamlet-elsa-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8NlygbE0SVecKcJsxzIR_hamletundelsacopyrightalfonsromertesar.JPG?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Sat, 20.12.2025",
-        "time": "20:00",
-        "event": "Slammer Filet - Poetry Slam (@Schaulust)",
-        "category": "",
-        "description": "Bremens größter regelmäßiger Poetry Slam in der Schaulust im Güterbahnhof. Das Slammer Filet bringt euch die besten Poetry Slammer:innen aus dem gesamten deutschsprachigen Raum sowie die hoffnungsvollsten regionalen Talente nach Bremen. Immer abwechslungsreich, immer spannend, immer fulminant!Beginn: 20 Uhr Einlass: 19 UhrTickets über Nordwest Ticket (zzgl. Gebühren):6€ (ermäßigt) / 10€Freie Sitzplatzwahl.Preisinformation:VVK: 10€ / 6€ ermäßigt. Abendkasse: 12€ / 8€ ermäßigt. Ermäßigung für Schüler:innen, Studierende, Auszubildende, Freiwilligendienstleistende, Erwerbslose und Rollstuhlfahrende. Ticketpreise zzgl. Vorverkaufsgebühren.",
-        "link": "https://rausgegangen.de/en/events/slammer-filet-poetry-slam-7/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Fq7GxRDcR2u9MdhU29wc_2you5571-1.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Sat, 20.12.2025",
-        "time": "23:00",
-        "event": "А NIGHT LIKE THIS • The Alternative 80s Party • Hotel Shanghai Essen (@Hotel Shanghai)",
-        "category": "",
-        "description": "Sounds like: THE CURE • THE SMITHS • PIXIES • JOY DIVISION • DEPECHE MODE • SISTERS OF MERCY • ANNE CLARK • TEARS FOR FEARS • BILLY IDOL • DAF • ECHO & THE BUNNYMEN • NO MORE • PHILLIP BOA AND THE VOODOOCLUB • VISAGE • BAUHAUS • PINK TURNS BLUE • YAZOO • NEW ORDER • CHRISTIAN DEATH • THE HUMAN LEAGUE • BRONSKI BEATDunkel, tanzbar, zeitlos – eine Nacht voller Wave, Post-Punk und Synthie-Klassiker! Von The Cure über Depeche Mode bis Joy Division feiern wir die größten Hymnen der 80er und den Sound der ewigen Außenseiter. Taucht ein in melancholische Melodien, treibende Beats und eine Atmosphäre voller Nostalgie und Ekstase!-------------------------------------------engl.Dark, danceable, timeless – a night filled with wave, post-punk, and synth classics! From The Cure to Depeche Mode to Joy Division, we celebrate the greatest anthems of the '80s and the sound of eternal outsiders. Immerse yourself in melancholic melodies, driving beats, and an atmosphere of nostalgia and ecstasy!--------------------------------------------Samstag 20.12.25 // 22:00 // Hotel Shanghai // EssenWir bei Instagram & SpotifyMinimum age: 18Bitte seht in eurem eigenen Interesse davon ab, Tickets bei Drittanbietern zu kaufen.",
-        "link": "https://rausgegangen.de/en/events/night-like-this-the-alternative-80s-party-hotel-shanghai-ess-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BeZ92Jj5QlSQcj1hpwUJ_2025-12-20-anlt-essenbannerrelaunch.png?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Sat, 20.12.2025",
-        "time": "20:00",
-        "event": "A Christmas Carol, Charles Dickens, von UMS'n JIP (@Rabbit Hole Theater)",
-        "category": "",
-        "description": "Über die Kraft von Güte und Mitgefühl.A Christmas Carol nach der gleichnamigen Erzählung von Charles Dickens ist ein Musiktheater mit Musik von UMS  ́n JIP (Ulrike Mayer-Spohn und Javier Hagen), das von Wolfgang Beuschel inszeniert ist. A Christmas Carol fasst die bekannte Geschichte in einen 80-minütigen musikalischen Klangraum – ein performatives Hörspiel sozusagen – der subversiv Electropop mit experimentellen Sounds vermischt: Morton Feldman und Bronski Beat reichen sich hier die Hand.  UMS  ́n JIP interessieren Grauzonen, Übergänge, Klangräume, die Ambivalenz eines Wortes zwischen Klang und Bedeutung, die Ambivalenz eines Bildes zwischen Erscheinung und Bedeutung, die Gleichzeitigkeit und das Verweben verschiedener Medien.Wie von Geisterhand geführt interagieren Videoprojektionen, Musik, Gesang und Inszenierung: Footings der Abfallberge Accras, vietnamesischer Kriegsversehrter, aus industriellen Schlachthäusern und amerikanischen Armenvierteln flimmern – man merkt es kaum – rückwärts über Fensteröffnungen, welche an Weihnachtskugeln erinnern, und die geheimnisvoll mit den Klangmixturen des Duos verwoben sind. Analog zu einer fragmentierten Wirklichkeitswahrnehmung erscheinen die Videoprojektionen fragmentiert, und immer durch verschiedene Brillen. Sobald sich in Scrooges Seele die Wende zum Guten abzeichnet, fließen die Bilder – Footings von gefährlichen Schulwegen in Lateinamerika – vorwärts. Es ist im Leben, wenn auch nicht leicht, nie zu spät, um zu lernen und Dinge besser zu machen.Mit ihren ‚electropop operas‘ ONE, TWO, THREE, FOUR, FIVE, EINER, SANCHO, zahlreichen halbszenischen und performativen Auftragsarbeiten und den Musiktheatern in Zusammenarbeit mit dem CETC am Teatro Colon in Buenos Aires können UMS  ́n JIP seit 2007 auf eine jahrelange Erfahrung mit dem Genre zurückblicken. Ihre Arbeiten sind am ehesten dem instrumentalen Theater und dem konzeptuellen Musiktheater zuzuordnen und spielen virtuos und nicht ohne Ironie mit Ästhetiken zwischen Experimentalmusik und Electropop. UMS  ́n JIP ́s Electropop Operas sind ein unkonventionelles Taschenformat, das künstlerisches High-Tech-Labor und maximale Agilität vereinigt.Zusammen mit ihrem Hausregisseur Wolfgang Beuschel (Zürich) nehmen sie sich mit A Christmas Carol die phantastische und sozialkritische Erzählung Dickens ́ vor und kreieren um die berührende Geschichte ein zauberhaft verträumtes Klanguniversum. Textgrundlage ist ausschließlich das (gekürzte und dramaturgisch verdichtete) englische Original. Die Aufführung wird mit deutschen Untertiteln versehen. Für die Bühne und Visuals zeichnen UMS  ́n JIP verantwortlich.„A Christmas Carol in Prose, Being a Ghost-Story of Christmas“ aus dem Jahre 1843 ist eine der bekanntesten Erzählungen von Charles Dickens. Sie handelt vom Geldverleiher Ebenezer Scrooge, einem alten, grantigen Geizhals, der in einer einzigen Nacht zunächst Besuch von seinem verstorbenen Teilhaber Jacob Marley und dann von drei weiteren Geistern erhält, die ihm schließlich dazu verhelfen, sein Leben zu ändern. A Christmas Carol enthält stark sozialkritische Töne, mit denen Dickens die Missstände im England des 19. Jahrhunderts anprangert. Das wohl größte Vermächtnis seiner Weihnachtsgeschichte ist aber die Botschaft, dass Güte und Mitgefühl für die Mitmenschen zu den höchsten Gütern der Menschheit zählen. Nicht nur an Weihnachten, sondern das ganze Jahr über.electropop opera based on the novel A Christmas Carol by Charles Dickens English (German subtitles) 2020, world premiere  Original Text: Charles Dickens Libretto & Music: UMS  ́n JIP Stage Director: Wolfgang Beuschel Stage & Light Design: UMS  ́n JIP Performers: Ulrike Mayer-Spohn, Javier Hagen",
-        "link": "https://rausgegangen.de/en/events/a-christmas-carol-dickens-von-umsn-jip-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/IfAxIJUPTIOlDyGLaCg7_christmas-carol-rausgegangen.jpg?width=1200&height=900&mode=crop",
-        "city": "Essen"
     },
     {
         "date": "Sat, 20.12.2025",
@@ -2260,13 +2250,13 @@
     },
     {
         "date": "Sun, 21.12.2025",
-        "time": "10:00",
-        "event": "PLAYLIST. Ein fotografisches Mixtape von Studierenden der Merz Akademie und der ABK Stuttgart (@Staatsgalerie Stuttgart)",
+        "time": "20:00",
+        "event": "Stand-Up Comedy OPEN MIC (@Phat Cat Comedy Club)",
         "category": "",
-        "description": "Die Ausstellung präsentiert Arbeiten von 30 Studierenden der beiden großen Stuttgarter Kunsthochschulen, der Merz Akademie, Hochschule für Gestaltung, Kunst und Medien, Stuttgart, und der Akademie der Bildenden Künste Stuttgart (ABK Stuttgart), in »THE GÄLLERY – Raum für Fotografie«.Die musikalische Playlist ist fester Bestandteil der Jugendkultur. Als sorgfältig erstellte Abfolge von Songs mit unterschiedlichen Klangfarben, Rhythmen und Stimmungen ist sie mehr als die Summe ihrer Teile. In diesem Sinne eröffnet die Ausstellung einen vielstimmigen Parcours, der das Publikum dazu einlädt, in die wechselnden Atmosphären der einzelnen Projekte einzutauchen.Die in der aktuellen Ausstellung gezeigten Arbeiten weisen interessante Schnittmengen zwischen angewandter, dokumentarischer und künstlerischer Fotografie auf. Dabei sind die Themen so vielfältig wie die Lebensrealitäten der Studierenden. Biografische Erlebnisse und Alltagsbeobachtungen setzen den Ton: Die Projekte befassen sich mit Fragen von Zugehörigkeit, Community und gesellschaftlicher Prägung oder setzen sich mit existenziellen Musikerlebnissen und berührenden Textzeilen auseinander. Die Künstlerinnen und Künstler nehmen spirituelle Erfahrungen in den Blick, richten ihre Aufmerksamkeit auf die Routinen des Alltags oder analysieren die eigene emotionale Verfasstheit in Zeiten des russischen Angriffskriegs auf die Ukraine.Die Sonderausstellung ist in Zusammenarbeit mit den Fotografieprofessorinnen Ulrike Myrzik (ABK Stuttgart) und Anja Weber (Merz Akademie) entstanden. Das Projekt schließt an eine Reihe von Kooperationen mit Kunsthochschulen in »THE GÄLLERY – Raum für Fotografie« an.Ausstellende:Elvin Ayanoglu, Laura Benner, Leonie Bucher, Nele David, Semiha Değirmenci, Lena Zoe Dernai, Emilia Giese, Iliana Glatz, Julia Groß, Miriam Häfele, Sophie Hanna, Serafine Hauschke, Sarah Hendrysiak, Clara Imberger, Alonso John, Melissa Kugele, Alwin Maigler, Lisa Mantel, Ilya Netyosov, Max Schindler, Maxim Schipko, Elia Schmid, Zoe Schmidt, Julius Schröder, Yannick Schroth, Josepha Stolz, Mariia Sviatohorova, Marlene Theiss, Xenia Wahl, Farida Emanuella Womeno-Dassi Abbildung: Leonie Bucher, æmilia, aus der Serie »touch me again«, 2025, © Leonie Bucher",
-        "link": "https://rausgegangen.de/en/events/playlist-ein-fotografisches-mixtape-von-studierenden-der-mer-55/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4KlZ0LEtSKWev5xWuEKR_staatsgalerieplaylistpressebild29.jpg?width=1200&height=900&mode=crop",
-        "city": "Stuttgart"
+        "description": "Willkommen beim Phat Cat Comedy Club! Erfahrene Comedians oder Newcomer, alle sind auf unserer Bühne willkommen und bringen ihr neuestes Material zum testen mit.  ✨Was ist ein Open Mic? Open Mics sind Testbühnen für Comedians. Dort können sie neues Material vor Publikum testen und Stück für Stück ihr Set rundspielen.  Open Mics sind daher super wichtig für Comedians und alle, die neu dazukommen wollen, denn dort können sie zum ersten Mal mit Stand Up Comedy auf einer Bühne stehen. Wenn du Lust hast, dich auszuprobieren, schick uns eine DM!  Uns ist wichtig, dass bei Open Mics immer eine entspannte Atmosphäre herrscht - mit Jokes zu scheitern ist erlaubt. Wir freuen uns auf dich 🫶✨Wie läuft ein Open Mic ab? Nacheinander treten die Comedians für 5-7 Minuten auf und präsentieren euch ihre neuen Jokes.  Zwischendrin gibt’s eine kleine Pause, sodass der Abend rund 90-120 Minuten lang ist.  Das Besondere: ihr seid LIVE dabei, wenn neue Jokes entstehen, die später auf Shows gespielt werden & könnt neuen Talenten bei ihren ersten Auftritten zusehen. ✨Der Eintritt ist frei / Spendenbasiert  Ihr könnt euch vorab einen Platz reservieren, wenn ihr sicher gehen wollt, reinzukommen oder einfach spontan vorbeikommen.  Wir empfehlen eine Spende von 10€ Unser Comedy Club befindet sich im Lipsia-Haus im Barfußgäßchen. Ihr erreicht uns über die Große Fleischergasse.Der Einlass startet um 19:30 Uhr und wird bis 19:50 Uhr gewährt. Vor dem Open Mic könnt ihr bei uns den Preis eures Longdrinks würfeln. Zwischen zwei und zwölf Euro ist alles möglich. Also kommt vorbei, packt eure Liebsten ein & erlebt einen bunten Abend im Phat Cat Comedy Club!",
+        "link": "https://rausgegangen.de/en/events/stand-up-comedy-open-mic-423/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/mKW7MFYSzSJlZjc0SoWW_ticketing-bild.png?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
     },
     {
         "date": "Sun, 21.12.2025",
@@ -2277,6 +2267,16 @@
         "link": "https://rausgegangen.de/en/events/die-comedy-werkstatt-essen-38/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TcyqtNM0RgODzVYpE1OX_img4282jpg.jpeg?width=1200&height=900&mode=crop",
         "city": "Essen"
+    },
+    {
+        "date": "Sun, 21.12.2025",
+        "time": "10:00",
+        "event": "PLAYLIST. Ein fotografisches Mixtape von Studierenden der Merz Akademie und der ABK Stuttgart (@Staatsgalerie Stuttgart)",
+        "category": "",
+        "description": "Die Ausstellung präsentiert Arbeiten von 30 Studierenden der beiden großen Stuttgarter Kunsthochschulen, der Merz Akademie, Hochschule für Gestaltung, Kunst und Medien, Stuttgart, und der Akademie der Bildenden Künste Stuttgart (ABK Stuttgart), in »THE GÄLLERY – Raum für Fotografie«.Die musikalische Playlist ist fester Bestandteil der Jugendkultur. Als sorgfältig erstellte Abfolge von Songs mit unterschiedlichen Klangfarben, Rhythmen und Stimmungen ist sie mehr als die Summe ihrer Teile. In diesem Sinne eröffnet die Ausstellung einen vielstimmigen Parcours, der das Publikum dazu einlädt, in die wechselnden Atmosphären der einzelnen Projekte einzutauchen.Die in der aktuellen Ausstellung gezeigten Arbeiten weisen interessante Schnittmengen zwischen angewandter, dokumentarischer und künstlerischer Fotografie auf. Dabei sind die Themen so vielfältig wie die Lebensrealitäten der Studierenden. Biografische Erlebnisse und Alltagsbeobachtungen setzen den Ton: Die Projekte befassen sich mit Fragen von Zugehörigkeit, Community und gesellschaftlicher Prägung oder setzen sich mit existenziellen Musikerlebnissen und berührenden Textzeilen auseinander. Die Künstlerinnen und Künstler nehmen spirituelle Erfahrungen in den Blick, richten ihre Aufmerksamkeit auf die Routinen des Alltags oder analysieren die eigene emotionale Verfasstheit in Zeiten des russischen Angriffskriegs auf die Ukraine.Die Sonderausstellung ist in Zusammenarbeit mit den Fotografieprofessorinnen Ulrike Myrzik (ABK Stuttgart) und Anja Weber (Merz Akademie) entstanden. Das Projekt schließt an eine Reihe von Kooperationen mit Kunsthochschulen in »THE GÄLLERY – Raum für Fotografie« an.Ausstellende:Elvin Ayanoglu, Laura Benner, Leonie Bucher, Nele David, Semiha Değirmenci, Lena Zoe Dernai, Emilia Giese, Iliana Glatz, Julia Groß, Miriam Häfele, Sophie Hanna, Serafine Hauschke, Sarah Hendrysiak, Clara Imberger, Alonso John, Melissa Kugele, Alwin Maigler, Lisa Mantel, Ilya Netyosov, Max Schindler, Maxim Schipko, Elia Schmid, Zoe Schmidt, Julius Schröder, Yannick Schroth, Josepha Stolz, Mariia Sviatohorova, Marlene Theiss, Xenia Wahl, Farida Emanuella Womeno-Dassi Abbildung: Leonie Bucher, æmilia, aus der Serie »touch me again«, 2025, © Leonie Bucher",
+        "link": "https://rausgegangen.de/en/events/playlist-ein-fotografisches-mixtape-von-studierenden-der-mer-55/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4KlZ0LEtSKWev5xWuEKR_staatsgalerieplaylistpressebild29.jpg?width=1200&height=900&mode=crop",
+        "city": "Stuttgart"
     },
     {
         "date": "Sun, 21.12.2025",
@@ -2451,20 +2451,20 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Di, 23.12",
-        "time": "23:00",
-        "event": "DI• THE HOMECOMING (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-the-homecoming/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251223_TheHomeComing_4zu5.jpg"
-    },
-    {
         "date": "Di, 23.12.2025",
         "time": "10:45",
         "event": "Avatar: Fire And Ash (@cinemaxx_bielefeld)",
         "category": "Kino",
         "genre": "Abenteuer & Action & Science-Fiction",
         "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
+        "date": "Di, 23.12",
+        "time": "23:00",
+        "event": "DI• THE HOMECOMING (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-the-homecoming/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251223_TheHomeComing_4zu5.jpg"
     },
     {
         "date": "Di, 23.12.2025",
@@ -2616,14 +2616,6 @@
     },
     {
         "date": "Th, 25.12.2025",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
-        "date": "Th, 25.12.2025",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -2663,12 +2655,12 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Do, 25.12",
-        "time": "23:00",
-        "event": "DO• CAFE CHRISTMAS PARTY (@cafe_europa_bi)",
+        "date": "Th, 25.12.2025",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
-        "link": "https://cafeeuropa.de/event/do-cafe-christmas-party/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/11/IMG_1190.jpeg"
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Thu, 25.12",
@@ -2677,6 +2669,14 @@
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/nachtarena-revival/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/11/2025-12-25_Nachtarena-Revival-VS.jpg"
+    },
+    {
+        "date": "Do, 25.12",
+        "time": "23:00",
+        "event": "DO• CAFE CHRISTMAS PARTY (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/do-cafe-christmas-party/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/11/IMG_1190.jpeg"
     },
     {
         "date": "Do, 25.12.2025",
@@ -2712,22 +2712,22 @@
     {
         "date": "Thu, 25.12.2025",
         "time": "23:00",
-        "event": "RAVE WITH US x HEINZ MUSIC – Christmas Edition (@Romy S)",
-        "category": "",
-        "description": "Weihnachten im Beat: Am ersten Feiertag wird das Romy S zum Zuhause für alle, die lieber tanzen als stillsitzen. RAVE WITH US x HEINZ MUSIC bringt Berliner Clubkultur nach Stuttgart!Line-up: Marcus Meinhardt Gründer von Heinz Music, Visionär der Berliner Szene, bekannt für gefühlvolle, hypnotische Sets.Adi Dassler Druckvoller Sound, präzise Energie, pure Tanzlust.Support: Magia Mafia – für einen stimmungsvollen Start.25.⁠ ⁠Dezember | Romy S Stuttgart | Doors: 23:00Feier den Weihnachtsabend auf dem Dancefloor – mit der Heinz Music Family und einem Sound, der verbindet.#ravewithus #heinzmusic #berlin #stuttgart #technoistmitohnesingen Bundels + Logen Reservierungsanfragen per  WhatsApp: 0176 81310728Es gibt mehrere Möglichkeiten bei uns zu reservieren: Die Romy Lounge ist der exklusivste Bereich im Club.  Hier haben bis zu 15 Personen PlatzIn unserem VIP Cage haben bis zu 12 Personen platz. Hier könnt ihr euch besonders gut zurückziehen, da es hier auch einen Vorhang gibt um eure Privatsphäre zu schützen, wenn ihr das wollt.Darüber hinaus haben wir 4 Lounges neben unserer Bar die für 6-8 Personen ausgelegt sind.Je nach Veranstaltung gibt es auch noch die Möglichkeit hinter dem DJ Pult Stehtische oder Lounges zu buchen. Diese können wir individuell anpassen ab 4 Personen bis zur exklusiven Bereichs Buchung für bis zu 50 Personen.There are several ways to make a reservation with us:The Romy Lounge is the most exclusive area in the club.It can accommodate up to 15 people.Our VIP Cage can accommodate up to 12 people. Here you can enjoy a more private setting, as there's a curtain to protect your privacy if desired.In addition, we have four lounges next to our bar, each designed for 6-8 people.Depending on the event, it's also possible to book standing tables or lounges behind the DJ booth. We can customize these for groups of 4 people up to an exclusive area booking for up to 50 people.",
-        "link": "https://rausgegangen.de/en/events/rave-with-us-x-heinz-music-christmas-edition-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EpyLATtSNOksmMiJ5S3Q_whatsapp-bild-2025-11-05-um-13514572750438.jpg?width=1200&height=900&mode=crop",
-        "city": "Stuttgart"
-    },
-    {
-        "date": "Thu, 25.12.2025",
-        "time": "23:00",
         "event": "King Kong Kicks • Indie Pop & Hypes • Party • Hotel Shanghai • Essen (@Hotel Shanghai)",
         "category": "",
         "description": "Wie kann man diesen ikonischen Club besser verabschieden, als mit den besten Mitsing-Hymnen und Hits? 🎶",
         "link": "https://rausgegangen.de/en/events/king-kong-kicks-indie-pop-hypes-party-hotel-shanghai-essen-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vmygrhtSHOIYWl3Y2yEU_2025-12-25-kkkicks-essenfacebook.png?width=1200&height=900&mode=crop",
         "city": "Essen"
+    },
+    {
+        "date": "Thu, 25.12.2025",
+        "time": "23:00",
+        "event": "RAVE WITH US x HEINZ MUSIC – Christmas Edition (@Romy S)",
+        "category": "",
+        "description": "Weihnachten im Beat: Am ersten Feiertag wird das Romy S zum Zuhause für alle, die lieber tanzen als stillsitzen. RAVE WITH US x HEINZ MUSIC bringt Berliner Clubkultur nach Stuttgart!Line-up: Marcus Meinhardt Gründer von Heinz Music, Visionär der Berliner Szene, bekannt für gefühlvolle, hypnotische Sets.Adi Dassler Druckvoller Sound, präzise Energie, pure Tanzlust.Support: Magia Mafia – für einen stimmungsvollen Start.25.⁠ ⁠Dezember | Romy S Stuttgart | Doors: 23:00Feier den Weihnachtsabend auf dem Dancefloor – mit der Heinz Music Family und einem Sound, der verbindet.#ravewithus #heinzmusic #berlin #stuttgart #technoistmitohnesingen Bundels + Logen Reservierungsanfragen per  WhatsApp: 0176 81310728Es gibt mehrere Möglichkeiten bei uns zu reservieren: Die Romy Lounge ist der exklusivste Bereich im Club.  Hier haben bis zu 15 Personen PlatzIn unserem VIP Cage haben bis zu 12 Personen platz. Hier könnt ihr euch besonders gut zurückziehen, da es hier auch einen Vorhang gibt um eure Privatsphäre zu schützen, wenn ihr das wollt.Darüber hinaus haben wir 4 Lounges neben unserer Bar die für 6-8 Personen ausgelegt sind.Je nach Veranstaltung gibt es auch noch die Möglichkeit hinter dem DJ Pult Stehtische oder Lounges zu buchen. Diese können wir individuell anpassen ab 4 Personen bis zur exklusiven Bereichs Buchung für bis zu 50 Personen.There are several ways to make a reservation with us:The Romy Lounge is the most exclusive area in the club.It can accommodate up to 15 people.Our VIP Cage can accommodate up to 12 people. Here you can enjoy a more private setting, as there's a curtain to protect your privacy if desired.In addition, we have four lounges next to our bar, each designed for 6-8 people.Depending on the event, it's also possible to book standing tables or lounges behind the DJ booth. We can customize these for groups of 4 people up to an exclusive area booking for up to 50 people.",
+        "link": "https://rausgegangen.de/en/events/rave-with-us-x-heinz-music-christmas-edition-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EpyLATtSNOksmMiJ5S3Q_whatsapp-bild-2025-11-05-um-13514572750438.jpg?width=1200&height=900&mode=crop",
+        "city": "Stuttgart"
     },
     {
         "date": "Thu, 25.12.2025",
@@ -2791,20 +2791,20 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Fr, 26.12",
-        "time": "23:00",
-        "event": "FR• BLFD (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-blfd-3/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251226_BLFD_4zu5-1.jpg"
-    },
-    {
         "date": "Fri, 26.12",
         "time": "23:00",
         "event": "2/3 Studi Pop! (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/2-3-studi-pop/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/11/Stereo_26_1225_Feed.jpg"
+    },
+    {
+        "date": "Fr, 26.12",
+        "time": "23:00",
+        "event": "FR• BLFD (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-blfd-3/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251226_BLFD_4zu5-1.jpg"
     },
     {
         "date": "Fr, 26.12.2025",
@@ -2840,6 +2840,26 @@
     },
     {
         "date": "Fri, 26.12.2025",
+        "time": "22:00",
+        "event": "BACK TO THE 90s - XMAS Special | Arteum • 26.12. (@Arteum Eventlocation)",
+        "category": "",
+        "description": "▶▶ BACK TO THE 90s – XMAS SPECIAL ◀◀ Die legendäre Partyreihe zündet am 26. Dezember zusammen mit euch die festliche Rave-Rakete! 🎄✨❤️Zwischen Gameboy, Tamagotchis und Leuchtstäben mischen sich diesmal auch XMAS Vibes und Weihnachtsgeschenke unter. Wir starten nach den Feiertagen im ARTEUM richtig durch! 🚀Die MEGA ZEITREISE in die Ära der Kassettenrekorder, Pacman, Diddl-Mäuse und der legendären Loveparade – diesmal mit einem Hauch Weihnachtsmagie! ❄️🎅🏼▶▶ S P E C I A L S ◀◀ 🚀 Best of 90s & 2000er - ALL NIGHT LONG 🚀 HUNDERTE LED LEUCHTSTÄBE 🚀 XXL KONFETTI & CO2 ACTION 🚀 90er GETRÄNKESPECIALS 🚀 90x COMEBACK-TICKETS 🚀 SÜßIGKEITEN AUS DEN 90er & 2000er  ▶▶ M U S I K ◀◀ RAVER-ROCKET ♪♪ Best of: 90er & 2000er w/ PaddixxBLACK FLOOR ♪♪ Deutschrap, Hip-Hop, RnB w/ Envidee  🍾 TISCH-RESERVIERUNGEN 🍾 SITZPLÄTZE -> 35 € p.P. • inkl. 30 € Getränkefreiverzehr, reservierten Sitzplätzen, separatem Einlass, Bottle-Service☞ Per E-Mail: mail@events2move.de oder per Whatsapp an 0157 53709569  ▶▶ I N F O S ◀◀ Arteum | Am Brauhaus 3 | 01099 Dresden• Datum: Freitag, 26.12.2025 • Einlass: ab 22 Uhr • P16 nur mit www.partyzettel.de und volljähriger Begleitperson möglich! Dies ist eine Sonderveranstaltung im Arteum. Kein Einlass für Personen über 30 Jahre. Ticket-Rückerstattung ausgeschlossen.",
+        "link": "https://rausgegangen.de/en/events/back-to-the-90s-xmas-special-arteum-2612-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/YKGspKMhQHuGmny91dui_layout-btt90s-arteum.jpg?width=1200&height=900&mode=crop",
+        "city": "Dresden"
+    },
+    {
+        "date": "Fri, 26.12.2025",
+        "time": "22:00",
+        "event": "Uncanny Valley Betriebsweihnachtsfeier (@GrooveStation)",
+        "category": "",
+        "description": "File under: House, Acid, PartyLine Up: Iron Curtis Bobbie* Uncanny Valley DJs",
+        "link": "https://rausgegangen.de/en/events/uncanny-valley-betriebsweihnachtsfeier-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FVgYGVAiTCUJL5zalwaQ_website.jpg?width=1200&height=900&mode=crop",
+        "city": "Dresden"
+    },
+    {
+        "date": "Fri, 26.12.2025",
         "time": "18:30",
         "event": "Comedy für Freunde - Profi-Testbühne (60 Min.) (@Comedy für Freunde Club Frankfurt)",
         "category": "",
@@ -2860,23 +2880,13 @@
     },
     {
         "date": "Fri, 26.12.2025",
-        "time": "22:00",
-        "event": "BACK TO THE 90s - XMAS Special | Arteum • 26.12. (@Arteum Eventlocation)",
+        "time": "23:00",
+        "event": "GAYKISS CLUBBING - Xmas Edition 2025 (@Shagall Klub)",
         "category": "",
-        "description": "▶▶ BACK TO THE 90s – XMAS SPECIAL ◀◀ Die legendäre Partyreihe zündet am 26. Dezember zusammen mit euch die festliche Rave-Rakete! 🎄✨❤️Zwischen Gameboy, Tamagotchis und Leuchtstäben mischen sich diesmal auch XMAS Vibes und Weihnachtsgeschenke unter. Wir starten nach den Feiertagen im ARTEUM richtig durch! 🚀Die MEGA ZEITREISE in die Ära der Kassettenrekorder, Pacman, Diddl-Mäuse und der legendären Loveparade – diesmal mit einem Hauch Weihnachtsmagie! ❄️🎅🏼▶▶ S P E C I A L S ◀◀ 🚀 Best of 90s & 2000er - ALL NIGHT LONG 🚀 HUNDERTE LED LEUCHTSTÄBE 🚀 XXL KONFETTI & CO2 ACTION 🚀 90er GETRÄNKESPECIALS 🚀 90x COMEBACK-TICKETS 🚀 SÜßIGKEITEN AUS DEN 90er & 2000er  ▶▶ M U S I K ◀◀ RAVER-ROCKET ♪♪ Best of: 90er & 2000er w/ PaddixxBLACK FLOOR ♪♪ Deutschrap, Hip-Hop, RnB w/ Envidee  🍾 TISCH-RESERVIERUNGEN 🍾 SITZPLÄTZE -> 35 € p.P. • inkl. 30 € Getränkefreiverzehr, reservierten Sitzplätzen, separatem Einlass, Bottle-Service☞ Per E-Mail: mail@events2move.de oder per Whatsapp an 0157 53709569  ▶▶ I N F O S ◀◀ Arteum | Am Brauhaus 3 | 01099 Dresden• Datum: Freitag, 26.12.2025 • Einlass: ab 22 Uhr • P16 nur mit www.partyzettel.de und volljähriger Begleitperson möglich! Dies ist eine Sonderveranstaltung im Arteum. Kein Einlass für Personen über 30 Jahre. Ticket-Rückerstattung ausgeschlossen.",
-        "link": "https://rausgegangen.de/en/events/back-to-the-90s-xmas-special-arteum-2612-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/YKGspKMhQHuGmny91dui_layout-btt90s-arteum.jpg?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Fri, 26.12.2025",
-        "time": "22:00",
-        "event": "Uncanny Valley Betriebsweihnachtsfeier (@GrooveStation)",
-        "category": "",
-        "description": "File under: House, Acid, PartyLine Up: Iron Curtis Bobbie* Uncanny Valley DJs",
-        "link": "https://rausgegangen.de/en/events/uncanny-valley-betriebsweihnachtsfeier-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FVgYGVAiTCUJL5zalwaQ_website.jpg?width=1200&height=900&mode=crop",
-        "city": "Dresden"
+        "description": "💋 GAYKISS Xmas Edition 💜🎄 Die Feiertage sind fast vorbei – aber bei uns brennt der Baum erst richtig! 🔥 Am Fr. 26. Dezember bringt GAYKISS das Shagall Klub Bremen zum Leuchten – mit Beats, Glitzer & jeder Menge Liebe. 💫  Was dich erwartet: 🎧 DJ CEED & DJ Denny D – zwei DJs, doppelte Energie & ein Dancefloor, der bis zum Morgen brennt 🎅 Santa & The Grinch – die wildesten Xmas-Walking-Acts ever 💋 XXL Xmas Deko & Winter-Vibes – von cozy bis crazy 📸 Hot Spots & Insta Moments – für dein perfektes Xmas-Foto ✨ 100% LGBTQIA+ & Friends – weil wir ALLE feiern!  💜 Dress to impress – Glitzer, Puppy oder Christmas Couture, alles ist erlaubt! Hier wird getanzt, geflirtet & geküsst, bis der Schnee schmilzt. ❄🔥  🕚 Doors open: 23:00 Uhr 📍 Shagall Klub Bremen – Rembertiring 4 🔞 Ab 18 Jahren  🎟 Tickets: 💥 Early Bird (VVK): jetzt günstig auf Lokale Momente sichern! 💸 Bis 00:00 Uhr: 15 € 💸 Nach 00:00 Uhr: 18 € (Abendkasse)  Let’s make this Christmas legendary. 💅",
+        "link": "https://rausgegangen.de/en/events/gaykiss-clubbing-xmas-edition-2025-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EsKKekz1Szy3ZjCVn4RP_soul-rave-edm-party-instagram-story-ad-7-1.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Fri, 26.12.2025",
@@ -2917,16 +2927,6 @@
         "link": "https://rausgegangen.de/en/events/brat-party-w-charli-xcx-other-brat-coded-artists-stuttgart-3/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/PwQAjHKQwOEaDiCoAgg0_brat-christmas.png?width=1200&height=900&mode=crop",
         "city": "Stuttgart"
-    },
-    {
-        "date": "Fri, 26.12.2025",
-        "time": "23:00",
-        "event": "GAYKISS CLUBBING - Xmas Edition 2025 (@Shagall Klub)",
-        "category": "",
-        "description": "💋 GAYKISS Xmas Edition 💜🎄 Die Feiertage sind fast vorbei – aber bei uns brennt der Baum erst richtig! 🔥 Am Fr. 26. Dezember bringt GAYKISS das Shagall Klub Bremen zum Leuchten – mit Beats, Glitzer & jeder Menge Liebe. 💫  Was dich erwartet: 🎧 DJ CEED & DJ Denny D – zwei DJs, doppelte Energie & ein Dancefloor, der bis zum Morgen brennt 🎅 Santa & The Grinch – die wildesten Xmas-Walking-Acts ever 💋 XXL Xmas Deko & Winter-Vibes – von cozy bis crazy 📸 Hot Spots & Insta Moments – für dein perfektes Xmas-Foto ✨ 100% LGBTQIA+ & Friends – weil wir ALLE feiern!  💜 Dress to impress – Glitzer, Puppy oder Christmas Couture, alles ist erlaubt! Hier wird getanzt, geflirtet & geküsst, bis der Schnee schmilzt. ❄🔥  🕚 Doors open: 23:00 Uhr 📍 Shagall Klub Bremen – Rembertiring 4 🔞 Ab 18 Jahren  🎟 Tickets: 💥 Early Bird (VVK): jetzt günstig auf Lokale Momente sichern! 💸 Bis 00:00 Uhr: 15 € 💸 Nach 00:00 Uhr: 18 € (Abendkasse)  Let’s make this Christmas legendary. 💅",
-        "link": "https://rausgegangen.de/en/events/gaykiss-clubbing-xmas-edition-2025-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EsKKekz1Szy3ZjCVn4RP_soul-rave-edm-party-instagram-story-ad-7-1.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
     },
     {
         "date": "Fri, 26.12.2025",
@@ -2987,20 +2987,20 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Sa, 27.12",
-        "time": "23:00",
-        "event": "SA• 2025 FLASHBACK (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-2025-flashback/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251227_2025Flashback_4zu5.jpg"
-    },
-    {
         "date": "Sat, 27.12",
         "time": "23:00",
         "event": "STEREOLOVE (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/stereolove4/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/11/Stereo_27_1225_Feed.jpg"
+    },
+    {
+        "date": "Sa, 27.12",
+        "time": "23:00",
+        "event": "SA• 2025 FLASHBACK (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-2025-flashback/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/10/20251227_2025Flashback_4zu5.jpg"
     },
     {
         "date": "Sa, 27.12.2025",
@@ -3035,6 +3035,16 @@
     },
     {
         "date": "Sat, 27.12.2025",
+        "time": "22:00",
+        "event": "mi amo - feierabend (@GrooveStation)",
+        "category": "",
+        "description": "Die einzige Party die hält was sie verspricht. Organisiert vom mi amo. Keine Monotonie. Euch erwartet ein guter Mix aus House, Techno, Ghetto und dem ein oder anderen Guilty Pleasure. Wir freuen uns auf euch.  Für mehr Infos, folgt uns auf Instagram: @mi.amo_  Erfahrungsberichte: -Die schreiben immer HipHop aufs lineup aber wenn ich nach culcha candela frage gucken die mich schräg an. naja. Immerhin gibts da immer kostenlose Feuerzeuge- (Marie, 25)  -Mein Kind war neulich nachts unterwegs, rief mich an und war dann nicht mehr erreichbar. Da habe ich mir Sorgen gemacht und bin auf die Party gefahren. Ich fand es dort glücklich tanzend mit all seinen Freunden. Die Musik war auch echt klasse. Da bin ich glatt geblieben. Nächstes mal werden wir wohl mit der ganzen Familie anreisen. Tolle Sache und fantastische Beats- (anonym)  -War da und hatte eine sehr gute Nacht- (die meisten)",
+        "link": "https://rausgegangen.de/en/events/mi-amo-feierabend-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wQ3VSTw3RtOPhiHRsos1_kontu1920x1005f01-1.jpg?width=1200&height=900&mode=crop",
+        "city": "Dresden"
+    },
+    {
+        "date": "Sat, 27.12.2025",
         "time": "19:00",
         "event": "Frühtanzparty Frankfurt (@Nachtleben Frankfurt)",
         "category": "",
@@ -3055,13 +3065,23 @@
     },
     {
         "date": "Sat, 27.12.2025",
-        "time": "22:00",
-        "event": "mi amo - feierabend (@GrooveStation)",
+        "time": "11:00",
+        "event": "Kreativer Jahres-Rückblick: Deine Landkarte 2025 (@Unperfekthaus)",
         "category": "",
-        "description": "Die einzige Party die hält was sie verspricht. Organisiert vom mi amo. Keine Monotonie. Euch erwartet ein guter Mix aus House, Techno, Ghetto und dem ein oder anderen Guilty Pleasure. Wir freuen uns auf euch.  Für mehr Infos, folgt uns auf Instagram: @mi.amo_  Erfahrungsberichte: -Die schreiben immer HipHop aufs lineup aber wenn ich nach culcha candela frage gucken die mich schräg an. naja. Immerhin gibts da immer kostenlose Feuerzeuge- (Marie, 25)  -Mein Kind war neulich nachts unterwegs, rief mich an und war dann nicht mehr erreichbar. Da habe ich mir Sorgen gemacht und bin auf die Party gefahren. Ich fand es dort glücklich tanzend mit all seinen Freunden. Die Musik war auch echt klasse. Da bin ich glatt geblieben. Nächstes mal werden wir wohl mit der ganzen Familie anreisen. Tolle Sache und fantastische Beats- (anonym)  -War da und hatte eine sehr gute Nacht- (die meisten)",
-        "link": "https://rausgegangen.de/en/events/mi-amo-feierabend-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wQ3VSTw3RtOPhiHRsos1_kontu1920x1005f01-1.jpg?width=1200&height=900&mode=crop",
-        "city": "Dresden"
+        "description": "Lasse das Jahr Revue passieren mit einer Lebenslandkarte. Lasse los, was du nicht mehr brauchst und starte ohne Ballast ins nächste Jahr.Was hast du 2025 erlebt? Welche Entscheidungen haben dich weiter gebracht? Woran bist du gescheitert? Erkunde dein Leben aus der Vogelperspektive. Auf einer Lebenslandkarte stellst du alles dar, was dich ausmacht und bewegt. Eine Herausforderung wird zum Berg, ein Rückzugsort zur Festung, eine schöne Begegnung zum Quell der Freude. Dabei sind deiner Phantasie keine Grenzen gesetzt.Zeichnen auf Strichmännchen-Niveau reicht vollkommen aus!Florian leitet dich durch den gesamten Prozess und hilft beim Finden der richtigen Symbole.Das erwartet dich:kreatives und emotionales Warm-Up mit Zeichen-Übungen und Traumreisetiefgründige Fragen zu deinem persönlichen Jahr 2025kreative Still-Arbeitfreiwillige Reflexion über das, was du erlebt hastIm Programm ist auch eine ca. 30-minütige Pause vorgesehen.Bist du dabei? Ich freue mich auf dich.WICHTIG: Mit deinem Ticket zahlst du auch den Eintritt ins Unperfekthaus inkl. Getränkeflatrate. Sag einfach an der Kasse Bescheid, dass du zum Workshop \"Zeichne die Landkarte deines Lebens\" willst. Du bekommst dann eine entsprechende Eintrittskarte in den Club-Bereich, wo der Workshop stattfindet.Mehr Infos zu Lebenslandkarten findest du hier.",
+        "link": "https://rausgegangen.de/en/events/kreativer-jahres-ruckblick-deine-landkarte-2025-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/kImUGhdSLkqqWKOzJRQQ_lehan49b-6911.JPG?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Sat, 27.12.2025",
+        "time": "20:00",
+        "event": "Die Comedy Werkstatt Essen - Zur Klause (@Zur Klause)",
+        "category": "",
+        "description": "Das Open-Mic in deiner StadtDie Comedy Werkstatt ist eine Neue Offene Bühne in Essen.Hier testen bekannte Comedians und aufstrebende Newcomer ihre Texten und Gags.Comedy ist ein Handwerk und deswegen freuen wir uns Die Comedy Werkstatt eröffnen zu können.",
+        "link": "https://rausgegangen.de/en/events/die-comedy-werkstatt-essen-zur-klause-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RYu5BVkQayIvn3r3i0ex_img6293.JPG?width=1200&height=900&mode=crop",
+        "city": "Essen"
     },
     {
         "date": "Sat, 27.12.2025",
@@ -3112,26 +3132,6 @@
         "link": "https://rausgegangen.de/en/events/lovepop-retroklub-pure-80s-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/L3W9Ojq3Se6ix4V1EDIg_lp-retroklub-dezember-header-1920x1080.jpg?width=1200&height=900&mode=crop",
         "city": "Stuttgart"
-    },
-    {
-        "date": "Sat, 27.12.2025",
-        "time": "11:00",
-        "event": "Kreativer Jahres-Rückblick: Deine Landkarte 2025 (@Unperfekthaus)",
-        "category": "",
-        "description": "Lasse das Jahr Revue passieren mit einer Lebenslandkarte. Lasse los, was du nicht mehr brauchst und starte ohne Ballast ins nächste Jahr.Was hast du 2025 erlebt? Welche Entscheidungen haben dich weiter gebracht? Woran bist du gescheitert? Erkunde dein Leben aus der Vogelperspektive. Auf einer Lebenslandkarte stellst du alles dar, was dich ausmacht und bewegt. Eine Herausforderung wird zum Berg, ein Rückzugsort zur Festung, eine schöne Begegnung zum Quell der Freude. Dabei sind deiner Phantasie keine Grenzen gesetzt.Zeichnen auf Strichmännchen-Niveau reicht vollkommen aus!Florian leitet dich durch den gesamten Prozess und hilft beim Finden der richtigen Symbole.Das erwartet dich:kreatives und emotionales Warm-Up mit Zeichen-Übungen und Traumreisetiefgründige Fragen zu deinem persönlichen Jahr 2025kreative Still-Arbeitfreiwillige Reflexion über das, was du erlebt hastIm Programm ist auch eine ca. 30-minütige Pause vorgesehen.Bist du dabei? Ich freue mich auf dich.WICHTIG: Mit deinem Ticket zahlst du auch den Eintritt ins Unperfekthaus inkl. Getränkeflatrate. Sag einfach an der Kasse Bescheid, dass du zum Workshop \"Zeichne die Landkarte deines Lebens\" willst. Du bekommst dann eine entsprechende Eintrittskarte in den Club-Bereich, wo der Workshop stattfindet.Mehr Infos zu Lebenslandkarten findest du hier.",
-        "link": "https://rausgegangen.de/en/events/kreativer-jahres-ruckblick-deine-landkarte-2025-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/kImUGhdSLkqqWKOzJRQQ_lehan49b-6911.JPG?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Sat, 27.12.2025",
-        "time": "20:00",
-        "event": "Die Comedy Werkstatt Essen - Zur Klause (@Zur Klause)",
-        "category": "",
-        "description": "Das Open-Mic in deiner StadtDie Comedy Werkstatt ist eine Neue Offene Bühne in Essen.Hier testen bekannte Comedians und aufstrebende Newcomer ihre Texten und Gags.Comedy ist ein Handwerk und deswegen freuen wir uns Die Comedy Werkstatt eröffnen zu können.",
-        "link": "https://rausgegangen.de/en/events/die-comedy-werkstatt-essen-zur-klause-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RYu5BVkQayIvn3r3i0ex_img6293.JPG?width=1200&height=900&mode=crop",
-        "city": "Essen"
     },
     {
         "date": "Sat, 27.12.2025",
@@ -3488,48 +3488,28 @@
         "image_url": null
     },
     {
+        "date": "Wed, 31.12",
+        "time": "23:00",
+        "event": "HAPPY NEW YEAH! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/happy-new-yeah/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/WhatsApp-Bild-2025-11-26-um-21.11.35_dd42f029.jpg"
+    },
+    {
+        "date": "Wed, 31.12",
+        "time": "23:00",
+        "event": "HAPPY NEW YEAH! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/happy-new-yeah/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/WhatsApp-Bild-2025-11-26-um-21.11.35_dd42f029.jpg"
+    },
+    {
         "date": "Di, 31.12",
         "time": "23:00",
         "event": "MI • GOLDEN NIGHT – SILVESTER MIT STIL (@cafe_europa_bi)",
         "category": "Party",
         "link": "https://cafeeuropa.de/event/mi-golden-night-silvester-mit-stil/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/09/20251231_Silvesternacht_4zu5-1.jpg"
-    },
-    {
-        "date": "Wed, 31.12",
-        "time": "23:00",
-        "event": "HAPPY NEW YEAH! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/happy-new-yeah/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/WhatsApp-Bild-2025-11-26-um-21.11.35_dd42f029.jpg"
-    },
-    {
-        "date": "Wed, 31.12",
-        "time": "23:00",
-        "event": "HAPPY NEW YEAH! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/happy-new-yeah/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/09/WhatsApp-Bild-2025-11-26-um-21.11.35_dd42f029.jpg"
-    },
-    {
-        "date": "Wed, 31.12.2025",
-        "time": "22:00",
-        "event": "Silvester im Fortuna „Peaky Blinders“ (@Fortuna Irgendwo)",
-        "category": "",
-        "description": "Das neue Jahr glamorös starten: Silvester im Fortuna Irgendwo im Peaky Blinders-Style! Golden Twenties, Welcome Drink und jede menge gute Vibes und gute Stimmung erwarten dich.",
-        "link": "https://rausgegangen.de/en/events/silvester-im-fortuna-peaky-blinders-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hQXycVdWQZSfQHpKTwZQ_fifacebook-251231.jpg?width=1200&height=900&mode=crop",
-        "city": "Frankfurt"
-    },
-    {
-        "date": "Wed, 31.12.2025",
-        "time": "22:00",
-        "event": "Silvester Party Frankfurt Batschkapp (@Batschkapp Frankfurt)",
-        "category": "",
-        "description": "Feier den Jahreswechsel in der Batschkapp mit dem DJ-Team Buffalo & Wallace, den besten Hits von den 80ern bis heute, 100 Litern Glühwein for free, leckerem Essen die ganze Nacht und einem spektakulären Outdoor-Feuerwerk – unter dem Motto \"alles90er & andere Ohrwürmer\"!",
-        "link": "https://rausgegangen.de/en/events/silvester-party-frankfurt-batschkapp-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/CUcfmPUnRpycSA0R3PyC_bildschirmfoto-2025-07-18-um-101858.png?width=1200&height=900&mode=crop",
-        "city": "Frankfurt"
     },
     {
         "date": "Wed, 31.12.2025",
@@ -3570,6 +3550,26 @@
         "link": "https://rausgegangen.de/en/events/juicy-silvester-new-years-eve-welcome-2026-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fdWRFwJQTYaZNBDTOEtR_juicy1920x1080pxnye25someheader.jpg?width=1200&height=900&mode=crop",
         "city": "Dresden"
+    },
+    {
+        "date": "Wed, 31.12.2025",
+        "time": "22:00",
+        "event": "Silvester im Fortuna „Peaky Blinders“ (@Fortuna Irgendwo)",
+        "category": "",
+        "description": "Das neue Jahr glamorös starten: Silvester im Fortuna Irgendwo im Peaky Blinders-Style! Golden Twenties, Welcome Drink und jede menge gute Vibes und gute Stimmung erwarten dich.",
+        "link": "https://rausgegangen.de/en/events/silvester-im-fortuna-peaky-blinders-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hQXycVdWQZSfQHpKTwZQ_fifacebook-251231.jpg?width=1200&height=900&mode=crop",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Wed, 31.12.2025",
+        "time": "22:00",
+        "event": "Silvester Party Frankfurt Batschkapp (@Batschkapp Frankfurt)",
+        "category": "",
+        "description": "Feier den Jahreswechsel in der Batschkapp mit dem DJ-Team Buffalo & Wallace, den besten Hits von den 80ern bis heute, 100 Litern Glühwein for free, leckerem Essen die ganze Nacht und einem spektakulären Outdoor-Feuerwerk – unter dem Motto \"alles90er & andere Ohrwürmer\"!",
+        "link": "https://rausgegangen.de/en/events/silvester-party-frankfurt-batschkapp-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/CUcfmPUnRpycSA0R3PyC_bildschirmfoto-2025-07-18-um-101858.png?width=1200&height=900&mode=crop",
+        "city": "Frankfurt"
     },
     {
         "date": "Wed, 31.12.2025",
@@ -3691,22 +3691,22 @@
     {
         "date": "Sat, 03.01.2026",
         "time": "22:00",
-        "event": "Der Erste Tanz mit DJ Say Whaat (Old But Gold) (@Batschkapp Frankfurt)",
-        "category": "",
-        "description": "2026 kann kommen!🪩 DER ERSTE TANZ 2025! Am Sa, 3. Januar starten wir in der Batschkapp Frankfurt das neue Jahr gleich mit einem musikalischen Knall! 💥🎧 DJ SAY WHAAT (von der legendären Old But Gold-Reihe) haut euch feinste Oldschool Hip-Hop, Rock-Classics & Pop-Hits um die Ohren – die perfekte Mischung aus Nostalgie und Abriss! 🕺💃🔥 Kein Neujahrsvorsatz hält das aus – hier wird getanzt, gelacht und mitgesungen!📍 Batschkapp Frankfurt 📅 Samstag, 03.01. – ab 22:00 Uhr 💿 Sound: Oldschool meets Good Vibes OnlyLet’s make 2025 start with a BAAAANG! 🚀",
-        "link": "https://rausgegangen.de/en/events/der-erste-tanz-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/JumqddtTymW7ZqcEMGmF_08dererstetanzfacebook1920x1005.jpg?width=1200&height=900&mode=crop",
-        "city": "Frankfurt"
-    },
-    {
-        "date": "Sat, 03.01.2026",
-        "time": "22:00",
         "event": "Fluides Feiern w/ DCT & Friends (@GrooveStation)",
         "category": "",
         "description": "Fluides Feiern heißt: Feiern unter Freund*innen und allen die es noch werden wollen.  Bassmusikalischer Neujahrsempfang!  Wir laden euch ein, den Abend gemeinsam an den Decks zu eröffnen. Egal ob urbane DJ-Koriphäe oder Newbie - alle sind willkommen. Schreibt uns einfach eine kurze DM auf Instagram (@dctdnbdd). FLINTA* DJs werden bevorzugt.  Danach: marcus krassus · sølsken · aesox Zum Abschluss: ein wildes DCT-Neujahrs-B2B  360o Bass Music  Live-Lights & Visuals  No Racism, No Sexism, No Hate.",
         "link": "https://rausgegangen.de/en/events/fluides-feiern-w-dct-friends-3/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/JN2bUqisReGAThKGuQ8b_va-3website.png?width=1200&height=900&mode=crop",
         "city": "Dresden"
+    },
+    {
+        "date": "Sat, 03.01.2026",
+        "time": "22:00",
+        "event": "Der Erste Tanz mit DJ Say Whaat (Old But Gold) (@Batschkapp Frankfurt)",
+        "category": "",
+        "description": "2026 kann kommen!🪩 DER ERSTE TANZ 2025! Am Sa, 3. Januar starten wir in der Batschkapp Frankfurt das neue Jahr gleich mit einem musikalischen Knall! 💥🎧 DJ SAY WHAAT (von der legendären Old But Gold-Reihe) haut euch feinste Oldschool Hip-Hop, Rock-Classics & Pop-Hits um die Ohren – die perfekte Mischung aus Nostalgie und Abriss! 🕺💃🔥 Kein Neujahrsvorsatz hält das aus – hier wird getanzt, gelacht und mitgesungen!📍 Batschkapp Frankfurt 📅 Samstag, 03.01. – ab 22:00 Uhr 💿 Sound: Oldschool meets Good Vibes OnlyLet’s make 2025 start with a BAAAANG! 🚀",
+        "link": "https://rausgegangen.de/en/events/der-erste-tanz-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/JumqddtTymW7ZqcEMGmF_08dererstetanzfacebook1920x1005.jpg?width=1200&height=900&mode=crop",
+        "city": "Frankfurt"
     },
     {
         "date": "Sat, 03.01.2026",
@@ -3952,26 +3952,6 @@
     },
     {
         "date": "Sat, 10.01.2026",
-        "time": "20:30",
-        "event": "Filmpremiere TOCSIN (@MASSIF E)",
-        "category": "",
-        "description": "📅 10.01. 26, 21 Uhr @massif_e , Zeil 125, Frankfurt  ✨ musikalisches Rahmenprogramm von Ensembles aus dem Orchester  💫 Barabend mit DJ Set von @ggvybe  „Tocsin“, übersetzt Alarmglocke, lautet der Titel des finalen Satzes von Schostakowitschs Sinfonie Nr. 11, der als Ausdruck der Auflehnung und Zeichen politischer Hoffnung verstanden wird. Unsere Verfilmung dieses 4. Satzes der Sinfonie, die einst als „Filmmusik ohne Film“ bezeichnet wurde, feiert am 10. Januar in Frankfurt seine Premiere 🫶 ✨   🎫 Tickets ausschließlich an der Abendkasse: 10€   see you there! 🤝🍿",
-        "link": "https://rausgegangen.de/en/events/filmpremiere-tocsin-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/d30TXjiOSp6bTlk7vLig_filmpremiereplakatfinklein.jpg?width=1200&height=900&mode=crop",
-        "city": "Frankfurt"
-    },
-    {
-        "date": "Sat, 10.01.2026",
-        "time": "22:00",
-        "event": "Lost in Music (@Fortuna Irgendwo)",
-        "category": "",
-        "description": "Samstag 10.01.202622.00 - 04.00 UHR / VVK: € 12 / AK € 18Lost in MusicLINE UP: MOUSSE T. / DJ JULIAN SMITH/ ZUNDANZMashup Julian Smith lädt zur besonderen Birthday Edition seiner Eventreihe LOST IN MUSIC ein – eine Nacht für echte Musikliebhaber und Tanzverrückte. Headliner des Abends ist niemand Geringerer als Mousse T. – international gefeierter DJ, Produzent und einer der prägendsten Namen der House-Musik.Seine Welthits „Sex Bomb“ (mit Tom Jones) und „Horny“ machten ihn zum Superstar, und seine legendären Auftritte bei Glitterbox Ibiza stehen für pure Disco-Energie. An seiner Seite ist natürlich Julian Smith, der selbst mit seiner unverwechselbaren Handschrift zwischen Disco, House und Funky Beats begeistert, erwartet euch außerdem ein mitreißendes Live-Set von ZUNDANZ – treibender Afro House mit organischen Rhythmen, Percussion und ekstatischer Energie. Tauche ein in eine Nacht voller Leidenschaft, Leichtigkeit und echter Clubkultur – für alle, die gute Musik nicht nur hören, sondern fühlen.",
-        "link": "https://rausgegangen.de/en/events/lost-in-music-53/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/S2jflOunSh6Q7pChsqRM_wordpress-58.png?width=1200&height=900&mode=crop",
-        "city": "Frankfurt"
-    },
-    {
-        "date": "Sat, 10.01.2026",
         "time": "22:00",
         "event": "CHABOS & CHAYAS • Deutschrap Party | 10.01 (@Reithalle Dresden)",
         "category": "",
@@ -3989,6 +3969,26 @@
         "link": "https://rausgegangen.de/en/events/brat-party-w-charli-xcx-other-brat-coded-artists-dresden-3/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/sGDhkXAS25TW4F3aZ3yw_2026-01-10-brat-party-dresden-banner.png?width=1200&height=900&mode=crop",
         "city": "Dresden"
+    },
+    {
+        "date": "Sat, 10.01.2026",
+        "time": "20:30",
+        "event": "Filmpremiere TOCSIN (@MASSIF E)",
+        "category": "",
+        "description": "📅 10.01. 26, 21 Uhr @massif_e , Zeil 125, Frankfurt  ✨ musikalisches Rahmenprogramm von Ensembles aus dem Orchester  💫 Barabend mit DJ Set von @ggvybe  „Tocsin“, übersetzt Alarmglocke, lautet der Titel des finalen Satzes von Schostakowitschs Sinfonie Nr. 11, der als Ausdruck der Auflehnung und Zeichen politischer Hoffnung verstanden wird. Unsere Verfilmung dieses 4. Satzes der Sinfonie, die einst als „Filmmusik ohne Film“ bezeichnet wurde, feiert am 10. Januar in Frankfurt seine Premiere 🫶 ✨   🎫 Tickets ausschließlich an der Abendkasse: 10€   see you there! 🤝🍿",
+        "link": "https://rausgegangen.de/en/events/filmpremiere-tocsin-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/d30TXjiOSp6bTlk7vLig_filmpremiereplakatfinklein.jpg?width=1200&height=900&mode=crop",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Sat, 10.01.2026",
+        "time": "22:00",
+        "event": "Lost in Music (@Fortuna Irgendwo)",
+        "category": "",
+        "description": "Samstag 10.01.202622.00 - 04.00 UHR / VVK: € 12 / AK € 18Lost in MusicLINE UP: MOUSSE T. / DJ JULIAN SMITH/ ZUNDANZMashup Julian Smith lädt zur besonderen Birthday Edition seiner Eventreihe LOST IN MUSIC ein – eine Nacht für echte Musikliebhaber und Tanzverrückte. Headliner des Abends ist niemand Geringerer als Mousse T. – international gefeierter DJ, Produzent und einer der prägendsten Namen der House-Musik.Seine Welthits „Sex Bomb“ (mit Tom Jones) und „Horny“ machten ihn zum Superstar, und seine legendären Auftritte bei Glitterbox Ibiza stehen für pure Disco-Energie. An seiner Seite ist natürlich Julian Smith, der selbst mit seiner unverwechselbaren Handschrift zwischen Disco, House und Funky Beats begeistert, erwartet euch außerdem ein mitreißendes Live-Set von ZUNDANZ – treibender Afro House mit organischen Rhythmen, Percussion und ekstatischer Energie. Tauche ein in eine Nacht voller Leidenschaft, Leichtigkeit und echter Clubkultur – für alle, die gute Musik nicht nur hören, sondern fühlen.",
+        "link": "https://rausgegangen.de/en/events/lost-in-music-53/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/S2jflOunSh6Q7pChsqRM_wordpress-58.png?width=1200&height=900&mode=crop",
+        "city": "Frankfurt"
     },
     {
         "date": "Sat, 10.01.2026",
@@ -4369,16 +4369,6 @@
     },
     {
         "date": "Thu, 15.01.2026",
-        "time": "19:30",
-        "event": "SMASH COMEDY - die (queer)feministische Stand Up Show Bremen (@Butschern Bar am Sielwall)",
-        "category": "",
-        "description": "Punchlines gegens Patriarchat: Hamburgs queerfeministischer Stand Up Comedy Club SMASH COMEDY feiert die female & queer Comedians der deutschen Stand Up Szene. Hier geben jeweils 5-8 Profis und Newcomer*innen das Mikro weiter, präsentiert von der Smash-Gründerin, Musikerin und Stand Up Comedienne Schwessi aus Hamburg.  Das Besondere: diese Bühne gehört nur denen, die in der von weißen hetero cis Männern dominierten Szene extrem unterrepräsentiert sind. Statt Pimmelwitzen, „meine Freundin“-Jokes und rassistischen Klischees eine Bühne zu geben, wollen wir Sichtbarkeit für die Stimmen und Lebensrealitäten schaffen, die sonst nur Zielscheibe dieser Witze sind.  Mit maximalem Spaß und Diversity Power gegen Diskriminierung! Lasst euch inspirieren, solidarisiert euch und trainiert eure Empathie-Muskeln bei SMASH COMEDY! Und dann gemeinsam so laut lachen, dass patriarchale Strukturen ganz leise anfangen zu bröckeln...",
-        "link": "https://rausgegangen.de/en/events/queerfeministisches-stand-up-comedy-open-mic-18/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/qjUaBRoiUYQrnK38lgJS_img7426.JPG?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Thu, 15.01.2026",
         "time": "20:00",
         "event": "Kunst gegen Bares - Open Stage Show (@Rabbit Hole Theater)",
         "category": "",
@@ -4386,6 +4376,16 @@
         "link": "https://rausgegangen.de/en/events/kunst-gegen-bares-open-stage-show-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5KqbGNQdRJqrLyTW3ZBP_kgb-rausgegangen-neu.jpg?width=1200&height=900&mode=crop",
         "city": "Essen"
+    },
+    {
+        "date": "Thu, 15.01.2026",
+        "time": "19:30",
+        "event": "SMASH COMEDY - die (queer)feministische Stand Up Show Bremen (@Butschern Bar am Sielwall)",
+        "category": "",
+        "description": "Punchlines gegens Patriarchat: Hamburgs queerfeministischer Stand Up Comedy Club SMASH COMEDY feiert die female & queer Comedians der deutschen Stand Up Szene. Hier geben jeweils 5-8 Profis und Newcomer*innen das Mikro weiter, präsentiert von der Smash-Gründerin, Musikerin und Stand Up Comedienne Schwessi aus Hamburg.  Das Besondere: diese Bühne gehört nur denen, die in der von weißen hetero cis Männern dominierten Szene extrem unterrepräsentiert sind. Statt Pimmelwitzen, „meine Freundin“-Jokes und rassistischen Klischees eine Bühne zu geben, wollen wir Sichtbarkeit für die Stimmen und Lebensrealitäten schaffen, die sonst nur Zielscheibe dieser Witze sind.  Mit maximalem Spaß und Diversity Power gegen Diskriminierung! Lasst euch inspirieren, solidarisiert euch und trainiert eure Empathie-Muskeln bei SMASH COMEDY! Und dann gemeinsam so laut lachen, dass patriarchale Strukturen ganz leise anfangen zu bröckeln...",
+        "link": "https://rausgegangen.de/en/events/queerfeministisches-stand-up-comedy-open-mic-18/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/qjUaBRoiUYQrnK38lgJS_img7426.JPG?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "event": "Mizuhiki – die traditionelle japanische Knotentechnik (@volkshochschule.bielefeld)",
@@ -4881,6 +4881,16 @@
     {
         "date": "Fri, 23.01.2026",
         "time": "19:00",
+        "event": "Hagen Rether: Liebe (@UNESCO-WELTERBE ZOLLVEREIN | ESSEN)",
+        "category": "",
+        "description": "Hagen Rethers „Liebe“ ist tragisch, komisch, schmerzhaft und ansteckend: Das ständig aktualisierte Programm mit dem immer gleichen Titel verursacht nachhaltige Unzufriedenheit mit einfachen Erklärungen und stiftet zum Selberdenken und -handeln an.In aller Ausführlichkeit verknüpft der Kabarettist Hagen Rether Aktuelles mit Vergessenem, Nahes mit Fernem, stellt infrage, bestreitet, zweifelt. An zentralen Glaubenssätzen westlicher „Zivilisation“ rüttelt er gründlich, sogenannte Sachzwänge gibt er als kollektive Fiktionen dem Gelächter preis. Mit überraschenden Vergleichen verführt er das Publikum zum Perspektivwechsel – zu einem anderen Blick auf die Welt, in die Zukunft und in den Spiegel.Bis zu dreieinhalb Stunden plädiert der Kabarettist leidenschaftlich für Aufklärung und Mitgefühl, gegen Doppelmoral und konsumselige Wurstigkeit: Wandel ist möglich – wenn wir wollen.",
+        "link": "https://rausgegangen.de/en/events/hagen-rether-liebe-39/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fQpdvjt2QbSzCxvKSheS_pressefoto-c5a4998-fotograf-alexander-ki.jpg?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Fri, 23.01.2026",
+        "time": "19:00",
         "event": "Bush.Ida (@Kulturzentrum Schlachthof - Magazinkeller)",
         "category": "",
         "description": "Bush.Ida - Renn Ida Bush Round 2Einlass 19:00 // Beginn 20:00Bush.ida ist ein Feuerwerk. Geschaffen aus dem impulsiven Feuer des inneren Widders hat sich ida in die Welt katapultiert, um Funken zu sprühen. Die Hörner stoßen sich an patriarchalen Gewaltstrukturen, männlich dominiertem Rap und dem Lifestyle des Kapitalismus der weismachen will, dass es nur „EINE*N“ geben kann. Dem entgegen setzt Bush.ida radikale Zärtlichkeit, Co-Kreation und Kollaboration als die wahren Fundamente dieser Welt. Altes in Brand setzen, Neues befeuern. Verbunden mit der Erkenntnis, dass wir alle Teil des Systems sind, das uns geprägt hat. Doppeldeutigkeit aushalten - das ist die Message. Diese versteckt sich in wortgewandten Lines, die Hörer*innen stetig auffordert nach dem doppelten Boden zu suchen.Da Wörter alleine noch keinen Rap komplett machen, findet die Sprachakrobatik auf donnernden Beats statt. Das ist ganz wichtig im Bush, denn Wörter finden sich im Geist, in die Welt kommen sie nur durch Körper. Ein Zuhause im Körper und der Welt haben Bush.idas Raps auf Bühnen gefunden. In heißen Performances verkörpern sich die Geistesergüsse in pochende Bewegungen, die jedes Wort unterstreichen.",
@@ -4897,16 +4907,6 @@
         "link": "https://rausgegangen.de/en/events/bushida-renn-ida-bush-round-2-1/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zCNVnbiAS2yHN9Rf2uUg_credits-lilly-urbatlillyurbat.jpeg?width=1200&height=900&mode=crop",
         "city": "Bremen"
-    },
-    {
-        "date": "Fri, 23.01.2026",
-        "time": "19:00",
-        "event": "Hagen Rether: Liebe (@UNESCO-WELTERBE ZOLLVEREIN | ESSEN)",
-        "category": "",
-        "description": "Hagen Rethers „Liebe“ ist tragisch, komisch, schmerzhaft und ansteckend: Das ständig aktualisierte Programm mit dem immer gleichen Titel verursacht nachhaltige Unzufriedenheit mit einfachen Erklärungen und stiftet zum Selberdenken und -handeln an.In aller Ausführlichkeit verknüpft der Kabarettist Hagen Rether Aktuelles mit Vergessenem, Nahes mit Fernem, stellt infrage, bestreitet, zweifelt. An zentralen Glaubenssätzen westlicher „Zivilisation“ rüttelt er gründlich, sogenannte Sachzwänge gibt er als kollektive Fiktionen dem Gelächter preis. Mit überraschenden Vergleichen verführt er das Publikum zum Perspektivwechsel – zu einem anderen Blick auf die Welt, in die Zukunft und in den Spiegel.Bis zu dreieinhalb Stunden plädiert der Kabarettist leidenschaftlich für Aufklärung und Mitgefühl, gegen Doppelmoral und konsumselige Wurstigkeit: Wandel ist möglich – wenn wir wollen.",
-        "link": "https://rausgegangen.de/en/events/hagen-rether-liebe-39/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fQpdvjt2QbSzCxvKSheS_pressefoto-c5a4998-fotograf-alexander-ki.jpg?width=1200&height=900&mode=crop",
-        "city": "Essen"
     },
     {
         "date": "Fri, 23.01.2026",
@@ -5022,22 +5022,22 @@
     {
         "date": "Sun, 25.01.2026",
         "time": "20:00",
-        "event": "Maël & Jonas - TWO SPOONS SUGAR Vol. 2 (@Tower Musikclub)",
-        "category": "",
-        "description": "MAËL & JONAS sind langjährige Freunde und ein Künstler-Duo, das 2020 mit Nico Santos als Coach den 3. Platz bei der Castingshow The Voice of Germany erreicht hat. Seitdem ist sehr viel passiert. Nach der millionenfach gestreamten Finalsingle „Treat you Right“ feat. Nico Santos folgte 2023 das Debütalbum „rocket science“, das auf Platz #77 in den Deutschen Charts einstieg.",
-        "link": "https://rausgegangen.de/en/events/mael-jonas-two-spoons-sugar-vol-2-tour-2526-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/qbMR8uY5T3aSvk7fQ797_maeljonasleonherzz-32-von-54.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Sun, 25.01.2026",
-        "time": "20:00",
         "event": "Talk-Show - präsentiert von der Comedy-Werkstatt (@Cafe Nord)",
         "category": "",
         "description": "In diesem Format treffen sich Comedians nicht, um ihre neuesten Bits auf der Bühne zu testen – sondern um darüber zu reden, was sie im Alltag zum Lachen, Kopfschütteln oder Grübeln bringt. Kein Stand-up, keine Pointe auf Kommando – sondern ehrliche Gespräche über Beobachtungen, die später vielleicht mal zur Pointe werden.Jede Folge bringt ein neues Thema oder eine absurde Alltagsbeobachtung auf den Tisch, und alle Gäste geben ihren Senf dazu: spontan, witzig und manchmal überraschend tiefgründig. Es ist wie eine Comedy-Writers-Runde – nur mit Kameras und echtem Gelächter.",
         "link": "https://rausgegangen.de/en/events/talk-show-prasentiert-von-der-comedy-werkstatt-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/KDV7J9EkTIeB5zrSbl4A_chatgpt-image-4-nov-2025-101855.png?width=1200&height=900&mode=crop",
         "city": "Essen"
+    },
+    {
+        "date": "Sun, 25.01.2026",
+        "time": "20:00",
+        "event": "Maël & Jonas - TWO SPOONS SUGAR Vol. 2 (@Tower Musikclub)",
+        "category": "",
+        "description": "MAËL & JONAS sind langjährige Freunde und ein Künstler-Duo, das 2020 mit Nico Santos als Coach den 3. Platz bei der Castingshow The Voice of Germany erreicht hat. Seitdem ist sehr viel passiert. Nach der millionenfach gestreamten Finalsingle „Treat you Right“ feat. Nico Santos folgte 2023 das Debütalbum „rocket science“, das auf Platz #77 in den Deutschen Charts einstieg.",
+        "link": "https://rausgegangen.de/en/events/mael-jonas-two-spoons-sugar-vol-2-tour-2526-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/qbMR8uY5T3aSvk7fQ797_maeljonasleonherzz-32-von-54.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "event": "Aramäisch: Weltsprache des Altertums und der Gegenwart\r\nvhs.wissen live Wann: Mo. , 26.01.26, 19.30 Uhr Wo: @home Nr.: 2521219 (@volkshochschule.bielefeld)",
@@ -5256,22 +5256,22 @@
     {
         "date": "Fri, 30.01.2026",
         "time": "20:00",
-        "event": "DISARSTAR /// Tour 2025 / 26 (@Pier 2)",
-        "category": "",
-        "description": "DISARSTAR ist zurück – mit neuer Musik und der größten Tour seiner Karriere. Zwischen brachialen Beats und brennender Gesellschaftskritik bringt er 2025/26 seine Haltung auf die Bühne.",
-        "link": "https://rausgegangen.de/en/events/disarstar-tour-202526-9/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6omHBWu8TomKhPj756Pz_disarstar4ctimerdmann0722quer.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Fri, 30.01.2026",
-        "time": "20:00",
         "event": "Mette Ingvartsen ›Delirious Night‹ (@PACT Zollverein)",
         "category": "",
         "description": "Eine Nacht im Rausch verspricht die neue Arbeit der dänischen Choreographin Mette Ingvartsen: In ›Delirious Night‹ lassen tanzwütige junge Menschen einen Maskenball völlig eskalieren. Aus dem ekstatischen Tanz entstehen die überwältigenden Gefühle einer großen Befreiung: Bewegungswahn als politisches und soziales Ereignis.Weitere Informationen finden Sie auf der PACT Website.",
         "link": "https://rausgegangen.de/en/events/mette-ingvartsen-delirious-night-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ZYVWAcW8TiZ5uGsBu027_1536-1024-25.jpg?width=1200&height=900&mode=crop",
         "city": "Essen"
+    },
+    {
+        "date": "Fri, 30.01.2026",
+        "time": "20:00",
+        "event": "DISARSTAR /// Tour 2025 / 26 (@Pier 2)",
+        "category": "",
+        "description": "DISARSTAR ist zurück – mit neuer Musik und der größten Tour seiner Karriere. Zwischen brachialen Beats und brennender Gesellschaftskritik bringt er 2025/26 seine Haltung auf die Bühne.",
+        "link": "https://rausgegangen.de/en/events/disarstar-tour-202526-9/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6omHBWu8TomKhPj756Pz_disarstar4ctimerdmann0722quer.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "event": "Vom RAW zum Bild – RAW Entwicklung mit Lightroom (@volkshochschule.bielefeld)",
