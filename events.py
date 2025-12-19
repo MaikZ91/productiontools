@@ -9,10 +9,8 @@ import calendar
 import traceback
 from typing import Optional
 from concurrent.futures import ThreadPoolExecutor, as_completed
-import google.generativeai as genai
-genai.configure(api_key="AIzaSyDDee1lPK-nT592uNUrohEhCow6IpziWqI")
-model = genai.GenerativeModel('gemini-2.5-flash')
-
+from google import genai
+client = genai.Client(api_key="AIzaSyDDee1lPK-nT592uNUrohEhCow6IpziWqI")
 # Zieljahr definieren (z. B.  2025)
 TARGET_YEAR = 2025
 
@@ -353,20 +351,28 @@ def scrape_events(base_url):
 
 
     if base_url == kunsthalle:
-        
-        prompt = f"Extract events from this text as JSON array with fields: date (DD.MM.YYYY), time (HH:MM), title, category (Kultur/Kreativität). Text: {soup.get_text()}"
-        response = model.generate_content(prompt, generation_config={"response_mime_type": "application/json"})
-        ai_data = json.loads(response.text)
 
+        page_text = soup.get_text("\n", strip=True)
+        prompt = f"Extract events from this text as JSON array. Fields: date (DD.MM.YYYY), time (HH:MM), title, category (Kultur/Kreativität). Text: {page_text}"
+        
+        response = client.models.generate_content(
+            model="gemini-3.0-flash", 
+            contents=prompt,
+            config={'response_mime_type': 'application/json'}
+        )
+        
+        ai_data = json.loads(response.text)
+    
         for item in ai_data:
+            # Datum formatieren (z.B. "Fr, 20.12.2025")
             d = datetime.datetime.strptime(item['date'], "%d.%m.%Y")
             date_str = d.strftime(f"{_WD[d.weekday()]}, %d.%m.%Y")
-
+    
             events.append({
                 "date": date_str,
-                "time": item['time'],
+                "time": item.get('time'),
                 "event": f"{item['title']} (@kunsthalle_bielefeld)",
-                "category": item['category'],
+                "category": item.get('category', 'Kultur'),
                 "link": base_url,
                 "image_url": (soup.find("meta", property="og:image") or {}).get("content")
             })
