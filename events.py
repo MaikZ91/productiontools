@@ -11,7 +11,7 @@ from typing import Optional
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from google import genai
 client = genai.Client(api_key="AIzaSyDDee1lPK-nT592uNUrohEhCow6IpziWqI")
-# Zieljahr definieren (z. B.  2025)
+# Zieljahr definieren (z. B.   2025)
 TARGET_YEAR = 2025
 
 # URLs der Quellen (angepasst für das gesamte Jahr)
