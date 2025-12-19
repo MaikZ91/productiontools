@@ -743,7 +743,18 @@ def scrape_events(base_url):
             "Volleyball",
             "Tango Argentino",
             "Surf",
-            "Salsa/Bachata"
+            "Salsa/Bachata",
+            "Badminton",
+            "Basketball",
+            "Bouldern",
+            "Fußball",
+            "Handball",
+            "Padel Tennis",
+            "Tischtennis",
+            "Zumba",
+            "Urban Kiz",
+            "Tennis",
+            "Schwimmtraining"
         ]
         kw_regex = {k: re.compile(rf"\b{re.escape(k)}\b", re.IGNORECASE)
                     for k in allowed_keywords}
