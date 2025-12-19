@@ -13,7 +13,7 @@ import google.generativeai as genai
 genai.configure(api_key="AIzaSyDDee1lPK-nT592uNUrohEhCow6IpziWqI")
 model = genai.GenerativeModel('gemini-2.5-flash')
 
-# Zieljahr definieren (z. B. 2025)
+# Zieljahr definieren (z. B.  2025)
 TARGET_YEAR = 2025
 
 # URLs der Quellen (angepasst für das gesamte Jahr)
