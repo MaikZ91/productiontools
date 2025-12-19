@@ -353,23 +353,25 @@ def scrape_events(base_url):
             "May": 5, "June": 6, "July": 7, "August": 8,
             "September": 9, "October": 10, "November": 11, "December": 12
         }
-
+    
         # Default-Image der Seite (falls vorhanden)
         default_image = None
         og = soup.find("meta", property="og:image")
         if og and og.get("content"):
             default_image = og["content"]
-
+    
         # Alle Textzeilen der Seite
         text = soup.get_text("\n", strip=True)
         lines = [l.strip() for l in text.split("\n") if l.strip()]
-
+    
         # Beispiel: "December 12 Friday , 5.30 pm–7.30 pm Creative Sip & Sketch 20 Euro, 15 Euro reduced with Samantha Pauwels"
+        # Der Regex ist nun etwas toleranter gegenüber Whitespaces
         line_re = re.compile(
             r"^(January|February|March|April|May|June|July|August|September|October|November|December)\s+"
-            r"(\d{1,2})\s+([A-Za-z]+)\s*,\s*(.+)$"
+            r"(\d{1,2})\s+([A-Za-z]+)\s*,\s*(.+)$",
+            re.IGNORECASE
         )
-
+    
         def parse_12h_time(tail: str) -> Optional[str]:
             """
             Holt die erste Uhrzeit im Format '5.30 pm', '11 am' usw. raus
@@ -386,31 +388,34 @@ def scrape_events(base_url):
             if ampm == "am" and hour == 12:
                 hour = 0
             return f"{hour:02d}:{minute:02d}"
-
+    
         for line in lines:
             m = line_re.match(line)
             if not m:
                 continue
-
+    
             month_name, day_str, weekday_name_en, tail = m.groups()
-            month = MONTHS_EN[month_name]
+            month = MONTHS_EN.get(month_name.capitalize())
+            if not month:
+                continue
+            
             day = int(day_str)
-
+    
             # Jahr heuristisch bestimmen: alles, was im "Kalender in der Zukunft" liegt
             year = TODAY.year
             if month < TODAY.month or (month == TODAY.month and day < TODAY.day):
                 year += 1
-
+    
             try:
                 date_obj = datetime.date(year, month, day)
             except ValueError:
                 continue
-
+    
             weekday_abbr = _WD[date_obj.weekday()]  # ["Mo","Di",...]
-
+    
             # Startzeit aus dem Text ziehen
             start_time = parse_12h_time(tail)
-
+    
             # Zeitspanne vorne wegschneiden: "5.30 pm–7.30 pm ..."
             tail_no_time = re.sub(
                 r"^\s*\d{1,2}(?:[:.]\d{2})?\s*(?:am|pm)\s*–\s*\d{1,2}(?:[:.]\d{2})?\s*(?:am|pm)\s*",
@@ -418,35 +423,37 @@ def scrape_events(base_url):
                 tail,
                 flags=re.I
             ).strip()
-
-            # Titel vor "with ..." abschneiden
-            title_part = tail_no_time.split(" with ")[0].strip()
-
-            # Eintritt/Preis etc. entfernen
-            title_part = re.sub(r"Admission.*", "", title_part).strip()
-            title_part = re.sub(r"\b\d+\s*Euro.*", "", title_part, flags=re.I).strip()
-
+    
+            # Titel vor "with ..." oder Preisen abschneiden
+            # Wir splitten bei bekannten Markern, um den reinen Titel zu isolieren
+            title_part = tail_no_time.split(" with ")[0]
+            title_part = re.split(r"\d+\s*Euro", title_part, flags=re.I)[0].strip()
+    
+            # Eintritt/Preis etc. zusätzlich per Regex entfernen (falls split nicht reicht)
+            title_part = re.sub(r"Admission.*", "", title_part, flags=re.I).strip()
+            title_part = re.sub(r",\s*$", "", title_part).strip() # Komma am Ende entfernen
+    
             # Typ-Label vorne entfernen (macht die Titel kürzer)
-            if title_part.lower().startswith("creative "):
-                title_part = title_part[len("creative "):].strip()
-            if title_part.lower().startswith("guided tour "):
-                title_part = title_part[len("guided tour "):].strip()
-
+            prefixes_to_clean = ["creative ", "guided tour ", "art break "]
+            for prefix in prefixes_to_clean:
+                if title_part.lower().startswith(prefix):
+                    title_part = title_part[len(prefix):].strip()
+    
             if not title_part:
                 title_part = tail_no_time
-
+    
             # Kategorie grob mappen
             category = "Kultur"
-            if "Creative" in tail or "atelier" in tail_no_time.lower():
+            if "creative" in tail.lower() or "atelier" in tail_no_time.lower():
                 category = "Kreativität"
             elif "guided tour" in tail.lower() or "art break" in tail_no_time.lower():
                 category = "Kultur"
-
-            # Endgültiger Eventname
-            event_name = f"{title_part} (@kunsthalle_bielefeld)"
-
+    
+            # Endgültiger Eventname (erster Buchstabe groß für die Optik)
+            event_name = f"{title_part.capitalize()} (@kunsthalle_bielefeld)"
+    
             date_str = date_obj.strftime(f"{weekday_abbr}, %d.%m.%Y")
-
+    
             events.append({
                 "date": date_str,
                 "time": start_time,
