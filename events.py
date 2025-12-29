@@ -1361,7 +1361,7 @@ def parse_event_date(s: str) -> Optional[datetime.date]:
     m = re.match(r"^[A-Za-z]{2,3}\.?,\s*(\d{1,2})\.(\d{1,2})$", s)
     if m:
         d, mth = map(int, m.groups())
-        return datetime.date(TODAY.year, mth, d)
+        return datetime.date(TARGET_YEAR, mth, d)
 
     return None
 
