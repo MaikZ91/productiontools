@@ -12,7 +12,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from google import genai
 client = genai.Client(api_key="AIzaSyDDee1lPK-nT592uNUrohEhCow6IpziWqI")
 # Zieljahr definieren (z. B.   2025)
-TARGET_YEAR = 2025
+TARGET_YEAR = 2026
 
 # URLs der Quellen (angepasst für das gesamte Jahr)
 bielefeld_guide = 'https://www.bielefeld-guide.de/events/weekend-guide/'
