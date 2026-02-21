@@ -1,13 +1,5 @@
 [
     {
-        "date": "Sat, 21.02",
-        "time": "22:30",
-        "event": "DARKSIDE OF SAMS x TRANCELAND (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/darkside-of-sams-x-tranceland-21022026-2230",
-        "image_url": "https://www.club-sams.de/data/202602/DESIGN_F_R_TRANCELAND_DARKSIDE_Facebook-Video__150.png?v=1770808329"
-    },
-    {
         "date": "Sa, 21.02.2026",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -48,20 +40,28 @@
         "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
-        "date": "Sat, 21.02",
-        "time": "23:00",
-        "event": "STEREOLOVE (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/stereolove2/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/01/Stereo_21_0226_Feed.jpg"
-    },
-    {
         "date": "Sa, 21.02",
         "time": "23:00",
         "event": "SA • CASA DANZA ft CAFE EUROPA (@cafe_europa_bi)",
         "category": "Party",
         "link": "https://cafeeuropa.de/event/sa-casa-danza-ft-cafe-europa/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/12/20260221_CasaDanza_4zu5.jpg"
+    },
+    {
+        "date": "Sat, 21.02",
+        "time": "22:30",
+        "event": "DARKSIDE OF SAMS x TRANCELAND (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/darkside-of-sams-x-tranceland-21022026-2230",
+        "image_url": "https://www.club-sams.de/data/202602/DESIGN_F_R_TRANCELAND_DARKSIDE_Facebook-Video__150.png?v=1770808329"
+    },
+    {
+        "date": "Sat, 21.02",
+        "time": "23:00",
+        "event": "STEREOLOVE (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/stereolove2/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/01/Stereo_21_0226_Feed.jpg"
     },
     {
         "date": "Sa, 21.02.2026",
@@ -113,6 +113,36 @@
         "event": "SOUND PRESSURE LOVE (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/spl/",
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
+    },
+    {
+        "date": "Sat, 21.02.2026",
+        "time": "13:00",
+        "event": "Tag der Offenen Tür 2026 (@Dr. Hoch's Konservatorium - Musikakademie Frankfurt am Main)",
+        "category": "",
+        "description": "Ein Nachmittag voller Musik, Entdeckungen und offener Türen: Im Dr. Hoch’s Konservatorium kannst du erleben, wie vielfältig Unterricht, Ensembles und Proben wirklich sind. Von Jazz über Ballett bis zu interkulturellen Klangprojekten – hier darfst du staunen, zuhören und selbst mitmachen.",
+        "link": "https://rausgegangen.de/en/events/tag-der-offenen-tur-2026-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/x60PcbuMSkaFhNG8P14Z_kachel-website-tag-der-offenen-tur-2.jpg?width=1200&height=900&mode=crop",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Sat, 21.02.2026",
+        "time": "22:00",
+        "event": "Papi tut mir Leid (@Fortuna Irgendwo)",
+        "category": "",
+        "description": "Am 21. Februar bringt Papi tut mir Leid lateinamerikanische Techhouse-Rhythmen zurück nach Frankfurt. Im intimen Rahmen von Fortuna Irgendwo erwartet dich eine Nacht mit sorgfältig ausgewählter Musik, die zum Bewegen einlädt. Das Line-up verspricht pulsierende Beats und eine lebendige Atmosphäre.",
+        "link": "https://rausgegangen.de/en/events/papi-tut-mir-leid-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FmmUlamJT5K0rlYVCANt_wordpress-65.png?width=1200&height=900&mode=crop",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Sat, 21.02.2026",
+        "time": "23:00",
+        "event": "WE ARE ONE x MTW - REBOOT 2026 with AMBAM, PLOYZZ (@WE ARE ONE)",
+        "category": "",
+        "description": "Bei WE ARE ONE x MTW verschmilzt Techno mit Trance in Sets, die durch Vielfalt und Respekt geprägt sind. Künstler:innen wie AMBAM und PLOYZZ gestalten den Abend mit vielschichtigen Klanglandschaften. Es erwartet dich eine Nacht, die elektronische Musik mit einem sicheren Miteinander verbindet.",
+        "link": "https://rausgegangen.de/en/events/we-are-one-x-mtw-reboot-2026-with-ambam-ployzz-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aVu2tIN9RkeXwE9DZsJy_web-wao.png?width=1200&height=900&mode=crop",
+        "city": "Frankfurt"
     },
     {
         "date": "Sat, 21.02.2026",
@@ -216,93 +246,53 @@
     },
     {
         "date": "Sat, 21.02.2026",
-        "time": "13:00",
-        "event": "Tag der Offenen Tür 2026 (@Dr. Hoch's Konservatorium - Musikakademie Frankfurt am Main)",
+        "time": "18:00",
+        "event": "Elternabend Bremen (@Modernes)",
         "category": "",
-        "description": "Ein Nachmittag voller Musik, Entdeckungen und offener Türen: Im Dr. Hoch’s Konservatorium kannst du erleben, wie vielfältig Unterricht, Ensembles und Proben wirklich sind. Von Jazz über Ballett bis zu interkulturellen Klangprojekten – hier darfst du staunen, zuhören und selbst mitmachen.",
-        "link": "https://rausgegangen.de/en/events/tag-der-offenen-tur-2026-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/x60PcbuMSkaFhNG8P14Z_kachel-website-tag-der-offenen-tur-2.jpg?width=1200&height=900&mode=crop",
-        "city": "Frankfurt"
+        "description": "Der Elternabend bringt Musik aus verschiedenen Jahrzehnten zusammen und feiert entspannt am frühen Abend. Hier kannst du ohne lange Nächte tanzen, singend durch den Abend ziehen und dich sicher vom engagierten Awarenesteam begleiten lassen. Ein Angebot für alle, die feiern und doch früh ins Bett wollen.",
+        "link": "https://rausgegangen.de/en/events/elternabend-82/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4rSzOdlQtKEqa5ebodAG_1191x893px.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Sat, 21.02.2026",
-        "time": "22:00",
-        "event": "Papi tut mir Leid (@Fortuna Irgendwo)",
+        "time": "18:00",
+        "event": "Das Ende des Westens, wie wir ihn kannten? #6JahreNachHanau (@Schwankhalle)",
         "category": "",
-        "description": "Am 21. Februar bringt Papi tut mir Leid lateinamerikanische Techhouse-Rhythmen zurück nach Frankfurt. Im intimen Rahmen von Fortuna Irgendwo erwartet dich eine Nacht mit sorgfältig ausgewählter Musik, die zum Bewegen einlädt. Das Line-up verspricht pulsierende Beats und eine lebendige Atmosphäre.",
-        "link": "https://rausgegangen.de/en/events/papi-tut-mir-leid-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FmmUlamJT5K0rlYVCANt_wordpress-65.png?width=1200&height=900&mode=crop",
-        "city": "Frankfurt"
+        "description": "Bei »6 Jahre nach Hanau« loten Aktivist:innen und Wissenschaftler:innen gesellschaftliche Bruchstellen und den Wandel demokratischer Strukturen aus. Kurzfilme eröffnen Perspektiven auf rechte Gewalt, während die Diskussion fragt, wie solidarisches Handeln heute neu gedacht werden kann. Hier findest du kritische Einblicke in unsere Gegenwart.",
+        "link": "https://rausgegangen.de/en/events/filmpodium-das-ende-des-westens-wie-wir-ihn-kannten-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/KkIcpTbSM2MG8W1NecL2_202602216jahrenachhanaustandbilder.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Sat, 21.02.2026",
-        "time": "23:00",
-        "event": "WE ARE ONE x MTW - REBOOT 2026 with AMBAM, PLOYZZ (@WE ARE ONE)",
+        "time": "18:30",
+        "event": "Ecstatic Dance in Bremen (@Aula Waldorfschule)",
         "category": "",
-        "description": "Bei WE ARE ONE x MTW verschmilzt Techno mit Trance in Sets, die durch Vielfalt und Respekt geprägt sind. Künstler:innen wie AMBAM und PLOYZZ gestalten den Abend mit vielschichtigen Klanglandschaften. Es erwartet dich eine Nacht, die elektronische Musik mit einem sicheren Miteinander verbindet.",
-        "link": "https://rausgegangen.de/en/events/we-are-one-x-mtw-reboot-2026-with-ambam-ployzz-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aVu2tIN9RkeXwE9DZsJy_web-wao.png?width=1200&height=900&mode=crop",
-        "city": "Frankfurt"
+        "description": "Marius Beyer, einer der Pioniere des Ecstatic Dance, bringt seine einfühlsamen und energiegeladenen Sets erstmals nach Bremen. Seine bewegenden Klangreisen verbinden kreative Elektro- und Houseelemente und eröffnen dir Raum für innere Freiheit und gemeinsames Erleben ohne Worte. Es erwartet dich ein besonderer Abend voller Bewegungen und Inspiration.",
+        "link": "https://rausgegangen.de/en/events/ecstatic-dance-in-bremen-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/0CdnIF9TT3GfEAXnQTSa_fbveranstaltungsbanner-kopie.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Sat, 21.02.2026",
-        "time": "16:00",
-        "event": "Kunstmarkt im Kulturbunker (@Kulturbunker Stuttgart)",
+        "time": "19:30",
+        "event": "Jetzt kann der Abend beginnen! (@Boulevardtheater Bremen)",
         "category": "",
-        "description": "Am 21. Februar trifft handgemachte Kreativität auf vielseitige DIY-Kunst. Du kannst nicht nur Unikate entdecken, sondern auch bei Workshops eigene Ideen verwirklichen und die entspannte Atmosphäre mit Musik genießen. Ein abwechslungsreicher Abend, der die Vielfalt der Stuttgarter Kunstszene zeigt.",
-        "link": "https://rausgegangen.de/en/events/kunstmarkt-im-kulturbunker-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ZsKA49wSxegMTl1F13fu_kmrausgegangen.png?width=1200&height=900&mode=crop",
-        "city": "Stuttgart"
+        "description": "Kay Kruppas Komödie zeigt, wie Familienzwist und Liebeswirren das Zusammenleben auf den Kopf stellen. Mit scharfzüngigem Humor und überraschenden Wendungen erwartet dich ein Abend voller Missverständnisse und charmant-spritziger Dialoge. Hier trifft Alltag auf feinsinnige Komik.",
+        "link": "https://rausgegangen.de/en/events/jetzt-kann-der-abend-beginnen-13/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/JLHMNAS5q0ViY3yHzKNQ_titel-web06-kopie.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Sat, 21.02.2026",
-        "time": "20:00",
-        "event": "Ritter Lean - Die 2k26 Tour (@LKA-Longhorn)",
+        "time": "20:30",
+        "event": "Comedyflash - Die Stand Up Comedy Show (@Comedykeller Bremen)",
         "category": "",
-        "description": "Ritter Lean erweitert seine Bühnenpräsenz nach der ausverkauften Tour mit seiner 2k26 Tour. Seine Musik verbindet persönliche Reflexionen mit treibenden Sounds und lädt dich im TOLLHAUS Karlsruhe zu einem besonderen Abend zwischen Rap und Indie ein.",
-        "link": "https://rausgegangen.de/en/events/ritter-lean-die-2k26-tour-7/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/0vZ4R62pT2wilUNJSmkA_noah-rosa-1.jpg?width=1200&height=900&mode=crop",
-        "city": "Stuttgart"
-    },
-    {
-        "date": "Sat, 21.02.2026",
-        "time": "22:00",
-        "event": "Waldtrautgezwitscher (@Lerche 22)",
-        "category": "",
-        "description": "Am 21. Februar bringt NUAH mit seinen tiefgründigen und mitreißenden Live-Sets frischen Wind in die Nacht. Auf zwei Tanzflächen mischen sich vertraute Klänge und überraschende Töne zu einer frühlingshaften Feier, die dich bis in die Morgenstunden begleitet. Hier findest du die perfekte Gelegenheit, den Winter hinter dir zu lassen.",
-        "link": "https://rausgegangen.de/en/events/waldtrautgezwitscher-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/JttG0hNzS6yxhSWQ7Ov7_waldtrautgezwitscher-1350x1080.png?width=1200&height=900&mode=crop",
-        "city": "Stuttgart"
-    },
-    {
-        "date": "Sat, 21.02.2026",
-        "time": "23:00",
-        "event": "KAROTTE’S BIRTHDAY (@Fridas Pier)",
-        "category": "",
-        "description": "Peter feiert seinen Geburtstag mit seiner langjährigen Residency und einem Set, das den charakteristischen Klang des Stuttgarter Technos lebendig hält. Das Event verspricht eine dynamische Nacht voller pulsierender Rhythmen und intensiver Clubatmosphäre. Hier trifft Energie auf bleibende Gemeinschaft.",
-        "link": "https://rausgegangen.de/en/events/karottes-birthday-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zyVu3NCXTlWhUTIHsEEO_260221fb.png?width=1200&height=900&mode=crop",
-        "city": "Stuttgart"
-    },
-    {
-        "date": "Sat, 21.02.2026",
-        "time": "23:00",
-        "event": "I LOVE REGGAETON X STUTTGART LIEBT LATINBEATS X 15 YEARS ANNIVERSARY X CIRCUS EDITION (@Mash Club)",
-        "category": "",
-        "description": "I LOVE REGGAETON feiert 15 Jahre voller Latinbeats, Classics und nonstop Perreo mit einer Circus Edition, die Live-Shows und überraschende Acts verbindet. Erlebe eine Nacht, die Musik und Performance auf einzigartige Weise verknüpft und das Genre neu feiert 🪩",
-        "link": "https://rausgegangen.de/en/events/i-love-reggaeton-x-stuttgart-liebt-latinbeats-x-15-years-ann-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RNMONwGaSn2WOcLUGkvZ_mash-titel-v2.png?width=1200&height=900&mode=crop",
-        "city": "Stuttgart"
-    },
-    {
-        "date": "Sat, 21.02.2026",
-        "time": "21:00",
-        "event": "gentleM Essen Karaokenight (@gentleM Essen)",
-        "category": "",
-        "description": "Hier bist du gefragt – Scham aus, Mikrofon an und let's go 🎙️",
-        "link": "https://rausgegangen.de/en/events/gentlem-essen-karaokenight-7/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BsT7BVjFQcG9YQ4eVukt_karaokesamstaggentlefb4.png?width=1200&height=900&mode=crop",
-        "city": "Essen"
+        "description": "Im Comedykeller Bremen trifft authentische Stand Up Comedy auf frische Impulse aus der deutschen Szene. Erfahrene Profi-Comedians und vielversprechende Newcomer präsentieren humorvolle Geschichten, inspiriert vom amerikanischen Stil. Hier erwarten dich abwechslungsreiche Abende voller Witz und Direktheit.",
+        "link": "https://rausgegangen.de/en/events/comedyflash-die-stand-up-comedy-show-303/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/9oV1ykztRxGAAfwXMU94_noah.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Sat, 21.02.2026",
@@ -406,53 +396,63 @@
     },
     {
         "date": "Sat, 21.02.2026",
-        "time": "18:00",
-        "event": "Elternabend Bremen (@Modernes)",
+        "time": "16:00",
+        "event": "Kunstmarkt im Kulturbunker (@Kulturbunker Stuttgart)",
         "category": "",
-        "description": "Der Elternabend bringt Musik aus verschiedenen Jahrzehnten zusammen und feiert entspannt am frühen Abend. Hier kannst du ohne lange Nächte tanzen, singend durch den Abend ziehen und dich sicher vom engagierten Awarenesteam begleiten lassen. Ein Angebot für alle, die feiern und doch früh ins Bett wollen.",
-        "link": "https://rausgegangen.de/en/events/elternabend-82/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4rSzOdlQtKEqa5ebodAG_1191x893px.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
+        "description": "Am 21. Februar trifft handgemachte Kreativität auf vielseitige DIY-Kunst. Du kannst nicht nur Unikate entdecken, sondern auch bei Workshops eigene Ideen verwirklichen und die entspannte Atmosphäre mit Musik genießen. Ein abwechslungsreicher Abend, der die Vielfalt der Stuttgarter Kunstszene zeigt.",
+        "link": "https://rausgegangen.de/en/events/kunstmarkt-im-kulturbunker-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ZsKA49wSxegMTl1F13fu_kmrausgegangen.png?width=1200&height=900&mode=crop",
+        "city": "Stuttgart"
     },
     {
         "date": "Sat, 21.02.2026",
-        "time": "18:00",
-        "event": "Das Ende des Westens, wie wir ihn kannten? #6JahreNachHanau (@Schwankhalle)",
+        "time": "20:00",
+        "event": "Ritter Lean - Die 2k26 Tour (@LKA-Longhorn)",
         "category": "",
-        "description": "Bei »6 Jahre nach Hanau« loten Aktivist:innen und Wissenschaftler:innen gesellschaftliche Bruchstellen und den Wandel demokratischer Strukturen aus. Kurzfilme eröffnen Perspektiven auf rechte Gewalt, während die Diskussion fragt, wie solidarisches Handeln heute neu gedacht werden kann. Hier findest du kritische Einblicke in unsere Gegenwart.",
-        "link": "https://rausgegangen.de/en/events/filmpodium-das-ende-des-westens-wie-wir-ihn-kannten-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/KkIcpTbSM2MG8W1NecL2_202602216jahrenachhanaustandbilder.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
+        "description": "Ritter Lean erweitert seine Bühnenpräsenz nach der ausverkauften Tour mit seiner 2k26 Tour. Seine Musik verbindet persönliche Reflexionen mit treibenden Sounds und lädt dich im TOLLHAUS Karlsruhe zu einem besonderen Abend zwischen Rap und Indie ein.",
+        "link": "https://rausgegangen.de/en/events/ritter-lean-die-2k26-tour-7/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/0vZ4R62pT2wilUNJSmkA_noah-rosa-1.jpg?width=1200&height=900&mode=crop",
+        "city": "Stuttgart"
     },
     {
         "date": "Sat, 21.02.2026",
-        "time": "18:30",
-        "event": "Ecstatic Dance in Bremen (@Aula Waldorfschule)",
+        "time": "22:00",
+        "event": "Waldtrautgezwitscher (@Lerche 22)",
         "category": "",
-        "description": "Marius Beyer, einer der Pioniere des Ecstatic Dance, bringt seine einfühlsamen und energiegeladenen Sets erstmals nach Bremen. Seine bewegenden Klangreisen verbinden kreative Elektro- und Houseelemente und eröffnen dir Raum für innere Freiheit und gemeinsames Erleben ohne Worte. Es erwartet dich ein besonderer Abend voller Bewegungen und Inspiration.",
-        "link": "https://rausgegangen.de/en/events/ecstatic-dance-in-bremen-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/0CdnIF9TT3GfEAXnQTSa_fbveranstaltungsbanner-kopie.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
+        "description": "Am 21. Februar bringt NUAH mit seinen tiefgründigen und mitreißenden Live-Sets frischen Wind in die Nacht. Auf zwei Tanzflächen mischen sich vertraute Klänge und überraschende Töne zu einer frühlingshaften Feier, die dich bis in die Morgenstunden begleitet. Hier findest du die perfekte Gelegenheit, den Winter hinter dir zu lassen.",
+        "link": "https://rausgegangen.de/en/events/waldtrautgezwitscher-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/JttG0hNzS6yxhSWQ7Ov7_waldtrautgezwitscher-1350x1080.png?width=1200&height=900&mode=crop",
+        "city": "Stuttgart"
     },
     {
         "date": "Sat, 21.02.2026",
-        "time": "19:30",
-        "event": "Jetzt kann der Abend beginnen! (@Boulevardtheater Bremen)",
+        "time": "23:00",
+        "event": "KAROTTE’S BIRTHDAY (@Fridas Pier)",
         "category": "",
-        "description": "Kay Kruppas Komödie zeigt, wie Familienzwist und Liebeswirren das Zusammenleben auf den Kopf stellen. Mit scharfzüngigem Humor und überraschenden Wendungen erwartet dich ein Abend voller Missverständnisse und charmant-spritziger Dialoge. Hier trifft Alltag auf feinsinnige Komik.",
-        "link": "https://rausgegangen.de/en/events/jetzt-kann-der-abend-beginnen-13/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/JLHMNAS5q0ViY3yHzKNQ_titel-web06-kopie.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
+        "description": "Peter feiert seinen Geburtstag mit seiner langjährigen Residency und einem Set, das den charakteristischen Klang des Stuttgarter Technos lebendig hält. Das Event verspricht eine dynamische Nacht voller pulsierender Rhythmen und intensiver Clubatmosphäre. Hier trifft Energie auf bleibende Gemeinschaft.",
+        "link": "https://rausgegangen.de/en/events/karottes-birthday-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zyVu3NCXTlWhUTIHsEEO_260221fb.png?width=1200&height=900&mode=crop",
+        "city": "Stuttgart"
     },
     {
         "date": "Sat, 21.02.2026",
-        "time": "20:30",
-        "event": "Comedyflash - Die Stand Up Comedy Show (@Comedykeller Bremen)",
+        "time": "23:00",
+        "event": "I LOVE REGGAETON X STUTTGART LIEBT LATINBEATS X 15 YEARS ANNIVERSARY X CIRCUS EDITION (@Mash Club)",
         "category": "",
-        "description": "Im Comedykeller Bremen trifft authentische Stand Up Comedy auf frische Impulse aus der deutschen Szene. Erfahrene Profi-Comedians und vielversprechende Newcomer präsentieren humorvolle Geschichten, inspiriert vom amerikanischen Stil. Hier erwarten dich abwechslungsreiche Abende voller Witz und Direktheit.",
-        "link": "https://rausgegangen.de/en/events/comedyflash-die-stand-up-comedy-show-303/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/9oV1ykztRxGAAfwXMU94_noah.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
+        "description": "I LOVE REGGAETON feiert 15 Jahre voller Latinbeats, Classics und nonstop Perreo mit einer Circus Edition, die Live-Shows und überraschende Acts verbindet. Erlebe eine Nacht, die Musik und Performance auf einzigartige Weise verknüpft und das Genre neu feiert 🪩",
+        "link": "https://rausgegangen.de/en/events/i-love-reggaeton-x-stuttgart-liebt-latinbeats-x-15-years-ann-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RNMONwGaSn2WOcLUGkvZ_mash-titel-v2.png?width=1200&height=900&mode=crop",
+        "city": "Stuttgart"
+    },
+    {
+        "date": "Sat, 21.02.2026",
+        "time": "21:00",
+        "event": "gentleM Essen Karaokenight (@gentleM Essen)",
+        "category": "",
+        "description": "Hier bist du gefragt – Scham aus, Mikrofon an und let's go 🎙️",
+        "link": "https://rausgegangen.de/en/events/gentlem-essen-karaokenight-7/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BsT7BVjFQcG9YQ4eVukt_karaokesamstaggentlefb4.png?width=1200&height=900&mode=crop",
+        "city": "Essen"
     },
     {
         "date": "Sat, 21.02.2026",
@@ -523,66 +523,6 @@
         "link": "https://rausgegangen.de/en/events/killing-me-softly-36/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TI9R4QvQTFeAyzh6NFvf_killing-me-softly-banner-22.jpg?width=1200&height=900&mode=crop",
         "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 21.02.2026",
-        "time": "11:00",
-        "event": "The Asimmetric FLINTA* Café (@Asimmetric Bar)",
-        "category": "",
-        "description": "Im Asimmetric FLINTA* Café findest du einen Raum, der mehr als nur Kaffee bietet: Hier entstehen Begegnungen, Austausch und gemeinsames Arbeiten in einem sicheren Umfeld für FLINTA* und Freund:innen. Genieße besondere Drinks und unterstütze zugleich queere migrantische Projekte 🫂",
-        "link": "https://rausgegangen.de/en/events/the-asimmetric-flinta-cafe-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/gR2ZM98oQ0GhnRPebvoD_signal-2026-02-04-134938.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 21.02.2026",
-        "time": "18:00",
-        "event": "Odonia Noire Festival 2026 (@Odonien)",
-        "category": "",
-        "description": "Das Odonia Noire Festival vereint in Kölner Odonien unabhängige elektronische Musik mit einer Bandbreite von House bis Hardtechno. Ab dem 4. Januar kannst du dir Tickets sichern und dich auf einen langen Abend ab 18 Uhr freuen, der frische Sounds und lokale Szene verbindet.",
-        "link": "https://rausgegangen.de/en/events/odonia-noire-festival-2026-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4M5MPjLgS8KbF0cYxiCM_on26-banner.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 21.02.2026",
-        "time": "19:00",
-        "event": "Mélanie Pain /// How and Why Tour 2026 (@JAKI)",
-        "category": "",
-        "description": "Mélanie Pain kehrt mit ihrem vierten Album „How and Why“ zu klaren Melodien und folkorientierter Einfachheit zurück. Das Werk entstand zwischen Waldhütte und Songwriting-Exil und spiegelt eine intensive persönliche Nähe wider. Freu dich auf eine intime Performance, die ihre musikalischen Anfänge lebendig werden lässt.",
-        "link": "https://rausgegangen.de/en/events/melanie-pain-how-and-why-tour-2026-4/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lz72TLqS9qN74PApxALt_melaniepaintourfb1200628px.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 21.02.2026",
-        "time": "23:00",
-        "event": "fi x Joyhauser & Neue Wellen (@Ursprung fi)",
-        "category": "",
-        "description": "Am 21. Februar gestaltet Joyhauser zusammen mit dem Kölner Label Neue Wellen die Nacht im Ursprung fi neu. Erwarte ein erweitertes Set im Dialog mit Ananda Priori und Ere, ergänzt durch fein abgestimmte elektronische Klänge von 2N1A, Fine Dining und Robin Flux. Eine Nacht, die zum gemeinschaftlichen Erlebnis einlädt.",
-        "link": "https://rausgegangen.de/en/events/fi-x-joyhauser-neue-wellen-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/9CvXljosSiLhavmWmhAK_image-2026-01-20-171518.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 21.02.2026",
-        "time": "23:00",
-        "event": "HOTBOI2300 B2B ANTONYM HOT PEOPLE B2B Session (@Helios37)",
-        "category": "",
-        "description": "HOTBOI2300 und ANTONYM liefern beim B2B-Set eine ausgedehnte gemeinsame Session, die die lokale DJ-Szene neu belebt. Mit energetischen Wechselspielen erwartet dich eine Klangreise, die fein kuratierte Clubmomente mit überraschenden Beats verbindet 🪩",
-        "link": "https://rausgegangen.de/en/events/hotboi2300-b2b-antonym-hot-people-b2b-session-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5DK6jRBaQXCBLWQyAfUq_generated-image-january-27-2026-604pm.jpeg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 21.02.2026",
-        "time": "23:00",
-        "event": "RADIO SABOR | FEBRUAR (@Club Bahnhof Ehrenfeld | CBE)",
-        "category": "",
-        "description": "Hier findest du eine Nacht voller lateinamerikanischer Klassiker, von sattem Reggaeton bis zu vielfältigen Salsa- und Bachata-Rhythmen. Die Oldschool-Hits der goldenen Ära bringen Erinnerungen zurück und laden dich ein, verschiedene Klangwelten zu erkunden 🤩",
-        "link": "https://rausgegangen.de/en/events/radio-sabor-februar-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/2MmisDCwR3DXZ2YkBUpA_16x9.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
     },
     {
         "date": "Sat, 21.02.2026",
@@ -673,6 +613,66 @@
         "link": "https://rausgegangen.de/en/events/dancing-with-tears-in-your-eyes-27/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/f0jYdPjcR6W5qIDBG8xo_Dancing80er_AkvPg7P.png?width=1200&height=900&mode=crop",
         "city": "Berlin"
+    },
+    {
+        "date": "Sat, 21.02.2026",
+        "time": "11:00",
+        "event": "The Asimmetric FLINTA* Café (@Asimmetric Bar)",
+        "category": "",
+        "description": "Im Asimmetric FLINTA* Café findest du einen Raum, der mehr als nur Kaffee bietet: Hier entstehen Begegnungen, Austausch und gemeinsames Arbeiten in einem sicheren Umfeld für FLINTA* und Freund:innen. Genieße besondere Drinks und unterstütze zugleich queere migrantische Projekte 🫂",
+        "link": "https://rausgegangen.de/en/events/the-asimmetric-flinta-cafe-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/gR2ZM98oQ0GhnRPebvoD_signal-2026-02-04-134938.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 21.02.2026",
+        "time": "18:00",
+        "event": "Odonia Noire Festival 2026 (@Odonien)",
+        "category": "",
+        "description": "Das Odonia Noire Festival vereint in Kölner Odonien unabhängige elektronische Musik mit einer Bandbreite von House bis Hardtechno. Ab dem 4. Januar kannst du dir Tickets sichern und dich auf einen langen Abend ab 18 Uhr freuen, der frische Sounds und lokale Szene verbindet.",
+        "link": "https://rausgegangen.de/en/events/odonia-noire-festival-2026-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4M5MPjLgS8KbF0cYxiCM_on26-banner.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 21.02.2026",
+        "time": "19:00",
+        "event": "Mélanie Pain /// How and Why Tour 2026 (@JAKI)",
+        "category": "",
+        "description": "Mélanie Pain kehrt mit ihrem vierten Album „How and Why“ zu klaren Melodien und folkorientierter Einfachheit zurück. Das Werk entstand zwischen Waldhütte und Songwriting-Exil und spiegelt eine intensive persönliche Nähe wider. Freu dich auf eine intime Performance, die ihre musikalischen Anfänge lebendig werden lässt.",
+        "link": "https://rausgegangen.de/en/events/melanie-pain-how-and-why-tour-2026-4/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lz72TLqS9qN74PApxALt_melaniepaintourfb1200628px.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 21.02.2026",
+        "time": "23:00",
+        "event": "fi x Joyhauser & Neue Wellen (@Ursprung fi)",
+        "category": "",
+        "description": "Am 21. Februar gestaltet Joyhauser zusammen mit dem Kölner Label Neue Wellen die Nacht im Ursprung fi neu. Erwarte ein erweitertes Set im Dialog mit Ananda Priori und Ere, ergänzt durch fein abgestimmte elektronische Klänge von 2N1A, Fine Dining und Robin Flux. Eine Nacht, die zum gemeinschaftlichen Erlebnis einlädt.",
+        "link": "https://rausgegangen.de/en/events/fi-x-joyhauser-neue-wellen-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/9CvXljosSiLhavmWmhAK_image-2026-01-20-171518.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 21.02.2026",
+        "time": "23:00",
+        "event": "HOTBOI2300 B2B ANTONYM HOT PEOPLE B2B Session (@Helios37)",
+        "category": "",
+        "description": "HOTBOI2300 und ANTONYM liefern beim B2B-Set eine ausgedehnte gemeinsame Session, die die lokale DJ-Szene neu belebt. Mit energetischen Wechselspielen erwartet dich eine Klangreise, die fein kuratierte Clubmomente mit überraschenden Beats verbindet 🪩",
+        "link": "https://rausgegangen.de/en/events/hotboi2300-b2b-antonym-hot-people-b2b-session-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5DK6jRBaQXCBLWQyAfUq_generated-image-january-27-2026-604pm.jpeg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 21.02.2026",
+        "time": "23:00",
+        "event": "RADIO SABOR | FEBRUAR (@Club Bahnhof Ehrenfeld | CBE)",
+        "category": "",
+        "description": "Hier findest du eine Nacht voller lateinamerikanischer Klassiker, von sattem Reggaeton bis zu vielfältigen Salsa- und Bachata-Rhythmen. Die Oldschool-Hits der goldenen Ära bringen Erinnerungen zurück und laden dich ein, verschiedene Klangwelten zu erkunden 🤩",
+        "link": "https://rausgegangen.de/en/events/radio-sabor-februar-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/2MmisDCwR3DXZ2YkBUpA_16x9.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
     },
     {
         "date": "Sat, 21.02.2026",
@@ -890,46 +890,6 @@
     {
         "date": "Sun, 22.02.2026",
         "time": "16:00",
-        "event": "KÜCHENPARTY @ EMIL. PT.30! (@HALLO EMIL)",
-        "category": "",
-        "description": "Bei der Küchenparty im EMIL kannst du leckere Gerichte genießen, dem Küchenteam über die Schulter schauen und später zur Musik von Chefkoch Ivan abtanzen. Freu dich auf Überraschungen, vegane Optionen und eine offene, entspannte Atmosphäre. 🍴🪩",
-        "link": "https://rausgegangen.de/en/events/kuchenparty-emil-pt30-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/1lqseqTBeJsG8LzcVmvA_1-2.jpg?width=1200&height=900&mode=crop",
-        "city": "Stuttgart"
-    },
-    {
-        "date": "Sun, 22.02.2026",
-        "time": "19:00",
-        "event": "Stand-Up Comedy, Open Mic in Stuttgart mit Food & Drinks (@Banh Mi & Bubbles Restaurant / Bar)",
-        "category": "",
-        "description": "Lust auf Comedy? Im Banh mi & Bubbles kannst du jede Woche zwei Tage lang Comedians aus Stuttgart und ganz Deutschland erleben, die ihre neuen Witze testen. Und wer weiß – vielleicht geht's für den ein oder anderen direkt weiter zum Comedy Clash im Wizemann, wo der beste Comedian des Jahres gekürt wird!",
-        "link": "https://rausgegangen.de/en/events/stand-up-comedy-open-mic-in-stuttgart-mit-food-drinks-160/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ysG9bgxQqW0YhytpHaoE_comedybubblesneuesdesign1140x641web.png?width=1200&height=900&mode=crop",
-        "city": "Stuttgart"
-    },
-    {
-        "date": "Sun, 22.02.2026",
-        "time": "19:00",
-        "event": "Blueprint - Comedy & Cocktails | Essen (@FACES Bar)",
-        "category": "",
-        "description": "Düsseldorf liebt es, Essen kriegt’s jetzt auch: Blueprint Comedy & Cocktails in einer freshen Bar!  Das bedeutet also nicht nur gute Gags, sondern auch gute Drinks. Klingt also nach nem guten Abend, oder? 😏",
-        "link": "https://rausgegangen.de/en/events/blueprint-comedy-cocktails-essen-13/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hI6a0aupSNaNr3PP5K6u_bpc-45-2160-x-1080-px-kopie.png?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Sun, 22.02.2026",
-        "time": "20:00",
-        "event": "Die Comedy Werkstatt Essen (@Cafe Nord)",
-        "category": "",
-        "description": "Jede:r fängt mal klein an, jeder Witz entspringt einer fixen Idee und jede legendäre Comedyshow harter Abend! Denn Comedy ist eben immer noch Handwerk, also ab geht's in die Werkstatt!",
-        "link": "https://rausgegangen.de/en/events/die-comedy-werkstatt-essen-56/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TcyqtNM0RgODzVYpE1OX_img4282jpg.jpeg?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Sun, 22.02.2026",
-        "time": "16:00",
         "event": "Momo (@WERK 2 Kulturfabrik)",
         "category": "",
         "description": "Momo, ein kleines Mädchen, lebt am Rande einer Großstadt in den Ruinen eines Amphitheaters. Sie besitzt nichts als das, was sie findet oder was man ihr schenkt, und eine außergewöhnliche Gabe: Sie hört Menschen zu und schenkt ihnen Zeit. Doch eines Tages rückt das gespenstische Heer der grauen Herren in die Stadt ein. Sie haben es auf die kostbare Lebenszeit der Menschen abgesehen und Momo ist die Einzige, die der dunklen Macht der Zeitdiebe noch Einhalt gebieten kann...  Hinweis zu den Preisen: Im WERK 2 sind wir auf euren Support angewiesen. Die aktuelle kulturpolitische Lage betrifft uns alle – besonders Orte der Soziokultur, die Raum für Begegnung, Teilhabe und kreative Entfaltung schaffen. Damit wir auch weiterhin vielfältige Programme, offene Angebote und Veranstaltungen für Kinder, Jugendliche und Familien gestalten können, brauchen wir euch. Mit dem Soli-, Gemeinschafts- und Supporter-Preis könnt ihr selbst entscheiden, was für euch möglich ist – jeder Beitrag hilft und macht Kultur für alle zugänglich.  Die Vorstellung am 23.02.2026 ist NUR für Kitas und Schulen.",
@@ -969,6 +929,46 @@
     },
     {
         "date": "Sun, 22.02.2026",
+        "time": "16:00",
+        "event": "KÜCHENPARTY @ EMIL. PT.30! (@HALLO EMIL)",
+        "category": "",
+        "description": "Bei der Küchenparty im EMIL kannst du leckere Gerichte genießen, dem Küchenteam über die Schulter schauen und später zur Musik von Chefkoch Ivan abtanzen. Freu dich auf Überraschungen, vegane Optionen und eine offene, entspannte Atmosphäre. 🍴🪩",
+        "link": "https://rausgegangen.de/en/events/kuchenparty-emil-pt30-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/1lqseqTBeJsG8LzcVmvA_1-2.jpg?width=1200&height=900&mode=crop",
+        "city": "Stuttgart"
+    },
+    {
+        "date": "Sun, 22.02.2026",
+        "time": "19:00",
+        "event": "Stand-Up Comedy, Open Mic in Stuttgart mit Food & Drinks (@Banh Mi & Bubbles Restaurant / Bar)",
+        "category": "",
+        "description": "Lust auf Comedy? Im Banh mi & Bubbles kannst du jede Woche zwei Tage lang Comedians aus Stuttgart und ganz Deutschland erleben, die ihre neuen Witze testen. Und wer weiß – vielleicht geht's für den ein oder anderen direkt weiter zum Comedy Clash im Wizemann, wo der beste Comedian des Jahres gekürt wird!",
+        "link": "https://rausgegangen.de/en/events/stand-up-comedy-open-mic-in-stuttgart-mit-food-drinks-160/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ysG9bgxQqW0YhytpHaoE_comedybubblesneuesdesign1140x641web.png?width=1200&height=900&mode=crop",
+        "city": "Stuttgart"
+    },
+    {
+        "date": "Sun, 22.02.2026",
+        "time": "19:00",
+        "event": "Blueprint - Comedy & Cocktails | Essen (@FACES Bar)",
+        "category": "",
+        "description": "Düsseldorf liebt es, Essen kriegt’s jetzt auch: Blueprint Comedy & Cocktails in einer freshen Bar!  Das bedeutet also nicht nur gute Gags, sondern auch gute Drinks. Klingt also nach nem guten Abend, oder? 😏",
+        "link": "https://rausgegangen.de/en/events/blueprint-comedy-cocktails-essen-13/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hI6a0aupSNaNr3PP5K6u_bpc-45-2160-x-1080-px-kopie.png?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Sun, 22.02.2026",
+        "time": "20:00",
+        "event": "Die Comedy Werkstatt Essen (@Cafe Nord)",
+        "category": "",
+        "description": "Jede:r fängt mal klein an, jeder Witz entspringt einer fixen Idee und jede legendäre Comedyshow harter Abend! Denn Comedy ist eben immer noch Handwerk, also ab geht's in die Werkstatt!",
+        "link": "https://rausgegangen.de/en/events/die-comedy-werkstatt-essen-56/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TcyqtNM0RgODzVYpE1OX_img4282jpg.jpeg?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Sun, 22.02.2026",
         "time": "18:00",
         "event": "Funny Bones Comedy - Düsseldorf (@Zum Goldenen Einhorn)",
         "category": "",
@@ -986,96 +986,6 @@
         "link": "https://rausgegangen.de/en/events/peter-doherty-9/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/B7eoUOdzQfCgsfcPVaaI_20262pressshotpeter-doherty-bandcredit-roger-sargentweb.jpg?width=1200&height=900&mode=crop",
         "city": "Dortmund"
-    },
-    {
-        "date": "Sun, 22.02.2026",
-        "time": "10:00",
-        "event": "Eisbaden Köln - ICYU Community Session (@tba // to be announced Köln)",
-        "category": "",
-        "description": "Erlebe den Winter mit der ICYU Community!Bist du bereit, die einzigartige Welt des Winterbadens zu entdecken und deine Leidenschaft mit Gleichgesinnten zu teilen?Warum ICYU?  Unsere Philosophie, „Inspire Cold in You“ kombiniert mit „I see you - Ich sehe dich“, schafft eine offene und unterstützende Gemeinschaft für alle, die das Eisbaden als Teil ihres persönlichen Wachstums erleben möchten.Was erwartet dich?  Von Oktober bis März hast du die Möglichkeit, gemeinsam mit anderen Eisbade-Enthusiasten in und um Köln in die kühlen Gewässer einzutauchen. Einmal pro Woche (meist sonntags) treffen wir uns, um gemeinsam in den Tag zu starten – ob Neuling oder erfahrener Eisbader, bei uns ist jeder willkommen!Wie kannst du teilnehmen?  Die Teilnahme ist völlig kostenfrei und ohne Verpflichtungen. Die ICYU Community ist über WhatsApp organisiert, dort werden alle wesentlichen Informationen geteilt. Nach deiner Anmeldung erhältst du einen Beitrittslink zur WhatsApp Gruppe.Optimal vorbereitet: Für alle, die sich optimal auf das kalte Abenteuer vorbereiten möchten, ist die Teilnahme an einem zum Winterbaden und/oder der Wim Hof Method Grunlagen Workshop empfehlenswert. Diese sind ideal für all jene, die sich unter professioneller Anleitung ans Eisbaden rantasten möchten und ihr Wissen vertiefen wollen.Sicher und spaßig: Wir sind weder ein Verein, noch ein Unternehmen, sondern eine private Freizeitinitiative. Jeder Teilnehmer nimmt 100% eigenverantwortlich teil – die Community lebt von einem respektvollen und sicheren Miteinander.Melde dich an, brich aus deiner Komfortzone aus und erlebe den Winter auf eine neue, erfrischende Art – gemeinsam mit der ICYU Community. Lass dich inspirieren und verbringe unvergessliche Momente in der Kälte!Wir sehen uns im Eis! Team ICYU ❄️Instagram: @icyu.community﻿____________________________________________________﻿__________Haftungsausschluss / DisclaimerDie Teilnahme an den Aktivitäten der ICYU Community erfolgt auf eigene Verantwortung. Die ICYU Community ist kein professioneller Anbieter oder Betreiber. ﻿Alle Personen, die im Rahmen der Aktivitäten organisatorische Aufgaben erfüllen tun dies ehrenamtlich in ihrer Freizeit. Wir übernehmen keine Haftung für etwaige Verletzungen, gesundheitliche Schäden oder sonstige Konsequenzen, die im Zusammenhang mit dem Eisbaden entstehen. Es wird dringend empfohlen, sich vor Beginn der Aktivitäten ausreichend zu informieren, die eigene Gesundheit zu prüfen und bei Unsicherheiten einen Arzt zu konsultieren. Die in diesem Angebot genannten Hinweise und Empfehlungen stellen keine medizinische Beratung dar. Durch die Teilnahme bestätigst du, dass du eigenverantwortlich handelst und die Risiken kennst. Jegliche Teilnahme erfolgt freiwillig und ausschließlich auf eigenes Risiko.",
-        "link": "https://rausgegangen.de/en/events/icyu-community-eisbaden-koln-winterbade-session-19/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/tJM1ezdYRJ2EtE05gPfP_374df263-65c8-4ceb-924a-fd488eb5de99.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sun, 22.02.2026",
-        "time": "12:00",
-        "event": "Kulturklüngels Kochkurs Türkei (@Markthalle Körnerstraße Atila Tosun)",
-        "category": "",
-        "description": "Atila hat in den 90er-Jahren in Ehrenfeld zunächst mit türkischen Lebensmitteln gehandelt und später eine Metzgerei eröffnet, die heute zu den feinsten in Köln zählt. Der Handel mit Fleisch ist in Köln mittlerweile fest in türkischer Hand. Er betreibt die Markthalle in der Körnerstraße. Viele kommen hier wegen des großartigen Mittagstischs, der besten Köfte der Stadt oder für einen Plausch in der ungezwungenen Atmosphäre.Bei diesem Kochkurs zeigt uns Atila erstmals, wie er seine Stammkunden begeistert: Zunächst gibt es ein Süppchen, dazu bereiten wir Çay und Ayran zu. Als Zwischengericht gibt es Köfte mit Minzsoße, im Hauptgang die geschmorte Lammschulter Tandir, ein Reisgericht mit Korinthen, Pinienkernen und Kräutern sowie geschmortes Gemüse im Tontopf. Auch für Vegetarier*innen ist bestens gesorgt. Ein kleines Dessert rundet das Menü ab.",
-        "link": "https://rausgegangen.de/en/events/kulturklungels-kochkurs-turkei-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/WA3NQL7MQ4GSeev3xF86_holder-original.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sun, 22.02.2026",
-        "time": "18:00",
-        "event": "BURLESQUE BIJOUX -Show- Die Juwelen des Burlesques! (@Echtzeit Grill & Thrill)",
-        "category": "",
-        "description": "Willkommen in unserer extravaganten Brasserie, wo Eleganz auf Versuchung trifft.Tauchen Sie ein in eine Welt voller Glamour, Sinnlichkeit und Überraschungen. Unsere bezaubernden Künstler werden Sie mit einer atemberaubenden Burlesque-Show verführen, die Ihre Sinne betören wird. Genießen Sie den Abend bei exquisitem Essen und erlesenen Getränken, während unsere Darstellerinnen und Darsteller mit ihren fesselnden Performances Ihre Fantasie entfachen. Lassen Sie sich von der Magie des Moments verführen und erleben Sie einen unvergesslichen Abend in unserer Brasserie.Ganz neu: die klassische XXL Champagner Glas Show die Sie so schnell nicht vergessen werden! Lassen Sie sich in die Welt entführen, in der Träume wahr werden! Ein besonderer Abend präsentiert die ausgebildete Tänzerin Mdlle. Parfait de la Neige mit Newcomern aus der Szene.Herzlich willkommen im Restaurant Echtzeit – live, hautnah und verdammt lecker.  Einlass: 17:30Uhr Beginn: 18:00 Uhr  Anschließend laden wir Sie herzlich ein, gemeinsam mit uns grandiose Musik aus vergessenen Zeiten zuhören. Trinken Sie mit uns einen klassischen Cocktail.Verpassen Sie auch nicht Termine von unseren traumhaften Burlesqueperlen: Elinor Divine, Nita Bon Air und Anna Venture  Wir freuen uns auf Sie!  Team EchtzeitPreisinformationen:       - Das Essen ist im Eintrittspreis nicht inbegriffen.-15 Euro Mindestverzehr für Getränke, Speisen und Snacks werden vom Restaurant erhoben. - Der Eintrittspreis geht zu 100% an die auftretende Künstlerin. - Burlesque ist eine Kunstform der weiblichen Emanzipation - seit über 140 Jahren!  Sollte die genannte Künstlerin verhindert sein z.B. aus gesundheitlichen Gründen, wird eine andere Künstlerin die Veranstaltung übernehmen. Der Ticketpreis wird in dem Fall nicht erstattet, nur bei einem Ausfall der Veranstaltung.",
-        "link": "https://rausgegangen.de/en/events/burlesque-bijoux-show-die-juwelen-des-burlesques-23/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/MxSZIWOSpN9tSVOL5USg_1000093619.jpeg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sun, 22.02.2026",
-        "time": "18:00",
-        "event": "N∆BOU (@Stadtgarten Köln)",
-        "category": "",
-        "description": "18:00 I Konzert I 💿 JAKI Indigo, das dritte Album von N∆BOU – einem Quartett unter der Leitung der belgischen Posaunistin und Komponistin Nabou Claerhout – markiert eine bemerkenswerte neue Phase in ihrer kreativen Entwicklung. Nach Hubert (2019) und You Know (2021) präsentiert Nabou Claerhout eine erneuerte Besetzung von N∆BOU mit Trui Amerlinck (Kontrabass), Gijs Idema (E-Gitarre) und Daniel Jonkers (Schlagzeug). Das Album beschäftigt sich mit Veränderung, Erneuerung und sich wandelnden menschlichen Beziehungen und baut auf dem starken Fundament auf, das N∆BOU in Belgien und den Niederlanden geschaffen hat, während es gleichzeitig Claerhouts wachsende internationale Reichweite signalisiert. Es ist ein Album der Metamorphose: neue Mitwirkende, neue Perspektiven und zutiefst persönliche Kompositionen, die sich in Musik verwandeln, die roh und doch raffiniert, intim und doch kraftvoll wirkt. Die Klangwelt von Indigo bewegt sich zwischen verträumten Atmosphären und melancholischer Resonanz, von lyrischen, kontemplativen Passagen bis hin zu verspielter, grooviger Energie. Eindringliche Hommagen wie Light Blue Shawl (für Stijn) und Consent (für Stijn) stehen neben der strukturellen Suite aus Ruin & Redemption, Lost Soul und Consent, wobei jedes Stück sich durch Form und Textur neu erfindet. Claerhouts Posaune bleibt die treibende Kraft, geprägt von subtilen Effekten und geisterhaften Solo-Zwischenspielen, die Zerbrechlichkeit, Gewicht und Befreiung in die Musik einflechten. Mit seiner Balance aus Intimität und Kraft signalisiert Indigo einen mutigen Schritt nach vorne, ein Album, das Claerhouts Musik mit einer fesselnden und resonanten Stimme einem neuen Publikum öffnet.// Nabou Claerhout (Trombone, compositions), Gijs Idema (guitar), Trui Amerlinck (double bass), Daniel Jonkers (drums)",
-        "link": "https://rausgegangen.de/en/events/nbou-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/xJ54FSyoQqV742InLxbr_nbou-2026-dave-stapletonklein.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sun, 22.02.2026",
-        "time": "18:00",
-        "event": "Robert Griess: Hauptsache, es knallt! (@Atelier Theater)",
-        "category": "",
-        "description": "„Robert Griess ist eine Weltsensation“, sprach WDR 5, denn er ist „der letzte seiner Art.“ Politisch-böse-Satire, die keine heiligen Kühe kennt, sondern schlachtet. Aktuell. Aberwitzig. Abgefahren.   Sein Best-of-Programm kombiniert das Beste aus mehreren Programmen des Kölner Ur-Gesteins in Kombination mit neuen Humor-Krachern. Eine Show voller rasanter Momente und komischer Figuren. Griess tut alles, um das Publikum auf höchstem Niveau zum Rasen zu bringen! Einmal vom kölschen Stammtisch um die globalisierte Welt und zurück. Ein überbordendes Kabarett-Spektakel mit rasantem Tempo, das gleichermaßen auf Herz und Hirn zielt, stets nach dem Motto: „Wenn dir ein Vogel aufs Hemd kackt, sei nicht wütend – freue dich vielmehr, dass Kühe nicht fliegen können!“",
-        "link": "https://rausgegangen.de/en/events/robert-griess-hauptsache-es-knallt-kopie-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pjHjIjDISjyqfxhEDdxU_Atelier_Robert%20Griess_Jochen%20Manz.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sun, 22.02.2026",
-        "time": "19:00",
-        "event": "rosmarin (@Gebäude 9)",
-        "category": "",
-        "description": "Mal mitreißend, mal ganz sanft: Die Indie-Funk Band rosmarin aus Kassel ist auf dem besten Wege, die deutsche Pop-Landschaft zu erobern. Mit ihrer Mischung aus warmen Synths und treibenden Beats schaffen die Jugendfreunde eine Atmosphäre, die gleichzeitig zum Tanzen und Träumen einlädt. Nun kommen rosmarin im Februar und März 2026 auf ihre bisher größte Tour.  Nach einer unglaublich turbulenten Festivalsaison diesen Sommer mit unter anderem Auftritten auf dem DEICHBRAND oder Highfield Festival fehlt von Ermüdung allerdings jede Spur! Im Gegenteil: nach der ausverkauften Heimatshow im Kulturzelt Kassel sagt Sänger Silas „Unsere Musik kommt live noch viel besser rüber als aufgenommen – das spornt uns an. Dafür sind wir im Proberaum auch richtig perfektionistisch und basteln ewig an Details, damit auf der Bühne alles sitzt“.  Nicht nur im Proberaum, auch im Studio haben die Fünf harte Arbeit geleistet und an neuen Songs und ihrem Sound getüftelt – etwas erwachsener klingt das Ganze und mit sehr vielen funkigen Einflüssen gespickt. Mit diesen neuen Werken im Gepäck und Bock auf gute Vibes und Disco touren rosmarin somit an 21 Terminen durch Deutschland, Österreich und die Schweiz! -",
-        "link": "https://rausgegangen.de/en/events/rosmarin-26/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/lahxcydq4m60.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sun, 22.02.2026",
-        "time": "19:00",
-        "event": "rosmarin /// live 2026 (@Gebäude 9)",
-        "category": "",
-        "description": "Die Kassler Band gehört zu den spannendsten Newcomern des deutschen Indie-Pop: Mit funkgetränkten Grooves und detailverliebten Arrangements schaffen sie eine Balance zwischen Tanzbarkeit und Tiefgang, die man so selten hört.",
-        "link": "https://rausgegangen.de/en/events/rosmarin-live-2026-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6tyDnDknS6WqVBVmZdRY_rosmarinc3paulstrassner0225.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sun, 22.02.2026",
-        "time": "20:00",
-        "event": "KeinKunstDrags - Februar-Show (@Horizont Theater)",
-        "category": "",
-        "description": "Jede Show ist anders, der Cast wechselt jede Show und ebenso Programm und Musik. Euch erwarten Drag, Gesang, Lipsync, Tanz, Comedy, live Musik und Kabarett mit dem Ensemble der KeinKunstDrags und ihren Gästen.Sie sind das vereinseigene Ensemble des KeinKunst e.V., einem gemeinnützigen Verein zur Förderung queerer Bühnenkultur in Köln. 12 € für Eintritt + WelcomeshotTickets im VVK und an der Abendkasse! Einlass: 19:00 Uhr Beginn: 20:00 Uhr",
-        "link": "https://rausgegangen.de/en/events/keinkunstdrags-februar-show-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/rQPVuSocQqew72tOexZ1_rausgegangen-2026.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sun, 22.02.2026",
-        "time": "20:00",
-        "event": "Noah Derksen (CAN, Folk-Soul) (@Die hängenden Gärten von Ehrenfeld)",
-        "category": "",
-        "description": "ACHTUNG! Das geplante Konzert muss aus logistischen Gründen auf den Sonntag 22.02.26 in die Hängenden Gärten von Ehrenfeld verlegt werden. Tickets behalten ihre Gültigkeit.rolamusic & indie.cologne.events präsentieren:NOAH DERKSEN (CAN) \"Walking Home\" European Tourhttps://noahderksen.com& special Guest:KENDALL LUJANhttps://www.kendalllujanmusic.com/watchSonntag 22.02.26Die hängenden Gärten von Ehrenfeld - KölnEinlass 19:00, Beginn 19:30EVENTNoah Derksen, der renommierte Songwriter aus Winnipeg, Manitoba, bringt seine gefühlvolle Stimme und poetischen Texte wieder LIVE nach Europa.Der aus dem Herzen der kanadischen Prärie stammende Noah verbrachte Jahre damit, sein Handwerk zu verfeinern, rauf, runter und quer durch ganz Nordamerika und Europa. Mit seiner unverkennbaren Stimme verwebt Noah Poesie und Klänge, die beim ersten Hören sofort vertraut klingen.„Als ich 19 Jahre alt war, sah ich Leonard Cohens letztes Konzert in Winnipeg und war beeindruckt davon, wie Worte unabhängig von ihrer Klangfarbe eine solche Bedeutung haben können. Danach kehrte ich in mein Studentenwohnheim zurück und begann meine Reise als Songwriter und Schriftsteller. Viele zerknüllte Papiere später gibt es eine lange Liste an Songs. Dieses Projekt ist gewachsen und ich nun darin angekommen - vielen Dank fürs Zuhören.“Außerdem hat Noah langes, wallendes kastanienbraunes Haar und ein Funkeln in den Augen. Was gibt es da nicht zu lieben?",
-        "link": "https://rausgegangen.de/en/events/noah-derksen-can-folk-soul-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/k2BZngklRTOUklE2yOfP_noah-derksen-live-1-jorg-horn.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
     },
     {
         "date": "Sun, 22.02.2026",
@@ -1246,6 +1156,96 @@
         "link": "https://rausgegangen.de/en/events/they-are-gutting-a-body-of-water-1/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/MXwFKxcvSwisEfedUMaZ_pa069641.JPG?width=1200&height=900&mode=crop",
         "city": "Berlin"
+    },
+    {
+        "date": "Sun, 22.02.2026",
+        "time": "10:00",
+        "event": "Eisbaden Köln - ICYU Community Session (@tba // to be announced Köln)",
+        "category": "",
+        "description": "Erlebe den Winter mit der ICYU Community!Bist du bereit, die einzigartige Welt des Winterbadens zu entdecken und deine Leidenschaft mit Gleichgesinnten zu teilen?Warum ICYU?  Unsere Philosophie, „Inspire Cold in You“ kombiniert mit „I see you - Ich sehe dich“, schafft eine offene und unterstützende Gemeinschaft für alle, die das Eisbaden als Teil ihres persönlichen Wachstums erleben möchten.Was erwartet dich?  Von Oktober bis März hast du die Möglichkeit, gemeinsam mit anderen Eisbade-Enthusiasten in und um Köln in die kühlen Gewässer einzutauchen. Einmal pro Woche (meist sonntags) treffen wir uns, um gemeinsam in den Tag zu starten – ob Neuling oder erfahrener Eisbader, bei uns ist jeder willkommen!Wie kannst du teilnehmen?  Die Teilnahme ist völlig kostenfrei und ohne Verpflichtungen. Die ICYU Community ist über WhatsApp organisiert, dort werden alle wesentlichen Informationen geteilt. Nach deiner Anmeldung erhältst du einen Beitrittslink zur WhatsApp Gruppe.Optimal vorbereitet: Für alle, die sich optimal auf das kalte Abenteuer vorbereiten möchten, ist die Teilnahme an einem zum Winterbaden und/oder der Wim Hof Method Grunlagen Workshop empfehlenswert. Diese sind ideal für all jene, die sich unter professioneller Anleitung ans Eisbaden rantasten möchten und ihr Wissen vertiefen wollen.Sicher und spaßig: Wir sind weder ein Verein, noch ein Unternehmen, sondern eine private Freizeitinitiative. Jeder Teilnehmer nimmt 100% eigenverantwortlich teil – die Community lebt von einem respektvollen und sicheren Miteinander.Melde dich an, brich aus deiner Komfortzone aus und erlebe den Winter auf eine neue, erfrischende Art – gemeinsam mit der ICYU Community. Lass dich inspirieren und verbringe unvergessliche Momente in der Kälte!Wir sehen uns im Eis! Team ICYU ❄️Instagram: @icyu.community﻿____________________________________________________﻿__________Haftungsausschluss / DisclaimerDie Teilnahme an den Aktivitäten der ICYU Community erfolgt auf eigene Verantwortung. Die ICYU Community ist kein professioneller Anbieter oder Betreiber. ﻿Alle Personen, die im Rahmen der Aktivitäten organisatorische Aufgaben erfüllen tun dies ehrenamtlich in ihrer Freizeit. Wir übernehmen keine Haftung für etwaige Verletzungen, gesundheitliche Schäden oder sonstige Konsequenzen, die im Zusammenhang mit dem Eisbaden entstehen. Es wird dringend empfohlen, sich vor Beginn der Aktivitäten ausreichend zu informieren, die eigene Gesundheit zu prüfen und bei Unsicherheiten einen Arzt zu konsultieren. Die in diesem Angebot genannten Hinweise und Empfehlungen stellen keine medizinische Beratung dar. Durch die Teilnahme bestätigst du, dass du eigenverantwortlich handelst und die Risiken kennst. Jegliche Teilnahme erfolgt freiwillig und ausschließlich auf eigenes Risiko.",
+        "link": "https://rausgegangen.de/en/events/icyu-community-eisbaden-koln-winterbade-session-19/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/tJM1ezdYRJ2EtE05gPfP_374df263-65c8-4ceb-924a-fd488eb5de99.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sun, 22.02.2026",
+        "time": "12:00",
+        "event": "Kulturklüngels Kochkurs Türkei (@Markthalle Körnerstraße Atila Tosun)",
+        "category": "",
+        "description": "Atila hat in den 90er-Jahren in Ehrenfeld zunächst mit türkischen Lebensmitteln gehandelt und später eine Metzgerei eröffnet, die heute zu den feinsten in Köln zählt. Der Handel mit Fleisch ist in Köln mittlerweile fest in türkischer Hand. Er betreibt die Markthalle in der Körnerstraße. Viele kommen hier wegen des großartigen Mittagstischs, der besten Köfte der Stadt oder für einen Plausch in der ungezwungenen Atmosphäre.Bei diesem Kochkurs zeigt uns Atila erstmals, wie er seine Stammkunden begeistert: Zunächst gibt es ein Süppchen, dazu bereiten wir Çay und Ayran zu. Als Zwischengericht gibt es Köfte mit Minzsoße, im Hauptgang die geschmorte Lammschulter Tandir, ein Reisgericht mit Korinthen, Pinienkernen und Kräutern sowie geschmortes Gemüse im Tontopf. Auch für Vegetarier*innen ist bestens gesorgt. Ein kleines Dessert rundet das Menü ab.",
+        "link": "https://rausgegangen.de/en/events/kulturklungels-kochkurs-turkei-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/WA3NQL7MQ4GSeev3xF86_holder-original.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sun, 22.02.2026",
+        "time": "18:00",
+        "event": "BURLESQUE BIJOUX -Show- Die Juwelen des Burlesques! (@Echtzeit Grill & Thrill)",
+        "category": "",
+        "description": "Willkommen in unserer extravaganten Brasserie, wo Eleganz auf Versuchung trifft.Tauchen Sie ein in eine Welt voller Glamour, Sinnlichkeit und Überraschungen. Unsere bezaubernden Künstler werden Sie mit einer atemberaubenden Burlesque-Show verführen, die Ihre Sinne betören wird. Genießen Sie den Abend bei exquisitem Essen und erlesenen Getränken, während unsere Darstellerinnen und Darsteller mit ihren fesselnden Performances Ihre Fantasie entfachen. Lassen Sie sich von der Magie des Moments verführen und erleben Sie einen unvergesslichen Abend in unserer Brasserie.Ganz neu: die klassische XXL Champagner Glas Show die Sie so schnell nicht vergessen werden! Lassen Sie sich in die Welt entführen, in der Träume wahr werden! Ein besonderer Abend präsentiert die ausgebildete Tänzerin Mdlle. Parfait de la Neige mit Newcomern aus der Szene.Herzlich willkommen im Restaurant Echtzeit – live, hautnah und verdammt lecker.  Einlass: 17:30Uhr Beginn: 18:00 Uhr  Anschließend laden wir Sie herzlich ein, gemeinsam mit uns grandiose Musik aus vergessenen Zeiten zuhören. Trinken Sie mit uns einen klassischen Cocktail.Verpassen Sie auch nicht Termine von unseren traumhaften Burlesqueperlen: Elinor Divine, Nita Bon Air und Anna Venture  Wir freuen uns auf Sie!  Team EchtzeitPreisinformationen:       - Das Essen ist im Eintrittspreis nicht inbegriffen.-15 Euro Mindestverzehr für Getränke, Speisen und Snacks werden vom Restaurant erhoben. - Der Eintrittspreis geht zu 100% an die auftretende Künstlerin. - Burlesque ist eine Kunstform der weiblichen Emanzipation - seit über 140 Jahren!  Sollte die genannte Künstlerin verhindert sein z.B. aus gesundheitlichen Gründen, wird eine andere Künstlerin die Veranstaltung übernehmen. Der Ticketpreis wird in dem Fall nicht erstattet, nur bei einem Ausfall der Veranstaltung.",
+        "link": "https://rausgegangen.de/en/events/burlesque-bijoux-show-die-juwelen-des-burlesques-23/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/MxSZIWOSpN9tSVOL5USg_1000093619.jpeg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sun, 22.02.2026",
+        "time": "18:00",
+        "event": "N∆BOU (@Stadtgarten Köln)",
+        "category": "",
+        "description": "18:00 I Konzert I 💿 JAKI Indigo, das dritte Album von N∆BOU – einem Quartett unter der Leitung der belgischen Posaunistin und Komponistin Nabou Claerhout – markiert eine bemerkenswerte neue Phase in ihrer kreativen Entwicklung. Nach Hubert (2019) und You Know (2021) präsentiert Nabou Claerhout eine erneuerte Besetzung von N∆BOU mit Trui Amerlinck (Kontrabass), Gijs Idema (E-Gitarre) und Daniel Jonkers (Schlagzeug). Das Album beschäftigt sich mit Veränderung, Erneuerung und sich wandelnden menschlichen Beziehungen und baut auf dem starken Fundament auf, das N∆BOU in Belgien und den Niederlanden geschaffen hat, während es gleichzeitig Claerhouts wachsende internationale Reichweite signalisiert. Es ist ein Album der Metamorphose: neue Mitwirkende, neue Perspektiven und zutiefst persönliche Kompositionen, die sich in Musik verwandeln, die roh und doch raffiniert, intim und doch kraftvoll wirkt. Die Klangwelt von Indigo bewegt sich zwischen verträumten Atmosphären und melancholischer Resonanz, von lyrischen, kontemplativen Passagen bis hin zu verspielter, grooviger Energie. Eindringliche Hommagen wie Light Blue Shawl (für Stijn) und Consent (für Stijn) stehen neben der strukturellen Suite aus Ruin & Redemption, Lost Soul und Consent, wobei jedes Stück sich durch Form und Textur neu erfindet. Claerhouts Posaune bleibt die treibende Kraft, geprägt von subtilen Effekten und geisterhaften Solo-Zwischenspielen, die Zerbrechlichkeit, Gewicht und Befreiung in die Musik einflechten. Mit seiner Balance aus Intimität und Kraft signalisiert Indigo einen mutigen Schritt nach vorne, ein Album, das Claerhouts Musik mit einer fesselnden und resonanten Stimme einem neuen Publikum öffnet.// Nabou Claerhout (Trombone, compositions), Gijs Idema (guitar), Trui Amerlinck (double bass), Daniel Jonkers (drums)",
+        "link": "https://rausgegangen.de/en/events/nbou-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/xJ54FSyoQqV742InLxbr_nbou-2026-dave-stapletonklein.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sun, 22.02.2026",
+        "time": "18:00",
+        "event": "Robert Griess: Hauptsache, es knallt! (@Atelier Theater)",
+        "category": "",
+        "description": "„Robert Griess ist eine Weltsensation“, sprach WDR 5, denn er ist „der letzte seiner Art.“ Politisch-böse-Satire, die keine heiligen Kühe kennt, sondern schlachtet. Aktuell. Aberwitzig. Abgefahren.   Sein Best-of-Programm kombiniert das Beste aus mehreren Programmen des Kölner Ur-Gesteins in Kombination mit neuen Humor-Krachern. Eine Show voller rasanter Momente und komischer Figuren. Griess tut alles, um das Publikum auf höchstem Niveau zum Rasen zu bringen! Einmal vom kölschen Stammtisch um die globalisierte Welt und zurück. Ein überbordendes Kabarett-Spektakel mit rasantem Tempo, das gleichermaßen auf Herz und Hirn zielt, stets nach dem Motto: „Wenn dir ein Vogel aufs Hemd kackt, sei nicht wütend – freue dich vielmehr, dass Kühe nicht fliegen können!“",
+        "link": "https://rausgegangen.de/en/events/robert-griess-hauptsache-es-knallt-kopie-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pjHjIjDISjyqfxhEDdxU_Atelier_Robert%20Griess_Jochen%20Manz.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sun, 22.02.2026",
+        "time": "19:00",
+        "event": "rosmarin (@Gebäude 9)",
+        "category": "",
+        "description": "Mal mitreißend, mal ganz sanft: Die Indie-Funk Band rosmarin aus Kassel ist auf dem besten Wege, die deutsche Pop-Landschaft zu erobern. Mit ihrer Mischung aus warmen Synths und treibenden Beats schaffen die Jugendfreunde eine Atmosphäre, die gleichzeitig zum Tanzen und Träumen einlädt. Nun kommen rosmarin im Februar und März 2026 auf ihre bisher größte Tour.  Nach einer unglaublich turbulenten Festivalsaison diesen Sommer mit unter anderem Auftritten auf dem DEICHBRAND oder Highfield Festival fehlt von Ermüdung allerdings jede Spur! Im Gegenteil: nach der ausverkauften Heimatshow im Kulturzelt Kassel sagt Sänger Silas „Unsere Musik kommt live noch viel besser rüber als aufgenommen – das spornt uns an. Dafür sind wir im Proberaum auch richtig perfektionistisch und basteln ewig an Details, damit auf der Bühne alles sitzt“.  Nicht nur im Proberaum, auch im Studio haben die Fünf harte Arbeit geleistet und an neuen Songs und ihrem Sound getüftelt – etwas erwachsener klingt das Ganze und mit sehr vielen funkigen Einflüssen gespickt. Mit diesen neuen Werken im Gepäck und Bock auf gute Vibes und Disco touren rosmarin somit an 21 Terminen durch Deutschland, Österreich und die Schweiz! -",
+        "link": "https://rausgegangen.de/en/events/rosmarin-26/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/lahxcydq4m60.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sun, 22.02.2026",
+        "time": "19:00",
+        "event": "rosmarin /// live 2026 (@Gebäude 9)",
+        "category": "",
+        "description": "Die Kassler Band gehört zu den spannendsten Newcomern des deutschen Indie-Pop: Mit funkgetränkten Grooves und detailverliebten Arrangements schaffen sie eine Balance zwischen Tanzbarkeit und Tiefgang, die man so selten hört.",
+        "link": "https://rausgegangen.de/en/events/rosmarin-live-2026-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6tyDnDknS6WqVBVmZdRY_rosmarinc3paulstrassner0225.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sun, 22.02.2026",
+        "time": "20:00",
+        "event": "KeinKunstDrags - Februar-Show (@Horizont Theater)",
+        "category": "",
+        "description": "Jede Show ist anders, der Cast wechselt jede Show und ebenso Programm und Musik. Euch erwarten Drag, Gesang, Lipsync, Tanz, Comedy, live Musik und Kabarett mit dem Ensemble der KeinKunstDrags und ihren Gästen.Sie sind das vereinseigene Ensemble des KeinKunst e.V., einem gemeinnützigen Verein zur Förderung queerer Bühnenkultur in Köln. 12 € für Eintritt + WelcomeshotTickets im VVK und an der Abendkasse! Einlass: 19:00 Uhr Beginn: 20:00 Uhr",
+        "link": "https://rausgegangen.de/en/events/keinkunstdrags-februar-show-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/rQPVuSocQqew72tOexZ1_rausgegangen-2026.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sun, 22.02.2026",
+        "time": "20:00",
+        "event": "Noah Derksen (CAN, Folk-Soul) (@Die hängenden Gärten von Ehrenfeld)",
+        "category": "",
+        "description": "ACHTUNG! Das geplante Konzert muss aus logistischen Gründen auf den Sonntag 22.02.26 in die Hängenden Gärten von Ehrenfeld verlegt werden. Tickets behalten ihre Gültigkeit.rolamusic & indie.cologne.events präsentieren:NOAH DERKSEN (CAN) \"Walking Home\" European Tourhttps://noahderksen.com& special Guest:KENDALL LUJANhttps://www.kendalllujanmusic.com/watchSonntag 22.02.26Die hängenden Gärten von Ehrenfeld - KölnEinlass 19:00, Beginn 19:30EVENTNoah Derksen, der renommierte Songwriter aus Winnipeg, Manitoba, bringt seine gefühlvolle Stimme und poetischen Texte wieder LIVE nach Europa.Der aus dem Herzen der kanadischen Prärie stammende Noah verbrachte Jahre damit, sein Handwerk zu verfeinern, rauf, runter und quer durch ganz Nordamerika und Europa. Mit seiner unverkennbaren Stimme verwebt Noah Poesie und Klänge, die beim ersten Hören sofort vertraut klingen.„Als ich 19 Jahre alt war, sah ich Leonard Cohens letztes Konzert in Winnipeg und war beeindruckt davon, wie Worte unabhängig von ihrer Klangfarbe eine solche Bedeutung haben können. Danach kehrte ich in mein Studentenwohnheim zurück und begann meine Reise als Songwriter und Schriftsteller. Viele zerknüllte Papiere später gibt es eine lange Liste an Songs. Dieses Projekt ist gewachsen und ich nun darin angekommen - vielen Dank fürs Zuhören.“Außerdem hat Noah langes, wallendes kastanienbraunes Haar und ein Funkeln in den Augen. Was gibt es da nicht zu lieben?",
+        "link": "https://rausgegangen.de/en/events/noah-derksen-can-folk-soul-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/k2BZngklRTOUklE2yOfP_noah-derksen-live-1-jorg-horn.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
     },
     {
         "date": "Sun, 22.02.2026",
@@ -1673,6 +1673,16 @@
     {
         "date": "Mon, 23.02.2026",
         "time": "20:00",
+        "event": "Craft Comedy Open Mic (@Oililio)",
+        "category": "",
+        "description": "Bei den Craft Comedy Open Mics testen sechs bis acht Comedians ihr frischestes Material direkt vor Publikum. Das abwechslungsreiche Format bringt Newcomer:innen und Profis zusammen, die gemeinsam lachen, feiern und auch mal scheitern. Hier hast du die Gelegenheit, die Entwicklung von Stand-up hautnah zu erleben 🫂",
+        "link": "https://rausgegangen.de/en/events/craft-comedy-open-mic-70/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jXZ1YRjsS0GTb7IxS8hq_craft-comedy-open-mic-profil-bild.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Mon, 23.02.2026",
+        "time": "20:00",
         "event": "CLOCKCLOCK - \"DREAM FOREVER\" TOUR 2026 (@Täubchenthal)",
         "category": "",
         "description": "Mit „Dream Forever“ setzen CLOCKCLOCK 2026 ein atmosphärisches Finale: Lightshows, fragile Momente und ein Set, das das emotionale Gewicht der „Dreamers“-Ära mit neuem musikalischem Drive verbindet.",
@@ -1682,13 +1692,43 @@
     },
     {
         "date": "Mon, 23.02.2026",
-        "time": "20:00",
-        "event": "Craft Comedy Open Mic (@Oililio)",
+        "time": "17:30",
+        "event": "WRITERS SESSION (@DNA. ART HOUSE)",
         "category": "",
-        "description": "Bei den Craft Comedy Open Mics testen sechs bis acht Comedians ihr frischestes Material direkt vor Publikum. Das abwechslungsreiche Format bringt Newcomer:innen und Profis zusammen, die gemeinsam lachen, feiern und auch mal scheitern. Hier hast du die Gelegenheit, die Entwicklung von Stand-up hautnah zu erleben 🫂",
-        "link": "https://rausgegangen.de/en/events/craft-comedy-open-mic-70/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jXZ1YRjsS0GTb7IxS8hq_craft-comedy-open-mic-profil-bild.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
+        "description": "DNA. presents \"WRITERS SESSION - writing, editing & feedback\"an open Platform for Writers to connect, share & grow. Together. Get ready for bringing in different writing styles and helping each other improve through drafting, receiving and giving feedback. Showcase the best version of Your writing, get to know new Friends & elevate Your writing skills.‍Writers of all kinds & all Styles are welcome.‍We will write.We will edit.We will connect and share.‍WHEN:Every MondayDOORS: 5.30 pmSTART: 6 pmEND: 7.30 pm‍WHERE:DNA. ART HOUSEWrangelstr. 2510997 Berlin ‍DRAFTING GUIDELINES:Encouraging feedback: “This and this was great, do more of it. I would also work on this etc.”We could be working with sensitive pieces. Include trigger warnings.Creating a safe space to encourage vulnerable.‍Whether You would like to show off Your skills or simply soak up the creative atmosphere, this is Your opportunity to be part of something special. Take the chance to join the Writers Session and see where Your passion can take You.‍See You Soon.Love.DNA. _____________________For more insights, follow us on IG: @nightart.club*Members of Dair Night Art e.V. and Subscribers of DNA. Art GbR. **By entering the DNA. CAFÉ, You agree to comply with the Hausordnung of Dair Night Art e.V. and Geschäftsordnung of Dair Night Art e.V. Please ensure You review these documents thoroughly in advance.",
+        "link": "https://rausgegangen.de/en/events/writers-session-coffee-writing-editing-14/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jW0ORQOkT6WVADtj2PP9_66cf411e05307a70e28396670d5a2600-p-800.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Mon, 23.02.2026",
+        "time": "19:00",
+        "event": "ARTISTS MEET UP & JAM SESSION (@DNA. ART HOUSE)",
+        "category": "",
+        "description": "Im DNA. ART HOUSE treffen sich jeden Montag Künstler:innen verschiedenster Disziplinen, um sich auszutauschen und gemeinsam kreativ zu werden. Ab 20 Uhr öffnet die offene Jam Session Raum für spontanes Zusammenspiel – ein lebendiges Forum für alle, die Geschichten in Musik, Tanz oder Bildsprache erzählen.",
+        "link": "https://rausgegangen.de/en/events/artists-meet-up-jam-session-14/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/z4B3YU33TjyAkh271AlR_screen-shot-2025-11-11-at-64652-pm.png?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Mon, 23.02.2026",
+        "time": "19:00",
+        "event": "BESTE Comedy Stand up in der BESTE Bar im Wedding direkt am Leopoldplatz 19:30 Uhr (@BESTE Bar)",
+        "category": "",
+        "description": "Folgt uns auf Instagram @bestecomedy und verpasst keine Show! Bei unserem Open Mic erwarten euch jede Woche die besten Comedians Berlins, spannende Newcomer und erfahrene Profis, die neues Material ausprobieren. Die Mischung ist jedes Mal anders – aber eins ist sicher: Es wird richtig lustig.Durch den Abend führt Christoph Krachten, die mit Spontanität, Selbstironie und einem guten Gespür für Situationskomik für eine entspannte Atmosphäre sorgt. Zudem garniert er den Abend mit seinen verrückten Erlebnissen als YouTube-Daddy, als der er einen legendären Ruf genießt.Einlass ab 19:00 Uhr, Showstart ist um 19:30 Uhr.",
+        "link": "https://rausgegangen.de/en/events/beste-comedy-stand-up-in-der-beste-bar-im-wedding-direkt-am--9/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ZUNBdQdQ9WdFqaXPWhbg_2.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
+    },
+    {
+        "date": "Mon, 23.02.2026",
+        "time": "19:00",
+        "event": "Honey Slam - Poetryslam ohne traurige Texte! (@Tati goes Underground)",
+        "category": "",
+        "description": "Beim Honeyslam ist alles erlaubt – außer traurige Texte! Poetry Slam möchte alles sein – aber wir möchten glücklich sein. Und aus dieser simplen Idee wurde der Honey Slam geboren: die letzte Bastion der ungehemmten guten Laune, die Oase des Aufatmens nach einem wüsten Arbeitstag, der Spagat zwischen Spaß und Spaß.Andere schmieren dir Honig ums Maul – wir dir selbigen um die Ohren.Die Auftretenden duellieren sich mit selbstverfassten Texten um eure Gunst – und nicht zuletzt um den Erwerb von Ruhm, Ehre und einer liebevoll gestrickten Stoffbiene!",
+        "link": "https://rausgegangen.de/en/events/honey-slam-berlin-poetryslam-ohne-traurige-texte-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GReKBeATrRbUb3dFAilQ_design-ohne-titel.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
     },
     {
         "date": "Mon, 23.02.2026",
@@ -1809,46 +1849,6 @@
         "link": "https://rausgegangen.de/en/events/smith-kotzen-black-light-white-noise-tour-2026-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/xUBzEBkeQk6q2ZZlyoGv_adriansmithrichiekotzen0984lgpiperfergusonwebsw.jpg?width=1200&height=900&mode=crop",
         "city": "Köln"
-    },
-    {
-        "date": "Mon, 23.02.2026",
-        "time": "17:30",
-        "event": "WRITERS SESSION (@DNA. ART HOUSE)",
-        "category": "",
-        "description": "DNA. presents \"WRITERS SESSION - writing, editing & feedback\"an open Platform for Writers to connect, share & grow. Together. Get ready for bringing in different writing styles and helping each other improve through drafting, receiving and giving feedback. Showcase the best version of Your writing, get to know new Friends & elevate Your writing skills.‍Writers of all kinds & all Styles are welcome.‍We will write.We will edit.We will connect and share.‍WHEN:Every MondayDOORS: 5.30 pmSTART: 6 pmEND: 7.30 pm‍WHERE:DNA. ART HOUSEWrangelstr. 2510997 Berlin ‍DRAFTING GUIDELINES:Encouraging feedback: “This and this was great, do more of it. I would also work on this etc.”We could be working with sensitive pieces. Include trigger warnings.Creating a safe space to encourage vulnerable.‍Whether You would like to show off Your skills or simply soak up the creative atmosphere, this is Your opportunity to be part of something special. Take the chance to join the Writers Session and see where Your passion can take You.‍See You Soon.Love.DNA. _____________________For more insights, follow us on IG: @nightart.club*Members of Dair Night Art e.V. and Subscribers of DNA. Art GbR. **By entering the DNA. CAFÉ, You agree to comply with the Hausordnung of Dair Night Art e.V. and Geschäftsordnung of Dair Night Art e.V. Please ensure You review these documents thoroughly in advance.",
-        "link": "https://rausgegangen.de/en/events/writers-session-coffee-writing-editing-14/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jW0ORQOkT6WVADtj2PP9_66cf411e05307a70e28396670d5a2600-p-800.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Mon, 23.02.2026",
-        "time": "19:00",
-        "event": "ARTISTS MEET UP & JAM SESSION (@DNA. ART HOUSE)",
-        "category": "",
-        "description": "Im DNA. ART HOUSE treffen sich jeden Montag Künstler:innen verschiedenster Disziplinen, um sich auszutauschen und gemeinsam kreativ zu werden. Ab 20 Uhr öffnet die offene Jam Session Raum für spontanes Zusammenspiel – ein lebendiges Forum für alle, die Geschichten in Musik, Tanz oder Bildsprache erzählen.",
-        "link": "https://rausgegangen.de/en/events/artists-meet-up-jam-session-14/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/z4B3YU33TjyAkh271AlR_screen-shot-2025-11-11-at-64652-pm.png?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Mon, 23.02.2026",
-        "time": "19:00",
-        "event": "BESTE Comedy Stand up in der BESTE Bar im Wedding direkt am Leopoldplatz 19:30 Uhr (@BESTE Bar)",
-        "category": "",
-        "description": "Folgt uns auf Instagram @bestecomedy und verpasst keine Show! Bei unserem Open Mic erwarten euch jede Woche die besten Comedians Berlins, spannende Newcomer und erfahrene Profis, die neues Material ausprobieren. Die Mischung ist jedes Mal anders – aber eins ist sicher: Es wird richtig lustig.Durch den Abend führt Christoph Krachten, die mit Spontanität, Selbstironie und einem guten Gespür für Situationskomik für eine entspannte Atmosphäre sorgt. Zudem garniert er den Abend mit seinen verrückten Erlebnissen als YouTube-Daddy, als der er einen legendären Ruf genießt.Einlass ab 19:00 Uhr, Showstart ist um 19:30 Uhr.",
-        "link": "https://rausgegangen.de/en/events/beste-comedy-stand-up-in-der-beste-bar-im-wedding-direkt-am--9/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ZUNBdQdQ9WdFqaXPWhbg_2.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Mon, 23.02.2026",
-        "time": "19:00",
-        "event": "Honey Slam - Poetryslam ohne traurige Texte! (@Tati goes Underground)",
-        "category": "",
-        "description": "Beim Honeyslam ist alles erlaubt – außer traurige Texte! Poetry Slam möchte alles sein – aber wir möchten glücklich sein. Und aus dieser simplen Idee wurde der Honey Slam geboren: die letzte Bastion der ungehemmten guten Laune, die Oase des Aufatmens nach einem wüsten Arbeitstag, der Spagat zwischen Spaß und Spaß.Andere schmieren dir Honig ums Maul – wir dir selbigen um die Ohren.Die Auftretenden duellieren sich mit selbstverfassten Texten um eure Gunst – und nicht zuletzt um den Erwerb von Ruhm, Ehre und einer liebevoll gestrickten Stoffbiene!",
-        "link": "https://rausgegangen.de/en/events/honey-slam-berlin-poetryslam-ohne-traurige-texte-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GReKBeATrRbUb3dFAilQ_design-ohne-titel.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
     },
     {
         "date": "Mon, 23.02.2026",
@@ -1984,16 +1984,6 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37158",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Tue, 24.02.2026",
-        "time": "14:00",
-        "event": "Offene Autor*innensprechstunde (@Haus Münsterberg)",
-        "category": "",
-        "description": "Der individuelle Gesprächstermin für Autor*innen aus OWLDer künstlerische Leiter des Literaturbüros OWL Karsten Strack bietet auch im Jahr 2026 wieder regelmäßige Autor*innensprechstunden an, in denen sich Autor*innen aus der Region beraten lassen können.Karsten Strack ist seit vielen Jahren Verleger, Kulturveranstalter, Dozent für Kreatives Schreiben und Verlagswesen an diversen Universitäten und selbst Autor.Gerne gibt er Antworten und Anregungen u. a. zu folgenden Fragestellungen: »Wie platziere ich mein Manuskript möglichst wirkungsvoll bei einem Verlag oder einer Literaturagentur?«, »Kann Selfpublishing ein guter Weg für mich sein?«, »Was sollte ich beim Thema Lektorat beachten?«, »Wo und in welcher Form trete ich öffentlich in Erscheinung?« und »Wie steigere ich als Autor*in generell meinen Bekanntheitsgrad?«Die Sprechstunde wird sowohl online über die Plattform »Zoom« als auch in Präsenz im Haus Münsterberg in Detmold angeboten.",
-        "link": "https://rausgegangen.de/en/events/offene-autorinnensprechstunde-4/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/DGsSKOWjRLGEGTdo6rmy_strackkarstenctobias-heyelpress.jpg?width=1200&height=900&mode=crop",
-        "city": "Detmold"
     },
     {
         "event": "„Fehlerhafte Menschen und Maschinenfehler. Warum wir eine Error Literacy brauchen“ (@volkshochschule.bielefeld)",
@@ -2225,6 +2215,16 @@
         "time": "18:15",
         "category": "Bildung",
         "link": "https://www.vhs-bielefeld.de/programm/kurs/Japanisch-B1-Einfache-Konversation/2614611K8#inhalt"
+    },
+    {
+        "date": "Tue, 24.02.2026",
+        "time": "14:00",
+        "event": "Offene Autor*innensprechstunde (@Haus Münsterberg)",
+        "category": "",
+        "description": "Der individuelle Gesprächstermin für Autor*innen aus OWLDer künstlerische Leiter des Literaturbüros OWL Karsten Strack bietet auch im Jahr 2026 wieder regelmäßige Autor*innensprechstunden an, in denen sich Autor*innen aus der Region beraten lassen können.Karsten Strack ist seit vielen Jahren Verleger, Kulturveranstalter, Dozent für Kreatives Schreiben und Verlagswesen an diversen Universitäten und selbst Autor.Gerne gibt er Antworten und Anregungen u. a. zu folgenden Fragestellungen: »Wie platziere ich mein Manuskript möglichst wirkungsvoll bei einem Verlag oder einer Literaturagentur?«, »Kann Selfpublishing ein guter Weg für mich sein?«, »Was sollte ich beim Thema Lektorat beachten?«, »Wo und in welcher Form trete ich öffentlich in Erscheinung?« und »Wie steigere ich als Autor*in generell meinen Bekanntheitsgrad?«Die Sprechstunde wird sowohl online über die Plattform »Zoom« als auch in Präsenz im Haus Münsterberg in Detmold angeboten.",
+        "link": "https://rausgegangen.de/en/events/offene-autorinnensprechstunde-4/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/DGsSKOWjRLGEGTdo6rmy_strackkarstenctobias-heyelpress.jpg?width=1200&height=900&mode=crop",
+        "city": "Detmold"
     },
     {
         "date": "Tue, 24.02.2026",
@@ -2779,22 +2779,22 @@
     {
         "date": "Wed, 25.02.2026",
         "time": "19:30",
-        "event": "Comedy Light Open Mic (@SpecOps network)",
-        "category": "",
-        "description": "Ein Abend voller Humor und gute Laune:Erlebe in Münster im SpecOps Network eine besondere Nacht des Lachens und der guten Laune in Münster. Es erwartet Dich ein humorvoller Abend, der Dich Sorgen für eine Weile vergessen lässt. Diese Veranstaltung ist der perfekte Ort, um neue Talente der Comedy-Szene zu entdecken, während sie ihre frischen und originellen Witze zum Besten geben.Comedy Light Stand-up Comedy Open Mic bietet aufstrebenden Comedians aus ganz Deutschland eine Bühne, um Ihre neuen Witze zu präsentieren. Hier stehen 6-8 talentierte Nachwuchs-Comedians im Rampenlicht und bringen einen bunten Mix aus ihren neuesten Scherzen und Geschichten mit. Es ist eine gute Gelegenheit, neue Gesichter in der Comedy-Welt zu entdecken.Egal, ob Du ein eingefleischter Fan der Stand-up Comedy bist, oder zum ersten Mal eine Live-Show besuchst, die Veranstaltung bietet ein einzigartiges Erlebnis, das Du so schnell nicht vergessen wirst.Einlass um 19:00 UhrBeginn um 19:30 UhrAK8 €Komm gerne vorbei!Wir freuen uns auf euch!",
-        "link": "https://rausgegangen.de/en/events/comedy-light-open-mic-32/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BjxIFVZQRHKArYQB9Tmn_comedy-light-137.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Wed, 25.02.2026",
-        "time": "19:30",
         "event": "Black Beat Comedy & Cocktails (English) (@Black Beat Cocktailbar)",
         "category": "",
         "description": "Black Beat Comedy verbindet Frankfurts aufstrebende englischsprachige Stand-up-Szene mit kreativen Cocktails zu einem besonderen Abend. Vierteljährlich zeigen erfahrene Comedians ihr schärfstes Material in lockerer Bar-Atmosphäre. Hier kannst du sowohl lachen als auch neue Drinks entdecken.",
         "link": "https://rausgegangen.de/en/events/black-beat-comedy-cocktails-english-16/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/rz5yFSeRROPPm0DZmewa_bbc-english-2x1.png?width=1200&height=900&mode=crop",
         "city": "Frankfurt"
+    },
+    {
+        "date": "Wed, 25.02.2026",
+        "time": "19:30",
+        "event": "Comedy Light Open Mic (@SpecOps network)",
+        "category": "",
+        "description": "Ein Abend voller Humor und gute Laune:Erlebe in Münster im SpecOps Network eine besondere Nacht des Lachens und der guten Laune in Münster. Es erwartet Dich ein humorvoller Abend, der Dich Sorgen für eine Weile vergessen lässt. Diese Veranstaltung ist der perfekte Ort, um neue Talente der Comedy-Szene zu entdecken, während sie ihre frischen und originellen Witze zum Besten geben.Comedy Light Stand-up Comedy Open Mic bietet aufstrebenden Comedians aus ganz Deutschland eine Bühne, um Ihre neuen Witze zu präsentieren. Hier stehen 6-8 talentierte Nachwuchs-Comedians im Rampenlicht und bringen einen bunten Mix aus ihren neuesten Scherzen und Geschichten mit. Es ist eine gute Gelegenheit, neue Gesichter in der Comedy-Welt zu entdecken.Egal, ob Du ein eingefleischter Fan der Stand-up Comedy bist, oder zum ersten Mal eine Live-Show besuchst, die Veranstaltung bietet ein einzigartiges Erlebnis, das Du so schnell nicht vergessen wirst.Einlass um 19:00 UhrBeginn um 19:30 UhrAK8 €Komm gerne vorbei!Wir freuen uns auf euch!",
+        "link": "https://rausgegangen.de/en/events/comedy-light-open-mic-32/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BjxIFVZQRHKArYQB9Tmn_comedy-light-137.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Wed, 25.02.2026",
@@ -3078,26 +3078,6 @@
     },
     {
         "date": "Thu, 26.02.2026",
-        "time": "19:00",
-        "event": "METAMORKID • \"The Eternal Diva Tour 2026\" • Live in Dresden 🤩 (@Filmtheater Schauburg - Dresden)",
-        "category": "",
-        "description": "Einlass: 20:00 / Beginn: 19:00 Preis: 28,20 € inkl. Gebühren",
-        "link": "https://rausgegangen.de/en/events/metamorkid-the-eternal-diva-tour-2026-live-in-dresden-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jt9c83FIQRSxruuBGt2r_metamorkidcopyright-nikola-stojkovicx3agregor-pelzmann.jpeg?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Thu, 26.02.2026",
-        "time": "20:00",
-        "event": "Ivo Der Bandit (@GrooveStation)",
-        "category": "",
-        "description": "Mit einer Mischung aus roher Energie, scharfem Witz und unüberhörbarem Straßencharme hat sich Ivo der Bandit in der deutschen Rap-Szene als ein Künstler etabliert, der aus der Reihe tanzt. Sein Stil vereint knallharte Boom-Bap-Beats mit modernen Einflüssen, während seine Texte pointiert zwischen Sozialkritik, Underground-Ästhetik und selbstironischer Rebellion oszillieren. Der in der Szene für seine kompromisslose Attitüde bekannte Rapper verbindet Wortgewandtheit mit einem Sound, der sowohl nostalgische Hip-Hop-Puristen als auch Fans experimenteller Klangwelten begeistert. Tracks wie „Verbrecher Funk“ oder „Rundka“ zeigen seine Fähigkeit, politische und gesellschaftliche Themen mit eingängigen Hooks und markanten Punchlines zu verweben. Dabei arbeitet er regelmäßig mit Szenegrößen wie Pöbel MC zusammen und bleibt dennoch seinem unverwechselbaren Stil treu.  Nachdem er als Tour-Support für Shacke One und Rokko Weissensee seine Live-Skills unter Beweis gestellt hat, war Ivo im Herbst 2025 mit seinem aktuellen Album “Mit Ach und Krach” das erste Mal solo auf Tour. In 7 deutschen Städten, mit teilweise ausverkauften Shows, hat er seinem Publikum ordentlich eingeheizt und Lust auf mehr gemacht. Deshalb reitet der Bandit im Frühjahr 2026 nochmal aus, um 4 Zusatzshows in Magdeburg, Dresden, Nürnberg und Augsburg zu spielen.",
-        "link": "https://rausgegangen.de/en/events/ivo-der-bandit-4/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/2qTBaHISRYOdmrbsEtsA_ivowww.jpg?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Thu, 26.02.2026",
         "time": "00:00",
         "event": "PUSH! Deutsches Open Mic der Comedy Community (@Four Snacks)",
         "category": "",
@@ -3118,33 +3098,23 @@
     },
     {
         "date": "Thu, 26.02.2026",
-        "time": "18:00",
-        "event": "THURSDAY 26.02. | AFTERCITO x STUTTGART (@LA EMBAJADA)",
+        "time": "19:00",
+        "event": "METAMORKID • \"The Eternal Diva Tour 2026\" • Live in Dresden 🤩 (@Filmtheater Schauburg - Dresden)",
         "category": "",
-        "description": "AFTERCITO no es un tardeo cualquiera. Aquí no se viene solo a tomar algo y socializar.Nuestra misión es clara: crear un espacio donde el ritmo latino se sienta de verdad, sin trasnochar.Un ambiente cálido, buena música y mejor vibra para que +18 disfruten reggaetón, dembow, perreo, bachata, salsa, merengue y cumbia, manteniendo viva la esencia latina que llevamos dentro.Es desconexión. Es cultura. Es comunidad. Tu excusa del jueves.🎟 IMPORTANTE 🎟 La entrada en taquilla tiene un coste de 7 €. En caso de superar la hora límite de entrada, los tickets adquiridos quedarán inválidos y será necesario comprar un ticket nuevo en taquilla.",
-        "link": "https://rausgegangen.de/en/events/aftercito/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/u58GfEO8Q5ug1zcR0mEX_ticketseite.jpg?width=1200&height=900&mode=crop",
-        "city": "Stuttgart"
+        "description": "Einlass: 20:00 / Beginn: 19:00 Preis: 28,20 € inkl. Gebühren",
+        "link": "https://rausgegangen.de/en/events/metamorkid-the-eternal-diva-tour-2026-live-in-dresden-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jt9c83FIQRSxruuBGt2r_metamorkidcopyright-nikola-stojkovicx3agregor-pelzmann.jpeg?width=1200&height=900&mode=crop",
+        "city": "Dresden"
     },
     {
         "date": "Thu, 26.02.2026",
         "time": "20:00",
-        "event": "KAMRAD - TOUR 2026 (@Im Wizemann – Halle)",
+        "event": "Ivo Der Bandit (@GrooveStation)",
         "category": "",
-        "description": "KAMRAD verbindet elektronische Klänge mit Popmusik und bringt damit seine eigene Klangwelt ins Carlswerk Victoria nach Köln. Die Tour 2026 verspricht persönliche Einblicke und musikalische Vielfalt, die Fans und Neuentdecker:innen gleichermaßen begeistern wird. Hier findest du einen Abend voller rhythmischer Raffinesse.",
-        "link": "https://rausgegangen.de/en/events/kamrad-tour-2026-10/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/SSCruWRGqs6RTwkSs2HQ_20240722-15.JPG?width=1200&height=900&mode=crop",
-        "city": "Stuttgart"
-    },
-    {
-        "date": "Thu, 26.02.2026",
-        "time": "20:00",
-        "event": "Renitenz-Ensemble - Meinung Macht Mobil (@Renitenztheater Stuttgart)",
-        "category": "",
-        "description": "Ein bewusstloser Mann, zwei wortgewandte Schwestern und ein Abend, an dem nichts so bleibt, wie es scheint. Das neue Kabarettstück für Stuttgart führt mitten hinein in einen Mischverkehr aus Haltungen, Halbwahrheiten und Heimlichkeiten – zwischen Parkverbot, Parteiprofil und persönlicher Verantwortung. Pointen sicher und politisch klug verhandelt die Satire zentrale Fragen unserer Zeit: Wie viel Haltung passt in eine 30er-Zone? Wer darf laut sein – und wer liegt falsch? Die Inszenierung verbindet Wortwitz mit Lokalkolorit und Feinstaub.Zwischen Sitcom-Tempo und Tiefgang entsteht eine Mischung aus Krimi-Parodie und Stadtbetrachtung – klug, scharfzüngig und herrlich unbequem. Stuttgart erkennt sich im Rückspiegel der Verkehrspolitik wieder. Und das Publikum vielleicht auch.Das Deutsch- / Schweizerische Duo Elisabeth Hart und Rhaban Straumann hat als Satiriker*in Residence für das Renitenztheater ein vielschichtiges Stück geschrieben; in der Stuttgarter Realität verankert, clever, politisch und witzig.Spiel: Angela Neis, Ismael Boerner und Magdalena Ganter;  Musik: Mackefisch (Lucie Mackert und Peter Fischer);  Regie: Annika Schäfer,  Ausstattung: Tom Schellmann;  Produktion: Renitenztheater;  Support Buch: Manuel Gübeli;  Buch: Hart auf Hart (Elisabeth Hart und Rhaban Straumann).",
-        "link": "https://rausgegangen.de/en/events/renitenz-ensemble-meinung-macht-mobil-8/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/DOQblAc5QoasvBHCBoo2_meinung-macht-mobil-1.png?width=1200&height=900&mode=crop",
-        "city": "Stuttgart"
+        "description": "Mit einer Mischung aus roher Energie, scharfem Witz und unüberhörbarem Straßencharme hat sich Ivo der Bandit in der deutschen Rap-Szene als ein Künstler etabliert, der aus der Reihe tanzt. Sein Stil vereint knallharte Boom-Bap-Beats mit modernen Einflüssen, während seine Texte pointiert zwischen Sozialkritik, Underground-Ästhetik und selbstironischer Rebellion oszillieren. Der in der Szene für seine kompromisslose Attitüde bekannte Rapper verbindet Wortgewandtheit mit einem Sound, der sowohl nostalgische Hip-Hop-Puristen als auch Fans experimenteller Klangwelten begeistert. Tracks wie „Verbrecher Funk“ oder „Rundka“ zeigen seine Fähigkeit, politische und gesellschaftliche Themen mit eingängigen Hooks und markanten Punchlines zu verweben. Dabei arbeitet er regelmäßig mit Szenegrößen wie Pöbel MC zusammen und bleibt dennoch seinem unverwechselbaren Stil treu.  Nachdem er als Tour-Support für Shacke One und Rokko Weissensee seine Live-Skills unter Beweis gestellt hat, war Ivo im Herbst 2025 mit seinem aktuellen Album “Mit Ach und Krach” das erste Mal solo auf Tour. In 7 deutschen Städten, mit teilweise ausverkauften Shows, hat er seinem Publikum ordentlich eingeheizt und Lust auf mehr gemacht. Deshalb reitet der Bandit im Frühjahr 2026 nochmal aus, um 4 Zusatzshows in Magdeburg, Dresden, Nürnberg und Augsburg zu spielen.",
+        "link": "https://rausgegangen.de/en/events/ivo-der-bandit-4/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/2qTBaHISRYOdmrbsEtsA_ivowww.jpg?width=1200&height=900&mode=crop",
+        "city": "Dresden"
     },
     {
         "date": "Thu, 26.02.2026",
@@ -3205,6 +3175,36 @@
         "link": "https://rausgegangen.de/en/events/amigo-altmark-ger-live-ilses-erika-gute-laune-gold-skurrile--0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/41O0EI6hSQ65iK5Rx814_amigo.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
+    },
+    {
+        "date": "Thu, 26.02.2026",
+        "time": "18:00",
+        "event": "THURSDAY 26.02. | AFTERCITO x STUTTGART (@LA EMBAJADA)",
+        "category": "",
+        "description": "AFTERCITO no es un tardeo cualquiera. Aquí no se viene solo a tomar algo y socializar.Nuestra misión es clara: crear un espacio donde el ritmo latino se sienta de verdad, sin trasnochar.Un ambiente cálido, buena música y mejor vibra para que +18 disfruten reggaetón, dembow, perreo, bachata, salsa, merengue y cumbia, manteniendo viva la esencia latina que llevamos dentro.Es desconexión. Es cultura. Es comunidad. Tu excusa del jueves.🎟 IMPORTANTE 🎟 La entrada en taquilla tiene un coste de 7 €. En caso de superar la hora límite de entrada, los tickets adquiridos quedarán inválidos y será necesario comprar un ticket nuevo en taquilla.",
+        "link": "https://rausgegangen.de/en/events/aftercito/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/u58GfEO8Q5ug1zcR0mEX_ticketseite.jpg?width=1200&height=900&mode=crop",
+        "city": "Stuttgart"
+    },
+    {
+        "date": "Thu, 26.02.2026",
+        "time": "20:00",
+        "event": "KAMRAD - TOUR 2026 (@Im Wizemann – Halle)",
+        "category": "",
+        "description": "KAMRAD verbindet elektronische Klänge mit Popmusik und bringt damit seine eigene Klangwelt ins Carlswerk Victoria nach Köln. Die Tour 2026 verspricht persönliche Einblicke und musikalische Vielfalt, die Fans und Neuentdecker:innen gleichermaßen begeistern wird. Hier findest du einen Abend voller rhythmischer Raffinesse.",
+        "link": "https://rausgegangen.de/en/events/kamrad-tour-2026-10/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/SSCruWRGqs6RTwkSs2HQ_20240722-15.JPG?width=1200&height=900&mode=crop",
+        "city": "Stuttgart"
+    },
+    {
+        "date": "Thu, 26.02.2026",
+        "time": "20:00",
+        "event": "Renitenz-Ensemble - Meinung Macht Mobil (@Renitenztheater Stuttgart)",
+        "category": "",
+        "description": "Ein bewusstloser Mann, zwei wortgewandte Schwestern und ein Abend, an dem nichts so bleibt, wie es scheint. Das neue Kabarettstück für Stuttgart führt mitten hinein in einen Mischverkehr aus Haltungen, Halbwahrheiten und Heimlichkeiten – zwischen Parkverbot, Parteiprofil und persönlicher Verantwortung. Pointen sicher und politisch klug verhandelt die Satire zentrale Fragen unserer Zeit: Wie viel Haltung passt in eine 30er-Zone? Wer darf laut sein – und wer liegt falsch? Die Inszenierung verbindet Wortwitz mit Lokalkolorit und Feinstaub.Zwischen Sitcom-Tempo und Tiefgang entsteht eine Mischung aus Krimi-Parodie und Stadtbetrachtung – klug, scharfzüngig und herrlich unbequem. Stuttgart erkennt sich im Rückspiegel der Verkehrspolitik wieder. Und das Publikum vielleicht auch.Das Deutsch- / Schweizerische Duo Elisabeth Hart und Rhaban Straumann hat als Satiriker*in Residence für das Renitenztheater ein vielschichtiges Stück geschrieben; in der Stuttgarter Realität verankert, clever, politisch und witzig.Spiel: Angela Neis, Ismael Boerner und Magdalena Ganter;  Musik: Mackefisch (Lucie Mackert und Peter Fischer);  Regie: Annika Schäfer,  Ausstattung: Tom Schellmann;  Produktion: Renitenztheater;  Support Buch: Manuel Gübeli;  Buch: Hart auf Hart (Elisabeth Hart und Rhaban Straumann).",
+        "link": "https://rausgegangen.de/en/events/renitenz-ensemble-meinung-macht-mobil-8/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/DOQblAc5QoasvBHCBoo2_meinung-macht-mobil-1.png?width=1200&height=900&mode=crop",
+        "city": "Stuttgart"
     },
     {
         "date": "Thu, 26.02.2026",
@@ -3277,22 +3277,6 @@
         "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
-        "date": "Fri, 27.02",
-        "time": "23:00",
-        "event": "Hörsaal33 - SWEET2K16 (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/sweet2k16/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/01/Hoersaal33_1350x1080.png"
-    },
-    {
-        "date": "Fri, 27.02",
-        "time": "23:00",
-        "event": "Kleiner Klub - Trance &amp; Bounce (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/kleiner-klub-trance-bounce3/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/02/Stereo_27_0226_Story2.jpg"
-    },
-    {
         "date": "Fr, 27.02",
         "time": "17:00",
         "event": "FR• FRIDAYS FINEST (@cafe_europa_bi)",
@@ -3307,6 +3291,22 @@
         "category": "Party",
         "link": "https://cafeeuropa.de/event/sa-sa-na-pa-die-samstagsnachtmittagsparty/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/02/20260228_SaNaPa_4zu5.jpg"
+    },
+    {
+        "date": "Fri, 27.02",
+        "time": "23:00",
+        "event": "Hörsaal33 - SWEET2K16 (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/sweet2k16/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/01/Hoersaal33_1350x1080.png"
+    },
+    {
+        "date": "Fri, 27.02",
+        "time": "23:00",
+        "event": "Kleiner Klub - Trance &amp; Bounce (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/kleiner-klub-trance-bounce3/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/02/Stereo_27_0226_Story2.jpg"
     },
     {
         "date": "Fr, 27.02.2026",
@@ -3395,6 +3395,16 @@
     },
     {
         "date": "Fri, 27.02.2026",
+        "time": "18:30",
+        "event": "Comedy für Freunde - Profi-Testbühne (60 Min.) (@Comedy für Freunde Club Frankfurt)",
+        "category": "",
+        "description": "Frankfurts beliebteste Comedy-Testbühne:Prfofis (Bekannt aus TV & Social Media) arbeiten an ihren Sets für deren aktuelle Solo-Programmen, die talentiertesten Newcommer:innen machen ihre erste Erfahrungen.Schnapp dir deine Liebsten und erlebe ein Wochenend-Highlight!  Einlass: 18:00 | Start: 18: 30 (Pünktlich!) Dauer 60 Min (ohne Pause)  Sei bitte rechtzeitig vor Ort und plane genug Zeit ein, damit du was zu trinken besorgen kannst.",
+        "link": "https://rausgegangen.de/en/events/comedy-fur-freunde-profi-testbuhne-60-min-22/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BHYIMnTSRuymToIoRIK5_img9092.JPG?width=1200&height=900&mode=crop",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Fri, 27.02.2026",
         "time": "17:00",
         "event": "Jetzt studiere ich erstmal - die Welt! 7 Jahre Backpacking, 70 Länder (@Globetrotter Münster)",
         "category": "",
@@ -3445,36 +3455,6 @@
     },
     {
         "date": "Fri, 27.02.2026",
-        "time": "18:30",
-        "event": "Comedy für Freunde - Profi-Testbühne (60 Min.) (@Comedy für Freunde Club Frankfurt)",
-        "category": "",
-        "description": "Frankfurts beliebteste Comedy-Testbühne:Prfofis (Bekannt aus TV & Social Media) arbeiten an ihren Sets für deren aktuelle Solo-Programmen, die talentiertesten Newcommer:innen machen ihre erste Erfahrungen.Schnapp dir deine Liebsten und erlebe ein Wochenend-Highlight!  Einlass: 18:00 | Start: 18: 30 (Pünktlich!) Dauer 60 Min (ohne Pause)  Sei bitte rechtzeitig vor Ort und plane genug Zeit ein, damit du was zu trinken besorgen kannst.",
-        "link": "https://rausgegangen.de/en/events/comedy-fur-freunde-profi-testbuhne-60-min-22/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BHYIMnTSRuymToIoRIK5_img9092.JPG?width=1200&height=900&mode=crop",
-        "city": "Frankfurt"
-    },
-    {
-        "date": "Fri, 27.02.2026",
-        "time": "19:00",
-        "event": "Pavelo & Schnell - SOHN-Tour (@Helene P)",
-        "category": "",
-        "description": "Pavelo & Schnell verbinden bei ihrer SOHN-Tour 2026 elektronische Klanglandschaften mit Indie und Italo-Einflüssen. Ihr drittes Album \"Sohn\" reflektiert Innenwelten und pulsierendes Nachtleben und verspricht live eine spannende Mischung aus Tiefgang und tanzbarer Energie 🕺🏽",
-        "link": "https://rausgegangen.de/en/events/pavelo-schnell-sohn-tour-stuttgart-helene-p-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7VTts2BvRk66bnRLHlwt_pavelo-schnellpressecreditsfabian-schwarze1-scaled.jpg?width=1200&height=900&mode=crop",
-        "city": "Stuttgart"
-    },
-    {
-        "date": "Fri, 27.02.2026",
-        "time": "23:00",
-        "event": "ENDLESS – Endlose Nächte. Momente, die bleiben. (@Romy S)",
-        "category": "",
-        "description": "ENDLESS – Endlose Nächte. Momente, die bleiben. Ab 23:00 Uhr erwartet die Gäste eine lange, energiegeladene Clubnacht voller musikalischer Vielfalt, starker Vibes und besonderer Momente. ENDLESS steht für endlose Nächte ohne Grenzen – ein modernes Clubkonzept von Gen-Z für Gen-Z. Im Mittelpunkt stehen musikalische Abwechslung, echtes Community-Gefühl und eine Atmosphäre, die verbindet. Ziel ist es, Clubnächte zu schaffen, die nicht einfach vergehen, sondern Erlebnisse hinterlassen, die bleiben. Für den musikalischen Rahmen sorgen DJ Oli K und DJ Chrizzo – zwei der aktuell gefragtesten DJs der Stuttgarter Clubszene. Mit ihrem Gespür für Trends, energiegeladene Sets und volle Dancefloors zählen sie derzeit zu den meistgebuchten Acts der Region. Gespielt wird Mixed Music – international, tanzbar und abwechslungsreich, perfekt abgestimmt auf eine durchgehende Clubnacht. Eventdetails 📍 Location: Romy S 📅 Freitag ⏰ Start: 23:00 Uhr 🎶 Musik: Mixed Music 🔞 Einlass: 18+ Line-up DJ Oli K | DJ Chrizzo  📍 Adresse: Romy S Langestraße 7 70173 Stuttgart ENDLESS – Endlose Nächte. Momente, die bleiben.",
-        "link": "https://rausgegangen.de/en/events/endless-x-trace-grand-opening-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LsZTg7GlR7OdhmW67cwV_whatsapp-image-2026-01-11-at-144135.jpeg?width=1200&height=900&mode=crop",
-        "city": "Stuttgart"
-    },
-    {
-        "date": "Fri, 27.02.2026",
         "time": "17:00",
         "event": "Powerwolf - WAKE UP THE WICKED – Tour 2026 Very Special Guest: HAMMERFALL (@ÖVB-Arena)",
         "category": "",
@@ -3522,6 +3502,26 @@
         "link": "https://rausgegangen.de/en/events/retro-80s-90s-party-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/B2vfGvQRDeAEE7LsGSs9_retro-disco-party-3.jpg?width=1200&height=900&mode=crop",
         "city": "Bremen"
+    },
+    {
+        "date": "Fri, 27.02.2026",
+        "time": "19:00",
+        "event": "Pavelo & Schnell - SOHN-Tour (@Helene P)",
+        "category": "",
+        "description": "Pavelo & Schnell verbinden bei ihrer SOHN-Tour 2026 elektronische Klanglandschaften mit Indie und Italo-Einflüssen. Ihr drittes Album \"Sohn\" reflektiert Innenwelten und pulsierendes Nachtleben und verspricht live eine spannende Mischung aus Tiefgang und tanzbarer Energie 🕺🏽",
+        "link": "https://rausgegangen.de/en/events/pavelo-schnell-sohn-tour-stuttgart-helene-p-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7VTts2BvRk66bnRLHlwt_pavelo-schnellpressecreditsfabian-schwarze1-scaled.jpg?width=1200&height=900&mode=crop",
+        "city": "Stuttgart"
+    },
+    {
+        "date": "Fri, 27.02.2026",
+        "time": "23:00",
+        "event": "ENDLESS – Endlose Nächte. Momente, die bleiben. (@Romy S)",
+        "category": "",
+        "description": "ENDLESS – Endlose Nächte. Momente, die bleiben. Ab 23:00 Uhr erwartet die Gäste eine lange, energiegeladene Clubnacht voller musikalischer Vielfalt, starker Vibes und besonderer Momente. ENDLESS steht für endlose Nächte ohne Grenzen – ein modernes Clubkonzept von Gen-Z für Gen-Z. Im Mittelpunkt stehen musikalische Abwechslung, echtes Community-Gefühl und eine Atmosphäre, die verbindet. Ziel ist es, Clubnächte zu schaffen, die nicht einfach vergehen, sondern Erlebnisse hinterlassen, die bleiben. Für den musikalischen Rahmen sorgen DJ Oli K und DJ Chrizzo – zwei der aktuell gefragtesten DJs der Stuttgarter Clubszene. Mit ihrem Gespür für Trends, energiegeladene Sets und volle Dancefloors zählen sie derzeit zu den meistgebuchten Acts der Region. Gespielt wird Mixed Music – international, tanzbar und abwechslungsreich, perfekt abgestimmt auf eine durchgehende Clubnacht. Eventdetails 📍 Location: Romy S 📅 Freitag ⏰ Start: 23:00 Uhr 🎶 Musik: Mixed Music 🔞 Einlass: 18+ Line-up DJ Oli K | DJ Chrizzo  📍 Adresse: Romy S Langestraße 7 70173 Stuttgart ENDLESS – Endlose Nächte. Momente, die bleiben.",
+        "link": "https://rausgegangen.de/en/events/endless-x-trace-grand-opening-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LsZTg7GlR7OdhmW67cwV_whatsapp-image-2026-01-11-at-144135.jpeg?width=1200&height=900&mode=crop",
+        "city": "Stuttgart"
     },
     {
         "date": "Fri, 27.02.2026",
@@ -3717,28 +3717,28 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Sat, 28.02",
-        "time": "23:00",
-        "event": "DISKO TOTAL! // Die Party für alle ab 25! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/disko-total-die-party-fuer-alle-ab-25/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/01/Stereo_28_0226_Feed_01.jpg"
-    },
-    {
-        "date": "Sat, 28.02",
-        "time": "23:00",
-        "event": "DISKO TOTAL! // Die Party für alle ab 25! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/disko-total-die-party-fuer-alle-ab-25/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/01/Stereo_28_0226_Feed_01.jpg"
-    },
-    {
         "date": "Sa, 28.02",
         "time": "23:00",
         "event": "SA• LOVE SATURDAYS (@cafe_europa_bi)",
         "category": "Party",
         "link": "https://cafeeuropa.de/event/sa-fck-genres-raum2-booty-bounce/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2025/12/20260228_LoveSaturdays_4zu5.jpg"
+    },
+    {
+        "date": "Sat, 28.02",
+        "time": "23:00",
+        "event": "DISKO TOTAL! // Die Party für alle ab 25! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/disko-total-die-party-fuer-alle-ab-25/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/01/Stereo_28_0226_Feed_01.jpg"
+    },
+    {
+        "date": "Sat, 28.02",
+        "time": "23:00",
+        "event": "DISKO TOTAL! // Die Party für alle ab 25! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/disko-total-die-party-fuer-alle-ab-25/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/01/Stereo_28_0226_Feed_01.jpg"
     },
     {
         "date": "Sa, 28.02.2026",
@@ -3814,6 +3814,46 @@
     },
     {
         "date": "Sat, 28.02.2026",
+        "time": "18:30",
+        "event": "COMEDY KITCHEN! | Deutsches Comedy Open Mic im Francis FFM (@Restaurant Francis)",
+        "category": "",
+        "description": "Willkommen zu unserem deutschen Comedy Open Mic im Francis, für das wir ihr Restaurant übernehmen und Jokes statt Essen servieren!Wie das Francis unsere Stadt bereichert, setzen wir uns für die nachhaltige Entwicklung der Frankfurter Stand-Up Comedians ein.Unsere Open Mics sind die fruchtbaren Böden, auf denen lokale Talente wachsen und gedeihen können – frei von künstlichen Geschmacksverstärkern und Zensur, aber voller ehrlicher Pointen.In der Mainzer Landstrasse 27, im Holiday Inn Frankfurt - Alte Oper, trifft köstliche Gastronomie auf grüne Zukunft. Im Anschluss an das Open Mic findet unser deutscher Showcase (aka Mix-Show) statt: GOLDSTANDARD! 👑Hier präsentieren vier erfahrene Comedians + Moderator aus der Comedy Community ihr absolut bestes Material.Checkt unsere Event-Page aus, wenn ihr interessiert seid!Die Comedians im Showcase findet Ihr eine Woche vor der Show auf unserem Instagram-Account: @The.Comedy.CommunityDiese wie alle anderen Shows findet Ihr auch auf unserer Website www.thecomedycommunity.de",
+        "link": "https://rausgegangen.de/en/events/comedy-kitchen-deutsches-comedy-open-mic-im-francis-ffm-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/E6JUrEPiQIqxnlITGp7x_francis-om-deutsch-2x1.png?width=1200&height=900&mode=crop",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Sat, 28.02.2026",
+        "time": "19:00",
+        "event": "orbit (@Zoom Frankfurt)",
+        "category": "",
+        "description": "Tauche ein in orbits verträumten Mix aus Akustiksounds, Synthies und ganz viel Coming‑of‑Age‑Feeling. ✨ Seine Songs bringen dich zurück in lange Sommernächte voller Abschied, Aufbruch und echter Verbindung. 🌙🎶",
+        "link": "https://rausgegangen.de/en/events/orbit-87/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ZnNeQvHWTFKIH9XgmPaw_orbitcfbsfw1-marc-bischoff.jpg?width=1200&height=900&mode=crop",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Sat, 28.02.2026",
+        "time": "20:30",
+        "event": "GOLDSTANDARD - Der deutsche Stand-Up Comedy Showcase (@Restaurant Francis)",
+        "category": "",
+        "description": "🎤 Die Comedy Community Frankfurt präsentiert: GOLDSTANDARD – Der deutsche Stand-Up Showcase (aka Mix-Show)! 👑Willkommen zum GOLDSTANDARD, der Premium-Show von der Comedy Community Frankfurt. Hier wird nicht getestet, sondern knallhart abgeliefert! 📦Erlebt eine unvergessliche Nacht voller Pointen, bei der sich vier der besten Comedians der Frankfurter Stand-Up-Szene von ihrer besten Seite zeigen und die Bühne zum Brennen bringen.Keine Experimente – nur pures Comedy-Gold! 🥇Die Comedians findet Ihr vor der Show auf unserem Instagram-Account: @The.Comedy.Community",
+        "link": "https://rausgegangen.de/en/events/konigsklasse-der-deutsche-stand-up-comedy-showcase-12/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/u73YMRWSyWos4YYN4PKz_konigsklasse-2x1.png?width=1200&height=900&mode=crop",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Sat, 28.02.2026",
+        "time": "23:00",
+        "event": "2000er Party (@Nachtleben)",
+        "category": "",
+        "description": "2000er Party | Nachtleben FrankfurtDie Hits der 2000erMusikalisch wird es vielseitig, tanzbar und richtig geil 🔥Es könnte laufen: Black Eyed Peas, Rihanna, Lady Gaga, Eminem, David Guetta, Amy Winehouse, No Angels, Katy Perry, Outkast, Kanye West, Die Ärzte, Green Day, Fettes Brot, Beyonce, Jan Delay, Seeed, Pink, White Stripes, Deichkind, Jay Z, Pussycat Dolls, Billy Talent, u.v.m. ...* Beginn Party ab 23:00 im ‚Club Nachtleben‘* bereits ab 20:00 HAPPY HOUR (Cocktails + Longdrinks günstiger) in der ‚Bar Nachtleben‘Nachtleben Frankfurt (direkt an der Konstablerwache - U-Bahn, S-Bahn, Str.-Bahn)Kurt Schumacher Str 45, 60311 FrankfurtAb 18 Jahren!",
+        "link": "https://rausgegangen.de/en/events/2000er-party-68/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FFSSHxbQYqarSaadR5Es_basicfrankfurt2000erpartyticketshop.png?width=1200&height=900&mode=crop",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Sat, 28.02.2026",
         "time": "20:00",
         "event": "Kindheiten // vorschlag:hammer (@Theater im Pumpenhaus)",
         "category": "",
@@ -3874,43 +3914,43 @@
     },
     {
         "date": "Sat, 28.02.2026",
-        "time": "18:30",
-        "event": "COMEDY KITCHEN! | Deutsches Comedy Open Mic im Francis FFM (@Restaurant Francis)",
-        "category": "",
-        "description": "Willkommen zu unserem deutschen Comedy Open Mic im Francis, für das wir ihr Restaurant übernehmen und Jokes statt Essen servieren!Wie das Francis unsere Stadt bereichert, setzen wir uns für die nachhaltige Entwicklung der Frankfurter Stand-Up Comedians ein.Unsere Open Mics sind die fruchtbaren Böden, auf denen lokale Talente wachsen und gedeihen können – frei von künstlichen Geschmacksverstärkern und Zensur, aber voller ehrlicher Pointen.In der Mainzer Landstrasse 27, im Holiday Inn Frankfurt - Alte Oper, trifft köstliche Gastronomie auf grüne Zukunft. Im Anschluss an das Open Mic findet unser deutscher Showcase (aka Mix-Show) statt: GOLDSTANDARD! 👑Hier präsentieren vier erfahrene Comedians + Moderator aus der Comedy Community ihr absolut bestes Material.Checkt unsere Event-Page aus, wenn ihr interessiert seid!Die Comedians im Showcase findet Ihr eine Woche vor der Show auf unserem Instagram-Account: @The.Comedy.CommunityDiese wie alle anderen Shows findet Ihr auch auf unserer Website www.thecomedycommunity.de",
-        "link": "https://rausgegangen.de/en/events/comedy-kitchen-deutsches-comedy-open-mic-im-francis-ffm-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/E6JUrEPiQIqxnlITGp7x_francis-om-deutsch-2x1.png?width=1200&height=900&mode=crop",
-        "city": "Frankfurt"
-    },
-    {
-        "date": "Sat, 28.02.2026",
         "time": "19:00",
-        "event": "orbit (@Zoom Frankfurt)",
+        "event": "YĪN YĪN (@Kulturzentrum Lagerhaus)",
         "category": "",
-        "description": "Tauche ein in orbits verträumten Mix aus Akustiksounds, Synthies und ganz viel Coming‑of‑Age‑Feeling. ✨ Seine Songs bringen dich zurück in lange Sommernächte voller Abschied, Aufbruch und echter Verbindung. 🌙🎶",
-        "link": "https://rausgegangen.de/en/events/orbit-87/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ZnNeQvHWTFKIH9XgmPaw_orbitcfbsfw1-marc-bischoff.jpg?width=1200&height=900&mode=crop",
-        "city": "Frankfurt"
+        "description": "YĪN YĪN aus Maastricht verbindet thailändisch geprägten Psychrock mit japanisch inspirierter Klangästhetik und traditionellen Instrumenten wie der Guzheng. Hier erwartet dich ein fast meditativer Sound, der zwischen kosmischen und erdigen Tönen pendelt und neue musikalische Welten öffnet 🧚‍♀️",
+        "link": "https://rausgegangen.de/en/events/yin-yin-12/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/2r8kK4NLQiaXTZM1SYJg_garden06acjonas-loelmann.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Sat, 28.02.2026",
-        "time": "20:30",
-        "event": "GOLDSTANDARD - Der deutsche Stand-Up Comedy Showcase (@Restaurant Francis)",
+        "time": "21:00",
+        "event": "Fiesta del Barrio - Carnival Latino (@Auf den Häfen)",
         "category": "",
-        "description": "🎤 Die Comedy Community Frankfurt präsentiert: GOLDSTANDARD – Der deutsche Stand-Up Showcase (aka Mix-Show)! 👑Willkommen zum GOLDSTANDARD, der Premium-Show von der Comedy Community Frankfurt. Hier wird nicht getestet, sondern knallhart abgeliefert! 📦Erlebt eine unvergessliche Nacht voller Pointen, bei der sich vier der besten Comedians der Frankfurter Stand-Up-Szene von ihrer besten Seite zeigen und die Bühne zum Brennen bringen.Keine Experimente – nur pures Comedy-Gold! 🥇Die Comedians findet Ihr vor der Show auf unserem Instagram-Account: @The.Comedy.Community",
-        "link": "https://rausgegangen.de/en/events/konigsklasse-der-deutsche-stand-up-comedy-showcase-12/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/u73YMRWSyWos4YYN4PKz_konigsklasse-2x1.png?width=1200&height=900&mode=crop",
-        "city": "Frankfurt"
+        "description": "Am 28. Februar verwandelt sich eine ganze Gasse in Bremen in ein Festival voller lateinamerikanischer Rhythmen, von brasilianischem Carnival über Salsa bis zu Reggaeton. Authentische Spezialitäten und liebevoll gestaltete Bereiche versprechen eine lebendige Nacht für alle Sinne 🪩",
+        "link": "https://rausgegangen.de/en/events/fiesta-del-barrio-carnival-latino-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/g8PcZDfKSTeHwGurJ4wF_fdb-2025-10-30-fb-banner3.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Sat, 28.02.2026",
+        "time": "22:00",
+        "event": "MALLORCA SAUSE - WINTER EDITION (@Shagall Klub)",
+        "category": "",
+        "description": "🔥🍹 MALLE SAUSE – WINTER EDITION 🍹🔥 ❄️➡️🌴 Ballermann- & Festzelt-Feeling mitten im Winter! 🌴➡️❄️  Der Winter kann einpacken – wir drehen auf Sommer & Festzelt-Modus! Am Samstag, 28. Februar wird der Shagall Klub zur ultimativen Partyzone mit Mallorca-Vibes, Festzelt-Eskalation und jeder Menge Specials! 🎉🔥  🎧 LINE-UP: 🔊 DJ Ceed 🔊 DJ Jumaxx 🎤 MC-Moderation: Mister Kiss  🎶 MUSIK:  ✅ Malle-Hits ✅ Festzeltclassics ✅ Schlager zum Mitsingen ➡️ 100 % Abriss-Garantie!  🕺💃 Ob Tanzfläche, Theke oder Arm in Arm mit deiner Crew – hier wird gesungen, gefeiert und eskaliert wie auf Mallorca oder im Festzelt! 🍻  HAPPY HOUR | 22:00 – 23:00 UHR:  🎉 EINTRITT FRE!! 🍸 Vodka Lemon (4cl) für nur 5 € 🍾 33 % auf Säulen 🕶️ 50 schnelle Brillen für die ersten 50 Gäste 🥃 Free Welcome Shot für jeden Gast   🎉 DARUM MUSST DU DABEI SEIN: ✅ Top DJs & Live-MC ✅ Mallorca- & Festzelt-Vibes ✅ Mega Drink-Specials ✅ Eskalation bis tief in die Nacht  📅 Datum: Samstag, 28.02. 🕙 Beginn: ab 22:00 Uhr 📍 Location: Shagall Klub  👉 Komm früh für die Specials, bring deine Crew mit und erlebe die MALLE SAUSE – WINTER EDITION 🔥🍻  ⚠️ Warnung: Heiserkeit vom Mitsingen, Muskelkater vom Tanzen & legendäre Erinnerungen garantiert! 😎🔥 EINTRITTFREI BIS 23Hdanach12€  #MalleSause #BallermannVibes #FestzeltClassics #PartySamstag #EskalationPur",
+        "link": "https://rausgegangen.de/en/events/mallorca-sause-winter-edition-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eblQ5UOSHilYY5CVOoZT_summer-luau-party.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Sat, 28.02.2026",
         "time": "23:00",
-        "event": "2000er Party (@Nachtleben)",
+        "event": "Junior Senior #10 (@Metropol Theater Bremen)",
         "category": "",
-        "description": "2000er Party | Nachtleben FrankfurtDie Hits der 2000erMusikalisch wird es vielseitig, tanzbar und richtig geil 🔥Es könnte laufen: Black Eyed Peas, Rihanna, Lady Gaga, Eminem, David Guetta, Amy Winehouse, No Angels, Katy Perry, Outkast, Kanye West, Die Ärzte, Green Day, Fettes Brot, Beyonce, Jan Delay, Seeed, Pink, White Stripes, Deichkind, Jay Z, Pussycat Dolls, Billy Talent, u.v.m. ...* Beginn Party ab 23:00 im ‚Club Nachtleben‘* bereits ab 20:00 HAPPY HOUR (Cocktails + Longdrinks günstiger) in der ‚Bar Nachtleben‘Nachtleben Frankfurt (direkt an der Konstablerwache - U-Bahn, S-Bahn, Str.-Bahn)Kurt Schumacher Str 45, 60311 FrankfurtAb 18 Jahren!",
-        "link": "https://rausgegangen.de/en/events/2000er-party-68/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FFSSHxbQYqarSaadR5Es_basicfrankfurt2000erpartyticketshop.png?width=1200&height=900&mode=crop",
-        "city": "Frankfurt"
+        "description": "Hier findest du eine Nacht voller Tanz und Begegnungen, bei der erfahrene DJs mit einem Mix aus House, Electro und Melodic Techno die Stimmung prägen. Die Kombination aus elegantem Theaterambiente und zwei Tanzflächen verspricht Momente zum Durchatmen und ausgelassene Partyzeiten für alle, die Musik lebendig spüren wollen 🪩",
+        "link": "https://rausgegangen.de/en/events/junior-senior-10-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pwWofxvcRFKr3Pw0IEPw_junsen10-fb-header.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Sat, 28.02.2026",
@@ -3971,46 +4011,6 @@
         "link": "https://rausgegangen.de/en/events/mathis-kloss-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4dvXrmpTKi0Ahnyq0HK3_origin5086510.jpg?width=1200&height=900&mode=crop",
         "city": "Essen"
-    },
-    {
-        "date": "Sat, 28.02.2026",
-        "time": "19:00",
-        "event": "YĪN YĪN (@Kulturzentrum Lagerhaus)",
-        "category": "",
-        "description": "YĪN YĪN aus Maastricht verbindet thailändisch geprägten Psychrock mit japanisch inspirierter Klangästhetik und traditionellen Instrumenten wie der Guzheng. Hier erwartet dich ein fast meditativer Sound, der zwischen kosmischen und erdigen Tönen pendelt und neue musikalische Welten öffnet 🧚‍♀️",
-        "link": "https://rausgegangen.de/en/events/yin-yin-12/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/2r8kK4NLQiaXTZM1SYJg_garden06acjonas-loelmann.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Sat, 28.02.2026",
-        "time": "21:00",
-        "event": "Fiesta del Barrio - Carnival Latino (@Auf den Häfen)",
-        "category": "",
-        "description": "Am 28. Februar verwandelt sich eine ganze Gasse in Bremen in ein Festival voller lateinamerikanischer Rhythmen, von brasilianischem Carnival über Salsa bis zu Reggaeton. Authentische Spezialitäten und liebevoll gestaltete Bereiche versprechen eine lebendige Nacht für alle Sinne 🪩",
-        "link": "https://rausgegangen.de/en/events/fiesta-del-barrio-carnival-latino-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/g8PcZDfKSTeHwGurJ4wF_fdb-2025-10-30-fb-banner3.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Sat, 28.02.2026",
-        "time": "22:00",
-        "event": "MALLORCA SAUSE - WINTER EDITION (@Shagall Klub)",
-        "category": "",
-        "description": "🔥🍹 MALLE SAUSE – WINTER EDITION 🍹🔥 ❄️➡️🌴 Ballermann- & Festzelt-Feeling mitten im Winter! 🌴➡️❄️  Der Winter kann einpacken – wir drehen auf Sommer & Festzelt-Modus! Am Samstag, 28. Februar wird der Shagall Klub zur ultimativen Partyzone mit Mallorca-Vibes, Festzelt-Eskalation und jeder Menge Specials! 🎉🔥  🎧 LINE-UP: 🔊 DJ Ceed 🔊 DJ Jumaxx 🎤 MC-Moderation: Mister Kiss  🎶 MUSIK:  ✅ Malle-Hits ✅ Festzeltclassics ✅ Schlager zum Mitsingen ➡️ 100 % Abriss-Garantie!  🕺💃 Ob Tanzfläche, Theke oder Arm in Arm mit deiner Crew – hier wird gesungen, gefeiert und eskaliert wie auf Mallorca oder im Festzelt! 🍻  HAPPY HOUR | 22:00 – 23:00 UHR:  🎉 EINTRITT FRE!! 🍸 Vodka Lemon (4cl) für nur 5 € 🍾 33 % auf Säulen 🕶️ 50 schnelle Brillen für die ersten 50 Gäste 🥃 Free Welcome Shot für jeden Gast   🎉 DARUM MUSST DU DABEI SEIN: ✅ Top DJs & Live-MC ✅ Mallorca- & Festzelt-Vibes ✅ Mega Drink-Specials ✅ Eskalation bis tief in die Nacht  📅 Datum: Samstag, 28.02. 🕙 Beginn: ab 22:00 Uhr 📍 Location: Shagall Klub  👉 Komm früh für die Specials, bring deine Crew mit und erlebe die MALLE SAUSE – WINTER EDITION 🔥🍻  ⚠️ Warnung: Heiserkeit vom Mitsingen, Muskelkater vom Tanzen & legendäre Erinnerungen garantiert! 😎🔥 EINTRITTFREI BIS 23Hdanach12€  #MalleSause #BallermannVibes #FestzeltClassics #PartySamstag #EskalationPur",
-        "link": "https://rausgegangen.de/en/events/mallorca-sause-winter-edition-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eblQ5UOSHilYY5CVOoZT_summer-luau-party.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Sat, 28.02.2026",
-        "time": "23:00",
-        "event": "Junior Senior #10 (@Metropol Theater Bremen)",
-        "category": "",
-        "description": "Hier findest du eine Nacht voller Tanz und Begegnungen, bei der erfahrene DJs mit einem Mix aus House, Electro und Melodic Techno die Stimmung prägen. Die Kombination aus elegantem Theaterambiente und zwei Tanzflächen verspricht Momente zum Durchatmen und ausgelassene Partyzeiten für alle, die Musik lebendig spüren wollen 🪩",
-        "link": "https://rausgegangen.de/en/events/junior-senior-10-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pwWofxvcRFKr3Pw0IEPw_junsen10-fb-header.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
     },
     {
         "date": "Sat, 28.02.2026",
@@ -4188,26 +4188,6 @@
     },
     {
         "date": "Sun, 01.03.2026",
-        "time": "16:00",
-        "event": "Kindheiten // vorschlag:hammer (@Theater im Pumpenhaus)",
-        "category": "",
-        "description": "Wie blicken Kinder auf die Welt? Und wie erzählen sie davon? Die Performer*innen von vorschlag:hammer haben Interviews mit Kindern aus Leipzig, Zürich, Duisburg und Berlin geführt. Und Geschichten aus deren Leben gesammelt. Mal alltäglich, mal überraschend. Gesprochen und gespielt werden die Texte auf der Bühne jetzt von Erwachsenen. KINDHEITEN ist ein Biografienpatchwork zwischen Fiktion und Wirklichkeit, Vergangenheit und Zukunft. Eine vielschichtige Aushandlung zwischen erwachsener Perspektive und junger Sicht, jenseits von Logik und Zeitlichkeit. Wobei die Erzählungen der Kinder stets bedingungslos ernst genommen werden. So entsteht ein komisches, neugierig machendes und nachdenklich stimmendes Panorama der Kindheiten heute. „Absurdes Theater vom Allerfeinsten, das hochverdientermaßen zum Festivalhit avancieren wird“ (nachtkritik). Von und mit Kristofer Gudmundsson, Gesine Hohmann, Clara Minckwitz und Stephan Stock Produktionsleitung Melina Hylla Fotos Nicolas Rösener Eine Produktion vonvorschlag:hammer in Koproduktionmit Ballhaus Ost, Ringlokschuppen Ruhr, Theater im Pumpenhaus, ROXY Birsfelden und dem Werkraum Schöpflin Gefördert durch die Spitzenförderung Theater des Landes NRW",
-        "link": "https://rausgegangen.de/en/events/kindheiten-vorschlaghammer-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LRjGkwHRwGyif1rFSDei_20250515vorschlaghammercnicolas-rosenerweb-1956.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Sun, 01.03.2026",
-        "time": "19:30",
-        "event": "Ohio Valley Wrestling (@BLACK BOX im cuba)",
-        "category": "",
-        "description": "cuba kultur in der BLACK BOX im CUBASTAGE off LIMITSOhio Valley WrestlingSchimmernde Drones, vibrierende Flächen, freejazzige Dekonstruktionen. Das Duo des experimentellen Saxophonisten Florian Walter mit der virtuosen Pianistin Rieko Okuda lotet klangliche und strukturelle Grenzbereiche aus.Rieko Okuda erhielt im Alter von drei Jahren ersten Unterricht in klassischer Musik in Japan. In ihrem jungen Alter nahm sie an einem Klavierwettbewerb der Stadt Kaizuka teil und gewann den ersten Preis. Später zog sie in die Vereinigten Staaten, um Jazzmusik zu studieren. Erste Aufnahmen entstanden 2006. In der amerikanischen Jazzszene spielte sie mit Musikern wie Bob Mintzer, Jon Faddis und John Fedchock und interessierte sich zunehmend für Free Jazz und Neue Improvisationsmusik. Sie trat hier mit Musikern wie Marshall Allen (dem Leiter des Sun Ra Orchestra), Elliott Levine und Calvin Weston auf. Und gastierte auf verschiedenen Jazzfestivals. Ihr Interesse an improvisierter Musik führte schließlich nach Berlin um dort mit Musikern:iinen wie Audrey Chen, Els Vandeweyer, Susanne Zapf, Yuko Kaseki, Inma Galiot, Tobias Delius, Ignaz Schick, Linda Frederickson und Axel Dörner und Tänzerinnen wie Jenny Haack und Zala Pezdir zusammenzuarbeiteten. Okudas Arbeit vereint elektronische und elektroakustische Ansätze und ist geprägt von konzentrierter Repetition, einem schnörkellosen Minimalismus und weiten emotionalen Bögen.Florian Walter lebt als Instrumentalist (div. Saxophone, Kontrabassklarinette, Hechtyphon) und Komponist in Zürich. Seine Arbeit erstreckt sich über weite Teile der zeitgenössischen Musik und zeichnet sich insbesondere durch transdisziplinäre und genreübergreifende Aspekte ausEr studierte Musik, Jazz-Saxophon, Komposition und Geschichtswissenschaften in Essen. Durch sein Engagement in verschiedenen Ensembles aus den Bereichen experimentelle Popmusik, Modern Jazz, Improvisation, zeitgenössische Musik und Theatermusik sucht er nach neuen Wegen, Klang zu entwickeln, zu konstruieren und in einem situativen Kontext zu performen, ohne dabei auf Stereotypen traditioneller Musikkonzepte zurückzugreifen. 2019 erhielt er in Münster den Westfalen-Jazz-Preis verliehen.Besetzung:Rieko Okuda – Klavier Florian Walter – Tubax & Altsaxophon",
-        "link": "https://rausgegangen.de/en/events/ohio-valley-wrestling-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/oEV2M9GYRzq7DvcLgrMi_ohiovallerycarneschramm.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Sun, 01.03.2026",
         "time": "19:00",
         "event": "God save the Queen (@myticket Jahrhunderthalle)",
         "category": "",
@@ -4228,13 +4208,23 @@
     },
     {
         "date": "Sun, 01.03.2026",
-        "time": "17:00",
-        "event": "Tamerlano e Bejazet - ein Barockes Pasticcio (@Mozartsaal Liederhalle Stuttgart)",
+        "time": "16:00",
+        "event": "Kindheiten // vorschlag:hammer (@Theater im Pumpenhaus)",
         "category": "",
-        "description": "Als Künstlerischer Leiter der Internationalen Händel-Akademie setzt Jörg Halubek 2026 ein besonderes Projekt um:Gemeinsam mit jungen Sänger:innen und Instrumentalist:innen entsteht auf Basis des Librettos Tamerlano (Agostino Piovene, 1711) eine neue Pasticcio-Oper – historisch inspiriert, individuell geformt. Die Auswahl der Sänger:innen erfolgt nach Auditions im Herbst 2025. Begleitet werden die jungen Talente von Mitgliedern il Gusto Baroccos wie Eva Saladin (Konzertmeisterin) und Jonathan Pešek (Violoncello). Unter der wissenschaftlichen Anleitung von Prof. Dr. Thomas Seedorf erarbeiten die Teilnehmenden die musikalische Fassung des Pasticcios selbst. Tamerlano e Bajazet ist ein Kooperationsprojekt der Internationalen Händel-Akademie Karlsruhe und il Gusto Barocco. Gefördert durch Mittel der Baden-Württemberg-Stiftung, des Landes Baden-Württemberg, der Stadt Karlsruhe und der Händel-Gesellschaft Karlsruhe. Konzertdauer ca. 120 Minuten inklusive einer Pause Solist:innen und Orchester der Internationalen Händel-Akademie KarlsruheEva Saladin | KonzertmeisterinJonathan Pešek | CelloJörg Halubek | musikalische Leitung Infos unter: https://www.ilgustobarocco.de/event/tamerlano-e-bajazet/Tickets unter: https://il-gusto-barocco.reservix.de/p/reservix/event/2445344",
-        "link": "https://rausgegangen.de/en/events/tamerlano-e-bejazet-ein-barockes-pasticcio-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/szXxYCJoRn9sPXly8fHI_monteverdiorchester-65-von-67.jpeg?width=1200&height=900&mode=crop",
-        "city": "Stuttgart"
+        "description": "Wie blicken Kinder auf die Welt? Und wie erzählen sie davon? Die Performer*innen von vorschlag:hammer haben Interviews mit Kindern aus Leipzig, Zürich, Duisburg und Berlin geführt. Und Geschichten aus deren Leben gesammelt. Mal alltäglich, mal überraschend. Gesprochen und gespielt werden die Texte auf der Bühne jetzt von Erwachsenen. KINDHEITEN ist ein Biografienpatchwork zwischen Fiktion und Wirklichkeit, Vergangenheit und Zukunft. Eine vielschichtige Aushandlung zwischen erwachsener Perspektive und junger Sicht, jenseits von Logik und Zeitlichkeit. Wobei die Erzählungen der Kinder stets bedingungslos ernst genommen werden. So entsteht ein komisches, neugierig machendes und nachdenklich stimmendes Panorama der Kindheiten heute. „Absurdes Theater vom Allerfeinsten, das hochverdientermaßen zum Festivalhit avancieren wird“ (nachtkritik). Von und mit Kristofer Gudmundsson, Gesine Hohmann, Clara Minckwitz und Stephan Stock Produktionsleitung Melina Hylla Fotos Nicolas Rösener Eine Produktion vonvorschlag:hammer in Koproduktionmit Ballhaus Ost, Ringlokschuppen Ruhr, Theater im Pumpenhaus, ROXY Birsfelden und dem Werkraum Schöpflin Gefördert durch die Spitzenförderung Theater des Landes NRW",
+        "link": "https://rausgegangen.de/en/events/kindheiten-vorschlaghammer-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LRjGkwHRwGyif1rFSDei_20250515vorschlaghammercnicolas-rosenerweb-1956.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Sun, 01.03.2026",
+        "time": "19:30",
+        "event": "Ohio Valley Wrestling (@BLACK BOX im cuba)",
+        "category": "",
+        "description": "cuba kultur in der BLACK BOX im CUBASTAGE off LIMITSOhio Valley WrestlingSchimmernde Drones, vibrierende Flächen, freejazzige Dekonstruktionen. Das Duo des experimentellen Saxophonisten Florian Walter mit der virtuosen Pianistin Rieko Okuda lotet klangliche und strukturelle Grenzbereiche aus.Rieko Okuda erhielt im Alter von drei Jahren ersten Unterricht in klassischer Musik in Japan. In ihrem jungen Alter nahm sie an einem Klavierwettbewerb der Stadt Kaizuka teil und gewann den ersten Preis. Später zog sie in die Vereinigten Staaten, um Jazzmusik zu studieren. Erste Aufnahmen entstanden 2006. In der amerikanischen Jazzszene spielte sie mit Musikern wie Bob Mintzer, Jon Faddis und John Fedchock und interessierte sich zunehmend für Free Jazz und Neue Improvisationsmusik. Sie trat hier mit Musikern wie Marshall Allen (dem Leiter des Sun Ra Orchestra), Elliott Levine und Calvin Weston auf. Und gastierte auf verschiedenen Jazzfestivals. Ihr Interesse an improvisierter Musik führte schließlich nach Berlin um dort mit Musikern:iinen wie Audrey Chen, Els Vandeweyer, Susanne Zapf, Yuko Kaseki, Inma Galiot, Tobias Delius, Ignaz Schick, Linda Frederickson und Axel Dörner und Tänzerinnen wie Jenny Haack und Zala Pezdir zusammenzuarbeiteten. Okudas Arbeit vereint elektronische und elektroakustische Ansätze und ist geprägt von konzentrierter Repetition, einem schnörkellosen Minimalismus und weiten emotionalen Bögen.Florian Walter lebt als Instrumentalist (div. Saxophone, Kontrabassklarinette, Hechtyphon) und Komponist in Zürich. Seine Arbeit erstreckt sich über weite Teile der zeitgenössischen Musik und zeichnet sich insbesondere durch transdisziplinäre und genreübergreifende Aspekte ausEr studierte Musik, Jazz-Saxophon, Komposition und Geschichtswissenschaften in Essen. Durch sein Engagement in verschiedenen Ensembles aus den Bereichen experimentelle Popmusik, Modern Jazz, Improvisation, zeitgenössische Musik und Theatermusik sucht er nach neuen Wegen, Klang zu entwickeln, zu konstruieren und in einem situativen Kontext zu performen, ohne dabei auf Stereotypen traditioneller Musikkonzepte zurückzugreifen. 2019 erhielt er in Münster den Westfalen-Jazz-Preis verliehen.Besetzung:Rieko Okuda – Klavier Florian Walter – Tubax & Altsaxophon",
+        "link": "https://rausgegangen.de/en/events/ohio-valley-wrestling-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/oEV2M9GYRzq7DvcLgrMi_ohiovallerycarneschramm.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Sun, 01.03.2026",
@@ -4245,6 +4235,16 @@
         "link": "https://rausgegangen.de/en/events/brothers-of-metal-3/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/NQj5Kf07QAK8ZPc3yyDT_blporp05george-grigoriadis.jpg?width=1200&height=900&mode=crop",
         "city": "Bremen"
+    },
+    {
+        "date": "Sun, 01.03.2026",
+        "time": "17:00",
+        "event": "Tamerlano e Bejazet - ein Barockes Pasticcio (@Mozartsaal Liederhalle Stuttgart)",
+        "category": "",
+        "description": "Als Künstlerischer Leiter der Internationalen Händel-Akademie setzt Jörg Halubek 2026 ein besonderes Projekt um:Gemeinsam mit jungen Sänger:innen und Instrumentalist:innen entsteht auf Basis des Librettos Tamerlano (Agostino Piovene, 1711) eine neue Pasticcio-Oper – historisch inspiriert, individuell geformt. Die Auswahl der Sänger:innen erfolgt nach Auditions im Herbst 2025. Begleitet werden die jungen Talente von Mitgliedern il Gusto Baroccos wie Eva Saladin (Konzertmeisterin) und Jonathan Pešek (Violoncello). Unter der wissenschaftlichen Anleitung von Prof. Dr. Thomas Seedorf erarbeiten die Teilnehmenden die musikalische Fassung des Pasticcios selbst. Tamerlano e Bajazet ist ein Kooperationsprojekt der Internationalen Händel-Akademie Karlsruhe und il Gusto Barocco. Gefördert durch Mittel der Baden-Württemberg-Stiftung, des Landes Baden-Württemberg, der Stadt Karlsruhe und der Händel-Gesellschaft Karlsruhe. Konzertdauer ca. 120 Minuten inklusive einer Pause Solist:innen und Orchester der Internationalen Händel-Akademie KarlsruheEva Saladin | KonzertmeisterinJonathan Pešek | CelloJörg Halubek | musikalische Leitung Infos unter: https://www.ilgustobarocco.de/event/tamerlano-e-bajazet/Tickets unter: https://il-gusto-barocco.reservix.de/p/reservix/event/2445344",
+        "link": "https://rausgegangen.de/en/events/tamerlano-e-bejazet-ein-barockes-pasticcio-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/szXxYCJoRn9sPXly8fHI_monteverdiorchester-65-von-67.jpeg?width=1200&height=900&mode=crop",
+        "city": "Stuttgart"
     },
     {
         "date": "Sun, 01.03.2026",
@@ -4612,16 +4612,6 @@
     },
     {
         "date": "Tue, 03.03.2026",
-        "time": "20:00",
-        "event": "LINA - MELODRAMA TOUR 2026 (@Im Wizemann – Halle)",
-        "category": "",
-        "description": "Neuanfang mit Haltung: LINA lässt Erfolge hinter sich, um ihrer Intuition zu folgen – radikal ehrlich, emotional nah und musikalisch kompromisslos.",
-        "link": "https://rausgegangen.de/en/events/lina-melodrama-tour-2026-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/rmHcE9j5TciL8mEq64LH_003919170009srgbhighres.jpg?width=1200&height=900&mode=crop",
-        "city": "Stuttgart"
-    },
-    {
-        "date": "Tue, 03.03.2026",
         "time": "19:00",
         "event": "QUIZTRONAUTEN - Quiz im Viertel (@Fehrfeld)",
         "category": "",
@@ -4629,6 +4619,16 @@
         "link": "https://rausgegangen.de/en/events/quiztronauten-quiz-im-viertel-2/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/YChQhXiBR7KcngVhNlLl_rausgegangen-fomo-titel-16.png?width=1200&height=900&mode=crop",
         "city": "Bremen"
+    },
+    {
+        "date": "Tue, 03.03.2026",
+        "time": "20:00",
+        "event": "LINA - MELODRAMA TOUR 2026 (@Im Wizemann – Halle)",
+        "category": "",
+        "description": "Neuanfang mit Haltung: LINA lässt Erfolge hinter sich, um ihrer Intuition zu folgen – radikal ehrlich, emotional nah und musikalisch kompromisslos.",
+        "link": "https://rausgegangen.de/en/events/lina-melodrama-tour-2026-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/rmHcE9j5TciL8mEq64LH_003919170009srgbhighres.jpg?width=1200&height=900&mode=crop",
+        "city": "Stuttgart"
     },
     {
         "date": "Tue, 03.03.2026",
@@ -4739,16 +4739,6 @@
     },
     {
         "date": "Wed, 04.03.2026",
-        "time": "22:00",
-        "event": "MiDi w/ b2blond & AKEËM (@GrooveStation)",
-        "category": "",
-        "description": "b2blond [Groove, Pop, Bounce, Techno, Trance] AKEËM [Techno, Funk , Hip-Hop, House]  --  Mit einem limitierten Early-Bird-Ticket ist dir der Zutritt bei großem Andrang garantiert und du kannst an einer möglichen Schlange vorbeischlendern.  --  In Zeiten der rasenden Auflösung der Normalarbeit ist die Woche kaum noch mehr, als ein zahnloser Biber, der an unserem Grundbedürfnis nach Zerstreuung lutscht. midi ist die Pionierpflanze auf dem Geröllfeld, das die Trümmer der Arbeitswoche bilden. midi ist Feiertag. midi ist Werktag. midi ist das egal. midi ist deine Afterhour. midi ist dein Start ins Wochenende. midi ist das egal! midi ist Afterwork für Beschäftigungslose. midi ist Sabbat für Selbstständige. midi ist das egal. midi ist Freizeit ist Arbeit ist midi. midi ist Mittwochsdisko, alle zwei Wochen in der GrooveStation, alles andere ist midi egal.  --  MiDi is a bi-weekly party at GrooveStation Dresden with a surprising DJ line-up. Residents are Alphonsine Koh, Acid Adams, Carotin, DJ HDL<3, Flexible Heart, Marcel Koar and Kate xR (former Rob/nson).",
-        "link": "https://rausgegangen.de/en/events/midi-w-b2blond-akeem-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/yDWGG8ASoyN5TxZkuaRg_1920x1080midi260304.jpg?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Wed, 04.03.2026",
         "time": "19:00",
         "event": "Geheimkonzert Frankfurt #6 by Rausgegangen (@Zoom Frankfurt)",
         "category": "",
@@ -4789,23 +4779,13 @@
     },
     {
         "date": "Wed, 04.03.2026",
-        "time": "20:30",
-        "event": "ANDRÉ WEISS QUARTET feat. Denis Gäbel (@Bixx Jazzclub)",
+        "time": "22:00",
+        "event": "MiDi w/ b2blond & AKEËM (@GrooveStation)",
         "category": "",
-        "description": "„Ein Pianist macht Menschen glücklich!“ (Vinylfan)Diese Worte bringen auf den Punkt, was André Weiss verfolgt, sobald er die Bühne betritt. Seine mitreißende Spielfreude wirkt ansteckend, und seine musikalischen wie technischen Fertigkeiten sorgen immer wieder für Staunen. Im BIX Jazzclub, seinem Heimatclub, stand er bereits an der Seite von Weltgrößen wie Ralph Moore, Eric Alexander, Scott Hamilton und Grant Stewart auf der Bühne.Special Guest des Abends ist Denis Gäbel: Der Saxophonist, der 2022 das Erbe von Tony Lakatos in der HR-Bigband antrat, zählt längst zu den Schwergewichten des Jazz in Deutschland. Komplettiert wird die Band durch Joel Locher am Bass und Johannes Hamm am Schlagzeug, die ihr Können im BIX bereits bei zahlreichen Gelegenheiten eindrucksvoll unter Beweis gestellt haben.Gemeinsam bilden die vier Musiker ein junges Quartett voller Energie und Spielfreude, das vom ersten Ton an Spannung erzeugt. Auf dem Programm stehen ausgewählte Standards aus dem American Songbook sowie eigene Kompositionen.Besetzung: Denis Gäbel (sax); André Weiss (p); Joel Locher (b); Johannes Hamm (dr)Website: www.andreweissjazz.com",
-        "link": "https://rausgegangen.de/en/events/andre-weiss-quartet-feat-denis-gabel-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/reas72ISSy6QPfzzhEbA_260304bixawq-11920x1080px.jpg?width=1200&height=900&mode=crop",
-        "city": "Stuttgart"
-    },
-    {
-        "date": "Wed, 04.03.2026",
-        "time": "19:00",
-        "event": "Lesung mit Dirk Bernemann (@Banditen wie wir)",
-        "category": "",
-        "description": "Lesung mit Dirk BernemannSchon zum zweiten Malk ist Dirk Bernemann bei uns zu Gast. Dieses Mal hat er sein neues Buch \"Gromzell\" dabei. Zum Buch: Gromzell ist eine Roman,  der versucht, die komplette Bandbreite unserer unberechenbaren Existenz abzubilden. Wenn der Mensch sich mit der Natur anlegt, hat das immer Konsequenzen. Kein Charakter in diesem Buch ist ausschließlich redlich, wohlwollend  oder nur ruchlos, brutal und stumpf, sondern alles spielt sich in den zwischenmenschlichen Räumen ab. Je nachdem, was anliegt. Das Buch bildet die gesamte herzliche Komödie und die gesamte fehlerhafte Tragödie des menschlichen Lebens und konsequenterweise auch des Sterbens ab. Schwerpunkt Sterben.   Zum Autor: Dirk Bernemann, geboren vor Kurzem im westlichen Münsterland, schreibt Romane, Kurzgeschichten und Theaterstücke, notfalls sogar Lyrik. 2005 erschien sein erstes Buch mit dem Titel \"Ich hab die Unschuld kotzen sehen\", seitdem folgten über 10 weitere Romane und Kurzgeschichtenbände. Bernemann lebt und arbeitet in Berlin und Gromzell. Mittwoch, 04.03.2026Einlass 19:00 Uhr | Beginn ca. 19:30 UhrTickets 10€ + Verkaufsgebühr | Abendkasse 15€Wir freuen uns auf euch!",
-        "link": "https://rausgegangen.de/en/events/lesung-mit-dirk-bernemann-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/G8nRKjlFRa2EAlRjF7me_dirk-foto-rausgegenagen.jpeg?width=1200&height=900&mode=crop",
-        "city": "Essen"
+        "description": "b2blond [Groove, Pop, Bounce, Techno, Trance] AKEËM [Techno, Funk , Hip-Hop, House]  --  Mit einem limitierten Early-Bird-Ticket ist dir der Zutritt bei großem Andrang garantiert und du kannst an einer möglichen Schlange vorbeischlendern.  --  In Zeiten der rasenden Auflösung der Normalarbeit ist die Woche kaum noch mehr, als ein zahnloser Biber, der an unserem Grundbedürfnis nach Zerstreuung lutscht. midi ist die Pionierpflanze auf dem Geröllfeld, das die Trümmer der Arbeitswoche bilden. midi ist Feiertag. midi ist Werktag. midi ist das egal. midi ist deine Afterhour. midi ist dein Start ins Wochenende. midi ist das egal! midi ist Afterwork für Beschäftigungslose. midi ist Sabbat für Selbstständige. midi ist das egal. midi ist Freizeit ist Arbeit ist midi. midi ist Mittwochsdisko, alle zwei Wochen in der GrooveStation, alles andere ist midi egal.  --  MiDi is a bi-weekly party at GrooveStation Dresden with a surprising DJ line-up. Residents are Alphonsine Koh, Acid Adams, Carotin, DJ HDL<3, Flexible Heart, Marcel Koar and Kate xR (former Rob/nson).",
+        "link": "https://rausgegangen.de/en/events/midi-w-b2blond-akeem-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/yDWGG8ASoyN5TxZkuaRg_1920x1080midi260304.jpg?width=1200&height=900&mode=crop",
+        "city": "Dresden"
     },
     {
         "date": "Wed, 04.03.2026",
@@ -4846,6 +4826,26 @@
         "link": "https://rausgegangen.de/en/events/craft-comedy-open-mic-80/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hA71CeTDRDacR2FLb8LE_open-mic-eventbild.png?width=1200&height=900&mode=crop",
         "city": "Bremen"
+    },
+    {
+        "date": "Wed, 04.03.2026",
+        "time": "20:30",
+        "event": "ANDRÉ WEISS QUARTET feat. Denis Gäbel (@Bixx Jazzclub)",
+        "category": "",
+        "description": "„Ein Pianist macht Menschen glücklich!“ (Vinylfan)Diese Worte bringen auf den Punkt, was André Weiss verfolgt, sobald er die Bühne betritt. Seine mitreißende Spielfreude wirkt ansteckend, und seine musikalischen wie technischen Fertigkeiten sorgen immer wieder für Staunen. Im BIX Jazzclub, seinem Heimatclub, stand er bereits an der Seite von Weltgrößen wie Ralph Moore, Eric Alexander, Scott Hamilton und Grant Stewart auf der Bühne.Special Guest des Abends ist Denis Gäbel: Der Saxophonist, der 2022 das Erbe von Tony Lakatos in der HR-Bigband antrat, zählt längst zu den Schwergewichten des Jazz in Deutschland. Komplettiert wird die Band durch Joel Locher am Bass und Johannes Hamm am Schlagzeug, die ihr Können im BIX bereits bei zahlreichen Gelegenheiten eindrucksvoll unter Beweis gestellt haben.Gemeinsam bilden die vier Musiker ein junges Quartett voller Energie und Spielfreude, das vom ersten Ton an Spannung erzeugt. Auf dem Programm stehen ausgewählte Standards aus dem American Songbook sowie eigene Kompositionen.Besetzung: Denis Gäbel (sax); André Weiss (p); Joel Locher (b); Johannes Hamm (dr)Website: www.andreweissjazz.com",
+        "link": "https://rausgegangen.de/en/events/andre-weiss-quartet-feat-denis-gabel-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/reas72ISSy6QPfzzhEbA_260304bixawq-11920x1080px.jpg?width=1200&height=900&mode=crop",
+        "city": "Stuttgart"
+    },
+    {
+        "date": "Wed, 04.03.2026",
+        "time": "19:00",
+        "event": "Lesung mit Dirk Bernemann (@Banditen wie wir)",
+        "category": "",
+        "description": "Lesung mit Dirk BernemannSchon zum zweiten Malk ist Dirk Bernemann bei uns zu Gast. Dieses Mal hat er sein neues Buch \"Gromzell\" dabei. Zum Buch: Gromzell ist eine Roman,  der versucht, die komplette Bandbreite unserer unberechenbaren Existenz abzubilden. Wenn der Mensch sich mit der Natur anlegt, hat das immer Konsequenzen. Kein Charakter in diesem Buch ist ausschließlich redlich, wohlwollend  oder nur ruchlos, brutal und stumpf, sondern alles spielt sich in den zwischenmenschlichen Räumen ab. Je nachdem, was anliegt. Das Buch bildet die gesamte herzliche Komödie und die gesamte fehlerhafte Tragödie des menschlichen Lebens und konsequenterweise auch des Sterbens ab. Schwerpunkt Sterben.   Zum Autor: Dirk Bernemann, geboren vor Kurzem im westlichen Münsterland, schreibt Romane, Kurzgeschichten und Theaterstücke, notfalls sogar Lyrik. 2005 erschien sein erstes Buch mit dem Titel \"Ich hab die Unschuld kotzen sehen\", seitdem folgten über 10 weitere Romane und Kurzgeschichtenbände. Bernemann lebt und arbeitet in Berlin und Gromzell. Mittwoch, 04.03.2026Einlass 19:00 Uhr | Beginn ca. 19:30 UhrTickets 10€ + Verkaufsgebühr | Abendkasse 15€Wir freuen uns auf euch!",
+        "link": "https://rausgegangen.de/en/events/lesung-mit-dirk-bernemann-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/G8nRKjlFRa2EAlRjF7me_dirk-foto-rausgegenagen.jpeg?width=1200&height=900&mode=crop",
+        "city": "Essen"
     },
     {
         "date": "Wed, 04.03.2026",
@@ -4932,16 +4932,6 @@
     {
         "date": "Thu, 05.03.2026",
         "time": "19:00",
-        "event": "Moritz Hohl • \"Schön für dich\" • Live in Dresden 📖 (@Blauer Salon)",
-        "category": "",
-        "description": "Moritz begeistert jeden Abend das Publikum in Berliner Stand Up Comedy Clubs. Könnt ihr wirklich jeden Berliner fragen. Wirklich. Fragt jetzt. Ich warte hier. Habt ihr? Gut.Moritz’ Comedy handelt von skurrilen Dingen, die er erlebt oder sich ausgedacht hat. Kritiker sagen, Moritz’ Humor sei so schwarz wie die Lunge von Helmut Schmidt. Wer sich aufgrund dieses Textes ein Ticket kauft, ist ein Abenteurer oder ein Idiot. Beide sind bei der Comedy Show von Moritz genau richtig.Moritz Hohl ist im Herbst 2025 mit seiner Stand Up Comedy Show „Schön für Dich“ in ganz Deutschland auf Tour.",
-        "link": "https://rausgegangen.de/en/events/moritz-hohl-schon-fur-dich-live-in-dresden-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vide1ZDESxuwYAcD7oaq_csmmoritzhohl2025bearbc09a2b017a.jpg?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Thu, 05.03.2026",
-        "time": "19:00",
         "event": "LOBSTERBOMB OVERSTIMULATED TOUR (@Ponyhof Club FFM)",
         "category": "",
         "description": "Lobsterbomb aus Berlin mischen rohe Energie mit ehrlichen Texten zwischen Frust und Hoffnung. Ihr zweites Album Overstimulated reflektiert mentale Gesundheit und Herzschmerz, live erwartet dich eine intensive Performance, die noch lange nachwirkt 🦦",
@@ -4958,6 +4948,16 @@
         "link": "https://rausgegangen.de/en/events/caffeinated-comedy-english-comedy-community-open-mic-at-paul-11/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RDzalJ6fSISXacM5m9wl_paul-tim-open-mic-2x1.png?width=1200&height=900&mode=crop",
         "city": "Frankfurt"
+    },
+    {
+        "date": "Thu, 05.03.2026",
+        "time": "19:00",
+        "event": "Moritz Hohl • \"Schön für dich\" • Live in Dresden 📖 (@Blauer Salon)",
+        "category": "",
+        "description": "Moritz begeistert jeden Abend das Publikum in Berliner Stand Up Comedy Clubs. Könnt ihr wirklich jeden Berliner fragen. Wirklich. Fragt jetzt. Ich warte hier. Habt ihr? Gut.Moritz’ Comedy handelt von skurrilen Dingen, die er erlebt oder sich ausgedacht hat. Kritiker sagen, Moritz’ Humor sei so schwarz wie die Lunge von Helmut Schmidt. Wer sich aufgrund dieses Textes ein Ticket kauft, ist ein Abenteurer oder ein Idiot. Beide sind bei der Comedy Show von Moritz genau richtig.Moritz Hohl ist im Herbst 2025 mit seiner Stand Up Comedy Show „Schön für Dich“ in ganz Deutschland auf Tour.",
+        "link": "https://rausgegangen.de/en/events/moritz-hohl-schon-fur-dich-live-in-dresden-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vide1ZDESxuwYAcD7oaq_csmmoritzhohl2025bearbc09a2b017a.jpg?width=1200&height=900&mode=crop",
+        "city": "Dresden"
     },
     {
         "date": "Thu, 05.03.2026",
@@ -5049,6 +5049,26 @@
     },
     {
         "date": "Fri, 06.03.2026",
+        "time": "18:30",
+        "event": "COMEDY KITCHEN | English Comedy Open Mic at Francis FFM (@Restaurant Francis)",
+        "category": "",
+        "description": "Welcome to our English Comedy Open Mic at Francis, where we take over their restaurant to serve jokes instead of food!As Francis enriches our city, we are committed to the sustainable development of Frankfurt's stand-up comedians.Our open mics are the fertile ground where local talent can grow and flourish – free from artificial flavor enhancers and censorship, but full of honest punchlines!At Mainzer Landstrasse 27, inside the Holiday Inn Frankfurt - Alte Oper, delicious gastronomy meets a green future. Every Friday, the Open Mic is followed by our English comedy showcase: BEST OF COMEDY! 👑Four experienced comedians present their best material for 75 minutes of heat! No experiments, just pure comedy gold!For more shows, check out our website at www.thecomedycommunity.deAnd for some clips of our comedians, check out our reels, and to see who is on the show that day, check out our stories over at Instagram @the.comedy.communityOur open mics at Francis are usually followed by a showcase at 8.30 pm, where a curated line-up of performers deliver their best material.",
+        "link": "https://rausgegangen.de/en/events/comedy-kitchen-english-comedy-open-mic-at-francis-ffm-4/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7IWR1qBiRC6A2iNvlXFx_francis-om-english-2x1.png?width=1200&height=900&mode=crop",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Fri, 06.03.2026",
+        "time": "23:00",
+        "event": "WICKED RAVE: The Musical & Pop Night // Zoom Frankfurt (@Zoom Frankfurt)",
+        "category": "",
+        "description": "WICKED RAVE in Frankfurt! Sing & tanz zu WICKED-, Broadway- & Pop-Hits auf Englisch. Musical-&-Pop-Party, kein Techno. ✨Am 06.03.2026 wird das Zoom Frankfurt zum Ozdust Ballroom – bei der Musical & Pop Night: WICKED RAVE!Tanze und singe zu den größten WICKED-Hits wie „Popular“, „Defying Gravity“ und „For Good“ – in den englischen Originalversionen. 💚Dazu erwarten dich die heißesten Songs aus Kinky Boots, SIX, Mamma Mia, Moulin Rouge, Heathers, Hamilton, & Juliet uvm. sowie Pop-Hits (u. a. Ariana Grande), die perfekt in die glitzernde Musicalwelt passen.📢 WICKED RAVE ist kein Techno-Rave, sondern eine energiegeladene Musical- & Pop-Mottoparty zum Mitsingen und Feiern.Jetzt Tickets sichern! 🎫 Fr. 06.03.26 // 23:00 // Zoom Frankfurt // 18+InstagramSpotify-Playlist——————————————————On March 06th, 2026, Zoom Frankfurt turns into the Ozdust Ballroom for the Musical & Pop Night: WICKED RAVE! Dance and sing along to the biggest WICKED hits like “Popular”, “Defying Gravity” and “For Good” — all in the original English versions. 💚Expect the hottest songs from Kinky Boots, SIX, Mamma Mia, Moulin Rouge, Heathers, Hamilton, & Juliet and more, plus pop hits (including Ariana Grande) that perfectly fit the glittering musical vibe.📢 WICKED RAVE is not a techno rave, but a high-energy musical & pop themed party made for dancing, singing and celebrating.Get your tickets now! 🎫 Fri. Mar. 06, 2026 // 11 PM // Zoom Frankfurt // 18+",
+        "link": "https://rausgegangen.de/en/events/wicked-rave-the-musical-pop-night-zoom-frankfurt-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6Ye6iqfBTR6Lihgwgtgi_2026-03-06-wr-frankfurt1920px.png?width=1200&height=900&mode=crop",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Fri, 06.03.2026",
         "time": "19:30",
         "event": "DIE HOCHSTAPLER (@BLACK BOX im cuba)",
         "category": "",
@@ -5119,23 +5139,33 @@
     },
     {
         "date": "Fri, 06.03.2026",
-        "time": "18:30",
-        "event": "COMEDY KITCHEN | English Comedy Open Mic at Francis FFM (@Restaurant Francis)",
+        "time": "19:00",
+        "event": "NILS KEPPEL - SUPER SONIC YOUTH (@Kulturzentrum Lagerhaus)",
         "category": "",
-        "description": "Welcome to our English Comedy Open Mic at Francis, where we take over their restaurant to serve jokes instead of food!As Francis enriches our city, we are committed to the sustainable development of Frankfurt's stand-up comedians.Our open mics are the fertile ground where local talent can grow and flourish – free from artificial flavor enhancers and censorship, but full of honest punchlines!At Mainzer Landstrasse 27, inside the Holiday Inn Frankfurt - Alte Oper, delicious gastronomy meets a green future. Every Friday, the Open Mic is followed by our English comedy showcase: BEST OF COMEDY! 👑Four experienced comedians present their best material for 75 minutes of heat! No experiments, just pure comedy gold!For more shows, check out our website at www.thecomedycommunity.deAnd for some clips of our comedians, check out our reels, and to see who is on the show that day, check out our stories over at Instagram @the.comedy.communityOur open mics at Francis are usually followed by a showcase at 8.30 pm, where a curated line-up of performers deliver their best material.",
-        "link": "https://rausgegangen.de/en/events/comedy-kitchen-english-comedy-open-mic-at-francis-ffm-4/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7IWR1qBiRC6A2iNvlXFx_francis-om-english-2x1.png?width=1200&height=900&mode=crop",
-        "city": "Frankfurt"
+        "description": "Nils Keppel verbindet auf seinem Debüt „Super Sonic Youth“ rohe Indie-Riffs mit einem pulsierenden Geist der Jugend, die sich gegen die Zeit stellt. Seine anstehende Tour verspricht intensive Nächte voller kraftvoller Musik und echter Momente, fernab von kalkulierter Perfektion 🤩",
+        "link": "https://rausgegangen.de/en/events/nils-keppel-super-sonic-youth-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/HS4LdZA9ThOiNuJUpVZz_02nilskeppeldan-trautwein.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Fri, 06.03.2026",
-        "time": "23:00",
-        "event": "WICKED RAVE: The Musical & Pop Night // Zoom Frankfurt (@Zoom Frankfurt)",
+        "time": "19:00",
+        "event": "QUIZTRONAUTEN - Quiz in Walle (@Für Elise Kaffeebar)",
         "category": "",
-        "description": "WICKED RAVE in Frankfurt! Sing & tanz zu WICKED-, Broadway- & Pop-Hits auf Englisch. Musical-&-Pop-Party, kein Techno. ✨Am 06.03.2026 wird das Zoom Frankfurt zum Ozdust Ballroom – bei der Musical & Pop Night: WICKED RAVE!Tanze und singe zu den größten WICKED-Hits wie „Popular“, „Defying Gravity“ und „For Good“ – in den englischen Originalversionen. 💚Dazu erwarten dich die heißesten Songs aus Kinky Boots, SIX, Mamma Mia, Moulin Rouge, Heathers, Hamilton, & Juliet uvm. sowie Pop-Hits (u. a. Ariana Grande), die perfekt in die glitzernde Musicalwelt passen.📢 WICKED RAVE ist kein Techno-Rave, sondern eine energiegeladene Musical- & Pop-Mottoparty zum Mitsingen und Feiern.Jetzt Tickets sichern! 🎫 Fr. 06.03.26 // 23:00 // Zoom Frankfurt // 18+InstagramSpotify-Playlist——————————————————On March 06th, 2026, Zoom Frankfurt turns into the Ozdust Ballroom for the Musical & Pop Night: WICKED RAVE! Dance and sing along to the biggest WICKED hits like “Popular”, “Defying Gravity” and “For Good” — all in the original English versions. 💚Expect the hottest songs from Kinky Boots, SIX, Mamma Mia, Moulin Rouge, Heathers, Hamilton, & Juliet and more, plus pop hits (including Ariana Grande) that perfectly fit the glittering musical vibe.📢 WICKED RAVE is not a techno rave, but a high-energy musical & pop themed party made for dancing, singing and celebrating.Get your tickets now! 🎫 Fri. Mar. 06, 2026 // 11 PM // Zoom Frankfurt // 18+",
-        "link": "https://rausgegangen.de/en/events/wicked-rave-the-musical-pop-night-zoom-frankfurt-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6Ye6iqfBTR6Lihgwgtgi_2026-03-06-wr-frankfurt1920px.png?width=1200&height=900&mode=crop",
-        "city": "Frankfurt"
+        "description": "Seid ihr die klügste Quiz-Crew Bremens?Schnappt euch eure Crew aus max. 6 Personen, ladet eure Handys auf und hebt ab zu einer intergalaktischen Quizmission!  Gemeinsam rätselt, kombiniert und knobelt ihr euch durch kuriose Fragen, kreative Bildercodes und galaktische Aufgaben - alles direkt auf dem Smartphone. Kein Stress, kein Zettelchaos, kein endloses Auszählen. Bei uns läuft alles digital, und ihr werdet staunen, wie kurzweilig und trotzdem lehrreich ein Quiz sein kann.  Ein Teil der Fragen führt euch quer durch Bremen - mit Geschichten, Fun Facts und kuriosen Ecken. Für Bremer*innen gibt's Neues zum Staunen und für Tourist*innen die Stadtführung gleich gratis dazu.  Bei jedem Quiz gibt es tolle Preise zu gewinnen - und wer wiederkommt, hat im bremenweiten Ranking sogar die Chance auf einen ganz besonderen Hauptgewinn, den man nicht kaufen kann: Eine Exklusive Rathaus-Führung mit Zugang zum Dach!  Erlebt das modernste Quiz-Format Bremens - interaktiv, kreativ und voller Überraschungen. Und wer weiß - vielleicht seid ihr bald die klügste Quiz-Crew Bremens!---Auf der Website der Quiztronauten und auf Instagram findest du alle Infos. Schon überzeugt? Auf unserer eigenen Ticketseite gibt es Gruppentickets für deine ganze Crew. Alternativ kannst du Einzeltickets hier auf rausgegangen.de kaufen oder spontan zur Abendkasse kommen (regulär 10 € / ermäßigt 5 €)!",
+        "link": "https://rausgegangen.de/en/events/quiztronauten-quiz-in-walle-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bClnI6XKRVqrykD0hZIN_rausgegangen-fomo-titel-16.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Fri, 06.03.2026",
+        "time": "22:00",
+        "event": "ROCK! (@Shagall Klub)",
+        "category": "",
+        "description": "ROCK COMEBACK IM SHAGALL! PART5Freut euch auf eine Nacht voller Rock, Alternative & Hardrock – genau wie früher. Authentisch, laut, schweißtreibend! Datum: Freitag, 6. MÄRZ  Start: Ab 22:00 Uhr  Einlass: Ab 21 Jahren  Ort: Shagall Bremen Werde Teil der exklusiven Shagall VIP-WhatsApp-Gruppe und sichere dir Vorteile, Aktionen & Gästelistenplätze! Tritt jetzt bei über den Link in Gruppe ein!https://chat.whatsapp.com/IOvB03NjB7z4ZbAmTZ9osDEINTRITT 10€",
+        "link": "https://rausgegangen.de/en/events/rock-1403/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TTw3JuTbRr2jiuNwCFfR_orange-battle-of-the-bands-contest-poster-2-5.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Fri, 06.03.2026",
@@ -5166,36 +5196,6 @@
         "link": "https://rausgegangen.de/en/events/la-casa-del-perreo-i-schraglage-i-stuttgart-14/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/xnQMhkB6QWy2U5Sn1OAw_ilustracionsintitulo-1-14.png?width=1200&height=900&mode=crop",
         "city": "Stuttgart"
-    },
-    {
-        "date": "Fri, 06.03.2026",
-        "time": "19:00",
-        "event": "NILS KEPPEL - SUPER SONIC YOUTH (@Kulturzentrum Lagerhaus)",
-        "category": "",
-        "description": "Nils Keppel verbindet auf seinem Debüt „Super Sonic Youth“ rohe Indie-Riffs mit einem pulsierenden Geist der Jugend, die sich gegen die Zeit stellt. Seine anstehende Tour verspricht intensive Nächte voller kraftvoller Musik und echter Momente, fernab von kalkulierter Perfektion 🤩",
-        "link": "https://rausgegangen.de/en/events/nils-keppel-super-sonic-youth-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/HS4LdZA9ThOiNuJUpVZz_02nilskeppeldan-trautwein.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Fri, 06.03.2026",
-        "time": "19:00",
-        "event": "QUIZTRONAUTEN - Quiz in Walle (@Für Elise Kaffeebar)",
-        "category": "",
-        "description": "Seid ihr die klügste Quiz-Crew Bremens?Schnappt euch eure Crew aus max. 6 Personen, ladet eure Handys auf und hebt ab zu einer intergalaktischen Quizmission!  Gemeinsam rätselt, kombiniert und knobelt ihr euch durch kuriose Fragen, kreative Bildercodes und galaktische Aufgaben - alles direkt auf dem Smartphone. Kein Stress, kein Zettelchaos, kein endloses Auszählen. Bei uns läuft alles digital, und ihr werdet staunen, wie kurzweilig und trotzdem lehrreich ein Quiz sein kann.  Ein Teil der Fragen führt euch quer durch Bremen - mit Geschichten, Fun Facts und kuriosen Ecken. Für Bremer*innen gibt's Neues zum Staunen und für Tourist*innen die Stadtführung gleich gratis dazu.  Bei jedem Quiz gibt es tolle Preise zu gewinnen - und wer wiederkommt, hat im bremenweiten Ranking sogar die Chance auf einen ganz besonderen Hauptgewinn, den man nicht kaufen kann: Eine Exklusive Rathaus-Führung mit Zugang zum Dach!  Erlebt das modernste Quiz-Format Bremens - interaktiv, kreativ und voller Überraschungen. Und wer weiß - vielleicht seid ihr bald die klügste Quiz-Crew Bremens!---Auf der Website der Quiztronauten und auf Instagram findest du alle Infos. Schon überzeugt? Auf unserer eigenen Ticketseite gibt es Gruppentickets für deine ganze Crew. Alternativ kannst du Einzeltickets hier auf rausgegangen.de kaufen oder spontan zur Abendkasse kommen (regulär 10 € / ermäßigt 5 €)!",
-        "link": "https://rausgegangen.de/en/events/quiztronauten-quiz-in-walle-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bClnI6XKRVqrykD0hZIN_rausgegangen-fomo-titel-16.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Fri, 06.03.2026",
-        "time": "22:00",
-        "event": "ROCK! (@Shagall Klub)",
-        "category": "",
-        "description": "ROCK COMEBACK IM SHAGALL! PART5Freut euch auf eine Nacht voller Rock, Alternative & Hardrock – genau wie früher. Authentisch, laut, schweißtreibend! Datum: Freitag, 6. MÄRZ  Start: Ab 22:00 Uhr  Einlass: Ab 21 Jahren  Ort: Shagall Bremen Werde Teil der exklusiven Shagall VIP-WhatsApp-Gruppe und sichere dir Vorteile, Aktionen & Gästelistenplätze! Tritt jetzt bei über den Link in Gruppe ein!https://chat.whatsapp.com/IOvB03NjB7z4ZbAmTZ9osDEINTRITT 10€",
-        "link": "https://rausgegangen.de/en/events/rock-1403/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TTw3JuTbRr2jiuNwCFfR_orange-battle-of-the-bands-contest-poster-2-5.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
     },
     {
         "date": "Fri, 06.03.2026",
@@ -5314,6 +5314,14 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Sa, 07.03",
+        "time": "23:00",
+        "event": "SA • GIRLS NIGHT OUT • RAUM2 : BOOTY BOUNCE – SONDERVERANSTALTUNG (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-girls-night-out-raum2-booty-bounce-sonderveranstaltung-3/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/01/20260307_GirlsNightOut_4zu5.jpg"
+    },
+    {
         "date": "Sat, 07.03",
         "time": "19:00",
         "event": "Mutti tanzt! (@stereobielefeld)",
@@ -5323,17 +5331,19 @@
     },
     {
         "date": "Sa, 07.03",
-        "time": "23:00",
-        "event": "SA • GIRLS NIGHT OUT • RAUM2 : BOOTY BOUNCE – SONDERVERANSTALTUNG (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-girls-night-out-raum2-booty-bounce-sonderveranstaltung-3/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/01/20260307_GirlsNightOut_4zu5.jpg"
-    },
-    {
-        "date": "Sa, 07.03",
         "event": "VIVID Indie (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/vivid-indie/",
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
+    },
+    {
+        "date": "Sat, 07.03.2026",
+        "time": "22:00",
+        "event": "HUDCON • The Heated Rivalry Night • Zoom Frankfurt (@Zoom Frankfurt)",
+        "category": "",
+        "description": "Bei HUDCON triffst du auf knisternde Fanenergie und ikonische Visuals aus Heated Rivalry, untermalt von queeren Popklassikern, die die Nacht lebendig halten. Freu dich auf eine Veranstaltung, die Fans in eine ganz besondere Atmosphäre eintauchen lässt 🪩",
+        "link": "https://rausgegangen.de/en/events/hudcon-the-heated-rivalry-night-zoom-frankfurt-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/VJ8W57iTNoF4xZYNoeQd_2026-03-07-hudcon-frankfurt-header.png?width=1200&height=900&mode=crop",
+        "city": "Frankfurt"
     },
     {
         "date": "Sat, 07.03.2026",
@@ -5377,13 +5387,33 @@
     },
     {
         "date": "Sat, 07.03.2026",
-        "time": "22:00",
-        "event": "HUDCON • The Heated Rivalry Night • Zoom Frankfurt (@Zoom Frankfurt)",
+        "time": "19:00",
+        "event": "QUIZTRONAUTEN - Quiz in der Neustadt (@bali'ku)",
         "category": "",
-        "description": "Bei HUDCON triffst du auf knisternde Fanenergie und ikonische Visuals aus Heated Rivalry, untermalt von queeren Popklassikern, die die Nacht lebendig halten. Freu dich auf eine Veranstaltung, die Fans in eine ganz besondere Atmosphäre eintauchen lässt 🪩",
-        "link": "https://rausgegangen.de/en/events/hudcon-the-heated-rivalry-night-zoom-frankfurt-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/VJ8W57iTNoF4xZYNoeQd_2026-03-07-hudcon-frankfurt-header.png?width=1200&height=900&mode=crop",
-        "city": "Frankfurt"
+        "description": "Seid ihr die klügste Quiz-Crew Bremens?Schnappt euch eure Crew aus max. 6 Personen, ladet eure Handys auf und hebt ab zu einer intergalaktischen Quizmission!  Gemeinsam rätselt, kombiniert und knobelt ihr euch durch kuriose Fragen, kreative Bildercodes und galaktische Aufgaben - alles direkt auf dem Smartphone. Kein Stress, kein Zettelchaos, kein endloses Auszählen. Bei uns läuft alles digital, und ihr werdet staunen, wie kurzweilig und trotzdem lehrreich ein Quiz sein kann.  Ein Teil der Fragen führt euch quer durch Bremen - mit Geschichten, Fun Facts und kuriosen Ecken. Für Bremer*innen gibt's Neues zum Staunen und für Tourist*innen die Stadtführung gleich gratis dazu.  Bei jedem Quiz gibt es tolle Preise zu gewinnen - und wer wiederkommt, hat im bremenweiten Ranking sogar die Chance auf einen ganz besonderen Hauptgewinn, den man nicht kaufen kann: Eine Exklusive Rathaus-Führung mit Zugang zum Dach!  Erlebt das modernste Quiz-Format Bremens - interaktiv, kreativ und voller Überraschungen. Und wer weiß - vielleicht seid ihr bald die klügste Quiz-Crew Bremens!---Auf der Website der Quiztronauten und auf Instagram findest du alle Infos. Schon überzeugt? Auf unserer eigenen Ticketseite gibt es Gruppentickets für deine ganze Crew. Alternativ kannst du Einzeltickets hier auf rausgegangen.de kaufen oder spontan zur Abendkasse kommen (regulär 10 € / ermäßigt 5 €)!",
+        "link": "https://rausgegangen.de/en/events/quiztronauten-quiz-in-der-neustadt-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/N9v6ys3iQfaibRS1A3lc_rausgegangen-fomo-titel-16.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Sat, 07.03.2026",
+        "time": "19:30",
+        "event": "Poetry & Hip-Hop Bremen (@Schaulust Bremen)",
+        "category": "",
+        "description": "Hier findest du Spoken-Word-Künstler:innen und Rapper:innen, die mit kraftvollen Texten und vielfältigen Perspektiven Poesie und Hip-Hop miteinander verweben. Es erwarten dich persönliche und politische Geschichten, mal leise, mal laut, die direkt aus dem Leben erzählen 🫶",
+        "link": "https://rausgegangen.de/en/events/poetry-hip-hop-bremen-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/MrG4YGWeTHqcMnpnrbH2_poetry-hiphop-bremen.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Sat, 07.03.2026",
+        "time": "23:00",
+        "event": "GAYKISS CLUBBING (@Shagall Klub)",
+        "category": "",
+        "description": "🌈 GAYKISS CLUBBING BREMEN 🌈 For LGBTQIA+ & Friends  📍 Shagall Klub Bremen 📌 Rembertring 4 🗓 Samstag, 07. März 🕚 Einlass ab 23:00 Uhr | 18+ 💋 Love, Beats & Pride 💋  Gaykiss Clubbing lädt euch ein zu einer intensiven Clubnacht voller Nähe, Freiheit und elektrisierender Vibes. Wo Blicke sich treffen, Beats verbinden und Liebe sichtbar wird. Ein Raum, in dem jede*r willkommen ist – genauso, wie man ist.  Seit 2016 steht Gaykiss Clubbing in Bremen für einen sicheren Ort für die LGBTQIA+ Community und Friends.  Mehr als nur eine Party – ein Statement für Vielfalt, Respekt und Zusammenhalt.  🌈✨ 🎧 LINE-UP 🔥 DJ Denny D. 🔥 DJ Ceed  🎶 MUSIC STYLES Pride Pop • Gayhouse • Tech Pop  Treibende Beats, emotionale Vocals und energiegeladene Club-Sounds für lange Nächte und volle Tanzflächen.  🥂 SPECIALS 💖 Free Welcome Shot von Mister Kiss 👑 Drag Queens Special Freier Eintritt die ganze Nacht + Prosecco for free  💸 EINTRITT Vor 00:00 Uhr: 12 € Ab 00:00 Uhr: 15 €  🎉 GAYKISS CLUBBING – SEIT 2016  Aus Liebe zur Community entstanden und über Jahre gewachsen – Gaykiss ist ein Ort zum Feiern, Küssen, Tanzen und Loslassen.  🚛🌈 ANKÜNDIGUNG: XXL CSD JUBILÄUMS-TRUCK 🌈🚛 2026 gehen wir nocheinen Schritt weiter: Zum großen Gaykiss Jubiläum sind wir beim CSD mit einem XXL Truck am Start – größer, lauter und sichtbarer als je zuvor. Mehr Sound, mehr Liebe, mehr Pride. 🔥💋  🎟 VORVERKAUF Der Online-Vorverkauf startet ab April ✨ Early-Bird-Tickets in begrenzter Stückzahl – schnell sein lohnt sich!  📸 HINWEIS ZU FOTOAUFNAHMEN Während der Veranstaltung werden Fotos für Social Media und Promotion gemacht.  Wenn ihr nicht fotografiert werden möchtet, sprecht bitte direkt den Fotografen vor Ort an.  💋 COME AS YOU ARE. ❤️ LOVE WHO YOU LOVE. 💃 DANCE ALL NIGHT.  GAYKISS CLUBBING BREMEN",
+        "link": "https://rausgegangen.de/en/events/gaykiss-clubbing-22/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fvPfKFIESNeeynsNLa0v_soul-rave-edm-party-instagram-story-ad-10.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Sat, 07.03.2026",
@@ -5414,36 +5444,6 @@
         "link": "https://rausgegangen.de/en/events/102-boyz-asozial-allstars-royal-rumble-4/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zB1wDjdaQLuCmscRsdmc_102boyzceinvietnamese.JPG?width=1200&height=900&mode=crop",
         "city": "Essen"
-    },
-    {
-        "date": "Sat, 07.03.2026",
-        "time": "19:00",
-        "event": "QUIZTRONAUTEN - Quiz in der Neustadt (@bali'ku)",
-        "category": "",
-        "description": "Seid ihr die klügste Quiz-Crew Bremens?Schnappt euch eure Crew aus max. 6 Personen, ladet eure Handys auf und hebt ab zu einer intergalaktischen Quizmission!  Gemeinsam rätselt, kombiniert und knobelt ihr euch durch kuriose Fragen, kreative Bildercodes und galaktische Aufgaben - alles direkt auf dem Smartphone. Kein Stress, kein Zettelchaos, kein endloses Auszählen. Bei uns läuft alles digital, und ihr werdet staunen, wie kurzweilig und trotzdem lehrreich ein Quiz sein kann.  Ein Teil der Fragen führt euch quer durch Bremen - mit Geschichten, Fun Facts und kuriosen Ecken. Für Bremer*innen gibt's Neues zum Staunen und für Tourist*innen die Stadtführung gleich gratis dazu.  Bei jedem Quiz gibt es tolle Preise zu gewinnen - und wer wiederkommt, hat im bremenweiten Ranking sogar die Chance auf einen ganz besonderen Hauptgewinn, den man nicht kaufen kann: Eine Exklusive Rathaus-Führung mit Zugang zum Dach!  Erlebt das modernste Quiz-Format Bremens - interaktiv, kreativ und voller Überraschungen. Und wer weiß - vielleicht seid ihr bald die klügste Quiz-Crew Bremens!---Auf der Website der Quiztronauten und auf Instagram findest du alle Infos. Schon überzeugt? Auf unserer eigenen Ticketseite gibt es Gruppentickets für deine ganze Crew. Alternativ kannst du Einzeltickets hier auf rausgegangen.de kaufen oder spontan zur Abendkasse kommen (regulär 10 € / ermäßigt 5 €)!",
-        "link": "https://rausgegangen.de/en/events/quiztronauten-quiz-in-der-neustadt-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/N9v6ys3iQfaibRS1A3lc_rausgegangen-fomo-titel-16.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Sat, 07.03.2026",
-        "time": "19:30",
-        "event": "Poetry & Hip-Hop Bremen (@Schaulust Bremen)",
-        "category": "",
-        "description": "Hier findest du Spoken-Word-Künstler:innen und Rapper:innen, die mit kraftvollen Texten und vielfältigen Perspektiven Poesie und Hip-Hop miteinander verweben. Es erwarten dich persönliche und politische Geschichten, mal leise, mal laut, die direkt aus dem Leben erzählen 🫶",
-        "link": "https://rausgegangen.de/en/events/poetry-hip-hop-bremen-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/MrG4YGWeTHqcMnpnrbH2_poetry-hiphop-bremen.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Sat, 07.03.2026",
-        "time": "23:00",
-        "event": "GAYKISS CLUBBING (@Shagall Klub)",
-        "category": "",
-        "description": "🌈 GAYKISS CLUBBING BREMEN 🌈 For LGBTQIA+ & Friends  📍 Shagall Klub Bremen 📌 Rembertring 4 🗓 Samstag, 07. März 🕚 Einlass ab 23:00 Uhr | 18+ 💋 Love, Beats & Pride 💋  Gaykiss Clubbing lädt euch ein zu einer intensiven Clubnacht voller Nähe, Freiheit und elektrisierender Vibes. Wo Blicke sich treffen, Beats verbinden und Liebe sichtbar wird. Ein Raum, in dem jede*r willkommen ist – genauso, wie man ist.  Seit 2016 steht Gaykiss Clubbing in Bremen für einen sicheren Ort für die LGBTQIA+ Community und Friends.  Mehr als nur eine Party – ein Statement für Vielfalt, Respekt und Zusammenhalt.  🌈✨ 🎧 LINE-UP 🔥 DJ Denny D. 🔥 DJ Ceed  🎶 MUSIC STYLES Pride Pop • Gayhouse • Tech Pop  Treibende Beats, emotionale Vocals und energiegeladene Club-Sounds für lange Nächte und volle Tanzflächen.  🥂 SPECIALS 💖 Free Welcome Shot von Mister Kiss 👑 Drag Queens Special Freier Eintritt die ganze Nacht + Prosecco for free  💸 EINTRITT Vor 00:00 Uhr: 12 € Ab 00:00 Uhr: 15 €  🎉 GAYKISS CLUBBING – SEIT 2016  Aus Liebe zur Community entstanden und über Jahre gewachsen – Gaykiss ist ein Ort zum Feiern, Küssen, Tanzen und Loslassen.  🚛🌈 ANKÜNDIGUNG: XXL CSD JUBILÄUMS-TRUCK 🌈🚛 2026 gehen wir nocheinen Schritt weiter: Zum großen Gaykiss Jubiläum sind wir beim CSD mit einem XXL Truck am Start – größer, lauter und sichtbarer als je zuvor. Mehr Sound, mehr Liebe, mehr Pride. 🔥💋  🎟 VORVERKAUF Der Online-Vorverkauf startet ab April ✨ Early-Bird-Tickets in begrenzter Stückzahl – schnell sein lohnt sich!  📸 HINWEIS ZU FOTOAUFNAHMEN Während der Veranstaltung werden Fotos für Social Media und Promotion gemacht.  Wenn ihr nicht fotografiert werden möchtet, sprecht bitte direkt den Fotografen vor Ort an.  💋 COME AS YOU ARE. ❤️ LOVE WHO YOU LOVE. 💃 DANCE ALL NIGHT.  GAYKISS CLUBBING BREMEN",
-        "link": "https://rausgegangen.de/en/events/gaykiss-clubbing-22/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fvPfKFIESNeeynsNLa0v_soul-rave-edm-party-instagram-story-ad-10.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
     },
     {
         "date": "Sat, 07.03.2026",
@@ -7168,14 +7168,6 @@
         "link": "https://www.bielefeld.jetzt/node/1593950"
     },
     {
-        "date": "Sat, 28.03",
-        "time": "22:30",
-        "event": "SAMSARA mit NEELIX (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/samsara-mit-neelix-28032026-2230",
-        "image_url": "https://www.club-sams.de/data/202601/samsara_stand_bild_insta_HOMEPAGE_1__150.png?v=1768413317"
-    },
-    {
         "date": "Sa, 28.03.2026",
         "time": "14:00",
         "event": "*TRIBE WANDERSAMSTAG*",
@@ -7222,6 +7214,14 @@
         "category": "Party",
         "link": "https://cafeeuropa.de/event/sa-fruits-of-love/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/02/20260328_Fruits_of_Love_4zu5-1.jpg"
+    },
+    {
+        "date": "Sat, 28.03",
+        "time": "22:30",
+        "event": "SAMSARA mit NEELIX (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/samsara-mit-neelix-28032026-2230",
+        "image_url": "https://www.club-sams.de/data/202601/samsara_stand_bild_insta_HOMEPAGE_1__150.png?v=1768413317"
     },
     {
         "event": "Sarah Bosetti // Make Democracy Great Again(@theaterlaborbielefeld)",
