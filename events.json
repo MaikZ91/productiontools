@@ -8,22 +8,6 @@
         "image_url": "https://www.club-sams.de/data/202602/LOGO_ONLY_pr_setnation_Einladung_Quadrat__150.jpg?v=1772231321"
     },
     {
-        "date": "Fri, 06.03",
-        "time": "23:00",
-        "event": "KLUB MASTER (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/klub-master/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/02/Stereo_06_0326_Feed.jpg"
-    },
-    {
-        "date": "Fri, 06.03",
-        "time": "23:00",
-        "event": "ON A TRIP W/ DJ Tallboy (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/dj-tallboy/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/02/Stereo_06_DJTB_0326_Feed.jpg"
-    },
-    {
         "date": "Fr, 06.03.2026",
         "time": "20:50",
         "event": "Hoppers (@cinemaxx_bielefeld)",
@@ -54,6 +38,22 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fri, 06.03",
+        "time": "23:00",
+        "event": "KLUB MASTER (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/klub-master/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/02/Stereo_06_0326_Feed.jpg"
+    },
+    {
+        "date": "Fri, 06.03",
+        "time": "23:00",
+        "event": "ON A TRIP W/ DJ Tallboy (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/dj-tallboy/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/02/Stereo_06_DJTB_0326_Feed.jpg"
     },
     {
         "date": "Fr, 06.03.2026",
@@ -217,6 +217,16 @@
     },
     {
         "date": "Fri, 06.03.2026",
+        "time": "20:00",
+        "event": "This is Not a Solo (@Landungsbrücken Frankfurt)",
+        "category": "",
+        "description": "Gal Feffermans Solostück „This is Not a Solo“ erforscht, wie sich Austausch und Solidarität zeigen, wenn eine Person ganz allein auf der Bühne steht. Zusammen mit Orla McCarthy entsteht eine Suche nach Verbundenheit und Empowerment jenseits direkter Begegnungen 🤝",
+        "link": "https://rausgegangen.de/en/events/this-is-not-a-solo-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TDC7kLrNSfSpDrUmK82A_img2249.jpeg?width=1200&height=900&mode=crop",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Fri, 06.03.2026",
         "time": "23:00",
         "event": "WICKED RAVE: The Musical & Pop Night // Zoom Frankfurt (@Zoom Frankfurt)",
         "category": "",
@@ -224,56 +234,6 @@
         "link": "https://rausgegangen.de/en/events/wicked-rave-the-musical-pop-night-zoom-frankfurt-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6Ye6iqfBTR6Lihgwgtgi_2026-03-06-wr-frankfurt1920px.png?width=1200&height=900&mode=crop",
         "city": "Frankfurt"
-    },
-    {
-        "date": "Fri, 06.03.2026",
-        "time": "18:00",
-        "event": "Come Dogether: Puzzle & connect (@Toyka's)",
-        "category": "",
-        "description": "Am 6. März kannst du beim Puzzle & Connect Abend ganz in Ruhe ein kleines Puzzle lösen und dabei gemütlich ins Gespräch kommen. Hier geht’s nicht um Tempo oder Wettbewerb, sondern um entspannte Begegnungen und ein bisschen Me-Time in guter Gesellschaft 🙂",
-        "link": "https://rausgegangen.de/en/events/come-dogether-puzzle-connect-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LsNKPfLkQ5SlEy1xJaZQ_walk-82.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Fri, 06.03.2026",
-        "time": "18:00",
-        "event": "Ruhrpott-Carpaccio - DIE Comedy-SHOW mit Fritze (@Schauburg Dortmund)",
-        "category": "",
-        "description": "Fritze serviert mit \"Ruhrpott-Carpaccio\" Comedy, Kabarett und ein bisschen Bildung – alles würzig gemixt und voll Pott-Charme. Wenn du das Ruhrgebiet mal von der anderen Seite kennenlernen willst, ist die Show genau dein Ding 🥂",
-        "link": "https://rausgegangen.de/en/events/ruhrpott-carpaccio-die-comedy-show-mit-fritze-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/0S79kIVrSR2H5V70na7o_ruhrpott-carpaccio-jpe.jpe?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Fri, 06.03.2026",
-        "time": "19:00",
-        "event": "Queer Tresen (@CaféPlus)",
-        "category": "",
-        "description": "Beim Queer Tresen trifft sich die LSBTIAQ-Community zum entspannten Wochenendeinstieg mit viel Raum fürs Kennenlernen und mit Karaoke für alle, die gern mal die Bühne erobern wollen. Hier kannst du mitgestalten und als Ehrenamtliche:r echt was bewegen 🫂",
-        "link": "https://rausgegangen.de/en/events/queer-tresen-26/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ljg2bK2fT8Szr6umr8yg_jeremy-chevallier-dzwizzxishy-unsplash.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Fri, 06.03.2026",
-        "time": "23:00",
-        "event": "SUBSURFACE w/ Vaegent, N-Joy, Xina, Latunix – Hardtechno – Stollen134 (@Stollen134 - Techno Club Dortmund)",
-        "category": "",
-        "description": "Beim SUBSURFACE treffen harte Techno-Klänge von Vaegent, N-Joy, Xina und Latunix auf pulsierende Rave-Energie. Die DJs bringen den Narben des Schranz und Industrial frische Impulse und liefern dir elektronische Nächte zum Dranbleiben 🕺🏽",
-        "link": "https://rausgegangen.de/en/events/subsurface-w-vaegent-n-joy-xina-latunix-hardtechno-stollen13-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/XvpRh1ZWQ9uud3rW7pSO_subs169.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Fri, 06.03.2026",
-        "time": "20:00",
-        "event": "Queerslam Münster (@B-Side)",
-        "category": "",
-        "description": "Beim Queerslam Münster zeigen queere Poet:innen, wie vielseitig das gesprochene Wort sein kann. Zwischen Comedy, Drag und Musik bekommst du echte Überraschungen und feierst eine Gemeinschaft, die zusammen kreativ über Grenzen geht 🤩",
-        "link": "https://rausgegangen.de/en/events/queerslam-munster-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/tZmXMSTFR0i9Ezuf85BG_querslam-2026.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
     },
     {
         "date": "Fri, 06.03.2026",
@@ -337,63 +297,53 @@
     },
     {
         "date": "Fri, 06.03.2026",
-        "time": "15:00",
-        "event": "Eintritt frei im K21 (@K21 / Kunstsammlung NRW)",
+        "time": "18:00",
+        "event": "Come Dogether: Puzzle & connect (@Toyka's)",
         "category": "",
-        "description": "Freitags kannst du zwischen 15 und 18 Uhr kostenfrei im K21 durch die Ausstellung Grund und Boden schlendern. Die Sammlung zeigt spannende Werke in einem Gebäude mit einer besonderen Glaskuppel, die das Erlebnis ganz anders macht und zum Verweilen einlädt🥂",
-        "link": "https://rausgegangen.de/en/events/eintritt-frei-im-k21-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8k99ahZR3yWtMb8CAK6O_unbenannt-2.png?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
+        "description": "Am 6. März kannst du beim Puzzle & Connect Abend ganz in Ruhe ein kleines Puzzle lösen und dabei gemütlich ins Gespräch kommen. Hier geht’s nicht um Tempo oder Wettbewerb, sondern um entspannte Begegnungen und ein bisschen Me-Time in guter Gesellschaft 🙂",
+        "link": "https://rausgegangen.de/en/events/come-dogether-puzzle-connect-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LsNKPfLkQ5SlEy1xJaZQ_walk-82.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Fri, 06.03.2026",
         "time": "18:00",
-        "event": "Community Playdates (@BALLABALLA)",
+        "event": "Ruhrpott-Carpaccio - DIE Comedy-SHOW mit Fritze (@Schauburg Dortmund)",
         "category": "",
-        "description": "Hier findest du entspannte Tischtennisrunden ohne Leistungsdruck, bei denen Anfänger:innen und Fortgeschrittene auf 10 Tischen gemeinsam spielen. Ob Solo, Doppel oder spontanes Turnier, es geht vor allem um den Spaß und neue Kontakte abseits des Alltags 🫂",
-        "link": "https://rausgegangen.de/en/events/community-playdates-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/76FkQ0LvQYuUOsrcMfnH_playdates.png?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Fri, 06.03.2026",
-        "time": "18:00",
-        "event": "01099 - die \"extra aus Dresden angereist\"-Tour (@Mitsubishi Electric HALLE)",
-        "category": "",
-        "description": "Mit ihrem vierten Album Kinder der Nacht und einer Tour im Dezember 2025 laden die Süßmäuse aus Dresden zu unvergesslichen Abenden ein, die keinen Stillstand erlauben. Zwischen softer Poesie und Partyhymnen schaffen sie eine einzigartige Verbindung. WIR SEHEN UNS DA!",
-        "link": "https://rausgegangen.de/en/events/01099-die-extra-aus-dresden-angereist-tour-12/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/tK74KKARHuKghksirvZt_9-16.png?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
+        "description": "Fritze serviert mit \"Ruhrpott-Carpaccio\" Comedy, Kabarett und ein bisschen Bildung – alles würzig gemixt und voll Pott-Charme. Wenn du das Ruhrgebiet mal von der anderen Seite kennenlernen willst, ist die Show genau dein Ding 🥂",
+        "link": "https://rausgegangen.de/en/events/ruhrpott-carpaccio-die-comedy-show-mit-fritze-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/0S79kIVrSR2H5V70na7o_ruhrpott-carpaccio-jpe.jpe?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Fri, 06.03.2026",
         "time": "19:00",
-        "event": "Apollon – Stop tryna be God – waltraud900 (@FFT Düsseldorf)",
+        "event": "Queer Tresen (@CaféPlus)",
         "category": "",
-        "description": "waltraud900 und ein junges Ensemble erkunden in Apollon, wie antike Vorstellungen von Männlichkeit heute noch wirken und neu gedacht werden können. Mit frischen Perspektiven stellt die Produktion die Frage, wie das männliche Erbe zukunftsfähig wird 🫂",
-        "link": "https://rausgegangen.de/en/events/apollon-stop-tryna-be-god-waltraud900-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/AyPV0y1nSYGapTIy7uWX_c-merle-forchmann00005.jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
+        "description": "Beim Queer Tresen trifft sich die LSBTIAQ-Community zum entspannten Wochenendeinstieg mit viel Raum fürs Kennenlernen und mit Karaoke für alle, die gern mal die Bühne erobern wollen. Hier kannst du mitgestalten und als Ehrenamtliche:r echt was bewegen 🫂",
+        "link": "https://rausgegangen.de/en/events/queer-tresen-26/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ljg2bK2fT8Szr6umr8yg_jeremy-chevallier-dzwizzxishy-unsplash.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Fri, 06.03.2026",
-        "time": "21:00",
-        "event": "Indie Freitag Nacht (@Konvex)",
+        "time": "23:00",
+        "event": "SUBSURFACE w/ Vaegent, N-Joy, Xina, Latunix – Hardtechno – Stollen134 (@Stollen134 - Techno Club Dortmund)",
         "category": "",
-        "description": "Wenn du Lust auf Indie-Klassiker und frische Rockhits hast, sind DJ Eser und DJ Knave genau die richtigen Leute für deine Freitagabend-Playlist. Seit fast 20 Jahren bringen sie Britpop, Post-Punk und Indie-Rock auf die Tanzfläche, von Oasis bis Wet Leg Es erwarten dich coole Gitarrenriffs und echte Hymnen 🪩",
-        "link": "https://rausgegangen.de/en/events/indie-freitag-nacht-10/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/U1mVGeynSOKO8ctlL6fK_e6f2bdd0-2c8a-4c13-b975-6f458c5abe2c.png?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
+        "description": "Beim SUBSURFACE treffen harte Techno-Klänge von Vaegent, N-Joy, Xina und Latunix auf pulsierende Rave-Energie. Die DJs bringen den Narben des Schranz und Industrial frische Impulse und liefern dir elektronische Nächte zum Dranbleiben 🕺🏽",
+        "link": "https://rausgegangen.de/en/events/subsurface-w-vaegent-n-joy-xina-latunix-hardtechno-stollen13-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/XvpRh1ZWQ9uud3rW7pSO_subs169.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Fri, 06.03.2026",
-        "time": "22:00",
-        "event": "SLIQ ACT III - DRAG, LEATHER AND LACE (@Giselle)",
+        "time": "20:00",
+        "event": "Queerslam Münster (@B-Side)",
         "category": "",
-        "description": "SLIQ ACT III mischt queer Power mit House und Techno, die Drag Performances von Caya Columna und Amanda Reene bringen viel Persönlichkeit und Style auf die Bühne. Begleitet wird das Ganze von DJs wie Lingy und Pino Noir, deren Sets dich zum Tanzen bringen Es erwartet dich eine Nacht voller Ausdruck und Beats 🪩",
-        "link": "https://rausgegangen.de/en/events/sliq-act-iii-drag-leather-and-lace-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/t3VfKIsgRdaarrtLbbSi_2.png?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
+        "description": "Beim Queerslam Münster zeigen queere Poet:innen, wie vielseitig das gesprochene Wort sein kann. Zwischen Comedy, Drag und Musik bekommst du echte Überraschungen und feierst eine Gemeinschaft, die zusammen kreativ über Grenzen geht 🤩",
+        "link": "https://rausgegangen.de/en/events/queerslam-munster-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/tZmXMSTFR0i9Ezuf85BG_querslam-2026.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Fri, 06.03.2026",
@@ -494,6 +444,76 @@
         "link": "https://rausgegangen.de/en/events/mamagehttanzen-bremen-weltfrauentag-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hHnSrS6gSgWTaYxDyJmf_20260306aladinbremenweltfrauentag.png?width=1200&height=900&mode=crop",
         "city": "Bremen"
+    },
+    {
+        "date": "Fri, 06.03.2026",
+        "time": "20:00",
+        "event": "Zinssou Quartett (@Villa Sponte zeitkultur e.V.)",
+        "category": "",
+        "description": "Das Zinssou Quartett bringt mit Cello und Klavier frische Töne zwischen nordischer Tradition und New Yorker Jazz. Ihre Debüt-EP spiegelt jugendliche Sehnsüchte und einen ungestümen Zugang zur Musik wider. Freu dich auf ein sinnliches Erlebnis, das Körper und Seele trifft 🪩",
+        "link": "https://rausgegangen.de/en/events/zinssou-quartett-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pwEfFO5TVWS3G37Ntfeh_dsc09600-6.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Fri, 06.03.2026",
+        "time": "15:00",
+        "event": "Eintritt frei im K21 (@K21 / Kunstsammlung NRW)",
+        "category": "",
+        "description": "Freitags kannst du zwischen 15 und 18 Uhr kostenfrei im K21 durch die Ausstellung Grund und Boden schlendern. Die Sammlung zeigt spannende Werke in einem Gebäude mit einer besonderen Glaskuppel, die das Erlebnis ganz anders macht und zum Verweilen einlädt🥂",
+        "link": "https://rausgegangen.de/en/events/eintritt-frei-im-k21-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8k99ahZR3yWtMb8CAK6O_unbenannt-2.png?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Fri, 06.03.2026",
+        "time": "18:00",
+        "event": "Community Playdates (@BALLABALLA)",
+        "category": "",
+        "description": "Hier findest du entspannte Tischtennisrunden ohne Leistungsdruck, bei denen Anfänger:innen und Fortgeschrittene auf 10 Tischen gemeinsam spielen. Ob Solo, Doppel oder spontanes Turnier, es geht vor allem um den Spaß und neue Kontakte abseits des Alltags 🫂",
+        "link": "https://rausgegangen.de/en/events/community-playdates-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/76FkQ0LvQYuUOsrcMfnH_playdates.png?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Fri, 06.03.2026",
+        "time": "18:00",
+        "event": "01099 - die \"extra aus Dresden angereist\"-Tour (@Mitsubishi Electric HALLE)",
+        "category": "",
+        "description": "Mit ihrem vierten Album Kinder der Nacht und einer Tour im Dezember 2025 laden die Süßmäuse aus Dresden zu unvergesslichen Abenden ein, die keinen Stillstand erlauben. Zwischen softer Poesie und Partyhymnen schaffen sie eine einzigartige Verbindung. WIR SEHEN UNS DA!",
+        "link": "https://rausgegangen.de/en/events/01099-die-extra-aus-dresden-angereist-tour-12/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/tK74KKARHuKghksirvZt_9-16.png?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Fri, 06.03.2026",
+        "time": "19:00",
+        "event": "Apollon – Stop tryna be God – waltraud900 (@FFT Düsseldorf)",
+        "category": "",
+        "description": "waltraud900 und ein junges Ensemble erkunden in Apollon, wie antike Vorstellungen von Männlichkeit heute noch wirken und neu gedacht werden können. Mit frischen Perspektiven stellt die Produktion die Frage, wie das männliche Erbe zukunftsfähig wird 🫂",
+        "link": "https://rausgegangen.de/en/events/apollon-stop-tryna-be-god-waltraud900-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/AyPV0y1nSYGapTIy7uWX_c-merle-forchmann00005.jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Fri, 06.03.2026",
+        "time": "21:00",
+        "event": "Indie Freitag Nacht (@Konvex)",
+        "category": "",
+        "description": "Wenn du Lust auf Indie-Klassiker und frische Rockhits hast, sind DJ Eser und DJ Knave genau die richtigen Leute für deine Freitagabend-Playlist. Seit fast 20 Jahren bringen sie Britpop, Post-Punk und Indie-Rock auf die Tanzfläche, von Oasis bis Wet Leg Es erwarten dich coole Gitarrenriffs und echte Hymnen 🪩",
+        "link": "https://rausgegangen.de/en/events/indie-freitag-nacht-10/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/U1mVGeynSOKO8ctlL6fK_e6f2bdd0-2c8a-4c13-b975-6f458c5abe2c.png?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Fri, 06.03.2026",
+        "time": "22:00",
+        "event": "SLIQ ACT III - DRAG, LEATHER AND LACE (@Giselle)",
+        "category": "",
+        "description": "SLIQ ACT III mischt queer Power mit House und Techno, die Drag Performances von Caya Columna und Amanda Reene bringen viel Persönlichkeit und Style auf die Bühne. Begleitet wird das Ganze von DJs wie Lingy und Pino Noir, deren Sets dich zum Tanzen bringen Es erwartet dich eine Nacht voller Ausdruck und Beats 🪩",
+        "link": "https://rausgegangen.de/en/events/sliq-act-iii-drag-leather-and-lace-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/t3VfKIsgRdaarrtLbbSi_2.png?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
     },
     {
         "date": "Fri, 06.03.2026",
@@ -808,22 +828,6 @@
         "image_url": "https://www.club-sams.de/data/202602/WMS_MND_Instagram_Post__150.jpg?v=1772231878"
     },
     {
-        "date": "Sat, 07.03",
-        "time": "19:00",
-        "event": "Mutti tanzt! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/mutti-tanzt/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/11/Stereo_07_MT_0326_Feed.jpg"
-    },
-    {
-        "date": "Sat, 07.03",
-        "time": "23:00",
-        "event": "STEREOLOVE (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/stereolove-1/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/02/Stereo_07_0326_Feed.jpg"
-    },
-    {
         "date": "Sa, 07.03.2026",
         "time": "20:50",
         "event": "Hoppers (@cinemaxx_bielefeld)",
@@ -862,6 +866,22 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 07.03",
+        "time": "19:00",
+        "event": "Mutti tanzt! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/mutti-tanzt/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2025/11/Stereo_07_MT_0326_Feed.jpg"
+    },
+    {
+        "date": "Sat, 07.03",
+        "time": "23:00",
+        "event": "STEREOLOVE (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/stereolove-1/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/02/Stereo_07_0326_Feed.jpg"
     },
     {
         "date": "Sa, 07.03.2026",
@@ -964,56 +984,6 @@
         "link": "https://rausgegangen.de/en/events/2000er-2010er-party-batschkapp-frankfurt-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/HxJv8esR42erwUIdXFly_basic200010erpartylogo.png?width=1200&height=900&mode=crop",
         "city": "Frankfurt"
-    },
-    {
-        "date": "Sat, 07.03.2026",
-        "time": "16:00",
-        "event": "The Boogie Brunch #6 w/ FORMAT:B, Juliet Sikora, Flo MRZDK - AN AFTERNOON PARTY WITH TIMELESS ELECTRONIC MUSIC (@BRAUTURM)",
-        "category": "",
-        "description": "Bei The Boogie Brunch erwartet dich eine coole Zeitreise durch drei Jahrzehnte elektronische Sounds, aufgelegt von FORMAT:B und lokalen Acts wie Juliet Sikora. Hier geht’s um echte Verbindungen auf der Tanzfläche und Klassiker, die einfach funktionieren 🪩",
-        "link": "https://rausgegangen.de/en/events/the-boogie-brunch-6-w-formatb-juliet-sikora-flo-mrzdk-an-aft-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/NENaFU1LROeNTuvNZ3pA_boogiebrunch070326fbevent.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 07.03.2026",
-        "time": "18:00",
-        "event": "Ruhrpott-Carpaccio - DIE Comedy-SHOW mit Fritze (@Schauburg Dortmund)",
-        "category": "",
-        "description": "Innet älteste Lichtspieltheater Dortmunds bringt dat Ruhrpott-Unikat Fritze Dich gleich auf Sendung.DIE SHOW is' eine Mischung aus Comedy, Cabaret und Bildungauftrach und wie den Pott selbst:einfach einmalig.﻿Dat Richtige, wennze meins, Du hättes' schon alles gesehen oderwennze Dich getz anne letzte Geheimnisse von diesen Universum ran trauen willz ́. Kommze mitte Kalline, Deine Kollegen oderbringze wacker gleich die gantze Verwandschaft ausse Laubensiedlung mit.",
-        "link": "https://rausgegangen.de/en/events/ruhrpott-carpaccio-die-comedy-show-mit-fritze-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5QnwR4Q9QzyJtdBya0Dz_ruhrpott-carpaccio-jpe.jpe?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 07.03.2026",
-        "time": "21:00",
-        "event": "50 Jahre Tanzcafé (@Oma Doris)",
-        "category": "",
-        "description": "🎉 50 Jahre Tanzcafé – Jubiläum im Oma Doris 🎉 Ein halbes Jahrhundert.Fünf Jahrzehnte Tanzfläche.50 Jahre Ekstase, Begegnungen, Nächte, die man nie vergisst. Am 7.03.2026 ab 21 Uhr feiern wir das, was das Tanzcafé zur Legende gemacht hat: Musik, Gemeinschaft und kompromisslose Liebe zum Clubkultur-Spirit. Seit 1976 ist Oma Doris mehr als nur ein Club – es ist ein Zuhause für Generationen von Tänzer:innen, House-Liebhaber:innen und Nachtschwärmer:innen. Jetzt drehen wir die Zeit auf Anschlag und feiern das goldene Jubiläum mit einem Line-up, das Vergangenheit, Gegenwart und Zukunft auf einer Tanzfläche vereint. 🔊 Line-up – 50 Jahre im Back-to-Back-Modus• Larse b2b Nils Koenig• zuHouse Rocker• Juliet Sikora b2b Adele Be• Beroldson b2b Adi• Robert Fernys b2b Raufaser• Wonka b2b Near Mint Back-to-back bedeutet: keine Kompromisse, keine Pausen – nur Energie, gegenseitiges Pushen und pure Tanzflächen-Magie.  Eine Nacht voller House, Classics, treibender Grooves und emotionaler Momente. Alte Weggefährt:innen treffen auf neue Gesichter. Erinnerungen werden neu geschrieben. Und wie immer gilt: Wer kommt, bleibt. Wer tanzt, gehört dazu.",
-        "link": "https://rausgegangen.de/en/events/50-jahre-tanzcafe-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RSXtLL2YSMqXNmoA0xKB_tanzcafeheader.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 07.03.2026",
-        "time": "23:00",
-        "event": "Nice Up! #143 (@Großmarktschänke)",
-        "category": "",
-        "description": "Die Nice Up! #143 bringt dich mit Ba!Ba!Bad und Blockbuster Soundsystem zurück zu den Wurzeln von Dancehall, Reggae und Afrobeats. Die Crew legt Schicht für Schicht Tracks auf, die die Tanzfläche ganz sicher zum Pulsieren bringen. Schnapp dir deine Lieblingsmenschen und erlebe diesen warmen Soundmix live 🕺🏽",
-        "link": "https://rausgegangen.de/en/events/nice-up-143-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/kxcLXpvoRUSt4rdcKk2x_nice-upbanner-20.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 07.03.2026",
-        "time": "19:00",
-        "event": "Total Hip Replacement (@Hot Jazz Club, Münster)",
-        "category": "",
-        "description": "Total Hip Replacement verbindet Reggae, Soul, Afro und Indie zu einem warmen und ehrlichen Sound, der soziale Themen reflektiert. Nach der Europatournee mit Anyankofo bringen sie ihre neue Musik in die intime Atmosphäre des hansa48 in Kiel. Es erwarten dich lebendige Konzerte voller Energie und Zusammenhalt.",
-        "link": "https://rausgegangen.de/en/events/total-hip-replacement-hot-jazz-club-munster-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/esjfDtRWmlAGg2FWOnig_emilietoldamtotalhip003-2-2.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
     },
     {
         "date": "Sat, 07.03.2026",
@@ -1157,73 +1127,53 @@
     },
     {
         "date": "Sat, 07.03.2026",
-        "time": "10:00",
-        "event": "Brunch & Spritz (@Ghorban Delikatessen Manufaktur)",
+        "time": "16:00",
+        "event": "The Boogie Brunch #6 w/ FORMAT:B, Juliet Sikora, Flo MRZDK - AN AFTERNOON PARTY WITH TIMELESS ELECTRONIC MUSIC (@BRAUTURM)",
         "category": "",
-        "description": "Ein köstliches italienisches Brunch zum perfekten Start in eueren Tag. Egal ob Aperol, Sarti, Campari oder der alkoholfreie Crodino Spritz - probier dich einmal durch unsere Spritzkarte durch!  Jeden Samstag und Sonntag von 10:00 bis 16:00  Folgendes ist in unserem Brunch (pro Person) enthalten:  - Focaccia und Sauerteigbaguette vonder BULLE-Bäckerei mit Butter und Olivenöl - rote Bete Hummus / oder Auberginenfrischkäse - Käseauswahl aus Taleggio und Raschera - Büffelmozzarrella mit Pesto und Cherrytomaten - Don Romeo Parmaschinken 24. M. gerefit, luftgetrocknete ital. Salami handgemachte Mortadella aus Bologna - Oliven und Sonnengetrocknete Tomaten - griechischer Joghurt mit Honig und WalnüssenWichtig (!) - solltest du Unverträglichkeiten oder Allergien haben, bitte melde dich spätestens 7 Tage im Voraus bei uns, damit wir alles perfekt für dich vorbereiten können. Der Brunch ist natürlich auch vegetarisch oder vegan erhältlich. Bitte teile uns diese Wünsche vorher mit.  Unsere Kaffee-Spezialitäten kannst du gerne vor Ort dazu bestellen. (nicht i Preis inklsusive)   Der Ticketpreis versteht sich für ein Brunch-Teller. Getränke können vor Ort zusätzlich erworben werden.   Wir freuen uns riesig auf euch!  Euer Ghorban-Team *Eine Ticketrückerstattung über uns ist nur bis zu 2 Wochen vorher möglich. Tickets können aber übertragen werden, heißt sie dürfen bei kurzgristiger Verhinderunh weiterverkauft oder an Freunde und Familie weitergegeben werden.",
-        "link": "https://rausgegangen.de/en/events/brunch-spritz-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Q7005o5tTUi6mhCaLdFc_ghorbanaperitivo113.jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Sat, 07.03.2026",
-        "time": "17:00",
-        "event": "BACK TO THE 90s - QUIZ & PARTY (@b'mine Hotel)",
-        "category": "",
-        "description": "🎉GoldMucke & Tim Perkovic präsentieren:BACK TO THE 90s – QUIZ & PARTY! Die Premiere im b'mine Hotel Düsseldorf!📍Location: b'mine Hotel, Düsseldorf-Flingern 🔙 Wir bringen die 90er zurück in die Landeshauptstadt! Zum ersten Mal feiern wir dieses Format in der stylischen Atmosphäre des b'mine. Erst wird gemeinsam gerätselt, dann wird zu den größten Hits des Kult-Jahrzehnts gefeiert!🧠TEIL 1: DAS 90er QUIZ (17:00 bis 19:30 Uhr)Kramt eure Buffalos aus dem Keller und testet euer Wissen! In einem interaktiven Quiz fordern wir eure Lachmuskeln und Erinnerungen heraus:    🎤Sound der 90er: Von Boybands und Eurodance bis Grunge und Techno.    📺TV & Kult: Alles über VIVA, die Anfänge von GZSZ und die Geburtsstunde von \"TV Total\".    🕹️Trends: Wer erinnert sich an Tamagotchis, Diddl-Mäuse und das unzerstörbare Nokia 5110?    🎁Preise: Die Plätze 1 bis 3 räumen wie immer richtig ab!💃TEIL 2: DIE 90er PARTY & AUSKLANG (ab ca. 19:30 Uhr)Nach der Siegerehrung lassen wir die Stifte fallen und die Korken knallen!🎧DJ-Set: Unser DJ spielt für euch die ultimativen Hymnen der 90er – Mitsingen und Tanzen ist Pflicht!🕺Party-Time: Wir feiern bis 22:00 Uhr bei voller Energie.🍸After-Glow: Ab 22:00 Uhr lassen wir den Abend bei entspannter Lautstärke bis Mitternacht gemütlich ausklingen.📌Die Fakten:16:00 Uhr: Einlass & Warm-up 17:00 Uhr: Beginn QUIZ ca. 19:30 Uhr: Ende Quiz & Start der 90er-PARTY 22:00 Uhr: Chill-out & Ausklang (etwas leiser)00:00 Uhr: Ende der Veranstaltung👥Teams: 2 bis 6 Personen💶Teilnahme:- 20 € zzgl. VVK-Gebühren - 25 € Abendkasse🎟️Schnappt euch jetzt eure Tickets! Erlebt die 90er-Premiere im b'mine und zeigt, dass ihr die wahren Experten dieses Jahrzehnts seid!Die geplanten QUIZ und Unterhaltungsabende mit TIM PERKOVIC:FEBRUAR - Mo. 02.02.26 90er-JAHRE QUIZ - Bumann & SOHN KÖLN - Di. 03.02.26 HERR DER RINGE FAN QUIZ - Max Brown Hotel Düsseldorf - Di. 10.02.26 Die Drei ??? Fan Quiz - Zoopavillon Düsseldorf - Sa. 28.02.26 FOUR ROOMS - 4 Räume, 4 Künstler & 4 individuelle Erlebnisse - b'mine DüsseldorfMÄRZ - Mo. 02.03.26 DIE DREI ??? FAN QUIZ - Bumann & SOHN KÖLN - Di. 03.03.26 FRIENDS FAN QUIZ - Max Brown Hotel Düsseldorf - Do. 05.03.26 GoldComedy - Max Brown Hotel Düsseldorf - Sa. 07.03.26 BACK TO THE 90s - QUIZ & PARTY - b'mine Düsseldorf - Di. 10.03.26 STROMBERG FAN QUIZ - Päff Bar - KÖLN - Di. 17.03.26 STROMBERG FAN QUIZ - Zoopavillon Düsseldorf - Di. 24.03.26 BIER QUIZ - Zoopavillon DüsseldorfAPRIL - Di. 14.04.26 2000er-JAHRE QUIZ - Päff Bar - KÖLN - Mi. 15.04.25 TKKG FAN QUIZ - Zoopavillon Düsseldorf - Di. 21.04.26 KAULITZ UNIVERSE FAN QUIZ - Max Brown Hotel DüsseldorfMAI - Di. 05.05.26 DIE TOTEN HOSEN & BROILERS FAN QUIZ - Ratinger Hof Düsseldorf - Di. 12.05.26 TAYLOR SWIFT FAN QUIZ - Päff Bar - KÖLN - Di. 19.05.26 DISNEY FAN QUIZ - Max Brown Hotel Düsseldorf - Mi. 20.05.26 DAS ALLGEMEINE KNEIPEN QUIZ - Zoopavillon Düsseldorf - Do. 28.05.26 GoldComedy - Max Brown Hotel Düsseldorf - Sa. 30.05.26 FOUR ROOMS - 4 Räume, 4 Künstler & 4 individuelle Erlebnisse - Max Brown Hotel DüsseldorfJUNI - Di. 02.06.26 TAYLOR SWIFT FAN QUIZ - Max Brown Hotel Düsseldorf - Di. 09.06.26 WM QUIZ - Päff Bar - KÖLN - Mi. 10.06.26 TRASH-TV QUIZ NIGHT - Für echte Reality-Fans! - Zoopavillon Düsseldorf - Di. 16.06.26 HARRY POTTER FAN QUIZ - VierLinden Open-Air DüsseldorfJULI - Di. 21.07.26 MUSIK Quiz - VierLinden Open-Air Düsseldorf - So. 26.07.26 GoldComedy - VierLinden Open-Air Düsseldorf - Di. 28.07.26 80er-Jahre Quiz - VierLinden Open-Air DüsseldorfAUGUST - Di. 11.08.26 DIE DREI ??? FAN QUIZ - VierLinden Open-Air Düsseldorf - Di. 18.08.26 90er-JAHRE QUIZ - VierLinden Open-Air Düsseldorf - Di. 25.08.26 HARRY POTTER FAN QUIZ - MAGIER SPECIAL - VierLinden Open-Air DüsseldorfSEPTEMBER - Di. 08.09.26 2000er-Jahre Quiz - VierLinden Open-Air Düsseldorf",
-        "link": "https://rausgegangen.de/en/events/back-to-the-90s-quiz-party-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/KiKrs39cTkaURoXRHdRQ_20260307-90er-jahre-quiz-party-bmine-hotel-dusseldorf-banner.jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
+        "description": "Bei The Boogie Brunch erwartet dich eine coole Zeitreise durch drei Jahrzehnte elektronische Sounds, aufgelegt von FORMAT:B und lokalen Acts wie Juliet Sikora. Hier geht’s um echte Verbindungen auf der Tanzfläche und Klassiker, die einfach funktionieren 🪩",
+        "link": "https://rausgegangen.de/en/events/the-boogie-brunch-6-w-formatb-juliet-sikora-flo-mrzdk-an-aft-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/NENaFU1LROeNTuvNZ3pA_boogiebrunch070326fbevent.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Sat, 07.03.2026",
         "time": "18:00",
-        "event": "LIMP BIZKIT by PIMP BLITZKID - Germany's #1 Limp Bizkit Tribute Act (@Pitcher - Rock'n'Roll Headquarter Düsseldorf)",
+        "event": "Ruhrpott-Carpaccio - DIE Comedy-SHOW mit Fritze (@Schauburg Dortmund)",
         "category": "",
-        "description": "Aus lgoistischen Gründen müssen wir die Show ein letztes Mal verschieben:FInales Date: Samstag, 07.03.26EInlass 18 Uhr / Show 20 Uhr LIMP BIZKIT by PIMP BLITZKID - Germany's #1 Limp Bizkit Tribute ActVon AC/DC über Metallica bis zu ZZ Top... zu fast jeder Kultband gibt es auch die passende Band, die ihre Vorbilder in Form von Tribute-Shows ehrt. Im Fall von Pimp Blitzkid sind diese Vorbilder niemand geringeres als die amerikanischen Superstars Limp Bizkit! Die 5 Musiker aus Kirnsonville (Limp Bizkit Fans verstehen den Sinn dieser Abwandlung vom Ortsnamen \"Kirn“) haben sich im Juli 2013 als Tribute-Band formiert und covern seither die Band um Frontmann Fred Durst in allen Aspekten. Damit ist sie die erste und derzeit einzige Ihrer Art in Deutschland. Songs aller Alben, der seit mittlerweile 20-Jahren bestehenden Erfolgsband, befinden sich im Pimp Blitzkid-Repertoire und werden in einer Live-Show mit allen typischen Elementen des \"Limp Bizkit Style\" und viel Liebe zum Detail dargeboten. Wie das Original, versteht es das Quintett Mainstream-Publikum und beinharte Rock- Fans mit internationalen Hits wie \"Rollin'\", \"Break Stuff\", \"Behind Blue Eyes\", \"Take A Look Around\" oder \"My Way\" zu einer feiernden Einheit zu verbinden.",
-        "link": "https://rausgegangen.de/en/events/limp-bizkit-by-pimp-blitzkid-germanys-1-limp-bizkit-tribute--0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pDqVwCf6S4nrdvVlLHAX_limpblitzkid-122025.jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Sat, 07.03.2026",
-        "time": "19:00",
-        "event": "Action Painting - Offene Mal-Session (@ausARTen)",
-        "category": "",
-        "description": "🎨 Special Action Painting Tag – Tob dich aus!Du wolltest schon immer einmal Action Painting ausprobieren? Dann ist unser Special Action Painting Tag genau das Richtige für dich! An diesem besonderen Tag biete ich dir ein supergünstiges Schnupper-Angebot, perfekt für alle, die ohne Hemmungen kreativ werden wollen.Maximal 8 Teilnehmern gleichzeitig tobst du dich in meiner komplett ausgekleidete Action-Painting-Höhle aus. Hier darfst du alles: – Farbballons werfen – Mit Wasserpistolen sprühen – Farben schleudern, spritzen, tropfen – Einfach hemmungslos experimentierenDieses Mal liegt das Bild direkt auf dem Boden, sodass du dich frei bewegen und deine Energie in abstrakte Formen, Linien und Farbausbrüche verwandeln kannst.Ich begleite dich den ganzen Tag über, zeige dir Techniken, unterstütze dich bei deinem kreativen Prozess und sorge dafür, dass du dich völlig frei entfalten kannst – ohne Druck, ohne Regeln, nur pure Ausdruckskraft.Leinwandgröße bei dieser Veranstaltung: 40x40cm Material: Farbballons, Wasserpistolen, Acrylfarbe, Spachtel, Pinsel, Klohbürsten, Boxhandschue und vielens mehr // Inkl. Schutzanzug (bring bitte trotzdem Kleidung mit, die schmutzig werden darf) Handschuhe, Schuhüberzieher-> Bei diesem offenen Action Painting tobst du dich mit anderen Teilnehmer*nnen aus✨ Exklusiv buchbar: Du kannst bei mir auch ein privates Action Painting Erlebnis für dich und deine Freunde buchen – perfekt für Geburtstage, Teamevents oder einfach einen außergewöhnlichen Tag. Buchbar für 2 bis 16 Personen. ➡️ Frage dein persönliches Event über meine Website an: ausarten-workshop.deBereit für ein farbiges Abenteuer? Dann komm vorbei und erlebe Action Painting auf die wildeste, spielerischste und spaßigste Weise!",
-        "link": "https://rausgegangen.de/en/events/action-painting-special-tag-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pwdDG73R1yWoErpfR23f_action-painting-julia.png?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Sat, 07.03.2026",
-        "time": "20:00",
-        "event": "Früher Feiern! Spezial - The Big Triple BDay (@Kulturschlachthof R25)",
-        "category": "",
-        "description": "Drei Geburtstags-Kinder. Eine Nacht!Wenn besondere Menschen zusammen feiern, entsteht mehr als nur eine Party. Das Düsseldorfer FRÜHER FEIERN!-Dreigestirn Adam Tauber, Massimo & Christian Vogel lädt gemeinsam zur großen Geburtstags-Party ein.Nur damit ihr's wisst: Die drei Geburtstagskinder haben Extra-Runden geplant. Wie das endet? Finden wir gemeinsam raus... Eskalation jedoch nicht ausgeschlossen 🚀Begleitet von unserem Kölner Geburtstagspaten Oliver Hess wird diese Früher Feiern Spezial zu einem Moment, in dem Musik uns ausgelassen verbindet und die Zeit für ein paar Stunden ihre Bedeutung verliert.Wer uns und Früher Feiern kennt, weiß: Das ist ein Highlight im Kalender.",
-        "link": "https://rausgegangen.de/en/events/fruher-feiern-spezial-the-big-triple-bday-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/IubZMhGTmySskjlSySGd_img8259.jpeg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
+        "description": "Innet älteste Lichtspieltheater Dortmunds bringt dat Ruhrpott-Unikat Fritze Dich gleich auf Sendung.DIE SHOW is' eine Mischung aus Comedy, Cabaret und Bildungauftrach und wie den Pott selbst:einfach einmalig.﻿Dat Richtige, wennze meins, Du hättes' schon alles gesehen oderwennze Dich getz anne letzte Geheimnisse von diesen Universum ran trauen willz ́. Kommze mitte Kalline, Deine Kollegen oderbringze wacker gleich die gantze Verwandschaft ausse Laubensiedlung mit.",
+        "link": "https://rausgegangen.de/en/events/ruhrpott-carpaccio-die-comedy-show-mit-fritze-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5QnwR4Q9QzyJtdBya0Dz_ruhrpott-carpaccio-jpe.jpe?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Sat, 07.03.2026",
         "time": "21:00",
-        "event": "90s Unlimited Party (@Stahlwerk & Treibgut)",
+        "event": "50 Jahre Tanzcafé (@Oma Doris)",
         "category": "",
-        "description": "Eine Nacht, die nach Buffalos, Neon und grenzenloser Nostalgie schreit – mit Karaoke, Dance‑Classics, Flipper‑Action und einem Outfit-Contest, der alles sprengt. 90s Unlimited: Ready die Zeit zurück zu drehen? 😎",
-        "link": "https://rausgegangen.de/en/events/90s-unlimited-party-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4RJ7qjEYSP2t1vSddAkQ_63092598214207492231761704791840538124953164n.jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
+        "description": "🎉 50 Jahre Tanzcafé – Jubiläum im Oma Doris 🎉 Ein halbes Jahrhundert.Fünf Jahrzehnte Tanzfläche.50 Jahre Ekstase, Begegnungen, Nächte, die man nie vergisst. Am 7.03.2026 ab 21 Uhr feiern wir das, was das Tanzcafé zur Legende gemacht hat: Musik, Gemeinschaft und kompromisslose Liebe zum Clubkultur-Spirit. Seit 1976 ist Oma Doris mehr als nur ein Club – es ist ein Zuhause für Generationen von Tänzer:innen, House-Liebhaber:innen und Nachtschwärmer:innen. Jetzt drehen wir die Zeit auf Anschlag und feiern das goldene Jubiläum mit einem Line-up, das Vergangenheit, Gegenwart und Zukunft auf einer Tanzfläche vereint. 🔊 Line-up – 50 Jahre im Back-to-Back-Modus• Larse b2b Nils Koenig• zuHouse Rocker• Juliet Sikora b2b Adele Be• Beroldson b2b Adi• Robert Fernys b2b Raufaser• Wonka b2b Near Mint Back-to-back bedeutet: keine Kompromisse, keine Pausen – nur Energie, gegenseitiges Pushen und pure Tanzflächen-Magie.  Eine Nacht voller House, Classics, treibender Grooves und emotionaler Momente. Alte Weggefährt:innen treffen auf neue Gesichter. Erinnerungen werden neu geschrieben. Und wie immer gilt: Wer kommt, bleibt. Wer tanzt, gehört dazu.",
+        "link": "https://rausgegangen.de/en/events/50-jahre-tanzcafe-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RSXtLL2YSMqXNmoA0xKB_tanzcafeheader.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Sat, 07.03.2026",
-        "time": "22:00",
-        "event": "AREA51 H.A.D.G - CHAPTER TWO,  AMPERE Düsseldorf w/ Golpe, GNRØ, Flunkert (@Ampere)",
+        "time": "23:00",
+        "event": "Nice Up! #143 (@Großmarktschänke)",
         "category": "",
-        "description": "Hart an der Grenze - Chapter two  - Ampere Düsseldorf  w/ GOLPE, GNRØ, FLUNKERT & moreArea51 presents Hart an der Grenze - Chapter two (Hard Techno / Schranz)Lineup:GOLPE, GNRØ, FLUNKERT, VERBRVUCHT, SEELSORGER, FLYING DUTCHMANSa. 07.03.2026 / 22-06 Ampere Club (Stahlwerk) Ronsdorfer Str. 134, Düsseldorf",
-        "link": "https://rausgegangen.de/en/events/area51-hadg-schranz-with-harder-takeover-chapter-two-ampere--0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bSwi2ClpSDilj89vAkn1_golpe-gnr-flunkert-verbrvucht-seelsorger-flying-dutchman-1.png?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
+        "description": "Die Nice Up! #143 bringt dich mit Ba!Ba!Bad und Blockbuster Soundsystem zurück zu den Wurzeln von Dancehall, Reggae und Afrobeats. Die Crew legt Schicht für Schicht Tracks auf, die die Tanzfläche ganz sicher zum Pulsieren bringen. Schnapp dir deine Lieblingsmenschen und erlebe diesen warmen Soundmix live 🕺🏽",
+        "link": "https://rausgegangen.de/en/events/nice-up-143-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/kxcLXpvoRUSt4rdcKk2x_nice-upbanner-20.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 07.03.2026",
+        "time": "19:00",
+        "event": "Total Hip Replacement (@Hot Jazz Club, Münster)",
+        "category": "",
+        "description": "Total Hip Replacement verbindet Reggae, Soul, Afro und Indie zu einem warmen und ehrlichen Sound, der soziale Themen reflektiert. Nach der Europatournee mit Anyankofo bringen sie ihre neue Musik in die intime Atmosphäre des hansa48 in Kiel. Es erwarten dich lebendige Konzerte voller Energie und Zusammenhalt.",
+        "link": "https://rausgegangen.de/en/events/total-hip-replacement-hot-jazz-club-munster-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/esjfDtRWmlAGg2FWOnig_emilietoldamtotalhip003-2-2.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Sat, 07.03.2026",
@@ -1304,6 +1254,76 @@
         "link": "https://rausgegangen.de/en/events/gaykiss-clubbing-22/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fvPfKFIESNeeynsNLa0v_soul-rave-edm-party-instagram-story-ad-10.jpg?width=1200&height=900&mode=crop",
         "city": "Bremen"
+    },
+    {
+        "date": "Sat, 07.03.2026",
+        "time": "10:00",
+        "event": "Brunch & Spritz (@Ghorban Delikatessen Manufaktur)",
+        "category": "",
+        "description": "Ein köstliches italienisches Brunch zum perfekten Start in eueren Tag. Egal ob Aperol, Sarti, Campari oder der alkoholfreie Crodino Spritz - probier dich einmal durch unsere Spritzkarte durch!  Jeden Samstag und Sonntag von 10:00 bis 16:00  Folgendes ist in unserem Brunch (pro Person) enthalten:  - Focaccia und Sauerteigbaguette vonder BULLE-Bäckerei mit Butter und Olivenöl - rote Bete Hummus / oder Auberginenfrischkäse - Käseauswahl aus Taleggio und Raschera - Büffelmozzarrella mit Pesto und Cherrytomaten - Don Romeo Parmaschinken 24. M. gerefit, luftgetrocknete ital. Salami handgemachte Mortadella aus Bologna - Oliven und Sonnengetrocknete Tomaten - griechischer Joghurt mit Honig und WalnüssenWichtig (!) - solltest du Unverträglichkeiten oder Allergien haben, bitte melde dich spätestens 7 Tage im Voraus bei uns, damit wir alles perfekt für dich vorbereiten können. Der Brunch ist natürlich auch vegetarisch oder vegan erhältlich. Bitte teile uns diese Wünsche vorher mit.  Unsere Kaffee-Spezialitäten kannst du gerne vor Ort dazu bestellen. (nicht i Preis inklsusive)   Der Ticketpreis versteht sich für ein Brunch-Teller. Getränke können vor Ort zusätzlich erworben werden.   Wir freuen uns riesig auf euch!  Euer Ghorban-Team *Eine Ticketrückerstattung über uns ist nur bis zu 2 Wochen vorher möglich. Tickets können aber übertragen werden, heißt sie dürfen bei kurzgristiger Verhinderunh weiterverkauft oder an Freunde und Familie weitergegeben werden.",
+        "link": "https://rausgegangen.de/en/events/brunch-spritz-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Q7005o5tTUi6mhCaLdFc_ghorbanaperitivo113.jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Sat, 07.03.2026",
+        "time": "17:00",
+        "event": "BACK TO THE 90s - QUIZ & PARTY (@b'mine Hotel)",
+        "category": "",
+        "description": "🎉GoldMucke & Tim Perkovic präsentieren:BACK TO THE 90s – QUIZ & PARTY! Die Premiere im b'mine Hotel Düsseldorf!📍Location: b'mine Hotel, Düsseldorf-Flingern 🔙 Wir bringen die 90er zurück in die Landeshauptstadt! Zum ersten Mal feiern wir dieses Format in der stylischen Atmosphäre des b'mine. Erst wird gemeinsam gerätselt, dann wird zu den größten Hits des Kult-Jahrzehnts gefeiert!🧠TEIL 1: DAS 90er QUIZ (17:00 bis 19:30 Uhr)Kramt eure Buffalos aus dem Keller und testet euer Wissen! In einem interaktiven Quiz fordern wir eure Lachmuskeln und Erinnerungen heraus:    🎤Sound der 90er: Von Boybands und Eurodance bis Grunge und Techno.    📺TV & Kult: Alles über VIVA, die Anfänge von GZSZ und die Geburtsstunde von \"TV Total\".    🕹️Trends: Wer erinnert sich an Tamagotchis, Diddl-Mäuse und das unzerstörbare Nokia 5110?    🎁Preise: Die Plätze 1 bis 3 räumen wie immer richtig ab!💃TEIL 2: DIE 90er PARTY & AUSKLANG (ab ca. 19:30 Uhr)Nach der Siegerehrung lassen wir die Stifte fallen und die Korken knallen!🎧DJ-Set: Unser DJ spielt für euch die ultimativen Hymnen der 90er – Mitsingen und Tanzen ist Pflicht!🕺Party-Time: Wir feiern bis 22:00 Uhr bei voller Energie.🍸After-Glow: Ab 22:00 Uhr lassen wir den Abend bei entspannter Lautstärke bis Mitternacht gemütlich ausklingen.📌Die Fakten:16:00 Uhr: Einlass & Warm-up 17:00 Uhr: Beginn QUIZ ca. 19:30 Uhr: Ende Quiz & Start der 90er-PARTY 22:00 Uhr: Chill-out & Ausklang (etwas leiser)00:00 Uhr: Ende der Veranstaltung👥Teams: 2 bis 6 Personen💶Teilnahme:- 20 € zzgl. VVK-Gebühren - 25 € Abendkasse🎟️Schnappt euch jetzt eure Tickets! Erlebt die 90er-Premiere im b'mine und zeigt, dass ihr die wahren Experten dieses Jahrzehnts seid!Die geplanten QUIZ und Unterhaltungsabende mit TIM PERKOVIC:FEBRUAR - Mo. 02.02.26 90er-JAHRE QUIZ - Bumann & SOHN KÖLN - Di. 03.02.26 HERR DER RINGE FAN QUIZ - Max Brown Hotel Düsseldorf - Di. 10.02.26 Die Drei ??? Fan Quiz - Zoopavillon Düsseldorf - Sa. 28.02.26 FOUR ROOMS - 4 Räume, 4 Künstler & 4 individuelle Erlebnisse - b'mine DüsseldorfMÄRZ - Mo. 02.03.26 DIE DREI ??? FAN QUIZ - Bumann & SOHN KÖLN - Di. 03.03.26 FRIENDS FAN QUIZ - Max Brown Hotel Düsseldorf - Do. 05.03.26 GoldComedy - Max Brown Hotel Düsseldorf - Sa. 07.03.26 BACK TO THE 90s - QUIZ & PARTY - b'mine Düsseldorf - Di. 10.03.26 STROMBERG FAN QUIZ - Päff Bar - KÖLN - Di. 17.03.26 STROMBERG FAN QUIZ - Zoopavillon Düsseldorf - Di. 24.03.26 BIER QUIZ - Zoopavillon DüsseldorfAPRIL - Di. 14.04.26 2000er-JAHRE QUIZ - Päff Bar - KÖLN - Mi. 15.04.25 TKKG FAN QUIZ - Zoopavillon Düsseldorf - Di. 21.04.26 KAULITZ UNIVERSE FAN QUIZ - Max Brown Hotel DüsseldorfMAI - Di. 05.05.26 DIE TOTEN HOSEN & BROILERS FAN QUIZ - Ratinger Hof Düsseldorf - Di. 12.05.26 TAYLOR SWIFT FAN QUIZ - Päff Bar - KÖLN - Di. 19.05.26 DISNEY FAN QUIZ - Max Brown Hotel Düsseldorf - Mi. 20.05.26 DAS ALLGEMEINE KNEIPEN QUIZ - Zoopavillon Düsseldorf - Do. 28.05.26 GoldComedy - Max Brown Hotel Düsseldorf - Sa. 30.05.26 FOUR ROOMS - 4 Räume, 4 Künstler & 4 individuelle Erlebnisse - Max Brown Hotel DüsseldorfJUNI - Di. 02.06.26 TAYLOR SWIFT FAN QUIZ - Max Brown Hotel Düsseldorf - Di. 09.06.26 WM QUIZ - Päff Bar - KÖLN - Mi. 10.06.26 TRASH-TV QUIZ NIGHT - Für echte Reality-Fans! - Zoopavillon Düsseldorf - Di. 16.06.26 HARRY POTTER FAN QUIZ - VierLinden Open-Air DüsseldorfJULI - Di. 21.07.26 MUSIK Quiz - VierLinden Open-Air Düsseldorf - So. 26.07.26 GoldComedy - VierLinden Open-Air Düsseldorf - Di. 28.07.26 80er-Jahre Quiz - VierLinden Open-Air DüsseldorfAUGUST - Di. 11.08.26 DIE DREI ??? FAN QUIZ - VierLinden Open-Air Düsseldorf - Di. 18.08.26 90er-JAHRE QUIZ - VierLinden Open-Air Düsseldorf - Di. 25.08.26 HARRY POTTER FAN QUIZ - MAGIER SPECIAL - VierLinden Open-Air DüsseldorfSEPTEMBER - Di. 08.09.26 2000er-Jahre Quiz - VierLinden Open-Air Düsseldorf",
+        "link": "https://rausgegangen.de/en/events/back-to-the-90s-quiz-party-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/KiKrs39cTkaURoXRHdRQ_20260307-90er-jahre-quiz-party-bmine-hotel-dusseldorf-banner.jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Sat, 07.03.2026",
+        "time": "18:00",
+        "event": "LIMP BIZKIT by PIMP BLITZKID - Germany's #1 Limp Bizkit Tribute Act (@Pitcher - Rock'n'Roll Headquarter Düsseldorf)",
+        "category": "",
+        "description": "Aus lgoistischen Gründen müssen wir die Show ein letztes Mal verschieben:FInales Date: Samstag, 07.03.26EInlass 18 Uhr / Show 20 Uhr LIMP BIZKIT by PIMP BLITZKID - Germany's #1 Limp Bizkit Tribute ActVon AC/DC über Metallica bis zu ZZ Top... zu fast jeder Kultband gibt es auch die passende Band, die ihre Vorbilder in Form von Tribute-Shows ehrt. Im Fall von Pimp Blitzkid sind diese Vorbilder niemand geringeres als die amerikanischen Superstars Limp Bizkit! Die 5 Musiker aus Kirnsonville (Limp Bizkit Fans verstehen den Sinn dieser Abwandlung vom Ortsnamen \"Kirn“) haben sich im Juli 2013 als Tribute-Band formiert und covern seither die Band um Frontmann Fred Durst in allen Aspekten. Damit ist sie die erste und derzeit einzige Ihrer Art in Deutschland. Songs aller Alben, der seit mittlerweile 20-Jahren bestehenden Erfolgsband, befinden sich im Pimp Blitzkid-Repertoire und werden in einer Live-Show mit allen typischen Elementen des \"Limp Bizkit Style\" und viel Liebe zum Detail dargeboten. Wie das Original, versteht es das Quintett Mainstream-Publikum und beinharte Rock- Fans mit internationalen Hits wie \"Rollin'\", \"Break Stuff\", \"Behind Blue Eyes\", \"Take A Look Around\" oder \"My Way\" zu einer feiernden Einheit zu verbinden.",
+        "link": "https://rausgegangen.de/en/events/limp-bizkit-by-pimp-blitzkid-germanys-1-limp-bizkit-tribute--0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pDqVwCf6S4nrdvVlLHAX_limpblitzkid-122025.jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Sat, 07.03.2026",
+        "time": "19:00",
+        "event": "Action Painting - Offene Mal-Session (@ausARTen)",
+        "category": "",
+        "description": "🎨 Special Action Painting Tag – Tob dich aus!Du wolltest schon immer einmal Action Painting ausprobieren? Dann ist unser Special Action Painting Tag genau das Richtige für dich! An diesem besonderen Tag biete ich dir ein supergünstiges Schnupper-Angebot, perfekt für alle, die ohne Hemmungen kreativ werden wollen.Maximal 8 Teilnehmern gleichzeitig tobst du dich in meiner komplett ausgekleidete Action-Painting-Höhle aus. Hier darfst du alles: – Farbballons werfen – Mit Wasserpistolen sprühen – Farben schleudern, spritzen, tropfen – Einfach hemmungslos experimentierenDieses Mal liegt das Bild direkt auf dem Boden, sodass du dich frei bewegen und deine Energie in abstrakte Formen, Linien und Farbausbrüche verwandeln kannst.Ich begleite dich den ganzen Tag über, zeige dir Techniken, unterstütze dich bei deinem kreativen Prozess und sorge dafür, dass du dich völlig frei entfalten kannst – ohne Druck, ohne Regeln, nur pure Ausdruckskraft.Leinwandgröße bei dieser Veranstaltung: 40x40cm Material: Farbballons, Wasserpistolen, Acrylfarbe, Spachtel, Pinsel, Klohbürsten, Boxhandschue und vielens mehr // Inkl. Schutzanzug (bring bitte trotzdem Kleidung mit, die schmutzig werden darf) Handschuhe, Schuhüberzieher-> Bei diesem offenen Action Painting tobst du dich mit anderen Teilnehmer*nnen aus✨ Exklusiv buchbar: Du kannst bei mir auch ein privates Action Painting Erlebnis für dich und deine Freunde buchen – perfekt für Geburtstage, Teamevents oder einfach einen außergewöhnlichen Tag. Buchbar für 2 bis 16 Personen. ➡️ Frage dein persönliches Event über meine Website an: ausarten-workshop.deBereit für ein farbiges Abenteuer? Dann komm vorbei und erlebe Action Painting auf die wildeste, spielerischste und spaßigste Weise!",
+        "link": "https://rausgegangen.de/en/events/action-painting-special-tag-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pwdDG73R1yWoErpfR23f_action-painting-julia.png?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Sat, 07.03.2026",
+        "time": "20:00",
+        "event": "Früher Feiern! Spezial - The Big Triple BDay (@Kulturschlachthof R25)",
+        "category": "",
+        "description": "Drei Geburtstags-Kinder. Eine Nacht!Wenn besondere Menschen zusammen feiern, entsteht mehr als nur eine Party. Das Düsseldorfer FRÜHER FEIERN!-Dreigestirn Adam Tauber, Massimo & Christian Vogel lädt gemeinsam zur großen Geburtstags-Party ein.Nur damit ihr's wisst: Die drei Geburtstagskinder haben Extra-Runden geplant. Wie das endet? Finden wir gemeinsam raus... Eskalation jedoch nicht ausgeschlossen 🚀Begleitet von unserem Kölner Geburtstagspaten Oliver Hess wird diese Früher Feiern Spezial zu einem Moment, in dem Musik uns ausgelassen verbindet und die Zeit für ein paar Stunden ihre Bedeutung verliert.Wer uns und Früher Feiern kennt, weiß: Das ist ein Highlight im Kalender.",
+        "link": "https://rausgegangen.de/en/events/fruher-feiern-spezial-the-big-triple-bday-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/IubZMhGTmySskjlSySGd_img8259.jpeg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Sat, 07.03.2026",
+        "time": "21:00",
+        "event": "90s Unlimited Party (@Stahlwerk & Treibgut)",
+        "category": "",
+        "description": "Eine Nacht, die nach Buffalos, Neon und grenzenloser Nostalgie schreit – mit Karaoke, Dance‑Classics, Flipper‑Action und einem Outfit-Contest, der alles sprengt. 90s Unlimited: Ready die Zeit zurück zu drehen? 😎",
+        "link": "https://rausgegangen.de/en/events/90s-unlimited-party-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4RJ7qjEYSP2t1vSddAkQ_63092598214207492231761704791840538124953164n.jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Sat, 07.03.2026",
+        "time": "22:00",
+        "event": "AREA51 H.A.D.G - CHAPTER TWO,  AMPERE Düsseldorf w/ Golpe, GNRØ, Flunkert (@Ampere)",
+        "category": "",
+        "description": "Hart an der Grenze - Chapter two  - Ampere Düsseldorf  w/ GOLPE, GNRØ, FLUNKERT & moreArea51 presents Hart an der Grenze - Chapter two (Hard Techno / Schranz)Lineup:GOLPE, GNRØ, FLUNKERT, VERBRVUCHT, SEELSORGER, FLYING DUTCHMANSa. 07.03.2026 / 22-06 Ampere Club (Stahlwerk) Ronsdorfer Str. 134, Düsseldorf",
+        "link": "https://rausgegangen.de/en/events/area51-hadg-schranz-with-harder-takeover-chapter-two-ampere--0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bSwi2ClpSDilj89vAkn1_golpe-gnr-flunkert-verbrvucht-seelsorger-flying-dutchman-1.png?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
     },
     {
         "date": "Sat, 07.03.2026",
@@ -2105,26 +2125,6 @@
     },
     {
         "date": "Sun, 08.03.2026",
-        "time": "20:00",
-        "event": "Verkuppelt (@KLUBHAUS Dortmund)",
-        "category": "",
-        "description": "Die Dating-Show, bei der Freunde Singles vorstellenEine Dating-Show, wie du sie noch nie erlebt hast 💛Bei unserer Dating-Show stehen nicht die Singles selbst auf der Bühne – sondern ihre Freunde.In einer liebevoll vorbereiteten PowerPoint-Präsentation stellen Freunde oder ein guter Freund einen Single vor, der ihnen besonders am Herzen liegt. Ehrlich, humorvoll und mit ganz viel Herz.Im Publikum sitzen viele weitere Singles, die sich die Show anschauen und ganz entspannt herausfinden können, ob vielleicht ein Match für sie präsentiert wird. Kein awkward Smalltalk, kein Swipen – sondern echte Menschen, vorgestellt von echten Freunden.Die Show ist lustig, herzlich und authentisch, denn wer kennt einen Menschen besser als seine Freunde? Genau das macht diesen Abend so besonders.✨ Mitmachen?Wenn du einen Single hast, den du gerne vorstellen möchtest (oder selbst vorgestellt werden willst), schreib uns einfach eine E-Mail: herrfreischnauze@gmail.com.🎟 Zuschauen?Alle Singles, die sich einfach inspirieren lassen und einen tollen Abend erleben möchten, können ganz unkompliziert Tickets kaufen. Wir versprechen: gute Stimmung, viele Lacher und vielleicht sogar Liebe.Lass uns gemeinsam einen unvergesslichen Abend verbringen 💫",
-        "link": "https://rausgegangen.de/en/events/verkuppelt-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/H23wKtbQNOFSB7JnAReZ_chatgpt-image-17-feb-2026-184859.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sun, 08.03.2026",
-        "time": "18:30",
-        "event": "DWNS#66: BERTHAJU + could care less + STELLA (@GLEIS 22)",
-        "category": "",
-        "description": "Am feministischen Kampftag gibt’s bei DWNS#66 drei starke female-fronted Bands auf die Bühne. Von tanzbarem Indie-Rock mit BERTHAJU über kraftvolle Soundlandschaften von could care less bis zu gefühlvollen Songs von STELLA – es erwartet dich ein vielseitiger Abend voll Energie und Emotionen 🪩",
-        "link": "https://rausgegangen.de/en/events/dwns66-berthaju-could-care-less-stella-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/skgSrbQHChcMK2Bj4iIg_thynk-10.PNG?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Sun, 08.03.2026",
         "time": "12:00",
         "event": "YOGA & PAINT FRAUENTAG EDITION (@Sächsischer Wartesaal – Leipzig Hauptbahnhof)",
         "category": "",
@@ -2225,23 +2225,23 @@
     },
     {
         "date": "Sun, 08.03.2026",
-        "time": "11:00",
-        "event": "Freilichtmuseum | Ehrenhof (@Ehrenhof)",
+        "time": "20:00",
+        "event": "Verkuppelt (@KLUBHAUS Dortmund)",
         "category": "",
-        "description": "Der Ehrenhof steht neben der eigenen fast hundertjährigen Geschichte für Kunst, die eng mit der Stadt Düsseldorf verbunden ist.Während der Kunstsafari, von der Tonhalle bis zum Kunstpalast, gehen wir auf eine Entdeckungsreise zu über 20 unterschiedlichen Kunstwerken im Freien rund um den Ehrenhof, auf die ich in einem unterhaltsamen Ton einen Spot setze. Die Skulpturen, Denkmäler, Mosaike, Schmuckvasen, Installationen können unterschiedlicher nicht sein. Einige stehen in direkter Verbindung mit den Gebäuden des Ehrenhofs. Andere sind im Laufe der letzten 96 Jahre hinzugekommen. Hinter jedem einzelnen Kunstwerk steht eine erzählenswerte und spannende Geschichte, die erkundet werden möchte. Treffpunkt: Eingang: Tonhalle Düsseldorf Strecke und Dauer: Rundgang: Tonhalle bis Kunstpalast oder Fortunabüdchen | ca 1,5 bis 2 Stunden Tickets 15,00 € pro Person © Foto und Literaturhinweise: https://kunst-safaris.de/impressum/",
-        "link": "https://rausgegangen.de/en/events/freilichtmuseum-ehrenhof-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/uY8FF6oRay0JFdYGfode_facebook-ehrenhof.jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
+        "description": "Die Dating-Show, bei der Freunde Singles vorstellenEine Dating-Show, wie du sie noch nie erlebt hast 💛Bei unserer Dating-Show stehen nicht die Singles selbst auf der Bühne – sondern ihre Freunde.In einer liebevoll vorbereiteten PowerPoint-Präsentation stellen Freunde oder ein guter Freund einen Single vor, der ihnen besonders am Herzen liegt. Ehrlich, humorvoll und mit ganz viel Herz.Im Publikum sitzen viele weitere Singles, die sich die Show anschauen und ganz entspannt herausfinden können, ob vielleicht ein Match für sie präsentiert wird. Kein awkward Smalltalk, kein Swipen – sondern echte Menschen, vorgestellt von echten Freunden.Die Show ist lustig, herzlich und authentisch, denn wer kennt einen Menschen besser als seine Freunde? Genau das macht diesen Abend so besonders.✨ Mitmachen?Wenn du einen Single hast, den du gerne vorstellen möchtest (oder selbst vorgestellt werden willst), schreib uns einfach eine E-Mail: herrfreischnauze@gmail.com.🎟 Zuschauen?Alle Singles, die sich einfach inspirieren lassen und einen tollen Abend erleben möchten, können ganz unkompliziert Tickets kaufen. Wir versprechen: gute Stimmung, viele Lacher und vielleicht sogar Liebe.Lass uns gemeinsam einen unvergesslichen Abend verbringen 💫",
+        "link": "https://rausgegangen.de/en/events/verkuppelt-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/H23wKtbQNOFSB7JnAReZ_chatgpt-image-17-feb-2026-184859.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Sun, 08.03.2026",
-        "time": "14:00",
-        "event": "BALLALIGA - Family Edition (@BALLABALLA)",
+        "time": "18:30",
+        "event": "DWNS#66: BERTHAJU + could care less + STELLA (@GLEIS 22)",
         "category": "",
-        "description": "BALLALIGA – Family Edition 🏓🎉 Sonntag, 8. März, 14-16 UhrEin großes Fest für alle Familien in Düsseldorf.Am 8. März gehört das BallaBalla euch – Kindern, Eltern, Geschwistern, vielleicht sogar Oma & Opa. Kein Randstehen, kein „ich schau nur zu“. Heute spielen alle mit.Die BALLALIGA – Family Edition bringt Generationen an die Platte: (Groß)Eltern treten gegeneinander an. Kinder zeigen, was sie können. Und im Doppel kämpfen Kind + Elternteil Seite an Seite um den Familien-Titel.Gespielt werden: 🏓 Einzel – Kinder 🏓 Einzel – Eltern/Großeltern 🏓 Doppel – Kind + Eltern/GroßelternEin Event, das zeigt: Tischtennis verbindet. Ein Turnier, bei dem niemand außen vor bleibt. Ein Sonntag, der zur neuen Familien-Tradition werden könnte.Eintritt: nur 5 € pro PersonSchläger schnappen, Teamgeist einpacken und gemeinsam antreten. Wer holt sich am 8. März den Familien-Titel (und viele weitere Preise und Überraschungen) im BallaBalla? 🏆✨",
-        "link": "https://rausgegangen.de/en/events/ballaliga-family-edition-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/p42hxuiDRISwWo5LT61y_ballaliga.png?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
+        "description": "Am feministischen Kampftag gibt’s bei DWNS#66 drei starke female-fronted Bands auf die Bühne. Von tanzbarem Indie-Rock mit BERTHAJU über kraftvolle Soundlandschaften von could care less bis zu gefühlvollen Songs von STELLA – es erwartet dich ein vielseitiger Abend voll Energie und Emotionen 🪩",
+        "link": "https://rausgegangen.de/en/events/dwns66-berthaju-could-care-less-stella-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/skgSrbQHChcMK2Bj4iIg_thynk-10.PNG?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Sun, 08.03.2026",
@@ -2262,6 +2262,26 @@
         "link": "https://rausgegangen.de/en/events/banff-mountain-film-festival-99/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/C9QdzIKBT4O6QYDwREW8_banff26mediahub1920-x-1080.jpg?width=1200&height=900&mode=crop",
         "city": "Bremen"
+    },
+    {
+        "date": "Sun, 08.03.2026",
+        "time": "11:00",
+        "event": "Freilichtmuseum | Ehrenhof (@Ehrenhof)",
+        "category": "",
+        "description": "Der Ehrenhof steht neben der eigenen fast hundertjährigen Geschichte für Kunst, die eng mit der Stadt Düsseldorf verbunden ist.Während der Kunstsafari, von der Tonhalle bis zum Kunstpalast, gehen wir auf eine Entdeckungsreise zu über 20 unterschiedlichen Kunstwerken im Freien rund um den Ehrenhof, auf die ich in einem unterhaltsamen Ton einen Spot setze. Die Skulpturen, Denkmäler, Mosaike, Schmuckvasen, Installationen können unterschiedlicher nicht sein. Einige stehen in direkter Verbindung mit den Gebäuden des Ehrenhofs. Andere sind im Laufe der letzten 96 Jahre hinzugekommen. Hinter jedem einzelnen Kunstwerk steht eine erzählenswerte und spannende Geschichte, die erkundet werden möchte. Treffpunkt: Eingang: Tonhalle Düsseldorf Strecke und Dauer: Rundgang: Tonhalle bis Kunstpalast oder Fortunabüdchen | ca 1,5 bis 2 Stunden Tickets 15,00 € pro Person © Foto und Literaturhinweise: https://kunst-safaris.de/impressum/",
+        "link": "https://rausgegangen.de/en/events/freilichtmuseum-ehrenhof-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/uY8FF6oRay0JFdYGfode_facebook-ehrenhof.jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Sun, 08.03.2026",
+        "time": "14:00",
+        "event": "BALLALIGA - Family Edition (@BALLABALLA)",
+        "category": "",
+        "description": "BALLALIGA – Family Edition 🏓🎉 Sonntag, 8. März, 14-16 UhrEin großes Fest für alle Familien in Düsseldorf.Am 8. März gehört das BallaBalla euch – Kindern, Eltern, Geschwistern, vielleicht sogar Oma & Opa. Kein Randstehen, kein „ich schau nur zu“. Heute spielen alle mit.Die BALLALIGA – Family Edition bringt Generationen an die Platte: (Groß)Eltern treten gegeneinander an. Kinder zeigen, was sie können. Und im Doppel kämpfen Kind + Elternteil Seite an Seite um den Familien-Titel.Gespielt werden: 🏓 Einzel – Kinder 🏓 Einzel – Eltern/Großeltern 🏓 Doppel – Kind + Eltern/GroßelternEin Event, das zeigt: Tischtennis verbindet. Ein Turnier, bei dem niemand außen vor bleibt. Ein Sonntag, der zur neuen Familien-Tradition werden könnte.Eintritt: nur 5 € pro PersonSchläger schnappen, Teamgeist einpacken und gemeinsam antreten. Wer holt sich am 8. März den Familien-Titel (und viele weitere Preise und Überraschungen) im BallaBalla? 🏆✨",
+        "link": "https://rausgegangen.de/en/events/ballaliga-family-edition-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/p42hxuiDRISwWo5LT61y_ballaliga.png?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
     },
     {
         "date": "Sun, 08.03.2026",
@@ -2414,16 +2434,6 @@
     },
     {
         "date": "Mon, 09.03.2026",
-        "time": "20:00",
-        "event": "Die Comedy - English Night (@Pitcher - Rock'n'Roll Headquarter Düsseldorf)",
-        "category": "",
-        "description": "Looking for an evening filled with laughter and entertainment? The Comedy Werkstatt consistently showcases the best comedic talent, from local to international acts, for the finest shows that Düsseldorf has to offer. 🎤",
-        "link": "https://rausgegangen.de/en/events/die-comedy-english-night-23/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/u16oAz6MQsmpJoeFOwvm_dsc8180-1jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Mon, 09.03.2026",
         "time": "19:30",
         "event": "Vorpremiere: ALPHA von Julia Ducournau (OmU) im Cinema Futuro (@Cinema - Innenstadtkinos Stuttgart)",
         "category": "",
@@ -2431,6 +2441,16 @@
         "link": "https://rausgegangen.de/en/events/vorpremiere-alpha-von-julia-ducournau-omu-im-cinema-futuro-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/rUdwWTc9RjmVKc7oHOMX_rzinnenstadtkinos02i26cinemafuturoscreens03i261920x1080neu.jpg?width=1200&height=900&mode=crop",
         "city": "Stuttgart"
+    },
+    {
+        "date": "Mon, 09.03.2026",
+        "time": "20:00",
+        "event": "Die Comedy - English Night (@Pitcher - Rock'n'Roll Headquarter Düsseldorf)",
+        "category": "",
+        "description": "Looking for an evening filled with laughter and entertainment? The Comedy Werkstatt consistently showcases the best comedic talent, from local to international acts, for the finest shows that Düsseldorf has to offer. 🎤",
+        "link": "https://rausgegangen.de/en/events/die-comedy-english-night-23/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/u16oAz6MQsmpJoeFOwvm_dsc8180-1jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
     },
     {
         "date": "Mon, 09.03.2026",
@@ -2568,26 +2588,6 @@
     {
         "date": "Tue, 10.03.2026",
         "time": "19:00",
-        "event": "SMASH COMEDY - die (queer)feministische Stand Up Show (@Comedy Club Düsseldorf)",
-        "category": "",
-        "description": "Punchlines gegens Patriarchat: Hamburgs queerfeministischer Stand Up Comedy Club SMASH COMEDY feiert die female & queer Comedians der deutschen Stand Up Szene. Hier geben jeweils 5-8 Profis und Newcomer*innen das Mikro weiter, präsentiert von der Smash-Gründerin, Musikerin und Stand Up Comedienne Schwessi aus Hamburg.  Das Besondere: diese Bühne gehört nur denen, die in der von weißen hetero cis Männern dominierten Szene extrem unterrepräsentiert sind. Statt Pimmelwitzen, „meine Freundin“-Jokes und rassistischen Klischees eine Bühne zu geben, wollen wir Sichtbarkeit für die Stimmen und Lebensrealitäten schaffen, die sonst nur Zielscheibe dieser Witze sind.  Mit maximalem Spaß und Diversity Power gegen Diskriminierung! Lasst euch inspirieren, solidarisiert euch und trainiert eure Empathie-Muskeln bei SMASH COMEDY! Und dann gemeinsam so laut lachen, dass patriarchale Strukturen ganz leise anfangen zu bröckeln...",
-        "link": "https://rausgegangen.de/en/events/smash-comedy-die-queerfeministische-stand-up-show-8/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7lpuBRh1QQWPU3vLF967_img7426.JPG?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Tue, 10.03.2026",
-        "time": "20:00",
-        "event": "Pitcher Poetry Slam (@Pitcher - Rock'n'Roll Headquarter Düsseldorf)",
-        "category": "",
-        "description": "Seit über 10 Jahren der schönste Poetry Slam Düsseldorfs. In der Saison 2025/2026 holen wir wieder die besten Poetry Slammer aus nah und fern auf unsere Bühne. Für alle die mehr als Comedy, aber nicht weniger als mitereißende Texte und beste Unterhaltung wollen.  Der Weg zu geilster Slam Poetry aka Rock'n'Roll mit Worten. Es wird auch eine Abendkasse geben.Das akutelle Line-Up findet ihr wie gewohnt auf den Sozialen Medien bei uns.MC: Meral Ziegler & Bernard Hoffmeister Dj: MarXaDirekt in Friedrichstadt, Oberbilker Allee 29. Bester Anschluss an die Öffentlichen Verkehrsmittel - Düsseldorf S-Bahn Friedrichstadt (S8, S11, S28) - Straßenbahn Linie 707, 704. Mit unserem Bändchen gibt es beim Griechen gegenüber (Pfeffermühle) zu jedem Essen einen Ouzo gratis. VVK: 7€ AK: 8€ Doors open: 19 Uhr! Kick off: 20 Uhr!!",
-        "link": "https://rausgegangen.de/en/events/pitcher-poetry-slam-32/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BlVHKY3VQjGuKaEJb9XD_1324401410310557103219215220068282268868414o.jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Tue, 10.03.2026",
-        "time": "19:00",
         "event": "rosmarin /// live 2026 (@Im Wizemann – Halle)",
         "category": "",
         "description": "Die Kassler Band gehört zu den spannendsten Newcomern des deutschen Indie-Pop: Mit funkgetränkten Grooves und detailverliebten Arrangements schaffen sie eine Balance zwischen Tanzbarkeit und Tiefgang, die man so selten hört.",
@@ -2624,6 +2624,26 @@
         "link": "https://rausgegangen.de/en/events/craft-comedy-open-mic-83/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/VOjMQeP6QWykxIE9zpij_open-mic-eventbild.png?width=1200&height=900&mode=crop",
         "city": "Bremen"
+    },
+    {
+        "date": "Tue, 10.03.2026",
+        "time": "19:00",
+        "event": "SMASH COMEDY - die (queer)feministische Stand Up Show (@Comedy Club Düsseldorf)",
+        "category": "",
+        "description": "Punchlines gegens Patriarchat: Hamburgs queerfeministischer Stand Up Comedy Club SMASH COMEDY feiert die female & queer Comedians der deutschen Stand Up Szene. Hier geben jeweils 5-8 Profis und Newcomer*innen das Mikro weiter, präsentiert von der Smash-Gründerin, Musikerin und Stand Up Comedienne Schwessi aus Hamburg.  Das Besondere: diese Bühne gehört nur denen, die in der von weißen hetero cis Männern dominierten Szene extrem unterrepräsentiert sind. Statt Pimmelwitzen, „meine Freundin“-Jokes und rassistischen Klischees eine Bühne zu geben, wollen wir Sichtbarkeit für die Stimmen und Lebensrealitäten schaffen, die sonst nur Zielscheibe dieser Witze sind.  Mit maximalem Spaß und Diversity Power gegen Diskriminierung! Lasst euch inspirieren, solidarisiert euch und trainiert eure Empathie-Muskeln bei SMASH COMEDY! Und dann gemeinsam so laut lachen, dass patriarchale Strukturen ganz leise anfangen zu bröckeln...",
+        "link": "https://rausgegangen.de/en/events/smash-comedy-die-queerfeministische-stand-up-show-8/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7lpuBRh1QQWPU3vLF967_img7426.JPG?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Tue, 10.03.2026",
+        "time": "20:00",
+        "event": "Pitcher Poetry Slam (@Pitcher - Rock'n'Roll Headquarter Düsseldorf)",
+        "category": "",
+        "description": "Seit über 10 Jahren der schönste Poetry Slam Düsseldorfs. In der Saison 2025/2026 holen wir wieder die besten Poetry Slammer aus nah und fern auf unsere Bühne. Für alle die mehr als Comedy, aber nicht weniger als mitereißende Texte und beste Unterhaltung wollen.  Der Weg zu geilster Slam Poetry aka Rock'n'Roll mit Worten. Es wird auch eine Abendkasse geben.Das akutelle Line-Up findet ihr wie gewohnt auf den Sozialen Medien bei uns.MC: Meral Ziegler & Bernard Hoffmeister Dj: MarXaDirekt in Friedrichstadt, Oberbilker Allee 29. Bester Anschluss an die Öffentlichen Verkehrsmittel - Düsseldorf S-Bahn Friedrichstadt (S8, S11, S28) - Straßenbahn Linie 707, 704. Mit unserem Bändchen gibt es beim Griechen gegenüber (Pfeffermühle) zu jedem Essen einen Ouzo gratis. VVK: 7€ AK: 8€ Doors open: 19 Uhr! Kick off: 20 Uhr!!",
+        "link": "https://rausgegangen.de/en/events/pitcher-poetry-slam-32/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BlVHKY3VQjGuKaEJb9XD_1324401410310557103219215220068282268868414o.jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
     },
     {
         "date": "Mi, 11.03.2026",
@@ -2828,6 +2848,46 @@
     {
         "date": "Wed, 11.03.2026",
         "time": "19:00",
+        "event": "T&T IMPRO SHOW (@reBOOTS-Stuttgart)",
+        "category": "",
+        "description": "Bei der T&T IMPRO SHOW schicken Comedians und Schauspielende spontan los, was ihnen gerade einfällt – du kannst sogar selbst mitmischen. Zwischen schnellen Ideen und witzigen Herausforderungen entsteht ein Abend, der garantiert keine Langeweile kennt und alle überrascht 🫂",
+        "link": "https://rausgegangen.de/en/events/tt-impro-show-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hp44YGTXREO2y4TdvmAa_2.png?width=1200&height=900&mode=crop",
+        "city": "Stuttgart"
+    },
+    {
+        "date": "Wed, 11.03.2026",
+        "time": "19:00",
+        "event": "ROMANO \"KÖRPER\" TOUR 2026 (@Tower)",
+        "category": "",
+        "description": "Romano feiert mit seinem neuen Album „Körper“ das Wunder Mensch: Sein erzählerischer Stil verknüpft Sprechgesang mit den futuristischen Beats von Siriusmo. Die Tour 2026 nimmt dich mit auf eine Reise durch Träume, Kämpfe und Heldentaten, bei der Musik und Geschichten zu einem ungewöhnlichen Hörmärchen verschmelzen.",
+        "link": "https://rausgegangen.de/en/events/romano-korper-tour-2026-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hwL0hUW8TciF780H0MbW_koerpertour25601440yt.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Wed, 11.03.2026",
+        "time": "20:00",
+        "event": "NICK & JUNE - New Year's Face Tour 2026 (@Kulturzentrum Lagerhaus)",
+        "category": "",
+        "description": "Ein Abend für alle, die sich gern in Gitarrenhall verlieren und in melancholischen Indie‑Welten treiben lassen. Nick & June nehmen dich mit auf eine Reise zwischen Traum, Aufbruch und leuchtender Nachtpoesie. ✨",
+        "link": "https://rausgegangen.de/en/events/nick-june-new-years-face-tour-2026-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TBkf00SGQm6E01Wkj4hy_rausgegangen-header-169.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Wed, 11.03.2026",
+        "time": "20:00",
+        "event": "ROMANO | Live 2026 (@Tower Musikclub)",
+        "category": "",
+        "description": "Romano mixt Rap mit Metal und Drum'n'Bass, dazu kommen lockere Westcoast-Sounds und poppige Balladen – so klingt sein unverwechselbarer Stil. Sein nächstes Album steht in den Startlöchern und im kommenden Jahr zeigt er live, wie facettenreich Deutschrap sein kann 🤩",
+        "link": "https://rausgegangen.de/en/events/romano-12/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/KIqSQWdmR1fVdVZP3UWN_romano-c-york-christoph-riccius-fuer-online.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Wed, 11.03.2026",
+        "time": "19:00",
         "event": "Grands Comedy Düsseldorf (@Event-Theater Schwanenhöfe)",
         "category": "",
         "description": "Düsseldorf, are you ready? Grands Comedy ist wieder da!Grands Comedy ist eine regelmäßige Stand Up Comedy Open Mic Show. 8 bis 10 Comedians, egal ob Profis oder Newcomer, haben 7 Minuten auf der Bühne, um ihre neuen Gags und Ideen zu testen. Performance nach klassischer Stand Up Comedy: Gehirn, Mund, Mikro – sonst nichts.Vladimir Andrienko begleitet die Show als Moderator.Adresse: Event-Theater Schwahnenhöfe Erkrather Str. 234B, 40233 DüsseldorfEinlass: 19 Uhr Beginn: 20 UhrEintritt: Vorverkaufskasse 10,00 € zzgl. Gebühren Abendkasse: 12,00 €",
@@ -2877,46 +2937,6 @@
     },
     {
         "date": "Wed, 11.03.2026",
-        "time": "19:00",
-        "event": "T&T IMPRO SHOW (@reBOOTS-Stuttgart)",
-        "category": "",
-        "description": "Bei der T&T IMPRO SHOW schicken Comedians und Schauspielende spontan los, was ihnen gerade einfällt – du kannst sogar selbst mitmischen. Zwischen schnellen Ideen und witzigen Herausforderungen entsteht ein Abend, der garantiert keine Langeweile kennt und alle überrascht 🫂",
-        "link": "https://rausgegangen.de/en/events/tt-impro-show-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hp44YGTXREO2y4TdvmAa_2.png?width=1200&height=900&mode=crop",
-        "city": "Stuttgart"
-    },
-    {
-        "date": "Wed, 11.03.2026",
-        "time": "19:00",
-        "event": "ROMANO \"KÖRPER\" TOUR 2026 (@Tower)",
-        "category": "",
-        "description": "Romano feiert mit seinem neuen Album „Körper“ das Wunder Mensch: Sein erzählerischer Stil verknüpft Sprechgesang mit den futuristischen Beats von Siriusmo. Die Tour 2026 nimmt dich mit auf eine Reise durch Träume, Kämpfe und Heldentaten, bei der Musik und Geschichten zu einem ungewöhnlichen Hörmärchen verschmelzen.",
-        "link": "https://rausgegangen.de/en/events/romano-korper-tour-2026-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hwL0hUW8TciF780H0MbW_koerpertour25601440yt.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Wed, 11.03.2026",
-        "time": "20:00",
-        "event": "NICK & JUNE - New Year's Face Tour 2026 (@Kulturzentrum Lagerhaus)",
-        "category": "",
-        "description": "Ein Abend für alle, die sich gern in Gitarrenhall verlieren und in melancholischen Indie‑Welten treiben lassen. Nick & June nehmen dich mit auf eine Reise zwischen Traum, Aufbruch und leuchtender Nachtpoesie. ✨",
-        "link": "https://rausgegangen.de/en/events/nick-june-new-years-face-tour-2026-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TBkf00SGQm6E01Wkj4hy_rausgegangen-header-169.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Wed, 11.03.2026",
-        "time": "20:00",
-        "event": "ROMANO | Live 2026 (@Tower Musikclub)",
-        "category": "",
-        "description": "Romano mixt Rap mit Metal und Drum'n'Bass, dazu kommen lockere Westcoast-Sounds und poppige Balladen – so klingt sein unverwechselbarer Stil. Sein nächstes Album steht in den Startlöchern und im kommenden Jahr zeigt er live, wie facettenreich Deutschrap sein kann 🤩",
-        "link": "https://rausgegangen.de/en/events/romano-12/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/KIqSQWdmR1fVdVZP3UWN_romano-c-york-christoph-riccius-fuer-online.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Wed, 11.03.2026",
         "time": "20:00",
         "event": "Der Herr der Ringe & Der Hobbit - Das Konzert (@Stadthalle Bielefeld)",
         "category": "",
@@ -2933,20 +2953,20 @@
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
-        "date": "Th, 12.03.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
         "date": "Do, 12.03.2026",
         "time": "20:50",
         "event": "Hoppers (@cinemaxx_bielefeld)",
         "category": "Kino",
         "genre": "Trickfilm",
         "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
+        "date": "Th, 12.03.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 12.03.2026",
@@ -3156,16 +3176,6 @@
     },
     {
         "date": "Thu, 12.03.2026",
-        "time": "18:30",
-        "event": "Game & Yap – All Genders Edition @Konvex (@Konvex)",
-        "category": "",
-        "description": "GAME & YAP – unser Spieleabend für wirklich ALLE geht in die nächste Runde! 🎲✨ Du hast Lust, neue Leute kennenzulernen, raus aus deiner Bubble zu kommen und einfach mal wieder so richtig Spaß zu haben? Ob deep talks, lockere Runden oder einfach nur gemeinsames Lachen – beim Game & Yap bist du genau richtig! Wir wissen: Es kann manchmal Überwindung kosten, zu einem Event zu gehen, um neue Freund:innen zu finden oder Gespräche abseits von \"Und, was machst du so?\" zu führen. Genau deshalb gibt’s jetzt unser erstes Mal ganz offen für alle Geschlechter. Mehr Verbindung, mehr Leichtigkeit, mehr gute Gespräche für unsere Stadt! 🤍 Und wir freuen uns besonders, dass wir unseren Spieleabend wieder im Konvex hosten dürfen – bei leckeren Drinks macht es ja gleich noch mehr Spaß! Auf dich wartet: 🧩 Ein bunter Spieleabend voller Abwechslung und cooler Begegnungen. Unser Special: Du rotierst immer wieder durch den Abend, lernst so automatisch neue Menschen kennen und landest garantiert nicht den ganzen Abend im selben Team. Natürlich kannst du Freund:innen mitbringen – aber allein kommen ist ausdrücklich erwünscht (und macht das Kennenlernen noch spannender!). 🏡 Wir schaffen eine entspannte, offene Atmosphäre im Konvex. Alle dürfen so kommen, wie sie sind! Und falls du ein bisschen schüchtern bist: Keine Sorge, wir connecten euch vor Ort wie immer ganz easy. Unsere Gesprächskarten helfen beim Einstieg – so wird Smalltalk, wenn du willst, ganz schnell zu echten Gesprächen. 🎲 Brettspiele, Kartenspiele, Lieblingsspiele, neue Spiele – alles kann, nichts muss. Hauptsache, alle haben Spaß und kommen miteinander ins Gespräch! Bringt gern auch eure eigenen Lieblingsspiele mit. Wir freuen uns MEGA auf einen offenen Abend voller Games, Gespräche, Lachen und neuen Connections. Trau dich, komm allein oder mit Lieblingsmenschen vorbei – und lass uns gemeinsam einen unvergesslichen Abend erleben! Bei Fragen, schreib uns einfach – wir sind für dich da. 👋 Let’s play & yap!",
-        "link": "https://rausgegangen.de/en/events/game-yap-all-genders-edition-konvex-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/CLTyyDWzSkaJf4YXIXx9_nsplsha6b386d54f6a45249f5db8d0c80bae36mv2.jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Thu, 12.03.2026",
         "time": "19:30",
         "event": "Backpacking-Abenteuer Westafrika (@Globetrotter Stuttgart)",
         "category": "",
@@ -3236,6 +3246,16 @@
     },
     {
         "date": "Thu, 12.03.2026",
+        "time": "18:30",
+        "event": "Game & Yap – All Genders Edition @Konvex (@Konvex)",
+        "category": "",
+        "description": "GAME & YAP – unser Spieleabend für wirklich ALLE geht in die nächste Runde! 🎲✨ Du hast Lust, neue Leute kennenzulernen, raus aus deiner Bubble zu kommen und einfach mal wieder so richtig Spaß zu haben? Ob deep talks, lockere Runden oder einfach nur gemeinsames Lachen – beim Game & Yap bist du genau richtig! Wir wissen: Es kann manchmal Überwindung kosten, zu einem Event zu gehen, um neue Freund:innen zu finden oder Gespräche abseits von \"Und, was machst du so?\" zu führen. Genau deshalb gibt’s jetzt unser erstes Mal ganz offen für alle Geschlechter. Mehr Verbindung, mehr Leichtigkeit, mehr gute Gespräche für unsere Stadt! 🤍 Und wir freuen uns besonders, dass wir unseren Spieleabend wieder im Konvex hosten dürfen – bei leckeren Drinks macht es ja gleich noch mehr Spaß! Auf dich wartet: 🧩 Ein bunter Spieleabend voller Abwechslung und cooler Begegnungen. Unser Special: Du rotierst immer wieder durch den Abend, lernst so automatisch neue Menschen kennen und landest garantiert nicht den ganzen Abend im selben Team. Natürlich kannst du Freund:innen mitbringen – aber allein kommen ist ausdrücklich erwünscht (und macht das Kennenlernen noch spannender!). 🏡 Wir schaffen eine entspannte, offene Atmosphäre im Konvex. Alle dürfen so kommen, wie sie sind! Und falls du ein bisschen schüchtern bist: Keine Sorge, wir connecten euch vor Ort wie immer ganz easy. Unsere Gesprächskarten helfen beim Einstieg – so wird Smalltalk, wenn du willst, ganz schnell zu echten Gesprächen. 🎲 Brettspiele, Kartenspiele, Lieblingsspiele, neue Spiele – alles kann, nichts muss. Hauptsache, alle haben Spaß und kommen miteinander ins Gespräch! Bringt gern auch eure eigenen Lieblingsspiele mit. Wir freuen uns MEGA auf einen offenen Abend voller Games, Gespräche, Lachen und neuen Connections. Trau dich, komm allein oder mit Lieblingsmenschen vorbei – und lass uns gemeinsam einen unvergesslichen Abend erleben! Bei Fragen, schreib uns einfach – wir sind für dich da. 👋 Let’s play & yap!",
+        "link": "https://rausgegangen.de/en/events/game-yap-all-genders-edition-konvex-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/CLTyyDWzSkaJf4YXIXx9_nsplsha6b386d54f6a45249f5db8d0c80bae36mv2.jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Thu, 12.03.2026",
         "time": "20:00",
         "event": "Coldplace (@Lokschuppen)",
         "category": "The World's Leading Tribute von Coldplay",
@@ -3259,14 +3279,6 @@
         "category": "Party",
         "link": "https://www.club-sams.de/veranstaltung/grauzone-13032026-2300",
         "image_url": "https://www.club-sams.de/data/202603/Gz_13_3_Instagram_Post_1__150.jpg?v=1772465228"
-    },
-    {
-        "date": "Fri, 13.03",
-        "time": "23:00",
-        "event": "Studi Pop! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/studi-pop-1/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/02/Stereo_13_0326_Feed.jpg"
     },
     {
         "date": "Fr, 13.03.2026",
@@ -3299,6 +3311,14 @@
         "category": "Kreativität",
         "link": "https://kunsthalle-bielefeld.de/programm/veranstaltungen/#10209",
         "image_url": null
+    },
+    {
+        "date": "Fri, 13.03",
+        "time": "23:00",
+        "event": "Studi Pop! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/studi-pop-1/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/02/Stereo_13_0326_Feed.jpg"
     },
     {
         "date": "Fr, 13.03.2026",
@@ -3522,26 +3542,6 @@
     },
     {
         "date": "Fri, 13.03.2026",
-        "time": "20:00",
-        "event": "Crimson Bloom (@Ratinger Hof)",
-        "category": "",
-        "description": "Crimson Bloom, 4 junge Musiker, die dabei sind Bühne um Bühne zu erobern, unter anderem auf der erfolgreichen Europatour als Support für die Briten Leap. Trockener Sound trifft auf soulige Vocals, das Ergebnis - eine interessante Mischung aus Indie, Pop und Rock. Aber das wohl außergewöhnlichste an den 4 Krefelder Jungs? Ihre sensationelle Bühnenpräsenz, endlos viel Energie und das konstante Lächeln auf den Lippen.",
-        "link": "https://rausgegangen.de/en/events/crimson-bloom-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5VUjU0WcTLiMTKSbzP0Q_crimson.jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Fri, 13.03.2026",
-        "time": "22:00",
-        "event": "Riot Bass (@Ampere)",
-        "category": "",
-        "description": "Am Freitag, dem 13. März folgt der nächste Streich! RIOT.BASS startet in die 2. Runde!Auch dieses Mal wird königlich aufgetischt mit einem extravaganten Booking aus der haute cuisine des Jungle, Drum n Bass, Neo und Noschool!: AKOV (Symbiotik Records Wien)The ferocious human-bear hybrid AKOV ist ein Name, der kaum noch einer Vorstellung bedarf, aber für diejenigen, die ihn noch nicht kennen: Seit 2013 mischt er die Drum & Bass-Szene mit wilder Entschlossenheit auf.Mit festen Wurzeln in der dunkleren Seite des DnB hat sich AKOV auf einigen der renommiertesten Labels der Szene etabliert. Ram Records, Program, Eatbrain Records, Blackout, Bad Taste, C4C Records, Drum & Bass Arena,... -um nur einige zu nennen!Obwohl er hauptsächlich als Neurofunk-Künstler gefeiert wird, ist er auch offen für andere Musikstile.Neurobreaks sind sein neuestes und aufregendstes Projekt, denn mit seinem neuen Label Symbiotik Records will er die Lücke zwischen DnB und langsameren Tempi schließen.AKOVs unverkennbarer Sound ist überall zu erleben, von Underground-Rave bis Festival.https://akov.bandcamp.com D.I.S.D.I.S. ist kein Name, der laut schreit – aber einer, der in der hiesigen Bass-Szene seit Jahrzehnten präsent ist. Als Teil der Soundsystem-Crew Third Ear HiFi (mit RIZLA & BASE) und der Chemnitzer DRUMS-Crew präsentiert er seine Off-Beat-lastigen Soundcollagen sowohl national als auch international. Getreu dem Motto: “RAGGA IS THE VIBE & JUNGLE IS THE MOVE!” begreift er seine Sets als interdisziplinären Schmelztiegel der (Bass)Kultur. Ein Austausch also, der sich im Begriff “Jungle” bestens verdichtet. Keine Grenzen – nur Frequenzen.https://on.soundcloud.com/AJqZczqmD4vj0vQh2s Sira BrooksMit ihrer Veranstaltungsreihe CGN DNB ist sie ein essenzieller Bestandteil der Kölner DnB Szene und wird diese bei der RIOT.BASS amtlich mit klirrendem Crossbreed und donnerndem Neurofunk vertreten.https://soundcloud.com/sirabrooks-674fm/sira-brooks-set-dr-mad-mats Sola PlexusMit goldener Maske, explosiver Bühnenpräsenz und übermenschlicher Kondition zieht er jedes Publikum gnadenlos auf den Dancefloor.Er bereichert DJ-Sets mit gezielten Vocals, klarem Timing und dramaturgischem Gespür – und verstärkt so den Flow und die musikalische Handschrift der DJs.https://soundcloud.com/jamirovanta Das Ganze wird umrahmt von den Residents Filibration, Hectical und DJ Saxe.Für Visuals und Licht sorgen SWCTV und LaRage.",
-        "link": "https://rausgegangen.de/en/events/riot-bass-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/kQpAbaF7SGim8EVEGoEz_img1700.jpeg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Fri, 13.03.2026",
         "time": "18:00",
         "event": "merlin tanzt! mit Love Supreme DJ Team (@Kulturzentrum Merlin)",
         "category": "",
@@ -3642,6 +3642,26 @@
     },
     {
         "date": "Fri, 13.03.2026",
+        "time": "20:00",
+        "event": "Crimson Bloom (@Ratinger Hof)",
+        "category": "",
+        "description": "Crimson Bloom, 4 junge Musiker, die dabei sind Bühne um Bühne zu erobern, unter anderem auf der erfolgreichen Europatour als Support für die Briten Leap. Trockener Sound trifft auf soulige Vocals, das Ergebnis - eine interessante Mischung aus Indie, Pop und Rock. Aber das wohl außergewöhnlichste an den 4 Krefelder Jungs? Ihre sensationelle Bühnenpräsenz, endlos viel Energie und das konstante Lächeln auf den Lippen.",
+        "link": "https://rausgegangen.de/en/events/crimson-bloom-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5VUjU0WcTLiMTKSbzP0Q_crimson.jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Fri, 13.03.2026",
+        "time": "22:00",
+        "event": "Riot Bass (@Ampere)",
+        "category": "",
+        "description": "Am Freitag, dem 13. März folgt der nächste Streich! RIOT.BASS startet in die 2. Runde!Auch dieses Mal wird königlich aufgetischt mit einem extravaganten Booking aus der haute cuisine des Jungle, Drum n Bass, Neo und Noschool!: AKOV (Symbiotik Records Wien)The ferocious human-bear hybrid AKOV ist ein Name, der kaum noch einer Vorstellung bedarf, aber für diejenigen, die ihn noch nicht kennen: Seit 2013 mischt er die Drum & Bass-Szene mit wilder Entschlossenheit auf.Mit festen Wurzeln in der dunkleren Seite des DnB hat sich AKOV auf einigen der renommiertesten Labels der Szene etabliert. Ram Records, Program, Eatbrain Records, Blackout, Bad Taste, C4C Records, Drum & Bass Arena,... -um nur einige zu nennen!Obwohl er hauptsächlich als Neurofunk-Künstler gefeiert wird, ist er auch offen für andere Musikstile.Neurobreaks sind sein neuestes und aufregendstes Projekt, denn mit seinem neuen Label Symbiotik Records will er die Lücke zwischen DnB und langsameren Tempi schließen.AKOVs unverkennbarer Sound ist überall zu erleben, von Underground-Rave bis Festival.https://akov.bandcamp.com D.I.S.D.I.S. ist kein Name, der laut schreit – aber einer, der in der hiesigen Bass-Szene seit Jahrzehnten präsent ist. Als Teil der Soundsystem-Crew Third Ear HiFi (mit RIZLA & BASE) und der Chemnitzer DRUMS-Crew präsentiert er seine Off-Beat-lastigen Soundcollagen sowohl national als auch international. Getreu dem Motto: “RAGGA IS THE VIBE & JUNGLE IS THE MOVE!” begreift er seine Sets als interdisziplinären Schmelztiegel der (Bass)Kultur. Ein Austausch also, der sich im Begriff “Jungle” bestens verdichtet. Keine Grenzen – nur Frequenzen.https://on.soundcloud.com/AJqZczqmD4vj0vQh2s Sira BrooksMit ihrer Veranstaltungsreihe CGN DNB ist sie ein essenzieller Bestandteil der Kölner DnB Szene und wird diese bei der RIOT.BASS amtlich mit klirrendem Crossbreed und donnerndem Neurofunk vertreten.https://soundcloud.com/sirabrooks-674fm/sira-brooks-set-dr-mad-mats Sola PlexusMit goldener Maske, explosiver Bühnenpräsenz und übermenschlicher Kondition zieht er jedes Publikum gnadenlos auf den Dancefloor.Er bereichert DJ-Sets mit gezielten Vocals, klarem Timing und dramaturgischem Gespür – und verstärkt so den Flow und die musikalische Handschrift der DJs.https://soundcloud.com/jamirovanta Das Ganze wird umrahmt von den Residents Filibration, Hectical und DJ Saxe.Für Visuals und Licht sorgen SWCTV und LaRage.",
+        "link": "https://rausgegangen.de/en/events/riot-bass-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/kQpAbaF7SGim8EVEGoEz_img1700.jpeg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Fri, 13.03.2026",
         "time": "19:00",
         "event": "Fernsehkonzert: eXcubitors + My Silent Romance (@Kanal 21 gGmbH)",
         "category": "Synth Pop live im Studio von Kanal 21",
@@ -3676,14 +3696,6 @@
         "image_url": "https://www.club-sams.de/data/202602/SA_14_03_Instagram_Post__150.jpg?v=1772232516"
     },
     {
-        "date": "Sat, 14.03",
-        "time": "23:00",
-        "event": "STEREOLOVE (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/stereolove-2/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/02/Stereo_14_0326_Feed.jpg"
-    },
-    {
         "date": "Sa, 14.03.2026",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -3714,6 +3726,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 14.03",
+        "time": "23:00",
+        "event": "STEREOLOVE (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/stereolove-2/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/02/Stereo_14_0326_Feed.jpg"
     },
     {
         "date": "Sa, 14.03.2026",
@@ -3856,16 +3876,6 @@
     },
     {
         "date": "Sat, 14.03.2026",
-        "time": "20:00",
-        "event": "Fisch sucht Fahrrad - Frankfurt datet wieder offline (@Westhafen Pier 1)",
-        "category": "",
-        "description": "Eine Nacht voller echter Begegnungen und ganz viel Leichtigkeit. Dich erwartet einiges: Speed-Dating, Latin-Dance, ein lebendiger Dancefloor und das legendäre Nummernspiel – alles für Herzklopfen ohne Swipes. Komm vorbei und mach real life connections. 🐟🚲💜",
-        "link": "https://rausgegangen.de/en/events/fisch-sucht-fahrrad-frankfurt-datet-wieder-offline-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/sptjqpOfTKn0pZapGzCn_fsf2160x1080eventbritebanner143.png?width=1200&height=900&mode=crop",
-        "city": "Frankfurt"
-    },
-    {
-        "date": "Sat, 14.03.2026",
         "time": "19:00",
         "event": "HE/RO Tour 2026 (@FZW Dortmund)",
         "category": "",
@@ -3946,46 +3956,6 @@
     },
     {
         "date": "Sat, 14.03.2026",
-        "time": "11:00",
-        "event": "KUNSTSAFARI: Fluxus bis Punk, die Ratinger Straße. (@Kunstakademie Düsseldorf)",
-        "category": "",
-        "description": "",
-        "link": "https://rausgegangen.de/en/events/kunstsafari-fluxus-bis-punk-die-ratinger-strae-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6kDsdDKNSQgr9VRrmcu6_punk.jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Sat, 14.03.2026",
-        "time": "18:00",
-        "event": "Bookies in Pajamas | Die Pyjama Lese-Party 📚 (@Café Plätz)",
-        "category": "",
-        "description": "Am 14. März 2026 kannst du in gemütlichem Pyjama mit anderen Fantasy-Fans beim Bookies in Pajamas lesen, quatschen und entspannen. Es erwarten dich lockere Gespräche, eine liebevoll gestaltete Fotowand und Snacks inklusive veganer Optionen 🧚‍♀️",
-        "link": "https://rausgegangen.de/en/events/bookies-in-pajamas-die-booktok-pyjama-party-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/y3h5IfemR4W5S2gbEcZX_rausgegangen-bookies-in-pajamas.jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Sat, 14.03.2026",
-        "time": "19:30",
-        "event": "Weinverliebt - Das Single Winetasting (@Stahlwerk & Treibgut)",
-        "category": "",
-        "description": "WeinVerliebt Das Single Weintasting14.03.2026 Einlass 19:30 Uhr Beginn 20:00 UhrManchmal beginnt alles mit einem Blick. Manchmal mit einem Lächeln. Und manchmal mit einem guten Glas Wein.Bei WeinVerliebt treffen ausgewählte Weine auf offene Herzen. In entspannter Atmosphäre genießt ihr eine Weinprobe und kommt ganz ungezwungen ins Gespräch. Kein steifes Kennenlernen, kein Druck. Nur Genuss, gute Gespräche und die Möglichkeit, jemanden zu treffen, der dein Herz höherschlagen lässt.In rund 1,5 Stunden verkostet ihr 5 sorgfältig ausgewählte Weine aus dem Sortiment, von spannenden Neuentdeckungen bis zu echten Klassikern. Dazu erfahrt ihr Wissenswertes über Herkunft, Rebsorten und Besonderheiten. Locker erklärt, ohne Fachbegriffe, die niemand braucht.Und weil ein besonderer Abend auch einen besonderen Abschluss verdient, erwartet euch zusätzlich ein kleines Digestif Tasting. Ein feiner Abschluss, der wärmt, überrascht und vielleicht für das letzte mutige Lächeln sorgt.Was ist enthalten5 ausgewählte Weinproben 1,5 Stunden lockere Verkostung in gemütlicher Atmosphäre Ein Digestif Tasting zum Abschluss Eintritt zur anschließenden Single Party im StahlwerkWas ist nicht enthaltenWeitere Getränke oder Speisen außerhalb der VerkostungWenn die Gläser geleert sind, beginnt der nächste Teil des Abends. Im Anschluss feiern wir gemeinsam weiter bei der Single Party im Stahlwerk. Tanzen, lachen, flirten und sehen, wohin der Abend euch führt.24,90 € (inklusive Eintritt zur anschließenden Single Party)Ein Abend. Fünf Weine. Viele Möglichkeiten. Vielleicht der Beginn von etwas Besonderem.WeinVerliebt. Probieren. Begegnen. Verlieben. 🍷✨",
-        "link": "https://rausgegangen.de/en/events/weinverliebt-das-single-winetasting-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/G2HCLeUTThKkZcK9TGAN_weinverliebttitel.png?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Sat, 14.03.2026",
-        "time": "22:00",
-        "event": "Mega Single Party | Stahlwerk Düsseldorf (@Stahlwerk & Treibgut)",
-        "category": "",
-        "description": "🌟 MEGA SINGLE PARTY 🌟 im Stahlwerk! 🏭 ❤️ Für alle Liebessuchenden und Freunde des guten Feierns:Am Samstag 14.3. wird das Stahlwerk zum Zentrum der Liebe.  🎶 Musikalisch: die besten Hits von 1980 bis heute. Vergesst Tinder & Co. für eine Nacht und erlebt das Aufeinandertreffen in der echten Welt. Dank unserer farbigen Bändchen könnt ihr eure Flirt-Laune sichtbar machen:🔴 Rot - Bin vergeben/ohne Absichten🟡 Gelb - Neugierig und offen🟢 Grün - Aktiv suchend Außerdem hat jeder Gast eine Nummer! Möchtet ihr jemandem ins Auge fassen? Sendet über die \"Liebes Bar\" eine Nachricht, die dann auf der großen Leinwand erscheint. Bei gegenseitigem Interesse – und voilà, der Funke kann überspringen. Für alle, die es klassisch mögen: Einfach aufs Tanzparkett und losflirten! Unser Awareness Team ist stets vor Ort, sodass ihr euch immer sicher und wohl fühlen könnt. Wir freuen uns auf eine Nacht voller Magie! ✨",
-        "link": "https://rausgegangen.de/en/events/mega-single-party-stahlwerk-dusseldorf-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3As8rrCT8CZOhdDo8YZA_260126homepagebannerduesseldorfms0326-kopie.jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Sat, 14.03.2026",
         "time": "20:00",
         "event": "Marius Nitzbon (@Im Wizemann - Studio)",
         "category": "",
@@ -4033,6 +4003,46 @@
         "link": "https://rausgegangen.de/en/events/club-santrofi-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LfUbYE2JQ4OtzCdvd3BA_santrofi062024dsc7338.jpeg?width=1200&height=900&mode=crop",
         "city": "Bremen"
+    },
+    {
+        "date": "Sat, 14.03.2026",
+        "time": "11:00",
+        "event": "KUNSTSAFARI: Fluxus bis Punk, die Ratinger Straße. (@Kunstakademie Düsseldorf)",
+        "category": "",
+        "description": "",
+        "link": "https://rausgegangen.de/en/events/kunstsafari-fluxus-bis-punk-die-ratinger-strae-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6kDsdDKNSQgr9VRrmcu6_punk.jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Sat, 14.03.2026",
+        "time": "18:00",
+        "event": "Bookies in Pajamas | Die Pyjama Lese-Party 📚 (@Café Plätz)",
+        "category": "",
+        "description": "Am 14. März 2026 kannst du in gemütlichem Pyjama mit anderen Fantasy-Fans beim Bookies in Pajamas lesen, quatschen und entspannen. Es erwarten dich lockere Gespräche, eine liebevoll gestaltete Fotowand und Snacks inklusive veganer Optionen 🧚‍♀️",
+        "link": "https://rausgegangen.de/en/events/bookies-in-pajamas-die-booktok-pyjama-party-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/y3h5IfemR4W5S2gbEcZX_rausgegangen-bookies-in-pajamas.jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Sat, 14.03.2026",
+        "time": "19:30",
+        "event": "Weinverliebt - Das Single Winetasting (@Stahlwerk & Treibgut)",
+        "category": "",
+        "description": "WeinVerliebt Das Single Weintasting14.03.2026 Einlass 19:30 Uhr Beginn 20:00 UhrManchmal beginnt alles mit einem Blick. Manchmal mit einem Lächeln. Und manchmal mit einem guten Glas Wein.Bei WeinVerliebt treffen ausgewählte Weine auf offene Herzen. In entspannter Atmosphäre genießt ihr eine Weinprobe und kommt ganz ungezwungen ins Gespräch. Kein steifes Kennenlernen, kein Druck. Nur Genuss, gute Gespräche und die Möglichkeit, jemanden zu treffen, der dein Herz höherschlagen lässt.In rund 1,5 Stunden verkostet ihr 5 sorgfältig ausgewählte Weine aus dem Sortiment, von spannenden Neuentdeckungen bis zu echten Klassikern. Dazu erfahrt ihr Wissenswertes über Herkunft, Rebsorten und Besonderheiten. Locker erklärt, ohne Fachbegriffe, die niemand braucht.Und weil ein besonderer Abend auch einen besonderen Abschluss verdient, erwartet euch zusätzlich ein kleines Digestif Tasting. Ein feiner Abschluss, der wärmt, überrascht und vielleicht für das letzte mutige Lächeln sorgt.Was ist enthalten5 ausgewählte Weinproben 1,5 Stunden lockere Verkostung in gemütlicher Atmosphäre Ein Digestif Tasting zum Abschluss Eintritt zur anschließenden Single Party im StahlwerkWas ist nicht enthaltenWeitere Getränke oder Speisen außerhalb der VerkostungWenn die Gläser geleert sind, beginnt der nächste Teil des Abends. Im Anschluss feiern wir gemeinsam weiter bei der Single Party im Stahlwerk. Tanzen, lachen, flirten und sehen, wohin der Abend euch führt.24,90 € (inklusive Eintritt zur anschließenden Single Party)Ein Abend. Fünf Weine. Viele Möglichkeiten. Vielleicht der Beginn von etwas Besonderem.WeinVerliebt. Probieren. Begegnen. Verlieben. 🍷✨",
+        "link": "https://rausgegangen.de/en/events/weinverliebt-das-single-winetasting-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/G2HCLeUTThKkZcK9TGAN_weinverliebttitel.png?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Sat, 14.03.2026",
+        "time": "22:00",
+        "event": "Mega Single Party | Stahlwerk Düsseldorf (@Stahlwerk & Treibgut)",
+        "category": "",
+        "description": "🌟 MEGA SINGLE PARTY 🌟 im Stahlwerk! 🏭 ❤️ Für alle Liebessuchenden und Freunde des guten Feierns:Am Samstag 14.3. wird das Stahlwerk zum Zentrum der Liebe.  🎶 Musikalisch: die besten Hits von 1980 bis heute. Vergesst Tinder & Co. für eine Nacht und erlebt das Aufeinandertreffen in der echten Welt. Dank unserer farbigen Bändchen könnt ihr eure Flirt-Laune sichtbar machen:🔴 Rot - Bin vergeben/ohne Absichten🟡 Gelb - Neugierig und offen🟢 Grün - Aktiv suchend Außerdem hat jeder Gast eine Nummer! Möchtet ihr jemandem ins Auge fassen? Sendet über die \"Liebes Bar\" eine Nachricht, die dann auf der großen Leinwand erscheint. Bei gegenseitigem Interesse – und voilà, der Funke kann überspringen. Für alle, die es klassisch mögen: Einfach aufs Tanzparkett und losflirten! Unser Awareness Team ist stets vor Ort, sodass ihr euch immer sicher und wohl fühlen könnt. Wir freuen uns auf eine Nacht voller Magie! ✨",
+        "link": "https://rausgegangen.de/en/events/mega-single-party-stahlwerk-dusseldorf-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3As8rrCT8CZOhdDo8YZA_260126homepagebannerduesseldorfms0326-kopie.jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
     },
     {
         "date": "Sat, 14.03.2026",
@@ -4518,14 +4528,6 @@
         "link": "https://www.bielefeld.jetzt/node/1609918"
     },
     {
-        "date": "Fri, 20.03",
-        "time": "23:00",
-        "event": "Studi Pop! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/studi-pop-2/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/02/Stereo_20_0326_Feed.jpg"
-    },
-    {
         "date": "Fr, 20.03.2026",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro FRIDAY (@hinterzimmer.club)",
@@ -4548,6 +4550,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fri, 20.03",
+        "time": "23:00",
+        "event": "Studi Pop! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/studi-pop-2/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/02/Stereo_20_0326_Feed.jpg"
     },
     {
         "event": "Schrittmacher – Power to the People  Community Dance Projekt trifft Musik- und Kunstschule(@theaterlaborbielefeld)",
@@ -4698,14 +4708,6 @@
         "link": "https://www.bielefeld.jetzt/node/1535336"
     },
     {
-        "date": "Sat, 21.03",
-        "time": "23:00",
-        "event": "STEREOLOVE (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/stereolove-3/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/02/Stereo_21_0326_Feed.jpg"
-    },
-    {
         "date": "Sa, 21.03.2026",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -4736,6 +4738,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 21.03",
+        "time": "23:00",
+        "event": "STEREOLOVE (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/stereolove-3/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/02/Stereo_21_0326_Feed.jpg"
     },
     {
         "event": "Schrittmacher – Power to the People  Community Dance Projekt trifft Musik- und Kunstschule(@theaterlaborbielefeld)",
@@ -5009,16 +5019,6 @@
     },
     {
         "date": "Mon, 23.03.2026",
-        "time": "20:00",
-        "event": "Craft Comedy Open Mic (@Oililio)",
-        "category": "",
-        "description": "Bei den Craft Comedy Open Mics testen sechs bis acht Comedians ihr frischestes Material direkt vor Publikum. Das abwechslungsreiche Format bringt Newcomer:innen und Profis zusammen, die gemeinsam lachen, feiern und auch mal scheitern. Hier hast du die Gelegenheit, die Entwicklung von Stand-up hautnah zu erleben 🫂",
-        "link": "https://rausgegangen.de/en/events/craft-comedy-open-mic-71/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jXZ1YRjsS0GTb7IxS8hq_craft-comedy-open-mic-profil-bild.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Mon, 23.03.2026",
         "time": "16:00",
         "event": "Kultur am Nachmittag (@Stadtteilbibliothek Dornberg)",
         "category": "Birgit Kahle – Wirtschafts-Wunden",
@@ -5254,14 +5254,6 @@
         "link": "https://www.bielefeld.jetzt/node/1191525"
     },
     {
-        "date": "Fri, 27.03",
-        "time": "23:00",
-        "event": "Studi Pop! (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/studi-pop-4/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/02/Stereo_27_0326_Feed.jpg"
-    },
-    {
         "date": "Fr, 27.03.2026",
         "time": "19:00",
         "event": "*TRIBE CREATIVE CIRCLES*",
@@ -5292,6 +5284,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fri, 27.03",
+        "time": "23:00",
+        "event": "Studi Pop! (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/studi-pop-4/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/02/Stereo_27_0326_Feed.jpg"
     },
     {
         "event": "Freestyle! Die Improshow.(@theaterlaborbielefeld)",
@@ -5384,14 +5384,6 @@
         "image_url": "https://www.club-sams.de/data/202601/samsara_stand_bild_insta_HOMEPAGE_1__150.png?v=1768413317"
     },
     {
-        "date": "Sat, 28.03",
-        "time": "23:00",
-        "event": "Tequila Party (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/tequila-party/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/02/Stereo_28_0326_Feed.jpg"
-    },
-    {
         "date": "Sa, 28.03.2026",
         "time": "14:00",
         "event": "*TRIBE WANDERSAMSTAG*",
@@ -5430,6 +5422,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 28.03",
+        "time": "23:00",
+        "event": "Tequila Party (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/tequila-party/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/02/Stereo_28_0326_Feed.jpg"
     },
     {
         "event": "Sarah Bosetti // Make Democracy Great Again(@theaterlaborbielefeld)",
@@ -6056,18 +6056,18 @@
         "time": "20:00",
         "event": "One Of These – A celebration of Pink Floyd / Animals-Tour 2026 (@Lokschuppen)",
         "category": "One Of These kommen mit einem neuen Programm auch 2026 auf die Bühnen ONE OF THESE ist eine Band...",
-        "description": "One Of These kommen mit einem neuen Programm auch 2026 auf die Bühnen ONE OF THESE ist eine Band, die sich immer für einen respektvollen Umgang miteinander einsetzt und diesen auch innerhalb der Band lebt. Vor dem Hintergrund der derzeitigen sozialen und politischen Entwicklung nicht nur in Deutschland ist es daher folgerichtig, dass die Band ihre nächste Tour diesem Album widmet. ONE OF THESE war in den letzten Jahren mit The Wall, der Dark Side, mit der Division Bell Tour und der Wish You Were Here in sieben Bundesländern sowie in Österreich unterwegs. Mit der Animals Tour komplettiert die Band ihre Tourneen zu den großen Pink Floyd Alben. ONE OF THESE begeistert mit der Liebe zur Musik von Pink Floyd bis hin zu den kleinen Details. Die Band spielt die Musik von Pink Floyd mit einer musikalischen Hingabe, die man bei jedem Ton sieht und hört. Jedes Konzert ist für die Band ein Fest, auf dem die Musik von Pink Floyd gefeiert wird, aber eben auch das gemeinsame Erlebnis, diese wunderbare Musik zusammen mit dem Publikum teilen und genießen zu dürfen. Und das merkt man von der ersten Note bis zum Meet and Greet nach dem Konzert. ONE OF THESE gilt hierzulande als die vielseitigste Pink Floyd Tribute Band, die die Musik der britischen Band in verschiedensten interessanten Facetten präsentiert. Mit der Tribute-Besetzung werden komplette Alben gespielt (Dark Side The Moon / Wish You Were Here / Animals / The Wall), und es gibt ein History-Programm. Daneben gibt es ein Unplugged-Programm mit einer um Streicher, Klarinette und Percussion erweiterten Besetzung sowie ein Programm mit komplettem Orchester. Unter dem Zusatz Early Years spielt die Band in reduzierter Besetzung die frühen Floyd vor dem großen Erfolg mit der Dark Side Of The Moon, aktuell wird die Musik des Konzertfilms „Live At Pompeii“ gespielt.",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/bild/2026/OOT-2026-Animals-Tour-Logo.jpg?itok=JySAQ79Y",
-        "link": "https://www.bielefeld.jetzt/node/1095429"
+        "description": "Tel. 0521 55774555 (Erreichbar von Mo-Do 9-15 Uhr | Fr 9-13 Uhr) Fax 0521 55774510 info@bielefeld-marketing.de https://www.bielefeld-marketing.de",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/one-of-these---a-celebration-of-pink-floyd-animals-tour-2026-tickets_419811_3444645_222x222.jpg?itok=i9YMwpex",
+        "link": "https://www.bielefeld.jetzt/node/1605087"
     },
     {
         "date": "Fri, 10.04.2026",
         "time": "20:00",
         "event": "One Of These – A celebration of Pink Floyd / Animals-Tour 2026 (@Lokschuppen)",
         "category": "One Of These kommen mit einem neuen Programm auch 2026 auf die Bühnen ONE OF THESE ist eine Band...",
-        "description": "Tel. 0521 55774555 (Erreichbar von Mo-Do 9-15 Uhr | Fr 9-13 Uhr) Fax 0521 55774510 info@bielefeld-marketing.de https://www.bielefeld-marketing.de",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/one-of-these---a-celebration-of-pink-floyd-animals-tour-2026-tickets_419811_3444645_222x222.jpg?itok=i9YMwpex",
-        "link": "https://www.bielefeld.jetzt/node/1605087"
+        "description": "One Of These kommen mit einem neuen Programm auch 2026 auf die Bühnen ONE OF THESE ist eine Band, die sich immer für einen respektvollen Umgang miteinander einsetzt und diesen auch innerhalb der Band lebt. Vor dem Hintergrund der derzeitigen sozialen und politischen Entwicklung nicht nur in Deutschland ist es daher folgerichtig, dass die Band ihre nächste Tour diesem Album widmet. ONE OF THESE war in den letzten Jahren mit The Wall, der Dark Side, mit der Division Bell Tour und der Wish You Were Here in sieben Bundesländern sowie in Österreich unterwegs. Mit der Animals Tour komplettiert die Band ihre Tourneen zu den großen Pink Floyd Alben. ONE OF THESE begeistert mit der Liebe zur Musik von Pink Floyd bis hin zu den kleinen Details. Die Band spielt die Musik von Pink Floyd mit einer musikalischen Hingabe, die man bei jedem Ton sieht und hört. Jedes Konzert ist für die Band ein Fest, auf dem die Musik von Pink Floyd gefeiert wird, aber eben auch das gemeinsame Erlebnis, diese wunderbare Musik zusammen mit dem Publikum teilen und genießen zu dürfen. Und das merkt man von der ersten Note bis zum Meet and Greet nach dem Konzert. ONE OF THESE gilt hierzulande als die vielseitigste Pink Floyd Tribute Band, die die Musik der britischen Band in verschiedensten interessanten Facetten präsentiert. Mit der Tribute-Besetzung werden komplette Alben gespielt (Dark Side The Moon / Wish You Were Here / Animals / The Wall), und es gibt ein History-Programm. Daneben gibt es ein Unplugged-Programm mit einer um Streicher, Klarinette und Percussion erweiterten Besetzung sowie ein Programm mit komplettem Orchester. Unter dem Zusatz Early Years spielt die Band in reduzierter Besetzung die frühen Floyd vor dem großen Erfolg mit der Dark Side Of The Moon, aktuell wird die Musik des Konzertfilms „Live At Pompeii“ gespielt.",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/bild/2026/OOT-2026-Animals-Tour-Logo.jpg?itok=JySAQ79Y",
+        "link": "https://www.bielefeld.jetzt/node/1095429"
     },
     {
         "date": "Sa, 11.04.2026",
@@ -6488,20 +6488,20 @@
     {
         "date": "Sat, 18.04.2026",
         "time": "20:00",
-        "event": "Candlelight: Das Beste von Ludovico Einaudi (@Rudolf-Oetker-Halle)",
-        "category": "Programm I Giorni Le Onde Primavera Elegy for the Arctic In Un’Altra Vita Nuvole Bianche Una Mattina...",
-        "description": "Programm",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_theater_bielefeld/Candlelight_0.png?itok=1QlzkoOt",
-        "link": "https://www.bielefeld.jetzt/node/1593892"
-    },
-    {
-        "date": "Sat, 18.04.2026",
-        "time": "20:00",
         "event": "Vierweiberei – Die A-cappella-Band aus Bielefeld (@Theaterhaus Feilenstraße)",
         "category": "Stimmige Vibes aus vier Kehlen",
         "description": "Stimmige Vibes aus vier Kehlen",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/webform/termine_melden/19463/vierweiberei_web_08-2.jpg?itok=WEurL_xC",
         "link": "https://www.bielefeld.jetzt/node/1618990"
+    },
+    {
+        "date": "Sat, 18.04.2026",
+        "time": "20:00",
+        "event": "Candlelight: Das Beste von Ludovico Einaudi (@Rudolf-Oetker-Halle)",
+        "category": "Programm I Giorni Le Onde Primavera Elegy for the Arctic In Un’Altra Vita Nuvole Bianche Una Mattina...",
+        "description": "Programm",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_theater_bielefeld/Candlelight_0.png?itok=1QlzkoOt",
+        "link": "https://www.bielefeld.jetzt/node/1593892"
     },
     {
         "date": "Sat, 18.04.2026",
@@ -6801,14 +6801,6 @@
         "link": "https://www.bielefeld.jetzt/node/1593954"
     },
     {
-        "date": "Sat, 25.04",
-        "time": "21:00",
-        "event": "40plus Party Bielefeld – Grand Opening (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/40plus-party-bielefeld-grand-opening/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/01/260128-40PLUS-Party-Bielefeld-25.04.26-Teaser3.jpg"
-    },
-    {
         "date": "Sa, 25.04.2026",
         "time": "14:00",
         "event": "*TRIBE WANDERSAMSTAG*",
@@ -6847,6 +6839,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 25.04",
+        "time": "21:00",
+        "event": "40plus Party Bielefeld – Grand Opening (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/40plus-party-bielefeld-grand-opening/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/01/260128-40PLUS-Party-Bielefeld-25.04.26-Teaser3.jpg"
     },
     {
         "date": "Sat, 25.04.2026",
@@ -10385,13 +10385,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Sat, 02.08",
-        "event": "Arminia vs. Fortuna Düsseldorf (@arminiaofficial)",
-        "category": "Sport",
-        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
-        "image_url": null
-    },
-    {
         "date": "Su, 02.08.2026",
         "time": "19:00",
         "event": "*TRIBE KENNENLERNABEND*",
@@ -10405,6 +10398,13 @@
         "event": "Lauftreff @uprunningclub (@Venue Coffee)",
         "category": "Sport",
         "link": "https://www.instagram.com/uprunningclub/?hl=de",
+        "image_url": null
+    },
+    {
+        "date": "Sat, 02.08",
+        "event": "Arminia vs. Fortuna Düsseldorf (@arminiaofficial)",
+        "category": "Sport",
+        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
         "image_url": null
     },
     {
@@ -10793,13 +10793,6 @@
         "image_url": null
     },
     {
-        "date": "Fri, 15.08",
-        "event": "Arminia vs. Bremen (@arminiaofficial)",
-        "category": "Sport",
-        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
-        "image_url": null
-    },
-    {
         "date": "Sa, 15.08.2026",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -10830,6 +10823,13 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fri, 15.08",
+        "event": "Arminia vs. Bremen (@arminiaofficial)",
+        "category": "Sport",
+        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
+        "image_url": null
     },
     {
         "date": "Su, 16.08.2026",
@@ -11076,13 +11076,6 @@
         "link": "https://www.bielefeld.jetzt/node/1382002"
     },
     {
-        "date": "Sun, 24.08",
-        "event": "Arminia vs. Dresden (@arminiaofficial)",
-        "category": "Sport",
-        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
-        "image_url": null
-    },
-    {
         "date": "Mo, 24.08.2026",
         "time": "20:00",
         "event": "Pub Quiz (@irish_pub_bielefeld)",
@@ -11097,6 +11090,13 @@
         "category": "Sport",
         "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         "image_url": "https://tse3.mm.bing.net/th/id/OIP.S2SyS4KZbgQ0_dDtL7HNZgAAAA?pid=Api&P=0&h=180"
+    },
+    {
+        "date": "Sun, 24.08",
+        "event": "Arminia vs. Dresden (@arminiaofficial)",
+        "category": "Sport",
+        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
+        "image_url": null
     },
     {
         "date": "Tu, 25.08.2026",
@@ -11758,13 +11758,6 @@
         "image_url": null
     },
     {
-        "date": "Fri, 12.09",
-        "event": "Arminia vs. Magdeburg (@arminiaofficial)",
-        "category": "Sport",
-        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
-        "image_url": null
-    },
-    {
         "date": "Sa, 12.09.2026",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -11795,6 +11788,13 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fri, 12.09",
+        "event": "Arminia vs. Magdeburg (@arminiaofficial)",
+        "category": "Sport",
+        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
+        "image_url": null
     },
     {
         "date": "Sat, 12.09.2026",
@@ -11988,13 +11988,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Fri, 19.09",
-        "event": "Arminia vs. Greuther Fürth (@arminiaofficial)",
-        "category": "Sport",
-        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
-        "image_url": null
-    },
-    {
         "date": "Sa, 19.09.2026",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -12025,6 +12018,13 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fri, 19.09",
+        "event": "Arminia vs. Greuther Fürth (@arminiaofficial)",
+        "category": "Sport",
+        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
+        "image_url": null
     },
     {
         "date": "Sat, 19.09.2026",
@@ -12542,13 +12542,6 @@
         "image_url": null
     },
     {
-        "date": "Sun, 05.10",
-        "event": "Arminia vs. Schalke (@arminiaofficial)",
-        "category": "Sport",
-        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
-        "image_url": null
-    },
-    {
         "date": "Mo, 05.10.2026",
         "time": "20:00",
         "event": "Pub Quiz (@irish_pub_bielefeld)",
@@ -12563,6 +12556,13 @@
         "category": "Sport",
         "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         "image_url": "https://tse3.mm.bing.net/th/id/OIP.S2SyS4KZbgQ0_dDtL7HNZgAAAA?pid=Api&P=0&h=180"
+    },
+    {
+        "date": "Sun, 05.10",
+        "event": "Arminia vs. Schalke (@arminiaofficial)",
+        "category": "Sport",
+        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
+        "image_url": null
     },
     {
         "date": "Tu, 06.10.2026",
@@ -13304,13 +13304,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Sat, 25.10",
-        "event": "Arminia vs. Elversberg (@arminiaofficial)",
-        "category": "Sport",
-        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
-        "image_url": null
-    },
-    {
         "date": "Su, 25.10.2026",
         "time": "19:00",
         "event": "*TRIBE KENNENLERNABEND*",
@@ -13324,6 +13317,13 @@
         "event": "Lauftreff @uprunningclub (@Venue Coffee)",
         "category": "Sport",
         "link": "https://www.instagram.com/uprunningclub/?hl=de",
+        "image_url": null
+    },
+    {
+        "date": "Sat, 25.10",
+        "event": "Arminia vs. Elversberg (@arminiaofficial)",
+        "category": "Sport",
+        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
         "image_url": null
     },
     {
@@ -13812,13 +13812,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Sat, 08.11",
-        "event": "Arminia vs. Karlsruher SC (@arminiaofficial)",
-        "category": "Sport",
-        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
-        "image_url": null
-    },
-    {
         "date": "Su, 08.11.2026",
         "time": "19:00",
         "event": "*TRIBE KENNENLERNABEND*",
@@ -13832,6 +13825,13 @@
         "event": "Lauftreff @uprunningclub (@Venue Coffee)",
         "category": "Sport",
         "link": "https://www.instagram.com/uprunningclub/?hl=de",
+        "image_url": null
+    },
+    {
+        "date": "Sat, 08.11",
+        "event": "Arminia vs. Karlsruher SC (@arminiaofficial)",
+        "category": "Sport",
+        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
         "image_url": null
     },
     {
@@ -14544,13 +14544,6 @@
         "image_url": null
     },
     {
-        "date": "Sun, 30.11",
-        "event": "Arminia vs. Münster (@arminiaofficial)",
-        "category": "Sport",
-        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
-        "image_url": null
-    },
-    {
         "date": "Mo, 30.11.2026",
         "time": "20:00",
         "event": "Pub Quiz (@irish_pub_bielefeld)",
@@ -14565,6 +14558,13 @@
         "category": "Sport",
         "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         "image_url": "https://tse3.mm.bing.net/th/id/OIP.S2SyS4KZbgQ0_dDtL7HNZgAAAA?pid=Api&P=0&h=180"
+    },
+    {
+        "date": "Sun, 30.11",
+        "event": "Arminia vs. Münster (@arminiaofficial)",
+        "category": "Sport",
+        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
+        "image_url": null
     },
     {
         "date": "Tu, 01.12.2026",
@@ -15001,13 +15001,6 @@
         "link": "https://www.bielefeld.jetzt/node/1464077"
     },
     {
-        "date": "Sat, 13.12",
-        "event": "Arminia vs. Kaiserslautern (@arminiaofficial)",
-        "category": "Sport",
-        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
-        "image_url": null
-    },
-    {
         "date": "Su, 13.12.2026",
         "time": "19:00",
         "event": "*TRIBE KENNENLERNABEND*",
@@ -15021,6 +15014,13 @@
         "event": "Lauftreff @uprunningclub (@Venue Coffee)",
         "category": "Sport",
         "link": "https://www.instagram.com/uprunningclub/?hl=de",
+        "image_url": null
+    },
+    {
+        "date": "Sat, 13.12",
+        "event": "Arminia vs. Kaiserslautern (@arminiaofficial)",
+        "category": "Sport",
+        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
         "image_url": null
     },
     {
