@@ -1,6 +1,14 @@
 [
     {
         "date": "Mo, 09.03.2026",
+        "time": "20:50",
+        "event": "Hoppers (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Trickfilm",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
+        "date": "Mo, 09.03.2026",
         "time": "20:00",
         "event": "Pub Quiz (@irish_pub_bielefeld)",
         "category": "Ausgehen",
@@ -14,14 +22,6 @@
         "category": "Sport",
         "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         "image_url": "https://tse3.mm.bing.net/th/id/OIP.S2SyS4KZbgQ0_dDtL7HNZgAAAA?pid=Api&P=0&h=180"
-    },
-    {
-        "date": "Mo, 09.03.2026",
-        "time": "20:50",
-        "event": "Hoppers (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Trickfilm",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Mo, 09.03.2026",
@@ -110,26 +110,6 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38755",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Mon, 09.03.2026",
-        "time": "16:00",
-        "event": "Frauen*streik-Demo (deutschlandweit) (@Dresden Postplatz)",
-        "category": "",
-        "description": "Am 9. März 2026 erheben sich Menschen bundesweit für sichtbare Sorgearbeit und gegen Ungleichheiten, die oft im Verborgenen bleiben. Der Frauenstreik richtet sich an alle, die Sexismus, Rassismus und Prekarität erfahren oder solidarisch sind. Es erwartet dich ein kraftvoller, gemeinsamer Protest für nachhaltige Veränderung 🫂",
-        "link": "https://rausgegangen.de/en/events/frauenstreik-demo-deutschlandweit-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OUbTiJ7fSmye1CrW9NWc_bildschirmfoto-2026-03-05-um-120650.png?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Mon, 09.03.2026",
-        "time": "18:30",
-        "event": "Speed dating Turboherzen x Queer Monday Dresden (@OstPol)",
-        "category": "",
-        "description": "Hier findest du ein entspanntes Speed-Dating in einem safe Space, der queere Begegnungen ohne Stress und Druck ermöglicht. Das Queer Monday Dresden und Turboherzen sorgen mit ihrer entspannten Atmosphäre für schöne Gespräche und neue Verbindungen 🫶",
-        "link": "https://rausgegangen.de/en/events/speed-dating-turboherzen-x-queer-monday-dresden-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bypTU5FGR9OWNwSgeOVD_turboherzen2.png?width=1200&height=900&mode=crop",
-        "city": "Dresden"
     },
     {
         "date": "Mon, 09.03.2026",
@@ -233,6 +213,26 @@
     },
     {
         "date": "Mon, 09.03.2026",
+        "time": "16:00",
+        "event": "Frauen*streik-Demo (deutschlandweit) (@Dresden Postplatz)",
+        "category": "",
+        "description": "Am 9. März 2026 erheben sich Menschen bundesweit für sichtbare Sorgearbeit und gegen Ungleichheiten, die oft im Verborgenen bleiben. Der Frauenstreik richtet sich an alle, die Sexismus, Rassismus und Prekarität erfahren oder solidarisch sind. Es erwartet dich ein kraftvoller, gemeinsamer Protest für nachhaltige Veränderung 🫂",
+        "link": "https://rausgegangen.de/en/events/frauenstreik-demo-deutschlandweit-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OUbTiJ7fSmye1CrW9NWc_bildschirmfoto-2026-03-05-um-120650.png?width=1200&height=900&mode=crop",
+        "city": "Dresden"
+    },
+    {
+        "date": "Mon, 09.03.2026",
+        "time": "18:30",
+        "event": "Speed dating Turboherzen x Queer Monday Dresden (@OstPol)",
+        "category": "",
+        "description": "Hier findest du ein entspanntes Speed-Dating in einem safe Space, der queere Begegnungen ohne Stress und Druck ermöglicht. Das Queer Monday Dresden und Turboherzen sorgen mit ihrer entspannten Atmosphäre für schöne Gespräche und neue Verbindungen 🫶",
+        "link": "https://rausgegangen.de/en/events/speed-dating-turboherzen-x-queer-monday-dresden-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bypTU5FGR9OWNwSgeOVD_turboherzen2.png?width=1200&height=900&mode=crop",
+        "city": "Dresden"
+    },
+    {
+        "date": "Mon, 09.03.2026",
         "time": "15:00",
         "event": "Fotolabor Einführungskurs (@Die Villa Leipzig)",
         "category": "",
@@ -273,53 +273,23 @@
     },
     {
         "date": "Mon, 09.03.2026",
-        "time": "12:00",
-        "event": "Globaler Frauen* Generalstreik – Protest! Picknick! Empowerment! (@Marktplatz Bremen)",
-        "category": "",
-        "description": "Am 9. März stellen Frauen* in Bremen ihre tägliche Arbeit ein, um gemeinsam gegen Ungerechtigkeiten und Erschöpfung zu protestieren. Die Aktion verbindet lokale Stimmen mit einer weltweiten Bewegung für Solidarität und Empowerment Hier findest du mehr Infos 🫶",
-        "link": "https://rausgegangen.de/en/events/globaler-frauen-generalstreik-protest-picknick-empowerment-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/l8PdpwhSKidzHyzLFpQ2_design-ohne-titel-9.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Mon, 09.03.2026",
-        "time": "12:00",
-        "event": "Frauen*streik-Demo (deutschlandweit) (@Bremen, Marktplatz)",
+        "time": "16:00",
+        "event": "Frauen*streik-Demo (deutschlandweit) (@Prinzipalmarkt)",
         "category": "",
         "description": "Am 9. März 2026 erheben sich Menschen bundesweit für sichtbare Sorgearbeit und gegen Ungleichheiten, die oft im Verborgenen bleiben. Der Frauenstreik richtet sich an alle, die Sexismus, Rassismus und Prekarität erfahren oder solidarisch sind. Es erwartet dich ein kraftvoller, gemeinsamer Protest für nachhaltige Veränderung 🫂",
-        "link": "https://rausgegangen.de/en/events/frauenstreik-demo-deutschlandweit-7/",
+        "link": "https://rausgegangen.de/en/events/frauenstreik-demo-deutschlandweit-24/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OUbTiJ7fSmye1CrW9NWc_bildschirmfoto-2026-03-05-um-120650.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
+        "city": "Münster"
     },
     {
         "date": "Mon, 09.03.2026",
-        "time": "14:30",
-        "event": "Ausstellung: Angelika Bruns und Inge Koepsell - \"Zusammenspiel\" (@Kulturhaus Walle Brodelpott)",
+        "time": "20:00",
+        "event": "Banff Mountain Film Festival (@Cineplex Münster)",
         "category": "",
-        "description": "Angelika Bruns und Inge Koepsell verbinden Collagen, Drucke und Stickereien zu einem feinen Dialog aus Formen und Techniken. Ihre Zusammenarbeit lässt Ideen lebendig werden und lädt dich ein, die spannenden Verflechtungen der Arbeiten zu entdecken 🤝",
-        "link": "https://rausgegangen.de/en/events/ausstellung-angelika-bruns-und-inge-koepsell-zusammenspiel2-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6mDm69MyS2GZhH1EneyF_koepselltanzenderglucksklee.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Mon, 09.03.2026",
-        "time": "18:30",
-        "event": "Kurs: Schlagfertig reagieren – Argumentationstraining gegen Stammtischparolen (@belladonna - Kultur, Bildung und Wirtschaft für Frauen e.V.)",
-        "category": "",
-        "description": "Farina Köpke nimmt dich mit auf eine Tour durch Hintergründe und Strategien gegen Stammtischparolen. In einem geschützten Raum lernst du, souverän und selbstbewusst auf Vorurteile zu reagieren und für mehr Toleranz einzustehen 🙆🏻‍♀️",
-        "link": "https://rausgegangen.de/en/events/kurs-schlagfertig-reagieren-argumentationstraining-gegen-sta-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/90P9BTZQSFqbSsvgTnGA_va-rausgegangen-29.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Mon, 09.03.2026",
-        "time": "19:30",
-        "event": "MONSIEUR MOMO: MAGIC (@Bremer Shakespeare Company)",
-        "category": "",
-        "description": "Monsieur Momo mischt Clownerie mit Magie und leisem Humor, der ganz ohne Krawall auskommt. Seine wortlose Kunst schafft Momente, die gleichzeitig lustig und berührend sind. Freunde von feinsinniger Comedy und Zauberei freuen sich auf einen Abend voller Überraschungen und Charme 🪩",
-        "link": "https://rausgegangen.de/en/events/monsieur-momo-magic-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/dMZOAwtUSXyrRNAbn1G8_momo2.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
+        "description": "Das Banff Mountain Film Festival zeigt ein Best-of der eindrucksvollsten Abenteuerfilme von Klettern bis Freeriden und bringt die inspirierenden Geschichten aus dem kanadischen Banff zu dir. Freu dich auf eine abwechslungsreiche Reise in die Welt der Berge und Outdoor-Erlebnisse 🧗‍♀️",
+        "link": "https://rausgegangen.de/en/events/banff-mountain-film-festival-100/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/C9QdzIKBT4O6QYDwREW8_banff26mediahub1920-x-1080.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Mon, 09.03.2026",
@@ -383,6 +353,56 @@
     },
     {
         "date": "Mon, 09.03.2026",
+        "time": "12:00",
+        "event": "Globaler Frauen* Generalstreik – Protest! Picknick! Empowerment! (@Marktplatz Bremen)",
+        "category": "",
+        "description": "Am 9. März stellen Frauen* in Bremen ihre tägliche Arbeit ein, um gemeinsam gegen Ungerechtigkeiten und Erschöpfung zu protestieren. Die Aktion verbindet lokale Stimmen mit einer weltweiten Bewegung für Solidarität und Empowerment Hier findest du mehr Infos 🫶",
+        "link": "https://rausgegangen.de/en/events/globaler-frauen-generalstreik-protest-picknick-empowerment-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/l8PdpwhSKidzHyzLFpQ2_design-ohne-titel-9.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Mon, 09.03.2026",
+        "time": "12:00",
+        "event": "Frauen*streik-Demo (deutschlandweit) (@Bremen, Marktplatz)",
+        "category": "",
+        "description": "Am 9. März 2026 erheben sich Menschen bundesweit für sichtbare Sorgearbeit und gegen Ungleichheiten, die oft im Verborgenen bleiben. Der Frauenstreik richtet sich an alle, die Sexismus, Rassismus und Prekarität erfahren oder solidarisch sind. Es erwartet dich ein kraftvoller, gemeinsamer Protest für nachhaltige Veränderung 🫂",
+        "link": "https://rausgegangen.de/en/events/frauenstreik-demo-deutschlandweit-7/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OUbTiJ7fSmye1CrW9NWc_bildschirmfoto-2026-03-05-um-120650.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Mon, 09.03.2026",
+        "time": "14:30",
+        "event": "Ausstellung: Angelika Bruns und Inge Koepsell - \"Zusammenspiel\" (@Kulturhaus Walle Brodelpott)",
+        "category": "",
+        "description": "Angelika Bruns und Inge Koepsell verbinden Collagen, Drucke und Stickereien zu einem feinen Dialog aus Formen und Techniken. Ihre Zusammenarbeit lässt Ideen lebendig werden und lädt dich ein, die spannenden Verflechtungen der Arbeiten zu entdecken 🤝",
+        "link": "https://rausgegangen.de/en/events/ausstellung-angelika-bruns-und-inge-koepsell-zusammenspiel2-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6mDm69MyS2GZhH1EneyF_koepselltanzenderglucksklee.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Mon, 09.03.2026",
+        "time": "18:30",
+        "event": "Kurs: Schlagfertig reagieren – Argumentationstraining gegen Stammtischparolen (@belladonna - Kultur, Bildung und Wirtschaft für Frauen e.V.)",
+        "category": "",
+        "description": "Farina Köpke nimmt dich mit auf eine Tour durch Hintergründe und Strategien gegen Stammtischparolen. In einem geschützten Raum lernst du, souverän und selbstbewusst auf Vorurteile zu reagieren und für mehr Toleranz einzustehen 🙆🏻‍♀️",
+        "link": "https://rausgegangen.de/en/events/kurs-schlagfertig-reagieren-argumentationstraining-gegen-sta-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/90P9BTZQSFqbSsvgTnGA_va-rausgegangen-29.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Mon, 09.03.2026",
+        "time": "19:30",
+        "event": "MONSIEUR MOMO: MAGIC (@Bremer Shakespeare Company)",
+        "category": "",
+        "description": "Monsieur Momo mischt Clownerie mit Magie und leisem Humor, der ganz ohne Krawall auskommt. Seine wortlose Kunst schafft Momente, die gleichzeitig lustig und berührend sind. Freunde von feinsinniger Comedy und Zauberei freuen sich auf einen Abend voller Überraschungen und Charme 🪩",
+        "link": "https://rausgegangen.de/en/events/monsieur-momo-magic-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/dMZOAwtUSXyrRNAbn1G8_momo2.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Mon, 09.03.2026",
         "time": "15:00",
         "event": "Repair Café (@Bürgerhaus Salzmannbau)",
         "category": "",
@@ -434,26 +454,6 @@
     {
         "date": "Mon, 09.03.2026",
         "time": "16:00",
-        "event": "Frauen*streik-Demo (deutschlandweit) (@Prinzipalmarkt)",
-        "category": "",
-        "description": "Am 9. März 2026 erheben sich Menschen bundesweit für sichtbare Sorgearbeit und gegen Ungleichheiten, die oft im Verborgenen bleiben. Der Frauenstreik richtet sich an alle, die Sexismus, Rassismus und Prekarität erfahren oder solidarisch sind. Es erwartet dich ein kraftvoller, gemeinsamer Protest für nachhaltige Veränderung 🫂",
-        "link": "https://rausgegangen.de/en/events/frauenstreik-demo-deutschlandweit-24/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OUbTiJ7fSmye1CrW9NWc_bildschirmfoto-2026-03-05-um-120650.png?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Mon, 09.03.2026",
-        "time": "20:00",
-        "event": "Banff Mountain Film Festival (@Cineplex Münster)",
-        "category": "",
-        "description": "Das Banff Mountain Film Festival zeigt ein Best-of der eindrucksvollsten Abenteuerfilme von Klettern bis Freeriden und bringt die inspirierenden Geschichten aus dem kanadischen Banff zu dir. Freu dich auf eine abwechslungsreiche Reise in die Welt der Berge und Outdoor-Erlebnisse 🧗‍♀️",
-        "link": "https://rausgegangen.de/en/events/banff-mountain-film-festival-100/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/C9QdzIKBT4O6QYDwREW8_banff26mediahub1920-x-1080.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Mon, 09.03.2026",
-        "time": "16:00",
         "event": "Frauen*streik-Demo (deutschlandweit) (@St. Reinoldikirche)",
         "category": "",
         "description": "Am 9. März 2026 erheben sich Menschen bundesweit für sichtbare Sorgearbeit und gegen Ungleichheiten, die oft im Verborgenen bleiben. Der Frauenstreik richtet sich an alle, die Sexismus, Rassismus und Prekarität erfahren oder solidarisch sind. Es erwartet dich ein kraftvoller, gemeinsamer Protest für nachhaltige Veränderung 🫂",
@@ -490,106 +490,6 @@
         "link": "https://rausgegangen.de/en/events/helge-schneider-ellebogen-vom-tich-3/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lh73cZvkTuipO1bf7eKN_helgeweb-2.jpg?width=1200&height=900&mode=crop",
         "city": "Dortmund"
-    },
-    {
-        "date": "Mon, 09.03.2026",
-        "time": "16:00",
-        "event": "Frauen*streik-Demo (deutschlandweit) (@Rathausmarkt)",
-        "category": "",
-        "description": "Am 9. März 2026 erheben sich Menschen bundesweit für sichtbare Sorgearbeit und gegen Ungleichheiten, die oft im Verborgenen bleiben. Der Frauenstreik richtet sich an alle, die Sexismus, Rassismus und Prekarität erfahren oder solidarisch sind. Es erwartet dich ein kraftvoller, gemeinsamer Protest für nachhaltige Veränderung 🫂",
-        "link": "https://rausgegangen.de/en/events/frauenstreik-demo-deutschlandweit-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OUbTiJ7fSmye1CrW9NWc_bildschirmfoto-2026-03-05-um-120650.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Mon, 09.03.2026",
-        "time": "19:00",
-        "event": "Courtney Marie Andrews | The Valentine Tour (@NOCHTSPEICHER)",
-        "category": "",
-        "description": "Courtney Marie Andrews bringt auf Valentine ihren ehrlichen Folk-Sound mit einer Prise Americana und Pop auf die Bühne. Sie erzählt von Abschied und Neuanfang, dabei bleibt die Stimme verletzlich und echt, fast wie live eingespielt. Freu dich auf Songs, die mit Tiefe und Klarheit berühren 🫶",
-        "link": "https://rausgegangen.de/en/events/courtney-marie-andrews-live-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/a2W94QlcSUu0Aug0ktx3_cmaweb-2048x1129.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Mon, 09.03.2026",
-        "time": "19:00",
-        "event": "F+K WOHNZIMMER KONZERT MIT MIMI DEMISSIE & BENNI HERBST (Soul- / Pop-Cover, DE) (@Freundlich+Kompetent)",
-        "category": "",
-        "description": "Mimi Demissie und Benni Herbst plaudern im Wohnzimmerformat mit entspannten Soul- und Pop-Covern, die altbekannte Songs frisch aufleben lassen. Der Abend bietet lockere Sounds und eine warme Atmosphäre für gemütliche Stunden ab 18 Uhr🙂",
-        "link": "https://rausgegangen.de/en/events/fk-wohnzimmer-konzert-mit-mimi-demissie-benni-herbst-soul-po-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/w6TyhsnnSQi2XtFCwpP9_fa145cc2-d653-afee-6fa5-20c9cd03392a.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Mon, 09.03.2026",
-        "time": "19:00",
-        "event": "Words & Wine - \"Ain't I a Woman?\" - With Lennora Esi (@The English Theatre of Hamburg)",
-        "category": "",
-        "description": "Lennora Esi verbindet in ihrem Programm Texte afroamerikanischer Autor:innen mit Liedern und Reden, die feministische Geschichte lebendig machen. Am Internationalen Frauentag lädt sie dich ein, Vielfalt und Empowerment durch Spoken Word neu zu entdecken 🤩",
-        "link": "https://rausgegangen.de/en/events/words-wine-aint-i-a-woman-with-lennora-esi-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/HFKmNTjjQ5ySYOkG3EbD_instagramlennora.jpeg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Mon, 09.03.2026",
-        "time": "19:00",
-        "event": "\"Ein Jahr Trump 2 - Ausnahmezustand oder New Normal?\" (@Betahaus Schanze)",
-        "category": "",
-        "description": "Du kannst mit Metin Hakverdi und Julia Lange die dramatischen Veränderungen der zweiten Trump-Amtszeit analysieren und mitdiskutieren, ob das Chaos Ausnahmesituation oder Dauerzustand ist. Es geht um politische Wendungen, gesellschaftliche Spaltungen und Europas Rolle Dabei erwarten dich klare Einblicke und lebhafte Debatten 🫂",
-        "link": "https://rausgegangen.de/en/events/ein-jahr-trump-2-ausnahmezustand-oder-new-normal-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/URTQqvBASru6nULpMID8_287955.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Mon, 09.03.2026",
-        "time": "19:00",
-        "event": "Freche Möwe - Stand-Up Comedy im Indra Musikclub (@Indra Musikclub)",
-        "category": "",
-        "description": "Freche Gags, kalte Drinks und heiße Pizza – im Indra Musikclub wird gelacht, bis die Möwen wackeln! Schnapp dir ein Ticket und erlebe, wie Hamburgs Comedy-Talente mit frischen Ideen die Bühne stürmen. Hier wartet ein Abend voller Überraschungen auf dich! 👇🏻",
-        "link": "https://rausgegangen.de/en/events/freche-mowe-stand-up-comedy-im-indra-musikclub-41/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/SOGpcUZ6T76tSehwDIWU_kopie-von-vorschaubild-rausgegangen.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Mon, 09.03.2026",
-        "time": "19:00",
-        "event": "Timur - Unfaggottable Live (@Uebel & Gefährlich)",
-        "category": "",
-        "description": "Timur verbindet Humor und Haltung mit queerem Blick auf Schullektüre und Alltagserfahrungen. In seiner ersten Solo-Comedy \"Unfaggottable\" schafft er eine Mischung aus Stand-up, Tagebuch und Therapie. Es erwarten dich unerwartete Momente und ein Abend voller bunter Einsichten 🙃",
-        "link": "https://rausgegangen.de/en/events/timur-unfaggottable-live-zusatzshow-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/HbHYa0ywSsCKdMHA0YGL_timur1.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Mon, 09.03.2026",
-        "time": "20:00",
-        "event": "GET UP Comedy (@Lustig Comedy Club)",
-        "category": "",
-        "description": "Wir sind GET UP. Bei unserem open mic in Hamburg geben sich jeden Montag  8-10 Comedians das mic in die Hand. Unsere Philosophie: Die neuesten jokes der angesagtesten Comedians. Ja, richtig gelesen. Nicht die besten. Die neuesten.  Heißt: Unsere Comedians werden euch zum Lachen bringen.  Und scheitern. And that's the Beauty.",
-        "link": "https://rausgegangen.de/en/events/get-up-comedy-164/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/D4HDemOMShujbWBnuLd9_whatsapp-image-2025-04-29-at-13258-pm.jpeg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Mon, 09.03.2026",
-        "time": "20:00",
-        "event": "SCHNACK Stand-Up Comedy im Grüner Jäger - St. Pauli (@Grüner Jäger)",
-        "category": "",
-        "description": "😂 Erlebe die neue Generation von Stand-Up Comedians bei SCHNACK auf St. Pauli! 8 Comedians, 120 Minuten pure Unterhaltung – jedes Wochenende gibt's frische Jokes, getestet von Newcomern & Profis! 🎤🍹 Vielleicht siehst du den nächsten Comedy-Star, oder deinen Lieblings-Comedian! 🌟",
-        "link": "https://rausgegangen.de/en/events/schnack-stand-up-comedy-im-gruner-jager-st-pauli-56/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/WGI6L63UTVe4bGXClUBE_rgg-16b9.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Mon, 09.03.2026",
-        "time": "20:00",
-        "event": "Sneak Peek Show (@Haus 73)",
-        "category": "",
-        "description": "Im Haus 73 im Schanzenviertel erwartet dich jeden zweiten Montag im Monat die Sneak Peek Show, bei der du ohne Vorwissen in eine spannende Abendveranstaltung eintauchst. Ob Konzert, Comedy oder Poetry Slam – moderiert von Lennart Hamann und Hannes Maaß steht abwechslungsreiche Unterhaltung auf dem Programm. Eine Einladung für alle, die gerne Neues entdecken.",
-        "link": "https://rausgegangen.de/en/events/sneak-peek-show-6/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/91K6fMYTeWhMwMMMO6gn_sneak-peek-c-niklas-beeken.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
     },
     {
         "date": "Mon, 09.03.2026",
@@ -894,11 +794,119 @@
     {
         "date": "Mon, 09.03.2026",
         "time": "16:00",
+        "event": "Frauen*streik-Demo (deutschlandweit) (@Rathausmarkt)",
+        "category": "",
+        "description": "Am 9. März 2026 erheben sich Menschen bundesweit für sichtbare Sorgearbeit und gegen Ungleichheiten, die oft im Verborgenen bleiben. Der Frauenstreik richtet sich an alle, die Sexismus, Rassismus und Prekarität erfahren oder solidarisch sind. Es erwartet dich ein kraftvoller, gemeinsamer Protest für nachhaltige Veränderung 🫂",
+        "link": "https://rausgegangen.de/en/events/frauenstreik-demo-deutschlandweit-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OUbTiJ7fSmye1CrW9NWc_bildschirmfoto-2026-03-05-um-120650.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Mon, 09.03.2026",
+        "time": "19:00",
+        "event": "Courtney Marie Andrews | The Valentine Tour (@NOCHTSPEICHER)",
+        "category": "",
+        "description": "Courtney Marie Andrews bringt auf Valentine ihren ehrlichen Folk-Sound mit einer Prise Americana und Pop auf die Bühne. Sie erzählt von Abschied und Neuanfang, dabei bleibt die Stimme verletzlich und echt, fast wie live eingespielt. Freu dich auf Songs, die mit Tiefe und Klarheit berühren 🫶",
+        "link": "https://rausgegangen.de/en/events/courtney-marie-andrews-live-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/a2W94QlcSUu0Aug0ktx3_cmaweb-2048x1129.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Mon, 09.03.2026",
+        "time": "19:00",
+        "event": "F+K WOHNZIMMER KONZERT MIT MIMI DEMISSIE & BENNI HERBST (Soul- / Pop-Cover, DE) (@Freundlich+Kompetent)",
+        "category": "",
+        "description": "Mimi Demissie und Benni Herbst plaudern im Wohnzimmerformat mit entspannten Soul- und Pop-Covern, die altbekannte Songs frisch aufleben lassen. Der Abend bietet lockere Sounds und eine warme Atmosphäre für gemütliche Stunden ab 18 Uhr🙂",
+        "link": "https://rausgegangen.de/en/events/fk-wohnzimmer-konzert-mit-mimi-demissie-benni-herbst-soul-po-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/w6TyhsnnSQi2XtFCwpP9_fa145cc2-d653-afee-6fa5-20c9cd03392a.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Mon, 09.03.2026",
+        "time": "19:00",
+        "event": "Words & Wine - \"Ain't I a Woman?\" - With Lennora Esi (@The English Theatre of Hamburg)",
+        "category": "",
+        "description": "Lennora Esi verbindet in ihrem Programm Texte afroamerikanischer Autor:innen mit Liedern und Reden, die feministische Geschichte lebendig machen. Am Internationalen Frauentag lädt sie dich ein, Vielfalt und Empowerment durch Spoken Word neu zu entdecken 🤩",
+        "link": "https://rausgegangen.de/en/events/words-wine-aint-i-a-woman-with-lennora-esi-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/HFKmNTjjQ5ySYOkG3EbD_instagramlennora.jpeg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Mon, 09.03.2026",
+        "time": "19:00",
+        "event": "\"Ein Jahr Trump 2 - Ausnahmezustand oder New Normal?\" (@Betahaus Schanze)",
+        "category": "",
+        "description": "Du kannst mit Metin Hakverdi und Julia Lange die dramatischen Veränderungen der zweiten Trump-Amtszeit analysieren und mitdiskutieren, ob das Chaos Ausnahmesituation oder Dauerzustand ist. Es geht um politische Wendungen, gesellschaftliche Spaltungen und Europas Rolle Dabei erwarten dich klare Einblicke und lebhafte Debatten 🫂",
+        "link": "https://rausgegangen.de/en/events/ein-jahr-trump-2-ausnahmezustand-oder-new-normal-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/URTQqvBASru6nULpMID8_287955.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Mon, 09.03.2026",
+        "time": "19:00",
+        "event": "Freche Möwe - Stand-Up Comedy im Indra Musikclub (@Indra Musikclub)",
+        "category": "",
+        "description": "Freche Gags, kalte Drinks und heiße Pizza – im Indra Musikclub wird gelacht, bis die Möwen wackeln! Schnapp dir ein Ticket und erlebe, wie Hamburgs Comedy-Talente mit frischen Ideen die Bühne stürmen. Hier wartet ein Abend voller Überraschungen auf dich! 👇🏻",
+        "link": "https://rausgegangen.de/en/events/freche-mowe-stand-up-comedy-im-indra-musikclub-41/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/SOGpcUZ6T76tSehwDIWU_kopie-von-vorschaubild-rausgegangen.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Mon, 09.03.2026",
+        "time": "19:00",
+        "event": "Timur - Unfaggottable Live (@Uebel & Gefährlich)",
+        "category": "",
+        "description": "Timur verbindet Humor und Haltung mit queerem Blick auf Schullektüre und Alltagserfahrungen. In seiner ersten Solo-Comedy \"Unfaggottable\" schafft er eine Mischung aus Stand-up, Tagebuch und Therapie. Es erwarten dich unerwartete Momente und ein Abend voller bunter Einsichten 🙃",
+        "link": "https://rausgegangen.de/en/events/timur-unfaggottable-live-zusatzshow-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/HbHYa0ywSsCKdMHA0YGL_timur1.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Mon, 09.03.2026",
+        "time": "20:00",
+        "event": "GET UP Comedy (@Lustig Comedy Club)",
+        "category": "",
+        "description": "Wir sind GET UP. Bei unserem open mic in Hamburg geben sich jeden Montag  8-10 Comedians das mic in die Hand. Unsere Philosophie: Die neuesten jokes der angesagtesten Comedians. Ja, richtig gelesen. Nicht die besten. Die neuesten.  Heißt: Unsere Comedians werden euch zum Lachen bringen.  Und scheitern. And that's the Beauty.",
+        "link": "https://rausgegangen.de/en/events/get-up-comedy-164/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/D4HDemOMShujbWBnuLd9_whatsapp-image-2025-04-29-at-13258-pm.jpeg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Mon, 09.03.2026",
+        "time": "20:00",
+        "event": "SCHNACK Stand-Up Comedy im Grüner Jäger - St. Pauli (@Grüner Jäger)",
+        "category": "",
+        "description": "😂 Erlebe die neue Generation von Stand-Up Comedians bei SCHNACK auf St. Pauli! 8 Comedians, 120 Minuten pure Unterhaltung – jedes Wochenende gibt's frische Jokes, getestet von Newcomern & Profis! 🎤🍹 Vielleicht siehst du den nächsten Comedy-Star, oder deinen Lieblings-Comedian! 🌟",
+        "link": "https://rausgegangen.de/en/events/schnack-stand-up-comedy-im-gruner-jager-st-pauli-56/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/WGI6L63UTVe4bGXClUBE_rgg-16b9.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Mon, 09.03.2026",
+        "time": "20:00",
+        "event": "Sneak Peek Show (@Haus 73)",
+        "category": "",
+        "description": "Im Haus 73 im Schanzenviertel erwartet dich jeden zweiten Montag im Monat die Sneak Peek Show, bei der du ohne Vorwissen in eine spannende Abendveranstaltung eintauchst. Ob Konzert, Comedy oder Poetry Slam – moderiert von Lennart Hamann und Hannes Maaß steht abwechslungsreiche Unterhaltung auf dem Programm. Eine Einladung für alle, die gerne Neues entdecken.",
+        "link": "https://rausgegangen.de/en/events/sneak-peek-show-6/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/91K6fMYTeWhMwMMMO6gn_sneak-peek-c-niklas-beeken.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Mon, 09.03.2026",
+        "time": "16:00",
         "event": "Einfach singen - Just sing! (@Bielefeld-Mitte)",
         "category": "Von süß bis sauer, von leise bis laut",
         "description": "Von süß bis sauer, von leise bis laut",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/webform/termine_melden/19091/flyer-just-sing-2026_0.png?itok=WgJwHxng",
         "link": "https://www.bielefeld.jetzt/node/1571461"
+    },
+    {
+        "date": "Di, 10.03.2026",
+        "time": "20:50",
+        "event": "Hoppers (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Trickfilm",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Tu, 10.03.2026",
@@ -923,14 +931,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Di, 10.03.2026",
-        "time": "20:50",
-        "event": "Hoppers (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Trickfilm",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Di, 10.03.2026",
@@ -1046,13 +1046,13 @@
     },
     {
         "date": "Tue, 10.03.2026",
-        "time": "20:00",
-        "event": "Craft Comedy Open Mic (@Supreme Lounge)",
+        "time": "17:00",
+        "event": "Wandern in Patagonien – Tipps und Eindrücke vom Ende der Welt (@Globetrotter Münster)",
         "category": "",
-        "description": "Bei den Craft Comedy Open Mics geben jedes Mal Newcomer:innen und erfahrene Comedian:innen frisches Material zum Besten. Hier wird nicht nur gelacht, sondern auch ausprobiert und gefeiert, ganz ohne über andere zu spotten. Wenn du Lust auf ehrliche, spannende Comedy willst, bist du hier richtig 🙃",
-        "link": "https://rausgegangen.de/en/events/craft-comedy-open-mic-83/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/VOjMQeP6QWykxIE9zpij_open-mic-eventbild.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
+        "description": "Vortrag von Daniel Hüske  Stürmische Winde, endlose Weiten und Berge wie Monumente – Patagonien ist ein Traumziel für alle, die das Abenteuer suchen. In diesem Vortrag erwarten dich eindrucksvolle Bilder und Geschichten aus dem kontrastreichen Süden Chiles und Argentiniens – vor allem aber auch wertvolle Tipps für deine eigene Wanderreise an den abgelegenen Zipfel Südamerikas.  Wie buchst du eine Mehrtageswanderung im legendären Torres-del-Paine-Nationalpark, ohne am Ende leer auszugehen? Welche Touren lohnen sich am Fuße der ikonischen Granitnadeln Cerro Torre und Fitz Roy? Was erwartet dich auf der tausend Kilometer langen Carretera Austral und welche Schutzgebiete entlang der Ruta de los Parques solltest du nicht verpassen?  Auf dieser rund zweistündigen virtuellen Reise nach Patagonien begleitet dich Daniel Hüske, der insgesamt fünf Monate vor Ort war und über den argentinischen Nationalpark Los Glaciares einen eigenen Wanderführer geschrieben hat. Ein Abend für alle, die Patagonien nicht nur träumen, sondern wirklich erleben wollen.  Dauer: 17:00 Uhr bis 19:00 Uhr  Globetrotter Club-Mitglieder erhalten alle Tickets zu vergünstigten Konditionen. Falls du also noch nicht dabei bist, melde dich am besten so schnell wie möglich ganz unverbindlich an.",
+        "link": "https://rausgegangen.de/en/events/wandern-in-patagonien-tipps-und-eindrucke-vom-ende-der-welt-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LRxC7YpCTcjDLDmsqQvR_cimg5225.JPG?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Tue, 10.03.2026",
@@ -1086,6 +1086,16 @@
     },
     {
         "date": "Tue, 10.03.2026",
+        "time": "20:00",
+        "event": "Craft Comedy Open Mic (@Supreme Lounge)",
+        "category": "",
+        "description": "Bei den Craft Comedy Open Mics geben jedes Mal Newcomer:innen und erfahrene Comedian:innen frisches Material zum Besten. Hier wird nicht nur gelacht, sondern auch ausprobiert und gefeiert, ganz ohne über andere zu spotten. Wenn du Lust auf ehrliche, spannende Comedy willst, bist du hier richtig 🙃",
+        "link": "https://rausgegangen.de/en/events/craft-comedy-open-mic-83/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/VOjMQeP6QWykxIE9zpij_open-mic-eventbild.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Tue, 10.03.2026",
         "time": "19:00",
         "event": "SMASH COMEDY - die (queer)feministische Stand Up Show (@Comedy Club Düsseldorf)",
         "category": "",
@@ -1106,16 +1116,6 @@
     },
     {
         "date": "Tue, 10.03.2026",
-        "time": "17:00",
-        "event": "Wandern in Patagonien – Tipps und Eindrücke vom Ende der Welt (@Globetrotter Münster)",
-        "category": "",
-        "description": "Vortrag von Daniel Hüske  Stürmische Winde, endlose Weiten und Berge wie Monumente – Patagonien ist ein Traumziel für alle, die das Abenteuer suchen. In diesem Vortrag erwarten dich eindrucksvolle Bilder und Geschichten aus dem kontrastreichen Süden Chiles und Argentiniens – vor allem aber auch wertvolle Tipps für deine eigene Wanderreise an den abgelegenen Zipfel Südamerikas.  Wie buchst du eine Mehrtageswanderung im legendären Torres-del-Paine-Nationalpark, ohne am Ende leer auszugehen? Welche Touren lohnen sich am Fuße der ikonischen Granitnadeln Cerro Torre und Fitz Roy? Was erwartet dich auf der tausend Kilometer langen Carretera Austral und welche Schutzgebiete entlang der Ruta de los Parques solltest du nicht verpassen?  Auf dieser rund zweistündigen virtuellen Reise nach Patagonien begleitet dich Daniel Hüske, der insgesamt fünf Monate vor Ort war und über den argentinischen Nationalpark Los Glaciares einen eigenen Wanderführer geschrieben hat. Ein Abend für alle, die Patagonien nicht nur träumen, sondern wirklich erleben wollen.  Dauer: 17:00 Uhr bis 19:00 Uhr  Globetrotter Club-Mitglieder erhalten alle Tickets zu vergünstigten Konditionen. Falls du also noch nicht dabei bist, melde dich am besten so schnell wie möglich ganz unverbindlich an.",
-        "link": "https://rausgegangen.de/en/events/wandern-in-patagonien-tipps-und-eindrucke-vom-ende-der-welt-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LRxC7YpCTcjDLDmsqQvR_cimg5225.JPG?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Tue, 10.03.2026",
         "time": "20:00",
         "event": "Die Comedy Werkstatt Dortmund Weingrün (@Weingrün)",
         "category": "",
@@ -1133,86 +1133,6 @@
         "link": "https://rausgegangen.de/en/events/robert-finley-usa-hallelujah-dont-let-the-devil-fool-ya-germ-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/SfUwfuZREq5zpZo5YOpe_grafik.png?width=1200&height=900&mode=crop",
         "city": "Dortmund"
-    },
-    {
-        "date": "Tue, 10.03.2026",
-        "time": "19:00",
-        "event": "Freche Möwe - Stand-Up Comedy im Monkeys Music Club (@Monkeys Music Club)",
-        "category": "",
-        "description": "In der Reihe Freche Möwe steuern acht Comedians mit frischen Ideen durch die Facetten des Alltags und überraschende Absurditäten. Die Hamburger Szene zeigt hier authentischen Humor, der dir den Abend mit angenehmer Atmosphäre versüßt. Es erwartet dich lebendige Stand-up-Unterhaltung 🙂‍↕️",
-        "link": "https://rausgegangen.de/en/events/freche-mowe-stand-up-comedy-im-monkeys-music-club-94/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ObUKHw9cRhion4LcESy0_design-ohne-titel-2.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Tue, 10.03.2026",
-        "time": "19:00",
-        "event": "HE/RO Tour 2026 (@GRUENSPAN)",
-        "category": "",
-        "description": "HE/RO starten 2026 mit neuem Album „Vier Augen“ und frischer Energie auf Tour. Die Songs zwischen Pop und Rock erzählen von Erwachsenwerden und Hoffnung, live werden sie zum intensiven Erlebnis. Wenn du auf ehrliche Musik triffst, bist du hier richtig 🤩",
-        "link": "https://rausgegangen.de/en/events/hero-tour-2026-16/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/JPLvymaASgSRgD6zDg9i_hero-rb-3.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Tue, 10.03.2026",
-        "time": "19:30",
-        "event": "Keine Aufstiegsgeschichte (@Ernst Deutsch Theater)",
-        "category": "",
-        "description": "Stückentwicklung von Marco Damghani, Olivier David und EnsembleNach dem Buch von Olivier David  Im Erfolgsroman „Keine Aufstiegsgeschichte: Warum Armut psychisch krank macht“ erzählt Olivier David aufrüttelnd davon, wie sich Armut und psychische Erkrankungen bedingen und von Generation zu Generation weitergetragen werden. Es ist nicht nur ein persönliches Memoir, sondern auch ein hochaktuelles Buch darüber, wie toxisch das Aufwachsen und das Leben in Armut für die Psyche wirklich sind. Marco Damghani, dessen Stückentwicklungen mehrfach preisgekrönt wurden, nimmt mit seinem Ensemble die Herausforderung an, den Stoff auf die Bühne zu bringen. Ein spannendes Experiment, das die Grenzen zwischen Wissenschaft, Journalismus und Dramatik aufbricht und sich auf die Suche nach einem besseren gesellschaftlichen Miteinander macht.",
-        "link": "https://rausgegangen.de/en/events/keine-aufstiegsgeschichte-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/nQCMHOHcS7Ob7IvovxzC_webslider-formatkeine-aufstiegsgeschichte.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Tue, 10.03.2026",
-        "time": "20:00",
-        "event": "Banff Mountain Film Festival (@CinemaxX Hamburg Dammtor)",
-        "category": "",
-        "description": "Das Banff Mountain Film Festival zeigt ein Best-of der eindrucksvollsten Abenteuerfilme von Klettern bis Freeriden und bringt die inspirierenden Geschichten aus dem kanadischen Banff zu dir. Freu dich auf eine abwechslungsreiche Reise in die Welt der Berge und Outdoor-Erlebnisse 🧗‍♀️",
-        "link": "https://rausgegangen.de/en/events/banff-mountain-film-festival-101/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/C9QdzIKBT4O6QYDwREW8_banff26mediahub1920-x-1080.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Tue, 10.03.2026",
-        "time": "20:00",
-        "event": "Katta Standup Comedy Show Taugenichts Bar Altona (@Taugenichts Bar)",
-        "category": "",
-        "description": "Katta Comedy bringt dich in den gemütlichen Keller der Taugenichts Bar – perfekt für ehrliche Jokes und echte Vibes 🤩. Acht Comedians liefern frische Gags, spontane Momente und jede Menge Grund zum Lachen 🍻. Hol dir einen Drink und freu dich auf einen Abend, der dich einfach richtig gut unterhält 🎤✨.",
-        "link": "https://rausgegangen.de/en/events/katta-standup-comedy-show-taugenichts-bar-altona-11/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/75ADIo9Q0OEUa4ivHeaA_istock-942752254-7.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Tue, 10.03.2026",
-        "time": "20:00",
-        "event": "SCHNACK Stand-Up Comedy im BIRDLAND Jazzclub (@Birdland Hamburg)",
-        "category": "",
-        "description": "Wer hat eigentlich gesagt Hamburger*innen lachen nicht so viel?! Dabei haben wir doch Norddeutschlands größten Comedy-Club hier! Von kleinen Comedians bis zu alten Bekannten sind hier alle dabei. Also wenn du mal wieder richtig lachen willst, ist das mit Sicherheit das Richtige. 🤩🎙️",
-        "link": "https://rausgegangen.de/en/events/schnack-stand-up-comedy-im-birdland-jazzclub-320/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ski2fQIJRwWJcBYI5Fgg_16b9-rgg-3.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Tue, 10.03.2026",
-        "time": "20:00",
-        "event": "STAND UP KOMITEE (@Centralkomitee)",
-        "category": "",
-        "description": "Im Centralkomitee treffen sich die Crème de la Crème der deutschen Stand-up-Comedi:ennes, um die Lachmuskeln zu strapazieren. Von Alltagsbeobachtungen bis hin zu politischer Satire ist alles erlaubt, was witzig ist - ein Abend voller humorvoller Überraschungen und gnadenlosem Entertainment!",
-        "link": "https://rausgegangen.de/en/events/stand-up-komitee-124/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/AbwBHk86TIOPrZRtleWJ_SUK_Detail_1698664908-1717151004-am93sv8s-1717152246-kkaxt4m7t.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Tue, 10.03.2026",
-        "time": "20:00",
-        "event": "Wrong Answers Only - English Comedy Problem Solving Show (@Indra Musikclub)",
-        "category": "",
-        "description": "Bei Wrong Answers Only geben Comedians garantiert falsche Ratschläge zu deinen Alltagsproblemen und verwandeln sie in Comedy, die dich zum Lachen bringt. Die Show lebt von Interaktion und absurd-witzigen Lösungen für so ziemlich alles. Mach dich auf eine chaotische, humorvolle Achterbahn gefasst 🫂",
-        "link": "https://rausgegangen.de/en/events/wrong-answers-only-english-comedy-problem-solving-show-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/irfqdz0GRE6nzhsLAvTY_wrong-answers-only.jpeg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
     },
     {
         "date": "Tue, 10.03.2026",
@@ -1415,6 +1335,94 @@
         "city": "Berlin"
     },
     {
+        "date": "Tue, 10.03.2026",
+        "time": "19:00",
+        "event": "Freche Möwe - Stand-Up Comedy im Monkeys Music Club (@Monkeys Music Club)",
+        "category": "",
+        "description": "In der Reihe Freche Möwe steuern acht Comedians mit frischen Ideen durch die Facetten des Alltags und überraschende Absurditäten. Die Hamburger Szene zeigt hier authentischen Humor, der dir den Abend mit angenehmer Atmosphäre versüßt. Es erwartet dich lebendige Stand-up-Unterhaltung 🙂‍↕️",
+        "link": "https://rausgegangen.de/en/events/freche-mowe-stand-up-comedy-im-monkeys-music-club-94/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ObUKHw9cRhion4LcESy0_design-ohne-titel-2.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Tue, 10.03.2026",
+        "time": "19:00",
+        "event": "HE/RO Tour 2026 (@GRUENSPAN)",
+        "category": "",
+        "description": "HE/RO starten 2026 mit neuem Album „Vier Augen“ und frischer Energie auf Tour. Die Songs zwischen Pop und Rock erzählen von Erwachsenwerden und Hoffnung, live werden sie zum intensiven Erlebnis. Wenn du auf ehrliche Musik triffst, bist du hier richtig 🤩",
+        "link": "https://rausgegangen.de/en/events/hero-tour-2026-16/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/JPLvymaASgSRgD6zDg9i_hero-rb-3.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Tue, 10.03.2026",
+        "time": "19:30",
+        "event": "Keine Aufstiegsgeschichte (@Ernst Deutsch Theater)",
+        "category": "",
+        "description": "Stückentwicklung von Marco Damghani, Olivier David und EnsembleNach dem Buch von Olivier David  Im Erfolgsroman „Keine Aufstiegsgeschichte: Warum Armut psychisch krank macht“ erzählt Olivier David aufrüttelnd davon, wie sich Armut und psychische Erkrankungen bedingen und von Generation zu Generation weitergetragen werden. Es ist nicht nur ein persönliches Memoir, sondern auch ein hochaktuelles Buch darüber, wie toxisch das Aufwachsen und das Leben in Armut für die Psyche wirklich sind. Marco Damghani, dessen Stückentwicklungen mehrfach preisgekrönt wurden, nimmt mit seinem Ensemble die Herausforderung an, den Stoff auf die Bühne zu bringen. Ein spannendes Experiment, das die Grenzen zwischen Wissenschaft, Journalismus und Dramatik aufbricht und sich auf die Suche nach einem besseren gesellschaftlichen Miteinander macht.",
+        "link": "https://rausgegangen.de/en/events/keine-aufstiegsgeschichte-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/nQCMHOHcS7Ob7IvovxzC_webslider-formatkeine-aufstiegsgeschichte.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Tue, 10.03.2026",
+        "time": "20:00",
+        "event": "Banff Mountain Film Festival (@CinemaxX Hamburg Dammtor)",
+        "category": "",
+        "description": "Das Banff Mountain Film Festival zeigt ein Best-of der eindrucksvollsten Abenteuerfilme von Klettern bis Freeriden und bringt die inspirierenden Geschichten aus dem kanadischen Banff zu dir. Freu dich auf eine abwechslungsreiche Reise in die Welt der Berge und Outdoor-Erlebnisse 🧗‍♀️",
+        "link": "https://rausgegangen.de/en/events/banff-mountain-film-festival-101/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/C9QdzIKBT4O6QYDwREW8_banff26mediahub1920-x-1080.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Tue, 10.03.2026",
+        "time": "20:00",
+        "event": "Katta Standup Comedy Show Taugenichts Bar Altona (@Taugenichts Bar)",
+        "category": "",
+        "description": "Katta Comedy bringt dich in den gemütlichen Keller der Taugenichts Bar – perfekt für ehrliche Jokes und echte Vibes 🤩. Acht Comedians liefern frische Gags, spontane Momente und jede Menge Grund zum Lachen 🍻. Hol dir einen Drink und freu dich auf einen Abend, der dich einfach richtig gut unterhält 🎤✨.",
+        "link": "https://rausgegangen.de/en/events/katta-standup-comedy-show-taugenichts-bar-altona-11/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/75ADIo9Q0OEUa4ivHeaA_istock-942752254-7.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Tue, 10.03.2026",
+        "time": "20:00",
+        "event": "SCHNACK Stand-Up Comedy im BIRDLAND Jazzclub (@Birdland Hamburg)",
+        "category": "",
+        "description": "Wer hat eigentlich gesagt Hamburger*innen lachen nicht so viel?! Dabei haben wir doch Norddeutschlands größten Comedy-Club hier! Von kleinen Comedians bis zu alten Bekannten sind hier alle dabei. Also wenn du mal wieder richtig lachen willst, ist das mit Sicherheit das Richtige. 🤩🎙️",
+        "link": "https://rausgegangen.de/en/events/schnack-stand-up-comedy-im-birdland-jazzclub-320/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ski2fQIJRwWJcBYI5Fgg_16b9-rgg-3.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Tue, 10.03.2026",
+        "time": "20:00",
+        "event": "STAND UP KOMITEE (@Centralkomitee)",
+        "category": "",
+        "description": "Im Centralkomitee treffen sich die Crème de la Crème der deutschen Stand-up-Comedi:ennes, um die Lachmuskeln zu strapazieren. Von Alltagsbeobachtungen bis hin zu politischer Satire ist alles erlaubt, was witzig ist - ein Abend voller humorvoller Überraschungen und gnadenlosem Entertainment!",
+        "link": "https://rausgegangen.de/en/events/stand-up-komitee-124/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/AbwBHk86TIOPrZRtleWJ_SUK_Detail_1698664908-1717151004-am93sv8s-1717152246-kkaxt4m7t.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Tue, 10.03.2026",
+        "time": "20:00",
+        "event": "Wrong Answers Only - English Comedy Problem Solving Show (@Indra Musikclub)",
+        "category": "",
+        "description": "Bei Wrong Answers Only geben Comedians garantiert falsche Ratschläge zu deinen Alltagsproblemen und verwandeln sie in Comedy, die dich zum Lachen bringt. Die Show lebt von Interaktion und absurd-witzigen Lösungen für so ziemlich alles. Mach dich auf eine chaotische, humorvolle Achterbahn gefasst 🫂",
+        "link": "https://rausgegangen.de/en/events/wrong-answers-only-english-comedy-problem-solving-show-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/irfqdz0GRE6nzhsLAvTY_wrong-answers-only.jpeg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Mi, 11.03.2026",
+        "time": "20:50",
+        "event": "Hoppers (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Trickfilm",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
         "date": "We, 11.03.2026",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -1453,14 +1461,6 @@
         "category": "Ausgehen",
         "link": "https://www.instagram.com/diesdascomedy/",
         "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1149914903%2F458602689502%2F1%2Foriginal.jpg?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=9fe71dc7482ee7b9a2010ffe02860068"
-    },
-    {
-        "date": "Mi, 11.03.2026",
-        "time": "20:50",
-        "event": "Hoppers (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Trickfilm",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Mi, 11.03.2026",
@@ -1636,6 +1636,36 @@
     },
     {
         "date": "Wed, 11.03.2026",
+        "time": "19:30",
+        "event": "Comedy Light Open Mic (@SpecOps network)",
+        "category": "",
+        "description": "Ein Abend voller Humor und gute Laune:Erlebe in Münster im SpecOps Network eine besondere Nacht des Lachens und der guten Laune in Münster. Es erwartet Dich ein humorvoller Abend, der Dich Sorgen für eine Weile vergessen lässt. Diese Veranstaltung ist der perfekte Ort, um neue Talente der Comedy-Szene zu entdecken, während sie ihre frischen und originellen Witze zum Besten geben.Comedy Light Stand-up Comedy Open Mic bietet aufstrebenden Comedians aus ganz Deutschland eine Bühne, um Ihre neuen Witze zu präsentieren. Hier stehen 6-8 talentierte Nachwuchs-Comedians im Rampenlicht und bringen einen bunten Mix aus ihren neuesten Scherzen und Geschichten mit. Es ist eine gute Gelegenheit, neue Gesichter in der Comedy-Welt zu entdecken.Egal, ob Du ein eingefleischter Fan der Stand-up Comedy bist, oder zum ersten Mal eine Live-Show besuchst, die Veranstaltung bietet ein einzigartiges Erlebnis, das Du so schnell nicht vergessen wirst.Einlass um 19:00 UhrBeginn um 19:30 UhrAK8 €Komm gerne vorbei!Wir freuen uns auf euch!",
+        "link": "https://rausgegangen.de/en/events/comedy-light-open-mic-33/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BjxIFVZQRHKArYQB9Tmn_comedy-light-137.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Wed, 11.03.2026",
+        "time": "19:30",
+        "event": "Lesung und Gespräch: Sonne im Gepäck (@Buchfink Wolbeck)",
+        "category": "",
+        "description": "Tina Herz im Gespräch mit Moderator Jan Carl Wellnitz zu ihrem zweiten Roman Sonne im Gepäck (Heyne Verlag, März 2026).Warum Familienurlaub nichts für schwache Nerven ist und ein Roadtrip mit Kleinkindern auch eine Reise zu sich selbst, weiß Tina Herz (47) aus Erfahrung. Mit Mann und Zwillingen fuhr sie im Camper bis nach Lissabon. Die Reise war Inspiration für ihren Roman.Ein Buch über eine junge Mutter, die allen Ansprüchen gerecht werden will und dabei auf humorvolle Weise scheitert.  Zur Story:Seit einem Jahr stellen die Zwillinge Leni und Luis das Leben von Valerie und Tom auf den Kopf. Was für Valerie der größte aller Wünsche war, entpuppt sich schnell als größte Herausforderung ihres Lebens. Als Tom im Auftrag des Kulturprojekts, für das sie beide arbeiten, mit einem Kreativteam durch Europa reisen will, beschließt Valerie kurzum, den Trip gemeinsam zu machen. Ihr Plan: sich Arbeit sowie Kinderbetreuung teilen und als Familie mehr zusammenwachsen. Mit dem Camper geht es Richtung Süden. Doch statt Urlaubsfeeling kommt nur Frust auf. Warum ist überwiegend sie mit den Kindern beschäftigt und ihr Mann vor allem mit Teamkollegin Ida? So hatte sie sich das nicht vorgestellt! Valerie tut ihr Bestes, um den Familienfrieden wieder herzustellen. Zwischen Windelwahn und Campingchaos will sie vor allem eines – zu sich selbst finden.",
+        "link": "https://rausgegangen.de/en/events/lesung-und-gesprach-sonne-im-gepack-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vjM8mtvbTTSE8k0waSEL_design-ohne-titel-3.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Wed, 11.03.2026",
+        "time": "19:00",
+        "event": "T&T IMPRO SHOW (@reBOOTS-Stuttgart)",
+        "category": "",
+        "description": "Bei der T&T IMPRO SHOW schicken Comedians und Schauspielende spontan los, was ihnen gerade einfällt – du kannst sogar selbst mitmischen. Zwischen schnellen Ideen und witzigen Herausforderungen entsteht ein Abend, der garantiert keine Langeweile kennt und alle überrascht 🫂",
+        "link": "https://rausgegangen.de/en/events/tt-impro-show-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hp44YGTXREO2y4TdvmAa_2.png?width=1200&height=900&mode=crop",
+        "city": "Stuttgart"
+    },
+    {
+        "date": "Wed, 11.03.2026",
         "time": "20:00",
         "event": "NICK & JUNE - New Year's Face Tour 2026 (@Kulturzentrum Lagerhaus)",
         "category": "",
@@ -1653,16 +1683,6 @@
         "link": "https://rausgegangen.de/en/events/romano-12/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/KIqSQWdmR1fVdVZP3UWN_romano-c-york-christoph-riccius-fuer-online.jpg?width=1200&height=900&mode=crop",
         "city": "Bremen"
-    },
-    {
-        "date": "Wed, 11.03.2026",
-        "time": "19:00",
-        "event": "T&T IMPRO SHOW (@reBOOTS-Stuttgart)",
-        "category": "",
-        "description": "Bei der T&T IMPRO SHOW schicken Comedians und Schauspielende spontan los, was ihnen gerade einfällt – du kannst sogar selbst mitmischen. Zwischen schnellen Ideen und witzigen Herausforderungen entsteht ein Abend, der garantiert keine Langeweile kennt und alle überrascht 🫂",
-        "link": "https://rausgegangen.de/en/events/tt-impro-show-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hp44YGTXREO2y4TdvmAa_2.png?width=1200&height=900&mode=crop",
-        "city": "Stuttgart"
     },
     {
         "date": "Wed, 11.03.2026",
@@ -1713,106 +1733,6 @@
         "link": "https://rausgegangen.de/en/events/die-comedy-werkstatt-dusseldorf-vinos-weinbar-5/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/oO6sfDKERlGeRQfmmPeM_img6293.JPG?width=1200&height=900&mode=crop",
         "city": "Düsseldorf"
-    },
-    {
-        "date": "Wed, 11.03.2026",
-        "time": "19:30",
-        "event": "Comedy Light Open Mic (@SpecOps network)",
-        "category": "",
-        "description": "Ein Abend voller Humor und gute Laune:Erlebe in Münster im SpecOps Network eine besondere Nacht des Lachens und der guten Laune in Münster. Es erwartet Dich ein humorvoller Abend, der Dich Sorgen für eine Weile vergessen lässt. Diese Veranstaltung ist der perfekte Ort, um neue Talente der Comedy-Szene zu entdecken, während sie ihre frischen und originellen Witze zum Besten geben.Comedy Light Stand-up Comedy Open Mic bietet aufstrebenden Comedians aus ganz Deutschland eine Bühne, um Ihre neuen Witze zu präsentieren. Hier stehen 6-8 talentierte Nachwuchs-Comedians im Rampenlicht und bringen einen bunten Mix aus ihren neuesten Scherzen und Geschichten mit. Es ist eine gute Gelegenheit, neue Gesichter in der Comedy-Welt zu entdecken.Egal, ob Du ein eingefleischter Fan der Stand-up Comedy bist, oder zum ersten Mal eine Live-Show besuchst, die Veranstaltung bietet ein einzigartiges Erlebnis, das Du so schnell nicht vergessen wirst.Einlass um 19:00 UhrBeginn um 19:30 UhrAK8 €Komm gerne vorbei!Wir freuen uns auf euch!",
-        "link": "https://rausgegangen.de/en/events/comedy-light-open-mic-33/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BjxIFVZQRHKArYQB9Tmn_comedy-light-137.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Wed, 11.03.2026",
-        "time": "19:30",
-        "event": "Lesung und Gespräch: Sonne im Gepäck (@Buchfink Wolbeck)",
-        "category": "",
-        "description": "Tina Herz im Gespräch mit Moderator Jan Carl Wellnitz zu ihrem zweiten Roman Sonne im Gepäck (Heyne Verlag, März 2026).Warum Familienurlaub nichts für schwache Nerven ist und ein Roadtrip mit Kleinkindern auch eine Reise zu sich selbst, weiß Tina Herz (47) aus Erfahrung. Mit Mann und Zwillingen fuhr sie im Camper bis nach Lissabon. Die Reise war Inspiration für ihren Roman.Ein Buch über eine junge Mutter, die allen Ansprüchen gerecht werden will und dabei auf humorvolle Weise scheitert.  Zur Story:Seit einem Jahr stellen die Zwillinge Leni und Luis das Leben von Valerie und Tom auf den Kopf. Was für Valerie der größte aller Wünsche war, entpuppt sich schnell als größte Herausforderung ihres Lebens. Als Tom im Auftrag des Kulturprojekts, für das sie beide arbeiten, mit einem Kreativteam durch Europa reisen will, beschließt Valerie kurzum, den Trip gemeinsam zu machen. Ihr Plan: sich Arbeit sowie Kinderbetreuung teilen und als Familie mehr zusammenwachsen. Mit dem Camper geht es Richtung Süden. Doch statt Urlaubsfeeling kommt nur Frust auf. Warum ist überwiegend sie mit den Kindern beschäftigt und ihr Mann vor allem mit Teamkollegin Ida? So hatte sie sich das nicht vorgestellt! Valerie tut ihr Bestes, um den Familienfrieden wieder herzustellen. Zwischen Windelwahn und Campingchaos will sie vor allem eines – zu sich selbst finden.",
-        "link": "https://rausgegangen.de/en/events/lesung-und-gesprach-sonne-im-gepack-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vjM8mtvbTTSE8k0waSEL_design-ohne-titel-3.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Wed, 11.03.2026",
-        "time": "18:00",
-        "event": "shift OPEN STUDIO – GEMEINSAM GESTALTEN (@KULTUR&GUT)",
-        "category": "",
-        "description": "Im shift OPEN STUDIO gestaltest du mit Acrylfarbe ganz frei und in deinem Tempo, unterstützt von einer erfahrenen Begleitung, die Impulse gibt, ohne den Rahmen vorzugeben. Hier entsteht Platz für eigene Ideen und gemeinsamer Austausch. Ein Projekt zum Dranbleiben und Ausprobieren.",
-        "link": "https://rausgegangen.de/en/events/shift-open-studio-gemeinsam-gestalten-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/MDQqtpVsQky6XLPqGjnY_bildschirmfoto-2026-02-12-um-130208.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Wed, 11.03.2026",
-        "time": "19:00",
-        "event": "Freche Möwe Stand-Up Comedy x KULTUR&GUT (@KULTUR&GUT)",
-        "category": "",
-        "description": "In der Frechen Möwe testen acht Hamburger Stand-Up-Talente ihre neuesten Pointen und bringen frische Impulse in die lokale Szene. Von skurrilen Alltagserlebnissen bis zu absurden Gedankenspielen ist hier für jeden Humor etwas dabei. Freu dich auf ehrliche und lebendige Unterhaltung ab 16 Jahren 🫂",
-        "link": "https://rausgegangen.de/en/events/freche-mowe-stand-up-comedy-x-kulturgut-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lhYd184eR7OTq5oJtpBX_rausgegangen.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Wed, 11.03.2026",
-        "time": "19:15",
-        "event": "Wandern in Patagonien – Tipps und Eindrücke vom Ende der Welt (@Globetrotter Hamburg-City)",
-        "category": "",
-        "description": "Vortrag von Daniel Hüske  Stürmische Winde, endlose Weiten und Berge wie Monumente – Patagonien ist ein Traumziel für alle, die das Abenteuer suchen. In diesem Vortrag erwarten dich eindrucksvolle Bilder und Geschichten aus dem kontrastreichen Süden Chiles und Argentiniens – vor allem aber auch wertvolle Tipps für deine eigene Wanderreise an den abgelegenen Zipfel Südamerikas.  Wie buchst du eine Mehrtageswanderung im legendären Torres-del-Paine-Nationalpark, ohne am Ende leer auszugehen? Welche Touren lohnen sich am Fuße der ikonischen Granitnadeln Cerro Torre und Fitz Roy? Was erwartet dich auf der tausend Kilometer langen Carretera Austral und welche Schutzgebiete entlang der Ruta de los Parques solltest du nicht verpassen?  Auf dieser rund zweistündigen virtuellen Reise nach Patagonien begleitet dich Daniel Hüske, der insgesamt fünf Monate vor Ort war und über den argentinischen Nationalpark Los Glaciares einen eigenen Wanderführer geschrieben hat. Ein Abend für alle, die Patagonien nicht nur träumen, sondern wirklich erleben wollen.  Dauer: 19:15 Uhr bis ca. 21:00 Uhr Globetrotter Club-Mitglieder erhalten alle Tickets zu vergünstigten Konditionen. Falls du also noch nicht dabei bist, melde dich am besten so schnell wie möglich ganz unverbindlich an.",
-        "link": "https://rausgegangen.de/en/events/wandern-in-patagonien-tipps-und-eindrucke-vom-ende-der-welt-4/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fnZfqD5vT5i8hV3Nch6H_cimg5225.JPG?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Wed, 11.03.2026",
-        "time": "19:30",
-        "event": "Best of Poetry Slam 140 (@Ernst Deutsch Theater)",
-        "category": "",
-        "description": "Beim Best of Poetry Slam 140 treffen Wortakrobat:innen auf Bühnenmagie: große Emotionen schimmern durch kleine Zeilen, feine Lyrik prallt auf schallendes Gelächter und aus jedem Satz wächst ein Moment, der bleibt. Vier der stärksten Stimmen des deutschsprachigen Slams zeigen ihr Können – ungekürzt, ungebremst, unverwechselbar. Durch den Abend führt David Friedrich, begleitet von musikalischen Akzenten.✨",
-        "link": "https://rausgegangen.de/en/events/best-of-poetry-slam-167/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/m2xcwtng5spx?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Wed, 11.03.2026",
-        "time": "19:30",
-        "event": "Marius Nitzbon (@NOCHTSPEICHER)",
-        "category": "",
-        "description": "Marius Nitzbon verwebt klassische Klavierkunst mit subtilen elektronischen Schichtungen zu einer einzigartigen Klangwelt. Zwischen Neo-Klassik und Ambient erschafft er mit präziser Komposition Momente, die tief berühren und sprachlos zurücklassen 🫂",
-        "link": "https://rausgegangen.de/en/events/marius-nitzbon-8/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/wiyqzptsvppv.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Wed, 11.03.2026",
-        "time": "20:00",
-        "event": "SCHNACK Stand-Up Comedy im Haus73 - Comedy auf der Schanze (@Haus 73)",
-        "category": "",
-        "description": "Lachen garantiert bei SCHNACK – dem Stand-Up Open Mic in Hamburg! 6-8 Comedians testen ihre brandneuen Jokes, von Newcomern bis Bühnenveteranen. 🤣 Sei dabei und erlebe Comedy-Stars von morgen! 🌟🎤",
-        "link": "https://rausgegangen.de/en/events/schnack-stand-up-comedy-im-haus73-comedy-auf-der-schanze-28/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ocExnlVZTIy5PprQEsma_16b9-rgg.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Wed, 11.03.2026",
-        "time": "20:00",
-        "event": "SCHNACK Stand-Up Comedy in der Villa Viva (@Villa Viva Hamburg)",
-        "category": "",
-        "description": "In der Villa Viva direkt an den Deichtorhallen präsentieren Newcomer:innen und Profis bei SCHNACK frische Stand-Up Comedy aus Norddeutschland. Bei 120 Minuten mit wechselnden Acts kannst du spannende Talente entdecken und gleichzeitig ein soziales Projekt unterstützen. Getränke gibt es direkt vor Ort 🍸🎤",
-        "link": "https://rausgegangen.de/en/events/schnack-stand-up-comedy-in-der-villa-viva-24/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aQkH3SuhSZ2WQRXVOxqP_16b9-rgg-header.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Wed, 11.03.2026",
-        "time": "20:00",
-        "event": "Standup Comedy Show Hafenbahnhof Altona (@Hafenbahnhof)",
-        "category": "",
-        "description": "Katta Comedy bringt dich in den Hafenbahnhof Altona, wo die Bühne direkt an der Elbe mit jeder Menge Witz und lockerer Stimmung glänzt 🤩. Acht Comedians sorgen für überraschende Momente, lautes Lachen und beste Unterhaltung in dieser besonderen Location 🎤. Schnapp dir ein Getränk und genieß einen Abend, der einfach richtig Spaß macht 🍻✨.",
-        "link": "https://rausgegangen.de/en/events/standup-comedy-show-hafenbahnhof-altona-23/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Sb3Eo3X1TOKZPzekPQra_istock-942752254-9-5.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
     },
     {
         "date": "Wed, 11.03.2026",
@@ -1906,6 +1826,86 @@
     },
     {
         "date": "Wed, 11.03.2026",
+        "time": "18:00",
+        "event": "shift OPEN STUDIO – GEMEINSAM GESTALTEN (@KULTUR&GUT)",
+        "category": "",
+        "description": "Im shift OPEN STUDIO gestaltest du mit Acrylfarbe ganz frei und in deinem Tempo, unterstützt von einer erfahrenen Begleitung, die Impulse gibt, ohne den Rahmen vorzugeben. Hier entsteht Platz für eigene Ideen und gemeinsamer Austausch. Ein Projekt zum Dranbleiben und Ausprobieren.",
+        "link": "https://rausgegangen.de/en/events/shift-open-studio-gemeinsam-gestalten-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/MDQqtpVsQky6XLPqGjnY_bildschirmfoto-2026-02-12-um-130208.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Wed, 11.03.2026",
+        "time": "19:00",
+        "event": "Freche Möwe Stand-Up Comedy x KULTUR&GUT (@KULTUR&GUT)",
+        "category": "",
+        "description": "In der Frechen Möwe testen acht Hamburger Stand-Up-Talente ihre neuesten Pointen und bringen frische Impulse in die lokale Szene. Von skurrilen Alltagserlebnissen bis zu absurden Gedankenspielen ist hier für jeden Humor etwas dabei. Freu dich auf ehrliche und lebendige Unterhaltung ab 16 Jahren 🫂",
+        "link": "https://rausgegangen.de/en/events/freche-mowe-stand-up-comedy-x-kulturgut-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lhYd184eR7OTq5oJtpBX_rausgegangen.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Wed, 11.03.2026",
+        "time": "19:15",
+        "event": "Wandern in Patagonien – Tipps und Eindrücke vom Ende der Welt (@Globetrotter Hamburg-City)",
+        "category": "",
+        "description": "Vortrag von Daniel Hüske  Stürmische Winde, endlose Weiten und Berge wie Monumente – Patagonien ist ein Traumziel für alle, die das Abenteuer suchen. In diesem Vortrag erwarten dich eindrucksvolle Bilder und Geschichten aus dem kontrastreichen Süden Chiles und Argentiniens – vor allem aber auch wertvolle Tipps für deine eigene Wanderreise an den abgelegenen Zipfel Südamerikas.  Wie buchst du eine Mehrtageswanderung im legendären Torres-del-Paine-Nationalpark, ohne am Ende leer auszugehen? Welche Touren lohnen sich am Fuße der ikonischen Granitnadeln Cerro Torre und Fitz Roy? Was erwartet dich auf der tausend Kilometer langen Carretera Austral und welche Schutzgebiete entlang der Ruta de los Parques solltest du nicht verpassen?  Auf dieser rund zweistündigen virtuellen Reise nach Patagonien begleitet dich Daniel Hüske, der insgesamt fünf Monate vor Ort war und über den argentinischen Nationalpark Los Glaciares einen eigenen Wanderführer geschrieben hat. Ein Abend für alle, die Patagonien nicht nur träumen, sondern wirklich erleben wollen.  Dauer: 19:15 Uhr bis ca. 21:00 Uhr Globetrotter Club-Mitglieder erhalten alle Tickets zu vergünstigten Konditionen. Falls du also noch nicht dabei bist, melde dich am besten so schnell wie möglich ganz unverbindlich an.",
+        "link": "https://rausgegangen.de/en/events/wandern-in-patagonien-tipps-und-eindrucke-vom-ende-der-welt-4/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fnZfqD5vT5i8hV3Nch6H_cimg5225.JPG?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Wed, 11.03.2026",
+        "time": "19:30",
+        "event": "Best of Poetry Slam 140 (@Ernst Deutsch Theater)",
+        "category": "",
+        "description": "Beim Best of Poetry Slam 140 treffen Wortakrobat:innen auf Bühnenmagie: große Emotionen schimmern durch kleine Zeilen, feine Lyrik prallt auf schallendes Gelächter und aus jedem Satz wächst ein Moment, der bleibt. Vier der stärksten Stimmen des deutschsprachigen Slams zeigen ihr Können – ungekürzt, ungebremst, unverwechselbar. Durch den Abend führt David Friedrich, begleitet von musikalischen Akzenten.✨",
+        "link": "https://rausgegangen.de/en/events/best-of-poetry-slam-167/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/m2xcwtng5spx?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Wed, 11.03.2026",
+        "time": "19:30",
+        "event": "Marius Nitzbon (@NOCHTSPEICHER)",
+        "category": "",
+        "description": "Marius Nitzbon verwebt klassische Klavierkunst mit subtilen elektronischen Schichtungen zu einer einzigartigen Klangwelt. Zwischen Neo-Klassik und Ambient erschafft er mit präziser Komposition Momente, die tief berühren und sprachlos zurücklassen 🫂",
+        "link": "https://rausgegangen.de/en/events/marius-nitzbon-8/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/wiyqzptsvppv.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Wed, 11.03.2026",
+        "time": "20:00",
+        "event": "SCHNACK Stand-Up Comedy im Haus73 - Comedy auf der Schanze (@Haus 73)",
+        "category": "",
+        "description": "Lachen garantiert bei SCHNACK – dem Stand-Up Open Mic in Hamburg! 6-8 Comedians testen ihre brandneuen Jokes, von Newcomern bis Bühnenveteranen. 🤣 Sei dabei und erlebe Comedy-Stars von morgen! 🌟🎤",
+        "link": "https://rausgegangen.de/en/events/schnack-stand-up-comedy-im-haus73-comedy-auf-der-schanze-28/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ocExnlVZTIy5PprQEsma_16b9-rgg.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Wed, 11.03.2026",
+        "time": "20:00",
+        "event": "SCHNACK Stand-Up Comedy in der Villa Viva (@Villa Viva Hamburg)",
+        "category": "",
+        "description": "In der Villa Viva direkt an den Deichtorhallen präsentieren Newcomer:innen und Profis bei SCHNACK frische Stand-Up Comedy aus Norddeutschland. Bei 120 Minuten mit wechselnden Acts kannst du spannende Talente entdecken und gleichzeitig ein soziales Projekt unterstützen. Getränke gibt es direkt vor Ort 🍸🎤",
+        "link": "https://rausgegangen.de/en/events/schnack-stand-up-comedy-in-der-villa-viva-24/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aQkH3SuhSZ2WQRXVOxqP_16b9-rgg-header.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Wed, 11.03.2026",
+        "time": "20:00",
+        "event": "Standup Comedy Show Hafenbahnhof Altona (@Hafenbahnhof)",
+        "category": "",
+        "description": "Katta Comedy bringt dich in den Hafenbahnhof Altona, wo die Bühne direkt an der Elbe mit jeder Menge Witz und lockerer Stimmung glänzt 🤩. Acht Comedians sorgen für überraschende Momente, lautes Lachen und beste Unterhaltung in dieser besonderen Location 🎤. Schnapp dir ein Getränk und genieß einen Abend, der einfach richtig Spaß macht 🍻✨.",
+        "link": "https://rausgegangen.de/en/events/standup-comedy-show-hafenbahnhof-altona-23/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Sb3Eo3X1TOKZPzekPQra_istock-942752254-9-5.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Wed, 11.03.2026",
         "time": "20:00",
         "event": "Der Herr der Ringe & Der Hobbit - Das Konzert (@Stadthalle Bielefeld)",
         "category": "",
@@ -1920,6 +1920,14 @@
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Do, 12.03.2026",
+        "time": "20:50",
+        "event": "Hoppers (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Trickfilm",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Th, 12.03.2026",
@@ -1968,14 +1976,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Do, 12.03.2026",
-        "time": "20:50",
-        "event": "Hoppers (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Trickfilm",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Do, 12.03.2026",
@@ -2145,23 +2145,23 @@
     },
     {
         "date": "Thu, 12.03.2026",
-        "time": "20:00",
-        "event": "Comedy Light (@Bremer Presseclub)",
+        "time": "19:30",
+        "event": "LEFTOVERS - Stadion Tour 2026 (@GLEIS 22)",
         "category": "",
-        "description": "Bei Comedy Light präsentieren Nachwuchscomedian:innen ihre neuesten Nummern und bieten einen frischen Einblick in die Szene. Der Abend zeigt eine abwechslungsreiche Mischung aus Stand-up, die sowohl Neulinge als auch Fans anspricht. Hier kannst du Talente entdecken, die mit Humor den Alltag auflockern.",
-        "link": "https://rausgegangen.de/en/events/comedy-light-83/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/sUvzpnQBTemQiIHPJcvT_27-p1012519.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
+        "description": "LEFTOVERS setzen auf rohen Punk mit erlebten Geschichten, ihre neue Stadiontour führt dich an zehn Abende in zehn Städte, immer mit frischer Energie und einer Mischung aus neuen Songs und bewährtem Sound. Jede Bühne wird zu einem Raum für intensives Miteinander und Impulse fürs Herzschlagtempo 🫂",
+        "link": "https://rausgegangen.de/en/events/leftovers-stadion-tour-2026-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/o4PfE11JRly2QPc8i5dw_pr-bild1-querformat-creditstheresa-legerer.JPG?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Thu, 12.03.2026",
         "time": "20:00",
-        "event": "QUERBEAT - LIVE 2026 (@Modernes)",
+        "event": "MARIA BASEL (@Hot Jazz Club, Münster)",
         "category": "",
-        "description": "Die Querbeat-Story: radikal positiv! Ein 11-köpfiges kreatives Kollektiv will machen. Und spielen. Die Band lebt für die Bühne, für den Rausch in Energie aus Publikum und Tönen. Querbeat ist eine Summe von Statements: Festivalband, Jazz-Cracks, irgendwie Karneval und 'ne Prise Punk-Attitude. Crowdsurfen, Moshpit, Sommervibes und bewegende Live-Momente. Einmal alle Schubladen voll Anarchie bitte.  Was klar ist: Querbeat ist anders. Mit viel Brass-Instrumenten, klarer politischer Haltung, rauem Gesang und Live-Energy wie eine einzige Ansage: Früher wird alles besser! Tage muss man mit Liebe verschwenden, Nächte macht man gefälligst durch – „Guten Morgen Barbarossaplatz“, liebe Welt.  Das aktuelle, dritte Studioalbum „Radikal Positiv“ (Platz 2 in den deutschen Albumcharts) und die beiden Vorgänger-Alben „Fettes Q“ und „Randale & Hurra“ haben gemeinsam über 200 Millionen Streams eingesammelt. Neue Musik ist Prio Nummer 1, und nach der erfolgreichen Single „Eisbär“ (08.03.24), verwirklichte man Querbeat DNA in den „Barcelona Tapes“.  Das Q-Konzept? Mit Kreativität überleben! Und sich verbünden, spielend. Ausverkaufte Touren, namhafte Festivals in Deutschland, Österreich, Schweiz und ... Spanien. Ja, Festivals muss man feiern wie sie kommen, also gerne auch ein eigenes! Gesagt, getan: Im Juni 2024 schon Vol.3 von „Randale & Freunde“ in der Bonner Rheinaue mit jeweils 25.000 Menschen.  Querbeat verkauft die Kölner Lanxess Arena wieder aus, eröffnet die Mainstage von Rock am Ring. Spoiler: Der Sommerwind 2025 weht Querbeat-Sound über die Camps und durch alle weltoffenen Bulli-Türen. Mit Hurricane/ Southside und Pinkpop stehen weiter Mainstages im Navi. Dabei immer eine liebevolle Ansage an politische Haltung und nachhaltiges Handeln. Auch eine Attitude die man erstmal in bald 20 Jahren Bandleben nicht verlieren darf. Querbeat ist Nähe, Liebe und der radikale Glaube an das Gute.",
-        "link": "https://rausgegangen.de/en/events/querbeat-live-2026-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OteJg250SiuT1Tw760Pc_rausgegangen.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
+        "description": "MARIA BASEL live",
+        "link": "https://rausgegangen.de/en/events/maria-basel-13/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/DQT5ntCdScSKFS1f1eNz_mblongingticketshopheader1755528694.png?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Thu, 12.03.2026",
@@ -2225,6 +2225,26 @@
     },
     {
         "date": "Thu, 12.03.2026",
+        "time": "20:00",
+        "event": "Comedy Light (@Bremer Presseclub)",
+        "category": "",
+        "description": "Bei Comedy Light präsentieren Nachwuchscomedian:innen ihre neuesten Nummern und bieten einen frischen Einblick in die Szene. Der Abend zeigt eine abwechslungsreiche Mischung aus Stand-up, die sowohl Neulinge als auch Fans anspricht. Hier kannst du Talente entdecken, die mit Humor den Alltag auflockern.",
+        "link": "https://rausgegangen.de/en/events/comedy-light-83/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/sUvzpnQBTemQiIHPJcvT_27-p1012519.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Thu, 12.03.2026",
+        "time": "20:00",
+        "event": "QUERBEAT - LIVE 2026 (@Modernes)",
+        "category": "",
+        "description": "Die Querbeat-Story: radikal positiv! Ein 11-köpfiges kreatives Kollektiv will machen. Und spielen. Die Band lebt für die Bühne, für den Rausch in Energie aus Publikum und Tönen. Querbeat ist eine Summe von Statements: Festivalband, Jazz-Cracks, irgendwie Karneval und 'ne Prise Punk-Attitude. Crowdsurfen, Moshpit, Sommervibes und bewegende Live-Momente. Einmal alle Schubladen voll Anarchie bitte.  Was klar ist: Querbeat ist anders. Mit viel Brass-Instrumenten, klarer politischer Haltung, rauem Gesang und Live-Energy wie eine einzige Ansage: Früher wird alles besser! Tage muss man mit Liebe verschwenden, Nächte macht man gefälligst durch – „Guten Morgen Barbarossaplatz“, liebe Welt.  Das aktuelle, dritte Studioalbum „Radikal Positiv“ (Platz 2 in den deutschen Albumcharts) und die beiden Vorgänger-Alben „Fettes Q“ und „Randale & Hurra“ haben gemeinsam über 200 Millionen Streams eingesammelt. Neue Musik ist Prio Nummer 1, und nach der erfolgreichen Single „Eisbär“ (08.03.24), verwirklichte man Querbeat DNA in den „Barcelona Tapes“.  Das Q-Konzept? Mit Kreativität überleben! Und sich verbünden, spielend. Ausverkaufte Touren, namhafte Festivals in Deutschland, Österreich, Schweiz und ... Spanien. Ja, Festivals muss man feiern wie sie kommen, also gerne auch ein eigenes! Gesagt, getan: Im Juni 2024 schon Vol.3 von „Randale & Freunde“ in der Bonner Rheinaue mit jeweils 25.000 Menschen.  Querbeat verkauft die Kölner Lanxess Arena wieder aus, eröffnet die Mainstage von Rock am Ring. Spoiler: Der Sommerwind 2025 weht Querbeat-Sound über die Camps und durch alle weltoffenen Bulli-Türen. Mit Hurricane/ Southside und Pinkpop stehen weiter Mainstages im Navi. Dabei immer eine liebevolle Ansage an politische Haltung und nachhaltiges Handeln. Auch eine Attitude die man erstmal in bald 20 Jahren Bandleben nicht verlieren darf. Querbeat ist Nähe, Liebe und der radikale Glaube an das Gute.",
+        "link": "https://rausgegangen.de/en/events/querbeat-live-2026-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OteJg250SiuT1Tw760Pc_rausgegangen.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Thu, 12.03.2026",
         "time": "18:30",
         "event": "Game & Yap – All Genders Edition @Konvex (@Konvex)",
         "category": "",
@@ -2232,26 +2252,6 @@
         "link": "https://rausgegangen.de/en/events/game-yap-all-genders-edition-konvex-3/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/CLTyyDWzSkaJf4YXIXx9_nsplsha6b386d54f6a45249f5db8d0c80bae36mv2.jpg?width=1200&height=900&mode=crop",
         "city": "Düsseldorf"
-    },
-    {
-        "date": "Thu, 12.03.2026",
-        "time": "19:30",
-        "event": "LEFTOVERS - Stadion Tour 2026 (@GLEIS 22)",
-        "category": "",
-        "description": "LEFTOVERS setzen auf rohen Punk mit erlebten Geschichten, ihre neue Stadiontour führt dich an zehn Abende in zehn Städte, immer mit frischer Energie und einer Mischung aus neuen Songs und bewährtem Sound. Jede Bühne wird zu einem Raum für intensives Miteinander und Impulse fürs Herzschlagtempo 🫂",
-        "link": "https://rausgegangen.de/en/events/leftovers-stadion-tour-2026-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/o4PfE11JRly2QPc8i5dw_pr-bild1-querformat-creditstheresa-legerer.JPG?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Thu, 12.03.2026",
-        "time": "20:00",
-        "event": "MARIA BASEL (@Hot Jazz Club, Münster)",
-        "category": "",
-        "description": "MARIA BASEL live",
-        "link": "https://rausgegangen.de/en/events/maria-basel-13/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/DQT5ntCdScSKFS1f1eNz_mblongingticketshopheader1755528694.png?width=1200&height=900&mode=crop",
-        "city": "Münster"
     },
     {
         "date": "Thu, 12.03.2026",
@@ -2371,6 +2371,14 @@
     },
     {
         "date": "Fr, 13.03.2026",
+        "time": "20:50",
+        "event": "Hoppers (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Trickfilm",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
+        "date": "Fr, 13.03.2026",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro FRIDAY (@hinterzimmer.club)",
         "category": "Party",
@@ -2400,14 +2408,6 @@
         "category": "Kreativität",
         "link": "https://kunsthalle-bielefeld.de/programm/veranstaltungen/#10209",
         "image_url": null
-    },
-    {
-        "date": "Fr, 13.03.2026",
-        "time": "20:50",
-        "event": "Hoppers (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Trickfilm",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Fri, 13.03",
@@ -2489,36 +2489,6 @@
     },
     {
         "date": "Fri, 13.03.2026",
-        "time": "18:00",
-        "event": "COMEDY: EARLY SHOW / eine Stunde durchlachen (@Moxy Dresden Neustadt)",
-        "category": "",
-        "description": "Willkommen beim Phat Cat Comedy Club!Du hast Lust auf Standup Comedy in Dresden-Neustadt? Hier kannst du jeden Freitag eine Stunde durchlachen!Bei uns erlebst du hochklassige Comedy mit den besten Comedians des Landes und einer Stimmung, die es so nur bei uns gibt.Schnappt euch einen kühlen Drink, packt eure Liebsten ein & erlebt einen tollen Abend im Comedy Club!Bei unseren Shows erwartet euch ein intensives Lachmuskeltraining, bei dem ihr garantiert einen Muskelkater davon tragt. - mit bester Live-Unterhaltung durch die heißesten Comedians aus ganz Deutschland und der Leipziger Szene. Wir sorgen für ständig wechselnde Line Ups, sodass jede Show ein neues Erlebnis ist! 💜 Female owned🛋 gemütlich🎤 Live-Veranstaltung Der Einlass startet um 17:30 Uhr und wird bis 17:50 Uhr gewährt. Bei der Show werden Videoaufnahmen gemacht. Wir empfehlen die Show ab 16 Jahren.",
-        "link": "https://rausgegangen.de/en/events/comedy-early-show-eine-stunde-durchlachen-ohne-pause-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hWUHrJgUSODt8qCZb6BY_blau-und-gelb-quadrat-immobilien-logo-1.png?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Fri, 13.03.2026",
-        "time": "20:00",
-        "event": "PHAT CAT COMEDY SHOW / Standup Comedy mit 4-6 Comedians (@Moxy Dresden Neustadt)",
-        "category": "",
-        "description": "Ein Abend, der sich anfühlt wie ein guter Drink mit Freund:innen – nur mit mehr Lachtränen. Frisch, ehrlich und verdammt unterhaltsam: Stand-Up, wie wir sie lieben. 🎤💜",
-        "link": "https://rausgegangen.de/en/events/stand-up-comedy-show-239/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LBQC7M8LSj2xjyaiAl0X_blau-und-gelb-quadrat-immobilien-logo-1.png?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Fri, 13.03.2026",
-        "time": "22:30",
-        "event": "Female Pop Night (@GrooveStation)",
-        "category": "",
-        "description": "Hier findest du eine Playlist voller Hits von Künstler:innen, die Musikgeschichte geschrieben haben – von Beyoncé bis Florence + The Machine. Die Female Pop Night ist eine Nacht, in der starke Frauen deine liebsten Songs zum Mitsingen bringen und für gute Laune sorgen 🥂",
-        "link": "https://rausgegangen.de/en/events/female-pop-night-19/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/CGzak3aAToS6mVQh2wez_fpnv2www.jpg?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Fri, 13.03.2026",
         "time": "19:00",
         "event": "Waving The Guns Im Zenit Tour (@Zeche Carl)",
         "category": "",
@@ -2586,6 +2556,36 @@
         "link": "https://rausgegangen.de/en/events/the-classics-oldschool-hiphoprnb-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/naFzu1hTQq18IJ1CGTRw_fiinstagram-250313-feed.jpg?width=1200&height=900&mode=crop",
         "city": "Frankfurt"
+    },
+    {
+        "date": "Fri, 13.03.2026",
+        "time": "18:00",
+        "event": "COMEDY: EARLY SHOW / eine Stunde durchlachen (@Moxy Dresden Neustadt)",
+        "category": "",
+        "description": "Willkommen beim Phat Cat Comedy Club!Du hast Lust auf Standup Comedy in Dresden-Neustadt? Hier kannst du jeden Freitag eine Stunde durchlachen!Bei uns erlebst du hochklassige Comedy mit den besten Comedians des Landes und einer Stimmung, die es so nur bei uns gibt.Schnappt euch einen kühlen Drink, packt eure Liebsten ein & erlebt einen tollen Abend im Comedy Club!Bei unseren Shows erwartet euch ein intensives Lachmuskeltraining, bei dem ihr garantiert einen Muskelkater davon tragt. - mit bester Live-Unterhaltung durch die heißesten Comedians aus ganz Deutschland und der Leipziger Szene. Wir sorgen für ständig wechselnde Line Ups, sodass jede Show ein neues Erlebnis ist! 💜 Female owned🛋 gemütlich🎤 Live-Veranstaltung Der Einlass startet um 17:30 Uhr und wird bis 17:50 Uhr gewährt. Bei der Show werden Videoaufnahmen gemacht. Wir empfehlen die Show ab 16 Jahren.",
+        "link": "https://rausgegangen.de/en/events/comedy-early-show-eine-stunde-durchlachen-ohne-pause-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hWUHrJgUSODt8qCZb6BY_blau-und-gelb-quadrat-immobilien-logo-1.png?width=1200&height=900&mode=crop",
+        "city": "Dresden"
+    },
+    {
+        "date": "Fri, 13.03.2026",
+        "time": "20:00",
+        "event": "PHAT CAT COMEDY SHOW / Standup Comedy mit 4-6 Comedians (@Moxy Dresden Neustadt)",
+        "category": "",
+        "description": "Ein Abend, der sich anfühlt wie ein guter Drink mit Freund:innen – nur mit mehr Lachtränen. Frisch, ehrlich und verdammt unterhaltsam: Stand-Up, wie wir sie lieben. 🎤💜",
+        "link": "https://rausgegangen.de/en/events/stand-up-comedy-show-239/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LBQC7M8LSj2xjyaiAl0X_blau-und-gelb-quadrat-immobilien-logo-1.png?width=1200&height=900&mode=crop",
+        "city": "Dresden"
+    },
+    {
+        "date": "Fri, 13.03.2026",
+        "time": "22:30",
+        "event": "Female Pop Night (@GrooveStation)",
+        "category": "",
+        "description": "Hier findest du eine Playlist voller Hits von Künstler:innen, die Musikgeschichte geschrieben haben – von Beyoncé bis Florence + The Machine. Die Female Pop Night ist eine Nacht, in der starke Frauen deine liebsten Songs zum Mitsingen bringen und für gute Laune sorgen 🥂",
+        "link": "https://rausgegangen.de/en/events/female-pop-night-19/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/CGzak3aAToS6mVQh2wez_fpnv2www.jpg?width=1200&height=900&mode=crop",
+        "city": "Dresden"
     },
     {
         "date": "Fri, 13.03.2026",
@@ -2699,43 +2699,23 @@
     },
     {
         "date": "Fri, 13.03.2026",
-        "time": "19:00",
-        "event": "Tristan Brusch - Am Anfang Tour 2026 (@Kulturzentrum Lagerhaus)",
+        "time": "18:00",
+        "event": "Pongnation Beer Pong Turnier (@Schaf Münster)",
         "category": "",
-        "description": "Tristan Brusch lädt dich ein, bei seiner \"Am Anfang Tour 2026\" den besonderen Moment zwischen Melancholie und Aufbruch zu erleben. Mit seinem unverwechselbaren Mix aus alternativem Rock und Indiefolk öffnet er Türen zu neuen, aufregenden Klangwelten 🤩",
-        "link": "https://rausgegangen.de/en/events/tristan-brusch-am-anfang-tour-2026-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7B2HGaLjT4mUpQE7NWJK_tristanbruschfotograf-tim-cavadini05-quer-col.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
+        "description": "Hier erwartet dich mehr als ein klassisches Beerpong-Turnier: Teams kämpfen mit viel Ehrgeiz und Gemeinschaftsgefühl um insgesamt 1.250 Euro Preisgeld. Wer beim Hauptturnier früh rausfliegt, bekommt im Leberschuss Side-Event nochmal die Chance, weiterzumachen 🥂",
+        "link": "https://rausgegangen.de/en/events/pongnation-beer-pong-turnier-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/1JdfSbmDRUKcBjQ0fLn6_munster130326eventheaderfinal.png?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Fri, 13.03.2026",
-        "time": "19:30",
-        "event": "Nasser #7 Leben (@Schnürschuh Theater)",
+        "time": "18:30",
+        "event": "Stadtführung TRUE X CRIME - Ein Streifzug durch Münsters berüchtigtste Kriminalfälle (@Historisches Rathaus Münster)",
         "category": "",
-        "description": "NASSER # 7LebenComing-of-Age-Geschichte eines MenschenrechtsaktivistenNasser El-Ahmad ist Deutsch-Libanese und als ältester Sohn der Liebling der ganzen Verwandtschaft, doch mit zunehmendem Alter wird die Erziehung strenger: Musik ist „haram“, Fernsehen und Internet nur eingeschränkt erlaubt. Als die Konflikte mit seinem Vater immer massiver werden, sucht sich Nasser seine Freiräume verstärkt außerhalb der Familie. Im Alter von 15 Jahren entdeckt er die queere Partyszene Berlins und wird auf Facebook geoutet. Als seine Eltern davon erfahren, bedeutet dies das Ende seines bisherigen Lebens.„NASSER # 7Leben“ erzählt auf Grundlage von Nassers Schicksal eine besondere Coming-of-Age-Geschichte über einen heranwachsenden Menschen, der viel Schlimmes erleben musste und doch nie den Mut zu einem selbstbestimmten Leben aus den Augen verlor. Sein unerschütterlicher Wille zur Freiheit und Unabhängigkeit gaben ihm Kraft zur Rebellion und machen ihn bis heute zu einem wichtigen Aktivisten gegen Homophobie und für Toleranz und Menschenrechte. Nasser El-Ahmad ist Vorbild für viele junge Menschen. Er ist Ende 2015 mit dem „Respektpreis“ des Berliner „Bündnisses gegen Homophobie“ ausgezeichnet worden.Ein berührendes starkes Stück über einen muslimischen Jungen, der seine Sexualität und Glauben leben möchte und dafür kämpft, trotzdem auch witzig und verspielt.Regie: Pascal Makowka                                                                                                        Es spielen: Abid Ciplak, Holger Sprengler, Magdalena Suckow, Jennifer Wollny",
-        "link": "https://rausgegangen.de/en/events/nasser-7-leben-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GWOdnrH5T26Ax3cZIszR_nasser-foto-vorpremiere.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Fri, 13.03.2026",
-        "time": "20:00",
-        "event": "BLAUFUCHS + Antifanti: Bis jetzt ging alles gut - Tour 2026 (@Zollkantine)",
-        "category": "",
-        "description": "BLAUFUCHS und ANNES EX teilen sich 2026 die Bühne und liefern gemeinsam einen Mix aus Songpoesie und unverwechselbarem Sound. Freu dich auf neue Tracks und vertraute Klänge, die Geschichten erzählen, ohne viel Schnickschnack  🤩",
-        "link": "https://rausgegangen.de/en/events/blaufuchs-bis-jetzt-ging-alles-gut-tour-2026-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/xoE45vsoQSKpRJeORQRn_instafeedtour-bremen.jpeg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Fri, 13.03.2026",
-        "time": "20:00",
-        "event": "Craft Comedy Club (@Butschern Bar am Sielwall)",
-        "category": "",
-        "description": "Im Craft Comedy Club zeigen Nachwuchs-Comedians aus Nordwestdeutschland, wie vielseitig Stand-up sein kann. Von Bürogeschichten bis zu skurrilen Alltagsbeobachtungen gibt es ehrlichen Humor ohne Gemeinheiten, der sich selbst nicht zu ernst nimmt und dich garantiert zum Schmunzeln bringt 🤩",
-        "link": "https://rausgegangen.de/en/events/craft-comedy-club-9/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zO0XqQYSVagXar4c1uwn_craft-comedy-club-profil-bild.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
+        "description": "Düster, schaurig, wahr: Von blutigen Duellen auf dem Domplatz bis zu Leichenfunden im Aasee entführen wir euch in fünf Jahrhunderte voller Verbrechen, Intrigen und Abgründe der Domstadt. Vom 16. Jahrhundert bis in die Gegenwart erzählen wir spektakuläre Kriminalfälle und verknüpfen sie mit Einblicken in die Stadt- und Alltagsgeschichte. HEILE WELT IN MÜNSTER? FEHLANZEIGE: Begegnet Leichnamen in eisernen Körben hoch über der Stadt, dem bis heute nicht gefassten Münsterland-Mörder und erfahrt, wie der Terror der IRA Münster erreichte.VON KÄFIGEN, ZELLEN UND DUNKLEN GASSEN: Entdeckt die Originalschauplätze der Verbrechen: vom Pranger am Prinzipalmarkt, über zugige Zellen im Zwinger bis in unscheinbare Gassen, die zu Tatorten wurden.BLICK HINTER DIE VERBRECHEN: Wir zeigen nicht nur die Verbrechen selbst, sondern auch die Welt, in der diese Taten geschahen, die gesellschaftlichen Bedingungen, die Menschen zu Verbrechern werden ließen, die kriminalistische Spurensuche – und manchmal abenteuerliche Beweisführung. DAUER: 90 minSTART: vor dem Historischen Rathaus, am Schriftzug “Friedenssaal”, Prinzipalmarkt 10, 48143 MünsterPREIS: 25,00€ pro PersonTICKETS: Tickets bitte vorab über unsere Website buchen – vor Ort gibt es keinen Verkauf.HINWEIS: Unsere TRUE X CRIME-Führung richtet sich in erster Linie an ein jugendliches und erwachsenes Publikum. Wir empfehlen die Teilnahme ab 16 Jahren.",
+        "link": "https://rausgegangen.de/en/events/stadtfuhrung-true-x-crime-ein-streifzug-durch-munsters-beruc-13/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Nyl3B7cRRMyquxEcwyuP_pplplcweb274.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Fri, 13.03.2026",
@@ -2809,6 +2789,46 @@
     },
     {
         "date": "Fri, 13.03.2026",
+        "time": "19:00",
+        "event": "Tristan Brusch - Am Anfang Tour 2026 (@Kulturzentrum Lagerhaus)",
+        "category": "",
+        "description": "Tristan Brusch lädt dich ein, bei seiner \"Am Anfang Tour 2026\" den besonderen Moment zwischen Melancholie und Aufbruch zu erleben. Mit seinem unverwechselbaren Mix aus alternativem Rock und Indiefolk öffnet er Türen zu neuen, aufregenden Klangwelten 🤩",
+        "link": "https://rausgegangen.de/en/events/tristan-brusch-am-anfang-tour-2026-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7B2HGaLjT4mUpQE7NWJK_tristanbruschfotograf-tim-cavadini05-quer-col.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Fri, 13.03.2026",
+        "time": "19:30",
+        "event": "Nasser #7 Leben (@Schnürschuh Theater)",
+        "category": "",
+        "description": "NASSER # 7LebenComing-of-Age-Geschichte eines MenschenrechtsaktivistenNasser El-Ahmad ist Deutsch-Libanese und als ältester Sohn der Liebling der ganzen Verwandtschaft, doch mit zunehmendem Alter wird die Erziehung strenger: Musik ist „haram“, Fernsehen und Internet nur eingeschränkt erlaubt. Als die Konflikte mit seinem Vater immer massiver werden, sucht sich Nasser seine Freiräume verstärkt außerhalb der Familie. Im Alter von 15 Jahren entdeckt er die queere Partyszene Berlins und wird auf Facebook geoutet. Als seine Eltern davon erfahren, bedeutet dies das Ende seines bisherigen Lebens.„NASSER # 7Leben“ erzählt auf Grundlage von Nassers Schicksal eine besondere Coming-of-Age-Geschichte über einen heranwachsenden Menschen, der viel Schlimmes erleben musste und doch nie den Mut zu einem selbstbestimmten Leben aus den Augen verlor. Sein unerschütterlicher Wille zur Freiheit und Unabhängigkeit gaben ihm Kraft zur Rebellion und machen ihn bis heute zu einem wichtigen Aktivisten gegen Homophobie und für Toleranz und Menschenrechte. Nasser El-Ahmad ist Vorbild für viele junge Menschen. Er ist Ende 2015 mit dem „Respektpreis“ des Berliner „Bündnisses gegen Homophobie“ ausgezeichnet worden.Ein berührendes starkes Stück über einen muslimischen Jungen, der seine Sexualität und Glauben leben möchte und dafür kämpft, trotzdem auch witzig und verspielt.Regie: Pascal Makowka                                                                                                        Es spielen: Abid Ciplak, Holger Sprengler, Magdalena Suckow, Jennifer Wollny",
+        "link": "https://rausgegangen.de/en/events/nasser-7-leben-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GWOdnrH5T26Ax3cZIszR_nasser-foto-vorpremiere.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Fri, 13.03.2026",
+        "time": "20:00",
+        "event": "BLAUFUCHS + Antifanti: Bis jetzt ging alles gut - Tour 2026 (@Zollkantine)",
+        "category": "",
+        "description": "BLAUFUCHS und ANNES EX teilen sich 2026 die Bühne und liefern gemeinsam einen Mix aus Songpoesie und unverwechselbarem Sound. Freu dich auf neue Tracks und vertraute Klänge, die Geschichten erzählen, ohne viel Schnickschnack  🤩",
+        "link": "https://rausgegangen.de/en/events/blaufuchs-bis-jetzt-ging-alles-gut-tour-2026-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/xoE45vsoQSKpRJeORQRn_instafeedtour-bremen.jpeg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Fri, 13.03.2026",
+        "time": "20:00",
+        "event": "Craft Comedy Club (@Butschern Bar am Sielwall)",
+        "category": "",
+        "description": "Im Craft Comedy Club zeigen Nachwuchs-Comedians aus Nordwestdeutschland, wie vielseitig Stand-up sein kann. Von Bürogeschichten bis zu skurrilen Alltagsbeobachtungen gibt es ehrlichen Humor ohne Gemeinheiten, der sich selbst nicht zu ernst nimmt und dich garantiert zum Schmunzeln bringt 🤩",
+        "link": "https://rausgegangen.de/en/events/craft-comedy-club-9/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zO0XqQYSVagXar4c1uwn_craft-comedy-club-profil-bild.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Fri, 13.03.2026",
         "time": "20:00",
         "event": "Crimson Bloom (@Ratinger Hof)",
         "category": "",
@@ -2826,26 +2846,6 @@
         "link": "https://rausgegangen.de/en/events/riot-bass-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/kQpAbaF7SGim8EVEGoEz_img1700.jpeg?width=1200&height=900&mode=crop",
         "city": "Düsseldorf"
-    },
-    {
-        "date": "Fri, 13.03.2026",
-        "time": "18:00",
-        "event": "Pongnation Beer Pong Turnier (@Schaf Münster)",
-        "category": "",
-        "description": "Hier erwartet dich mehr als ein klassisches Beerpong-Turnier: Teams kämpfen mit viel Ehrgeiz und Gemeinschaftsgefühl um insgesamt 1.250 Euro Preisgeld. Wer beim Hauptturnier früh rausfliegt, bekommt im Leberschuss Side-Event nochmal die Chance, weiterzumachen 🥂",
-        "link": "https://rausgegangen.de/en/events/pongnation-beer-pong-turnier-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/1JdfSbmDRUKcBjQ0fLn6_munster130326eventheaderfinal.png?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Fri, 13.03.2026",
-        "time": "18:30",
-        "event": "Stadtführung TRUE X CRIME - Ein Streifzug durch Münsters berüchtigtste Kriminalfälle (@Historisches Rathaus Münster)",
-        "category": "",
-        "description": "Düster, schaurig, wahr: Von blutigen Duellen auf dem Domplatz bis zu Leichenfunden im Aasee entführen wir euch in fünf Jahrhunderte voller Verbrechen, Intrigen und Abgründe der Domstadt. Vom 16. Jahrhundert bis in die Gegenwart erzählen wir spektakuläre Kriminalfälle und verknüpfen sie mit Einblicken in die Stadt- und Alltagsgeschichte. HEILE WELT IN MÜNSTER? FEHLANZEIGE: Begegnet Leichnamen in eisernen Körben hoch über der Stadt, dem bis heute nicht gefassten Münsterland-Mörder und erfahrt, wie der Terror der IRA Münster erreichte.VON KÄFIGEN, ZELLEN UND DUNKLEN GASSEN: Entdeckt die Originalschauplätze der Verbrechen: vom Pranger am Prinzipalmarkt, über zugige Zellen im Zwinger bis in unscheinbare Gassen, die zu Tatorten wurden.BLICK HINTER DIE VERBRECHEN: Wir zeigen nicht nur die Verbrechen selbst, sondern auch die Welt, in der diese Taten geschahen, die gesellschaftlichen Bedingungen, die Menschen zu Verbrechern werden ließen, die kriminalistische Spurensuche – und manchmal abenteuerliche Beweisführung. DAUER: 90 minSTART: vor dem Historischen Rathaus, am Schriftzug “Friedenssaal”, Prinzipalmarkt 10, 48143 MünsterPREIS: 25,00€ pro PersonTICKETS: Tickets bitte vorab über unsere Website buchen – vor Ort gibt es keinen Verkauf.HINWEIS: Unsere TRUE X CRIME-Führung richtet sich in erster Linie an ein jugendliches und erwachsenes Publikum. Wir empfehlen die Teilnahme ab 16 Jahren.",
-        "link": "https://rausgegangen.de/en/events/stadtfuhrung-true-x-crime-ein-streifzug-durch-munsters-beruc-13/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Nyl3B7cRRMyquxEcwyuP_pplplcweb274.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
     },
     {
         "date": "Fri, 13.03.2026",
@@ -2914,6 +2914,14 @@
     },
     {
         "date": "Sa, 14.03.2026",
+        "time": "20:50",
+        "event": "Hoppers (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Trickfilm",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
+        "date": "Sa, 14.03.2026",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
         "category": "Sport",
@@ -2943,14 +2951,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sa, 14.03.2026",
-        "time": "20:50",
-        "event": "Hoppers (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Trickfilm",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Sat, 14.03",
@@ -2988,66 +2988,6 @@
         "event": "Klub.tek (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/smallroom-weekender-30/",
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
-    },
-    {
-        "date": "Sat, 14.03.2026",
-        "time": "20:00",
-        "event": "Buntspecht \"K5\"-Tour (@Club Tante JU)",
-        "category": "",
-        "description": "Buntspecht mixt auf ihrer „K5“-Tour eindrucksvoll melancholische Popklänge mit intensiver künstlerischer Freiheit. Ihr neues Album öffnet Türen zu ungewöhnlichen Klangwelten, die live eine besondere Atmosphäre schaffen. Wenn du ungewöhnlichen Indie-Kammerpop magst, sind sie einen Blick wert 🪩",
-        "link": "https://rausgegangen.de/en/events/buntspecht-k5-tour-6/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/a4LWi397Tna3646uu1n0_foto-3-credit-marlene-del-bello.JPG?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Sat, 14.03.2026",
-        "time": "20:00",
-        "event": "Leech – Tour 2026 (@Beatpol)",
-        "category": "",
-        "description": "Special guests: LUCID VOIDTanzbare Melodien, feine Soundlandschaften und exzentrische Klangteppiche katapultieren den Zuhörer mit grossartigen, perfekt abgestimmten audiovisuellen Effekten in Sphären unbeschreiblicher Emotionen. Insbesondere bei Liveauftritten, begeistert LEECH ein aussergewöhnlich breites Publikum. Auf nationalen Events wie dem Bergmal Festival oder dem 25 Jahre KiFF Festival überzeugt LEECH auf ganzer Linie, auch international ist der Blutegel gefragter als nie zuvor. Bei Auftritten in Russland, Tschechien, Polen, Deutschland, Österreich, etc. konnte LEECH sich eine weltweite Fan Base aufbauen und wird nicht zu Unrecht als ‚THE MOST UNDERRATED BAND EVER‘ bezeichnet.",
-        "link": "https://rausgegangen.de/en/events/leech-tour-2026-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/R1vEYkh5SaqoocTp8RIW_leechcsilviozeder-quer.png?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Sat, 14.03.2026",
-        "time": "21:00",
-        "event": "ORBITAL VORTEX | Drum and Bass | Gourski, Geostatic, TheDutchDemon, Plyometrics, Trainwreck b2b Nifo, Hazy.4xo, MTRC, Morpheus (@Kashay Salon)",
-        "category": "",
-        "description": "Over 10+ hours of Drum & Bass. A night beyond orbit. Power Unit & Real Energy  📍 Dresden, Germany 🗓 March 14, 2026 📍 Kashay Salon  🔥 LINE-UP: • Gourski (Cologne | DE) • Geostatic (Graz | AT) • TheDutchDemon (NL) • Plyometrics (CH) • Trainwreck b2b • Nifo (BE/NL)  🎧 Local Support: Hazy.4xo · MTRC · Morpheus  ✨ SPECIALS: To be announced soon. Visuals · Atmosphere · Immersion Stay locked – the signal is active.  🎟 Presale / Tickets: 👉 www.orbital-vortex.de",
-        "link": "https://rausgegangen.de/en/events/orbital-vortex-drum-and-bass-gourski-geostatic-thedutchdemon-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/nW9SXPZSGqfcSDeefJoH_fb-header-2.jpg?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Sat, 14.03.2026",
-        "time": "21:00",
-        "event": "Solo Show Dresden (@OstPol)",
-        "category": "",
-        "description": "test",
-        "link": "https://rausgegangen.de/en/events/solo-show-dresden-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fyLRIlSPRJqpfdQV2wzW_cem5317.JPG?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Sat, 14.03.2026",
-        "time": "22:00",
-        "event": "3 PARTYS. 1 NACHT • Dresdens große Party! (@Arteum Eventlocation)",
-        "category": "",
-        "description": "🕺🏽 3 P A R T Y S . 1 N A C H T 🕺🏽 Dresdens große Party ist zurück. Schnappt euch eure Freunde und markiert euch den Termin fett und rot im Kalender! 📅Euch erwartet mal wieder eine unvergessliche Nacht voller Musik, Tanz und bester Stimmung! ❤️Und ja - auf 3 PARTY AREAS - ja im ARTEUM!  📍 Arteum | P18! 📍 3 PARTY-AREAS  ⬥ AREA #1 ⬥︎ ♪♪ (Tech-)House, Electro & Partyhits⬥︎ AREA #2 ⬥ ♪♪ Hip-Hop, RnB & Rap⬥︎ AREA #3 ⬥ ♪♪ 80s, 90s & Schlager  ⬥ SPECIALS ⬥ • 3er Gruppen Ladies erhalten einen gratis Prosecco • 3 Getränkespecials • 3 PARTYS. 1 NACHT + 1 MEGA Location  ⬥ TICKETS ⬥ ☞ Early-Bird Ticket = 8,50 € [nur 333 Stück] ☞ Normales Ticket = 12,50 €  ⬥ INFOS & LOCATION ⬥ Arteum | Am Brauhaus 3 | 01099 Dresden • Datum: Samstag, 14.03. • Einlass: ab 22 UhrStrikt P18!",
-        "link": "https://rausgegangen.de/en/events/3-partys-1-nacht-dresdens-groe-party-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/mvDJt6b5Q2VSx5weJIgo_layoutfacebook-3p1n.jpg?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Sat, 14.03.2026",
-        "time": "22:30",
-        "event": "Alternative Block Party - Pop-Punk Special (@GrooveStation)",
-        "category": "",
-        "description": "DANNY D (Berlin) & CHRISTOUGH! (Berlin) --- Pop-Punk, Nu Metal, Emo, Alternative  --- this Party sounds like... A Day To Remember, AFI, Alesana, All Time Low, Architects, Asking Alexandria, Avril Lavigne, Bad Omens, Beartooth, Billy Talent, Black Veil Brides, Blessthefall, Blink 182, Bring me the Horizon, Dashboard Confessional, Escape The Fate, Fall Out Boy, Falling in Reverse, Finch, Funeral For a Friend, Good Charlotte, Green Day, Hawthorne Heights, I Prevail, Ice Nine Kills, Jimmy Eat World, Linkin Park, Machine Gun Kelly, Metro Station, Motionless in White, My Chemical Romance, Neck Deep, New Found Glory, Panic At The Disco, Papa Roach, Paramore, Pierce The Veil, Rise Against, Senses Fail, Simple Plan, Silverstein, Sleep Token, Sleeping with Sirens, Story of The Year, Sum41, Taking Back Sunday, The All American Rejects, The Offspring, The Story So Far, The Used, Thirty Seconds to Mars, Underoath, Yellowcard u.v.m.  --- Seit über einer Dekade betouren die beiden Musiker in unterschiedlichen Konstellationen die Clubs und Festivals der Republik, lange Zeit als Bassisten ihrer ehemaligen Bands Casper und Jennifer Rostock. Parallel dazu ließen sie ihrer Leidenschaft für Musik als DJs freien Lauf. Sozialisiert sind beide im Punk und Hardcore der Nullerjahre, doch ihre Sets entwickelten sich über die Zeit als Allzweckwaffe für alle Gelegenheiten. Auf ihren Dancefloors zelebrieren die beiden den Hit, den Singalong, die Message. Und nach Hause gegangen wird erst, wenn sich die letzten Feiernden beim Putzlicht zu Oasis in den Armen liegen.",
-        "link": "https://rausgegangen.de/en/events/alternative-block-party-pop-punk-special-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/l6IA2pISTwiumyFaAhsV_abppop-punk2026www.jpg?width=1200&height=900&mode=crop",
-        "city": "Dresden"
     },
     {
         "date": "Sat, 14.03.2026",
@@ -3131,6 +3071,66 @@
     },
     {
         "date": "Sat, 14.03.2026",
+        "time": "20:00",
+        "event": "Buntspecht \"K5\"-Tour (@Club Tante JU)",
+        "category": "",
+        "description": "Buntspecht mixt auf ihrer „K5“-Tour eindrucksvoll melancholische Popklänge mit intensiver künstlerischer Freiheit. Ihr neues Album öffnet Türen zu ungewöhnlichen Klangwelten, die live eine besondere Atmosphäre schaffen. Wenn du ungewöhnlichen Indie-Kammerpop magst, sind sie einen Blick wert 🪩",
+        "link": "https://rausgegangen.de/en/events/buntspecht-k5-tour-6/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/a4LWi397Tna3646uu1n0_foto-3-credit-marlene-del-bello.JPG?width=1200&height=900&mode=crop",
+        "city": "Dresden"
+    },
+    {
+        "date": "Sat, 14.03.2026",
+        "time": "20:00",
+        "event": "Leech – Tour 2026 (@Beatpol)",
+        "category": "",
+        "description": "Special guests: LUCID VOIDTanzbare Melodien, feine Soundlandschaften und exzentrische Klangteppiche katapultieren den Zuhörer mit grossartigen, perfekt abgestimmten audiovisuellen Effekten in Sphären unbeschreiblicher Emotionen. Insbesondere bei Liveauftritten, begeistert LEECH ein aussergewöhnlich breites Publikum. Auf nationalen Events wie dem Bergmal Festival oder dem 25 Jahre KiFF Festival überzeugt LEECH auf ganzer Linie, auch international ist der Blutegel gefragter als nie zuvor. Bei Auftritten in Russland, Tschechien, Polen, Deutschland, Österreich, etc. konnte LEECH sich eine weltweite Fan Base aufbauen und wird nicht zu Unrecht als ‚THE MOST UNDERRATED BAND EVER‘ bezeichnet.",
+        "link": "https://rausgegangen.de/en/events/leech-tour-2026-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/R1vEYkh5SaqoocTp8RIW_leechcsilviozeder-quer.png?width=1200&height=900&mode=crop",
+        "city": "Dresden"
+    },
+    {
+        "date": "Sat, 14.03.2026",
+        "time": "21:00",
+        "event": "ORBITAL VORTEX | Drum and Bass | Gourski, Geostatic, TheDutchDemon, Plyometrics, Trainwreck b2b Nifo, Hazy.4xo, MTRC, Morpheus (@Kashay Salon)",
+        "category": "",
+        "description": "Over 10+ hours of Drum & Bass. A night beyond orbit. Power Unit & Real Energy  📍 Dresden, Germany 🗓 March 14, 2026 📍 Kashay Salon  🔥 LINE-UP: • Gourski (Cologne | DE) • Geostatic (Graz | AT) • TheDutchDemon (NL) • Plyometrics (CH) • Trainwreck b2b • Nifo (BE/NL)  🎧 Local Support: Hazy.4xo · MTRC · Morpheus  ✨ SPECIALS: To be announced soon. Visuals · Atmosphere · Immersion Stay locked – the signal is active.  🎟 Presale / Tickets: 👉 www.orbital-vortex.de",
+        "link": "https://rausgegangen.de/en/events/orbital-vortex-drum-and-bass-gourski-geostatic-thedutchdemon-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/nW9SXPZSGqfcSDeefJoH_fb-header-2.jpg?width=1200&height=900&mode=crop",
+        "city": "Dresden"
+    },
+    {
+        "date": "Sat, 14.03.2026",
+        "time": "21:00",
+        "event": "Solo Show Dresden (@OstPol)",
+        "category": "",
+        "description": "test",
+        "link": "https://rausgegangen.de/en/events/solo-show-dresden-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fyLRIlSPRJqpfdQV2wzW_cem5317.JPG?width=1200&height=900&mode=crop",
+        "city": "Dresden"
+    },
+    {
+        "date": "Sat, 14.03.2026",
+        "time": "22:00",
+        "event": "3 PARTYS. 1 NACHT • Dresdens große Party! (@Arteum Eventlocation)",
+        "category": "",
+        "description": "🕺🏽 3 P A R T Y S . 1 N A C H T 🕺🏽 Dresdens große Party ist zurück. Schnappt euch eure Freunde und markiert euch den Termin fett und rot im Kalender! 📅Euch erwartet mal wieder eine unvergessliche Nacht voller Musik, Tanz und bester Stimmung! ❤️Und ja - auf 3 PARTY AREAS - ja im ARTEUM!  📍 Arteum | P18! 📍 3 PARTY-AREAS  ⬥ AREA #1 ⬥︎ ♪♪ (Tech-)House, Electro & Partyhits⬥︎ AREA #2 ⬥ ♪♪ Hip-Hop, RnB & Rap⬥︎ AREA #3 ⬥ ♪♪ 80s, 90s & Schlager  ⬥ SPECIALS ⬥ • 3er Gruppen Ladies erhalten einen gratis Prosecco • 3 Getränkespecials • 3 PARTYS. 1 NACHT + 1 MEGA Location  ⬥ TICKETS ⬥ ☞ Early-Bird Ticket = 8,50 € [nur 333 Stück] ☞ Normales Ticket = 12,50 €  ⬥ INFOS & LOCATION ⬥ Arteum | Am Brauhaus 3 | 01099 Dresden • Datum: Samstag, 14.03. • Einlass: ab 22 UhrStrikt P18!",
+        "link": "https://rausgegangen.de/en/events/3-partys-1-nacht-dresdens-groe-party-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/mvDJt6b5Q2VSx5weJIgo_layoutfacebook-3p1n.jpg?width=1200&height=900&mode=crop",
+        "city": "Dresden"
+    },
+    {
+        "date": "Sat, 14.03.2026",
+        "time": "22:30",
+        "event": "Alternative Block Party - Pop-Punk Special (@GrooveStation)",
+        "category": "",
+        "description": "DANNY D (Berlin) & CHRISTOUGH! (Berlin) --- Pop-Punk, Nu Metal, Emo, Alternative  --- this Party sounds like... A Day To Remember, AFI, Alesana, All Time Low, Architects, Asking Alexandria, Avril Lavigne, Bad Omens, Beartooth, Billy Talent, Black Veil Brides, Blessthefall, Blink 182, Bring me the Horizon, Dashboard Confessional, Escape The Fate, Fall Out Boy, Falling in Reverse, Finch, Funeral For a Friend, Good Charlotte, Green Day, Hawthorne Heights, I Prevail, Ice Nine Kills, Jimmy Eat World, Linkin Park, Machine Gun Kelly, Metro Station, Motionless in White, My Chemical Romance, Neck Deep, New Found Glory, Panic At The Disco, Papa Roach, Paramore, Pierce The Veil, Rise Against, Senses Fail, Simple Plan, Silverstein, Sleep Token, Sleeping with Sirens, Story of The Year, Sum41, Taking Back Sunday, The All American Rejects, The Offspring, The Story So Far, The Used, Thirty Seconds to Mars, Underoath, Yellowcard u.v.m.  --- Seit über einer Dekade betouren die beiden Musiker in unterschiedlichen Konstellationen die Clubs und Festivals der Republik, lange Zeit als Bassisten ihrer ehemaligen Bands Casper und Jennifer Rostock. Parallel dazu ließen sie ihrer Leidenschaft für Musik als DJs freien Lauf. Sozialisiert sind beide im Punk und Hardcore der Nullerjahre, doch ihre Sets entwickelten sich über die Zeit als Allzweckwaffe für alle Gelegenheiten. Auf ihren Dancefloors zelebrieren die beiden den Hit, den Singalong, die Message. Und nach Hause gegangen wird erst, wenn sich die letzten Feiernden beim Putzlicht zu Oasis in den Armen liegen.",
+        "link": "https://rausgegangen.de/en/events/alternative-block-party-pop-punk-special-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/l6IA2pISTwiumyFaAhsV_abppop-punk2026www.jpg?width=1200&height=900&mode=crop",
+        "city": "Dresden"
+    },
+    {
+        "date": "Sat, 14.03.2026",
         "time": "13:00",
         "event": "Kräuterwanderung - Wildkräuterfülle im Frühling (@Volkspark Kleinzschocher)",
         "category": "",
@@ -3161,23 +3161,43 @@
     },
     {
         "date": "Sat, 14.03.2026",
-        "time": "19:30",
-        "event": "Frank Piotraschke DER ENKELTRICK (@bremer kriminal theater)",
+        "time": "19:00",
+        "event": "ROMANO \"KÖRPER\" TOUR 2026 (@Cafe Sputnik)",
         "category": "",
-        "description": "Manfred trifft nach 16 Jahren seine Oma und statt Kuschelkram geht’s plötzlich um ein kompliziertes Erbe mit Bedingungen. Was im Keller wartet, bringt ihn in echte Nöte und du kannst gespannt sein, wie sich die Geschichte mit Live-Musik von Björn Jentsch entwickelt 🫂",
-        "link": "https://rausgegangen.de/en/events/frank-piotraschke-der-enkeltrick-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/AEnpMTL8Q52lMvE9LaZG_der-enkeltrickbkt-choppens7692.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
+        "description": "Romano feiert mit seinem neuen Album „Körper“ das Wunder Mensch: Sein erzählerischer Stil verknüpft Sprechgesang mit den futuristischen Beats von Siriusmo. Die Tour 2026 nimmt dich mit auf eine Reise durch Träume, Kämpfe und Heldentaten, bei der Musik und Geschichten zu einem ungewöhnlichen Hörmärchen verschmelzen.",
+        "link": "https://rausgegangen.de/en/events/romano-korper-tour-2026-8/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hwL0hUW8TciF780H0MbW_koerpertour25601440yt.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Sat, 14.03.2026",
-        "time": "21:00",
-        "event": "CLUB: Santrofi (@Theater Bremen)",
+        "time": "19:00",
+        "event": "Waving The Guns Im Zenit Tour (@Skaters Palace)",
         "category": "",
-        "description": "Santrofi bringt die goldene Highlife-Ära Ghanas mit einer frischen, energiegeladenen Mischung aus Funk und Afrobeat zurück. Die acht Musiker:innen verbinden rohe Grooves mit modernen Sounds und feiern gerade ihr neues Album Making Moves 🤩",
-        "link": "https://rausgegangen.de/en/events/club-santrofi-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LfUbYE2JQ4OtzCdvd3BA_santrofi062024dsc7338.jpeg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
+        "description": "Bissig, politisch, unterhaltsam. Zwischen Punchlines und Haltung, Battle-Rap und Zeitgeist liefern die Rostocker eine Show mit Message. Geil!",
+        "link": "https://rausgegangen.de/en/events/waving-the-guns-im-zenit-tour-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4ehGFZkHRR2fgMiFzpET_20250407audiolithwtgtourfbeventheader1920x1005.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Sat, 14.03.2026",
+        "time": "19:30",
+        "event": "Windows & Mirrors (@BLACK BOX im cuba)",
+        "category": "",
+        "description": "cuba kultur in der BLACK BOX im CUBASTAGE off LIMITS | Windows & MirrorsDas Windows & Mirrors Quartett vertritt die melodische Seite der freien Improvisation. Es legt die Schwerpunkte ihrer Performance auf musikalische Interaktion zwischen den einzelnen Instrumenten, Generationen, und spontanen Gruppierungen innerhalb des Ensembles. Die Besetzung mit unterschiedlichsten Melodie-Instrumenten schafft zusätzliche Dichte und fordert gleichzeitig Klarheit und Präzision. Besetzung: Harri Sjöstöm – Sopran-und Sopraninosaxophon Giancarlo Schiaffini – Posaune Veli Kujala – Akkordeon Sergio Armaroli – Vibraphon",
+        "link": "https://rausgegangen.de/en/events/windows-mirrors-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3C0gxQkhQaCXfSgGLlMc_14-3-26windows-mirrorscwerner-siebert.jpeg?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Sat, 14.03.2026",
+        "time": "20:00",
+        "event": "APOLLON - Stop tryna be God - That's not who you are // waltraud900 (@Theater im Pumpenhaus)",
+        "category": "",
+        "description": "Verkörpert Apollon den perfekten Mann? Scheint so! Der griechische Gott ist überirdisch schön. Potent und mächtig. Ein unfehlbarer Bogenschütze. Und obendrein Chef der Musen. Gleichzeitig erzählt seine mythologische Bio aber auch vom Begehren jenseits starrer Genderbilder. Und weist unerwartete Bruchstellen auf. Die Künstlerinnen von waltraud900 untersuchen jetzt in APOLLON, wie Männlichkeitsideale weitergegeben, re-inszeniert und reproduziert werden. Gemeinsam mit dem Musiker Uğur Kepenek aka Busy Beast sowie einem Ensemble aus elf männlich gelesenen Jugendlichen entsteht eine performative Versuchsanordnung zwischen Mythos und Gegenwart – mit unterschiedlichen kulturellen Perspektiven. Die jungen Götter von heute klettern vom Olymp. Beschwören das Orakel von Delphi. Besiegen die Python. Zerlegen männliche Rollenmuster und setzten sie neu zusammen. Wohin brechen die Söhne der Zukunft auf?Konzept und Idee waltraud900 Performance Gustav Becker, Bowen Gao, Nuragha Gasimov, Tasos Geraidis, Amin Hubricht, Simon Karol Gabriel Ilga, Uğur Kepenek, Andreas Spektorov, Zhengli Wang, Timo Walek, Fabio Wilson, Juri Win Wintersig Regie Bianca Künzel Ausstattung Ria Papadopoulou Choreografie Phaedra Pisimisi Mitarbeit Choreografie Mohammed Marouf Alhassan Text / Rap Sıtkı Uğur Kepenek Dramaturgie Dorle Trachternach Musik / Musikalische Leitung Linda Bockholt Lichtdesign Eckehard Merholz Tontechnik Thorsten Runge Produktionsleitung Katrin Wiesemann Mitarbeit Produktion Theo Gatzka Foto Merle Forchmann  Koproduktionspartner FFT Düsseldorf, Theater im Pumpenhaus Münster Gefördert vom Kulturamt der Stadt Düsseldorf, dem Ministerium für Kultur und Wissenschaft des Landes NRW (Diversitätsfonds) und vom Fonds Darstellende Künste aus Mitteln des Beauftragten der Bundesregierung für Kultur und Medien",
+        "link": "https://rausgegangen.de/en/events/apollon-waltraud900-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GwdieVFGRq2287ILQv5O_w900apollon-merle-forchmann4.jpeg?width=1200&height=900&mode=crop",
+        "city": "Münster"
     },
     {
         "date": "Sat, 14.03.2026",
@@ -3208,6 +3228,26 @@
         "link": "https://rausgegangen.de/en/events/danse-avec-moi-wmary-chamelio3000-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3u3dVrULRC6n4vyhxVIc_va-dam-climax-14-03-26.jpg?width=1200&height=900&mode=crop",
         "city": "Stuttgart"
+    },
+    {
+        "date": "Sat, 14.03.2026",
+        "time": "19:30",
+        "event": "Frank Piotraschke DER ENKELTRICK (@bremer kriminal theater)",
+        "category": "",
+        "description": "Manfred trifft nach 16 Jahren seine Oma und statt Kuschelkram geht’s plötzlich um ein kompliziertes Erbe mit Bedingungen. Was im Keller wartet, bringt ihn in echte Nöte und du kannst gespannt sein, wie sich die Geschichte mit Live-Musik von Björn Jentsch entwickelt 🫂",
+        "link": "https://rausgegangen.de/en/events/frank-piotraschke-der-enkeltrick-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/AEnpMTL8Q52lMvE9LaZG_der-enkeltrickbkt-choppens7692.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Sat, 14.03.2026",
+        "time": "21:00",
+        "event": "CLUB: Santrofi (@Theater Bremen)",
+        "category": "",
+        "description": "Santrofi bringt die goldene Highlife-Ära Ghanas mit einer frischen, energiegeladenen Mischung aus Funk und Afrobeat zurück. Die acht Musiker:innen verbinden rohe Grooves mit modernen Sounds und feiern gerade ihr neues Album Making Moves 🤩",
+        "link": "https://rausgegangen.de/en/events/club-santrofi-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LfUbYE2JQ4OtzCdvd3BA_santrofi062024dsc7338.jpeg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Sat, 14.03.2026",
@@ -3258,46 +3298,6 @@
         "link": "https://rausgegangen.de/en/events/glam-bang-7/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/YP4QGBilRuicWzhGPuYJ_csd-party-sa-20-juli-bollwerk-cologne1.png?width=1200&height=900&mode=crop",
         "city": "Düsseldorf"
-    },
-    {
-        "date": "Sat, 14.03.2026",
-        "time": "19:00",
-        "event": "ROMANO \"KÖRPER\" TOUR 2026 (@Cafe Sputnik)",
-        "category": "",
-        "description": "Romano feiert mit seinem neuen Album „Körper“ das Wunder Mensch: Sein erzählerischer Stil verknüpft Sprechgesang mit den futuristischen Beats von Siriusmo. Die Tour 2026 nimmt dich mit auf eine Reise durch Träume, Kämpfe und Heldentaten, bei der Musik und Geschichten zu einem ungewöhnlichen Hörmärchen verschmelzen.",
-        "link": "https://rausgegangen.de/en/events/romano-korper-tour-2026-8/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/hwL0hUW8TciF780H0MbW_koerpertour25601440yt.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Sat, 14.03.2026",
-        "time": "19:00",
-        "event": "Waving The Guns Im Zenit Tour (@Skaters Palace)",
-        "category": "",
-        "description": "Bissig, politisch, unterhaltsam. Zwischen Punchlines und Haltung, Battle-Rap und Zeitgeist liefern die Rostocker eine Show mit Message. Geil!",
-        "link": "https://rausgegangen.de/en/events/waving-the-guns-im-zenit-tour-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4ehGFZkHRR2fgMiFzpET_20250407audiolithwtgtourfbeventheader1920x1005.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Sat, 14.03.2026",
-        "time": "19:30",
-        "event": "Windows & Mirrors (@BLACK BOX im cuba)",
-        "category": "",
-        "description": "cuba kultur in der BLACK BOX im CUBASTAGE off LIMITS | Windows & MirrorsDas Windows & Mirrors Quartett vertritt die melodische Seite der freien Improvisation. Es legt die Schwerpunkte ihrer Performance auf musikalische Interaktion zwischen den einzelnen Instrumenten, Generationen, und spontanen Gruppierungen innerhalb des Ensembles. Die Besetzung mit unterschiedlichsten Melodie-Instrumenten schafft zusätzliche Dichte und fordert gleichzeitig Klarheit und Präzision. Besetzung: Harri Sjöstöm – Sopran-und Sopraninosaxophon Giancarlo Schiaffini – Posaune Veli Kujala – Akkordeon Sergio Armaroli – Vibraphon",
-        "link": "https://rausgegangen.de/en/events/windows-mirrors-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3C0gxQkhQaCXfSgGLlMc_14-3-26windows-mirrorscwerner-siebert.jpeg?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Sat, 14.03.2026",
-        "time": "20:00",
-        "event": "APOLLON - Stop tryna be God - That's not who you are // waltraud900 (@Theater im Pumpenhaus)",
-        "category": "",
-        "description": "Verkörpert Apollon den perfekten Mann? Scheint so! Der griechische Gott ist überirdisch schön. Potent und mächtig. Ein unfehlbarer Bogenschütze. Und obendrein Chef der Musen. Gleichzeitig erzählt seine mythologische Bio aber auch vom Begehren jenseits starrer Genderbilder. Und weist unerwartete Bruchstellen auf. Die Künstlerinnen von waltraud900 untersuchen jetzt in APOLLON, wie Männlichkeitsideale weitergegeben, re-inszeniert und reproduziert werden. Gemeinsam mit dem Musiker Uğur Kepenek aka Busy Beast sowie einem Ensemble aus elf männlich gelesenen Jugendlichen entsteht eine performative Versuchsanordnung zwischen Mythos und Gegenwart – mit unterschiedlichen kulturellen Perspektiven. Die jungen Götter von heute klettern vom Olymp. Beschwören das Orakel von Delphi. Besiegen die Python. Zerlegen männliche Rollenmuster und setzten sie neu zusammen. Wohin brechen die Söhne der Zukunft auf?Konzept und Idee waltraud900 Performance Gustav Becker, Bowen Gao, Nuragha Gasimov, Tasos Geraidis, Amin Hubricht, Simon Karol Gabriel Ilga, Uğur Kepenek, Andreas Spektorov, Zhengli Wang, Timo Walek, Fabio Wilson, Juri Win Wintersig Regie Bianca Künzel Ausstattung Ria Papadopoulou Choreografie Phaedra Pisimisi Mitarbeit Choreografie Mohammed Marouf Alhassan Text / Rap Sıtkı Uğur Kepenek Dramaturgie Dorle Trachternach Musik / Musikalische Leitung Linda Bockholt Lichtdesign Eckehard Merholz Tontechnik Thorsten Runge Produktionsleitung Katrin Wiesemann Mitarbeit Produktion Theo Gatzka Foto Merle Forchmann  Koproduktionspartner FFT Düsseldorf, Theater im Pumpenhaus Münster Gefördert vom Kulturamt der Stadt Düsseldorf, dem Ministerium für Kultur und Wissenschaft des Landes NRW (Diversitätsfonds) und vom Fonds Darstellende Künste aus Mitteln des Beauftragten der Bundesregierung für Kultur und Medien",
-        "link": "https://rausgegangen.de/en/events/apollon-waltraud900-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GwdieVFGRq2287ILQv5O_w900apollon-merle-forchmann4.jpeg?width=1200&height=900&mode=crop",
-        "city": "Münster"
     },
     {
         "date": "Sat, 14.03.2026",
@@ -3439,6 +3439,14 @@
         "link": "https://www.bielefeld.jetzt/node/1575797"
     },
     {
+        "date": "So, 15.03.2026",
+        "time": "20:50",
+        "event": "Hoppers (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Trickfilm",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
         "date": "Su, 15.03.2026",
         "time": "19:00",
         "event": "*TRIBE KENNENLERNABEND*",
@@ -3453,14 +3461,6 @@
         "category": "Sport",
         "link": "https://www.instagram.com/uprunningclub/?hl=de",
         "image_url": null
-    },
-    {
-        "date": "So, 15.03.2026",
-        "time": "20:50",
-        "event": "Hoppers (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Trickfilm",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "So, 15.03.2026",
@@ -3486,16 +3486,6 @@
     },
     {
         "date": "Sun, 15.03.2026",
-        "time": "12:00",
-        "event": "VR Free Walk / 7th Box / VR Escape Games (@7th Space Dresden)",
-        "category": "",
-        "description": "7th Space – Play Beyond Limits!DEIN Place To Be für Gemeinschaftsaktivitäten mit Bar-Konzept und Lounges! VR Free Walk  Weitläufige Flächen für Euer Gemeinschaftserlebnis im 7th Space! Eintauchen in die virtuelle Welt war nie intensiver: Im Free Walk trifft maximale Bewegungsfreiheit auf eine knackige Spieleauswahl für Action-Freunde!7th Box: Partyspiele, VR-Classics & more! Über 30 kurzweilige Partyspiele, virtuelles Minigolf, LaserTag und Bowling, bis hin zu VR Escape Games und Reisen durch Raum und Zeit erwarten Dich in der 7th Box!VR Escape Games Gemeinsam die Flucht aus verlassenen Pyramiden, mystischen Dschungeln oder Spukhäusern meistern - unsere VR Escape Games lassen herkömmliche Escape Rooms alt aussehen! Mittwochs Bergfest - 30% Rabatt auf alles  Donnerstags Kids Day - 50% Rabatt im Free Walk  Freitags Freaky Friday - 30% Rabatt für Studis    Mehr Informationen",
-        "link": "https://rausgegangen.de/en/events/vr-free-walk-68/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/dH7PvfGOTRe5P271EJuE_7th-space-marz-24-webgroe-37-136.jpg?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Sun, 15.03.2026",
         "time": "19:30",
         "event": "Black Beat Comedy & Cocktails (Deutsch) (@Black Beat Cocktailbar)",
         "category": "",
@@ -3503,6 +3493,16 @@
         "link": "https://rausgegangen.de/en/events/black-beat-comedy-cocktails-deutsch-38/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lnTW8fmaTIu19urkS0mZ_bbc-deutsch-2x1.png?width=1200&height=900&mode=crop",
         "city": "Frankfurt"
+    },
+    {
+        "date": "Sun, 15.03.2026",
+        "time": "12:00",
+        "event": "VR Free Walk / 7th Box / VR Escape Games (@7th Space Dresden)",
+        "category": "",
+        "description": "7th Space – Play Beyond Limits!DEIN Place To Be für Gemeinschaftsaktivitäten mit Bar-Konzept und Lounges! VR Free Walk  Weitläufige Flächen für Euer Gemeinschaftserlebnis im 7th Space! Eintauchen in die virtuelle Welt war nie intensiver: Im Free Walk trifft maximale Bewegungsfreiheit auf eine knackige Spieleauswahl für Action-Freunde!7th Box: Partyspiele, VR-Classics & more! Über 30 kurzweilige Partyspiele, virtuelles Minigolf, LaserTag und Bowling, bis hin zu VR Escape Games und Reisen durch Raum und Zeit erwarten Dich in der 7th Box!VR Escape Games Gemeinsam die Flucht aus verlassenen Pyramiden, mystischen Dschungeln oder Spukhäusern meistern - unsere VR Escape Games lassen herkömmliche Escape Rooms alt aussehen! Mittwochs Bergfest - 30% Rabatt auf alles  Donnerstags Kids Day - 50% Rabatt im Free Walk  Freitags Freaky Friday - 30% Rabatt für Studis    Mehr Informationen",
+        "link": "https://rausgegangen.de/en/events/vr-free-walk-68/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/dH7PvfGOTRe5P271EJuE_7th-space-marz-24-webgroe-37-136.jpg?width=1200&height=900&mode=crop",
+        "city": "Dresden"
     },
     {
         "date": "Sun, 15.03.2026",
@@ -3805,6 +3805,16 @@
     },
     {
         "date": "Tue, 17.03.2026",
+        "time": "20:00",
+        "event": "Wortgewand(t) • Poetry Slam in Waiblingen (@Kulturhaus Schwanen)",
+        "category": "",
+        "description": "Beim Poetry Slam im Kulturhaus Schwanen erwartet dich ein Abend voller witziger, nachdenklicher und überraschender Texte 🎤 Erlebe, wie kreative Köpfe ihre selbstverfassten Werke live auf die Bühne bringen, ganz ohne Requisiten, aber mit viel Gefühl.",
+        "link": "https://rausgegangen.de/en/events/wortgewandt-poetry-slam-in-waiblingen-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eQ3hTBUrT4WJ11aM7iaw_poetry-slam-schwanen-03-foto-team-schwanenweb.jpg?width=1200&height=900&mode=crop",
+        "city": "Stuttgart"
+    },
+    {
+        "date": "Tue, 17.03.2026",
         "time": "19:00",
         "event": "QUIZTRONAUTEN - Musikquiz im Viertel (@Fehrfeld)",
         "category": "",
@@ -3832,16 +3842,6 @@
         "link": "https://rausgegangen.de/en/events/craft-comedy-open-mic-65/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/r6DPTP7JQvqSNowtoEKT_craft-comedy-open-mic-profil-bild.png?width=1200&height=900&mode=crop",
         "city": "Bremen"
-    },
-    {
-        "date": "Tue, 17.03.2026",
-        "time": "20:00",
-        "event": "Wortgewand(t) • Poetry Slam in Waiblingen (@Kulturhaus Schwanen)",
-        "category": "",
-        "description": "Beim Poetry Slam im Kulturhaus Schwanen erwartet dich ein Abend voller witziger, nachdenklicher und überraschender Texte 🎤 Erlebe, wie kreative Köpfe ihre selbstverfassten Werke live auf die Bühne bringen, ganz ohne Requisiten, aber mit viel Gefühl.",
-        "link": "https://rausgegangen.de/en/events/wortgewandt-poetry-slam-in-waiblingen-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eQ3hTBUrT4WJ11aM7iaw_poetry-slam-schwanen-03-foto-team-schwanenweb.jpg?width=1200&height=900&mode=crop",
-        "city": "Stuttgart"
     },
     {
         "date": "Tue, 17.03.2026",
@@ -4135,16 +4135,6 @@
     },
     {
         "date": "Thu, 19.03.2026",
-        "time": "20:00",
-        "event": "Dews Pegahorn (@Studentenclub Bärenzwinger)",
-        "category": "",
-        "description": "DEWS PEGAHORN beschreibt seine authentische künstlerische Stimme und Ausdrucksweise mit drei Worten: „tanzbare manische Depression“. Dews, geboren in Stuttgart, ist ein deutsch-afrikanischer Rockmusiker mit Wurzeln in Madagaskar und Angola, dessen musikalische Reise schon früh begann, inspiriert von Legenden wie Michael Jackson und geprägt von der Musik von 2Pac. Nachdem er an einem Musikinternat eine klassische Gesangsausbildung erhalten und erste Erfahrungen als Frontmann einer Rockband gesammelt hatte, entwickelte er seinen einzigartigen Stil – geprägt von melancholischen Gitarren, wilden Drums und atmosphärischem Gesang. Dews Pegahorn verkörpert rohe Energie, radikale Authentizität und den Mut, Grenzen zu überschreiten. Mit einer Mischung aus tiefer Emotion und explosiver Bühnenpräsenz schafft er eine einzigartige Verbindung zu seinem Publikum.",
-        "link": "https://rausgegangen.de/en/events/dews-pegahorn-8/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/h9uyZzc4QRSQSF69mXjM_dews-dd.jpg?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Thu, 19.03.2026",
         "time": "19:00",
         "event": "c/o pop @Philharmonie Essen | Levin Liam, Magda & yola (@Philharmonie Essen)",
         "category": "",
@@ -4165,6 +4155,26 @@
     },
     {
         "date": "Thu, 19.03.2026",
+        "time": "20:00",
+        "event": "Dews Pegahorn (@Studentenclub Bärenzwinger)",
+        "category": "",
+        "description": "DEWS PEGAHORN beschreibt seine authentische künstlerische Stimme und Ausdrucksweise mit drei Worten: „tanzbare manische Depression“. Dews, geboren in Stuttgart, ist ein deutsch-afrikanischer Rockmusiker mit Wurzeln in Madagaskar und Angola, dessen musikalische Reise schon früh begann, inspiriert von Legenden wie Michael Jackson und geprägt von der Musik von 2Pac. Nachdem er an einem Musikinternat eine klassische Gesangsausbildung erhalten und erste Erfahrungen als Frontmann einer Rockband gesammelt hatte, entwickelte er seinen einzigartigen Stil – geprägt von melancholischen Gitarren, wilden Drums und atmosphärischem Gesang. Dews Pegahorn verkörpert rohe Energie, radikale Authentizität und den Mut, Grenzen zu überschreiten. Mit einer Mischung aus tiefer Emotion und explosiver Bühnenpräsenz schafft er eine einzigartige Verbindung zu seinem Publikum.",
+        "link": "https://rausgegangen.de/en/events/dews-pegahorn-8/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/h9uyZzc4QRSQSF69mXjM_dews-dd.jpg?width=1200&height=900&mode=crop",
+        "city": "Dresden"
+    },
+    {
+        "date": "Thu, 19.03.2026",
+        "time": "20:00",
+        "event": "ANSA SAUERMANN & BAND -> Münster (@Sputnikcafé)",
+        "category": "",
+        "description": "GoldMucke & präsentiert ANSA SAUERMANN & BAND im SPUTNIKCAFÉ in Münster.Datum: Do. 19.03.2026 Einlass: 19:00 Uhr Beginn: 20:00 Uhr Eintritt: 22 Euro + VVK Gebühren / 25 Euro AK ANSA SAUERMANN & BAND2014 erschien seine erste Single „Foto“ auf der gleichnamigen EP. Seitdem hat Ansa Sauermann drei Alben und 40 Songs veröffentlicht. 2017 „Weisse Liebe“, 2020 „Trümmerlotte“ und 2023 schliesslich „Du kriegst was du brauchst“. Ob Solo, im Trio oder auch als 5-köpfige Band, über die Jahre hat sich Ansa in die Herzen seiner Fans gespielt. 2023 war er bei „Sophia, der Tod und ich“ erstmals an einem Filmsoundtrack beteiligt und im Jahr darauf auch in der viel umjubelten Element of Crime Doku „Wenn es dunkel und kalt wird in Berlin“ von Charly Hübner zu sehen. Als Support von Faber, 2025 auch wieder bei Element of Crime, oder bei seinen eigenen Tourneen, der längst in Wien glücklich gewordene Dresdner hat nichts von seiner Spielfreude verloren und noch lange nicht genug.Aktuell steckt er mitten in den Aufnahmen zu seinem vierten Album, welches voraussichtlich im März 2026 erscheinen wird. Nachdem er auf seinem dritten und letzten Album „Du kriegst was du brauchst“ vor allem mit sanfteren Tönen überzeugt hat, holt er auf seiner vierten Scheibe zum großen Rundumschlag aus. Die in der Vergangenheit dominierende Akustikgitarre wird immer öfter gegen e-Gitarren eingetauscht und melancholische Verträumtheit weicht wütender Fassungslosigkeit. Dabei geht es ihm nicht darum, mit dem Finger auf andere zu zeigen, sondern vielmehr darum, diesen unbequem und pointiert in die Wunden unserer Zeit zulegen. Aber wie immer kommt bei Ansa Sauermann dennoch die Romantik nicht zu kurz, die uns in Zeiten zunehmender Unsicherheit & Spaltung, Halt und Zuversicht gibt. Denn wofür sonst lohnt es sich zu kämpfen und die Hoffnung hochzuhalten, wenn nicht für die Liebe.http://www.ansasauermann.de/https://www.instagram.com/ansasauermann/",
+        "link": "https://rausgegangen.de/en/events/ansa-sauermann-band-munster-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/w4iYGlgcQuatn6Xn2kLg_20260319-ansa-sauermann-band-sputnikcafe-munster.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Thu, 19.03.2026",
         "time": "19:30",
         "event": "SMASH COMEDY - die (queer)feministische Stand Up Show (@Butschern Bar am Sielwall)",
         "category": "",
@@ -4182,16 +4192,6 @@
         "link": "https://rausgegangen.de/en/events/fail-in-love-nights-stories-vom-scheitern-in-der-liebe-dusse-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/QQ6LUq8tSs6StApvccL1_fail-in-love-nights-bannerpng?width=1200&height=900&mode=crop",
         "city": "Düsseldorf"
-    },
-    {
-        "date": "Thu, 19.03.2026",
-        "time": "20:00",
-        "event": "ANSA SAUERMANN & BAND -> Münster (@Sputnikcafé)",
-        "category": "",
-        "description": "GoldMucke & präsentiert ANSA SAUERMANN & BAND im SPUTNIKCAFÉ in Münster.Datum: Do. 19.03.2026 Einlass: 19:00 Uhr Beginn: 20:00 Uhr Eintritt: 22 Euro + VVK Gebühren / 25 Euro AK ANSA SAUERMANN & BAND2014 erschien seine erste Single „Foto“ auf der gleichnamigen EP. Seitdem hat Ansa Sauermann drei Alben und 40 Songs veröffentlicht. 2017 „Weisse Liebe“, 2020 „Trümmerlotte“ und 2023 schliesslich „Du kriegst was du brauchst“. Ob Solo, im Trio oder auch als 5-köpfige Band, über die Jahre hat sich Ansa in die Herzen seiner Fans gespielt. 2023 war er bei „Sophia, der Tod und ich“ erstmals an einem Filmsoundtrack beteiligt und im Jahr darauf auch in der viel umjubelten Element of Crime Doku „Wenn es dunkel und kalt wird in Berlin“ von Charly Hübner zu sehen. Als Support von Faber, 2025 auch wieder bei Element of Crime, oder bei seinen eigenen Tourneen, der längst in Wien glücklich gewordene Dresdner hat nichts von seiner Spielfreude verloren und noch lange nicht genug.Aktuell steckt er mitten in den Aufnahmen zu seinem vierten Album, welches voraussichtlich im März 2026 erscheinen wird. Nachdem er auf seinem dritten und letzten Album „Du kriegst was du brauchst“ vor allem mit sanfteren Tönen überzeugt hat, holt er auf seiner vierten Scheibe zum großen Rundumschlag aus. Die in der Vergangenheit dominierende Akustikgitarre wird immer öfter gegen e-Gitarren eingetauscht und melancholische Verträumtheit weicht wütender Fassungslosigkeit. Dabei geht es ihm nicht darum, mit dem Finger auf andere zu zeigen, sondern vielmehr darum, diesen unbequem und pointiert in die Wunden unserer Zeit zulegen. Aber wie immer kommt bei Ansa Sauermann dennoch die Romantik nicht zu kurz, die uns in Zeiten zunehmender Unsicherheit & Spaltung, Halt und Zuversicht gibt. Denn wofür sonst lohnt es sich zu kämpfen und die Hoffnung hochzuhalten, wenn nicht für die Liebe.http://www.ansasauermann.de/https://www.instagram.com/ansasauermann/",
-        "link": "https://rausgegangen.de/en/events/ansa-sauermann-band-munster-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/w4iYGlgcQuatn6Xn2kLg_20260319-ansa-sauermann-band-sputnikcafe-munster.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
     },
     {
         "date": "Thu, 19.03.2026",
@@ -4292,16 +4292,6 @@
     },
     {
         "date": "Fri, 20.03.2026",
-        "time": "22:30",
-        "event": "Ü30 DISCO - 90's & 00's (@Shagall Klub)",
-        "category": "",
-        "description": "🔥 Ü30 DISCO – 90’s & 00’s PARTY 🔥 🕺💃 Ab 22:30 Uhr drehen wir die Zeit zurück und feiern zu den größten Hits der 90er & 2000er!🎧 DJ CEED liefert euch den ultimativen Mix aus Pop, Dance & legendären Partyklassikern – von den Backstreet Boys bis Lady Gaga 🎶✨✨ Wichtig: Auch wenn es eine Ü30 Disco ist – diese Musik feiern heute ALLE! 🔥 Ob du mit den 90ern & 2000ern aufgewachsen bist oder sie gerade neu für dich entdeckst: 👉 Jüngere Fans dieser Jahrzehnte sind bei uns herzlich willkommen! 💃🕺💖🍹 SPECIALS 🍹 ✅ Eintritt nur 5€ von 22:30 – 23:30 Uhr 🥃 Free Welcome Shot zur Begrüßung👯‍♀️ Schnapp dir deine Crew und erlebe eine Nacht voller Nostalgie, guter Laune & echter Party-Vibes im Shagall Klub 🔥✨📍 Ort: Shagall Klub 📅 FREITAG, 20. März ⏰ ab 22:30 Uhr 🎧 DJ: CeedEINTRITT ab 23:30 - 10€💎 VIP 💎 Werde Teil der exklusiven Shagall VIP-WhatsApp-Gruppe und sichere dir Vorteile, Aktionen & Gästelistenplätze!👉 Jetzt beitreten: 📲 https://chat.whatsapp.com/IOvB03NjB7z4ZbAmTZ9osD🔥 Don’t miss it – das wird legendär! 🔥🎉#bremen #bremenhbf #discomeile #bremenerleben #bremencity bremenparty",
-        "link": "https://rausgegangen.de/en/events/u30-disco-90s-00s-4/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/qNpmbnrCT1m5StgHijFY_neon-party-video-9.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Fri, 20.03.2026",
         "time": "23:00",
         "event": "Take Me Out Münster - die Indieparty mit eavo im Hot Club (@Hot Jazz Club, Münster)",
         "category": "",
@@ -4309,6 +4299,16 @@
         "link": "https://rausgegangen.de/en/events/take-me-out-munster-die-indieparty-mit-eavo-im-hot-club-17/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EQxYpfjRHKPZvYSdrlxc_tmoheadercreme.jpg?width=1200&height=900&mode=crop",
         "city": "Münster"
+    },
+    {
+        "date": "Fri, 20.03.2026",
+        "time": "22:30",
+        "event": "Ü30 DISCO - 90's & 00's (@Shagall Klub)",
+        "category": "",
+        "description": "🔥 Ü30 DISCO – 90’s & 00’s PARTY 🔥 🕺💃 Ab 22:30 Uhr drehen wir die Zeit zurück und feiern zu den größten Hits der 90er & 2000er!🎧 DJ CEED liefert euch den ultimativen Mix aus Pop, Dance & legendären Partyklassikern – von den Backstreet Boys bis Lady Gaga 🎶✨✨ Wichtig: Auch wenn es eine Ü30 Disco ist – diese Musik feiern heute ALLE! 🔥 Ob du mit den 90ern & 2000ern aufgewachsen bist oder sie gerade neu für dich entdeckst: 👉 Jüngere Fans dieser Jahrzehnte sind bei uns herzlich willkommen! 💃🕺💖🍹 SPECIALS 🍹 ✅ Eintritt nur 5€ von 22:30 – 23:30 Uhr 🥃 Free Welcome Shot zur Begrüßung👯‍♀️ Schnapp dir deine Crew und erlebe eine Nacht voller Nostalgie, guter Laune & echter Party-Vibes im Shagall Klub 🔥✨📍 Ort: Shagall Klub 📅 FREITAG, 20. März ⏰ ab 22:30 Uhr 🎧 DJ: CeedEINTRITT ab 23:30 - 10€💎 VIP 💎 Werde Teil der exklusiven Shagall VIP-WhatsApp-Gruppe und sichere dir Vorteile, Aktionen & Gästelistenplätze!👉 Jetzt beitreten: 📲 https://chat.whatsapp.com/IOvB03NjB7z4ZbAmTZ9osD🔥 Don’t miss it – das wird legendär! 🔥🎉#bremen #bremenhbf #discomeile #bremenerleben #bremencity bremenparty",
+        "link": "https://rausgegangen.de/en/events/u30-disco-90s-00s-4/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/qNpmbnrCT1m5StgHijFY_neon-party-video-9.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Fri, 20.03.2026",
@@ -4494,16 +4494,6 @@
     {
         "date": "Sat, 21.03.2026",
         "time": "20:00",
-        "event": "Slammer Filet - Poetry Slam (@Schaulust Bremen)",
-        "category": "",
-        "description": "Bremens größter regelmäßiger Poetry Slam in der Schaulust im Güterbahnhof. Das Slammer Filet bringt euch die besten Poetry Slammer:innen aus dem gesamten deutschsprachigen Raum sowie die hoffnungsvollsten regionalen Talente nach Bremen. Immer abwechslungsreich, immer spannend, immer fulminant!Beginn: 20 Uhr Einlass: 19 UhrTickets online über Nordwest Ticket (zzgl. Gebühren) und bei GoBäng! am Tresen:6€ (ermäßigt) / 10€Freie Sitzplatzwahl.Preisinformation:VVK: 10€ / 6€ ermäßigt. Abendkasse: 12€ / 8€ ermäßigt. Ermäßigung für Schüler:innen, Studierende, Auszubildende, Freiwilligendienstleistende, Erwerbslose und Rollstuhlfahrende. Ticketpreise zzgl. Vorverkaufsgebühren.",
-        "link": "https://rausgegangen.de/en/events/slammer-filet-poetry-slam-10/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Ob0FZyCsTbeW0U8070ru_2you5588-1.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Sat, 21.03.2026",
-        "time": "20:00",
         "event": "LIN live (@GLEIS 22)",
         "category": "",
         "description": "LIN verbindet Gitarre, Drums und Synthesizer zu einem eigenständigen Sound, der Elektro, Indie und Pop neu denkt. Die Berliner Solokünstlerin bringt politische Botschaften gekonnt ins Publikum und schafft dadurch Raum für Widerstand und Gemeinschaft. Im Ostpol Dresden kannst du ein kraftvolles Live-Erlebnis erwarten 🎶🌈🔥",
@@ -4520,6 +4510,16 @@
         "link": "https://rausgegangen.de/en/events/modern-love-munster-80s-new-wave-synth-pop-im-hot-club-9/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FhENTY2rSjxtPE8m49wq_80sinternetneu-kopie.png?width=1200&height=900&mode=crop",
         "city": "Münster"
+    },
+    {
+        "date": "Sat, 21.03.2026",
+        "time": "20:00",
+        "event": "Slammer Filet - Poetry Slam (@Schaulust Bremen)",
+        "category": "",
+        "description": "Bremens größter regelmäßiger Poetry Slam in der Schaulust im Güterbahnhof. Das Slammer Filet bringt euch die besten Poetry Slammer:innen aus dem gesamten deutschsprachigen Raum sowie die hoffnungsvollsten regionalen Talente nach Bremen. Immer abwechslungsreich, immer spannend, immer fulminant!Beginn: 20 Uhr Einlass: 19 UhrTickets online über Nordwest Ticket (zzgl. Gebühren) und bei GoBäng! am Tresen:6€ (ermäßigt) / 10€Freie Sitzplatzwahl.Preisinformation:VVK: 10€ / 6€ ermäßigt. Abendkasse: 12€ / 8€ ermäßigt. Ermäßigung für Schüler:innen, Studierende, Auszubildende, Freiwilligendienstleistende, Erwerbslose und Rollstuhlfahrende. Ticketpreise zzgl. Vorverkaufsgebühren.",
+        "link": "https://rausgegangen.de/en/events/slammer-filet-poetry-slam-10/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Ob0FZyCsTbeW0U8070ru_2you5588-1.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Sat, 21.03.2026",
@@ -4622,16 +4622,6 @@
     },
     {
         "date": "Sun, 22.03.2026",
-        "time": "20:00",
-        "event": "LIN live (@Ostpol Dresden)",
-        "category": "",
-        "description": "LIN verbindet Gitarre, Drums und Synthesizer zu einem eigenständigen Sound, der Elektro, Indie und Pop neu denkt. Die Berliner Solokünstlerin bringt politische Botschaften gekonnt ins Publikum und schafft dadurch Raum für Widerstand und Gemeinschaft. Im Ostpol Dresden kannst du ein kraftvolles Live-Erlebnis erwarten 🎶🌈🔥",
-        "link": "https://rausgegangen.de/en/events/lin-live-11/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/uQtzJYnSXO7Q9GrvsEFZ_lin3ctimo-vogt.jpg?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Sun, 22.03.2026",
         "time": "17:00",
         "event": "Christina Zurhausen - Songs & Stories (@Rabbit Hole Theater)",
         "category": "",
@@ -4639,6 +4629,16 @@
         "link": "https://rausgegangen.de/en/events/christina-zurhausen-songs-stories-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/DD80MRbRTTuIQpEkczkM_christina-zurhausen-rausgegangen-2026.jpg?width=1200&height=900&mode=crop",
         "city": "Essen"
+    },
+    {
+        "date": "Sun, 22.03.2026",
+        "time": "20:00",
+        "event": "LIN live (@Ostpol Dresden)",
+        "category": "",
+        "description": "LIN verbindet Gitarre, Drums und Synthesizer zu einem eigenständigen Sound, der Elektro, Indie und Pop neu denkt. Die Berliner Solokünstlerin bringt politische Botschaften gekonnt ins Publikum und schafft dadurch Raum für Widerstand und Gemeinschaft. Im Ostpol Dresden kannst du ein kraftvolles Live-Erlebnis erwarten 🎶🌈🔥",
+        "link": "https://rausgegangen.de/en/events/lin-live-11/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/uQtzJYnSXO7Q9GrvsEFZ_lin3ctimo-vogt.jpg?width=1200&height=900&mode=crop",
+        "city": "Dresden"
     },
     {
         "date": "Sun, 22.03.2026",
@@ -5016,6 +5016,16 @@
     },
     {
         "date": "Fri, 27.03.2026",
+        "time": "20:00",
+        "event": "Cullberg / Ligia Lewis ›Some Thing Folk‹ (@PACT Zollverein)",
+        "category": "",
+        "description": "TANZ  Erstmals arbeitet die Kompanie Cullberg mit der Choreographin Ligia Lewis zusammen. Das Stück ›Some Thing Folk‹ entwirft eine utopische Vorstellung von Zugehörigkeit jenseits nationaler Grenzen. Weitere Informationen",
+        "link": "https://rausgegangen.de/en/events/cullberg-ligia-lewis-some-thing-folk-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/1xWU4kfjQeCnoykEX8fI_somethingfolk250819ct0688-1.jpg?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Fri, 27.03.2026",
         "time": "19:00",
         "event": "NILS KEPPEL - SUPER SONIC YOUTH (@GrooveStation)",
         "category": "",
@@ -5037,26 +5047,6 @@
     {
         "date": "Fri, 27.03.2026",
         "time": "20:00",
-        "event": "Cullberg / Ligia Lewis ›Some Thing Folk‹ (@PACT Zollverein)",
-        "category": "",
-        "description": "TANZ  Erstmals arbeitet die Kompanie Cullberg mit der Choreographin Ligia Lewis zusammen. Das Stück ›Some Thing Folk‹ entwirft eine utopische Vorstellung von Zugehörigkeit jenseits nationaler Grenzen. Weitere Informationen",
-        "link": "https://rausgegangen.de/en/events/cullberg-ligia-lewis-some-thing-folk-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/1xWU4kfjQeCnoykEX8fI_somethingfolk250819ct0688-1.jpg?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Fri, 27.03.2026",
-        "time": "19:00",
-        "event": "kasi & antonius /// kids Tour 2026 (@Modernes)",
-        "category": "",
-        "description": "Kasi und Antonius verbinden Indiepop mit Hip Hop und erinnern an die ungestüme Energie der 2010er. Mit ihrem Debütalbum „kids“ erzählen sie von Freiheit und Erwachsenwerden, während ihre Tour 2026 intensive Momente voller Melancholie und Lebenslust verspricht 🧸",
-        "link": "https://rausgegangen.de/en/events/kasi-kids-tour-2026-7/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/n56dfmcRsinOhYTwCdBf_kasiundantoniuscfatjonhumaj0825.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Fri, 27.03.2026",
-        "time": "20:00",
         "event": "Dani Lia (@Sputnikcafé)",
         "category": "",
         "description": "Dani Lias Musik bewegt zwischen Nachdenklichkeit und Leichtigkeit, geprägt von Indie-Elementen und modernen Klängen. Nach ihrem viralen Hit „alles verloren“ zeigt sie auf der Seele Berühren Tour 2026, wie ehrlich und tanzbar Deutschpop sein kann 🪩",
@@ -5073,6 +5063,16 @@
         "link": "https://rausgegangen.de/en/events/blaulicht-union-party-munster-3/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bIFmxGHKSXqWGRxJmgqw_bu-munster-1920x1080-01-01-01.jpg?width=1200&height=900&mode=crop",
         "city": "Münster"
+    },
+    {
+        "date": "Fri, 27.03.2026",
+        "time": "19:00",
+        "event": "kasi & antonius /// kids Tour 2026 (@Modernes)",
+        "category": "",
+        "description": "Kasi und Antonius verbinden Indiepop mit Hip Hop und erinnern an die ungestüme Energie der 2010er. Mit ihrem Debütalbum „kids“ erzählen sie von Freiheit und Erwachsenwerden, während ihre Tour 2026 intensive Momente voller Melancholie und Lebenslust verspricht 🧸",
+        "link": "https://rausgegangen.de/en/events/kasi-kids-tour-2026-7/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/n56dfmcRsinOhYTwCdBf_kasiundantoniuscfatjonhumaj0825.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Fri, 27.03.2026",
@@ -5210,16 +5210,6 @@
     },
     {
         "date": "Sat, 28.03.2026",
-        "time": "19:00",
-        "event": "KAFVKA FÜR ALLE TOUR 26 (@Kulturzentrum Lagerhaus)",
-        "category": "",
-        "description": "KAFVKA verwebt politischen Rap mit Punk-Energie und bringt klare Botschaften gegen Rechts direkt zu dir. Mit ihrem neuen Album „Kaputt“ und dem viralen Feature „Alexa Alexa Antifascista“ zeigen sie, warum politischer Sound heute so kraftvoll wirkt. Es erwarten dich direkte Texte und spürbare Haltung 🫂",
-        "link": "https://rausgegangen.de/en/events/kafvka-fur-alle-tour-26-6/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/dYE18S0kSliDEN9mDpp9_02-kafvka-by-thomas-tiefseetaucher.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Sat, 28.03.2026",
         "time": "23:00",
         "event": "TEMPTATION, 28.3. w/ Lana Delicios & Barbie Q & more, Puls Club, Münster (@PULS)",
         "category": "",
@@ -5237,6 +5227,16 @@
         "link": "https://rausgegangen.de/en/events/king-kong-kicks-indie-pop-hypes-fade-munster-2/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RKs6wpRMT8y0C0rm78y2_kkicks-banner-neutral.png?width=1200&height=900&mode=crop",
         "city": "Münster"
+    },
+    {
+        "date": "Sat, 28.03.2026",
+        "time": "19:00",
+        "event": "KAFVKA FÜR ALLE TOUR 26 (@Kulturzentrum Lagerhaus)",
+        "category": "",
+        "description": "KAFVKA verwebt politischen Rap mit Punk-Energie und bringt klare Botschaften gegen Rechts direkt zu dir. Mit ihrem neuen Album „Kaputt“ und dem viralen Feature „Alexa Alexa Antifascista“ zeigen sie, warum politischer Sound heute so kraftvoll wirkt. Es erwarten dich direkte Texte und spürbare Haltung 🫂",
+        "link": "https://rausgegangen.de/en/events/kafvka-fur-alle-tour-26-6/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/dYE18S0kSliDEN9mDpp9_02-kafvka-by-thomas-tiefseetaucher.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Sat, 28.03.2026",
@@ -5284,6 +5284,16 @@
     },
     {
         "date": "Sun, 29.03.2026",
+        "time": "19:00",
+        "event": "$ONO$ CLIQ • Planet Kumpel Tour 2026 (@Skaters Palace)",
+        "category": "",
+        "description": "$ONO$ CLIQ bringen mit ihrem Debüt \"ZWEIMAL ALLES\" Rap und Rave zusammen, gewachsen zwischen Aachen und dem Dreiländereck. Ihre Musik steht für Zusammenhalt und Spaß ohne Regeln – ein echtes Gemeinschaftsgefühl, das man auf der Planet Kumpel Tour 2026 spürt 🤩",
+        "link": "https://rausgegangen.de/en/events/ono-cliq-planet-kumpel-tour-2026-7/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zGX80FLCSTWqVdCyJB4q_sonoscliq.png?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Sun, 29.03.2026",
         "time": "15:00",
         "event": "Dance Tribe Bremen lädt ein:  Frühlingserwachen (@tanzwerk bremen)",
         "category": "",
@@ -5301,16 +5311,6 @@
         "link": "https://rausgegangen.de/en/events/the-last-dance-13/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/55w73WGMQSW7kMldNkUI_imgl5615.JPG?width=1200&height=900&mode=crop",
         "city": "Bremen"
-    },
-    {
-        "date": "Sun, 29.03.2026",
-        "time": "19:00",
-        "event": "$ONO$ CLIQ • Planet Kumpel Tour 2026 (@Skaters Palace)",
-        "category": "",
-        "description": "$ONO$ CLIQ bringen mit ihrem Debüt \"ZWEIMAL ALLES\" Rap und Rave zusammen, gewachsen zwischen Aachen und dem Dreiländereck. Ihre Musik steht für Zusammenhalt und Spaß ohne Regeln – ein echtes Gemeinschaftsgefühl, das man auf der Planet Kumpel Tour 2026 spürt 🤩",
-        "link": "https://rausgegangen.de/en/events/ono-cliq-planet-kumpel-tour-2026-7/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zGX80FLCSTWqVdCyJB4q_sonoscliq.png?width=1200&height=900&mode=crop",
-        "city": "Münster"
     },
     {
         "date": "Sun, 29.03.2026",
