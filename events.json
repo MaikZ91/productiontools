@@ -9,6 +9,14 @@
     },
     {
         "date": "Th, 02.04.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 02.04.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -54,14 +62,6 @@
         "category": "Kino",
         "genre": "Animation",
         "link": "https://kino.cylex.de/cinemaxx-5994747/"
-    },
-    {
-        "date": "Th, 02.04.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Do, 02.04.2026",
@@ -118,36 +118,6 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_37296",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Thu, 02.04.2026",
-        "time": "18:00",
-        "event": "SkateJam Workshops auf der Zollverein-Rollschuhbahn (@UNESCO-WELTERBE ZOLLVEREIN | ESSEN)",
-        "category": "",
-        "description": "Wenn du schon sicher auf Rollschuhen unterwegs bist, zeigen dir die SkateJam Workshops, wie du zu funky Disco und HipHop Sounds geschmeidig tanzen kannst. Inspiriert von amerikanischem JamSkating lernst du coole Dance Moves, die sofort in der anschließenden Rollerdisco ausprobiert werden können 🕺🏽",
-        "link": "https://rausgegangen.de/en/events/skatejam-workshops-auf-der-zollverein-rollschuhbahn-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/O2ad4l9ZS1CttBKeoxuc_20250412-rollschuhbahn-v-fn-andrea-kiesendahl-130.jpg?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Thu, 02.04.2026",
-        "time": "18:30",
-        "event": "The Game Club (@Delulu Coffee)",
-        "category": "",
-        "description": "Beim The Game Club triffst du entspannte Gesellschaftsspieler:innen und knackst gemeinsam mit neuen Bekanntschaften knifflige Herausforderungen. Der Abend ist voll von lockeren Gesprächen, kreativen Spielen und einer entspannten Stimmung unter Gleichgesinnten im besten Alter. Perfekt, um spielerisch Kontakte zu knüpfen 🫂",
-        "link": "https://rausgegangen.de/en/events/the-game-club-10/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OaSUBbaIQTCg4lV7UQaP_img5644.png?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Thu, 02.04.2026",
-        "time": "20:00",
-        "event": "SkateJam Rollerdisco auf der Zollverein-Rollschuhbahn (@UNESCO-WELTERBE ZOLLVEREIN | ESSEN)",
-        "category": "",
-        "description": "Beim SkateJam trifft Rollerdisco auf Streetstyle und lässt dich coole Moves auf Rollen ausprobieren oder perfektionieren. Ob Neuling oder Profi, hier gibt’s zu Beginn eine kurze Einführung für sicheren Spaß auf der Bahn und später jede Menge Platz zum Tanzen und Grooven 🪩",
-        "link": "https://rausgegangen.de/en/events/skatejam-rollerdisco-auf-der-zollverein-rollschuhbahn-4/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/0aggq1spT1CdEJCqZPiU_skatejam-rollerdisco-ii-c-jochen-tackstiftung-zollverein.jpg?width=1200&height=900&mode=crop",
-        "city": "Essen"
     },
     {
         "date": "Thu, 02.04.2026",
@@ -231,6 +201,36 @@
     },
     {
         "date": "Thu, 02.04.2026",
+        "time": "18:00",
+        "event": "SkateJam Workshops auf der Zollverein-Rollschuhbahn (@UNESCO-WELTERBE ZOLLVEREIN | ESSEN)",
+        "category": "",
+        "description": "Wenn du schon sicher auf Rollschuhen unterwegs bist, zeigen dir die SkateJam Workshops, wie du zu funky Disco und HipHop Sounds geschmeidig tanzen kannst. Inspiriert von amerikanischem JamSkating lernst du coole Dance Moves, die sofort in der anschließenden Rollerdisco ausprobiert werden können 🕺🏽",
+        "link": "https://rausgegangen.de/en/events/skatejam-workshops-auf-der-zollverein-rollschuhbahn-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/O2ad4l9ZS1CttBKeoxuc_20250412-rollschuhbahn-v-fn-andrea-kiesendahl-130.jpg?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Thu, 02.04.2026",
+        "time": "18:30",
+        "event": "The Game Club (@Delulu Coffee)",
+        "category": "",
+        "description": "Beim The Game Club triffst du entspannte Gesellschaftsspieler:innen und knackst gemeinsam mit neuen Bekanntschaften knifflige Herausforderungen. Der Abend ist voll von lockeren Gesprächen, kreativen Spielen und einer entspannten Stimmung unter Gleichgesinnten im besten Alter. Perfekt, um spielerisch Kontakte zu knüpfen 🫂",
+        "link": "https://rausgegangen.de/en/events/the-game-club-10/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OaSUBbaIQTCg4lV7UQaP_img5644.png?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Thu, 02.04.2026",
+        "time": "20:00",
+        "event": "SkateJam Rollerdisco auf der Zollverein-Rollschuhbahn (@UNESCO-WELTERBE ZOLLVEREIN | ESSEN)",
+        "category": "",
+        "description": "Beim SkateJam trifft Rollerdisco auf Streetstyle und lässt dich coole Moves auf Rollen ausprobieren oder perfektionieren. Ob Neuling oder Profi, hier gibt’s zu Beginn eine kurze Einführung für sicheren Spaß auf der Bahn und später jede Menge Platz zum Tanzen und Grooven 🪩",
+        "link": "https://rausgegangen.de/en/events/skatejam-rollerdisco-auf-der-zollverein-rollschuhbahn-4/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/0aggq1spT1CdEJCqZPiU_skatejam-rollerdisco-ii-c-jochen-tackstiftung-zollverein.jpg?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Thu, 02.04.2026",
         "time": "10:30",
         "event": "WILDE WEGE Wildkräuterspaziergang (@Rosental)",
         "category": "",
@@ -301,46 +301,6 @@
     },
     {
         "date": "Thu, 02.04.2026",
-        "time": "10:00",
-        "event": "Remix. Photographie – Fiktion und Wahrheit (@Kunsthalle Bremen)",
-        "category": "",
-        "description": "Ab Frühjahr 2026 zeigt die Kunsthalle Bremen in Remix Fotografien, die zwischen Dokument und Fiktion schwanken. Dabei treffen Klassiker der Fotografie auf aktuelle Positionen, die das Medium neu befragen und spannende Perspektiven bieten 🫂",
-        "link": "https://rausgegangen.de/en/events/remix-photographie-fiktion-und-wahrheit-31/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/F2Ex0LnlRmaJ4NkgQJN6_mosse.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Thu, 02.04.2026",
-        "time": "19:00",
-        "event": "QUIZTRONAUTEN - Musikquiz in der Markthalle (@MARKTHALLE ACHT)",
-        "category": "",
-        "description": "Hier findest du ein Musikrätsel für alle mit Ohr und Spaß an Beats von Helene Fischer bis Beethoven. Quiztronauten fordern deine Crew heraus und liefern eine spannende Reise quer durch die Soundwelten mit Preisen für die cleverste Gruppe 🥂",
-        "link": "https://rausgegangen.de/en/events/quiztronauten-musikquiz-in-der-markthalle-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3hTd6IJjTe5Myt8C5h6w_rausgegangen-fomo-titel-18.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Thu, 02.04.2026",
-        "time": "19:00",
-        "event": "Cabaret (@Theater Bremen)",
-        "category": "",
-        "description": "Das Musical Cabaret fängt die 1930er Jahre in Berlin mit all ihrer Leidenschaft und Unruhe ein. Mit der Regie von Andreas Kriegenburg sitzt du mitten im Geschehen des Kit Kat Clubs und erlebst Sally Bowles’ Geschichte aus nächster Nähe inklusive Freigetränk 🥂",
-        "link": "https://rausgegangen.de/en/events/cabaret-554/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/w9Gacf4JTrMqKxukRL2q_cabaret004.JPG?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Thu, 02.04.2026",
-        "time": "23:00",
-        "event": "Ladiesnight - Gründonnerstag (@Shagall Klub)",
-        "category": "",
-        "description": "Am Gründonnerstag legt DJ Jumaxx Pop, House und Black auf und bringt den Shagall Klub zum Tanzen. Für alle Ladies gibt’s bis Mitternacht freien Eintritt und coole Drink-Deals, die das Osterwochenende einläuten. Schnapp dir deine Crew und feier entspannt in den langen Abend 🪩",
-        "link": "https://rausgegangen.de/en/events/ladiesnight-grundonnerstag-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/X6jZtuTaThaPQsVYPEj4_purple-neon-music-event-instagram-story-video.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Thu, 02.04.2026",
         "time": "11:00",
         "event": "Anne Truitt. Pionierin der Minimal Art (@K20 Grabbeplatz / Kunstsammlung NRW)",
         "category": "",
@@ -381,12 +341,62 @@
     },
     {
         "date": "Thu, 02.04.2026",
+        "time": "10:00",
+        "event": "Remix. Photographie – Fiktion und Wahrheit (@Kunsthalle Bremen)",
+        "category": "",
+        "description": "Ab Frühjahr 2026 zeigt die Kunsthalle Bremen in Remix Fotografien, die zwischen Dokument und Fiktion schwanken. Dabei treffen Klassiker der Fotografie auf aktuelle Positionen, die das Medium neu befragen und spannende Perspektiven bieten 🫂",
+        "link": "https://rausgegangen.de/en/events/remix-photographie-fiktion-und-wahrheit-31/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/F2Ex0LnlRmaJ4NkgQJN6_mosse.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Thu, 02.04.2026",
+        "time": "19:00",
+        "event": "QUIZTRONAUTEN - Musikquiz in der Markthalle (@MARKTHALLE ACHT)",
+        "category": "",
+        "description": "Hier findest du ein Musikrätsel für alle mit Ohr und Spaß an Beats von Helene Fischer bis Beethoven. Quiztronauten fordern deine Crew heraus und liefern eine spannende Reise quer durch die Soundwelten mit Preisen für die cleverste Gruppe 🥂",
+        "link": "https://rausgegangen.de/en/events/quiztronauten-musikquiz-in-der-markthalle-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3hTd6IJjTe5Myt8C5h6w_rausgegangen-fomo-titel-18.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Thu, 02.04.2026",
+        "time": "19:00",
+        "event": "Cabaret (@Theater Bremen)",
+        "category": "",
+        "description": "Das Musical Cabaret fängt die 1930er Jahre in Berlin mit all ihrer Leidenschaft und Unruhe ein. Mit der Regie von Andreas Kriegenburg sitzt du mitten im Geschehen des Kit Kat Clubs und erlebst Sally Bowles’ Geschichte aus nächster Nähe inklusive Freigetränk 🥂",
+        "link": "https://rausgegangen.de/en/events/cabaret-554/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/w9Gacf4JTrMqKxukRL2q_cabaret004.JPG?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Thu, 02.04.2026",
+        "time": "23:00",
+        "event": "Ladiesnight - Gründonnerstag (@Shagall Klub)",
+        "category": "",
+        "description": "Am Gründonnerstag legt DJ Jumaxx Pop, House und Black auf und bringt den Shagall Klub zum Tanzen. Für alle Ladies gibt’s bis Mitternacht freien Eintritt und coole Drink-Deals, die das Osterwochenende einläuten. Schnapp dir deine Crew und feier entspannt in den langen Abend 🪩",
+        "link": "https://rausgegangen.de/en/events/ladiesnight-grundonnerstag-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/X6jZtuTaThaPQsVYPEj4_purple-neon-music-event-instagram-story-video.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Thu, 02.04.2026",
         "time": "18:00",
         "event": "Nachtflohmarkt im Kulturbunker (@Kulturbunker Stuttgart)",
         "category": "",
         "description": "Beim Nachtflohmarkt im Kulturbunker kannst du stöbern, shoppen und dich von einzigartigen Fundstücken überraschen lassen – dazu gibt’s Snacks, Drinks und gute Musik. Wenn du selbst verkaufen möchtest, melde dich einfach an und sichere dir deinen Standplatz. ✨",
         "link": "https://rausgegangen.de/en/events/nachtflohmarkt-im-kulturbunker-4/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OrV7aCyySA2cJOUPTc31_fmrausgegangen1601-2.jpg?width=1200&height=900&mode=crop",
+        "city": "Stuttgart"
+    },
+    {
+        "date": "Thu, 02.04.2026",
+        "time": "19:00",
+        "event": "Stuttgart Bike Night (@Flora & Fauna)",
+        "category": "",
+        "description": "Bei der Stuttgart Bike Night geht’s um locker-flockiges Radeln und Gemeinschaft ohne Druck. Die Route trägt dich durch bunte Viertel, während elektronische Klänge den Takt angeben. Hier findest du eine entspannte Runde, die Vielfalt feiert und für gute Laune sorgt 🕺🏽",
+        "link": "https://rausgegangen.de/en/events/stuttgart-bike-night-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jphxww26TneURcnCiDmH_img6104.png?width=1200&height=900&mode=crop",
         "city": "Stuttgart"
     },
     {
@@ -411,12 +421,12 @@
     },
     {
         "date": "Thu, 02.04.2026",
-        "time": "19:30",
-        "event": "Pretty Privilege (@Kammertheater)",
+        "time": "23:00",
+        "event": "FLOWERCHILD (@Climax Institutes)",
         "category": "",
-        "description": "Wilke Weermann adaptiert Oscar Wildes Klassiker und reflektiert darin den Einfluss von Social Media auf unser Schönheitsideal. Die Inszenierung verknüpft zeitgenössische Debatten über Ethik und Technologie mit dem zeitlosen Motiv des Bildnisses des Dorian Gray 🫂",
-        "link": "https://rausgegangen.de/en/events/pretty-privilege-9/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/23k5kebi81c1.jpg?width=1200&height=900&mode=crop",
+        "description": "FLOWERCHILD mixt Tech-House und Techno mit einer klaren Botschaft gegen kirchliche Bevormundung und für mehr Säkularität. Philip Bogdan und Friends liefern dir eine Nacht, die mehr als nur Klang bietet und Anstoß zum Nachdenken gibt 🤩",
+        "link": "https://rausgegangen.de/en/events/flowerchild-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6n7hYCQ1Wx7bubpvaxQC_photo-1581974944026-5d6ed762f617?width=1200&height=900&mode=crop",
         "city": "Stuttgart"
     },
     {
@@ -458,66 +468,6 @@
         "link": "https://rausgegangen.de/en/events/power4hours-4-stunden-rave-am-donnerstag-4/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/U6vNm2CHQtOSmiRTsLuI_p4h-rausgegangen-serie.png?width=1200&height=900&mode=crop",
         "city": "Dortmund"
-    },
-    {
-        "date": "Thu, 02.04.2026",
-        "time": "11:00",
-        "event": "Textiles Repaircafé (@IGLU gUG - DREHSCHEIBE FÜR NACHHALTIGEN KONSUM)",
-        "category": "",
-        "description": "Im Textiles Repaircafé kannst du deine Klamotten selbst in Schuss bringen und dabei einiges übers Nähen lernen. Das Team vom IGLU steht mit Rat und Tat bereit, egal ob du flickst, upcycelst oder einfach Lust aufs Handwerken hast 🧚‍♀️",
-        "link": "https://rausgegangen.de/en/events/textiles-repaircafe-9/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8Qr4ZTa0RxeRZ7a2LXMt_repair-cafe-rausgegangen.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Thu, 02.04.2026",
-        "time": "17:00",
-        "event": "Hempies Flohmarkt im machwerkhaus köln (@Hempies im machwerkhaus köln)",
-        "category": "",
-        "description": "Beim Hempies Flohmarkt kannst du deine Schränke entrümpeln und gleichzeitig nach coolen Secondhand- und Kreativstücken stöbern. Dazu gibt’s vegane Snacks und Drinks, die den Besuch richtig rund machen. Jeden ersten Donnerstag im Monat erwartet dich ein entspannter Markt mit viel Platz fürs Entdecken 🧚‍♀️",
-        "link": "https://rausgegangen.de/en/events/hempies-flohmarkt-im-machwerkhaus-koln-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/o2LgDypsT2jB720dfGkv_flohmarkt-2426.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Thu, 02.04.2026",
-        "time": "17:00",
-        "event": "Langer Donnerstag SPOTLIGHT KUSAMA (@Museum Ludwig)",
-        "category": "",
-        "description": "Am Langen Donnerstag gibt es ein spezielles Spotlight auf Yayoi Kusama, deren unverkennbare Muster und Installationen einen einzigartigen Blick auf Wiederholung und Raum bieten. Hier bekommst du eine feine Auswahl ihrer Arbeiten, die dich staunen lassen und einen neuen Zugang zu ihrem Schaffen eröffnen 🪩",
-        "link": "https://rausgegangen.de/en/events/langer-donnerstag-meet-yayoi-kusama-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/rXyDvxJQHyIdVLWx13oA_4.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Thu, 02.04.2026",
-        "time": "17:00",
-        "event": "OOOYSTER NIGHT (@Frohnatur Bistrooo)",
-        "category": "",
-        "description": "Jeden Donnerstag warten frisch eingetroffene Austern von Saltz auf dich, kombiniert mit prickelndem Secco – das perfekte Duo, um entspannt in den Abend zu starten. Das Angebot passt perfekt für alle, die’s unkompliziert und lecker mögen 🥂",
-        "link": "https://rausgegangen.de/en/events/oooyster-night-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/xjA7XRplTJqy1DYLHoGX_260311oysternightbanner.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Thu, 02.04.2026",
-        "time": "20:00",
-        "event": "Delfi Mag trifft Defrag Zine (@Kulturbunker Köln-Mülheim)",
-        "category": "",
-        "description": "Delfi Mag und Defrag Zine bringen vier Stimmen zusammen, die Klassiker und neue Perspektiven aufmischen – von „Emilia Galotti“ bis zu O.C., California. Hier geht es um das Wie und Warum von Sprache, mit viel Raum für Diskussion und Offenheit 🫂",
-        "link": "https://rausgegangen.de/en/events/delfi-mag-trifft-defrag-zine-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/XsfDwLRdWUyrlJvGFghq_merged.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Thu, 02.04.2026",
-        "time": "20:00",
-        "event": "Domenique Dumont (@YUCA)",
-        "category": "",
-        "description": "Das lettische Duo Domenique Dumont mixt Samba, Bossa Nova und cineastischen Pop zu einer entspannten, eigenwilligen Klangwelt. Ihr neuestes Album entstand als Soundtrack für einen Stummfilm aus den 1930ern. Es erwartet dich ein Abend voller vertrauter Melodien und frischer Klänge 🪩",
-        "link": "https://rausgegangen.de/en/events/domenique-dumont-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wG5oIrEPSNOklQnv66zZ_dd1.png?width=1200&height=900&mode=crop",
-        "city": "Köln"
     },
     {
         "date": "Thu, 02.04.2026",
@@ -578,6 +528,66 @@
         "link": "https://rausgegangen.de/en/events/im-still-standing-80s-party-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aI50i78qSSutdYlDB6BM_fb-event-iss2604.png?width=1200&height=900&mode=crop",
         "city": "Berlin"
+    },
+    {
+        "date": "Thu, 02.04.2026",
+        "time": "11:00",
+        "event": "Textiles Repaircafé (@IGLU gUG - DREHSCHEIBE FÜR NACHHALTIGEN KONSUM)",
+        "category": "",
+        "description": "Im Textiles Repaircafé kannst du deine Klamotten selbst in Schuss bringen und dabei einiges übers Nähen lernen. Das Team vom IGLU steht mit Rat und Tat bereit, egal ob du flickst, upcycelst oder einfach Lust aufs Handwerken hast 🧚‍♀️",
+        "link": "https://rausgegangen.de/en/events/textiles-repaircafe-9/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8Qr4ZTa0RxeRZ7a2LXMt_repair-cafe-rausgegangen.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Thu, 02.04.2026",
+        "time": "17:00",
+        "event": "Hempies Flohmarkt im machwerkhaus köln (@Hempies im machwerkhaus köln)",
+        "category": "",
+        "description": "Beim Hempies Flohmarkt kannst du deine Schränke entrümpeln und gleichzeitig nach coolen Secondhand- und Kreativstücken stöbern. Dazu gibt’s vegane Snacks und Drinks, die den Besuch richtig rund machen. Jeden ersten Donnerstag im Monat erwartet dich ein entspannter Markt mit viel Platz fürs Entdecken 🧚‍♀️",
+        "link": "https://rausgegangen.de/en/events/hempies-flohmarkt-im-machwerkhaus-koln-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/o2LgDypsT2jB720dfGkv_flohmarkt-2426.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Thu, 02.04.2026",
+        "time": "17:00",
+        "event": "Langer Donnerstag SPOTLIGHT KUSAMA (@Museum Ludwig)",
+        "category": "",
+        "description": "Am Langen Donnerstag gibt es ein spezielles Spotlight auf Yayoi Kusama, deren unverkennbare Muster und Installationen einen einzigartigen Blick auf Wiederholung und Raum bieten. Hier bekommst du eine feine Auswahl ihrer Arbeiten, die dich staunen lassen und einen neuen Zugang zu ihrem Schaffen eröffnen 🪩",
+        "link": "https://rausgegangen.de/en/events/langer-donnerstag-meet-yayoi-kusama-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/rXyDvxJQHyIdVLWx13oA_4.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Thu, 02.04.2026",
+        "time": "17:00",
+        "event": "OOOYSTER NIGHT (@Frohnatur Bistrooo)",
+        "category": "",
+        "description": "Jeden Donnerstag warten frisch eingetroffene Austern von Saltz auf dich, kombiniert mit prickelndem Secco – das perfekte Duo, um entspannt in den Abend zu starten. Das Angebot passt perfekt für alle, die’s unkompliziert und lecker mögen 🥂",
+        "link": "https://rausgegangen.de/en/events/oooyster-night-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/xjA7XRplTJqy1DYLHoGX_260311oysternightbanner.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Thu, 02.04.2026",
+        "time": "20:00",
+        "event": "Delfi Mag trifft Defrag Zine (@Kulturbunker Köln-Mülheim)",
+        "category": "",
+        "description": "Delfi Mag und Defrag Zine bringen vier Stimmen zusammen, die Klassiker und neue Perspektiven aufmischen – von „Emilia Galotti“ bis zu O.C., California. Hier geht es um das Wie und Warum von Sprache, mit viel Raum für Diskussion und Offenheit 🫂",
+        "link": "https://rausgegangen.de/en/events/delfi-mag-trifft-defrag-zine-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/XsfDwLRdWUyrlJvGFghq_merged.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Thu, 02.04.2026",
+        "time": "20:00",
+        "event": "Domenique Dumont (@YUCA)",
+        "category": "",
+        "description": "Das lettische Duo Domenique Dumont mixt Samba, Bossa Nova und cineastischen Pop zu einer entspannten, eigenwilligen Klangwelt. Ihr neuestes Album entstand als Soundtrack für einen Stummfilm aus den 1930ern. Es erwartet dich ein Abend voller vertrauter Melodien und frischer Klänge 🪩",
+        "link": "https://rausgegangen.de/en/events/domenique-dumont-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wG5oIrEPSNOklQnv66zZ_dd1.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
     },
     {
         "date": "Thu, 02.04.2026",
@@ -918,26 +928,6 @@
     },
     {
         "date": "Fri, 03.04.2026",
-        "time": "18:00",
-        "event": "Good Friday: Dudek x Im // Evi Filippou & Robert Lucaciu (@Stadtgarten Köln)",
-        "category": "",
-        "description": "18:00 I Konzert I Konzertsaal Bei unserem traditionellen Doppelkonzert am Karfreitag präsentieren wir zwei Duos, die sich auf ganz unterschiedliche Weise dem besonderen Anlass der inneren Einkehr widmen.Kaum mehr als ein Katzensprung trennt die musikalisch florierenden Szenen Kölns und Amsterdams: zwei Städte, in denen die eigenständig frischen Stimmen von Fabian Dudek und Chaerin Im längst essenzieller Bestandteil sind. Den Saxophonisten und die Pianistin verbinden nicht nur die unersättliche Erforschung der akustischen Möglichkeiten ihrer Instrumente, sondern auch die neugierige Erweiterung ihres klanglichen Spektrums durch den Einsatz von Elektronik. Künstlerisch trafen Dudek und Im erstmals im Rahmen der Amsterdam Edition des Composers Collective Cologne aufeinander. Im Duo entwickeln die beiden Musiker:innen einen zeitgenössischen, ruhigen Klang, der von feinsinniger Interaktion getragen ist und nachzuhallen versteht.Die dynamische Zusammenarbeit zwischen der griechischen Vibraphonistin Evi Filippou und dem deutsch-rumänischen Kontrabassisten Robert Lucaciu hat eine künstlerische Partnerschaft entstehen lassen, die sich den Zwängen starrer Genre-Kategorisierungen entzieht. Ihrer musikalische Forschungsreise liegt eine Vielzahl von Quellen zu Grunde: von den komplizierten Kompositionen der klassischen Musik des 20. und 21. Jahrhunderts über die temperamentvollen Rhythmen des Jazz bis hin zu beschwörenden Geschichten, die in den Traditionen der Folklore verwoben sind. Diese gemeinsame klangliche Erkundung überschreitet die Grenzen vordefinierter Etiketten: die Essenz ihrer Arbeit liegt im Bereich grenzenloser Kreativität. Die Verflechtung ihrer einzigartigen Hintergründe führt zu einem exquisiten Klangteppich, in dem die Lebendigkeit des Balkan mit dem kosmopolitischen Einfluss der zeitgenössischen europäischen Musiklandschaften zusammenfließt. Wie ein zarter Faden der freien Improvisation entfalten sich ihre Auftritte in einem ungeschriebenen Tanz, der den Fluss des Lebens selbst widerspiegelt. In diesem Wandteppich fließen die Noten wie Rinnsale der Emotionen, die ineinander übergehen und sich wieder trennen, um Momente der Trauer, der Freude und die undefinierbaren Räume dazwischen zu erfassen. Die Erkundungen des Duos sind von einem gemeinsamen Streben nach persönlichem Ausdruck geprägt. In einer durch vielfältige Einflüsse bestimmten Welt schaffen sie ein Hörerlebnis, das sowohl zeitlos als auch zeitgenössisch ist - ein Zeugnis dafür, wie sich musikalische Traditionen und Innovationen im rhythmischen Kern der menschlichen Erfahrung vermischen. // Evi Filippou & Robert Lucaciu: Evi Filippou (vibraphone), Robert Lucaciu (bass), Fabian Dudek (saxophone, electronics), Dudek x Im: Chaerin Im (piano, synthesizer)",
-        "link": "https://rausgegangen.de/en/events/good-friday-dudek-x-im-evi-filippou-robert-lucaciu-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RAOC4byoRZiFKidyubSX_filippoulucaciuby-leon-maria-plecity2.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 03.04.2026",
-        "time": "20:00",
-        "event": "THE NEW NORMAL (@Orangerie Theater)",
-        "category": "",
-        "description": "THE NEW NORMAL zeigt, wie es ist, wenn die Welt sich ständig wandelt und wir selbst suchen, wo wir eigentlich stehen. Zwischen Tanz, Musik und Text spürst du eine Atmosphäre, in der alles gleichzeitig verloren und neu ist 🫂",
-        "link": "https://rausgegangen.de/en/events/the-new-normal-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BxQykABToyZC7Lqc3NPS_orangerie.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Fri, 03.04.2026",
         "time": "16:00",
         "event": "FLINTA* CLUB DECK goes KLUNKERKRANICH w. Lisatrix, House of Grace, Südstern, Pilar Jordan (@KLUNKERKRANICH)",
         "category": "",
@@ -1178,6 +1168,26 @@
     },
     {
         "date": "Fri, 03.04.2026",
+        "time": "18:00",
+        "event": "Good Friday: Dudek x Im // Evi Filippou & Robert Lucaciu (@Stadtgarten Köln)",
+        "category": "",
+        "description": "18:00 I Konzert I Konzertsaal Bei unserem traditionellen Doppelkonzert am Karfreitag präsentieren wir zwei Duos, die sich auf ganz unterschiedliche Weise dem besonderen Anlass der inneren Einkehr widmen.Kaum mehr als ein Katzensprung trennt die musikalisch florierenden Szenen Kölns und Amsterdams: zwei Städte, in denen die eigenständig frischen Stimmen von Fabian Dudek und Chaerin Im längst essenzieller Bestandteil sind. Den Saxophonisten und die Pianistin verbinden nicht nur die unersättliche Erforschung der akustischen Möglichkeiten ihrer Instrumente, sondern auch die neugierige Erweiterung ihres klanglichen Spektrums durch den Einsatz von Elektronik. Künstlerisch trafen Dudek und Im erstmals im Rahmen der Amsterdam Edition des Composers Collective Cologne aufeinander. Im Duo entwickeln die beiden Musiker:innen einen zeitgenössischen, ruhigen Klang, der von feinsinniger Interaktion getragen ist und nachzuhallen versteht.Die dynamische Zusammenarbeit zwischen der griechischen Vibraphonistin Evi Filippou und dem deutsch-rumänischen Kontrabassisten Robert Lucaciu hat eine künstlerische Partnerschaft entstehen lassen, die sich den Zwängen starrer Genre-Kategorisierungen entzieht. Ihrer musikalische Forschungsreise liegt eine Vielzahl von Quellen zu Grunde: von den komplizierten Kompositionen der klassischen Musik des 20. und 21. Jahrhunderts über die temperamentvollen Rhythmen des Jazz bis hin zu beschwörenden Geschichten, die in den Traditionen der Folklore verwoben sind. Diese gemeinsame klangliche Erkundung überschreitet die Grenzen vordefinierter Etiketten: die Essenz ihrer Arbeit liegt im Bereich grenzenloser Kreativität. Die Verflechtung ihrer einzigartigen Hintergründe führt zu einem exquisiten Klangteppich, in dem die Lebendigkeit des Balkan mit dem kosmopolitischen Einfluss der zeitgenössischen europäischen Musiklandschaften zusammenfließt. Wie ein zarter Faden der freien Improvisation entfalten sich ihre Auftritte in einem ungeschriebenen Tanz, der den Fluss des Lebens selbst widerspiegelt. In diesem Wandteppich fließen die Noten wie Rinnsale der Emotionen, die ineinander übergehen und sich wieder trennen, um Momente der Trauer, der Freude und die undefinierbaren Räume dazwischen zu erfassen. Die Erkundungen des Duos sind von einem gemeinsamen Streben nach persönlichem Ausdruck geprägt. In einer durch vielfältige Einflüsse bestimmten Welt schaffen sie ein Hörerlebnis, das sowohl zeitlos als auch zeitgenössisch ist - ein Zeugnis dafür, wie sich musikalische Traditionen und Innovationen im rhythmischen Kern der menschlichen Erfahrung vermischen. // Evi Filippou & Robert Lucaciu: Evi Filippou (vibraphone), Robert Lucaciu (bass), Fabian Dudek (saxophone, electronics), Dudek x Im: Chaerin Im (piano, synthesizer)",
+        "link": "https://rausgegangen.de/en/events/good-friday-dudek-x-im-evi-filippou-robert-lucaciu-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RAOC4byoRZiFKidyubSX_filippoulucaciuby-leon-maria-plecity2.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 03.04.2026",
+        "time": "20:00",
+        "event": "THE NEW NORMAL (@Orangerie Theater)",
+        "category": "",
+        "description": "THE NEW NORMAL zeigt, wie es ist, wenn die Welt sich ständig wandelt und wir selbst suchen, wo wir eigentlich stehen. Zwischen Tanz, Musik und Text spürst du eine Atmosphäre, in der alles gleichzeitig verloren und neu ist 🫂",
+        "link": "https://rausgegangen.de/en/events/the-new-normal-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BxQykABToyZC7Lqc3NPS_orangerie.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 03.04.2026",
         "time": "14:00",
         "event": "Der Markt der Møglichkeiten - Kulturbazar (@Gleishalle Oberhafen)",
         "category": "",
@@ -1412,16 +1422,6 @@
     },
     {
         "date": "Sat, 04.04.2026",
-        "time": "23:59",
-        "event": "Easter Rave w/ Serving Cunts & Metrapha (@GOETHEBUNKER)",
-        "category": "",
-        "description": "Am Samstag den 04.04.2026 ist es wieder soweit: Easter Rave im Goethebunker. Hier muss man nicht lange nach den Easter Eggs bzw. Überraschungen suchen. Serving Cunts aka Climannax & DJ Flatchest überraschen musikalisch mit einer verrückten Reise aus Trance, Techno, House, Wave & Elektro. Gleichzeitig verzaubern sie auch mit ihrem Auftreten, ihren perfomativen Looks und einer Prise ihrer sassy und sexy Attitüde. Sie bringen Spaß auf den Dancefloor, während sie selbst hinter den Decks tanzen und ihrem DJ-Namen gerecht werden.Das Closing spielt Metrapha vom Gitter Kollektiv.Lineup: Serving Cunts MetraphaNur Abendkasse",
-        "link": "https://rausgegangen.de/en/events/easter-rave-w-serving-cunts-metrapha-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FrswED63TUGM4y41KX3Q_easterrave2026169jpg.jpg?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Sat, 04.04.2026",
         "time": "18:30",
         "event": "COMEDY KITCHEN | English Comedy Open Mic at Francis FFM (@Restaurant Francis)",
         "category": "",
@@ -1509,6 +1509,16 @@
         "link": "https://rausgegangen.de/en/events/teil-9-fantastisch-elastisch-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7k7mXisyS1OHDbLtXYmN_objektkleina-teil-9-undithered-0150-0850.png?width=1200&height=900&mode=crop",
         "city": "Dresden"
+    },
+    {
+        "date": "Sat, 04.04.2026",
+        "time": "23:59",
+        "event": "Easter Rave w/ Serving Cunts & Metrapha (@GOETHEBUNKER)",
+        "category": "",
+        "description": "Am Samstag den 04.04.2026 ist es wieder soweit: Easter Rave im Goethebunker. Hier muss man nicht lange nach den Easter Eggs bzw. Überraschungen suchen. Serving Cunts aka Climannax & DJ Flatchest überraschen musikalisch mit einer verrückten Reise aus Trance, Techno, House, Wave & Elektro. Gleichzeitig verzaubern sie auch mit ihrem Auftreten, ihren perfomativen Looks und einer Prise ihrer sassy und sexy Attitüde. Sie bringen Spaß auf den Dancefloor, während sie selbst hinter den Decks tanzen und ihrem DJ-Namen gerecht werden.Das Closing spielt Metrapha vom Gitter Kollektiv.Lineup: Serving Cunts MetraphaNur Abendkasse",
+        "link": "https://rausgegangen.de/en/events/easter-rave-w-serving-cunts-metrapha-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FrswED63TUGM4y41KX3Q_easterrave2026169jpg.jpg?width=1200&height=900&mode=crop",
+        "city": "Essen"
     },
     {
         "date": "Sat, 04.04.2026",
@@ -1612,6 +1622,16 @@
     },
     {
         "date": "Sat, 04.04.2026",
+        "time": "22:00",
+        "event": "RAVEMANIA // EASTER RAVE // 04.04 (@AMPERE Düsseldorf)",
+        "category": "",
+        "description": "RAVEMANIA // EASTER RAVETICKETS/ LINEUP: here Follow us on Instagram: https://www.instagram.com/ravemania.official/   April 4th feels like any other Good Saturday... ...until the night whispers your name and everything changes.Easter Rave awakens Ampere. Quiet streets outside. A glowing secret inside. Soft light spilling over smiling faces, the air alive with anticipation, hearts beating in perfect time.No rules. No ordinary evening. Just us, choosing magic over silence.A gentle rebellion wrapped in warm light – where Lent ends and something brighter begins.Just like last year, we’re hiding a few tickets in the area again. Stay excited! One night to remember you’re alive, connected, free.Where?Ampere (bei Stahlwerk) – Ronsdorfer Str. 134, 40223 DüsseldorfWhen?Saturday, April 4th – Karfreitag AfterCome as you are. Leave carrying the glow.",
+        "link": "https://rausgegangen.de/en/events/ravemania-easter-rave-0404-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6UtYGn74THaRxmgMpywi_04042026quer.jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Sat, 04.04.2026",
         "time": "19:00",
         "event": "QUIZTRONAUTEN - Quiz in der Neustadt (@bali'ku)",
         "category": "",
@@ -1629,16 +1649,6 @@
         "link": "https://rausgegangen.de/en/events/schnack-stand-up-comedy-in-bremen-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6yeuLDcQyyeSJvUtz6Ig_rgg-slide-169.png?width=1200&height=900&mode=crop",
         "city": "Bremen"
-    },
-    {
-        "date": "Sat, 04.04.2026",
-        "time": "22:00",
-        "event": "RAVEMANIA // EASTER RAVE // 04.04 (@AMPERE Düsseldorf)",
-        "category": "",
-        "description": "RAVEMANIA // EASTER RAVETICKETS/ LINEUP: here Follow us on Instagram: https://www.instagram.com/ravemania.official/   April 4th feels like any other Good Saturday... ...until the night whispers your name and everything changes.Easter Rave awakens Ampere. Quiet streets outside. A glowing secret inside. Soft light spilling over smiling faces, the air alive with anticipation, hearts beating in perfect time.No rules. No ordinary evening. Just us, choosing magic over silence.A gentle rebellion wrapped in warm light – where Lent ends and something brighter begins.Just like last year, we’re hiding a few tickets in the area again. Stay excited! One night to remember you’re alive, connected, free.Where?Ampere (bei Stahlwerk) – Ronsdorfer Str. 134, 40223 DüsseldorfWhen?Saturday, April 4th – Karfreitag AfterCome as you are. Leave carrying the glow.",
-        "link": "https://rausgegangen.de/en/events/ravemania-easter-rave-0404-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6UtYGn74THaRxmgMpywi_04042026quer.jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
     },
     {
         "date": "Sat, 04.04.2026",
@@ -1748,6 +1758,16 @@
         "description": "🙏 Namasté,Dieses Ostern laden Natural Bliss und Ecstatic Dance Cologne gemeinsam ein – zu einem besonderen Tag voller Gemeinschaft, Gesang, Bewegung und Transformation.🌿 Ab 15:30 Uhr – Natural Bliss Community Celebration (Tickets im Natural Bliss Shop)Komm früher und tauche ein in einen Nachmittag voller echter Begegnung – die Festival-Energie des Sommers, jetzt schon spürbar in Köln.🕞 15:30 – Ankommen & Landen 🎶 16:00–18:00 – Singkreis & Kakaozeremonie – Herz öffnen, gemeinsam klingen, einfach sein ☕ 17:00–20:00 – Kakao Bar 💬 18:00–19:30 – Connect & Talk + veganes Potluck (bring etwas Veganes zum Teilen mit)  --------------------------------------------------------------------------------------------------------------------------------💃 Ab 19:30 Uhr – Ecstatic Dance Cologne mit DJ Uriel (Tel Aviv) (Separate Tickets im Shop – First oder Second Floor)Der Abend gehört dem freien Tanz. DJ Uriel führt euch auf einer musikalischen Reise durch Rhythmen und Stimmungen – von sanften Klängen bis zu kraftvollen Beats. Kein Richtig, kein Falsch – nur dein authentischer Ausdruck.🚪 18:30 – Open Doors ⭕ 19:00 – Opening Circle & Warm-Up 🌀 19:30 – Ecstatic Dance Journey 🌙 21:30 – Ausklang 🙏 22:00 – Integration & Closing CircleUnser Raum ist: barfuß · alkohol- & drogenfrei · ohne Handy · ohne Worte beim Tanzen · voller RespektBring mit: Decke, Trinkflasche, Snacks fürs gemeinsame Buffet.Ob du nur zum Singen kommst, den ganzen Nachmittag bleibst oder erst zum Tanzen dazustößt – du bist willkommen, genau wie du bist. 💛🎟️ Tickets für den Natural Bliss TeilSee you on the dancefloor!Ein Projekt der: Holistic Culture Hub gGmbH Gemeinsam Kultur erlebbar machen – für eine achtsamere & kreativere Welt.",
         "link": "https://rausgegangen.de/en/events/ecstatic-dance-cologne-uriel-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/T6TB3ZFIQoK4RW5dw1TH_040426-edc-uriel-bliss.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Sat, 04.04.2026",
+        "time": "19:00",
+        "event": "OffBeat Comedy - Mix Show Stand Up Comedy@Goldfinger (@Goldfinger)",
+        "category": "",
+        "description": "Im Goldfingers wartet ein Abend voller spontaner Witze, cooler Vibes und richtig guter Laune auf dich 🎤✨. Vier Comedians bringen dich auf der urbanen Terrasse zum Lachen, während du entspannt dein Getränk genießt 🍹😂. Perfekt für Freund:innen, Dates oder Kolleg:innen – schnapp dir ein Ticket und erlebe Comedy mitten in Köln 🥳🔥.",
+        "link": "https://rausgegangen.de/en/events/offbeat-comedy-mix-show-stand-up-comedygoldfinger-15/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/YTG7BwCvRiSOsKF93gua_new-tv-form-off-beat-comedy.png?width=1200&height=900&mode=crop",
         "city": "Köln"
     },
     {
@@ -1922,16 +1942,6 @@
     },
     {
         "date": "Sat, 04.04.2026",
-        "time": "23:00",
-        "event": "SOUND SOUND x HUNGRY4 w/ Janis Zielinski, Kim Swim, Main Phase (@Schrotty)",
-        "category": "",
-        "description": "Hungry4 und SOUND SOUND vereinen frische elektronische Klänge von Janis Zielinski, Kim Swim und weiteren Artists zu einer Nacht, die zwischen House, Techno und Trance neue Akzente setzt. Auf zwei Floors erwarten dich strukturierte Grooves und pulsierende Beats, die mit Präzision und Dynamik spielen 🪩",
-        "link": "https://rausgegangen.de/en/events/sound-sound-x-hungry4-w-janis-zielinski-kim-swim-main-phase-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/VPLqKuwKRGmipvLaIfbP_26-04-04-ticketing.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Sat, 04.04.2026",
         "time": "13:00",
         "event": "Paint a Bear (@Farbfluss Atelier)",
         "category": "",
@@ -2050,6 +2060,14 @@
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/03/Stereo_05_0426_Feed.jpg"
     },
     {
+        "date": "So, 05.04",
+        "time": "23:00",
+        "event": "MI • ELSA START PARTY (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-elsa-start-party/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/02/20260408_Elsa_Start_4zu5.jpg"
+    },
+    {
         "date": "So, 05.04.2026",
         "time": "11:00",
         "event": "Laufen(@hochschulsport_bielefeld)",
@@ -2066,12 +2084,14 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "So, 05.04",
-        "time": "23:00",
-        "event": "MI • ELSA START PARTY (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-elsa-start-party/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/02/20260408_Elsa_Start_4zu5.jpg"
+        "date": "Sun, 05.04.2026",
+        "time": "18:00",
+        "event": "»Written on Skin« von George Benjamin und Martin Crimp (@Oper Frankfurt)",
+        "category": "",
+        "description": "Ein wohlhabender Mann lässt sich in einer Buchmalerei verherrlichen, doch das Werk enthüllt eine unbequeme Wahrheit. Seine Frau Agnès fühlt sich vom Maler verstanden und begehrt ihn. Als ihre Liebe auffliegt, erschlägt der Ehemann den Rivalen – und zwingt Agnès, das Herz des Geliebten zu essen.Mit »Written on Skin« schufen George Benjamin und Martin Crimp eine der erfolgreichsten Opern des 21. Jahrhunderts. Das Werk basiert auf einer mittelalterlichen Legende und verbindet archaische Brutalität mit glasklarer moderner Sprache. Drei Engel führen als Erzähler*innen durch ein packendes »Spiel im Spiel« zwischen Vergangenheit und Gegenwart.",
+        "link": "https://rausgegangen.de/en/events/written-on-skin-von-george-benjamin-7/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/stFeTT5rRU2V4on7zCBl_writtenonskin05.jpg?width=1200&height=900&mode=crop",
+        "city": "Frankfurt"
     },
     {
         "date": "Sun, 05.04.2026",
@@ -2082,16 +2102,6 @@
         "link": "https://rausgegangen.de/en/events/daytime-groove-w-cosanne-onquiet-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/2koQY911RWsSX7dHIQig_0329-daytime-groove-rausgg.jpg?width=1200&height=900&mode=crop",
         "city": "Essen"
-    },
-    {
-        "date": "Sun, 05.04.2026",
-        "time": "18:00",
-        "event": "»Written on Skin« von George Benjamin und Martin Crimp (@Oper Frankfurt)",
-        "category": "",
-        "description": "Ein wohlhabender Mann lässt sich in einer Buchmalerei verherrlichen, doch das Werk enthüllt eine unbequeme Wahrheit. Seine Frau Agnès fühlt sich vom Maler verstanden und begehrt ihn. Als ihre Liebe auffliegt, erschlägt der Ehemann den Rivalen – und zwingt Agnès, das Herz des Geliebten zu essen.Mit »Written on Skin« schufen George Benjamin und Martin Crimp eine der erfolgreichsten Opern des 21. Jahrhunderts. Das Werk basiert auf einer mittelalterlichen Legende und verbindet archaische Brutalität mit glasklarer moderner Sprache. Drei Engel führen als Erzähler*innen durch ein packendes »Spiel im Spiel« zwischen Vergangenheit und Gegenwart.",
-        "link": "https://rausgegangen.de/en/events/written-on-skin-von-george-benjamin-7/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/stFeTT5rRU2V4on7zCBl_writtenonskin05.jpg?width=1200&height=900&mode=crop",
-        "city": "Frankfurt"
     },
     {
         "date": "Sun, 05.04.2026",
@@ -2145,26 +2155,6 @@
     },
     {
         "date": "Sun, 05.04.2026",
-        "time": "21:00",
-        "event": "Fiesta del Barrio - Spring Edition (@Auf den Häfen)",
-        "category": "",
-        "description": "Am Ostersonntag bringt die Fiesta del Barrio echtes Latin-Feeling nach draußen mit Salsa, Bachata und Reggaeton, dazu Karaoke und lateinamerikanisches Street Food. Hier feierst du entspannt mit Freund:innen und neuer Energie – alles ganz ohne Show, einfach authentisch miteinander.🪩",
-        "link": "https://rausgegangen.de/en/events/fiesta-del-barrio-spring-edition-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/JVxVe6vWTBWsEh1hvIUY_fdb-2026-04-05-eventbanner.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Sun, 05.04.2026",
-        "time": "22:00",
-        "event": "Mallorca Party - Ostersonntag (@Shagall Klub)",
-        "category": "",
-        "description": "🌴☀️ Mallorca Saisonstart – wir holen Malle nach Bremen! ☀️🌴Der Sommer auf Mallorca beginnt – und wir feiern den Saisonauftakt direkt bei uns im Shagall Klub Bremen! 🎉🍹Freut euch auf eine Nacht voller Ballermann-Vibes, Partyhits, Drinks und ausgelassener Stimmung, als wärt ihr direkt am Strand der Playa de Palma! 🐰🌴🔥 MALLE SAUSE – Ostersonntag 🔥🍹 Happy Hour 22:00 – 23:00 Uhr:🎟 Eintritt frei 🥃 Free Shots 🍻 Säule 33% Rabatt 🍋 Vodka Lemon nur 5€🎧 Music by: DJ CEED DJ JUMAXX MC MISTER KISS📅 05. April | ab 22 Uhr 📍 Shagall Klub Bremen 🔞 Einlass ab 18Also: Freunde schnappen, Bunny-Ohren aufsetzen und die Malle-Saison gebührend einläuten! 🐰🔥#MalleSause #MallorcaOpening #Ballermann #BremenParty #ShagallKlub #Ostersonntag #MalleInBremen",
-        "link": "https://rausgegangen.de/en/events/mallorca-party-ostersonntag-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jzPZRGNCSmSsF8OLwGrY_chatgpt-image-5-marz-2026-152803.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Sun, 05.04.2026",
         "time": "19:00",
         "event": "SMASH COMEDY - die (queer)feministische Stand Up Show (@Comedy Club Düsseldorf)",
         "category": "",
@@ -2182,6 +2172,26 @@
         "link": "https://rausgegangen.de/en/events/glam-bang-8/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/a5rkcPzgQjqQIEYsk0vN_csd-party-sa-20-juli-bollwerk-cologne1.png?width=1200&height=900&mode=crop",
         "city": "Düsseldorf"
+    },
+    {
+        "date": "Sun, 05.04.2026",
+        "time": "21:00",
+        "event": "Fiesta del Barrio - Spring Edition (@Auf den Häfen)",
+        "category": "",
+        "description": "Am Ostersonntag bringt die Fiesta del Barrio echtes Latin-Feeling nach draußen mit Salsa, Bachata und Reggaeton, dazu Karaoke und lateinamerikanisches Street Food. Hier feierst du entspannt mit Freund:innen und neuer Energie – alles ganz ohne Show, einfach authentisch miteinander.🪩",
+        "link": "https://rausgegangen.de/en/events/fiesta-del-barrio-spring-edition-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/JVxVe6vWTBWsEh1hvIUY_fdb-2026-04-05-eventbanner.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Sun, 05.04.2026",
+        "time": "22:00",
+        "event": "Mallorca Party - Ostersonntag (@Shagall Klub)",
+        "category": "",
+        "description": "🌴☀️ Mallorca Saisonstart – wir holen Malle nach Bremen! ☀️🌴Der Sommer auf Mallorca beginnt – und wir feiern den Saisonauftakt direkt bei uns im Shagall Klub Bremen! 🎉🍹Freut euch auf eine Nacht voller Ballermann-Vibes, Partyhits, Drinks und ausgelassener Stimmung, als wärt ihr direkt am Strand der Playa de Palma! 🐰🌴🔥 MALLE SAUSE – Ostersonntag 🔥🍹 Happy Hour 22:00 – 23:00 Uhr:🎟 Eintritt frei 🥃 Free Shots 🍻 Säule 33% Rabatt 🍋 Vodka Lemon nur 5€🎧 Music by: DJ CEED DJ JUMAXX MC MISTER KISS📅 05. April | ab 22 Uhr 📍 Shagall Klub Bremen 🔞 Einlass ab 18Also: Freunde schnappen, Bunny-Ohren aufsetzen und die Malle-Saison gebührend einläuten! 🐰🔥#MalleSause #MallorcaOpening #Ballermann #BremenParty #ShagallKlub #Ostersonntag #MalleInBremen",
+        "link": "https://rausgegangen.de/en/events/mallorca-party-ostersonntag-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jzPZRGNCSmSsF8OLwGrY_chatgpt-image-5-marz-2026-152803.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Sun, 05.04.2026",
@@ -2403,16 +2413,6 @@
     },
     {
         "date": "Tue, 07.04.2026",
-        "time": "19:00",
-        "event": "QUIZTRONAUTEN - Quiz im Viertel (@Fehrfeld)",
-        "category": "",
-        "description": "Schnapp dir deine Crew und testet euer Wissen auf eine ganz neue Art. Die Quiztronaut:innen verbinden spontane Stadterkundung mit kniffligen Fragen und digitaler Technik, die das Ganze schnell und entspannt macht. Wer Deutschlands cleverste Crew wird, entscheidet sich jetzt 🙃",
-        "link": "https://rausgegangen.de/en/events/quiztronauten-quiz-im-viertel-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/YChQhXiBR7KcngVhNlLl_rausgegangen-fomo-titel-16.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Tue, 07.04.2026",
         "time": "20:00",
         "event": "Comedy für Freunde - Profi-Testbühne (@Comedy für Freunde Club Düsseldorf)",
         "category": "",
@@ -2430,6 +2430,16 @@
         "link": "https://rausgegangen.de/en/events/pitcher-poetry-slam-33/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BlVHKY3VQjGuKaEJb9XD_1324401410310557103219215220068282268868414o.jpg?width=1200&height=900&mode=crop",
         "city": "Düsseldorf"
+    },
+    {
+        "date": "Tue, 07.04.2026",
+        "time": "19:00",
+        "event": "QUIZTRONAUTEN - Quiz im Viertel (@Fehrfeld)",
+        "category": "",
+        "description": "Schnapp dir deine Crew und testet euer Wissen auf eine ganz neue Art. Die Quiztronaut:innen verbinden spontane Stadterkundung mit kniffligen Fragen und digitaler Technik, die das Ganze schnell und entspannt macht. Wer Deutschlands cleverste Crew wird, entscheidet sich jetzt 🙃",
+        "link": "https://rausgegangen.de/en/events/quiztronauten-quiz-im-viertel-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/YChQhXiBR7KcngVhNlLl_rausgegangen-fomo-titel-16.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Tue, 07.04.2026",
@@ -2520,6 +2530,14 @@
         "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
+        "date": "Mi, 08.04",
+        "time": "23:00",
+        "event": "FR • 2010er FLASHBACK (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-2010er-flashback/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/02/20260410_2010er_Flashback_4zu5.jpg"
+    },
+    {
         "date": "Mi, 08.04.2026",
         "time": "14:00",
         "event": "Fußball(@hochschulsport_bielefeld)",
@@ -2592,14 +2610,6 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Mi, 08.04",
-        "time": "23:00",
-        "event": "FR • 2010er FLASHBACK (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-2010er-flashback/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/02/20260410_2010er_Flashback_4zu5.jpg"
-    },
-    {
         "date": "Wed, 08.04.2026",
         "time": "20:00",
         "event": "Veronica Fusaro - Looking For Connection Tour 2026 (@Ponyhof Club FFM)",
@@ -2659,6 +2669,14 @@
     },
     {
         "date": "Th, 09.04.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 09.04.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -2696,14 +2714,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 09.04.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Do, 09.04.2026",
@@ -2763,16 +2773,6 @@
     },
     {
         "date": "Thu, 09.04.2026",
-        "time": "19:00",
-        "event": "Die Sauna (@GOETHEBUNKER)",
-        "category": "",
-        "description": "Die Sauna präsentiert ihr drittes Album tut beni im intimen Rahmen. Sie verbinden New-Wave-Einflüsse mit warmen, psychedelischen Klängen und schaffen atmosphärische Skizzen, die zwischen Trost und Sehnsucht schwingen. Ein Konzert für stille Momente und offene Ohren.",
-        "link": "https://rausgegangen.de/en/events/die-sauna-14/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jaWNDQNhRCKa0zelt5S5_die-sauna-1-c-pablo-lauf-lr.jpg?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Thu, 09.04.2026",
         "time": "19:30",
         "event": "Caffeinated Comedy | English Comedy Community Open Mic at Paul & Tim's Cafe & Bar (@Paul and Tim)",
         "category": "",
@@ -2813,6 +2813,16 @@
     },
     {
         "date": "Thu, 09.04.2026",
+        "time": "19:00",
+        "event": "Die Sauna (@GOETHEBUNKER)",
+        "category": "",
+        "description": "Die Sauna präsentiert ihr drittes Album tut beni im intimen Rahmen. Sie verbinden New-Wave-Einflüsse mit warmen, psychedelischen Klängen und schaffen atmosphärische Skizzen, die zwischen Trost und Sehnsucht schwingen. Ein Konzert für stille Momente und offene Ohren.",
+        "link": "https://rausgegangen.de/en/events/die-sauna-14/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jaWNDQNhRCKa0zelt5S5_die-sauna-1-c-pablo-lauf-lr.jpg?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Thu, 09.04.2026",
         "time": "20:00",
         "event": "Malte Küppers - Antisozialarbeiter - VORPREMIERE (@B-Side)",
         "category": "",
@@ -2823,16 +2833,6 @@
     },
     {
         "date": "Thu, 09.04.2026",
-        "time": "19:30",
-        "event": "Poetry & Hip-Hop Bremen (@Schaulust Bremen)",
-        "category": "",
-        "description": "Lyrik trifft auf Lyrics, Poesie verschmilzt mit Punchlines bei Poetry & Hip-Hop verschieben sich die Grenzen zwischen Bühne und Beat.Das Format begeistert bereits in mehreren Städten und jetzt kommt die Eventreihe nach Bremen. Was anderswo für volle Räume und starke Abende sorgt, bringt Poetry & Hip-Hop nun auf die Bremer Bühne.Spoken Word Künstler:innen und Rapper:innen teilen ihre Texte, Rhymes und Stories – roh, ehrlich, laut, leise, politisch, persönlich. Zwischen Tiefgang und Bass entsteht ein Abend, der zeigt, wie nah sich diese Welten wirklich sind.Einlass 19.30h Beginn 20.00hwww.poetryandhiphop.de www.instagram.com/poetryandhiphop",
-        "link": "https://rausgegangen.de/en/events/poetry-hip-hop-bremen-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eEo8NFbTCu5R5JVRz1Cx_poetry-hiphop-bremen.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Thu, 09.04.2026",
         "time": "20:00",
         "event": "Kennt ihr schon...? Ping Pong 🏓 Special (@BALLABALLA)",
         "category": "",
@@ -2840,6 +2840,16 @@
         "link": "https://rausgegangen.de/en/events/kennt-ihr-schon-die-liebe-auf-den-1-schluck-wein-special-auc-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Z2A4DDTSTFave1EfGZVS_kis-header.png?width=1200&height=900&mode=crop",
         "city": "Düsseldorf"
+    },
+    {
+        "date": "Thu, 09.04.2026",
+        "time": "19:30",
+        "event": "Poetry & Hip-Hop Bremen (@Schaulust Bremen)",
+        "category": "",
+        "description": "Lyrik trifft auf Lyrics, Poesie verschmilzt mit Punchlines bei Poetry & Hip-Hop verschieben sich die Grenzen zwischen Bühne und Beat.Das Format begeistert bereits in mehreren Städten und jetzt kommt die Eventreihe nach Bremen. Was anderswo für volle Räume und starke Abende sorgt, bringt Poetry & Hip-Hop nun auf die Bremer Bühne.Spoken Word Künstler:innen und Rapper:innen teilen ihre Texte, Rhymes und Stories – roh, ehrlich, laut, leise, politisch, persönlich. Zwischen Tiefgang und Bass entsteht ein Abend, der zeigt, wie nah sich diese Welten wirklich sind.Einlass 19.30h Beginn 20.00hwww.poetryandhiphop.de www.instagram.com/poetryandhiphop",
+        "link": "https://rausgegangen.de/en/events/poetry-hip-hop-bremen-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eEo8NFbTCu5R5JVRz1Cx_poetry-hiphop-bremen.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Thu, 09.04.2026",
@@ -2911,6 +2921,14 @@
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/03/Stereo_10_0426_Feed.jpg"
     },
     {
+        "date": "Fr, 10.04",
+        "time": "23:00",
+        "event": "SA • LOVE SATURDAYS x COCKTAIL NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-cocktail-night-7/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/03/20260411_LoveSaturdays_Cocktailparty_4zu5.jpg"
+    },
+    {
         "date": "Fr, 10.04.2026",
         "time": "09:00",
         "event": "Yoga(@hochschulsport_bielefeld)",
@@ -2968,27 +2986,9 @@
     },
     {
         "date": "Fr, 10.04",
-        "time": "23:00",
-        "event": "SA • LOVE SATURDAYS x COCKTAIL NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-cocktail-night-7/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/03/20260411_LoveSaturdays_Cocktailparty_4zu5.jpg"
-    },
-    {
-        "date": "Fr, 10.04",
         "event": "GewaltHalb aus Plastik (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/gewalt-2/",
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
-    },
-    {
-        "date": "Fri, 10.04.2026",
-        "time": "23:59",
-        "event": "DANCEHALL STATION 🇯🇲 plus HIP HOP FLOOR 🇺🇸 GOETHEBUNKER (Essen) 💣 (@GOETHEBUNKER)",
-        "category": "",
-        "description": "Hier erwartet dich eine Nacht mit ganz viel Dancehall, Afrobeat und Amapiano, perfekt gemischt von DJ Ruffie und Bobby Blanco am Hip Hop Floor. Zwischen Vybz Kartel und Kendrick Lamar geht’s um alles, was deinen Fuß nicht stillstehen lässt 🕺🏽",
-        "link": "https://rausgegangen.de/en/events/dancehall-station-plus-hip-hop-floor-goethebunker-essen-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/UhsDfQgLSIOPUKjFCG38_bunker0426.jpeg?width=1200&height=900&mode=crop",
-        "city": "Essen"
     },
     {
         "date": "Fri, 10.04.2026",
@@ -3039,6 +3039,16 @@
         "link": "https://rausgegangen.de/en/events/mi-amo-10/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6imYfQP5QKemkHWjjPer_miamodummywww.jpg?width=1200&height=900&mode=crop",
         "city": "Dresden"
+    },
+    {
+        "date": "Fri, 10.04.2026",
+        "time": "23:59",
+        "event": "DANCEHALL STATION 🇯🇲 plus HIP HOP FLOOR 🇺🇸 GOETHEBUNKER (Essen) 💣 (@GOETHEBUNKER)",
+        "category": "",
+        "description": "Hier erwartet dich eine Nacht mit ganz viel Dancehall, Afrobeat und Amapiano, perfekt gemischt von DJ Ruffie und Bobby Blanco am Hip Hop Floor. Zwischen Vybz Kartel und Kendrick Lamar geht’s um alles, was deinen Fuß nicht stillstehen lässt 🕺🏽",
+        "link": "https://rausgegangen.de/en/events/dancehall-station-plus-hip-hop-floor-goethebunker-essen-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/UhsDfQgLSIOPUKjFCG38_bunker0426.jpeg?width=1200&height=900&mode=crop",
+        "city": "Essen"
     },
     {
         "date": "Fri, 10.04.2026",
@@ -3400,6 +3410,16 @@
     },
     {
         "date": "Sat, 11.04.2026",
+        "time": "19:00",
+        "event": "Žana Fejzić in Stuttgart: New Material & Crowdwork (English Comedy) (@Theater am Olgaeck)",
+        "category": "",
+        "description": "Back in Stuttgart for 1 night only! Come see Žana work out new jokesIf you attended the show in 2025, this one features different material!Is therapy a scam? Her Balkan parents would say \"of course! Just clean your room and you'll feel better\", but many (non-Balkans) would disagree. Come watch Žana work out what it means to have good mental health in a time 1900s babies & folks from ex-Yugoslavia are calling \"been there, lived through that\". This new hour questions what it means to be mentally sane as a millennial forever foreigner juggling Balkan roots with a Western upbringing all while feeling as Becky G once best described as \"ni de aquí, ni de allá\" (translated to \"neither from here, nor there\" in case you failed high school Spanish).💁🏼‍♀️ ABOUT ŽANA (BIH/USA):Born in Bosnia, raised in Florida, and living in Berlin, Žana’s comedy mirrors her eclectic cultural background and is best described as Balkan pessimism battling delusional American positivity sprinkled in with reggaeton flair.Within 5 months of starting comedy she became a finalist in the 2022 Berlin New Stand Up Awards and is now hosting & producing shows in Berlin & across Europe. She was nominated for Manchester’s Women in Comedy Festival Awards as Best Newcomer in 2024 and has opened in English & Spanish for a variety of comedians across Europe in such as Dragos Christian, Dwayne Perkins, Rob Anderson, Elena Gabrielle & Silvia de Frente.You can catch her perform regularly in Berlin to hear her fresh take on the absurdity of immigration laws, her Balkan background, and growing up in Florida. Žana hosts & produces themed & interactive comedy shows in Berlin & beyond, such as the Berlin Comedy Dating Game Show, Funny Fortunes (a comedy & live tarot reading show), Comedy Confessions (an introvert-friendly themed interactive comedy show), Petty Problems (a comedy mock trial show), & more. She has performed in 40 cities across 18 countries and all of her shows are 100% self-produced. Thanks for supporting an independent artist!🗓️ WHEN: Saturday, 11. April Show begins 19:30 Doors open 19:00📍 WHERE: Theater am Olgaeck Charlottenstr. 44 70182 Stuttgart🎟️ TICKETS: starting from €13 when booked online €23 at the door, cash or card (subject to availability)",
+        "link": "https://rausgegangen.de/en/events/zana-fejzic-in-stuttgart-new-material-crowdwork-english-come-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/MLYnjcbOSa6PGjZgbnZc_stuttgart-april-2026-last-chance.png?width=1200&height=900&mode=crop",
+        "city": "Stuttgart"
+    },
+    {
+        "date": "Sat, 11.04.2026",
         "time": "20:00",
         "event": "Theaterhaus Jazztage: Gaisma // Sorvina (@Theaterhaus Stuttgart)",
         "category": "",
@@ -3674,16 +3694,6 @@
     },
     {
         "date": "Tue, 14.04.2026",
-        "time": "19:00",
-        "event": "Offene Seiten: Tessniem Kadiri (@Zeche Zollverein, Halle 12)",
-        "category": "",
-        "description": "Offene Seiten: Tessniem KadiriLiteratur, Stimmen, ResonanzenMit der neuen Lesereihe „Offene Seiten“ verwandelt sich die Lesebandhalle der ehemaligen Zeche in einen Ort für zeitgenössische Literatur – für Texte, die Vielfalt hörbar machen, unterschiedliche Stimmen versammeln und Fragen an unsere Zeit stellen. Im April lädt Journalistin und Moderatorin Tessniem Kadiri mit ihrem Buch „Baba Issues. Wie die Beziehung zu meinem Vater mich prägt“ zu einer literarischen Spurensuche nach Herkunft, Geschlechterrollen und Zugehörigkeit.Tessniem Kadiris „Baba Issues“ lassen sie nicht los: Immer wieder wird sie eingeholt von dem patriarchalen Männerbild, mit dem ihr Vater im ländlichen Marokko aufgewachsen ist. Den Anforderungen zweier Gesellschaften zu genügen, die unterschiedlicher nicht sein könnten, ist ein Konflikt, den sie mit vielen ihrer migrantischen Freundinnen teilt. Wie kann sie sich davon lösen und was ist eigentlich echte Emanzipation? Auf einer Reise nach Marokko erforscht Tessniem die Grenzen ihrer eigenen Scham und ihrer Freiheit.Offene SeitenDort, wo einst Kohle sortiert und „ausgelesen“ wurde, werden heute Worte gewendet, Stimmen gehört und Haltungen geprüft. Das neue Literaturformat „Offene Seiten“ öffnet Perspektiven, fördert Diskurse und feiert die Vielfalt literarischer Ausdrucksformen: vom Roman über Spoken Word bis hin zu essayistischen und hybriden Formaten. Zwischen Poesie und Politik, Erinnerung und Erneuerung, Zugehörigkeit und Zweifel begegnen sich die eingeladenen Autor:innen und das Publikum auf Augenhöhe – im gemeinsamen Nachdenken über Identität, Verantwortung und das, was uns verbindet oder trennt.",
-        "link": "https://rausgegangen.de/en/events/offene-seiten-tessniem-kadiri-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Dv5MYNu0TVCPDd98fCfw_tessniem-kadiri-carmen-wetzel.jpg?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Tue, 14.04.2026",
         "time": "18:00",
         "event": "skuth • ALLES WIRD SKUTH – LIVE TOUR 2026 (@ELFER MUSIC CLUB)",
         "category": "",
@@ -3721,6 +3731,16 @@
         "link": "https://rausgegangen.de/en/events/die-comedy-werkstatt-frankfurt-schoppche-22/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jwcevCdhSlWpgHmJmQkQ_img4282jpg.jpeg?width=1200&height=900&mode=crop",
         "city": "Frankfurt"
+    },
+    {
+        "date": "Tue, 14.04.2026",
+        "time": "19:00",
+        "event": "Offene Seiten: Tessniem Kadiri (@Zeche Zollverein, Halle 12)",
+        "category": "",
+        "description": "Offene Seiten: Tessniem KadiriLiteratur, Stimmen, ResonanzenMit der neuen Lesereihe „Offene Seiten“ verwandelt sich die Lesebandhalle der ehemaligen Zeche in einen Ort für zeitgenössische Literatur – für Texte, die Vielfalt hörbar machen, unterschiedliche Stimmen versammeln und Fragen an unsere Zeit stellen. Im April lädt Journalistin und Moderatorin Tessniem Kadiri mit ihrem Buch „Baba Issues. Wie die Beziehung zu meinem Vater mich prägt“ zu einer literarischen Spurensuche nach Herkunft, Geschlechterrollen und Zugehörigkeit.Tessniem Kadiris „Baba Issues“ lassen sie nicht los: Immer wieder wird sie eingeholt von dem patriarchalen Männerbild, mit dem ihr Vater im ländlichen Marokko aufgewachsen ist. Den Anforderungen zweier Gesellschaften zu genügen, die unterschiedlicher nicht sein könnten, ist ein Konflikt, den sie mit vielen ihrer migrantischen Freundinnen teilt. Wie kann sie sich davon lösen und was ist eigentlich echte Emanzipation? Auf einer Reise nach Marokko erforscht Tessniem die Grenzen ihrer eigenen Scham und ihrer Freiheit.Offene SeitenDort, wo einst Kohle sortiert und „ausgelesen“ wurde, werden heute Worte gewendet, Stimmen gehört und Haltungen geprüft. Das neue Literaturformat „Offene Seiten“ öffnet Perspektiven, fördert Diskurse und feiert die Vielfalt literarischer Ausdrucksformen: vom Roman über Spoken Word bis hin zu essayistischen und hybriden Formaten. Zwischen Poesie und Politik, Erinnerung und Erneuerung, Zugehörigkeit und Zweifel begegnen sich die eingeladenen Autor:innen und das Publikum auf Augenhöhe – im gemeinsamen Nachdenken über Identität, Verantwortung und das, was uns verbindet oder trennt.",
+        "link": "https://rausgegangen.de/en/events/offene-seiten-tessniem-kadiri-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Dv5MYNu0TVCPDd98fCfw_tessniem-kadiri-carmen-wetzel.jpg?width=1200&height=900&mode=crop",
+        "city": "Essen"
     },
     {
         "date": "Tue, 14.04.2026",
@@ -3841,26 +3861,6 @@
     },
     {
         "date": "Wed, 15.04.2026",
-        "time": "19:00",
-        "event": "Antony Szmierek (@Lila Eule)",
-        "category": "",
-        "description": "Antony Szmierek meldet sich nach seinem gefeierten Debütalbum \"Service Station at the End of the Universe\" mit einer brandneuen Tour zurück – voller Energie, poetischer Lyrics und tanzbarer Beats. Wer seine letzten Shows verpasst hat, bekommt jetzt die Chance, ihn live zu erleben!",
-        "link": "https://rausgegangen.de/en/events/antony-szmierek-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/NxkalD0xTC2TIYePanMJ_as-assetsticketshop.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Wed, 15.04.2026",
-        "time": "20:00",
-        "event": "Kaffkiez /// Wir Tour 2026 /// Bremen /// Pier2 (@Pier 2)",
-        "category": "",
-        "description": "KAFFKIEZ /// WIR TOUR 202615.04.26 /// BREMEN /// Pier 2Einlass: 19:00 /// Beginn: 20:00 Uhr  WIR sind jetzt wieder da. Nach über einem Jahr ohne Tour & Festivals gehen KAFFKIEZ mit ihrem neuen Album WIR auf die bislang größte Tour ihrer Bandgeschichte. Die vorherige Tour? Restlos ausverkauft. Schweiß, Gänsehaut, Vollgas – einmal quer durch den deutschsprachigen Raum. KAFFKIEZ-Shows stehen für ehrliche Live-Momente ohne Schnickschnack. Dicht an der Crowd, laut & roh – ein Familientreffen im Moshpit.Die fünf Jungs aus Rosenheim liefern ihre Energie ohne Filter, treffen mitten rein und schaffen es trotzdem, auch in großen Hallen die echte Nähe zu erzeugen, für die man sie kennt. 2024 haben sie mit Platz 3 in den deutschen Albumcharts bereits gezeigt, dass sie mit ihrer immer größer werdenden Fangemeinde gekommen sind, um zu bleiben. Fotocredit: David Gottwald  Vorverkaufsinformationen: Tickets sind ab Mi.18.06.25 - 15.00 Uhr im exkl. Presale unter https://allartists.agency, sowie ab dem 28.06.25 auf eventim.de und an allen bekannten VVK-Stellen und unter der Hotline 01806 – 57 00 70 (0,20€/Anruf inkl. MwSt. aus allen dt. Netzen) erhältlich.",
-        "link": "https://rausgegangen.de/en/events/kaffkiez-wir-tour-2026-bremen-pier2-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FEXFtlohQieHmroQVvJW_fb-header.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Wed, 15.04.2026",
         "time": "19:30",
         "event": "Kickstart Comedy @ Brauerei Kürzer Flingern (@Brauerei Kürzer (Flingern))",
         "category": "",
@@ -3902,31 +3902,31 @@
     {
         "date": "Wed, 15.04.2026",
         "time": "19:00",
+        "event": "Antony Szmierek (@Lila Eule)",
+        "category": "",
+        "description": "Antony Szmierek meldet sich nach seinem gefeierten Debütalbum \"Service Station at the End of the Universe\" mit einer brandneuen Tour zurück – voller Energie, poetischer Lyrics und tanzbarer Beats. Wer seine letzten Shows verpasst hat, bekommt jetzt die Chance, ihn live zu erleben!",
+        "link": "https://rausgegangen.de/en/events/antony-szmierek-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/NxkalD0xTC2TIYePanMJ_as-assetsticketshop.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Wed, 15.04.2026",
+        "time": "20:00",
+        "event": "Kaffkiez /// Wir Tour 2026 /// Bremen /// Pier2 (@Pier 2)",
+        "category": "",
+        "description": "KAFFKIEZ /// WIR TOUR 202615.04.26 /// BREMEN /// Pier 2Einlass: 19:00 /// Beginn: 20:00 Uhr  WIR sind jetzt wieder da. Nach über einem Jahr ohne Tour & Festivals gehen KAFFKIEZ mit ihrem neuen Album WIR auf die bislang größte Tour ihrer Bandgeschichte. Die vorherige Tour? Restlos ausverkauft. Schweiß, Gänsehaut, Vollgas – einmal quer durch den deutschsprachigen Raum. KAFFKIEZ-Shows stehen für ehrliche Live-Momente ohne Schnickschnack. Dicht an der Crowd, laut & roh – ein Familientreffen im Moshpit.Die fünf Jungs aus Rosenheim liefern ihre Energie ohne Filter, treffen mitten rein und schaffen es trotzdem, auch in großen Hallen die echte Nähe zu erzeugen, für die man sie kennt. 2024 haben sie mit Platz 3 in den deutschen Albumcharts bereits gezeigt, dass sie mit ihrer immer größer werdenden Fangemeinde gekommen sind, um zu bleiben. Fotocredit: David Gottwald  Vorverkaufsinformationen: Tickets sind ab Mi.18.06.25 - 15.00 Uhr im exkl. Presale unter https://allartists.agency, sowie ab dem 28.06.25 auf eventim.de und an allen bekannten VVK-Stellen und unter der Hotline 01806 – 57 00 70 (0,20€/Anruf inkl. MwSt. aus allen dt. Netzen) erhältlich.",
+        "link": "https://rausgegangen.de/en/events/kaffkiez-wir-tour-2026-bremen-pier2-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FEXFtlohQieHmroQVvJW_fb-header.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Wed, 15.04.2026",
+        "time": "19:00",
         "event": "Grandmas House out there Tour (@Merlin)",
         "category": "",
         "description": "Grandmas House kombiniert Einflüsse von Idles bis Nirvana zu einem frischen Sound, der klug und energiegeladen zugleich ist. Auf der Out there Tour erwartet dich eine mitreißende Mischung aus Grunge und Post-Punk, die das Rockgenre neu belebt 🫂",
         "link": "https://rausgegangen.de/en/events/grandmas-house-out-there-tour-5/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/l38SSR1S2OMWAduGxoYD_img9412.jpeg?width=1200&height=900&mode=crop",
-        "city": "Stuttgart"
-    },
-    {
-        "date": "Wed, 15.04.2026",
-        "time": "19:00",
-        "event": "Mamoré - \"Thema Liebe\" Tour 2026 (@Helene P)",
-        "category": "",
-        "description": "Mamoré verbindet Punk, Retro-Pop und Neue Deutsche Welle aus Thüringen zu einem Sound, der zugleich rau und verspielt ist. Das Quintett präsentiert auf der „Thema Liebe“ Tour ihre einzigartige Mischung aus schroffen Gitarren und 80er-Synthesizern, bei der du Dich zwischen Pogo und Paartanz wiederfindest 🙃",
-        "link": "https://rausgegangen.de/en/events/mamore-thema-liebe-tour-2026-6/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/cBOSrLyRqaWibufPLMBg_foto-140625-17-18-15.jpg?width=1200&height=900&mode=crop",
-        "city": "Stuttgart"
-    },
-    {
-        "date": "Wed, 15.04.2026",
-        "time": "20:30",
-        "event": "FRIDGE PEOPLE (@BIX Jazzclub)",
-        "category": "",
-        "description": "Free-Flowing-Fusion in bester Jazz Tradition ist eine treffende Beschreibung der Musik dieses Quintetts. Die fünf Musiker kennen sich zum Teil vom Jazz-Studium an der Mannheimer Musikhochschule und arbeiten seit vielen Jahren zusammen. Auch wenn die instrumentalen Zuständigkeiten klar verteilt sind, geht es bei FRIDGE PEOPLE immer um den gemeinsamen, kollektiven Sound, der wiederum so kompakt ist, dass sich das Einzelne in einem unteilbaren Ganzen auflöst. Mit viel Raum für Entfaltung und großem Vertrauen lassen die Jazzer sich auf die Ideen der anderen ein und überraschen sich immer wieder neu. Im Ergebnis entsteht meist ein Spannungsbogen zwischen energiegeladen und entspannten Momenten im Rahmen melodischer Eigenkompositionen.Auf der Bühne entfacht FRIDGE PEOPLE ein musikalisches Feuerwerk mit treibenden Beats, expressiven Klangwelten und coolen Improvisationen dessen starke Energie und Leidenschaft kein Bein ruhig und keinen Kopf kühl lässt. Sei dabei!Pressestimmen / Jazzthing: „eine kraftvolle und expressive, hymnische und atmosphärisch dichte Jazz-Fusion, die mit hochgepitchten Drum&Bass-Grooves, chilligen Ambient-Sounds und erdigem Funk modernisiert ist“. Rhein Neckar Zeitung: „Mit atemberaubender Spielfreude und einer abgefahrenen Stilmischung katapultieren die Musiker die Zuhörer in andere musikalische Umlaufbahnen. Fridge People – eine wohltuende Abwechslung“.Besetzung:  Olaf Schönborn (Saxophon), Sven Götz (Gitarre), Gernot Ziegler (Keyboards), Gernot Kögel (Bass) und Matthias Füchsle(Schlagzeug).",
-        "link": "https://rausgegangen.de/en/events/fridge-people-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/o5iHkZFwTybkiIEMlphA_fride-people.png?width=1200&height=900&mode=crop",
         "city": "Stuttgart"
     },
     {
@@ -3956,6 +3956,14 @@
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 16.04.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 16.04.2026",
@@ -3996,14 +4004,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 16.04.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 16.04",
@@ -4054,22 +4054,22 @@
     {
         "date": "Thu, 16.04.2026",
         "time": "19:30",
-        "event": "SMASH COMEDY - die (queer)feministische Stand Up Show (@Butschern Bar am Sielwall)",
-        "category": "",
-        "description": "Punchlines gegens Patriarchat: Hamburgs queerfeministischer Stand Up Comedy Club SMASH COMEDY feiert die female & queer Comedians der deutschen Stand Up Szene. Hier geben jeweils 5-8 Profis und Newcomer*innen das Mikro weiter, präsentiert von der Smash-Gründerin, Musikerin und Stand Up Comedienne Schwessi aus Hamburg.  Das Besondere: diese Bühne gehört nur denen, die in der von weißen hetero cis Männern dominierten Szene extrem unterrepräsentiert sind. Statt Pimmelwitzen, „meine Freundin“-Jokes und rassistischen Klischees eine Bühne zu geben, wollen wir Sichtbarkeit für die Stimmen und Lebensrealitäten schaffen, die sonst nur Zielscheibe dieser Witze sind.  Mit maximalem Spaß und Diversity Power gegen Diskriminierung! Lasst euch inspirieren, solidarisiert euch und trainiert eure Empathie-Muskeln bei SMASH COMEDY! Und dann gemeinsam so laut lachen, dass patriarchale Strukturen ganz leise anfangen zu bröckeln...",
-        "link": "https://rausgegangen.de/en/events/queerfeministisches-stand-up-comedy-open-mic-20/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Sh4NLX0PTxuKNhopr7g3_img7426.JPG?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Thu, 16.04.2026",
-        "time": "19:30",
         "event": "Dracula - A Comedy of Terrors (@Capitol Theater - Club Saal)",
         "category": "",
         "description": "“DRACULA - A Comedy of Terrors” ist eine brandneue Lachattacke, die Sie komplett in ihren Fangzähnen hält. Gefüllt mit cleveren Wortspielen und popkulturellen Anspielungen, serviert dieser 90-minütige, geschlechterübergreifende, blitzschnelle, urkomische und sexy Remix des Gothic-Klassikers Unterhaltung für Zuschauer aller Blutgruppen.In den gefährlichen Höhen Transsilvaniens stolpert ein sanftmütiger englischer Immobilienmakler in eine haarsträubende Begegnung mit einem mysteriösen neuen Kunden, der sich als das unheimlichste, wildeste und hübscheste Monster entpuppt, das die Welt je gesehen hat. Mit der legendären Vampirjägerin Jean Van Helsing und ihrer Truppe im Schlepptau folgt eine wilde Verfolgungsjagd von Transsilvanien durch die britische Landschaft bis nach London. Ihre Abenteuer sorgen für Herzklopfen und schrecken die Seele aus dem Leib – wir bringen ihr Blut zum Kochen - vor Lachen natürlich! Mit: Roberta Valentini, Katja Uhlig, Fabian Stiegner , David Földzin, Marcus Jürgen Zollfrank",
         "link": "https://rausgegangen.de/en/events/dracula-a-comedy-of-terrors-10/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/JR2wXUg3SXqYSq2lKcB3_dracula-rausgegangen2.jpg?width=1200&height=900&mode=crop",
         "city": "Düsseldorf"
+    },
+    {
+        "date": "Thu, 16.04.2026",
+        "time": "19:30",
+        "event": "SMASH COMEDY - die (queer)feministische Stand Up Show (@Butschern Bar am Sielwall)",
+        "category": "",
+        "description": "Punchlines gegens Patriarchat: Hamburgs queerfeministischer Stand Up Comedy Club SMASH COMEDY feiert die female & queer Comedians der deutschen Stand Up Szene. Hier geben jeweils 5-8 Profis und Newcomer*innen das Mikro weiter, präsentiert von der Smash-Gründerin, Musikerin und Stand Up Comedienne Schwessi aus Hamburg.  Das Besondere: diese Bühne gehört nur denen, die in der von weißen hetero cis Männern dominierten Szene extrem unterrepräsentiert sind. Statt Pimmelwitzen, „meine Freundin“-Jokes und rassistischen Klischees eine Bühne zu geben, wollen wir Sichtbarkeit für die Stimmen und Lebensrealitäten schaffen, die sonst nur Zielscheibe dieser Witze sind.  Mit maximalem Spaß und Diversity Power gegen Diskriminierung! Lasst euch inspirieren, solidarisiert euch und trainiert eure Empathie-Muskeln bei SMASH COMEDY! Und dann gemeinsam so laut lachen, dass patriarchale Strukturen ganz leise anfangen zu bröckeln...",
+        "link": "https://rausgegangen.de/en/events/queerfeministisches-stand-up-comedy-open-mic-20/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Sh4NLX0PTxuKNhopr7g3_img7426.JPG?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Thu, 16.04.2026",
@@ -4177,26 +4177,6 @@
     },
     {
         "date": "Fri, 17.04.2026",
-        "time": "20:00",
-        "event": "Craft Comedy Open Mic (@DJH Jugendherberge Bremen)",
-        "category": "",
-        "description": "Dir ist deutsche Comedy zu abgedroschen? Du willst lieber mit, und nicht über jemanden lachen? Dann sind unsere Open Mics der richtige Ort für dich!Fünfmal im Monat geben sich 6 bis 8 Comedians zwei Stunden lang auf unserer Bühne die Blöße und testen ihr neuestes Material. Ob Newcomer*in oder Vollzeit-Stand-Up, für sie alle sind Open Mics der Ort, um ihr Handwerk zu erlernen und zu verbessern. Das macht jede Show einzigartig und unberechenbar, es wird gelacht und gefeiert aber auch mal ordentlich gescheitert. Preisinformationen: Wir möchten allen Menschen den Zugang zu unseren Veranstaltungen ermöglichen, denn wir sind der Meinung, Comedy sollte sich jeder leisten können. Daher bekommt ihr bei uns an der Abendkasse die Option, den Preis zu zahlen, den ihr euch leisten könnt, ohne dass Fragen gestellt werden oder Nachweise erbracht werden müssten. Im Vorverkauf können wir den Ticketpreis leider nicht ganz frei wählbar gestalten, denn von diesem Geld möchten Fahrtgeld für unsere Künstler*innen zahlen, die Stand-Up Szene in Bremen und umzu verbessern, größere und aufwendigere Shows gestalten und am wichtigsten den Solidaritästpreis an der Abendkasse aufrecht erhalten. Wer ein Ticket im Vorverkauf erwirbt kann sich allerdings sicher sein einen Sitzplatz zu bekommen. An derAbendkasse können die Tickets auch ausverkauft sein oder alle Sitzplätze belegt, früh kommen lohnt sich daher.Fotos: Auf dieser Veranstaltung werden Foto- und Videoaufnahmen erstellt. Diese werden für unsere Öffentlichkeitsarbeit (u.a. auf den sozialen Medien) genutzt. Bei Rückfragen meldet euch bitte persönlich oder per Mail unter kontakt@craft-comedy.de bei uns.",
-        "link": "https://rausgegangen.de/en/events/craft-comedy-open-mic-89/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/xYUYZnO8ThOuNdCxONFt_craft-comedy-open-mic-profil-bild.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Fri, 17.04.2026",
-        "time": "20:00",
-        "event": "Vonda Shepard // Schlachthof // Bremen (@Kulturzentrum Schlachthof)",
-        "category": "",
-        "description": "Einlass: 19.00 Uhr – Beginn: 20.00 UhrMit ihrer gefühlvollen Stimme, leidenschaftlichen Bühnenpräsenz und der beeindruckenden Verbindung aus Gesang und Klavier begeistert Vonda Shepard seit Jahrzehnten ihr Publikum – im Frühjahr 2026 geht die US-amerikanische Musikerin wieder auf große Europa-Tournee und macht natürlich auch in Deutschland Halt! Begleitet wird sie wie immer von ihrer herausragenden All-Star-Band: James Ralston an der Gitarre (22 Jahre mit Tina Turner), Jim Hanson am Bass (Bruce Springsteen, Johnny Cash) und Fritz Lewak am Schlagzeug (30 Jahre mit Jackson Browne). Gemeinsam bringen sie eine mitreißende Mischung auf die Bühne – mit Songs aus Vondas 14 Studioalben, beliebten Klassikern aus der Ally McBeal-Ära und brandneuen Stücken.Ganz besonders freut sich Vonda auf die Termine in Deutschland, denn hier ist in den letzten Jahren eine treue und stetig wachsende Fan-Community entstanden. „Es fühlt sich mittlerweile fast wie ein Wiedersehen mit der Familie an – die Energie ist jedes Mal unglaublich!“, erzählt sie begeistert.„Ich liebe es, mich ans Klavier zu setzen, ein paar Songs solo zu spielen – und dann mit meiner Band so richtig loszulegen. Am Ende soll es eine große Party sein, bei der niemand mehr sitzen bleibt und alle mitsingen! Ich freue mich riesig, auch neue Songs im Gepäck zu haben, denn ich arbeite gerade an einem neuen Album, das im Frühjahr 2026 erscheinen soll. Stand jetzt: Es entwickelt sich zu etwas GROSSEM! Die Aufnahmen starten im Mai“, so Vonda weiter.Vonda ShepardVonda Shepard wurde 1963 in New York City in eine künstlerisch geprägte Familie geboren. Bereits mit sechs Jahren begann sie Klavier zu spielen, schrieb mit acht ihre ersten Songs und stand mit 14 das erste Mal auf der Bühne. Ursprünglich träumte sie von einer Karriere als Astrophysikerin – doch nach ihrem ersten Auftritt als Musikerin war klar: Die Musik ist ihre Welt.Ab 1985 tourte Vonda als Backgroundsängerin und Keyboarderin mit Rickie Lee Jones, Al Jarreau und Jackson Browne, für dessen Tournee sie ab 1996 erstmals als Solokünstlerin eröffnete. Den internationalen Durchbruch schaffte sie 1997 mit ihrer Rolle als Bar-Sängerin in der Kultserie Ally McBeal. Mit dem Titelsong Searchin‘ My Soul landete sie einen weltweiten Hit – insgesamt steuerte sie über 500 Songs zur Serie bei.Bis heute hat Vonda Shepard über 12 Millionen Alben verkauft, wurde mit zwei Golden Globes, zwei Emmys und zwei Screen Actors Guild Awards ausgezeichnet und hält den Billboard-Rekord für die meistverkauften TV-Soundtracks aller Zeiten.",
-        "link": "https://rausgegangen.de/en/events/vonda-shepard-schlachthof-bremen-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3JAuAds4S72ybhG1lfTY_vonda-shepard-2026-fb-event-bremen.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Fri, 17.04.2026",
         "time": "17:00",
         "event": "Yin Yoga & Sound healing (@Janamou beauty & soul lounge)",
         "category": "",
@@ -4214,6 +4194,26 @@
         "link": "https://rausgegangen.de/en/events/community-playdates-3/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/76FkQ0LvQYuUOsrcMfnH_playdates.png?width=1200&height=900&mode=crop",
         "city": "Düsseldorf"
+    },
+    {
+        "date": "Fri, 17.04.2026",
+        "time": "20:00",
+        "event": "Craft Comedy Open Mic (@DJH Jugendherberge Bremen)",
+        "category": "",
+        "description": "Dir ist deutsche Comedy zu abgedroschen? Du willst lieber mit, und nicht über jemanden lachen? Dann sind unsere Open Mics der richtige Ort für dich!Fünfmal im Monat geben sich 6 bis 8 Comedians zwei Stunden lang auf unserer Bühne die Blöße und testen ihr neuestes Material. Ob Newcomer*in oder Vollzeit-Stand-Up, für sie alle sind Open Mics der Ort, um ihr Handwerk zu erlernen und zu verbessern. Das macht jede Show einzigartig und unberechenbar, es wird gelacht und gefeiert aber auch mal ordentlich gescheitert. Preisinformationen: Wir möchten allen Menschen den Zugang zu unseren Veranstaltungen ermöglichen, denn wir sind der Meinung, Comedy sollte sich jeder leisten können. Daher bekommt ihr bei uns an der Abendkasse die Option, den Preis zu zahlen, den ihr euch leisten könnt, ohne dass Fragen gestellt werden oder Nachweise erbracht werden müssten. Im Vorverkauf können wir den Ticketpreis leider nicht ganz frei wählbar gestalten, denn von diesem Geld möchten Fahrtgeld für unsere Künstler*innen zahlen, die Stand-Up Szene in Bremen und umzu verbessern, größere und aufwendigere Shows gestalten und am wichtigsten den Solidaritästpreis an der Abendkasse aufrecht erhalten. Wer ein Ticket im Vorverkauf erwirbt kann sich allerdings sicher sein einen Sitzplatz zu bekommen. An derAbendkasse können die Tickets auch ausverkauft sein oder alle Sitzplätze belegt, früh kommen lohnt sich daher.Fotos: Auf dieser Veranstaltung werden Foto- und Videoaufnahmen erstellt. Diese werden für unsere Öffentlichkeitsarbeit (u.a. auf den sozialen Medien) genutzt. Bei Rückfragen meldet euch bitte persönlich oder per Mail unter kontakt@craft-comedy.de bei uns.",
+        "link": "https://rausgegangen.de/en/events/craft-comedy-open-mic-89/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/xYUYZnO8ThOuNdCxONFt_craft-comedy-open-mic-profil-bild.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Fri, 17.04.2026",
+        "time": "20:00",
+        "event": "Vonda Shepard // Schlachthof // Bremen (@Kulturzentrum Schlachthof)",
+        "category": "",
+        "description": "Einlass: 19.00 Uhr – Beginn: 20.00 UhrMit ihrer gefühlvollen Stimme, leidenschaftlichen Bühnenpräsenz und der beeindruckenden Verbindung aus Gesang und Klavier begeistert Vonda Shepard seit Jahrzehnten ihr Publikum – im Frühjahr 2026 geht die US-amerikanische Musikerin wieder auf große Europa-Tournee und macht natürlich auch in Deutschland Halt! Begleitet wird sie wie immer von ihrer herausragenden All-Star-Band: James Ralston an der Gitarre (22 Jahre mit Tina Turner), Jim Hanson am Bass (Bruce Springsteen, Johnny Cash) und Fritz Lewak am Schlagzeug (30 Jahre mit Jackson Browne). Gemeinsam bringen sie eine mitreißende Mischung auf die Bühne – mit Songs aus Vondas 14 Studioalben, beliebten Klassikern aus der Ally McBeal-Ära und brandneuen Stücken.Ganz besonders freut sich Vonda auf die Termine in Deutschland, denn hier ist in den letzten Jahren eine treue und stetig wachsende Fan-Community entstanden. „Es fühlt sich mittlerweile fast wie ein Wiedersehen mit der Familie an – die Energie ist jedes Mal unglaublich!“, erzählt sie begeistert.„Ich liebe es, mich ans Klavier zu setzen, ein paar Songs solo zu spielen – und dann mit meiner Band so richtig loszulegen. Am Ende soll es eine große Party sein, bei der niemand mehr sitzen bleibt und alle mitsingen! Ich freue mich riesig, auch neue Songs im Gepäck zu haben, denn ich arbeite gerade an einem neuen Album, das im Frühjahr 2026 erscheinen soll. Stand jetzt: Es entwickelt sich zu etwas GROSSEM! Die Aufnahmen starten im Mai“, so Vonda weiter.Vonda ShepardVonda Shepard wurde 1963 in New York City in eine künstlerisch geprägte Familie geboren. Bereits mit sechs Jahren begann sie Klavier zu spielen, schrieb mit acht ihre ersten Songs und stand mit 14 das erste Mal auf der Bühne. Ursprünglich träumte sie von einer Karriere als Astrophysikerin – doch nach ihrem ersten Auftritt als Musikerin war klar: Die Musik ist ihre Welt.Ab 1985 tourte Vonda als Backgroundsängerin und Keyboarderin mit Rickie Lee Jones, Al Jarreau und Jackson Browne, für dessen Tournee sie ab 1996 erstmals als Solokünstlerin eröffnete. Den internationalen Durchbruch schaffte sie 1997 mit ihrer Rolle als Bar-Sängerin in der Kultserie Ally McBeal. Mit dem Titelsong Searchin‘ My Soul landete sie einen weltweiten Hit – insgesamt steuerte sie über 500 Songs zur Serie bei.Bis heute hat Vonda Shepard über 12 Millionen Alben verkauft, wurde mit zwei Golden Globes, zwei Emmys und zwei Screen Actors Guild Awards ausgezeichnet und hält den Billboard-Rekord für die meistverkauften TV-Soundtracks aller Zeiten.",
+        "link": "https://rausgegangen.de/en/events/vonda-shepard-schlachthof-bremen-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3JAuAds4S72ybhG1lfTY_vonda-shepard-2026-fb-event-bremen.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Fri, 17.04.2026",
@@ -4402,46 +4402,6 @@
     {
         "date": "Sat, 18.04.2026",
         "time": "19:00",
-        "event": "Grandmas House out there Tour (@Horner Eckhaus)",
-        "category": "",
-        "description": "Grandmas House kombiniert Einflüsse von Idles bis Nirvana zu einem frischen Sound, der klug und energiegeladen zugleich ist. Auf der Out there Tour erwartet dich eine mitreißende Mischung aus Grunge und Post-Punk, die das Rockgenre neu belebt 🫂",
-        "link": "https://rausgegangen.de/en/events/grandmas-house-out-there-tour-7/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/l38SSR1S2OMWAduGxoYD_img9412.jpeg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Sat, 18.04.2026",
-        "time": "19:00",
-        "event": "The toten Crackhuren im Kofferraum • Forever Tour 2026 (@Tower Musikclub)",
-        "category": "",
-        "description": "The toten Crackhuren im Kofferraum sind zurück auf der Bühne, um 19 Jahre intensiver Freundschaft und kreative Energie zu feiern. Ihre Mischung aus Elektropop und kantigen Texten, geprägt von Berliner Wurzeln, verspricht dir im Frankfurter Das Bett ein packendes Erlebnis. Freu dich auf neue Songs und bewährte Klassiker.",
-        "link": "https://rausgegangen.de/en/events/the-toten-crackhuren-im-kofferraum-forever-tour-2026-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pS3RgZbiRuiZWwWUdWdJ_forever-tour-event-banner.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Sat, 18.04.2026",
-        "time": "19:00",
-        "event": "Timur - Unfaggottable Live (@Bürgerhaus Vegesack)",
-        "category": "",
-        "description": "Timur verbindet Humor und Haltung mit queerem Blick auf Schullektüre und Alltagserfahrungen. In seiner ersten Solo-Comedy \"Unfaggottable\" schafft er eine Mischung aus Stand-up, Tagebuch und Therapie. Es erwarten dich unerwartete Momente und ein Abend voller bunter Einsichten 🙃",
-        "link": "https://rausgegangen.de/en/events/timur-unfaggottable-live-zusatzshow-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/HbHYa0ywSsCKdMHA0YGL_timur1.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Sat, 18.04.2026",
-        "time": "23:00",
-        "event": "10 JAHRE GAYKISS BREMEN - BIG BIRTDAY BASH! (@Shagall Klub)",
-        "category": "",
-        "description": "🌈 Bremen, seid ihr bereit? 10 Jahre GAYKISS – 10 Jahre Pride, Party und unvergessliche Nächte. Das feiern wir gemeinsam mit euch auf der Tanzfläche! 🎉💋🎉 10 Jahre GAYKISS – BIG BIRTHDAY BASH! 💋🌈Seit der ersten Party am 23. April 2016 steht GAY KISS Clubbing Bremen für unvergessliche Nächte, volle Tanzflächen, laute Musik und eine Community, die gemeinsam feiert, lacht und einfach sie selbst sein kann. Aus einer Idee ist über die Jahre eine feste Größe im Bremer Nachtleben geworden – und genau das wollen wir mit euch feiern! 🥳Am Samstag, den 18. April verwandelt sich der Shagall Klub Bremen in eine große Birthday Party voller Pride, Energie und Partylaune. 💜✨Für den typischen GAYKISS Sound sorgen 🎧 DJ Ceed und 🎧 DJ Jumaxx mit Pride Pop, Gay House und TechPop – laut, bunt und absolut tanzbar. DJ Ceed ist unser Resident DJ der ersten Stunde und prägt den Sound von GAY KISS seit dem ersten Abend. DJ Jumaxx ist seit 3 Jahren fester Bestandteil des DJ-Teams und sorgt regelmäßig für eskalierende Tanzflächen. 🔥Ein ganz besonderes Wiedersehen gibt es mit 💄 Joline Ready, der Dragqueen der allerersten GAY KISS Party vom 23.04.2016 – ein echtes Stück GAYKISS History! 👑Zur Geschichte von GAYKISS gehört auch ✨ Drag Sandra Starlight, die auf unzähligen Partys für den legendären Empfang gesorgt hat – mit Welcome Shot unterhaltung und dem berühmten WOW-Effekt, der viele Gäste schon beim Ankommen in Partylaune versetzt hat. 🍹💃 Mit dabei war unter anderem auch 👑 Welcomeshotboy und  Entertainer Mister Kiss, der viele von euch schon persönlich mit einem Maracujaschnaps begrüßt hat.Und weil ein Jubiläum auch auf die Bühne gehört: Sandra Starlight und Joline Ready haben für diesen Abend eine kleine Show vorbereitet – ballroom like, glamourös und natürlich mit jeder Menge Attitude. ✨👠🔥Natürlich wird auch sonst gefeiert, wie es sich für einen Geburtstag gehört: 🎂 Birthday Cake ✨ Birthday-Deko & Überraschungen 🍾 100 Prosecco for free🎁 Unser Geschenk an euch: Freier Eintritt bis 23:30 Uhr 🕚 Danach 15 € Eintritt – also früh kommen lohnt sich!Ein ganz besonderer Dank geht an den Shagall Klub Bremen und die Inhaberin Silvia 💜. Seit 10 Jahren schenkt sie uns ihr Vertrauen und hat in guten wie auch in schwierigeren Zeiten keine Sekunde an dem Konzept gezweifelt. Ohne diese Unterstützung wäre vieles nicht möglich gewesen.Ein riesiges Dankeschön geht auch an alle Gast-DJs, Drag Artists und Künstler*innen, die über die Jahre Teil unserer Partys waren und dazu beigetragen haben, dass GAYKISS heute der Name ist, der er ist. 🌈✨📍 Shagall Klub Bremen 🕚 Doors open: 23:00 Uhr 🔞 18+Und weil 10 Jahre erst der Anfang sind: 🚛🌈 2026 gehen wir beim CSD mit einem XXL Jubiläums-Truck an den Start – größer, lauter und sichtbarer als je zuvor.Mehr Sound. Mehr Liebe. Mehr Pride. 🔥💋🎟 Online-Vorverkauf startet im April ✨ Early-Bird-Tickets in limitierter Stückzahl📸 Hinweis: Während der Veranstaltung werden Fotos für Social Media und Promotion gemacht. Wenn ihr nicht fotografiert werden möchtet, sprecht bitte direkt den Fotografen vor Ort an.Wir freuen uns riesig darauf, mit euch 10 Jahre GAYKISS zu feiern! Danke, dass ihr Teil dieser Reise seid. 💜🌈🥳#Gaykiss #GaykissBremen #BremenNightlife #PartyInBremen #ShagallBremen #QueerBremen #LGBTQBremen #BremenFeiert #GayParty #BremenEvents 🌈🎉💋",
-        "link": "https://rausgegangen.de/en/events/10-jahre-gaykiss-bremen-big-birtday-bash-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/PVQAC3AyQo2BcMQGaEob_soul-rave-edm-party-instagram-story-ad-8-8.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Sat, 18.04.2026",
-        "time": "19:00",
         "event": "Den Der Hale (SWE), Geiernacken (D)  // MUSIKZIMMER // Psych Rock (@WELTKUNSTZIMMER)",
         "category": "",
         "description": "Den der Hale live in Düsseldorf",
@@ -4498,6 +4458,46 @@
         "link": "https://rausgegangen.de/en/events/yard-vibes-the-ultimate-reggae-dancehall-experience-2/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/tLMzAK6TdaYaZrPSsN9x_rausgegangen-marz-3.jpg?width=1200&height=900&mode=crop",
         "city": "Düsseldorf"
+    },
+    {
+        "date": "Sat, 18.04.2026",
+        "time": "19:00",
+        "event": "Grandmas House out there Tour (@Horner Eckhaus)",
+        "category": "",
+        "description": "Grandmas House kombiniert Einflüsse von Idles bis Nirvana zu einem frischen Sound, der klug und energiegeladen zugleich ist. Auf der Out there Tour erwartet dich eine mitreißende Mischung aus Grunge und Post-Punk, die das Rockgenre neu belebt 🫂",
+        "link": "https://rausgegangen.de/en/events/grandmas-house-out-there-tour-7/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/l38SSR1S2OMWAduGxoYD_img9412.jpeg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Sat, 18.04.2026",
+        "time": "19:00",
+        "event": "The toten Crackhuren im Kofferraum • Forever Tour 2026 (@Tower Musikclub)",
+        "category": "",
+        "description": "The toten Crackhuren im Kofferraum sind zurück auf der Bühne, um 19 Jahre intensiver Freundschaft und kreative Energie zu feiern. Ihre Mischung aus Elektropop und kantigen Texten, geprägt von Berliner Wurzeln, verspricht dir im Frankfurter Das Bett ein packendes Erlebnis. Freu dich auf neue Songs und bewährte Klassiker.",
+        "link": "https://rausgegangen.de/en/events/the-toten-crackhuren-im-kofferraum-forever-tour-2026-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pS3RgZbiRuiZWwWUdWdJ_forever-tour-event-banner.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Sat, 18.04.2026",
+        "time": "19:00",
+        "event": "Timur - Unfaggottable Live (@Bürgerhaus Vegesack)",
+        "category": "",
+        "description": "Timur verbindet Humor und Haltung mit queerem Blick auf Schullektüre und Alltagserfahrungen. In seiner ersten Solo-Comedy \"Unfaggottable\" schafft er eine Mischung aus Stand-up, Tagebuch und Therapie. Es erwarten dich unerwartete Momente und ein Abend voller bunter Einsichten 🙃",
+        "link": "https://rausgegangen.de/en/events/timur-unfaggottable-live-zusatzshow-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/HbHYa0ywSsCKdMHA0YGL_timur1.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Sat, 18.04.2026",
+        "time": "23:00",
+        "event": "10 JAHRE GAYKISS BREMEN - BIG BIRTDAY BASH! (@Shagall Klub)",
+        "category": "",
+        "description": "🌈 Bremen, seid ihr bereit? 10 Jahre GAYKISS – 10 Jahre Pride, Party und unvergessliche Nächte. Das feiern wir gemeinsam mit euch auf der Tanzfläche! 🎉💋🎉 10 Jahre GAYKISS – BIG BIRTHDAY BASH! 💋🌈Seit der ersten Party am 23. April 2016 steht GAY KISS Clubbing Bremen für unvergessliche Nächte, volle Tanzflächen, laute Musik und eine Community, die gemeinsam feiert, lacht und einfach sie selbst sein kann. Aus einer Idee ist über die Jahre eine feste Größe im Bremer Nachtleben geworden – und genau das wollen wir mit euch feiern! 🥳Am Samstag, den 18. April verwandelt sich der Shagall Klub Bremen in eine große Birthday Party voller Pride, Energie und Partylaune. 💜✨Für den typischen GAYKISS Sound sorgen 🎧 DJ Ceed und 🎧 DJ Jumaxx mit Pride Pop, Gay House und TechPop – laut, bunt und absolut tanzbar. DJ Ceed ist unser Resident DJ der ersten Stunde und prägt den Sound von GAY KISS seit dem ersten Abend. DJ Jumaxx ist seit 3 Jahren fester Bestandteil des DJ-Teams und sorgt regelmäßig für eskalierende Tanzflächen. 🔥Ein ganz besonderes Wiedersehen gibt es mit 💄 Joline Ready, der Dragqueen der allerersten GAY KISS Party vom 23.04.2016 – ein echtes Stück GAYKISS History! 👑Zur Geschichte von GAYKISS gehört auch ✨ Drag Sandra Starlight, die auf unzähligen Partys für den legendären Empfang gesorgt hat – mit Welcome Shot unterhaltung und dem berühmten WOW-Effekt, der viele Gäste schon beim Ankommen in Partylaune versetzt hat. 🍹💃 Mit dabei war unter anderem auch 👑 Welcomeshotboy und  Entertainer Mister Kiss, der viele von euch schon persönlich mit einem Maracujaschnaps begrüßt hat.Und weil ein Jubiläum auch auf die Bühne gehört: Sandra Starlight und Joline Ready haben für diesen Abend eine kleine Show vorbereitet – ballroom like, glamourös und natürlich mit jeder Menge Attitude. ✨👠🔥Natürlich wird auch sonst gefeiert, wie es sich für einen Geburtstag gehört: 🎂 Birthday Cake ✨ Birthday-Deko & Überraschungen 🍾 100 Prosecco for free🎁 Unser Geschenk an euch: Freier Eintritt bis 23:30 Uhr 🕚 Danach 15 € Eintritt – also früh kommen lohnt sich!Ein ganz besonderer Dank geht an den Shagall Klub Bremen und die Inhaberin Silvia 💜. Seit 10 Jahren schenkt sie uns ihr Vertrauen und hat in guten wie auch in schwierigeren Zeiten keine Sekunde an dem Konzept gezweifelt. Ohne diese Unterstützung wäre vieles nicht möglich gewesen.Ein riesiges Dankeschön geht auch an alle Gast-DJs, Drag Artists und Künstler*innen, die über die Jahre Teil unserer Partys waren und dazu beigetragen haben, dass GAYKISS heute der Name ist, der er ist. 🌈✨📍 Shagall Klub Bremen 🕚 Doors open: 23:00 Uhr 🔞 18+Und weil 10 Jahre erst der Anfang sind: 🚛🌈 2026 gehen wir beim CSD mit einem XXL Jubiläums-Truck an den Start – größer, lauter und sichtbarer als je zuvor.Mehr Sound. Mehr Liebe. Mehr Pride. 🔥💋🎟 Online-Vorverkauf startet im April ✨ Early-Bird-Tickets in limitierter Stückzahl📸 Hinweis: Während der Veranstaltung werden Fotos für Social Media und Promotion gemacht. Wenn ihr nicht fotografiert werden möchtet, sprecht bitte direkt den Fotografen vor Ort an.Wir freuen uns riesig darauf, mit euch 10 Jahre GAYKISS zu feiern! Danke, dass ihr Teil dieser Reise seid. 💜🌈🥳#Gaykiss #GaykissBremen #BremenNightlife #PartyInBremen #ShagallBremen #QueerBremen #LGBTQBremen #BremenFeiert #GayParty #BremenEvents 🌈🎉💋",
+        "link": "https://rausgegangen.de/en/events/10-jahre-gaykiss-bremen-big-birtday-bash-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/PVQAC3AyQo2BcMQGaEob_soul-rave-edm-party-instagram-story-ad-8-8.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Sat, 18.04.2026",
@@ -4899,6 +4899,14 @@
     },
     {
         "date": "Th, 23.04.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 23.04.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -4936,14 +4944,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 23.04.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Thu, 23.04.2026",
@@ -5475,6 +5475,14 @@
     },
     {
         "date": "Th, 30.04.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 30.04.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -5512,14 +5520,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 30.04.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Do, 30.04",
@@ -5895,6 +5895,14 @@
     },
     {
         "date": "Th, 07.05.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 07.05.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -5932,14 +5940,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 07.05.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Thu, 07.05.2026",
@@ -6288,6 +6288,14 @@
     },
     {
         "date": "Th, 14.05.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 14.05.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -6325,14 +6333,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 14.05.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "event": "Gruppe Dramaclλn // In lauter Stille(@theaterlaborbielefeld)",
@@ -6637,6 +6637,14 @@
     },
     {
         "date": "Th, 21.05.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 21.05.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -6674,14 +6682,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 21.05.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "event": "Cooperativa meets sans sens(@theaterlaborbielefeld)",
@@ -6957,6 +6957,14 @@
     },
     {
         "date": "Th, 28.05.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 28.05.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -6994,14 +7002,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 28.05.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "event": "Bücher, Bier und Schokolade(@theaterlaborbielefeld)",
@@ -7293,6 +7293,14 @@
     },
     {
         "date": "Th, 04.06.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 04.06.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -7330,14 +7338,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 04.06.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 05.06.2026",
@@ -7553,6 +7553,14 @@
     },
     {
         "date": "Th, 11.06.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 11.06.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -7590,14 +7598,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 11.06.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 12.06.2026",
@@ -7822,6 +7822,14 @@
     },
     {
         "date": "Th, 18.06.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 18.06.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -7859,14 +7867,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 18.06.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 19.06.2026",
@@ -8078,6 +8078,14 @@
     },
     {
         "date": "Th, 25.06.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 25.06.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -8115,14 +8123,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 25.06.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Thu, 25.06.2026",
@@ -8360,6 +8360,14 @@
     },
     {
         "date": "Th, 02.07.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 02.07.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -8397,14 +8405,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 02.07.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 03.07.2026",
@@ -8578,6 +8578,14 @@
     },
     {
         "date": "Th, 09.07.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 09.07.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -8615,14 +8623,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 09.07.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Thu, 09.07.2026",
@@ -8813,6 +8813,14 @@
     },
     {
         "date": "Th, 16.07.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 16.07.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -8850,14 +8858,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 16.07.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 17.07.2026",
@@ -9022,6 +9022,14 @@
     },
     {
         "date": "Th, 23.07.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 23.07.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -9059,14 +9067,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 23.07.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 24.07.2026",
@@ -9231,6 +9231,14 @@
     },
     {
         "date": "Th, 30.07.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 30.07.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -9268,14 +9276,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 30.07.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 31.07.2026",
@@ -9463,6 +9463,14 @@
     },
     {
         "date": "Th, 06.08.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 06.08.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -9500,14 +9508,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 06.08.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 07.08.2026",
@@ -9671,6 +9671,14 @@
     },
     {
         "date": "Th, 13.08.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 13.08.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -9708,14 +9716,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 13.08.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 14.08.2026",
@@ -9887,6 +9887,14 @@
     },
     {
         "date": "Th, 20.08.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 20.08.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -9924,14 +9932,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 20.08.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Thu, 20.08.2026",
@@ -10130,6 +10130,14 @@
     },
     {
         "date": "Th, 27.08.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 27.08.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -10167,14 +10175,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 27.08.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 28.08.2026",
@@ -10382,6 +10382,14 @@
     },
     {
         "date": "Th, 03.09.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 03.09.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -10419,14 +10427,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 03.09.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 04.09.2026",
@@ -10652,6 +10652,14 @@
     },
     {
         "date": "Th, 10.09.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 10.09.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -10689,14 +10697,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 10.09.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 11.09.2026",
@@ -10884,6 +10884,14 @@
     },
     {
         "date": "Th, 17.09.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 17.09.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -10921,14 +10929,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 17.09.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 17.09",
@@ -11124,6 +11124,14 @@
     },
     {
         "date": "Th, 24.09.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 24.09.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -11161,14 +11169,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 24.09.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Thu, 24.09.2026",
@@ -11401,6 +11401,14 @@
     },
     {
         "date": "Th, 01.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 01.10.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -11438,14 +11446,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 01.10.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Thu, 01.10.2026",
@@ -11648,6 +11648,14 @@
     },
     {
         "date": "Th, 08.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 08.10.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -11685,14 +11693,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 08.10.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 08.10",
@@ -11947,6 +11947,14 @@
     },
     {
         "date": "Th, 15.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 15.10.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -11984,14 +11992,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 15.10.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 15.10",
@@ -12201,6 +12201,14 @@
     },
     {
         "date": "Th, 22.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 22.10.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -12238,14 +12246,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 22.10.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Thu, 22.10.2026",
@@ -12463,6 +12463,14 @@
     },
     {
         "date": "Th, 29.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 29.10.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -12500,14 +12508,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 29.10.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Thu, 29.10.2026",
@@ -12745,6 +12745,14 @@
     },
     {
         "date": "Th, 05.11.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 05.11.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -12782,14 +12790,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 05.11.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 05.11",
@@ -13002,6 +13002,14 @@
     },
     {
         "date": "Th, 12.11.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 12.11.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -13039,14 +13047,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 12.11.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 13.11.2026",
@@ -13237,6 +13237,14 @@
     },
     {
         "date": "Th, 19.11.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 19.11.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -13274,14 +13282,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 19.11.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Thu, 19.11.2026",
@@ -13485,6 +13485,14 @@
     },
     {
         "date": "Th, 26.11.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 26.11.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -13522,14 +13530,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 26.11.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Thu, 26.11.2026",
@@ -13744,6 +13744,14 @@
     },
     {
         "date": "Th, 03.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 03.12.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -13781,14 +13789,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 03.12.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 03.12",
@@ -13976,6 +13976,14 @@
     },
     {
         "date": "Th, 10.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 10.12.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -14013,14 +14021,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 10.12.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 11.12.2026",
@@ -14219,6 +14219,14 @@
     },
     {
         "date": "Th, 17.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 17.12.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -14256,14 +14264,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 17.12.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 17.12",
@@ -14450,6 +14450,14 @@
     },
     {
         "date": "Th, 24.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 24.12.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -14487,14 +14495,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 24.12.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 25.12.2026",
@@ -14676,6 +14676,14 @@
     },
     {
         "date": "Th, 31.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 31.12.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -14713,13 +14721,5 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 31.12.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     }
 ]
