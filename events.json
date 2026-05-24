@@ -1,13 +1,5 @@
 [
     {
-        "date": "Sun, 24.05",
-        "time": "22:30",
-        "event": "LIVING ROOM Revival with Thomas Schuhmacher (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/living-room-revival-with-thomas-schuhmacher-24052026-2230",
-        "image_url": "https://www.club-sams.de/data/202605/SO_24_05_800_x_800_px_3_Kopie_150.png?v=1778667827"
-    },
-    {
         "date": "Su, 24.05.2026",
         "time": "19:00",
         "event": "*TRIBE KENNENLERNABEND*",
@@ -22,14 +14,6 @@
         "category": "Sport",
         "link": "https://www.instagram.com/uprunningclub/?hl=de",
         "image_url": null
-    },
-    {
-        "date": "So, 24.05.2026",
-        "time": "14:00",
-        "event": "Star Wars: The Mandalorian & Grogu 3D (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Science-Fiction & Abenteuer & Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Sun, 24.05",
@@ -56,6 +40,14 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "date": "Sun, 24.05",
+        "time": "22:30",
+        "event": "LIVING ROOM Revival with Thomas Schuhmacher (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/living-room-revival-with-thomas-schuhmacher-24052026-2230",
+        "image_url": "https://www.club-sams.de/data/202605/SO_24_05_800_x_800_px_3_Kopie_150.png?v=1778667827"
+    },
+    {
         "date": "Sun, 24.05.2026",
         "time": "11:00",
         "event": "Bühnenbilder der 1970er- und 1980er-Jahre von Franklin Hollander (@Dorfkrug Kirchdornberg)",
@@ -75,6 +67,14 @@
     },
     {
         "date": "Mo, 25.05.2026",
+        "time": "17:30",
+        "event": "Star Wars: The Mandalorian & Grogu 3D (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Science-Fiction & Abenteuer & Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
+        "date": "Mo, 25.05.2026",
         "time": "20:00",
         "event": "Pub Quiz (@irish_pub_bielefeld)",
         "category": "Ausgehen",
@@ -88,14 +88,6 @@
         "category": "Sport",
         "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         "image_url": "https://tse3.mm.bing.net/th/id/OIP.S2SyS4KZbgQ0_dDtL7HNZgAAAA?pid=Api&P=0&h=180"
-    },
-    {
-        "date": "Mo, 25.05.2026",
-        "time": "14:00",
-        "event": "Star Wars: The Mandalorian & Grogu 3D (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Science-Fiction & Abenteuer & Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Mo, 25.05.2026",
@@ -187,23 +179,13 @@
     },
     {
         "date": "Mon, 25.05.2026",
-        "time": "19:00",
-        "event": "Salsa Cubana free beginner class (@Dance4Water Essen)",
+        "time": "14:00",
+        "event": "COFFEE PARTY x MADAME CROISSANT DRESDEN (@Madame Croissant)",
         "category": "",
-        "description": "Jeden Montag kannst du bei den Salsa Cubana Basics entspannt die ersten Schritte lernen, ganz ohne Tanzpartner oder Vorkenntnisse. Die Trainer:innen setzen sich freiwillig für Wasserprojekte ein, damit du neben dem Lernen auch Gutes unterstützt 🫶",
-        "link": "https://rausgegangen.de/en/events/salsa-cubana-free-beginner-class-4/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/yvA4NV4YS0qMjY1pcShy_s4w-cph.jpg?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Mon, 25.05.2026",
-        "time": "21:00",
-        "event": "Drag Queen Bingo (@gentleM Essen)",
-        "category": "",
-        "description": "Miss Mary Turner lädt zum Drag Queen Bingo, das nicht nur Unterhaltung bietet, sondern mit jeder Spielrunde die queere Community unterstützt. Hier erwarten dich bunte Preise und eine Atmosphäre, in der Vielfalt gefeiert wird. Ein Abend, der Spielspaß mit gesellschaftlichem Engagement verbindet.",
-        "link": "https://rausgegangen.de/en/events/drag-queen-bingo-73/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8Gq8EXodTpOlTdGgEol6_429a82ee-2659-4dcb-8dfe-9aea8399361c.JPG?width=1200&height=900&mode=crop",
-        "city": "Essen"
+        "description": "Die Coffee Party meldet sich zurück und bringt entspannte Sonntagsenergie mit ausgewählten Live-DJs und kreativen Croissant-Kreationen. Genieße einen Mix aus Kaffee und Matcha, der den Tag auf besondere Weise belebt und dich nicht wie Sonntag fühlen lässt 🥂",
+        "link": "https://rausgegangen.de/en/events/coffee-party-x-madame-croissant-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8ZzxXkvYRcZjAIYWhlZY_beige-and-green-elegant-minimalist-tennis-club-logo-148-105-mm-8.png?width=1200&height=900&mode=crop",
+        "city": "Dresden"
     },
     {
         "date": "Mon, 25.05.2026",
@@ -294,86 +276,6 @@
         "link": "https://rausgegangen.de/en/events/sivan-perwer-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/dloinj0juimb?width=1200&height=900&mode=crop",
         "city": "Bremen"
-    },
-    {
-        "date": "Mon, 25.05.2026",
-        "time": "14:00",
-        "event": "COFFEE PARTY x MADAME CROISSANT DRESDEN (@Madame Croissant)",
-        "category": "",
-        "description": "Die Coffee Party meldet sich zurück und bringt entspannte Sonntagsenergie mit ausgewählten Live-DJs und kreativen Croissant-Kreationen. Genieße einen Mix aus Kaffee und Matcha, der den Tag auf besondere Weise belebt und dich nicht wie Sonntag fühlen lässt 🥂",
-        "link": "https://rausgegangen.de/en/events/coffee-party-x-madame-croissant-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8ZzxXkvYRcZjAIYWhlZY_beige-and-green-elegant-minimalist-tennis-club-logo-148-105-mm-8.png?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Mon, 25.05.2026",
-        "time": "10:00",
-        "event": "KLEOPATRA - Die immersive Ausstellung (@HALLE 7)",
-        "category": "",
-        "description": "Hier kannst du in die faszinierende Welt von Kleopatra eintauchen und ihre Geschichte auf ganz neue Weise erleben. Von originalen Artefakten bis zu VR und AR findest du eine Mischung aus Vergangenheit und Zukunft, die Geschichte lebendig macht und dich mitnimmt auf eine Reise durch Alexandrias Glanzzeit 🧖🏼‍♀️",
-        "link": "https://rausgegangen.de/en/events/kleopatra-die-immersive-ausstellung-38/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ldSL9x10RUa00usyuoHq_kleopatra1920x10802.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Mon, 25.05.2026",
-        "time": "12:00",
-        "event": "ROOTS African food festival Pfingstspecial (@Schrödingers)",
-        "category": "",
-        "description": "Am Pfingstmontag wird mit dem ROOTS African Food Festival im Kosmos Karoline ein bunter Treffpunkt für Kultur und Kreativität eröffnet. Freu dich auf afrikanische Küche, spannende Fashion, Kunst aus der Community und Live Music – ein entspanntes Zusammenkommen mitten in Hamburg 🫶",
-        "link": "https://rausgegangen.de/en/events/roots-kosmos-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/WjNorjZsSISqySyCJWtE_thumbnail.jpeg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Mon, 25.05.2026",
-        "time": "12:00",
-        "event": "Pfingsten - Nordic Brunch (@BRICKS Bar)",
-        "category": "",
-        "description": "An Pfingsten steht der Nordic Brunch gleich an zwei Tagen auf dem Plan, mit einer breiten Auswahl an Frühstücksklassikern und wechselnden Mittagsgerichten. Im Mai gibt’s zudem ein spezielles Gericht, das von Hamburgs HafenCity inspiriert ist, dazu kannst du dein Essen mit dem passenden Cocktail abrunden und den Tag entspannt genießen 🫶",
-        "link": "https://rausgegangen.de/en/events/pfingsten-nordic-brunch-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/NJBg1NFiTUivO6OYzMCS_img2992resize.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Mon, 25.05.2026",
-        "time": "14:00",
-        "event": "Comic-Workshop: Was soll auf unserem Planeten bleiben? (@LIFE HAMBURG Pop-Up)",
-        "category": "",
-        "description": "Mia Oberländer verbindet in ihrem Workshop Fotos, Texte und Fundstücke zu neuen Comicgeschichten, die spielerisch unsere Beziehung zum Planeten hinterfragen. Du kreierst mit eigenen Bildern ein visueller Puzzle, das mal tiefgründig, mal überraschend erzählt, was bleiben soll 🫶",
-        "link": "https://rausgegangen.de/en/events/comic-workshop-was-soll-auf-unserem-planeten-bleiben-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GLjvCWRgKMvagnduqYrw_comic-workshop-mia-oberlander.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Mon, 25.05.2026",
-        "time": "17:00",
-        "event": "Folktanzwirbel (@Turtur)",
-        "category": "",
-        "description": "Folktanzwirbel bringt dich mit handgemachter Musik und einer Mischung aus ruhigen und schnellen Tänzen zusammen. Paartänze und Gruppenschritte wechseln sich ab, dabei lernst du immer wieder neue Tanzpartner:innen kennen und erlebst echtes Miteinander 🤝",
-        "link": "https://rausgegangen.de/en/events/folktanzwirbel-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/IORAPgSzSyvf3NrVhmIq_folktanzwirbel.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Mon, 25.05.2026",
-        "time": "18:00",
-        "event": "SLOW BURN (@Hamburgische Staatsoper)",
-        "category": "",
-        "description": "SLOW BURN bringt kraftvolle Frauenbilder auf die Bühne, begleitet von eigens komponierter Musik, die direkt unter die Haut geht. William Forsythes preisgekröntes Blake Works V setzt die Ballettstange als Symbol für Disziplin und Freiheit ganz neu in Szene und mischt klassische Eleganz mit Elektro-Pop 🤩",
-        "link": "https://rausgegangen.de/en/events/slow-burn-15/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LFRuvLIsS3y22Xvu0LZJ_slow-burnaszure-bartonslow-burntanzerinnenensemble-hamburg-ballett-kiran-west2kl.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Mon, 25.05.2026",
-        "time": "19:00",
-        "event": "Dressed Like Boys (@Bahnhof Pauli)",
-        "category": "",
-        "description": "Jelle Denturck, bekannt von DIRK, zeigt mit Dressed Like Boys seine verletzliche Seite und verbindet 70er-Jahre-Flair mit poetischen Geschichten über Herkunft, Verlust und queere Identität. Seine Bühne heißt Klavier und Stimme, die dich nah und echt mitnimmt 🤩",
-        "link": "https://rausgegangen.de/en/events/dressed-like-boys-7/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5CbvFFJLRUyoVYCTGGMo_photo-dressed-like-boyscredit-sieme-hermans-small.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
     },
     {
         "date": "Mon, 25.05.2026",
@@ -517,6 +419,26 @@
     },
     {
         "date": "Mon, 25.05.2026",
+        "time": "19:00",
+        "event": "Salsa Cubana free beginner class (@Dance4Water Essen)",
+        "category": "",
+        "description": "Jeden Montag kannst du bei den Salsa Cubana Basics entspannt die ersten Schritte lernen, ganz ohne Tanzpartner oder Vorkenntnisse. Die Trainer:innen setzen sich freiwillig für Wasserprojekte ein, damit du neben dem Lernen auch Gutes unterstützt 🫶",
+        "link": "https://rausgegangen.de/en/events/salsa-cubana-free-beginner-class-4/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/yvA4NV4YS0qMjY1pcShy_s4w-cph.jpg?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Mon, 25.05.2026",
+        "time": "21:00",
+        "event": "Drag Queen Bingo (@gentleM Essen)",
+        "category": "",
+        "description": "Miss Mary Turner lädt zum Drag Queen Bingo, das nicht nur Unterhaltung bietet, sondern mit jeder Spielrunde die queere Community unterstützt. Hier erwarten dich bunte Preise und eine Atmosphäre, in der Vielfalt gefeiert wird. Ein Abend, der Spielspaß mit gesellschaftlichem Engagement verbindet.",
+        "link": "https://rausgegangen.de/en/events/drag-queen-bingo-73/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8Gq8EXodTpOlTdGgEol6_429a82ee-2659-4dcb-8dfe-9aea8399361c.JPG?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Mon, 25.05.2026",
         "time": "18:00",
         "event": "Gut Quiz! Kneipenquiz in Dortmund (@KLUBHAUS Dortmund)",
         "category": "",
@@ -587,6 +509,76 @@
     },
     {
         "date": "Mon, 25.05.2026",
+        "time": "10:00",
+        "event": "KLEOPATRA - Die immersive Ausstellung (@HALLE 7)",
+        "category": "",
+        "description": "Hier kannst du in die faszinierende Welt von Kleopatra eintauchen und ihre Geschichte auf ganz neue Weise erleben. Von originalen Artefakten bis zu VR und AR findest du eine Mischung aus Vergangenheit und Zukunft, die Geschichte lebendig macht und dich mitnimmt auf eine Reise durch Alexandrias Glanzzeit 🧖🏼‍♀️",
+        "link": "https://rausgegangen.de/en/events/kleopatra-die-immersive-ausstellung-38/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ldSL9x10RUa00usyuoHq_kleopatra1920x10802.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Mon, 25.05.2026",
+        "time": "12:00",
+        "event": "ROOTS African food festival Pfingstspecial (@Schrödingers)",
+        "category": "",
+        "description": "Am Pfingstmontag wird mit dem ROOTS African Food Festival im Kosmos Karoline ein bunter Treffpunkt für Kultur und Kreativität eröffnet. Freu dich auf afrikanische Küche, spannende Fashion, Kunst aus der Community und Live Music – ein entspanntes Zusammenkommen mitten in Hamburg 🫶",
+        "link": "https://rausgegangen.de/en/events/roots-kosmos-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/WjNorjZsSISqySyCJWtE_thumbnail.jpeg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Mon, 25.05.2026",
+        "time": "12:00",
+        "event": "Pfingsten - Nordic Brunch (@BRICKS Bar)",
+        "category": "",
+        "description": "An Pfingsten steht der Nordic Brunch gleich an zwei Tagen auf dem Plan, mit einer breiten Auswahl an Frühstücksklassikern und wechselnden Mittagsgerichten. Im Mai gibt’s zudem ein spezielles Gericht, das von Hamburgs HafenCity inspiriert ist, dazu kannst du dein Essen mit dem passenden Cocktail abrunden und den Tag entspannt genießen 🫶",
+        "link": "https://rausgegangen.de/en/events/pfingsten-nordic-brunch-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/NJBg1NFiTUivO6OYzMCS_img2992resize.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Mon, 25.05.2026",
+        "time": "14:00",
+        "event": "Comic-Workshop: Was soll auf unserem Planeten bleiben? (@LIFE HAMBURG Pop-Up)",
+        "category": "",
+        "description": "Mia Oberländer verbindet in ihrem Workshop Fotos, Texte und Fundstücke zu neuen Comicgeschichten, die spielerisch unsere Beziehung zum Planeten hinterfragen. Du kreierst mit eigenen Bildern ein visueller Puzzle, das mal tiefgründig, mal überraschend erzählt, was bleiben soll 🫶",
+        "link": "https://rausgegangen.de/en/events/comic-workshop-was-soll-auf-unserem-planeten-bleiben-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GLjvCWRgKMvagnduqYrw_comic-workshop-mia-oberlander.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Mon, 25.05.2026",
+        "time": "17:00",
+        "event": "Folktanzwirbel (@Turtur)",
+        "category": "",
+        "description": "Folktanzwirbel bringt dich mit handgemachter Musik und einer Mischung aus ruhigen und schnellen Tänzen zusammen. Paartänze und Gruppenschritte wechseln sich ab, dabei lernst du immer wieder neue Tanzpartner:innen kennen und erlebst echtes Miteinander 🤝",
+        "link": "https://rausgegangen.de/en/events/folktanzwirbel-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/IORAPgSzSyvf3NrVhmIq_folktanzwirbel.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Mon, 25.05.2026",
+        "time": "18:00",
+        "event": "SLOW BURN (@Hamburgische Staatsoper)",
+        "category": "",
+        "description": "SLOW BURN bringt kraftvolle Frauenbilder auf die Bühne, begleitet von eigens komponierter Musik, die direkt unter die Haut geht. William Forsythes preisgekröntes Blake Works V setzt die Ballettstange als Symbol für Disziplin und Freiheit ganz neu in Szene und mischt klassische Eleganz mit Elektro-Pop 🤩",
+        "link": "https://rausgegangen.de/en/events/slow-burn-15/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LFRuvLIsS3y22Xvu0LZJ_slow-burnaszure-bartonslow-burntanzerinnenensemble-hamburg-ballett-kiran-west2kl.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Mon, 25.05.2026",
+        "time": "19:00",
+        "event": "Dressed Like Boys (@Bahnhof Pauli)",
+        "category": "",
+        "description": "Jelle Denturck, bekannt von DIRK, zeigt mit Dressed Like Boys seine verletzliche Seite und verbindet 70er-Jahre-Flair mit poetischen Geschichten über Herkunft, Verlust und queere Identität. Seine Bühne heißt Klavier und Stimme, die dich nah und echt mitnimmt 🤩",
+        "link": "https://rausgegangen.de/en/events/dressed-like-boys-7/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5CbvFFJLRUyoVYCTGGMo_photo-dressed-like-boyscredit-sieme-hermans-small.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Mon, 25.05.2026",
         "time": "19:00",
         "event": "Chess Night | Düsseldorf (@The Irish Pub bei Fatty - Fatty's)",
         "category": "",
@@ -615,6 +607,14 @@
         "link": "https://www.bielefeld.jetzt/node/209012"
     },
     {
+        "date": "Di, 26.05.2026",
+        "time": "17:30",
+        "event": "Star Wars: The Mandalorian & Grogu 3D (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Science-Fiction & Abenteuer & Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
         "date": "Tu, 26.05.2026",
         "time": "18:00",
         "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
@@ -629,14 +629,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Di, 26.05.2026",
-        "time": "14:00",
-        "event": "Star Wars: The Mandalorian & Grogu 3D (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Science-Fiction & Abenteuer & Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Di, 26.05.2026",
@@ -711,6 +703,14 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "date": "Mi, 27.05.2026",
+        "time": "17:30",
+        "event": "Star Wars: The Mandalorian & Grogu 3D (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Science-Fiction & Abenteuer & Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
         "date": "We, 27.05.2026",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -749,14 +749,6 @@
         "category": "Ausgehen",
         "link": "https://www.instagram.com/diesdascomedy/",
         "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1149914903%2F458602689502%2F1%2Foriginal.jpg?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=9fe71dc7482ee7b9a2010ffe02860068"
-    },
-    {
-        "date": "Mi, 27.05.2026",
-        "time": "14:00",
-        "event": "Star Wars: The Mandalorian & Grogu 3D (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Science-Fiction & Abenteuer & Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Mi, 27.05.2026",
@@ -857,6 +849,16 @@
     },
     {
         "date": "Wed, 27.05.2026",
+        "time": "22:00",
+        "event": "MiDi x Onlybass (@Groove Station)",
+        "category": "",
+        "description": "Bei MiDi x Onlybass treffen Schranz, Trance und Hardtechno in spannenden B2B-Sets aufeinander, die dich mitten in der Woche aus der Routine holen. Die regelmäßige Afterhour lässt den Mittwoch zur kleinen Auszeit werden, bei der auch neue Sounds überraschend funken können 🤩",
+        "link": "https://rausgegangen.de/en/events/midi-x-onlybass-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/A8I8m42iQCC9XGtLlDgI_facebookmidi260527.jpg?width=1200&height=900&mode=crop",
+        "city": "Dresden"
+    },
+    {
+        "date": "Wed, 27.05.2026",
         "time": "17:00",
         "event": "Absolute Beginners Hip Hop Workshop (@Traumtänzer - Tanzschule in Leipzig)",
         "category": "",
@@ -914,46 +916,6 @@
         "link": "https://rausgegangen.de/en/events/wie-es-euch-gefallt-shakespeare-12/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ZZTW0qYHQT2v5jdSJzlt_theatertotal.jpg?width=1200&height=900&mode=crop",
         "city": "Bremen"
-    },
-    {
-        "date": "Wed, 27.05.2026",
-        "time": "22:00",
-        "event": "MiDi x Onlybass (@Groove Station)",
-        "category": "",
-        "description": "Bei MiDi x Onlybass treffen Schranz, Trance und Hardtechno in spannenden B2B-Sets aufeinander, die dich mitten in der Woche aus der Routine holen. Die regelmäßige Afterhour lässt den Mittwoch zur kleinen Auszeit werden, bei der auch neue Sounds überraschend funken können 🤩",
-        "link": "https://rausgegangen.de/en/events/midi-x-onlybass-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/A8I8m42iQCC9XGtLlDgI_facebookmidi260527.jpg?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Wed, 27.05.2026",
-        "time": "19:00",
-        "event": "Freche Möwe  - Stand-Up Comedy im Kulturschloss Wandsbek (@Kulturschloss Wandsbek)",
-        "category": "",
-        "description": "Im Kulturschloss Wandsbek treten acht Hamburger Stand-Up Künstler:innen mit frischen, unverwechselbaren Stimmen auf, die den Alltag humorvoll aus neuen Perspektiven beleuchten. Es erwartet dich ein Abend lebendiger Pointen, der Raum für spontane Lacher schafft und ganz ohne Kartenzahlung auskommt. 🎤😂🏰",
-        "link": "https://rausgegangen.de/en/events/freche-mowe-stand-up-comedy-im-kulturschloss-wandsbek-4/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vIXbsmeSkuBpHqLLkpAc_7.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Wed, 27.05.2026",
-        "time": "20:00",
-        "event": "SCHNACK Stand-Up Comedy in der Villa Viva (@Villa Viva Hamburg)",
-        "category": "",
-        "description": "In der Villa Viva direkt an den Deichtorhallen präsentieren Newcomer:innen und Profis bei SCHNACK frische Stand-Up Comedy aus Norddeutschland. Bei 120 Minuten mit wechselnden Acts kannst du spannende Talente entdecken und gleichzeitig ein soziales Projekt unterstützen. Getränke gibt es direkt vor Ort 🍸🎤",
-        "link": "https://rausgegangen.de/en/events/schnack-stand-up-comedy-in-der-villa-viva-35/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/66t6GPSISGimfHR71glB_vv-openair-16b9-rgg-header.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Wed, 27.05.2026",
-        "time": "20:00",
-        "event": "Standup Comedy Show Hafenbahnhof Altona (@Hafenbahnhof)",
-        "category": "",
-        "description": "Katta Comedy bringt dich in den Hafenbahnhof Altona, wo die Bühne direkt an der Elbe mit jeder Menge Witz und lockerer Stimmung glänzt 🤩. Acht Comedians sorgen für überraschende Momente, lautes Lachen und beste Unterhaltung in dieser besonderen Location 🎤. Schnapp dir ein Getränk und genieß einen Abend, der einfach richtig Spaß macht 🍻✨.",
-        "link": "https://rausgegangen.de/en/events/standup-comedy-show-hafenbahnhof-altona-27/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Sb3Eo3X1TOKZPzekPQra_istock-942752254-9-5.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
     },
     {
         "date": "Wed, 27.05.2026",
@@ -1257,6 +1219,36 @@
     },
     {
         "date": "Wed, 27.05.2026",
+        "time": "19:00",
+        "event": "Freche Möwe  - Stand-Up Comedy im Kulturschloss Wandsbek (@Kulturschloss Wandsbek)",
+        "category": "",
+        "description": "Im Kulturschloss Wandsbek treten acht Hamburger Stand-Up Künstler:innen mit frischen, unverwechselbaren Stimmen auf, die den Alltag humorvoll aus neuen Perspektiven beleuchten. Es erwartet dich ein Abend lebendiger Pointen, der Raum für spontane Lacher schafft und ganz ohne Kartenzahlung auskommt. 🎤😂🏰",
+        "link": "https://rausgegangen.de/en/events/freche-mowe-stand-up-comedy-im-kulturschloss-wandsbek-4/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vIXbsmeSkuBpHqLLkpAc_7.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Wed, 27.05.2026",
+        "time": "20:00",
+        "event": "SCHNACK Stand-Up Comedy in der Villa Viva (@Villa Viva Hamburg)",
+        "category": "",
+        "description": "In der Villa Viva direkt an den Deichtorhallen präsentieren Newcomer:innen und Profis bei SCHNACK frische Stand-Up Comedy aus Norddeutschland. Bei 120 Minuten mit wechselnden Acts kannst du spannende Talente entdecken und gleichzeitig ein soziales Projekt unterstützen. Getränke gibt es direkt vor Ort 🍸🎤",
+        "link": "https://rausgegangen.de/en/events/schnack-stand-up-comedy-in-der-villa-viva-35/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/66t6GPSISGimfHR71glB_vv-openair-16b9-rgg-header.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Wed, 27.05.2026",
+        "time": "20:00",
+        "event": "Standup Comedy Show Hafenbahnhof Altona (@Hafenbahnhof)",
+        "category": "",
+        "description": "Katta Comedy bringt dich in den Hafenbahnhof Altona, wo die Bühne direkt an der Elbe mit jeder Menge Witz und lockerer Stimmung glänzt 🤩. Acht Comedians sorgen für überraschende Momente, lautes Lachen und beste Unterhaltung in dieser besonderen Location 🎤. Schnapp dir ein Getränk und genieß einen Abend, der einfach richtig Spaß macht 🍻✨.",
+        "link": "https://rausgegangen.de/en/events/standup-comedy-show-hafenbahnhof-altona-27/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Sb3Eo3X1TOKZPzekPQra_istock-942752254-9-5.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Wed, 27.05.2026",
         "time": "20:00",
         "event": "Blueprint - Quiz & Cocktails (2000er Special) bei gutem Wetter OPEN AIR (@dstrct.art)",
         "category": "",
@@ -1290,6 +1282,14 @@
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Do, 28.05.2026",
+        "time": "17:30",
+        "event": "Star Wars: The Mandalorian & Grogu 3D (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Science-Fiction & Abenteuer & Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Th, 28.05.2026",
@@ -1330,14 +1330,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Do, 28.05.2026",
-        "time": "14:00",
-        "event": "Star Wars: The Mandalorian & Grogu 3D (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Science-Fiction & Abenteuer & Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Do, 28.05.2026",
@@ -1419,6 +1411,16 @@
     },
     {
         "date": "Thu, 28.05.2026",
+        "time": "20:00",
+        "event": "Ben Camden (@Ostpol Dresden)",
+        "category": "",
+        "description": "Der australische Singer-Songwriter Ben Camden kehrt im Frühjahr 2026 nach Europa und Großbritannien zurück!Nach der Veröffentlichung seines dritten Albums „Sunflowers“ im Jahr 2025 wird Ben Songs und Geschichten aus seinem kommenden vierten Album präsentieren – ebenso wie alte Favoriten und brandneues Material. Verpasst nicht die Gelegenheit, einen intimen und herzerwärmenden Abend mit Ben Camden zu erleben!Authentisch und aufrichtig: Bens Aufwachsen im ländlichen Australien sowie seine Zeit in Fidschi und Europa haben einen unverwechselbaren Sound geprägt – nostalgisch vertraut und zugleich genreübergreifend. Vom Straßenmusiker in Byron Bay zum hauptberuflich tourenden Künstler wechselt Ben Camden mühelos zwischen sanften Akustikballaden und mitreißendem Folk-Rock. Mit seiner bodenständigen Bühnenpräsenz, charmanten Geschichten zwischen den Songs und nahbaren Texten berührt er sein Publikum auf ganz besondere Weise.",
+        "link": "https://rausgegangen.de/en/events/ben-camden-dresden-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fl3SMAw8Qa6PYX6MsxTB_ben-camden-konzert-wildfiremusic-1jpg.jpg?width=1200&height=900&mode=crop",
+        "city": "Dresden"
+    },
+    {
+        "date": "Thu, 28.05.2026",
         "time": "18:15",
         "event": "Ein Glücksding - Nach Stimmen und Zeitzeugnissen von damals und heute (@Theater der Jungen Welt)",
         "category": "",
@@ -1476,166 +1478,6 @@
         "link": "https://rausgegangen.de/en/events/saturno-4000-ger-live-ilses-erika-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/SFNUVw9zQMCTEB4lQ49K_saturno4000.jpg?width=1200&height=900&mode=crop",
         "city": "Leipzig"
-    },
-    {
-        "date": "Thu, 28.05.2026",
-        "time": "20:00",
-        "event": "Ben Camden (@Ostpol Dresden)",
-        "category": "",
-        "description": "Der australische Singer-Songwriter Ben Camden kehrt im Frühjahr 2026 nach Europa und Großbritannien zurück!Nach der Veröffentlichung seines dritten Albums „Sunflowers“ im Jahr 2025 wird Ben Songs und Geschichten aus seinem kommenden vierten Album präsentieren – ebenso wie alte Favoriten und brandneues Material. Verpasst nicht die Gelegenheit, einen intimen und herzerwärmenden Abend mit Ben Camden zu erleben!Authentisch und aufrichtig: Bens Aufwachsen im ländlichen Australien sowie seine Zeit in Fidschi und Europa haben einen unverwechselbaren Sound geprägt – nostalgisch vertraut und zugleich genreübergreifend. Vom Straßenmusiker in Byron Bay zum hauptberuflich tourenden Künstler wechselt Ben Camden mühelos zwischen sanften Akustikballaden und mitreißendem Folk-Rock. Mit seiner bodenständigen Bühnenpräsenz, charmanten Geschichten zwischen den Songs und nahbaren Texten berührt er sein Publikum auf ganz besondere Weise.",
-        "link": "https://rausgegangen.de/en/events/ben-camden-dresden-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fl3SMAw8Qa6PYX6MsxTB_ben-camden-konzert-wildfiremusic-1jpg.jpg?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Thu, 28.05.2026",
-        "time": "15:00",
-        "event": "Shopping-Tour \"Hamburgs Szeneviertel\" (@Feldstraße)",
-        "category": "",
-        "description": "Auf der Shopping-Tour durch Hamburgs Szeneviertel zeigt sich die Stadt von ihrer eigenwilligen und kreativen Seite. Du entdeckst unabhängige Läden mit Charakter und erfährst Geschichten, die in keinem Reiseführer stehen. Deine Lieblingsstücke kannst du in einem nachhaltigen Jutebeutel direkt mitnehmen 🫂",
-        "link": "https://rausgegangen.de/en/events/shopping-tour-hamburgs-szeneviertel-33/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zHd1vuSsOUMbIzkXiMAY_copilot20260320172124.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Thu, 28.05.2026",
-        "time": "18:30",
-        "event": "Drunken Masters • DIE DEMONTAGE GEHT WEITER (@Grosse Freiheit 36)",
-        "category": "",
-        "description": "Drunken Masters heißt Abriss, Moshpit und die beste Party, die du erleben kannst. Bierdusche und Texte zum mitgrölen inklusive. Wer hier nicht war, hat noch nicht richtig gefeiert, also lass mal gemeinsam auf DEMONTAGE 💥🤝  und wenn am nächsten Tag der Kopf dröhnt, dann macht Ibu ja bekanntlich den Meister 🙃",
-        "link": "https://rausgegangen.de/en/events/drunken-masters-die-demontage-geht-weiter-18/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Melx5YMYSS24e73dQ32Q_51946506411599753061649575621090418711509552n.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Thu, 28.05.2026",
-        "time": "19:00",
-        "event": "Beats & Meets (@Cascadas)",
-        "category": "",
-        "description": "Beats & Meets: Oldschool Hip-Hop & R’n’B Date Night ist dein Abend für echte Begegnungen, gute Drinks und musikalische Emotionen, die mitten ins Herz treffen.Dich erwartet ein handverlesener Mix aus R’n’B, Hip-Hop & smooth Love Grooves – Musik, die bewegt, verbindet und den Abend fließen lässt. Kein DJ-Set-Druck, kein Speed-Dating – just atmosphere, rhythm & connection.The kind of night that begins with eye contact and ends with a spark. Ob du mitsingst, tanzt oder einfach die Stimmung genießt – hier zählt nur der Moment. 🕖 Zeitplan:Einlass: ab 19:00 UhrLetzter Einlass: 20:00 UhrEnde: 23:00 Uhr📍 Location: Cascadas, Ferdinandstraße 12, Hamburg 🪪 Eintritt ab 21 Jahren (Ausweis erforderlich) 🎟️ Tickets:Early Bird: 10 €Regular: 15 €Abendkasse: 20 € (nur falls Kapazität verfügbar)🥂 Viele Gäste (ca. 40 %) kommen solo – also keine Scheu, allein vorbeizuschauen. It’s all about good vibes, open minds, and real people. NO SWIPE. JUST VIBE.👉 Save the Date – 28.05.2026 @ Cascadas Hamburg Follow us on Instagram: @beatsandmeets",
-        "link": "https://rausgegangen.de/en/events/beats-meets-4/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/k6gg6Yj6QD6ncwUj99em_beatsandmeets-flyer-2026.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Thu, 28.05.2026",
-        "time": "19:00",
-        "event": "Bezzer Quizzer Pubquiz (@Q21 Gasthaus)",
-        "category": "",
-        "description": "Willkommen zum größten Live-Pubquiz der Stadt mit den Bezzer Quizzern! Meldet Euch jetzt an und seid Teil dieses aufregenden Quiz-Events. 🧠🤓🧠 Wer kann teilnehmen? Bei uns ist wirklich jeder herzlich willkommen – bitte bedenkt jedoch, dass das Quiz auf Deutsch stattfindet und die Fragen und Aufgaben eher auf ein erwachsenes Publikum ausgerichtet sind.Euer Team darf aus maximal 8 Personen bestehen.🏆 Was könnt Ihr gewinnen? 🥇 Auf jedes Mitglied des Siegerteams warten verschiedene Gewinne (für max. 8 Personen) 🥈 Das zweitplatzierte Team erhält ein ebenfalls sensationelles, etwas kleineres, Gewinnpaket 🍻 (für max. 8 Personen) 🥉 Und der dritte Platz? Lasst Euch überraschen! 📸🤓🤓 Welche Kategorien erwarten Euch? Unser Quiz deckt ein breites Allgemeinwissen ab, von Kunst & Kultur über Bezzer Quizzer Wizzen bis hin zu Food & Drinks, Sport & Spiel, Geographie, Geschichte, Musik und vielem mehr. Nicht in jedem Quiz ist jede dieser Kategorien vertreten, es soll ja abwechslungsreich bleiben, in jedem Fall wird es aber spannend, herausfordernd und garantiert unterhaltsam!💰 Was kostet die Teilnahme? Ab Verkaufsstart bis 2 Wochen vor Event-Datum: 14,99 € pro Person Ab 2 Wochen vor Event-Datum: 17,99 € pro Person (Abendkasse, nach Verfügbarkeit: 20 €, zahlbar mit Karte)📍 Wo findet das Quiz statt? Q21 Gasthaus, Fuhlsbüttlerstraße 405, 22039 Hamburg🕖 Wann geht's los? Der Einlass beginnt um 18:00 Uhr, das Quiz startet pünktlich um 19:00 Uhr. Wir empfehlen Euch rechtzeitig da zu sein, denn...🍻 ... die Küche vom Q21 sorgt für Euer leibliches Wohl und begleitet Euch am Pubquiz-Abend mit einer tollen Speisekarte. Der perfekte Zeitpunkt für’s Essen ist vor dem Quiz. Ihr könnt aber natürlich auch während des Quiz’ genüsslich vor Euch hin schnabulieren.📸 Beim Event werden regelmäßig Fotos und Videos für unsere Social Media Kanäle und unsere Website gemacht. Ihr wollt nicht fotografiert oder gefilmt werden? Dann gebt uns bitte direkt beim Einlass bescheid.Wir freuen uns riesig, wenn Ihr den Abend mit uns verbringtEure Gastgeber Elias 🤓 & Felix 🤓Für weitere Informationen besucht unsere Website: www.bezzerquizzer.de oder schaut auch mal bei Insta vorbei www.instagram.com/bezzer_quizzer",
-        "link": "https://rausgegangen.de/en/events/bezzer-quizzer-pubquiz-68/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BuLehjeT9yFTsXnPfxNQ_rausgegangen-hamburg.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Thu, 28.05.2026",
-        "time": "19:00",
-        "event": "Comedyflash - Die Stand Up Comedy Show in Hamburg (@Comedy Club Hamburg)",
-        "category": "",
-        "description": "Comedyflash – die Stand-up Comedy Show in HamburgErlebe in unserer Live Show eine spannende Mischung aus etablierten Comedy-Größen, bekannt aus TikTok, Instagram und TV, und frischen Talenten, die gerade die Stand-up-Szene erobern. Freue dich auf eine professionelle Show in bester Lage an der Reeperbahn mitten im Hamburger Nachtleben, ein authentischer Comedy-Club mit gemütlicher Bar-Atmosphäre und rund 90 Minuten Live-Stand-up vom Feinsten.Was ist Comedyflash?Comedyflash ist eine erfolgreiche, deutschsprachige Stand-up-Comedy-Showreihe, die 2020 in Berlin gegründet wurde und heute in über 100 Städten in Deutschland, Österreich und der Schweiz gastiert. Die Show steht für authentische Live Stand-up Comedy nach amerikanischem Vorbild – persönlich, direkt und immer nah am Publikum. Wechselnde, handverlesene Line-ups und zentrale Spielorte machen Comedyflash zu einer festen Größe in der Szene.  FAQEinlass? – Bitte sei für einen reibungslosen Ablauf 30 Minuten vor Showbeginn da und suche dir in Ruhe einen Sitzplatz. Der Einlass wird noch bis 5 Minuten nach Showbeginn gewährt.Ablauf? – Ein Host leitet durch den Abend und sorgt für Stimmung und einen reibungslosen Ablauf. Nach etwa 45 Minuten gibt es eine 10-minütige Pause für Getränke oder eine kurze Auszeit drinnen oder draußen.Ticket ausgedruckt nötig? – Nein, auf dem Handy reicht.Freie Platzwahl? – Ja.Stornieren? – Bis 24 h vor Beginn der Veranstaltung erstatten wir dir dein Ticket. Dir ist noch kurzfristiger was dazwischen gekommen? Melde dich, wir finden eine Lösung.Erreichbarkeit & Parken? – Station Reeperbahn (S1/S3/S7), oder Station St. Pauli (U3). Parken ist schwierig, öffentliche Verkehrsmittel empfohlen.Barrierefrei? – Show-Raum ja, Sanitäreinrichtungen leider nicht.Rauchen gestattet? – Nein, nur vor der Tür.Wer tritt auf? – Lass dich überraschen. Es wird ein guter Mix aus Profi-Comedians und Newcomern. Gibt es Essen? – Nur kleine Snacks wie Nüsse und Chips. Getränke in großer Auswahl.",
-        "link": "https://rausgegangen.de/en/events/comedyflash-die-stand-up-comedy-show-in-hamburg-16/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vbYwyI5VTVGpa0NeIS6g_kachelcomedyflash-hhrausgegangen.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Thu, 28.05.2026",
-        "time": "19:00",
-        "event": "Freche Möwe - Stand-Up Comedy im Monkeys Music Club (@Monkeys Music Club)",
-        "category": "",
-        "description": "In der Reihe Freche Möwe steuern acht Comedians mit frischen Ideen durch die Facetten des Alltags und überraschende Absurditäten. Die Hamburger Szene zeigt hier authentischen Humor, der dir den Abend mit angenehmer Atmosphäre versüßt. Es erwartet dich lebendige Stand-up-Unterhaltung 🙂‍↕️",
-        "link": "https://rausgegangen.de/en/events/freche-mowe-stand-up-comedy-im-monkeys-music-club-105/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6k26OSwaSHaGP3aIDFYQ_4.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Thu, 28.05.2026",
-        "time": "19:00",
-        "event": "Only | Taktloss, Retrogott und Hulk Hodn, Shacke One (@Übel & Gefährlich)",
-        "category": "",
-        "description": "Taktloss, Retrogott & Hulk Hodn, Shacke One – Live  Am 28.05.2026 treten Taktloss, Retrogott & Hulk Hodn sowie Shacke One im Uebel & Gefährlich in Hamburg auf.  Host: Bee Low Aftershow: DJ Marc Hype  Weitere Programmpunkte: Talk mit Davis One („Eine Stadt wird bunt“) Live Painting: DXTR The Weird",
-        "link": "https://rausgegangen.de/en/events/only-taktloss-retrogott-und-hulk-hodn-shacke-one-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bFae4oNeR3uDZ7YqIhP2_only-facebookveranstaltung.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Thu, 28.05.2026",
-        "time": "19:00",
-        "event": "The Pighounds (@BETTY)",
-        "category": "",
-        "description": "The Pighounds: Das ist Grunge aus Dortmund Ein Duo das klingt wie fünf. Energetisch, dynamisch, laut, leise, gefühlvoll und brachial.Kein Jahr ist seit dem letzten Album-Release vergangen und The Pighounds melden sich mit einer neuen Single aus der Winterpause zurück. „ZERREISS DIR NICHT DAS MAUL“ ist, wie man es von Peter und Sandro kennt, thematisch gewohnt nah am Alltag, aber alles andere als alltäglichen für das Duo aus Dortmund. Erstmals gibt es einen Song mit ausschliesslich deutschen Lyrics. Die Scheiße passiert vor der Haustür, lasst es uns sagen, wie es ist. The Pighounds entwickeln sich permanent weiter, machen sich wenig Gedanken über musikalische Grenzen und Regeln. Der nächste Schritt ist gemacht, es wird Klartext geredet. Gegen jegliche Form von Diskriminierung und Hass.Zum Jahreswechsel 25/26 wurde es etwas still bei den Pighounds, Schlagzeuger Alessandro De Luca musste an der Schulter operiert werden und fällt Monate aus. Doch die Pighounds waren fleißig und haben bereits vor der OP neues Material geschrieben und die Drum-Tracks aufgenommen. So konnte die Zwangspause genutzt werden um die Produktion der Songs abzuschließen. Dabei sind drei Titel entstanden, die das Duo im Frühling 2026 veröffentlichen wird. Ein neues Album ist für dieses Jahr noch nicht geplant, da die Band erst 2025 ihren letzten Langspieler „Tutti Frutti“ veröffentlichte. „Wir wollten die Zeit, in der ich nicht auftreten kann, nutzen und hatten Bock auf neue Songs.“ erläutert Drummer Sandro. Und nun ist es endlich soweit, die Songs werden nach und nach mit der Welt geteilt und es geht wieder los mit den Live-Shows. Wer The Pighounds schon live erleben durfte, freut sich auf das nächste Mal und für alle anderen wird es allerhöchste Zeit für diese mitreißende und schweißtreibende Konzerterfahrung.",
-        "link": "https://rausgegangen.de/en/events/the-pighounds-9/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GwikXHuDQcWJkzB1eUlz_pighounds-002michaelschwettman-scaled.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Thu, 28.05.2026",
-        "time": "19:30",
-        "event": "Abigail - Antagonizör - Necromancer (@Bambi galore)",
-        "category": "",
-        "description": "Mit Abigail kommt eine der langlebigsten Black/Thrash-Institutionen aus Tokio nach Hamburg – seit 1992 aktiv und bekannt für ihren rohen, kompromisslosen Mix aus frühem Black Metal und dreckigem Thrash . Dazu Antagonizör aus den USA, die Metal und Punk ohne Umwege ineinander fahren und eher nach Straße als nach Studio klingen. Komplettiert wird der Abend von Necromancer aus Rostock, die klassischen Black/Thrash in norddeutscher Kälte durchziehen und genau wissen, wie man das Ganze live auf den Punkt bringt.",
-        "link": "https://rausgegangen.de/en/events/abigail-antagonizor-necromancer-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/UBI16lvNRSu18xqFnRm0_1282photo.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Thu, 28.05.2026",
-        "time": "19:30",
-        "event": "Empowerment meets Art - Workshop (@Mikro Studios)",
-        "category": "",
-        "description": "Ein kreativer Workshop für Frauen um mit Hilfe von Kunst die innere Stärke und Verbundenheit mit dem eigenen Körper wiederherzustellen, die wir durch das aufwachsen in einer patriarchalen Gesellschaft verloren haben.Wir erschaffen ein ganz persönliches empowerment Kunstwerk für zuhause, damit Teilnehmerinnen auch Zuhause, lange nach dem Workshop daran erinnert werden ihren Körper zu lieben. Der Workshop eignet sich auch sehr gut als Solo-Date, wenn du dir etwas Premium Me-Time schenken möchtest! 🥰",
-        "link": "https://rausgegangen.de/en/events/empowerment-meets-art-workshop-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LfGeMumtRMyoUkzwMw6r_unbenannt-1.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Thu, 28.05.2026",
-        "time": "20:00",
-        "event": "Anthony's Attic - Support: mean flowers (@Hafenbahnhof)",
-        "category": "",
-        "description": "Anthony’s Attic - Indiewavepop mit britischer Schlagseite Bunt, drängend, melodiereich, spontan und ironisch Wir sind der Link zwischen Talking Heads und den Kinksmean flowers - punkenergie meets popmelodie alltagsthemen treffen political issues deutsche texte mischen sich mit english lyrics.Der Vorverkauf endet um 18 Uhr | Einlass 19 Uhr | Beginn 20 Uhrhttps://anthonysattic.bandcamp.com/music https://de-de.facebook.com/pages/category/Musician-Band/Anthonys-Attic-272737149904/ https://www.instagram.com/anthonys_attic/https://meanflowers.bandcamp.com/ https://www.instagram.com/mean.flowers/",
-        "link": "https://rausgegangen.de/en/events/anthonys-attic-support-mean-flowers-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/PEDiWjMnT8ybRWzkSSEF_anthonys-attic-foto.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Thu, 28.05.2026",
-        "time": "20:00",
-        "event": "Brachland (@Hamburger Sprechwerk)",
-        "category": "",
-        "description": "eine Produktion von „Wenn Orte Sprechen“ in Kooperation mit „Festival für Freunde e.V.“ Spiel: Marie Golüke und Sebastian David Geige, Hang und Sounds: Sebastian David Regie und Skript: Julia Strehler Technik: Armando Perez Gonzales Produktion: Marie Golüke Kurz vor der Wende wird Maik stellvertretender Betriebsleiter des LPG-Kuhstalls. 700 Kühe sind der Stolz des ganzen Dorfes. Aber dann rollen die Ereignisse von 1989 und den Folgejahren über den Kuhstall hinweg. Maik versucht, die Kühe zu übernehmen, scheitert aber an den Kreditbedingungen der Banken. Für seine herzkranke Tochter Marina bedeutet die Wende die Rettung. Nur im Westen kann die entscheidende Operation durchgeführt werden. Marina träumt als Jugendliche von einem freien und wilden Leben. Um der Enge des Dorfs zu entfliehen, zieht sie nach München. Der Kuhstall verwaist, Maik verliert seinen Lebensinhalt und die Hoffnung auf eine bessere Zukunft. Marina wird eine erfolgreiche Performerin, aber sie kann eine der Kühe, mit denen sie aufgewachsen ist, nie vergessen. Kuh Nr. 32, von ihr liebevoll Karla genannt, wird für sie in einer Krisensituation zu einer inneren Wegweiserin, um nach Jahren des Umhervagabundierens eine folgenreiche und mutige Entscheidung zu treffen.  Das Stück Brachland erzählt eine Wendegeschichte über Verlust und Neuanfang. Es beleuchtet, wie Vater und Tochter auf den Zusammenbruch der DDR reagieren und zeigt ihre Lebenswege bis in die Gegenwart. Es fragt nach den bestimmenden Werten von Identität, Freiheit, Gemeinschaft und Respekt. Brachland basiert auf biografischen Erzählungen und wurde für die Premiere im August 2024 am historischen Ort, dem ehemaligen LPG-Kuhstall in Dahnsdorf (Brandenburg), in Szene gesetzt.www.wennortesprechen.de Gefördert vom Fonds Soziokultur, dem PFD Hoher Fläming und der Mittelbrandenburgischen Sparkasse Potsdam. Kartenpreise:VVK: 20,50 €, ermäßigt 12,80 €AK: 22,00 €, ermäßigt 15,00 € Do 28.05.26 um 20 UhrFr 29.05.26 um 20 Uhr",
-        "link": "https://rausgegangen.de/en/events/brachland-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OpC33o2cSoOlVQt8Syqg_brachland1814foto-laura-elisa-langeke.JPG?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Thu, 28.05.2026",
-        "time": "20:00",
-        "event": "Reeperbahn Comedy Club (@Reeperbahn Comedy Club)",
-        "category": "",
-        "description": "Hier haben alle, ob Anfänger:in oder Profi, eins gemein: sie bringen dich sicher zum lachen. Damit wird auch der graueste Hamburger Wintertag sicher etwas sonniger. Und wenn du dich selbst mal in der Comedy-Welt erproben willst, nur zu: melde dich beim RCC und gib auf der Bühne dein Bestes.",
-        "link": "https://rausgegangen.de/en/events/reeperbahn-comedy-club-508/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TgqcTl1RE6pJNU8TeK4e_69355486_982868652059330_3106427241060368384_o.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Thu, 28.05.2026",
-        "time": "20:00",
-        "event": "SCHNACK Stand-Up Comedy im Haus73 - Comedy auf der Schanze (@Haus 73)",
-        "category": "",
-        "description": "Lachen garantiert bei SCHNACK – dem Stand-Up Open Mic in Hamburg! 6-8 Comedians testen ihre brandneuen Jokes, von Newcomern bis Bühnenveteranen. 🤣 Sei dabei und erlebe Comedy-Stars von morgen! 🌟🎤",
-        "link": "https://rausgegangen.de/en/events/schnack-stand-up-comedy-im-haus73-comedy-auf-der-schanze-47/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ocExnlVZTIy5PprQEsma_16b9-rgg.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Thu, 28.05.2026",
-        "time": "20:00",
-        "event": "St. Pauli Comedy Club (@Reeperbahn Comedy Club)",
-        "category": "",
-        "description": "Der St. Pauli Comedy Club verlegt seinen humorvollen Mix aus Stand-up, Satire und Improvisation vorübergehend an einen bekannten Ort mit viel Comedie-Erfahrung. Hier findest du eine bunte Showreihe, die dich mit frischen Gags und überraschenden Einlagen versorgt 🫂",
-        "link": "https://rausgegangen.de/en/events/st-pauli-comedy-club-612/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/KkMBRbXQvgFFJVZ9pgqg_shine.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
     },
     {
         "date": "Thu, 28.05.2026",
@@ -1919,6 +1761,156 @@
     },
     {
         "date": "Thu, 28.05.2026",
+        "time": "15:00",
+        "event": "Shopping-Tour \"Hamburgs Szeneviertel\" (@Feldstraße)",
+        "category": "",
+        "description": "Auf der Shopping-Tour durch Hamburgs Szeneviertel zeigt sich die Stadt von ihrer eigenwilligen und kreativen Seite. Du entdeckst unabhängige Läden mit Charakter und erfährst Geschichten, die in keinem Reiseführer stehen. Deine Lieblingsstücke kannst du in einem nachhaltigen Jutebeutel direkt mitnehmen 🫂",
+        "link": "https://rausgegangen.de/en/events/shopping-tour-hamburgs-szeneviertel-33/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zHd1vuSsOUMbIzkXiMAY_copilot20260320172124.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 28.05.2026",
+        "time": "18:30",
+        "event": "Drunken Masters • DIE DEMONTAGE GEHT WEITER (@Grosse Freiheit 36)",
+        "category": "",
+        "description": "Drunken Masters heißt Abriss, Moshpit und die beste Party, die du erleben kannst. Bierdusche und Texte zum mitgrölen inklusive. Wer hier nicht war, hat noch nicht richtig gefeiert, also lass mal gemeinsam auf DEMONTAGE 💥🤝  und wenn am nächsten Tag der Kopf dröhnt, dann macht Ibu ja bekanntlich den Meister 🙃",
+        "link": "https://rausgegangen.de/en/events/drunken-masters-die-demontage-geht-weiter-18/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Melx5YMYSS24e73dQ32Q_51946506411599753061649575621090418711509552n.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 28.05.2026",
+        "time": "19:00",
+        "event": "Beats & Meets (@Cascadas)",
+        "category": "",
+        "description": "Beats & Meets: Oldschool Hip-Hop & R’n’B Date Night ist dein Abend für echte Begegnungen, gute Drinks und musikalische Emotionen, die mitten ins Herz treffen.Dich erwartet ein handverlesener Mix aus R’n’B, Hip-Hop & smooth Love Grooves – Musik, die bewegt, verbindet und den Abend fließen lässt. Kein DJ-Set-Druck, kein Speed-Dating – just atmosphere, rhythm & connection.The kind of night that begins with eye contact and ends with a spark. Ob du mitsingst, tanzt oder einfach die Stimmung genießt – hier zählt nur der Moment. 🕖 Zeitplan:Einlass: ab 19:00 UhrLetzter Einlass: 20:00 UhrEnde: 23:00 Uhr📍 Location: Cascadas, Ferdinandstraße 12, Hamburg 🪪 Eintritt ab 21 Jahren (Ausweis erforderlich) 🎟️ Tickets:Early Bird: 10 €Regular: 15 €Abendkasse: 20 € (nur falls Kapazität verfügbar)🥂 Viele Gäste (ca. 40 %) kommen solo – also keine Scheu, allein vorbeizuschauen. It’s all about good vibes, open minds, and real people. NO SWIPE. JUST VIBE.👉 Save the Date – 28.05.2026 @ Cascadas Hamburg Follow us on Instagram: @beatsandmeets",
+        "link": "https://rausgegangen.de/en/events/beats-meets-4/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/k6gg6Yj6QD6ncwUj99em_beatsandmeets-flyer-2026.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 28.05.2026",
+        "time": "19:00",
+        "event": "Bezzer Quizzer Pubquiz (@Q21 Gasthaus)",
+        "category": "",
+        "description": "Willkommen zum größten Live-Pubquiz der Stadt mit den Bezzer Quizzern! Meldet Euch jetzt an und seid Teil dieses aufregenden Quiz-Events. 🧠🤓🧠 Wer kann teilnehmen? Bei uns ist wirklich jeder herzlich willkommen – bitte bedenkt jedoch, dass das Quiz auf Deutsch stattfindet und die Fragen und Aufgaben eher auf ein erwachsenes Publikum ausgerichtet sind.Euer Team darf aus maximal 8 Personen bestehen.🏆 Was könnt Ihr gewinnen? 🥇 Auf jedes Mitglied des Siegerteams warten verschiedene Gewinne (für max. 8 Personen) 🥈 Das zweitplatzierte Team erhält ein ebenfalls sensationelles, etwas kleineres, Gewinnpaket 🍻 (für max. 8 Personen) 🥉 Und der dritte Platz? Lasst Euch überraschen! 📸🤓🤓 Welche Kategorien erwarten Euch? Unser Quiz deckt ein breites Allgemeinwissen ab, von Kunst & Kultur über Bezzer Quizzer Wizzen bis hin zu Food & Drinks, Sport & Spiel, Geographie, Geschichte, Musik und vielem mehr. Nicht in jedem Quiz ist jede dieser Kategorien vertreten, es soll ja abwechslungsreich bleiben, in jedem Fall wird es aber spannend, herausfordernd und garantiert unterhaltsam!💰 Was kostet die Teilnahme? Ab Verkaufsstart bis 2 Wochen vor Event-Datum: 14,99 € pro Person Ab 2 Wochen vor Event-Datum: 17,99 € pro Person (Abendkasse, nach Verfügbarkeit: 20 €, zahlbar mit Karte)📍 Wo findet das Quiz statt? Q21 Gasthaus, Fuhlsbüttlerstraße 405, 22039 Hamburg🕖 Wann geht's los? Der Einlass beginnt um 18:00 Uhr, das Quiz startet pünktlich um 19:00 Uhr. Wir empfehlen Euch rechtzeitig da zu sein, denn...🍻 ... die Küche vom Q21 sorgt für Euer leibliches Wohl und begleitet Euch am Pubquiz-Abend mit einer tollen Speisekarte. Der perfekte Zeitpunkt für’s Essen ist vor dem Quiz. Ihr könnt aber natürlich auch während des Quiz’ genüsslich vor Euch hin schnabulieren.📸 Beim Event werden regelmäßig Fotos und Videos für unsere Social Media Kanäle und unsere Website gemacht. Ihr wollt nicht fotografiert oder gefilmt werden? Dann gebt uns bitte direkt beim Einlass bescheid.Wir freuen uns riesig, wenn Ihr den Abend mit uns verbringtEure Gastgeber Elias 🤓 & Felix 🤓Für weitere Informationen besucht unsere Website: www.bezzerquizzer.de oder schaut auch mal bei Insta vorbei www.instagram.com/bezzer_quizzer",
+        "link": "https://rausgegangen.de/en/events/bezzer-quizzer-pubquiz-68/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BuLehjeT9yFTsXnPfxNQ_rausgegangen-hamburg.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 28.05.2026",
+        "time": "19:00",
+        "event": "Comedyflash - Die Stand Up Comedy Show in Hamburg (@Comedy Club Hamburg)",
+        "category": "",
+        "description": "Comedyflash – die Stand-up Comedy Show in HamburgErlebe in unserer Live Show eine spannende Mischung aus etablierten Comedy-Größen, bekannt aus TikTok, Instagram und TV, und frischen Talenten, die gerade die Stand-up-Szene erobern. Freue dich auf eine professionelle Show in bester Lage an der Reeperbahn mitten im Hamburger Nachtleben, ein authentischer Comedy-Club mit gemütlicher Bar-Atmosphäre und rund 90 Minuten Live-Stand-up vom Feinsten.Was ist Comedyflash?Comedyflash ist eine erfolgreiche, deutschsprachige Stand-up-Comedy-Showreihe, die 2020 in Berlin gegründet wurde und heute in über 100 Städten in Deutschland, Österreich und der Schweiz gastiert. Die Show steht für authentische Live Stand-up Comedy nach amerikanischem Vorbild – persönlich, direkt und immer nah am Publikum. Wechselnde, handverlesene Line-ups und zentrale Spielorte machen Comedyflash zu einer festen Größe in der Szene.  FAQEinlass? – Bitte sei für einen reibungslosen Ablauf 30 Minuten vor Showbeginn da und suche dir in Ruhe einen Sitzplatz. Der Einlass wird noch bis 5 Minuten nach Showbeginn gewährt.Ablauf? – Ein Host leitet durch den Abend und sorgt für Stimmung und einen reibungslosen Ablauf. Nach etwa 45 Minuten gibt es eine 10-minütige Pause für Getränke oder eine kurze Auszeit drinnen oder draußen.Ticket ausgedruckt nötig? – Nein, auf dem Handy reicht.Freie Platzwahl? – Ja.Stornieren? – Bis 24 h vor Beginn der Veranstaltung erstatten wir dir dein Ticket. Dir ist noch kurzfristiger was dazwischen gekommen? Melde dich, wir finden eine Lösung.Erreichbarkeit & Parken? – Station Reeperbahn (S1/S3/S7), oder Station St. Pauli (U3). Parken ist schwierig, öffentliche Verkehrsmittel empfohlen.Barrierefrei? – Show-Raum ja, Sanitäreinrichtungen leider nicht.Rauchen gestattet? – Nein, nur vor der Tür.Wer tritt auf? – Lass dich überraschen. Es wird ein guter Mix aus Profi-Comedians und Newcomern. Gibt es Essen? – Nur kleine Snacks wie Nüsse und Chips. Getränke in großer Auswahl.",
+        "link": "https://rausgegangen.de/en/events/comedyflash-die-stand-up-comedy-show-in-hamburg-16/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vbYwyI5VTVGpa0NeIS6g_kachelcomedyflash-hhrausgegangen.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 28.05.2026",
+        "time": "19:00",
+        "event": "Freche Möwe - Stand-Up Comedy im Monkeys Music Club (@Monkeys Music Club)",
+        "category": "",
+        "description": "In der Reihe Freche Möwe steuern acht Comedians mit frischen Ideen durch die Facetten des Alltags und überraschende Absurditäten. Die Hamburger Szene zeigt hier authentischen Humor, der dir den Abend mit angenehmer Atmosphäre versüßt. Es erwartet dich lebendige Stand-up-Unterhaltung 🙂‍↕️",
+        "link": "https://rausgegangen.de/en/events/freche-mowe-stand-up-comedy-im-monkeys-music-club-105/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6k26OSwaSHaGP3aIDFYQ_4.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 28.05.2026",
+        "time": "19:00",
+        "event": "Only | Taktloss, Retrogott und Hulk Hodn, Shacke One (@Übel & Gefährlich)",
+        "category": "",
+        "description": "Taktloss, Retrogott & Hulk Hodn, Shacke One – Live  Am 28.05.2026 treten Taktloss, Retrogott & Hulk Hodn sowie Shacke One im Uebel & Gefährlich in Hamburg auf.  Host: Bee Low Aftershow: DJ Marc Hype  Weitere Programmpunkte: Talk mit Davis One („Eine Stadt wird bunt“) Live Painting: DXTR The Weird",
+        "link": "https://rausgegangen.de/en/events/only-taktloss-retrogott-und-hulk-hodn-shacke-one-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bFae4oNeR3uDZ7YqIhP2_only-facebookveranstaltung.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 28.05.2026",
+        "time": "19:00",
+        "event": "The Pighounds (@BETTY)",
+        "category": "",
+        "description": "The Pighounds: Das ist Grunge aus Dortmund Ein Duo das klingt wie fünf. Energetisch, dynamisch, laut, leise, gefühlvoll und brachial.Kein Jahr ist seit dem letzten Album-Release vergangen und The Pighounds melden sich mit einer neuen Single aus der Winterpause zurück. „ZERREISS DIR NICHT DAS MAUL“ ist, wie man es von Peter und Sandro kennt, thematisch gewohnt nah am Alltag, aber alles andere als alltäglichen für das Duo aus Dortmund. Erstmals gibt es einen Song mit ausschliesslich deutschen Lyrics. Die Scheiße passiert vor der Haustür, lasst es uns sagen, wie es ist. The Pighounds entwickeln sich permanent weiter, machen sich wenig Gedanken über musikalische Grenzen und Regeln. Der nächste Schritt ist gemacht, es wird Klartext geredet. Gegen jegliche Form von Diskriminierung und Hass.Zum Jahreswechsel 25/26 wurde es etwas still bei den Pighounds, Schlagzeuger Alessandro De Luca musste an der Schulter operiert werden und fällt Monate aus. Doch die Pighounds waren fleißig und haben bereits vor der OP neues Material geschrieben und die Drum-Tracks aufgenommen. So konnte die Zwangspause genutzt werden um die Produktion der Songs abzuschließen. Dabei sind drei Titel entstanden, die das Duo im Frühling 2026 veröffentlichen wird. Ein neues Album ist für dieses Jahr noch nicht geplant, da die Band erst 2025 ihren letzten Langspieler „Tutti Frutti“ veröffentlichte. „Wir wollten die Zeit, in der ich nicht auftreten kann, nutzen und hatten Bock auf neue Songs.“ erläutert Drummer Sandro. Und nun ist es endlich soweit, die Songs werden nach und nach mit der Welt geteilt und es geht wieder los mit den Live-Shows. Wer The Pighounds schon live erleben durfte, freut sich auf das nächste Mal und für alle anderen wird es allerhöchste Zeit für diese mitreißende und schweißtreibende Konzerterfahrung.",
+        "link": "https://rausgegangen.de/en/events/the-pighounds-9/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GwikXHuDQcWJkzB1eUlz_pighounds-002michaelschwettman-scaled.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 28.05.2026",
+        "time": "19:30",
+        "event": "Abigail - Antagonizör - Necromancer (@Bambi galore)",
+        "category": "",
+        "description": "Mit Abigail kommt eine der langlebigsten Black/Thrash-Institutionen aus Tokio nach Hamburg – seit 1992 aktiv und bekannt für ihren rohen, kompromisslosen Mix aus frühem Black Metal und dreckigem Thrash . Dazu Antagonizör aus den USA, die Metal und Punk ohne Umwege ineinander fahren und eher nach Straße als nach Studio klingen. Komplettiert wird der Abend von Necromancer aus Rostock, die klassischen Black/Thrash in norddeutscher Kälte durchziehen und genau wissen, wie man das Ganze live auf den Punkt bringt.",
+        "link": "https://rausgegangen.de/en/events/abigail-antagonizor-necromancer-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/UBI16lvNRSu18xqFnRm0_1282photo.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 28.05.2026",
+        "time": "19:30",
+        "event": "Empowerment meets Art - Workshop (@Mikro Studios)",
+        "category": "",
+        "description": "Ein kreativer Workshop für Frauen um mit Hilfe von Kunst die innere Stärke und Verbundenheit mit dem eigenen Körper wiederherzustellen, die wir durch das aufwachsen in einer patriarchalen Gesellschaft verloren haben.Wir erschaffen ein ganz persönliches empowerment Kunstwerk für zuhause, damit Teilnehmerinnen auch Zuhause, lange nach dem Workshop daran erinnert werden ihren Körper zu lieben. Der Workshop eignet sich auch sehr gut als Solo-Date, wenn du dir etwas Premium Me-Time schenken möchtest! 🥰",
+        "link": "https://rausgegangen.de/en/events/empowerment-meets-art-workshop-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LfGeMumtRMyoUkzwMw6r_unbenannt-1.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 28.05.2026",
+        "time": "20:00",
+        "event": "Anthony's Attic - Support: mean flowers (@Hafenbahnhof)",
+        "category": "",
+        "description": "Anthony’s Attic - Indiewavepop mit britischer Schlagseite Bunt, drängend, melodiereich, spontan und ironisch Wir sind der Link zwischen Talking Heads und den Kinksmean flowers - punkenergie meets popmelodie alltagsthemen treffen political issues deutsche texte mischen sich mit english lyrics.Der Vorverkauf endet um 18 Uhr | Einlass 19 Uhr | Beginn 20 Uhrhttps://anthonysattic.bandcamp.com/music https://de-de.facebook.com/pages/category/Musician-Band/Anthonys-Attic-272737149904/ https://www.instagram.com/anthonys_attic/https://meanflowers.bandcamp.com/ https://www.instagram.com/mean.flowers/",
+        "link": "https://rausgegangen.de/en/events/anthonys-attic-support-mean-flowers-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/PEDiWjMnT8ybRWzkSSEF_anthonys-attic-foto.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 28.05.2026",
+        "time": "20:00",
+        "event": "Brachland (@Hamburger Sprechwerk)",
+        "category": "",
+        "description": "eine Produktion von „Wenn Orte Sprechen“ in Kooperation mit „Festival für Freunde e.V.“ Spiel: Marie Golüke und Sebastian David Geige, Hang und Sounds: Sebastian David Regie und Skript: Julia Strehler Technik: Armando Perez Gonzales Produktion: Marie Golüke Kurz vor der Wende wird Maik stellvertretender Betriebsleiter des LPG-Kuhstalls. 700 Kühe sind der Stolz des ganzen Dorfes. Aber dann rollen die Ereignisse von 1989 und den Folgejahren über den Kuhstall hinweg. Maik versucht, die Kühe zu übernehmen, scheitert aber an den Kreditbedingungen der Banken. Für seine herzkranke Tochter Marina bedeutet die Wende die Rettung. Nur im Westen kann die entscheidende Operation durchgeführt werden. Marina träumt als Jugendliche von einem freien und wilden Leben. Um der Enge des Dorfs zu entfliehen, zieht sie nach München. Der Kuhstall verwaist, Maik verliert seinen Lebensinhalt und die Hoffnung auf eine bessere Zukunft. Marina wird eine erfolgreiche Performerin, aber sie kann eine der Kühe, mit denen sie aufgewachsen ist, nie vergessen. Kuh Nr. 32, von ihr liebevoll Karla genannt, wird für sie in einer Krisensituation zu einer inneren Wegweiserin, um nach Jahren des Umhervagabundierens eine folgenreiche und mutige Entscheidung zu treffen.  Das Stück Brachland erzählt eine Wendegeschichte über Verlust und Neuanfang. Es beleuchtet, wie Vater und Tochter auf den Zusammenbruch der DDR reagieren und zeigt ihre Lebenswege bis in die Gegenwart. Es fragt nach den bestimmenden Werten von Identität, Freiheit, Gemeinschaft und Respekt. Brachland basiert auf biografischen Erzählungen und wurde für die Premiere im August 2024 am historischen Ort, dem ehemaligen LPG-Kuhstall in Dahnsdorf (Brandenburg), in Szene gesetzt.www.wennortesprechen.de Gefördert vom Fonds Soziokultur, dem PFD Hoher Fläming und der Mittelbrandenburgischen Sparkasse Potsdam. Kartenpreise:VVK: 20,50 €, ermäßigt 12,80 €AK: 22,00 €, ermäßigt 15,00 € Do 28.05.26 um 20 UhrFr 29.05.26 um 20 Uhr",
+        "link": "https://rausgegangen.de/en/events/brachland-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/OpC33o2cSoOlVQt8Syqg_brachland1814foto-laura-elisa-langeke.JPG?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 28.05.2026",
+        "time": "20:00",
+        "event": "Reeperbahn Comedy Club (@Reeperbahn Comedy Club)",
+        "category": "",
+        "description": "Hier haben alle, ob Anfänger:in oder Profi, eins gemein: sie bringen dich sicher zum lachen. Damit wird auch der graueste Hamburger Wintertag sicher etwas sonniger. Und wenn du dich selbst mal in der Comedy-Welt erproben willst, nur zu: melde dich beim RCC und gib auf der Bühne dein Bestes.",
+        "link": "https://rausgegangen.de/en/events/reeperbahn-comedy-club-508/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TgqcTl1RE6pJNU8TeK4e_69355486_982868652059330_3106427241060368384_o.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 28.05.2026",
+        "time": "20:00",
+        "event": "SCHNACK Stand-Up Comedy im Haus73 - Comedy auf der Schanze (@Haus 73)",
+        "category": "",
+        "description": "Lachen garantiert bei SCHNACK – dem Stand-Up Open Mic in Hamburg! 6-8 Comedians testen ihre brandneuen Jokes, von Newcomern bis Bühnenveteranen. 🤣 Sei dabei und erlebe Comedy-Stars von morgen! 🌟🎤",
+        "link": "https://rausgegangen.de/en/events/schnack-stand-up-comedy-im-haus73-comedy-auf-der-schanze-47/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ocExnlVZTIy5PprQEsma_16b9-rgg.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 28.05.2026",
+        "time": "20:00",
+        "event": "St. Pauli Comedy Club (@Reeperbahn Comedy Club)",
+        "category": "",
+        "description": "Der St. Pauli Comedy Club verlegt seinen humorvollen Mix aus Stand-up, Satire und Improvisation vorübergehend an einen bekannten Ort mit viel Comedie-Erfahrung. Hier findest du eine bunte Showreihe, die dich mit frischen Gags und überraschenden Einlagen versorgt 🫂",
+        "link": "https://rausgegangen.de/en/events/st-pauli-comedy-club-612/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/KkMBRbXQvgFFJVZ9pgqg_shine.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Thu, 28.05.2026",
         "time": "20:00",
         "event": "GoldComedy - Der Hotspot für frische Comedy in Düsseldorf! (@Max Brown Hotel)",
         "category": "",
@@ -1956,12 +1948,12 @@
         "link": "https://www.bielefeld.jetzt/node/1753290"
     },
     {
-        "date": "Fri, 29.05",
-        "time": "22:00",
-        "event": "We Outside 16+ (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/we-outside-16-29052026-2200",
-        "image_url": "https://www.club-sams.de/data/202604/LOGO_ONLY_pr_setnation_Einladung_Quadrat__150_1.png?v=1777453613"
+        "date": "Fr, 29.05.2026",
+        "time": "17:30",
+        "event": "Star Wars: The Mandalorian & Grogu 3D (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Science-Fiction & Abenteuer & Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Fr, 29.05.2026",
@@ -1994,14 +1986,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Fr, 29.05.2026",
-        "time": "14:00",
-        "event": "Star Wars: The Mandalorian & Grogu 3D (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Science-Fiction & Abenteuer & Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Fri, 29.05",
@@ -2082,24 +2066,12 @@
         "link": "https://theaterlabor.eu/events/theaterlabor-wie-erzaehlen-wir-das-jetzt/"
     },
     {
-        "date": "Fri, 29.05.2026",
-        "time": "20:00",
-        "event": "Estefanía Álvarez Ramírez & Luisa Fernanda Alfonso ›Quinceañeras‹ (@PACT Zollverein)",
-        "category": "",
-        "description": "Estefanía Álvarez Ramírez und Luisa Fernanda Alfonso spinnen die Tradition der Quinceañera neu und setzen ihren Fokus auf Selbstbestimmung statt Auflage. Aus der Perspektive als Migrantinnen zeigen sie, wie Rituale gleichermaßen befreien und begrenzen können. Hier verschmilzt Tanz mit Musik zu einer vielschichtigen Erzählung voller Gefühl und Energie 🫂",
-        "link": "https://rausgegangen.de/en/events/estefania-alvarez-ramirez-luisa-fernanda-alfonso-quinceanera-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LvDXFjdZRpOrfZYrSGJn_-stine-sampers.png?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Fri, 29.05.2026",
-        "time": "20:00",
-        "event": "Arsen & Spitzenhäubchen (@Theater Courage - so spielt das Leben!)",
-        "category": "",
-        "description": "Komödie von Joseph Kesselring  Der bekannte Theaterkritiker Mortimer entdeckt, dass seine beiden Tanten Abby und Martha ein seltsames \"Hobby\" haben: Sie vergiften ältere, alleinstehende Herren mit Arsen, um ihnen den Abschied vom Leben zu erleichtern und lassen sie von Mortimers geistesgestörten Bruder Teddy im Keller begraben. Und ausgerechnet jetzt kommt Mortimers weiterer Bruder Jonathan, ein gesuchter Mörder, auf die Idee, seinen alten Tanten einen Besuch abzustatten - mit einer weiteren Leiche im Gepäck.... Wie nun Mortimer versucht, das mörderische Hobby seiner Tanten vor der Polizei und vor seinem kriminellen Bruder Jonathan geheimzuhalten, ist ein riesiger Mordsspaß fürs Publikum. Das Theater Courage hat das klassische Bühnenstück aus den 40er Jahren in eine peppig- temporeiche Version umgesetzt. PRÄDIKAT: LUSTIG! \"Arsen und Spitzenhäubchen\" ist die Mutter aller schwarzen Komödien. Witzig, turbulent und bitterböse. (Nicht nur) für alle, die eine Leiche im Keller haben, ist dieser Slapstick-Spaß zu empfehlen! Stücklänge: zweieinhalb Stunden mit Pause. Eintritt: 18 Euro Vollpreis, Studierende / Arbeitslose (mit gültiger Bescheinigung) 12,00 € und Schüler bis 18 Jahre 10,00 €, Rollstuhlfahrer/in mit Begl.: 22,00 €  ACHTUNG: - Ticketkauf via Internet z. Zt. NICHT möglich! - Vorbestellung per Telefon (0201/791466, Bürozeiten: 11.30 - 17.30 Uhr). - Vorbestellung per Mail (theatercourage@t-online.de) - Eintritt pro Person 18 Euro (bzw. 12/10 Euro) in bar und möglichst passend. - Einlass ab einer halben Stunde vor Beginn.",
-        "link": "https://rausgegangen.de/en/events/arsen-spitzenhaubchen-6/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Ez3iQ6wTn2JLR5GgLA3Q_fatze.jpg?width=1200&height=900&mode=crop",
-        "city": "Essen"
+        "date": "Fri, 29.05",
+        "time": "22:00",
+        "event": "We Outside 16+ (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/we-outside-16-29052026-2200",
+        "image_url": "https://www.club-sams.de/data/202604/LOGO_ONLY_pr_setnation_Einladung_Quadrat__150_1.png?v=1777453613"
     },
     {
         "date": "Fri, 29.05.2026",
@@ -2233,56 +2205,6 @@
     },
     {
         "date": "Fri, 29.05.2026",
-        "time": "11:00",
-        "event": "ROCKOKO – MAI:COMPANY / Patricia Carolin Mai (@Kampnagel / K6)",
-        "category": "",
-        "description": "Über 100 Menschen, eine große Bühne, verschiedene Körper, Biografien und Perspektiven - vereint in einem vielstimmigen Ensemble: In ROCKOKO untersucht Patricia Carolin Mai mit der MAI:COMPANY, wie Körper gesehen, gelesen und bewertet werden. Auf Kampnagels größter Bühne treffen Performer:innen verschiedener Generationen, Herkünfte und Lebensrealitäten aufeinander und verhandeln Körperbilder, Sichtbarkeit und Zugehörigkeit neu.Inspiriert von der Rokoko-Ästhetik und übersetzt in eine heutige, kraftvolle Bühnensprache entsteht ein Tanzstück über Wahrnehmung, kollektive Energie und die Frage, wer wie sichtbar wird. Eine zentrale Rolle spielen dabei die Röcke: Sie werden zu bewegten Skulpturen, Schutzraum, Statement und choreografischem Werkzeug. Entstanden sind sie in Zusammenarbeit mit Made auf Veddel, einem Hamburger Verein, der Menschen mit Migrationsgeschichte über Textilhandwerk, Gestaltung und Empowerment verbindet. Zwischen den Menschen, die die Röcke gefertigt haben, und den Performer:innen entstehen persönliche Bezüge: Jeder Rock trägt eigene Spuren, Geschichten und Bedeutungen in die Choreografie.ROCKOKO ist opulent, körperlich und politisch: eine große Tanzproduktion über Blicke, Körperbilder, Gemeinschaft und Sichtbarkeit.",
-        "link": "https://rausgegangen.de/en/events/rockoko-maicompany-patricia-carolin-mai-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/mXc9sHrfRE2oqEql0DvS_maicompanypatricia-carolin-mai-c-heike-schluckebier-21.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 29.05.2026",
-        "time": "17:00",
-        "event": "Nachtflohmarkt in der Gleishalle (@Gleishalle Oberhafen)",
-        "category": "",
-        "description": "Die Gleishalle Oberhafen verwandelt sich in ein hyggeliges Paradies für alle, die Vintage-Schätze und handgemachte Einzelstücke mögen. Dazu gibt’s Streetfood und Live-Musik unter Lichterketten – perfekt, um entspannt zu stöbern und Neues zu entdecken 🪩",
-        "link": "https://rausgegangen.de/en/events/nachtflohmarkt-in-der-gleishalle-26/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/CiYWO8gYRYCgOWypCyOG_1-118.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 29.05.2026",
-        "time": "18:00",
-        "event": "REALITY TV QUIZ - Hamburg (@Villa Viva Hamburg)",
-        "category": "",
-        "description": "Das Reality-TV-Quiz bringt Hamburgs Trash-Helden zusammen und lässt dich live mitraten, wer das Liebeskarussell verlassen oder das Lagerfeuer entfacht hat. Ob allein oder als Team, hier findest du deinen Platz im bunten Reality-Universum und kannst die heißesten Drama-Momente abgreifen 🤩",
-        "link": "https://rausgegangen.de/en/events/reality-tv-quiz-hamburg-18/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/HksLrYxCT5yNiDrh1uzR_rtvtlogo.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 29.05.2026",
-        "time": "18:00",
-        "event": "Sip & Pour: Friday Night Candle Making Workshop (@The Painting Room - Art Workshops Hamburg)",
-        "category": "",
-        "description": "Looking for the perfect way to unwind after a long week? 😌 Join me for a cozy Friday evening where you can just relax, sip, and pour. 🕯️🍷In this hands-on workshop, you will learn how to create your very own aesthetic fragrance candle from scratch. ✨ You'll get to experiment, mix your own custom scents 🌸🍋, and pour a beautiful candle that perfectly matches your vibe. No prior experience is needed—I will guide you through the whole process! To make the evening even sweeter, there will be wine 🥂 and delicious snacks 🥨 to enjoy while we craft. (If you prefer a non-alcoholic drink, just send me a quick message beforehand and I will happily arrange something tasty for you!)What to expect:☁️ A relaxed, creative Friday evening to disconnect and get crafty.🧪 Guidance on how to mix your own custom fragrance.🛍️ All the materials you need to make your own scented candle.🧀 Wine, snacks, and great company!Whether you come alone or bring a friend 👯‍♀️, it’s all about slowing down, getting creative, and taking home a beautiful custom candle made entirely by you. 💖",
-        "link": "https://rausgegangen.de/en/events/sip-pour-friday-night-candle-making-workshop-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fl97clTdQmedIbv2vNCt_screenshot-2026-05-05-at-182213.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 29.05.2026",
-        "time": "19:00",
-        "event": "Earthside (@Betty)",
-        "category": "",
-        "description": "Cinematic rock outfit Earthside have announced their debut foray into headlining some key European shows in May/June 2026 to round off the chapter for “Let The Truth Speak”.Earthside’s blend of cinematic post- rock tendencies with worldly collaborators bring a type of live energy that is unique and compelling amidst their peers. Earthside weaves between an instrumental band and one who is enhanced by visual elements and collaborators, presenting a unique show for all to see.",
-        "link": "https://rausgegangen.de/en/events/earthside-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/iFIg8oeXT6q3Az0PlqkM_5y0a9667-edit-1.jpg?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 29.05.2026",
         "time": "19:00",
         "event": "MAGIC MAIDS (@Theater RAMPE)",
         "category": "",
@@ -2374,6 +2296,26 @@
     {
         "date": "Fri, 29.05.2026",
         "time": "20:00",
+        "event": "Estefanía Álvarez Ramírez & Luisa Fernanda Alfonso ›Quinceañeras‹ (@PACT Zollverein)",
+        "category": "",
+        "description": "Estefanía Álvarez Ramírez und Luisa Fernanda Alfonso spinnen die Tradition der Quinceañera neu und setzen ihren Fokus auf Selbstbestimmung statt Auflage. Aus der Perspektive als Migrantinnen zeigen sie, wie Rituale gleichermaßen befreien und begrenzen können. Hier verschmilzt Tanz mit Musik zu einer vielschichtigen Erzählung voller Gefühl und Energie 🫂",
+        "link": "https://rausgegangen.de/en/events/estefania-alvarez-ramirez-luisa-fernanda-alfonso-quinceanera-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LvDXFjdZRpOrfZYrSGJn_-stine-sampers.png?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Fri, 29.05.2026",
+        "time": "20:00",
+        "event": "Arsen & Spitzenhäubchen (@Theater Courage - so spielt das Leben!)",
+        "category": "",
+        "description": "Komödie von Joseph Kesselring  Der bekannte Theaterkritiker Mortimer entdeckt, dass seine beiden Tanten Abby und Martha ein seltsames \"Hobby\" haben: Sie vergiften ältere, alleinstehende Herren mit Arsen, um ihnen den Abschied vom Leben zu erleichtern und lassen sie von Mortimers geistesgestörten Bruder Teddy im Keller begraben. Und ausgerechnet jetzt kommt Mortimers weiterer Bruder Jonathan, ein gesuchter Mörder, auf die Idee, seinen alten Tanten einen Besuch abzustatten - mit einer weiteren Leiche im Gepäck.... Wie nun Mortimer versucht, das mörderische Hobby seiner Tanten vor der Polizei und vor seinem kriminellen Bruder Jonathan geheimzuhalten, ist ein riesiger Mordsspaß fürs Publikum. Das Theater Courage hat das klassische Bühnenstück aus den 40er Jahren in eine peppig- temporeiche Version umgesetzt. PRÄDIKAT: LUSTIG! \"Arsen und Spitzenhäubchen\" ist die Mutter aller schwarzen Komödien. Witzig, turbulent und bitterböse. (Nicht nur) für alle, die eine Leiche im Keller haben, ist dieser Slapstick-Spaß zu empfehlen! Stücklänge: zweieinhalb Stunden mit Pause. Eintritt: 18 Euro Vollpreis, Studierende / Arbeitslose (mit gültiger Bescheinigung) 12,00 € und Schüler bis 18 Jahre 10,00 €, Rollstuhlfahrer/in mit Begl.: 22,00 €  ACHTUNG: - Ticketkauf via Internet z. Zt. NICHT möglich! - Vorbestellung per Telefon (0201/791466, Bürozeiten: 11.30 - 17.30 Uhr). - Vorbestellung per Mail (theatercourage@t-online.de) - Eintritt pro Person 18 Euro (bzw. 12/10 Euro) in bar und möglichst passend. - Einlass ab einer halben Stunde vor Beginn.",
+        "link": "https://rausgegangen.de/en/events/arsen-spitzenhaubchen-6/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Ez3iQ6wTn2JLR5GgLA3Q_fatze.jpg?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Fri, 29.05.2026",
+        "time": "20:00",
         "event": "comedyflash (@FOX Comedy Club)",
         "category": "",
         "description": "Comedyflash bringt echte Stand Up Comedy amerikanischer Prägung zu dir, mit erfahrenen Profis und frischen Stimmen aus der deutschen Szene. Die Show ist bekannt aus TikTok und Instagram und bietet dir einen authentischen Mix, der dich gut unterhalten wird 🫂",
@@ -2400,6 +2342,56 @@
         "link": "https://rausgegangen.de/en/events/hudcon-the-heated-rivalry-night-fzw-dortmund-1/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BHxKMVcsRcaYQw65r4dd_2026-05-29-hudcon-dortmund-banner.png?width=1200&height=900&mode=crop",
         "city": "Dortmund"
+    },
+    {
+        "date": "Fri, 29.05.2026",
+        "time": "11:00",
+        "event": "ROCKOKO – MAI:COMPANY / Patricia Carolin Mai (@Kampnagel / K6)",
+        "category": "",
+        "description": "Über 100 Menschen, eine große Bühne, verschiedene Körper, Biografien und Perspektiven - vereint in einem vielstimmigen Ensemble: In ROCKOKO untersucht Patricia Carolin Mai mit der MAI:COMPANY, wie Körper gesehen, gelesen und bewertet werden. Auf Kampnagels größter Bühne treffen Performer:innen verschiedener Generationen, Herkünfte und Lebensrealitäten aufeinander und verhandeln Körperbilder, Sichtbarkeit und Zugehörigkeit neu.Inspiriert von der Rokoko-Ästhetik und übersetzt in eine heutige, kraftvolle Bühnensprache entsteht ein Tanzstück über Wahrnehmung, kollektive Energie und die Frage, wer wie sichtbar wird. Eine zentrale Rolle spielen dabei die Röcke: Sie werden zu bewegten Skulpturen, Schutzraum, Statement und choreografischem Werkzeug. Entstanden sind sie in Zusammenarbeit mit Made auf Veddel, einem Hamburger Verein, der Menschen mit Migrationsgeschichte über Textilhandwerk, Gestaltung und Empowerment verbindet. Zwischen den Menschen, die die Röcke gefertigt haben, und den Performer:innen entstehen persönliche Bezüge: Jeder Rock trägt eigene Spuren, Geschichten und Bedeutungen in die Choreografie.ROCKOKO ist opulent, körperlich und politisch: eine große Tanzproduktion über Blicke, Körperbilder, Gemeinschaft und Sichtbarkeit.",
+        "link": "https://rausgegangen.de/en/events/rockoko-maicompany-patricia-carolin-mai-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/mXc9sHrfRE2oqEql0DvS_maicompanypatricia-carolin-mai-c-heike-schluckebier-21.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Fri, 29.05.2026",
+        "time": "17:00",
+        "event": "Nachtflohmarkt in der Gleishalle (@Gleishalle Oberhafen)",
+        "category": "",
+        "description": "Die Gleishalle Oberhafen verwandelt sich in ein hyggeliges Paradies für alle, die Vintage-Schätze und handgemachte Einzelstücke mögen. Dazu gibt’s Streetfood und Live-Musik unter Lichterketten – perfekt, um entspannt zu stöbern und Neues zu entdecken 🪩",
+        "link": "https://rausgegangen.de/en/events/nachtflohmarkt-in-der-gleishalle-26/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/CiYWO8gYRYCgOWypCyOG_1-118.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Fri, 29.05.2026",
+        "time": "18:00",
+        "event": "REALITY TV QUIZ - Hamburg (@Villa Viva Hamburg)",
+        "category": "",
+        "description": "Das Reality-TV-Quiz bringt Hamburgs Trash-Helden zusammen und lässt dich live mitraten, wer das Liebeskarussell verlassen oder das Lagerfeuer entfacht hat. Ob allein oder als Team, hier findest du deinen Platz im bunten Reality-Universum und kannst die heißesten Drama-Momente abgreifen 🤩",
+        "link": "https://rausgegangen.de/en/events/reality-tv-quiz-hamburg-18/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/HksLrYxCT5yNiDrh1uzR_rtvtlogo.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Fri, 29.05.2026",
+        "time": "18:00",
+        "event": "Sip & Pour: Friday Night Candle Making Workshop (@The Painting Room - Art Workshops Hamburg)",
+        "category": "",
+        "description": "Looking for the perfect way to unwind after a long week? 😌 Join me for a cozy Friday evening where you can just relax, sip, and pour. 🕯️🍷In this hands-on workshop, you will learn how to create your very own aesthetic fragrance candle from scratch. ✨ You'll get to experiment, mix your own custom scents 🌸🍋, and pour a beautiful candle that perfectly matches your vibe. No prior experience is needed—I will guide you through the whole process! To make the evening even sweeter, there will be wine 🥂 and delicious snacks 🥨 to enjoy while we craft. (If you prefer a non-alcoholic drink, just send me a quick message beforehand and I will happily arrange something tasty for you!)What to expect:☁️ A relaxed, creative Friday evening to disconnect and get crafty.🧪 Guidance on how to mix your own custom fragrance.🛍️ All the materials you need to make your own scented candle.🧀 Wine, snacks, and great company!Whether you come alone or bring a friend 👯‍♀️, it’s all about slowing down, getting creative, and taking home a beautiful custom candle made entirely by you. 💖",
+        "link": "https://rausgegangen.de/en/events/sip-pour-friday-night-candle-making-workshop-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fl97clTdQmedIbv2vNCt_screenshot-2026-05-05-at-182213.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
+    },
+    {
+        "date": "Fri, 29.05.2026",
+        "time": "19:00",
+        "event": "Earthside (@Betty)",
+        "category": "",
+        "description": "Cinematic rock outfit Earthside have announced their debut foray into headlining some key European shows in May/June 2026 to round off the chapter for “Let The Truth Speak”.Earthside’s blend of cinematic post- rock tendencies with worldly collaborators bring a type of live energy that is unique and compelling amidst their peers. Earthside weaves between an instrumental band and one who is enhanced by visual elements and collaborators, presenting a unique show for all to see.",
+        "link": "https://rausgegangen.de/en/events/earthside-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/iFIg8oeXT6q3Az0PlqkM_5y0a9667-edit-1.jpg?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
     },
     {
         "date": "Fri, 29.05.2026",
@@ -2507,20 +2499,12 @@
         "link": "https://www.bielefeld.jetzt/node/1638140"
     },
     {
-        "date": "Sat, 30.05",
-        "time": "14:00",
-        "event": "HAPPY HIPPIE OPEN AIR (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/happy-hippie-open-air-30052026-1400",
-        "image_url": "https://www.club-sams.de/data/202605/HAPPY_HIPPIE_2026_Facebook-Video_150.png?v=1779227417"
-    },
-    {
-        "date": "Sat, 30.05",
-        "time": "22:30",
-        "event": "Darkside of Sams (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/darkside-of-sams-30052026-2230",
-        "image_url": "https://www.club-sams.de/data/202604/LOGO_ONLY_pr_setnation_Einladung_Quadrat__150_1.png?v=1777453613"
+        "date": "Sa, 30.05.2026",
+        "time": "17:30",
+        "event": "Star Wars: The Mandalorian & Grogu 3D (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Science-Fiction & Abenteuer & Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Sa, 30.05.2026",
@@ -2561,14 +2545,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sa, 30.05.2026",
-        "time": "14:00",
-        "event": "Star Wars: The Mandalorian & Grogu 3D (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Science-Fiction & Abenteuer & Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Sat, 30.05",
@@ -2636,54 +2612,20 @@
         "city": "Detmold"
     },
     {
-        "date": "Sat, 30.05.2026",
-        "time": "15:00",
-        "event": "Treibhaus Festival 2026 (@Zeche Carl)",
-        "category": "",
-        "description": "Das Treibhaus Festival 2026 präsentiert eine vielseitige Mischung aus Hip-Hop, Indie, Pop und Punk, die international und bunt zusammenspielt. Mit Fokus auf nachhaltige Gestaltung entsteht hier eine Plattform, die musikalische Vielfalt offen zugänglich macht. Freu dich auf frische Sounds und ein Experiment voller Energie.",
-        "link": "https://rausgegangen.de/en/events/treibhaus-festival-2026/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LOeXZtlqThW1aEE0XLVV_treibhaus-festival-2026-rausgegangen-header.jpg?width=1200&height=900&mode=crop",
-        "city": "Essen"
+        "date": "Sat, 30.05",
+        "time": "14:00",
+        "event": "HAPPY HIPPIE OPEN AIR (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/happy-hippie-open-air-30052026-1400",
+        "image_url": "https://www.club-sams.de/data/202605/HAPPY_HIPPIE_2026_Facebook-Video_150.png?v=1779227417"
     },
     {
-        "date": "Sat, 30.05.2026",
-        "time": "19:00",
-        "event": "Divines DragShow (@DIVINE Bar)",
-        "category": "",
-        "description": "Jeden Samstag zeigen wechselnde Drag Künstler:innen bei der Divines DragShow, wie Glamour, Glitzer und Drama ganz nah erlebbar werden. Unter der charmanten Leitung von Ms. Foxy Bless erwarten dich bunte Performances voller Persönlichkeit und Vielfalt 🤩",
-        "link": "https://rausgegangen.de/en/events/divines-dragshow-6/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5nO7d4OVQgWuoV3BWdlW_divineschild16-9.png?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Sat, 30.05.2026",
-        "time": "20:00",
-        "event": "Das Haus (@Rabbit Hole Theater)",
-        "category": "",
-        "description": "Das Haus ist ein Objekttheaterstück mit einem Overheadprojektor über Herkunft, Geschichte und Zugehörigkeit, in der Projektion, Stimme und der Körper der Performerin zu einem palimpsesten Mosaik werden. Die Auseinandersetzung mit der Herkunft ihrer russlanddeutschen Großeltern, deren Rollen in den Folgen der Oktoberrevolution, im zweiten Weltkrieg, der Sowjetrepublik und im Nachkriegsdeutschland werden sichtbar gemacht und in die Gegenwart überführt.Pia Alena Wagner schafft einen emphatischen Raum, in dem die Komplexität der deutschen Identität und die historischen Verstrickungen mit dem Nationalsozialismus eindringlich, behutsam und doch eindrucksvoll thematisiert werden.",
-        "link": "https://rausgegangen.de/en/events/das-haus-322/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/SRs83V4iT2u2OadTeAdh_das-haus-rausgegangen.jpg?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Sat, 30.05.2026",
-        "time": "08:45",
-        "event": "Panorama Yoga Experience (@Panometer Leipzig - 360°-Panoramaausstellungen)",
-        "category": "",
-        "description": "Am Samstag, 30. Mai findet die Panorama Yoga Experience erstmals im neuen 360°-Panorama ANTARKTIS statt. Gemeinsam mit den Barre Studios Leipzig und unter Anleitung der Yogalehrerin Carla Senf erwartet Euch eine entspannte und inspirierende Yogaauszeit inmitten des aktuellen Naturpanoramas von Yadegar Asisi. Die 60-minütige Yogasession eignet sich für Yogaerfahrene ebenso wie Neuling.Das immersive Rundumbild zeigt die eisige Weite der Antarktis in all ihren Facetten – von gewaltigen Gletschern und schimmernden Eisbergen bis hin zur faszinierenden Tierwelt mit Pinguinen, Walen und Robben – und schafft damit eine einzigartige Atmosphäre für diese besondere Yogasession – abseits des regulären Ausstellungsbetriebs und ohne weitere Besucherinnen und Besucher.Ein Ticket für die „Panorama Yoga Experience“ beinhaltet Eure Teilnahme an der Yogastunde am Samstag, 30. Mai um 9 Uhr im Panometer Leipzig (Einlass: 8.45 Uhr), ein anschließendes Heißgetränk nach Wahl im Panometer Café sowie den anschließenden individuellen Besuch der Panoramaausstellung.   Wir versprechen Euch - Das wird grandios!Hinweis: Eine eigene Yogamatte muss mitgebracht werden. Wir empfehlen bequeme Kleidung. Es sind keine Umkleiden vorhanden.",
-        "link": "https://rausgegangen.de/en/events/panorama-yoga-experience-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/th2Pp1aDQwuNimJl2gwA_carla-senffoto-daniela-mullerpanorama-yoga-experience-c-barre-studios-leipzigkl.jpg?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
-    },
-    {
-        "date": "Sat, 30.05.2026",
-        "time": "09:00",
-        "event": "Leipzig Lauscht 2026 (@Mediengarten der media city leipzig)",
-        "category": "",
-        "description": "Beim Leipzig Lauscht Festival trifft Podcast-Begeisterung auf echtes Know-how. In entspannter Atmosphäre bekommst du spannende Einblicke, kannst dich mit Profis austauschen und in Workshops dein Audio-Handwerk verbessern 🧚‍♀️",
-        "link": "https://rausgegangen.de/en/events/leipzig-lauscht-2026-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/nN9W84NpQoCkxRH0UWBw_leipzig-lauscht-banner-1200-x-675neu.png?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
+        "date": "Sat, 30.05",
+        "time": "22:30",
+        "event": "Darkside of Sams (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/darkside-of-sams-30052026-2230",
+        "image_url": "https://www.club-sams.de/data/202604/LOGO_ONLY_pr_setnation_Einladung_Quadrat__150_1.png?v=1777453613"
     },
     {
         "date": "Sat, 30.05.2026",
@@ -2734,6 +2676,26 @@
         "link": "https://rausgegangen.de/en/events/indie-disco-22/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TSnYx1KSKOr0dvL5VKui_id05-2026www.jpg?width=1200&height=900&mode=crop",
         "city": "Dresden"
+    },
+    {
+        "date": "Sat, 30.05.2026",
+        "time": "08:45",
+        "event": "Panorama Yoga Experience (@Panometer Leipzig - 360°-Panoramaausstellungen)",
+        "category": "",
+        "description": "Am Samstag, 30. Mai findet die Panorama Yoga Experience erstmals im neuen 360°-Panorama ANTARKTIS statt. Gemeinsam mit den Barre Studios Leipzig und unter Anleitung der Yogalehrerin Carla Senf erwartet Euch eine entspannte und inspirierende Yogaauszeit inmitten des aktuellen Naturpanoramas von Yadegar Asisi. Die 60-minütige Yogasession eignet sich für Yogaerfahrene ebenso wie Neuling.Das immersive Rundumbild zeigt die eisige Weite der Antarktis in all ihren Facetten – von gewaltigen Gletschern und schimmernden Eisbergen bis hin zur faszinierenden Tierwelt mit Pinguinen, Walen und Robben – und schafft damit eine einzigartige Atmosphäre für diese besondere Yogasession – abseits des regulären Ausstellungsbetriebs und ohne weitere Besucherinnen und Besucher.Ein Ticket für die „Panorama Yoga Experience“ beinhaltet Eure Teilnahme an der Yogastunde am Samstag, 30. Mai um 9 Uhr im Panometer Leipzig (Einlass: 8.45 Uhr), ein anschließendes Heißgetränk nach Wahl im Panometer Café sowie den anschließenden individuellen Besuch der Panoramaausstellung.   Wir versprechen Euch - Das wird grandios!Hinweis: Eine eigene Yogamatte muss mitgebracht werden. Wir empfehlen bequeme Kleidung. Es sind keine Umkleiden vorhanden.",
+        "link": "https://rausgegangen.de/en/events/panorama-yoga-experience-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/th2Pp1aDQwuNimJl2gwA_carla-senffoto-daniela-mullerpanorama-yoga-experience-c-barre-studios-leipzigkl.jpg?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
+    },
+    {
+        "date": "Sat, 30.05.2026",
+        "time": "09:00",
+        "event": "Leipzig Lauscht 2026 (@Mediengarten der media city leipzig)",
+        "category": "",
+        "description": "Beim Leipzig Lauscht Festival trifft Podcast-Begeisterung auf echtes Know-how. In entspannter Atmosphäre bekommst du spannende Einblicke, kannst dich mit Profis austauschen und in Workshops dein Audio-Handwerk verbessern 🧚‍♀️",
+        "link": "https://rausgegangen.de/en/events/leipzig-lauscht-2026-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/nN9W84NpQoCkxRH0UWBw_leipzig-lauscht-banner-1200-x-675neu.png?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
     },
     {
         "date": "Sat, 30.05.2026",
@@ -2824,6 +2786,36 @@
         "link": "https://rausgegangen.de/en/events/brat-party-w-charli-xcx-other-brat-coded-artists-munster-2/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/sZhxWKQPRnGKvj0IMlBv_2026-05-30-bratty-munster-rausgegangen-banner.png?width=1200&height=900&mode=crop",
         "city": "Münster"
+    },
+    {
+        "date": "Sat, 30.05.2026",
+        "time": "15:00",
+        "event": "Treibhaus Festival 2026 (@Zeche Carl)",
+        "category": "",
+        "description": "Das Treibhaus Festival 2026 präsentiert eine vielseitige Mischung aus Hip-Hop, Indie, Pop und Punk, die international und bunt zusammenspielt. Mit Fokus auf nachhaltige Gestaltung entsteht hier eine Plattform, die musikalische Vielfalt offen zugänglich macht. Freu dich auf frische Sounds und ein Experiment voller Energie.",
+        "link": "https://rausgegangen.de/en/events/treibhaus-festival-2026/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/LOeXZtlqThW1aEE0XLVV_treibhaus-festival-2026-rausgegangen-header.jpg?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Sat, 30.05.2026",
+        "time": "19:00",
+        "event": "Divines DragShow (@DIVINE Bar)",
+        "category": "",
+        "description": "Jeden Samstag zeigen wechselnde Drag Künstler:innen bei der Divines DragShow, wie Glamour, Glitzer und Drama ganz nah erlebbar werden. Unter der charmanten Leitung von Ms. Foxy Bless erwarten dich bunte Performances voller Persönlichkeit und Vielfalt 🤩",
+        "link": "https://rausgegangen.de/en/events/divines-dragshow-6/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5nO7d4OVQgWuoV3BWdlW_divineschild16-9.png?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Sat, 30.05.2026",
+        "time": "20:00",
+        "event": "Das Haus (@Rabbit Hole Theater)",
+        "category": "",
+        "description": "Das Haus ist ein Objekttheaterstück mit einem Overheadprojektor über Herkunft, Geschichte und Zugehörigkeit, in der Projektion, Stimme und der Körper der Performerin zu einem palimpsesten Mosaik werden. Die Auseinandersetzung mit der Herkunft ihrer russlanddeutschen Großeltern, deren Rollen in den Folgen der Oktoberrevolution, im zweiten Weltkrieg, der Sowjetrepublik und im Nachkriegsdeutschland werden sichtbar gemacht und in die Gegenwart überführt.Pia Alena Wagner schafft einen emphatischen Raum, in dem die Komplexität der deutschen Identität und die historischen Verstrickungen mit dem Nationalsozialismus eindringlich, behutsam und doch eindrucksvoll thematisiert werden.",
+        "link": "https://rausgegangen.de/en/events/das-haus-322/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/SRs83V4iT2u2OadTeAdh_das-haus-rausgegangen.jpg?width=1200&height=900&mode=crop",
+        "city": "Essen"
     },
     {
         "date": "Sat, 30.05.2026",
@@ -2960,26 +2952,6 @@
     },
     {
         "date": "Sun, 31.05.2026",
-        "time": "12:00",
-        "event": "2,5-stündiger Kerzen-Blumenstrauß-Workshop inkl. Getränk & Candybar (@Atelier Ma vie)",
-        "category": "",
-        "description": "Ein kreativer Workshop ermöglicht dir aus Wachs individuelle Dekostücke zu gestalten und Schritt für Schritt eigene Wachsblumen zu formen und zu arrangierenSuchst du nach einer kreativen Auszeit, bei der du etwas Einzigartiges selbst erschaffen kannst? Im Atelier Ma vie gestaltest du dekorative Kerzen-Blumensträuße aus Wachs, die deine persönliche Handschrift tragen. In inspirierender Atmosphäre entsteht Schritt für Schritt dein eigenes Kunstwerk aus hochwertigen Materialien. Unser Angebot2,5-stündiger Kerzen-Blumenstrauß-Workshop inkl. Getränk & Candybar  Wie läuft der Workshop ab?Schritt-für-Schritt Begleitung durch den gesamten kreativen Prozess im WorkshopWachsblumen gießen in individuellen Farben und feinen Düften unter AnleitungGestaltung eines floralen Designs mit Tipps zur harmonischen Abstimmung von Formen und FarbenKreatives Arrangieren der selbst gefertigten Wachsblumen zu einem Kerzen-BlumenstraußMitnahme eines einzigartigen Unikats als Ergebnis deiner eigenen HandarbeitErlebnis eines kreativen Prozesses mit sichtbarem, selbst gestalteten Ergebnis Was ist im Workshop enthalten?Sämtliche Materialien für deinen KerzenstraußHerzlicher BegrüßungssektNutzung der Candybar inkl. verschiedener GetränkeTipp: Da mit flüssigem Wachs gearbeitet wird, ist es empfehlenswert, eine Schürze mitzubringen oder alte Kleidung zu tragen, die auch mal einen kleinen Spritzer vertragen kann.",
-        "link": "https://rausgegangen.de/en/events/25-stundiger-kerzen-blumenstrau-workshop-inkl-getrank-candyb-4/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/xyjWAMOcQuOA4rZvhwAX_img1786.png?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Sun, 31.05.2026",
-        "time": "14:30",
-        "event": "Fullmoon Circle 31.05.2026 (@Kūla Studio)",
-        "category": "",
-        "description": "Fullmoon Circle - Sinnsuche & Innere Wahrheit: Vollmond im Schützen  Spürst du den Drang nach Weite, Erkenntnis und einem tieferen Sinn? Am 31. Mai erleben wir einen kraftvollen Vollmond im feurigen Zeichen Schütze.Dieser Tag beleuchtet ein spannendes inneres Thema: Unser Verstand, der unaufhörlich nach neuen Informationen, Details und Austausch sucht (die Zwillinge-Energie), trifft auf unsere tiefe Sehnsucht nach dem großen Ganzen, nach Wahrheit und einem übergeordneten Sinn (die Schütze-Energie).Wir nutzen die optimistische, visionäre Kraft des Mondes, um uns von der Informationsflut des Alltags zu lösen und wieder auf unsere innere Führung zu vertrauen. Wo verlieren wir uns in Zerstreuung und Oberflächlichkeit? Und wo dürfen wir mutig unserer eigenen Wahrheit folgen, ohne dogmatisch zu werden oder vor der Verantwortung zu fliehen? Am 31.Mai kommen wir gemeinsam an - in „Moon Cocoon“Moon Cocoon ist der Raum, den wir für solche Momente gemeinsam kreieren. Ein Raum, in dem wir uns erinnern. An unsere Kraft. An unsere Transformation. An den Rhythmus, der schon immer in uns pulsiert. Der Mond als unser Begleiter. Und auch der Kokon gehört dazu. Ein Kokon ist manchmal kein gemütlicher Ort. Er ist der Ort, an dem die Raupe aufhört zu sein, was sie war, um zu werden, was sie wirklich ist.Was dieser Kokon für dich bereithält:Astrologischer Deep Dive: Verstehe die inspirierende Zeitqualität dieses Abends. Wir beleuchten das Spannungsfeld zwischen Verstand und Vision und wie du diese Energie für dein persönliches Wachstum nutzen kannst (mit Impulsen aus der psychologischen Astrologie).Somatische Bewegung: Durch Qi Gong Tapping und Embodied Flow lösen wir stagnierende Energie.Meditation & Journaling: Finde in der Stille Antworten auf die Fragen deiner Seele. Reflektiere deine Licht- und Schattenanteile und entscheide mutig, was du heute loslassen möchtest.Das Herzstück: Räucherbündel binden: Wir binden gemeinsam unsere eigenen Räucherbündel. Bewusst mit Intention. Was du mit nach Hause nimmst, ist nicht nur ein Bündel aus Pflanzen. Es ist ein Ritual, das du immer wieder entzünden kannst – als Erinnerung daran, wer du bist.",
-        "link": "https://rausgegangen.de/en/events/fullmoon-circle-31052026-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/clkvGrTUOTtZWHUF6P4A_ee26f130-b482-421d-9112-90507e721a66.jpeg?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Sun, 31.05.2026",
         "time": "11:00",
         "event": "Hosenscheißer- & Ladyfashion-Flohmarkt (@Galopprennbahn Dresden)",
         "category": "",
@@ -3007,6 +2979,26 @@
         "link": "https://rausgegangen.de/en/events/turbulences-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/yRUt7wwMQGqYBH7EIqRq_turbulences-janeschek-gannushkin-enders-van-de-ven.jpg?width=1200&height=900&mode=crop",
         "city": "Münster"
+    },
+    {
+        "date": "Sun, 31.05.2026",
+        "time": "12:00",
+        "event": "2,5-stündiger Kerzen-Blumenstrauß-Workshop inkl. Getränk & Candybar (@Atelier Ma vie)",
+        "category": "",
+        "description": "Ein kreativer Workshop ermöglicht dir aus Wachs individuelle Dekostücke zu gestalten und Schritt für Schritt eigene Wachsblumen zu formen und zu arrangierenSuchst du nach einer kreativen Auszeit, bei der du etwas Einzigartiges selbst erschaffen kannst? Im Atelier Ma vie gestaltest du dekorative Kerzen-Blumensträuße aus Wachs, die deine persönliche Handschrift tragen. In inspirierender Atmosphäre entsteht Schritt für Schritt dein eigenes Kunstwerk aus hochwertigen Materialien. Unser Angebot2,5-stündiger Kerzen-Blumenstrauß-Workshop inkl. Getränk & Candybar  Wie läuft der Workshop ab?Schritt-für-Schritt Begleitung durch den gesamten kreativen Prozess im WorkshopWachsblumen gießen in individuellen Farben und feinen Düften unter AnleitungGestaltung eines floralen Designs mit Tipps zur harmonischen Abstimmung von Formen und FarbenKreatives Arrangieren der selbst gefertigten Wachsblumen zu einem Kerzen-BlumenstraußMitnahme eines einzigartigen Unikats als Ergebnis deiner eigenen HandarbeitErlebnis eines kreativen Prozesses mit sichtbarem, selbst gestalteten Ergebnis Was ist im Workshop enthalten?Sämtliche Materialien für deinen KerzenstraußHerzlicher BegrüßungssektNutzung der Candybar inkl. verschiedener GetränkeTipp: Da mit flüssigem Wachs gearbeitet wird, ist es empfehlenswert, eine Schürze mitzubringen oder alte Kleidung zu tragen, die auch mal einen kleinen Spritzer vertragen kann.",
+        "link": "https://rausgegangen.de/en/events/25-stundiger-kerzen-blumenstrau-workshop-inkl-getrank-candyb-4/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/xyjWAMOcQuOA4rZvhwAX_img1786.png?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Sun, 31.05.2026",
+        "time": "14:30",
+        "event": "Fullmoon Circle 31.05.2026 (@Kūla Studio)",
+        "category": "",
+        "description": "Fullmoon Circle - Sinnsuche & Innere Wahrheit: Vollmond im Schützen  Spürst du den Drang nach Weite, Erkenntnis und einem tieferen Sinn? Am 31. Mai erleben wir einen kraftvollen Vollmond im feurigen Zeichen Schütze.Dieser Tag beleuchtet ein spannendes inneres Thema: Unser Verstand, der unaufhörlich nach neuen Informationen, Details und Austausch sucht (die Zwillinge-Energie), trifft auf unsere tiefe Sehnsucht nach dem großen Ganzen, nach Wahrheit und einem übergeordneten Sinn (die Schütze-Energie).Wir nutzen die optimistische, visionäre Kraft des Mondes, um uns von der Informationsflut des Alltags zu lösen und wieder auf unsere innere Führung zu vertrauen. Wo verlieren wir uns in Zerstreuung und Oberflächlichkeit? Und wo dürfen wir mutig unserer eigenen Wahrheit folgen, ohne dogmatisch zu werden oder vor der Verantwortung zu fliehen? Am 31.Mai kommen wir gemeinsam an - in „Moon Cocoon“Moon Cocoon ist der Raum, den wir für solche Momente gemeinsam kreieren. Ein Raum, in dem wir uns erinnern. An unsere Kraft. An unsere Transformation. An den Rhythmus, der schon immer in uns pulsiert. Der Mond als unser Begleiter. Und auch der Kokon gehört dazu. Ein Kokon ist manchmal kein gemütlicher Ort. Er ist der Ort, an dem die Raupe aufhört zu sein, was sie war, um zu werden, was sie wirklich ist.Was dieser Kokon für dich bereithält:Astrologischer Deep Dive: Verstehe die inspirierende Zeitqualität dieses Abends. Wir beleuchten das Spannungsfeld zwischen Verstand und Vision und wie du diese Energie für dein persönliches Wachstum nutzen kannst (mit Impulsen aus der psychologischen Astrologie).Somatische Bewegung: Durch Qi Gong Tapping und Embodied Flow lösen wir stagnierende Energie.Meditation & Journaling: Finde in der Stille Antworten auf die Fragen deiner Seele. Reflektiere deine Licht- und Schattenanteile und entscheide mutig, was du heute loslassen möchtest.Das Herzstück: Räucherbündel binden: Wir binden gemeinsam unsere eigenen Räucherbündel. Bewusst mit Intention. Was du mit nach Hause nimmst, ist nicht nur ein Bündel aus Pflanzen. Es ist ein Ritual, das du immer wieder entzünden kannst – als Erinnerung daran, wer du bist.",
+        "link": "https://rausgegangen.de/en/events/fullmoon-circle-31052026-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/clkvGrTUOTtZWHUF6P4A_ee26f130-b482-421d-9112-90507e721a66.jpeg?width=1200&height=900&mode=crop",
+        "city": "Essen"
     },
     {
         "date": "Sun, 31.05.2026",
@@ -3267,16 +3259,6 @@
     },
     {
         "date": "Tue, 02.06.2026",
-        "time": "20:00",
-        "event": "Arfi - Isländische Folktronica (@Rabbit Hole Theater)",
-        "category": "",
-        "description": "arfi ist experimentell und atmosphärisch und bewegt sich zwischen elektronischem und organischem Pop – introspektive Musik für eine Zeit, die sich immer schneller verändert.Die Musik von arfi bewegt sich zwischen elektronischen Sounds, organischen Texturen und intimen Popmomenten. Vieles entsteht intuitiv – aus Improvisationen, spontanen Ideen und dem gemeinsamen Gefühl für Atmosphäre. Daraus entwickeln sich Songs, die gleichzeitig verletzlich, warm, melancholisch und hoffnungsvoll sind. Ihr Debütalbum Spring Underwater erscheint im Mai 2026. Die sechs Songs entstanden während ihres Aufenthalts in Island im Januar 2025. Während der Aufnahmen arbeitete die Band mit isländischen Künstlerinnen wie Sóley und RAKEL zusammen, deren Einfluss die Stimmung des Albums zusätzlich geprägt hat.Inhaltlich beschäftigen sich arfis Songs mit dem Spannungsfeld zwischen digitaler Dauerverbindung und der Suche nach echter Nähe, Bedeutung und Verbundenheit. Ihre Musik erzählt von der Schönheit und Überforderung unserer Gegenwart – von einem Leben zwischen Technologie, Natur und menschlichen Emotionen.Entstanden ist arfi im August 2023, als sich Katrín Helga Ólafsdóttir (aka K.óla), Stefan Vidal-Schneider und Tobias Link (aka EAT THE FROG Kollektiv) beim Impro Camp 6 im dänischen Fredericia begegneten. Obwohl sie aus unterschiedlichen musikalischen Richtungen kommen, verband sie sofort die gemeinsame Begeisterung für Improvisation, eingängige Melodien und emotionale Klangwelten. Aus dieser ersten Begegnung entstand nach und nach eine enge künstlerische Zusammenarbeit und Freundschaft.arfi auf Instagram",
-        "link": "https://rausgegangen.de/en/events/arfi-islandische-folktronica-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8dWEXPBCRNiqqQv5fOGT_arfi-rausgegangen.jpg?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Tue, 02.06.2026",
         "time": "19:00",
         "event": "QUIZTRONAUTEN - Quiz im Viertel (@Fehrfeld)",
         "category": "",
@@ -3294,6 +3276,16 @@
         "link": "https://rausgegangen.de/en/events/showtime-deutscher-comedy-cocktail-in-der-french-bento-bar-60/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/h3qleqNySdOhu6sRFMmY_french-bento-deutsch-2x1.png?width=1200&height=900&mode=crop",
         "city": "Frankfurt"
+    },
+    {
+        "date": "Tue, 02.06.2026",
+        "time": "20:00",
+        "event": "Arfi - Isländische Folktronica (@Rabbit Hole Theater)",
+        "category": "",
+        "description": "arfi ist experimentell und atmosphärisch und bewegt sich zwischen elektronischem und organischem Pop – introspektive Musik für eine Zeit, die sich immer schneller verändert.Die Musik von arfi bewegt sich zwischen elektronischen Sounds, organischen Texturen und intimen Popmomenten. Vieles entsteht intuitiv – aus Improvisationen, spontanen Ideen und dem gemeinsamen Gefühl für Atmosphäre. Daraus entwickeln sich Songs, die gleichzeitig verletzlich, warm, melancholisch und hoffnungsvoll sind. Ihr Debütalbum Spring Underwater erscheint im Mai 2026. Die sechs Songs entstanden während ihres Aufenthalts in Island im Januar 2025. Während der Aufnahmen arbeitete die Band mit isländischen Künstlerinnen wie Sóley und RAKEL zusammen, deren Einfluss die Stimmung des Albums zusätzlich geprägt hat.Inhaltlich beschäftigen sich arfis Songs mit dem Spannungsfeld zwischen digitaler Dauerverbindung und der Suche nach echter Nähe, Bedeutung und Verbundenheit. Ihre Musik erzählt von der Schönheit und Überforderung unserer Gegenwart – von einem Leben zwischen Technologie, Natur und menschlichen Emotionen.Entstanden ist arfi im August 2023, als sich Katrín Helga Ólafsdóttir (aka K.óla), Stefan Vidal-Schneider und Tobias Link (aka EAT THE FROG Kollektiv) beim Impro Camp 6 im dänischen Fredericia begegneten. Obwohl sie aus unterschiedlichen musikalischen Richtungen kommen, verband sie sofort die gemeinsame Begeisterung für Improvisation, eingängige Melodien und emotionale Klangwelten. Aus dieser ersten Begegnung entstand nach und nach eine enge künstlerische Zusammenarbeit und Freundschaft.arfi auf Instagram",
+        "link": "https://rausgegangen.de/en/events/arfi-islandische-folktronica-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8dWEXPBCRNiqqQv5fOGT_arfi-rausgegangen.jpg?width=1200&height=900&mode=crop",
+        "city": "Essen"
     },
     {
         "date": "Tue, 02.06.2026",
@@ -3400,17 +3392,17 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/04/20260604_Leineweber_Salvatore_4zu5.jpg"
     },
     {
-        "event": "Theaterlabor // Wie erzählen wir das jetzt?(@theaterlaborbielefeld)",
-        "date": "Mi, 03.06",
-        "category": "Kultur",
-        "link": "https://theaterlabor.eu/events/theaterlabor-wie-erzaehlen-wir-das-jetzt-478/"
-    },
-    {
         "date": "Mi, 03.06",
         "time": "",
         "event": "Unter Null (@nr.z.p)",
         "link": "https://nrzp.de/event/unter-null",
         "image_url": "https://nrzp.de/wp-content/uploads/2026/03/NrZP_Plakat_A3_2026.png"
+    },
+    {
+        "event": "Theaterlabor // Wie erzählen wir das jetzt?(@theaterlaborbielefeld)",
+        "date": "Mi, 03.06",
+        "category": "Kultur",
+        "link": "https://theaterlabor.eu/events/theaterlabor-wie-erzaehlen-wir-das-jetzt-478/"
     },
     {
         "date": "We, 03.06",
@@ -3847,16 +3839,6 @@
     },
     {
         "date": "Thu, 04.06.2026",
-        "time": "19:30",
-        "event": "Geysir Quartett (@Kunsthaus Essen)",
-        "category": "",
-        "description": "Das Geysir Quartett verbindet zeitgenössische Kammermusik, Improvisation und eine außergewöhnliche Klangsprache zu einem intensiven akustischen Konzerterlebnis. Zwischen feinen Klangtexturen, pulsierenden Rhythmen und spontaner Interaktion entsteht ein lebendiger Ensembleklang voller Energie, Offenheit und musikalischer Spannung. Jedes Konzert entwickelt sich dabei als einzigartiger musikalischer Moment.Salome Amend – Marimbaphon & Percussion Hajo Wiesemann – Klavier Sandra Klinkhammer – Klarinette & Gesang Christoph König – Violine & Viola",
-        "link": "https://rausgegangen.de/en/events/geysir-quartett-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/g19pcZJSQi8xXklvC73W_geysirquartett-7.jpg?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Thu, 04.06.2026",
         "time": "19:00",
         "event": "QUIZTRONAUTEN - Musikquiz in der Markthalle (@MARKTHALLE ACHT)",
         "category": "",
@@ -3874,6 +3856,16 @@
         "link": "https://rausgegangen.de/en/events/herz-seele-x-stil-vor-talent-open-air-auf-fridas-pier-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/43LxkPOTjOku9vM1pUbR_stuttgartfacebook-event-small.jpg?width=1200&height=900&mode=crop",
         "city": "Stuttgart"
+    },
+    {
+        "date": "Thu, 04.06.2026",
+        "time": "19:30",
+        "event": "Geysir Quartett (@Kunsthaus Essen)",
+        "category": "",
+        "description": "Das Geysir Quartett verbindet zeitgenössische Kammermusik, Improvisation und eine außergewöhnliche Klangsprache zu einem intensiven akustischen Konzerterlebnis. Zwischen feinen Klangtexturen, pulsierenden Rhythmen und spontaner Interaktion entsteht ein lebendiger Ensembleklang voller Energie, Offenheit und musikalischer Spannung. Jedes Konzert entwickelt sich dabei als einzigartiger musikalischer Moment.Salome Amend – Marimbaphon & Percussion Hajo Wiesemann – Klavier Sandra Klinkhammer – Klarinette & Gesang Christoph König – Violine & Viola",
+        "link": "https://rausgegangen.de/en/events/geysir-quartett-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/g19pcZJSQi8xXklvC73W_geysirquartett-7.jpg?width=1200&height=900&mode=crop",
+        "city": "Essen"
     },
     {
         "date": "Thu, 04.06.2026",
@@ -4087,13 +4079,13 @@
     },
     {
         "date": "Fri, 05.06.2026",
-        "time": "20:00",
-        "event": "Blaues Rauschen Festival - Tag 5: Anomalien des Hörens (@Rabbit Hole Theater)",
+        "time": "22:00",
+        "event": "Brindusa Danze Klub (@Groove Station)",
         "category": "",
-        "description": "Anomalien des HörensMit Tarik Haskić, Stephanie Castonguay und NKISI verschiebt dieser Abend den Fokus vom Werk auf den Prozess. Statt als fertiges Produkt erscheint Klang hier als kybernetische, materielle und rhythmische Bewegung zwischen Material, Technologie und Erinnerung – fragil, durchlässig, offen. Elektronische Medien werden nicht als abstrakte Oberfläche behandelt, sondern in ihrer stofflichen und ökologischen Bedingtheit freigelegt. Zerfallende Tonträger, gehackte Apparaturen, hybride Interfaces und Archive aus Field Recordings machen hör- und sichtbar, dass jede digitale Praxis auf konkreten Ressourcen, Entscheidungen und Machtverhältnissen beruht. Technik wird dabei nicht neutral gedacht, sondern als Träger von Geschichte, Auswahl und Ausschluss.Gleichzeitig wird das Konzert selbst zur experimentellen Versuchsanordnung. Gemeinsames Hören als prozessuales Geschehen im Raum. Artefakte, Störungen und vermeintliche Fehler werden produktiv, als Brüche im System, als Hinweise auf das, was sonst überdeckt bleibt. Zwischen Noise, polyrhythmischen und auf Rückkopplung basierenden Strukturen, improvisatorischer Offenheit und sensibler Signalverarbeitung entsteht ein dichtes Geflecht, das sich im Moment formt und gleich wieder entzieht. Ein Abend über die Materialität elektronischer Klänge, über das Archiv als umkämpften Speicher und über das Hören als bewusste Praxis in einer technologisch geprägten Gegenwart, getragen von zwei benachbarten Spielorten, die seit Jahren mit eigenständigen anspruchsvollen Programmen das Musikgeschehen in Essen prägen.Tarik Haskic A Cycle of TuningsTarik Haskić ist ein in Slowenien lebender Klangkünstler, dessen Arbeit sich zwischen Field Recordings, ortsspezifischem Hören und experimentellen Klangformen bewegt und auf einem Verständnis des Hörens als epistemologischem und kybernetischem Prozess basiert, der durch Rückkopplung und Interaktion geprägt ist. Für das Festival BLAUES RAUSCHEN entwickelt er „A Cycle of Tunings“, eine Komposition, in der eine Orgelpfeife, die durch Atem als klanggebender Körper aktiviert wird, auf den DIY-Synthesizer Fourses Zi Hai trifft, ein handgefertigtes Instrument von Peter Blasser von Ciat-Lonbarde, sowie auf einen DIY-Tocante Studworth Phasi. Unter Verwendung von Ciat-Lonbarde-Papierkreisen und der Orgelpfeife als offenes System der Modulation, Drift und Reaktion entfaltet sich die Performance durch Instabilität, Resonanz und gegenseitige Beeinflussung. Die Instrumente fungieren als nicht-hierarchische Assemblagen, in denen die Kontrolle über Schaltkreis, Geste und Umgebung verteilt ist. Berührung fungiert als Modulation innerhalb eines Rückkopplungsfeldes, während Gesten die Beziehungen innerhalb des Systems neu ordnen und Instabilität, Zufall und Fehler zu kompositorischen Bedingungen werden.Stephanie Castonguay soft_cutsElektronische Medien erscheinen oft immateriell. Tatsächlich bestehen sie aus Ressourcen, Oberflächen und mechanischen Prozessen. Genau in diesem Spannungsfeld arbeitet Stephanie Castonguay. Für „soft_cuts“ entwickelt sie ein ungewöhnliches Setup aus gehackten Plattenspielern, die mit Playmobil Elementen erweitert und mit zusätzlichen Tonarmen ausgestattet sind. Darauf laufen fragile Bio Vinyls, deren Material langsam zerfällt und in Stücke bricht. Die Platten werden nicht einfach abgespielt, sondern tastend durchlaufen. Laufrichtungen wechseln, Fragmente verschieben sich, die Haltbarkeit der Materialien bleibt ungewiss. Aus diesem Prozess entsteht ein Geflecht aus ungeraden Rhythmen, mechanischen Schleifen und improvisierten Strukturen. Gleichzeitig wird der Apparat selbst sichtbar. Reflektierende Oberflächen, rotierende Arme und bewegte Fragmente erzeugen auf speziellen Screens eine visuelle Partitur mechanischer Bewegung.NKISI Anomaly IndexKann die Aufnahme von Sound je neutral sein oder ist sie stets durch Vorauswahl, technische Beschränkung oder Rassismus korrumpiert? Diese grundsätzliche Frage stellt NKISI auf ihrer (be)rauschenden Kassette „Anomaly Index“, die sie Ende 2025 auf dem ugandischen Label Nyege Nyege Tapes veröffentlicht hat. Das Tape ist dabei lediglich Ausgangspunkt für eine Serie von Live-Kompositionen, die auf einem eigens angelegten Soundarchiv basieren. Für das Festival BLAUES RAUSCHEN experimentiert sie mit diesem Archiv und begibt sich auf eine Suche nach „paranormalen Audios und psychoakustischen Aufnahmen“. Artefakte, Aufnahmefehler, aber auch polyrhythmische Drumsynthesen und Live-Mikrofonierung lassen einen dichten Nebel aus Noise entstehen.",
-        "link": "https://rausgegangen.de/en/events/blaues-rauschen-festival-tag-5-anomalien-des-horens-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8hKQcnoVRXCZR8rJSrzw_blaues-rauschen-rausgegangen-2026-neu.jpg?width=1200&height=900&mode=crop",
-        "city": "Essen"
+        "description": "Seit vielen Jahren begeistert das DJ-Doppelgeschütz Doran Toudescu (JB Nutsch) & Loiko Zobar (DJ Rollercoaster) regelmäßig sein Publikum mit einem exzessiven Mix aus Balkan-Beatz, Eastern-Ska und harten Bässen. In ihren Sets \"wandeln\" sie die Roma-Pfade entlang durch den Balkan bis nach Indien und zurück, saugen überall den Sound der Vergangenheit auf und mixen diesen mit den Rhythmen von heute. So kann man mit dem Gypsy Love Train durch unterschiedlichste Gefilde reisen. Sie vermischen Ska mit Folklore Klängen aus Osteuropa, Polka-Punk aus den Karpaten mit Klezmer und Swingstomper aus dem letzten Jahrhundert, von Urban Brass bis Roma Sounds und Balkanpop, von Bregovic bis Gogol Bordello, von Guca bis Warschau, Brennen soll der Tanzflur! Kommt tanzen!",
+        "link": "https://rausgegangen.de/en/events/brindusa-danze-klub-9/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ag8uVTNsRl6wn7vDt9Om_brindusa-danze-klub1920.png?width=1200&height=900&mode=crop",
+        "city": "Dresden"
     },
     {
         "date": "Fri, 05.06.2026",
@@ -4124,16 +4116,6 @@
         "link": "https://rausgegangen.de/en/events/mamagehttanzen-bremen-sommer-open-air-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eW2keDlKSwOFTVhACnP7_20260605whitepearlbeachclubbremensommerspecial.jpg?width=1200&height=900&mode=crop",
         "city": "Bremen"
-    },
-    {
-        "date": "Fri, 05.06.2026",
-        "time": "22:00",
-        "event": "Brindusa Danze Klub (@Groove Station)",
-        "category": "",
-        "description": "Seit vielen Jahren begeistert das DJ-Doppelgeschütz Doran Toudescu (JB Nutsch) & Loiko Zobar (DJ Rollercoaster) regelmäßig sein Publikum mit einem exzessiven Mix aus Balkan-Beatz, Eastern-Ska und harten Bässen. In ihren Sets \"wandeln\" sie die Roma-Pfade entlang durch den Balkan bis nach Indien und zurück, saugen überall den Sound der Vergangenheit auf und mixen diesen mit den Rhythmen von heute. So kann man mit dem Gypsy Love Train durch unterschiedlichste Gefilde reisen. Sie vermischen Ska mit Folklore Klängen aus Osteuropa, Polka-Punk aus den Karpaten mit Klezmer und Swingstomper aus dem letzten Jahrhundert, von Urban Brass bis Roma Sounds und Balkanpop, von Bregovic bis Gogol Bordello, von Guca bis Warschau, Brennen soll der Tanzflur! Kommt tanzen!",
-        "link": "https://rausgegangen.de/en/events/brindusa-danze-klub-9/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ag8uVTNsRl6wn7vDt9Om_brindusa-danze-klub1920.png?width=1200&height=900&mode=crop",
-        "city": "Dresden"
     },
     {
         "date": "Fri, 05.06.2026",
@@ -4184,6 +4166,16 @@
         "link": "https://rausgegangen.de/en/events/queerslam-35/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/IylJj6aQaKkNItS3GXlt_img5865.PNG?width=1200&height=900&mode=crop",
         "city": "Münster"
+    },
+    {
+        "date": "Fri, 05.06.2026",
+        "time": "20:00",
+        "event": "Blaues Rauschen Festival - Tag 5: Anomalien des Hörens (@Rabbit Hole Theater)",
+        "category": "",
+        "description": "Anomalien des HörensMit Tarik Haskić, Stephanie Castonguay und NKISI verschiebt dieser Abend den Fokus vom Werk auf den Prozess. Statt als fertiges Produkt erscheint Klang hier als kybernetische, materielle und rhythmische Bewegung zwischen Material, Technologie und Erinnerung – fragil, durchlässig, offen. Elektronische Medien werden nicht als abstrakte Oberfläche behandelt, sondern in ihrer stofflichen und ökologischen Bedingtheit freigelegt. Zerfallende Tonträger, gehackte Apparaturen, hybride Interfaces und Archive aus Field Recordings machen hör- und sichtbar, dass jede digitale Praxis auf konkreten Ressourcen, Entscheidungen und Machtverhältnissen beruht. Technik wird dabei nicht neutral gedacht, sondern als Träger von Geschichte, Auswahl und Ausschluss.Gleichzeitig wird das Konzert selbst zur experimentellen Versuchsanordnung. Gemeinsames Hören als prozessuales Geschehen im Raum. Artefakte, Störungen und vermeintliche Fehler werden produktiv, als Brüche im System, als Hinweise auf das, was sonst überdeckt bleibt. Zwischen Noise, polyrhythmischen und auf Rückkopplung basierenden Strukturen, improvisatorischer Offenheit und sensibler Signalverarbeitung entsteht ein dichtes Geflecht, das sich im Moment formt und gleich wieder entzieht. Ein Abend über die Materialität elektronischer Klänge, über das Archiv als umkämpften Speicher und über das Hören als bewusste Praxis in einer technologisch geprägten Gegenwart, getragen von zwei benachbarten Spielorten, die seit Jahren mit eigenständigen anspruchsvollen Programmen das Musikgeschehen in Essen prägen.Tarik Haskic A Cycle of TuningsTarik Haskić ist ein in Slowenien lebender Klangkünstler, dessen Arbeit sich zwischen Field Recordings, ortsspezifischem Hören und experimentellen Klangformen bewegt und auf einem Verständnis des Hörens als epistemologischem und kybernetischem Prozess basiert, der durch Rückkopplung und Interaktion geprägt ist. Für das Festival BLAUES RAUSCHEN entwickelt er „A Cycle of Tunings“, eine Komposition, in der eine Orgelpfeife, die durch Atem als klanggebender Körper aktiviert wird, auf den DIY-Synthesizer Fourses Zi Hai trifft, ein handgefertigtes Instrument von Peter Blasser von Ciat-Lonbarde, sowie auf einen DIY-Tocante Studworth Phasi. Unter Verwendung von Ciat-Lonbarde-Papierkreisen und der Orgelpfeife als offenes System der Modulation, Drift und Reaktion entfaltet sich die Performance durch Instabilität, Resonanz und gegenseitige Beeinflussung. Die Instrumente fungieren als nicht-hierarchische Assemblagen, in denen die Kontrolle über Schaltkreis, Geste und Umgebung verteilt ist. Berührung fungiert als Modulation innerhalb eines Rückkopplungsfeldes, während Gesten die Beziehungen innerhalb des Systems neu ordnen und Instabilität, Zufall und Fehler zu kompositorischen Bedingungen werden.Stephanie Castonguay soft_cutsElektronische Medien erscheinen oft immateriell. Tatsächlich bestehen sie aus Ressourcen, Oberflächen und mechanischen Prozessen. Genau in diesem Spannungsfeld arbeitet Stephanie Castonguay. Für „soft_cuts“ entwickelt sie ein ungewöhnliches Setup aus gehackten Plattenspielern, die mit Playmobil Elementen erweitert und mit zusätzlichen Tonarmen ausgestattet sind. Darauf laufen fragile Bio Vinyls, deren Material langsam zerfällt und in Stücke bricht. Die Platten werden nicht einfach abgespielt, sondern tastend durchlaufen. Laufrichtungen wechseln, Fragmente verschieben sich, die Haltbarkeit der Materialien bleibt ungewiss. Aus diesem Prozess entsteht ein Geflecht aus ungeraden Rhythmen, mechanischen Schleifen und improvisierten Strukturen. Gleichzeitig wird der Apparat selbst sichtbar. Reflektierende Oberflächen, rotierende Arme und bewegte Fragmente erzeugen auf speziellen Screens eine visuelle Partitur mechanischer Bewegung.NKISI Anomaly IndexKann die Aufnahme von Sound je neutral sein oder ist sie stets durch Vorauswahl, technische Beschränkung oder Rassismus korrumpiert? Diese grundsätzliche Frage stellt NKISI auf ihrer (be)rauschenden Kassette „Anomaly Index“, die sie Ende 2025 auf dem ugandischen Label Nyege Nyege Tapes veröffentlicht hat. Das Tape ist dabei lediglich Ausgangspunkt für eine Serie von Live-Kompositionen, die auf einem eigens angelegten Soundarchiv basieren. Für das Festival BLAUES RAUSCHEN experimentiert sie mit diesem Archiv und begibt sich auf eine Suche nach „paranormalen Audios und psychoakustischen Aufnahmen“. Artefakte, Aufnahmefehler, aber auch polyrhythmische Drumsynthesen und Live-Mikrofonierung lassen einen dichten Nebel aus Noise entstehen.",
+        "link": "https://rausgegangen.de/en/events/blaues-rauschen-festival-tag-5-anomalien-des-horens-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8hKQcnoVRXCZR8rJSrzw_blaues-rauschen-rausgegangen-2026-neu.jpg?width=1200&height=900&mode=crop",
+        "city": "Essen"
     },
     {
         "date": "Fri, 05.06.2026",
@@ -4438,46 +4430,6 @@
     },
     {
         "date": "Sat, 06.06.2026",
-        "time": "11:00",
-        "event": "WORKSHOP - Transferdruck mit der GelliPlate (@JesusChris)",
-        "category": "",
-        "description": "Gelliplate-Workshop in Essen – Druck dich kreativ aus! 🎨✨In der Galerie JesusChris wird es bunt, experimentell und überraschend: Entdecke die faszinierende Welt des Gelliplate-Drucks und erschaffe einzigartige Kunstwerke – ganz ohne Vorkenntnisse!In diesem Workshop tauchst du Schritt für Schritt in die Technik ein: Von den ersten Farbaufträgen über spannende Schichtungen bis hin zu Bildtransfers und dem Drucken mit Alltagsgegenständen. Dabei entstehen lebendige Strukturen, unerwartete Effekte und echte Unikate.💡 Das erwartet dich:Einführung in Material & TechnikSpielerisches Experimentieren mit Farben und TexturenTransfer-Techniken und kreative DruckverfahrenZeit für eigene kreative ErgebnisseAlles, was du brauchst, ist schon da: Material wird komplett gestellt – du kannst dich voll auf deine Kreativität konzentrieren.📅 Termine:06.06.202604.07.2026 🕚 jeweils 11:00 – 14:00 Uhr📍 Ort: JesusChris, Witteringstr. 83, 45130 Essen 💶 Teilnahme: 65 €Egal, ob du einfach mal abschalten, etwas Neues ausprobieren oder deine künstlerische Praxis erweitern willst – dieser Workshop bietet dir Raum zum Experimentieren, Staunen und Gestalten.Komm vorbei und druck dir deine eigene kleine Kunstwelt!",
-        "link": "https://rausgegangen.de/en/events/workshop-transferdruck-mit-der-gelliplate-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6gy1gHL8T6gqWHGLSJZ7_silworkshop2026websitebanner19201080jpg.jpeg?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Sat, 06.06.2026",
-        "time": "14:00",
-        "event": "Me Time Day - Essen (@Tanzgalerie)",
-        "category": "",
-        "description": "Die Me-Time Days vereinen Beauty, Hair, Gesundheit und Lifestyle an einem Ort – für einen Nachmittag, der ganz dir gehört.Interessierst Du Dich für Beauty, Haarpflege und einen gesunden Lifestyle?Dann ist das hier Dein Place to be!Lass Dich kostenlos stylen, entdecke neue Trends, probiere hochwertige Treatments zu besonderen Event-Konditionen aus und lass Dich von erfahrenen Expert:innen persönlich beraten.Vor Ort triffst Du:Friseur- und Styling-Profis, die Dir zeigen, welcher Schnitt, welche Farbe oder welches Styling wirklich zu Dir passt - und zeigen Dir natürlich auch gleich wie Du das selbst hinbekommst.Spezialist:innen für Kopfhaut und Haarstruktur, die sichtbar machen, was Dein Haar aktuell brauchtVitalstoffexperten, die Dir messbar zeigen, wo eventuelle Defizite wirklich liegen und wie Du diese nachhaltig und gesund ausgleichen kannst.Kosmetikerinnen & Produktexperten, die Dich zum Thema Tools und Pflege von Kopf bis Fuß nicht nur beraten. Du kannst direkt ausprobieren und Dir kleine Wellness-Treatments gönnen.📍 Tanzgalerie - Am Porscheplatz 2 - Essen 📅 06. Juni 2026 🕒 14:00 – 20:00 Uhr",
-        "link": "https://rausgegangen.de/en/events/me-time-day-essen-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/2pFe2LpcTCCAu3jrhBXW_me-time-event.png?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Sat, 06.06.2026",
-        "time": "18:00",
-        "event": "Aperol Yoga in Essen (@OM Club Essen)",
-        "category": "",
-        "description": "Jedes Aperol Yoga ist einzigartig! Unsere Yoga-Lehrer begeistern durch vielfältiges Wissen und langjährige Erfahrungen und können sich dadurch perfekt auf eure Gruppendynamik und Vorkenntnisse einstellen. Aus diesem Grund können einzelne Abläufe variieren, sie orientieren sich aber für gewöhnliche an unserem Standard:1. Gegenseitige Vorstellung Lehrer und Teilnehmer Um zu wissen, mit wem ihr das Event verbringen dürft, stellt ihr euch gegenseitig vor. Deine Vorerfahrung mit Yoga und Aperol zu beschreiben, hilft unseren Lehrern dabei, die Yogapraxis danach auszurichten.2. Ablauf und Aperol Yoga erklären Viele unserer Teilnehmer probieren zum ersten Mal Yoga aus. Das wissen unsere Lehrer und erklären euch beispielsweise, wie ihr begleitet werdet und auf welche Weise der Aperol Spritz integriert wird.3. Aperolgruß Bei dem Aperolgruß wird der Aperol Spritz in einen abgewandelten Sonnengruß integriert. Yoga-Übungen (Asanas) können abgewandelt werden, wenn der Aperol Spritz dann besser eingebunden werden kann. Wenn ihr mögt, machen unsere Lehrer zwischendurch Fotos, damit ihr die Erinnerung an das Aperol Yoga festhalten könnt.4. Achtsamkeitsübung und Meditation Ziel ist es während der gesamten Einheit, deine Umgebung mit allen Sinnen wahrzunehmen und dich auf den Aperol zu konzentrieren. Durch bewusstes hören, sehen, riechen und auch fühlen, intensiviert sich der Geschmack und du spürst, wie du zu 100% im Moment bist.5. Meditation Präge dir dein Aperolglas ein und nimm dein Monkey Mind wahr, während du deine Gedanken immer wieder zu dem Bild zurückführst.6. Austausch und lockeres Zusammensitzen Sprich mit den anderen Yogis über eure Erfahrungen aus den Übungen und lass das Event entspannt ausklingen, damit du möglichst viel von deiner Yogapraxis mitnimmst. Die Teilnahme ist ab einem Alter von 18 Jahren erlaubt. Der Veranstalter behält sich das Recht vor, beim Einlass einen gültigen Lichtbildausweis (z. B. Personalausweis oder Reisepass) zur Altersverifikation zu verlangen.Teilnehmende müssen eine Yogamatte selbst mitbringen oder sie als Zusatzartikel dazubuchen. Wir empfehlen Kleidung, die Bewegungsfreiheit bietet. Bei dem Event wird ein Aperol Spritz kostenlos serviert und achtsam getrunken.Bitte beachte, dass das Event ab einer Mindestteilnehmerzahl von 6 Personen stattfindet. Sollte die Mindestteilnehmerzahl nicht erreicht werden, wird der Käufer spätestens 48 Stunden vor der Veranstaltung über die Absage informiert und bekommt alternative Termine angeboten oder den Ticketpreis zurückerstattet. Bitte beachte auch, dass eine Yogamatte nicht inbegriffen ist. Du kannst gegen eine kleine Gebühr eine Matte buchen. Handtücher sind nicht als Alternative zu Matten erlaubt.Du möchtest gerne ein alkoholfreies Getränk erhalten? Sende uns einfach eine kurze Mail an info@event-yoga.com, dann stellen wir dieses gerne für dich bereit.Du möchtest lieber ein Event für eine geschlossene Gruppe buchen?Gerne! Füll beispielsweise für JGAs, Geburtstage und Teamevents einfach unser Formular aus und wir melden uns in Kürze bei dir.",
-        "link": "https://rausgegangen.de/en/events/aperol-yoga-in-essen-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/rAPRna7pSIOgIvbqt4w5_aperol-yoga-2.png?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Sat, 06.06.2026",
-        "time": "20:00",
-        "event": "Lena Kupke: Pause (@Kulturzentrum Schlachthof)",
-        "category": "",
-        "description": "Lena Kupke erzählt in „Pause“ von einer Rückkehr, die alles auf den Kopf stellt und dabei überraschend viel Humor zeigt. Ihr Roman lotet aus, wie man in schwierigen Zeiten Nähe neu entdeckt und sich selbst dabei wiederfindet. Hier erwartet dich eine Lesung mit viel Herz und Offenheit 🫶",
-        "link": "https://rausgegangen.de/en/events/lena-kupke-pause-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pyxZMWUtTZy1A7648zOg_lena-kupke-2-c-daniel-dittus.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Sat, 06.06.2026",
         "time": "20:00",
         "event": "LA BOOMA - Vintage Party (@Sommerwirtschaft Saloppe)",
         "category": "",
@@ -4505,6 +4457,16 @@
         "link": "https://rausgegangen.de/en/events/die-groe-dresdner-u30-sommerparty-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Bck0FzzTvcsDHwmJYyiA_bildschirmprasiu30-ohne-button.jpg?width=1200&height=900&mode=crop",
         "city": "Dresden"
+    },
+    {
+        "date": "Sat, 06.06.2026",
+        "time": "20:00",
+        "event": "Lena Kupke: Pause (@Kulturzentrum Schlachthof)",
+        "category": "",
+        "description": "Lena Kupke erzählt in „Pause“ von einer Rückkehr, die alles auf den Kopf stellt und dabei überraschend viel Humor zeigt. Ihr Roman lotet aus, wie man in schwierigen Zeiten Nähe neu entdeckt und sich selbst dabei wiederfindet. Hier erwartet dich eine Lesung mit viel Herz und Offenheit 🫶",
+        "link": "https://rausgegangen.de/en/events/lena-kupke-pause-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pyxZMWUtTZy1A7648zOg_lena-kupke-2-c-daniel-dittus.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Sat, 06.06.2026",
@@ -4585,6 +4547,36 @@
         "link": "https://rausgegangen.de/en/events/moxy-comedy-english-stand-up-in-ffm-ostend-1/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/PtVokAenRPejK0bO9Diq_moxy-mic-2x1-en.png?width=1200&height=900&mode=crop",
         "city": "Frankfurt"
+    },
+    {
+        "date": "Sat, 06.06.2026",
+        "time": "11:00",
+        "event": "WORKSHOP - Transferdruck mit der GelliPlate (@JesusChris)",
+        "category": "",
+        "description": "Gelliplate-Workshop in Essen – Druck dich kreativ aus! 🎨✨In der Galerie JesusChris wird es bunt, experimentell und überraschend: Entdecke die faszinierende Welt des Gelliplate-Drucks und erschaffe einzigartige Kunstwerke – ganz ohne Vorkenntnisse!In diesem Workshop tauchst du Schritt für Schritt in die Technik ein: Von den ersten Farbaufträgen über spannende Schichtungen bis hin zu Bildtransfers und dem Drucken mit Alltagsgegenständen. Dabei entstehen lebendige Strukturen, unerwartete Effekte und echte Unikate.💡 Das erwartet dich:Einführung in Material & TechnikSpielerisches Experimentieren mit Farben und TexturenTransfer-Techniken und kreative DruckverfahrenZeit für eigene kreative ErgebnisseAlles, was du brauchst, ist schon da: Material wird komplett gestellt – du kannst dich voll auf deine Kreativität konzentrieren.📅 Termine:06.06.202604.07.2026 🕚 jeweils 11:00 – 14:00 Uhr📍 Ort: JesusChris, Witteringstr. 83, 45130 Essen 💶 Teilnahme: 65 €Egal, ob du einfach mal abschalten, etwas Neues ausprobieren oder deine künstlerische Praxis erweitern willst – dieser Workshop bietet dir Raum zum Experimentieren, Staunen und Gestalten.Komm vorbei und druck dir deine eigene kleine Kunstwelt!",
+        "link": "https://rausgegangen.de/en/events/workshop-transferdruck-mit-der-gelliplate-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6gy1gHL8T6gqWHGLSJZ7_silworkshop2026websitebanner19201080jpg.jpeg?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Sat, 06.06.2026",
+        "time": "14:00",
+        "event": "Me Time Day - Essen (@Tanzgalerie)",
+        "category": "",
+        "description": "Die Me-Time Days vereinen Beauty, Hair, Gesundheit und Lifestyle an einem Ort – für einen Nachmittag, der ganz dir gehört.Interessierst Du Dich für Beauty, Haarpflege und einen gesunden Lifestyle?Dann ist das hier Dein Place to be!Lass Dich kostenlos stylen, entdecke neue Trends, probiere hochwertige Treatments zu besonderen Event-Konditionen aus und lass Dich von erfahrenen Expert:innen persönlich beraten.Vor Ort triffst Du:Friseur- und Styling-Profis, die Dir zeigen, welcher Schnitt, welche Farbe oder welches Styling wirklich zu Dir passt - und zeigen Dir natürlich auch gleich wie Du das selbst hinbekommst.Spezialist:innen für Kopfhaut und Haarstruktur, die sichtbar machen, was Dein Haar aktuell brauchtVitalstoffexperten, die Dir messbar zeigen, wo eventuelle Defizite wirklich liegen und wie Du diese nachhaltig und gesund ausgleichen kannst.Kosmetikerinnen & Produktexperten, die Dich zum Thema Tools und Pflege von Kopf bis Fuß nicht nur beraten. Du kannst direkt ausprobieren und Dir kleine Wellness-Treatments gönnen.📍 Tanzgalerie - Am Porscheplatz 2 - Essen 📅 06. Juni 2026 🕒 14:00 – 20:00 Uhr",
+        "link": "https://rausgegangen.de/en/events/me-time-day-essen-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/2pFe2LpcTCCAu3jrhBXW_me-time-event.png?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Sat, 06.06.2026",
+        "time": "18:00",
+        "event": "Aperol Yoga in Essen (@OM Club Essen)",
+        "category": "",
+        "description": "Jedes Aperol Yoga ist einzigartig! Unsere Yoga-Lehrer begeistern durch vielfältiges Wissen und langjährige Erfahrungen und können sich dadurch perfekt auf eure Gruppendynamik und Vorkenntnisse einstellen. Aus diesem Grund können einzelne Abläufe variieren, sie orientieren sich aber für gewöhnliche an unserem Standard:1. Gegenseitige Vorstellung Lehrer und Teilnehmer Um zu wissen, mit wem ihr das Event verbringen dürft, stellt ihr euch gegenseitig vor. Deine Vorerfahrung mit Yoga und Aperol zu beschreiben, hilft unseren Lehrern dabei, die Yogapraxis danach auszurichten.2. Ablauf und Aperol Yoga erklären Viele unserer Teilnehmer probieren zum ersten Mal Yoga aus. Das wissen unsere Lehrer und erklären euch beispielsweise, wie ihr begleitet werdet und auf welche Weise der Aperol Spritz integriert wird.3. Aperolgruß Bei dem Aperolgruß wird der Aperol Spritz in einen abgewandelten Sonnengruß integriert. Yoga-Übungen (Asanas) können abgewandelt werden, wenn der Aperol Spritz dann besser eingebunden werden kann. Wenn ihr mögt, machen unsere Lehrer zwischendurch Fotos, damit ihr die Erinnerung an das Aperol Yoga festhalten könnt.4. Achtsamkeitsübung und Meditation Ziel ist es während der gesamten Einheit, deine Umgebung mit allen Sinnen wahrzunehmen und dich auf den Aperol zu konzentrieren. Durch bewusstes hören, sehen, riechen und auch fühlen, intensiviert sich der Geschmack und du spürst, wie du zu 100% im Moment bist.5. Meditation Präge dir dein Aperolglas ein und nimm dein Monkey Mind wahr, während du deine Gedanken immer wieder zu dem Bild zurückführst.6. Austausch und lockeres Zusammensitzen Sprich mit den anderen Yogis über eure Erfahrungen aus den Übungen und lass das Event entspannt ausklingen, damit du möglichst viel von deiner Yogapraxis mitnimmst. Die Teilnahme ist ab einem Alter von 18 Jahren erlaubt. Der Veranstalter behält sich das Recht vor, beim Einlass einen gültigen Lichtbildausweis (z. B. Personalausweis oder Reisepass) zur Altersverifikation zu verlangen.Teilnehmende müssen eine Yogamatte selbst mitbringen oder sie als Zusatzartikel dazubuchen. Wir empfehlen Kleidung, die Bewegungsfreiheit bietet. Bei dem Event wird ein Aperol Spritz kostenlos serviert und achtsam getrunken.Bitte beachte, dass das Event ab einer Mindestteilnehmerzahl von 6 Personen stattfindet. Sollte die Mindestteilnehmerzahl nicht erreicht werden, wird der Käufer spätestens 48 Stunden vor der Veranstaltung über die Absage informiert und bekommt alternative Termine angeboten oder den Ticketpreis zurückerstattet. Bitte beachte auch, dass eine Yogamatte nicht inbegriffen ist. Du kannst gegen eine kleine Gebühr eine Matte buchen. Handtücher sind nicht als Alternative zu Matten erlaubt.Du möchtest gerne ein alkoholfreies Getränk erhalten? Sende uns einfach eine kurze Mail an info@event-yoga.com, dann stellen wir dieses gerne für dich bereit.Du möchtest lieber ein Event für eine geschlossene Gruppe buchen?Gerne! Füll beispielsweise für JGAs, Geburtstage und Teamevents einfach unser Formular aus und wir melden uns in Kürze bei dir.",
+        "link": "https://rausgegangen.de/en/events/aperol-yoga-in-essen-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/rAPRna7pSIOgIvbqt4w5_aperol-yoga-2.png?width=1200&height=900&mode=crop",
+        "city": "Essen"
     },
     {
         "date": "Sat, 06.06.2026",
@@ -5052,17 +5044,17 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/04/20260612_Backto2000_4zu5.jpg"
     },
     {
-        "event": "Stefan Mießeler // TRUE ROMANCE(@theaterlaborbielefeld)",
-        "date": "Mi, 10.06",
-        "category": "Kultur",
-        "link": "https://theaterlabor.eu/events/true-romance/"
-    },
-    {
         "date": "Mi, 10.06",
         "time": "",
         "event": "FLINTA* Ping Pong (@nr.z.p)",
         "link": "https://nrzp.de/event/flinta-ping-pong-4",
         "image_url": "https://nrzp.de/wp-content/uploads/2026/03/Mittwoch-11.3.-20-–-23-Uhr.png"
+    },
+    {
+        "event": "Stefan Mießeler // TRUE ROMANCE(@theaterlaborbielefeld)",
+        "date": "Mi, 10.06",
+        "category": "Kultur",
+        "link": "https://theaterlabor.eu/events/true-romance/"
     },
     {
         "date": "Wed, 10.06.2026",
@@ -5248,13 +5240,33 @@
     },
     {
         "date": "Fri, 12.06.2026",
-        "time": "20:00",
-        "event": "Yasmeen Godder Company ›SHELLING‹ (@PACT Zollverein)",
+        "time": "15:00",
+        "event": "DIKKA • \"BOAH IST DAS KRASS TOUR 2\" • Live in Dresden 🦏 (@Messe Dresden)",
         "category": "",
-        "description": "Die in New York als Enkelin polnischer und syrischer Großeltern aufgewachsene israelische Künstlerin Yasmeen Godder lädt das Publikum in diesem Solo zu einer intimen Begegnung mit dem Körper als lebendigem Archiv ein: ein Speicher von Spuren, Erinnerungen und Geschichten im ständigen Wandel – porös, widerständig und in permanenter Neuausrichtung.Der Titel ›SHELLING‹ verweist zugleich auf die Begriffe Gehäuse und Einschlag – und rückt damit den Körper als schützende Hülle ebenso wie als Ort in den Blick, der von äußeren Kräften geprägt wird. Aus einer intensiven choreografischen Auseinandersetzung mit Empathie als verbindender, widerständiger Praxis entstanden, entfaltet sich die Performance in Bewegungen zwischen Impuls, Zusammenbruch und Neuformierung. ›SHELLING‹ lauscht der inneren Stimme des Körpers und stellt die Frage: Wie kann ein Körper widerstehen, ohne zu zerbrechen?Weitere Informationen",
-        "link": "https://rausgegangen.de/en/events/yasmeen-godder-company-shelling-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/HFn01fLTRSipaMrPw2y3_shelling-by-omer-alsheich-2.jpg?width=1200&height=900&mode=crop",
-        "city": "Essen"
+        "description": "Das frechste Nashorn der Welt geht wieder auf Tour! DIKKA kündigt für 2026 eine 40 Termine umfassende „BOAH IST DAS KRASS 2“-Tour durch Deutschland, Österreich und die Schweiz an. Das verspricht eine supercoole Reise, viele Abenteuer und unvergessliche Konzerterlebnisse für kleine und große Gäste!Wir schreiben das Jahr 2020. Ein kleines Nashorn aus dem Berliner Zoo macht sich auf, die Musikwelt zu erobern. Im Gepäck: Jede Menge dikke Reime und Beats – und ein bisschen Unterstützung von einigen der größten Namen der deutschen Pop-Landschaft. Fünf Jahre vorgespult: heute weiß jedes Kind, wer DIKKA ist. Vom Reimnozeros gibt’s mittlerweile Bettwäsche, Sneaker, Müsli, Eis und sogar Skateboards – mal ganz zu schweigen von unzähligen Hit-Songs und Features mit den ganz Großen der hiesigen Szene: Sido, LEA, CRO, Wincent Weiss, Nico Santos, Mark Forster, Lena, Kontra K, SDP, Alvaro Soler, Kool Savas ... – ein Who-is-who der deutschen Popmusik, das zeigt, welche Strahlkraft das Nashorn längst hat. Ach ja, und ganz nebenbei hat er auch noch die Berliner Uber Arena ausverkauft und gemeinsam mit 13.000 Zuschauer:innen in ein riesiges Nashorngehege verwandelt. Krass, oder?DIKKAs viertes Album „BOAH ist das krass“ zeigt eindrucksvoll, wie konsequent er den Lebensalltag junger Hörerinnen und Hörer in moderne Popmusik übersetzt: Ob „Superkind“, „Nein heißt Nein“, „Ich bin Ich“ oder „Liebe Traurigkeit“ – DIKKA begegnet Selbstbewusstsein, Grenzen, Mut, Selbstzweifeln und großen Emotionen ohne erhobenen Zeigefinger, stets auf Augenhöhe und mit dem ihm typischen Augenzwinkern. Gesellschaftliche Themen klingen ebenfalls an: „Peace“ setzt ein Zeichen gegen Krieg und Gewalt, während „Astronaut“ (feat. Giraffenaffen) Klimabewusstsein kindgerecht verhandelt. Zugleich bleibt das Album leicht, frech und spielerisch – ein Spagat, den DIKKA so gut beherrscht wie kaum ein anderer.Seine Tour 2025 hat deutlich gemacht, dass DIKKAs Konzerte weit mehr sind als ein Kinderprogramm: Wenn das Licht ausgeht, wenn tierische Anekdoten für Heiterkeit sorgen und die Kids im vorderen Bereich aus voller Kehle mitsingen, entsteht ein Gefühl, das Eltern wie Kinder verbindet. Die Shows bieten Raum zum euphorischen Herumtoben, aber auch für leise, überraschend emotionale Momente – etwa, wenn Songs wie „Zusammen“ mit Montez für kollektive Gänsehaut sorgen.Für 2026 verspricht DIKKA erneut ein energiegeladenes, farbenfrohes und empowerndes Live-Erlebnis. Die Kinder dürfen tanzen, laut sein, träumen, staunen – und sich als Teil der Nashorngäng fühlen. Genau diese Mischung aus Spaß, Haltung und Herzenswärme macht DIKKAs Liveshows einzigartig.Sein Erfolg basiert auf organischem Wachstum, einem unkonventionellen Ansatz und einer klaren Mission: Kinder sollen sich mit ihm sicher, gesehen und mutig fühlen. „Ich wünsche mir, dass die Kinder durch meine Musik einen guten Kumpel an ihrer Seite haben“, sagt DIKKA – und diese Haltung prägt jedes Album und jede Show.Mit 40 Tourstopps bringt DIKKA seine bunte, laute und liebevolle Nashornwelt auch 2026 wieder auf die Bühne. Ein Erlebnis für Kinder – und alle, die einmal eins waren. Boah, wird das krass!",
+        "link": "https://rausgegangen.de/en/events/dikka-boah-ist-das-krass-2-live-in-dresden-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fMeuwCyQkKjfoHEj6Ja5_gro-dikka-1-c-agentur-buff.jpeg?width=1200&height=900&mode=crop",
+        "city": "Dresden"
+    },
+    {
+        "date": "Fri, 12.06.2026",
+        "time": "22:00",
+        "event": "POP2000 (@Groove Station)",
+        "category": "",
+        "description": "Zieh dein Glitzer-Top über, spring in die Baggy-Jeans und tauche ein in eine Nacht voller RAZZLE-DAZZLE-Nostalgie! Wir katapultieren dich direkt zurück in die Ära von MP3-Playern, Discokugeln und MTV. Von mitreißendem Pop über R&B-Floorfillers bis hin zu Indie-Hymnen und Electro-Krachern - wir servieren alles, was von 2000 bis 2009 die Charts dominiert und deine Jugend-Playlists geprägt hat. Neonlichter, Throwback-Momente und die ikonischen Beats jener Dekade sorgen dafür, dass jede Hook sofort sitzt und kein Fuß stillsteht.   \"What happens at POP2000 stays on your Nokia 3210!\"  POP2000 sounds like: Katy Perry, P!nk, Avril Lavigne, Kelly Clarkson, Christina Aguilera, Jennifer Lopez, Shakira, Nelly Furtado, Sugababes, Girls Aloud, The Black Eyed Peas, OutKast, Eminem, 50 Cent, Missy Elliott, Nelly, Usher, Sean Paul, T.I., Linkin Park, Green Day, Blink-182, Sum 41, Good Charlotte, Fall Out Boy, My Chemical Romance, Paramore, Foo Fighters, Coldplay, Keane, Snow Patrol, The Killers, Franz Ferdinand, Arctic Monkeys, Kings of Leon, The Strokes, The White Stripes, Muse, Gorillaz, Daft Punk, Justice, MGMT, Moby, Fatboy Slim, Calvin Harris, David Guetta, Cascada, Scooter, Wir sind Helden, Sportfreunde Stiller, Juli, Silbermond, Mia., Seeed, Peter Fox, Tokio Hotel, Deichkind, Jan Delay, Culcha Candela, Bushido, Sido, Fettes Brot, Die Ärzte, Die Toten Hosen, Revolverheld, Mando Diao, The Hives, Kasabian, Kaiser Chiefs, Yeah Yeah Yeahs, The Kooks, Modest Mouse, Phoenix, Interpol, Kings of Convenience, Norah Jones, Alicia Keys, Amy Winehouse, Maroon 5, The Fray, OneRepublic, The All-American Rejects, Evanescence, Nickelback, Simple Plan, Hoobastank, Red Hot Chili Peppers, Black Rebel Motorcycle Club, Gorillaz, Las Ketchup, O-Zone, t.A.T.u., Lilly Allen, Dido, Gwen Stefani, Timbaland, Jay-Z, Kanye West, Britney Spears, Beyoncé, Destinys Child, Rihanna, Lady Gaga, The Chemical Brothers, Swedish House Mafia, Paul van Dyk, Benny Benassi, Justice vs. Simian, Cascada & mehr - alles, was die 2000er knallen ließ!",
+        "link": "https://rausgegangen.de/en/events/pop2000-6/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/DCFIqYoRYukPrMQinl5g_pop2000www.png?width=1200&height=900&mode=crop",
+        "city": "Dresden"
+    },
+    {
+        "date": "Fri, 12.06.2026",
+        "time": "23:00",
+        "event": "King Kong Kicks • Indie Pop & Hypes • Club Paula • Dresden (@Club Paula)",
+        "category": "",
+        "description": "Dresden, das mit uns ist nicht mehr normal! 🥳🤩King Kong kickt in deinen Club und bringt dir eine Nacht wie eine wilde Umarmung, best Friends mit dem Gefühl von Ankommen und Abgehen, tanzende Körper gehüllt in Indie-Pop, der sich wie ein Fluss im liebevollen Mix ins Herz spült, es regelrecht überschwemmt. ❤️‍🔥Energetisch, sinnlich, frei, denn das mit uns ist nicht mehr normal. ❤️Wer safe dabei sein will, sichert sich ganz einfach ein Ticket. 🎫Sounds like: Kraftklub • Ikkimel • Leoniden • Giant Rooks • Provinz • Fcukers • Zartmann Bloc Party • Royel Otis • Two Door Cinema Club • Tame Impala • Nina Chuba • Edwin Rosen • Charli XCX • Wet Leg • Ski Aggu • The Beaches • MakkoFR. 12.06.26 // 23:00 Uhr // Club Paula // Dresden-------------------------------------------------------------Wir bei Instagram & Spotify & SoundcloudMinimum age: 18Veranstalter: Club Paula",
+        "link": "https://rausgegangen.de/en/events/king-kong-kicks-indie-pop-hypes-club-paula-dresden-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7MLpIkUpTBqHVrh78R64_kkicks-banner-neutral.png?width=1200&height=900&mode=crop",
+        "city": "Dresden"
     },
     {
         "date": "Fri, 12.06.2026",
@@ -5288,36 +5300,6 @@
     },
     {
         "date": "Fri, 12.06.2026",
-        "time": "15:00",
-        "event": "DIKKA • \"BOAH IST DAS KRASS TOUR 2\" • Live in Dresden 🦏 (@Messe Dresden)",
-        "category": "",
-        "description": "Das frechste Nashorn der Welt geht wieder auf Tour! DIKKA kündigt für 2026 eine 40 Termine umfassende „BOAH IST DAS KRASS 2“-Tour durch Deutschland, Österreich und die Schweiz an. Das verspricht eine supercoole Reise, viele Abenteuer und unvergessliche Konzerterlebnisse für kleine und große Gäste!Wir schreiben das Jahr 2020. Ein kleines Nashorn aus dem Berliner Zoo macht sich auf, die Musikwelt zu erobern. Im Gepäck: Jede Menge dikke Reime und Beats – und ein bisschen Unterstützung von einigen der größten Namen der deutschen Pop-Landschaft. Fünf Jahre vorgespult: heute weiß jedes Kind, wer DIKKA ist. Vom Reimnozeros gibt’s mittlerweile Bettwäsche, Sneaker, Müsli, Eis und sogar Skateboards – mal ganz zu schweigen von unzähligen Hit-Songs und Features mit den ganz Großen der hiesigen Szene: Sido, LEA, CRO, Wincent Weiss, Nico Santos, Mark Forster, Lena, Kontra K, SDP, Alvaro Soler, Kool Savas ... – ein Who-is-who der deutschen Popmusik, das zeigt, welche Strahlkraft das Nashorn längst hat. Ach ja, und ganz nebenbei hat er auch noch die Berliner Uber Arena ausverkauft und gemeinsam mit 13.000 Zuschauer:innen in ein riesiges Nashorngehege verwandelt. Krass, oder?DIKKAs viertes Album „BOAH ist das krass“ zeigt eindrucksvoll, wie konsequent er den Lebensalltag junger Hörerinnen und Hörer in moderne Popmusik übersetzt: Ob „Superkind“, „Nein heißt Nein“, „Ich bin Ich“ oder „Liebe Traurigkeit“ – DIKKA begegnet Selbstbewusstsein, Grenzen, Mut, Selbstzweifeln und großen Emotionen ohne erhobenen Zeigefinger, stets auf Augenhöhe und mit dem ihm typischen Augenzwinkern. Gesellschaftliche Themen klingen ebenfalls an: „Peace“ setzt ein Zeichen gegen Krieg und Gewalt, während „Astronaut“ (feat. Giraffenaffen) Klimabewusstsein kindgerecht verhandelt. Zugleich bleibt das Album leicht, frech und spielerisch – ein Spagat, den DIKKA so gut beherrscht wie kaum ein anderer.Seine Tour 2025 hat deutlich gemacht, dass DIKKAs Konzerte weit mehr sind als ein Kinderprogramm: Wenn das Licht ausgeht, wenn tierische Anekdoten für Heiterkeit sorgen und die Kids im vorderen Bereich aus voller Kehle mitsingen, entsteht ein Gefühl, das Eltern wie Kinder verbindet. Die Shows bieten Raum zum euphorischen Herumtoben, aber auch für leise, überraschend emotionale Momente – etwa, wenn Songs wie „Zusammen“ mit Montez für kollektive Gänsehaut sorgen.Für 2026 verspricht DIKKA erneut ein energiegeladenes, farbenfrohes und empowerndes Live-Erlebnis. Die Kinder dürfen tanzen, laut sein, träumen, staunen – und sich als Teil der Nashorngäng fühlen. Genau diese Mischung aus Spaß, Haltung und Herzenswärme macht DIKKAs Liveshows einzigartig.Sein Erfolg basiert auf organischem Wachstum, einem unkonventionellen Ansatz und einer klaren Mission: Kinder sollen sich mit ihm sicher, gesehen und mutig fühlen. „Ich wünsche mir, dass die Kinder durch meine Musik einen guten Kumpel an ihrer Seite haben“, sagt DIKKA – und diese Haltung prägt jedes Album und jede Show.Mit 40 Tourstopps bringt DIKKA seine bunte, laute und liebevolle Nashornwelt auch 2026 wieder auf die Bühne. Ein Erlebnis für Kinder – und alle, die einmal eins waren. Boah, wird das krass!",
-        "link": "https://rausgegangen.de/en/events/dikka-boah-ist-das-krass-2-live-in-dresden-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/fMeuwCyQkKjfoHEj6Ja5_gro-dikka-1-c-agentur-buff.jpeg?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Fri, 12.06.2026",
-        "time": "22:00",
-        "event": "POP2000 (@Groove Station)",
-        "category": "",
-        "description": "Zieh dein Glitzer-Top über, spring in die Baggy-Jeans und tauche ein in eine Nacht voller RAZZLE-DAZZLE-Nostalgie! Wir katapultieren dich direkt zurück in die Ära von MP3-Playern, Discokugeln und MTV. Von mitreißendem Pop über R&B-Floorfillers bis hin zu Indie-Hymnen und Electro-Krachern - wir servieren alles, was von 2000 bis 2009 die Charts dominiert und deine Jugend-Playlists geprägt hat. Neonlichter, Throwback-Momente und die ikonischen Beats jener Dekade sorgen dafür, dass jede Hook sofort sitzt und kein Fuß stillsteht.   \"What happens at POP2000 stays on your Nokia 3210!\"  POP2000 sounds like: Katy Perry, P!nk, Avril Lavigne, Kelly Clarkson, Christina Aguilera, Jennifer Lopez, Shakira, Nelly Furtado, Sugababes, Girls Aloud, The Black Eyed Peas, OutKast, Eminem, 50 Cent, Missy Elliott, Nelly, Usher, Sean Paul, T.I., Linkin Park, Green Day, Blink-182, Sum 41, Good Charlotte, Fall Out Boy, My Chemical Romance, Paramore, Foo Fighters, Coldplay, Keane, Snow Patrol, The Killers, Franz Ferdinand, Arctic Monkeys, Kings of Leon, The Strokes, The White Stripes, Muse, Gorillaz, Daft Punk, Justice, MGMT, Moby, Fatboy Slim, Calvin Harris, David Guetta, Cascada, Scooter, Wir sind Helden, Sportfreunde Stiller, Juli, Silbermond, Mia., Seeed, Peter Fox, Tokio Hotel, Deichkind, Jan Delay, Culcha Candela, Bushido, Sido, Fettes Brot, Die Ärzte, Die Toten Hosen, Revolverheld, Mando Diao, The Hives, Kasabian, Kaiser Chiefs, Yeah Yeah Yeahs, The Kooks, Modest Mouse, Phoenix, Interpol, Kings of Convenience, Norah Jones, Alicia Keys, Amy Winehouse, Maroon 5, The Fray, OneRepublic, The All-American Rejects, Evanescence, Nickelback, Simple Plan, Hoobastank, Red Hot Chili Peppers, Black Rebel Motorcycle Club, Gorillaz, Las Ketchup, O-Zone, t.A.T.u., Lilly Allen, Dido, Gwen Stefani, Timbaland, Jay-Z, Kanye West, Britney Spears, Beyoncé, Destinys Child, Rihanna, Lady Gaga, The Chemical Brothers, Swedish House Mafia, Paul van Dyk, Benny Benassi, Justice vs. Simian, Cascada & mehr - alles, was die 2000er knallen ließ!",
-        "link": "https://rausgegangen.de/en/events/pop2000-6/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/DCFIqYoRYukPrMQinl5g_pop2000www.png?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Fri, 12.06.2026",
-        "time": "23:00",
-        "event": "King Kong Kicks • Indie Pop & Hypes • Club Paula • Dresden (@Club Paula)",
-        "category": "",
-        "description": "Dresden, das mit uns ist nicht mehr normal! 🥳🤩King Kong kickt in deinen Club und bringt dir eine Nacht wie eine wilde Umarmung, best Friends mit dem Gefühl von Ankommen und Abgehen, tanzende Körper gehüllt in Indie-Pop, der sich wie ein Fluss im liebevollen Mix ins Herz spült, es regelrecht überschwemmt. ❤️‍🔥Energetisch, sinnlich, frei, denn das mit uns ist nicht mehr normal. ❤️Wer safe dabei sein will, sichert sich ganz einfach ein Ticket. 🎫Sounds like: Kraftklub • Ikkimel • Leoniden • Giant Rooks • Provinz • Fcukers • Zartmann Bloc Party • Royel Otis • Two Door Cinema Club • Tame Impala • Nina Chuba • Edwin Rosen • Charli XCX • Wet Leg • Ski Aggu • The Beaches • MakkoFR. 12.06.26 // 23:00 Uhr // Club Paula // Dresden-------------------------------------------------------------Wir bei Instagram & Spotify & SoundcloudMinimum age: 18Veranstalter: Club Paula",
-        "link": "https://rausgegangen.de/en/events/king-kong-kicks-indie-pop-hypes-club-paula-dresden-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7MLpIkUpTBqHVrh78R64_kkicks-banner-neutral.png?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Fri, 12.06.2026",
         "time": "23:00",
         "event": "bratty • w/ charli xcx & other brat coded artists • stuttgart (@Schräglage)",
         "category": "",
@@ -5335,6 +5317,16 @@
         "link": "https://rausgegangen.de/en/events/mareille-merck-larus-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5YtDrjS0iQaByMbolSAz_mareille-merck-ptrc-britschky.jpg?width=1200&height=900&mode=crop",
         "city": "Münster"
+    },
+    {
+        "date": "Fri, 12.06.2026",
+        "time": "20:00",
+        "event": "Yasmeen Godder Company ›SHELLING‹ (@PACT Zollverein)",
+        "category": "",
+        "description": "Die in New York als Enkelin polnischer und syrischer Großeltern aufgewachsene israelische Künstlerin Yasmeen Godder lädt das Publikum in diesem Solo zu einer intimen Begegnung mit dem Körper als lebendigem Archiv ein: ein Speicher von Spuren, Erinnerungen und Geschichten im ständigen Wandel – porös, widerständig und in permanenter Neuausrichtung.Der Titel ›SHELLING‹ verweist zugleich auf die Begriffe Gehäuse und Einschlag – und rückt damit den Körper als schützende Hülle ebenso wie als Ort in den Blick, der von äußeren Kräften geprägt wird. Aus einer intensiven choreografischen Auseinandersetzung mit Empathie als verbindender, widerständiger Praxis entstanden, entfaltet sich die Performance in Bewegungen zwischen Impuls, Zusammenbruch und Neuformierung. ›SHELLING‹ lauscht der inneren Stimme des Körpers und stellt die Frage: Wie kann ein Körper widerstehen, ohne zu zerbrechen?Weitere Informationen",
+        "link": "https://rausgegangen.de/en/events/yasmeen-godder-company-shelling-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/HFn01fLTRSipaMrPw2y3_shelling-by-omer-alsheich-2.jpg?width=1200&height=900&mode=crop",
+        "city": "Essen"
     },
     {
         "date": "Fri, 12.06.2026",
@@ -5425,6 +5417,13 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Sa, 13.06",
+        "time": "",
+        "event": "CSD Party (@nr.z.p)",
+        "link": "https://nrzp.de/event/csd-party",
+        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/Logo_small-150x150.png"
+    },
+    {
         "event": "Improtheater aus dem Hut – Die Familienshow(@theaterlaborbielefeld)",
         "date": "Sa, 13.06",
         "category": "Kultur",
@@ -5435,13 +5434,6 @@
         "date": "Sa, 13.06",
         "category": "Kultur",
         "link": "https://theaterlabor.eu/events/freestyle-die-impro-comedy-show-mit-den-stereotypen/"
-    },
-    {
-        "date": "Sa, 13.06",
-        "time": "",
-        "event": "CSD Party (@nr.z.p)",
-        "link": "https://nrzp.de/event/csd-party",
-        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/Logo_small-150x150.png"
     },
     {
         "date": "Sat, 13.06.2026",
@@ -5988,16 +5980,6 @@
     },
     {
         "date": "Sat, 20.06.2026",
-        "time": "20:00",
-        "event": "1Live Hörsaal-Comedy Tour 2026 (@Universität Essen R14/ Audimax)",
-        "category": "",
-        "description": "Von Newcomer:innen bis zu festen Größen wie Maraam Tarraf und Jerry Vsan bringt die 1LIVE Hörsaal-Comedy Tour frische Perspektiven und ehrlichen Humor direkt ins Uni-Leben. Hier gibt es satirische Beobachtungen, die mal bissig, mal charmant den Alltag zerlegen und dich garantiert zum Schmunzeln bringen 🤩",
-        "link": "https://rausgegangen.de/en/events/1live-horsaal-comedy-tour-2026-6/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/0ImboAqgQGqfBfw7Ra6Q_1lhsc26visual4k3840x2160px2.jpg?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Sat, 20.06.2026",
         "time": "19:00",
         "event": "NOSTALGIA - MEGA 90ER OPEN AIR | Dresden (@Ostra Beach)",
         "category": "",
@@ -6055,6 +6037,16 @@
         "link": "https://rausgegangen.de/en/events/tanz-der-vampire-360/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/NqCSwuNwQ7eW3nA0VNSF_hp-sputnik-2606.jpg?width=1200&height=900&mode=crop",
         "city": "Münster"
+    },
+    {
+        "date": "Sat, 20.06.2026",
+        "time": "20:00",
+        "event": "1Live Hörsaal-Comedy Tour 2026 (@Universität Essen R14/ Audimax)",
+        "category": "",
+        "description": "Von Newcomer:innen bis zu festen Größen wie Maraam Tarraf und Jerry Vsan bringt die 1LIVE Hörsaal-Comedy Tour frische Perspektiven und ehrlichen Humor direkt ins Uni-Leben. Hier gibt es satirische Beobachtungen, die mal bissig, mal charmant den Alltag zerlegen und dich garantiert zum Schmunzeln bringen 🤩",
+        "link": "https://rausgegangen.de/en/events/1live-horsaal-comedy-tour-2026-6/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/0ImboAqgQGqfBfw7Ra6Q_1lhsc26visual4k3840x2160px2.jpg?width=1200&height=900&mode=crop",
+        "city": "Essen"
     },
     {
         "date": "Sat, 20.06.2026",
@@ -6370,22 +6362,22 @@
     {
         "date": "Thu, 25.06.2026",
         "time": "19:00",
-        "event": "DUO:DONNERSTAG u.a. mit Svea Mausolf (@PACT Zollverein)",
-        "category": "",
-        "description": "Svea Mausolf bringt mit ihrem Debütroman „Image“ eine bissige Satire auf die Bühne, die mit schrägen Figuren und gesellschaftlichem Blick punktet. Danach kannst du dich auf einen musikalischen Ausklang freuen, der den Abend locker abrundet 🙂",
-        "link": "https://rausgegangen.de/en/events/duodonnerstag-u-a-mit-svea-mausolf-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/IjQjbVMRz24KBhLvFW4p_svea-mausolfimage.jpg?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Thu, 25.06.2026",
-        "time": "19:00",
         "event": "Kunst trifft Wein (@Travertinkeller Weingut der Stadt Stuttgart)",
         "category": "",
         "description": "Kunst trifft Wein 🎨🍷🍇🎼 Tauche ein in einen unvergesslichen Abend voller Farbe, Genuss und guter Gesellschaft! Bei Kunst trifft Wein kombinieren wir kreatives Schaffen mit edlen Tropfen – das perfekte Event für alle, die Lust auf Malen, Lachen und ein gutes Glas Wein haben. Die Künstlerin Corinna von Cona's Art begleitet dich Schritt für Schritt durch den gemeinsamen Abend. Mit ihrer Anleitung entsteht ganz entspannt ein echtes Kunstwerk – auch wenn du noch nie einen Pinsel in der Hand hattest. Am Ende nimmst du nicht nur dein eigenes Gemälde mit nach Hause, sondern auch schöne Erinnerungen und Eindrücke, die bleiben 🖼️ 🪄Einblicke vom letzten Event findest du hier. Eine Erfahrung für alle Sinne! ✨🍷🎨🗓 Datum: Donnerstag, 15.10. und 10.12.2026 🕖 Uhrzeit: 19–21 Uhr, Einlass: 18:30 Uhr 📍 Ort: Travertinkeller (Sulzerrainstr. 24, 70372 Stuttgart) 💶 Preis: 49 € p.P. (inkl. Materialien und 1 Glas Sekt) zzgl. Servicegebühren👉 Save the date & get your ticket! Während unseres Events „Kunst trifft Wein“ werden Foto- und Videoaufnahmen gemacht, die wir zur Dokumentation sowie für unsere Social-Media-Kanäle und Werbezwecke verwenden. Mit dem Kauf eines Tickets stimmst du dem zu. Du hast Lust auf eine andere Technik oder ein anderes Motiv?Hier findest du alle weiteren Kurse von Cona's ArtDu planst ein spezielles Event?Ob Geburtstag, Firmenevent, JGA, Hochzeit oder sonstigem Workshop, bei Cona's Art kannst du dein Event individuell besprechen und buchen. Melde dich hier zu einfach per Email, Whatsapp Chat oder schaue auf auf der Homepage nach für weitere Informationen.",
         "link": "https://rausgegangen.de/en/events/kunst-trifft-wein-2/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pHjmpQShWpFdyyMn7mQ5_logo9zu16.png?width=1200&height=900&mode=crop",
         "city": "Stuttgart"
+    },
+    {
+        "date": "Thu, 25.06.2026",
+        "time": "19:00",
+        "event": "DUO:DONNERSTAG u.a. mit Svea Mausolf (@PACT Zollverein)",
+        "category": "",
+        "description": "Svea Mausolf bringt mit ihrem Debütroman „Image“ eine bissige Satire auf die Bühne, die mit schrägen Figuren und gesellschaftlichem Blick punktet. Danach kannst du dich auf einen musikalischen Ausklang freuen, der den Abend locker abrundet 🙂",
+        "link": "https://rausgegangen.de/en/events/duodonnerstag-u-a-mit-svea-mausolf-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/IjQjbVMRz24KBhLvFW4p_svea-mausolfimage.jpg?width=1200&height=900&mode=crop",
+        "city": "Essen"
     },
     {
         "date": "Fr, 26.06.2026",
@@ -9063,16 +9055,6 @@
     },
     {
         "date": "Fri, 28.08.2026",
-        "time": "19:00",
-        "event": "Nina Chuba /// Live 2026 (@Seaside Beach Baldeney)",
-        "category": "",
-        "description": "Ein spektakulärer Sommer neigt sich dem Ende: Im September dann das zweite Album, im Oktober die seit Monaten ausverkaufte Arena Tour und was folgt jetzt? Nina Chuba hat noch mehr große Neuigkeiten: 2026 spielt sie ihre bisher größten Open Air Shows. Von der Berliner Wuhlheide über die Hamburger Trabrennbahn bis hin zur ersten Stadion Show: In 14 Städten wird sie nicht nur mit neuer Musik überzeugen, das steht fest!  Durch ihre ganz eigene Art Geschichten zu erzählen und Musik zu schreiben, berührt Nina Chuba seit ihrer ersten deutschsprachigen Single „Neben mir“ (2021) ein Publikum über Generationsgrenzen hinaus. Ihre Musik fließt durch Genres zwischen Synthesizern, Gitarren, Piano und Blassinstrumenten und ergreift ihre über fünf Millionen Spotify-Hörer:innen fast mühelos, weil Musik für Nina Chuba mehr ist als Entertainment: Sie bedeutet Ausdruck, Selbstreflektion und Wachsen – mit ihrem Publikum. Ihre neusten Releases wie „Unsicher“, „Rage Girl“ und „Fucked Up“ schmücken bereits die deutschlandweiten Sommer Playlists und steigern die Spannung auf das kommende Album „Ich lieb mich, ich lieb mich nicht“. Im Anschluss an diese Veröffentlichung kommt Nina Chuba dann mit brandheißen Songs auf Arenatour – doch wer im Oktober keine Chance mehr bekommt sie live zu sehen oder einfach nicht genug bekommen kann, freut sich ab jetzt auf den Sommer 2026. Denn es wird größer, schöner, wilder – aber Nina weiß, dass Nina kann.",
-        "link": "https://rausgegangen.de/en/events/nina-chuba-live-2026-11/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vBuandPWSy6kz2IPlQAQ_ninachubalive2026fbheader0825.jpg?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Fri, 28.08.2026",
         "time": "23:00",
         "event": "bratty • w/ charli xcx & other brat coded artists • dresden (@Club Paula)",
         "category": "",
@@ -9080,6 +9062,16 @@
         "link": "https://rausgegangen.de/en/events/brat-party-w-charli-xcx-other-brat-coded-artists-dresden-4/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/JvFSfdZjQKKUU5ogVq1p_2026-08-28-bratty-dresden-rausgeg-banner.png?width=1200&height=900&mode=crop",
         "city": "Dresden"
+    },
+    {
+        "date": "Fri, 28.08.2026",
+        "time": "19:00",
+        "event": "Nina Chuba /// Live 2026 (@Seaside Beach Baldeney)",
+        "category": "",
+        "description": "Ein spektakulärer Sommer neigt sich dem Ende: Im September dann das zweite Album, im Oktober die seit Monaten ausverkaufte Arena Tour und was folgt jetzt? Nina Chuba hat noch mehr große Neuigkeiten: 2026 spielt sie ihre bisher größten Open Air Shows. Von der Berliner Wuhlheide über die Hamburger Trabrennbahn bis hin zur ersten Stadion Show: In 14 Städten wird sie nicht nur mit neuer Musik überzeugen, das steht fest!  Durch ihre ganz eigene Art Geschichten zu erzählen und Musik zu schreiben, berührt Nina Chuba seit ihrer ersten deutschsprachigen Single „Neben mir“ (2021) ein Publikum über Generationsgrenzen hinaus. Ihre Musik fließt durch Genres zwischen Synthesizern, Gitarren, Piano und Blassinstrumenten und ergreift ihre über fünf Millionen Spotify-Hörer:innen fast mühelos, weil Musik für Nina Chuba mehr ist als Entertainment: Sie bedeutet Ausdruck, Selbstreflektion und Wachsen – mit ihrem Publikum. Ihre neusten Releases wie „Unsicher“, „Rage Girl“ und „Fucked Up“ schmücken bereits die deutschlandweiten Sommer Playlists und steigern die Spannung auf das kommende Album „Ich lieb mich, ich lieb mich nicht“. Im Anschluss an diese Veröffentlichung kommt Nina Chuba dann mit brandheißen Songs auf Arenatour – doch wer im Oktober keine Chance mehr bekommt sie live zu sehen oder einfach nicht genug bekommen kann, freut sich ab jetzt auf den Sommer 2026. Denn es wird größer, schöner, wilder – aber Nina weiß, dass Nina kann.",
+        "link": "https://rausgegangen.de/en/events/nina-chuba-live-2026-11/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vBuandPWSy6kz2IPlQAQ_ninachubalive2026fbheader0825.jpg?width=1200&height=900&mode=crop",
+        "city": "Essen"
     },
     {
         "date": "Fri, 28.08.2026",
@@ -10173,14 +10165,6 @@
         "city": "Münster"
     },
     {
-        "date": "Sat, 26.09",
-        "time": "22:30",
-        "event": "TRANCELAND w SHOKI 287 (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/tranceland-w-shoki-287-26092026-2230",
-        "image_url": "https://www.club-sams.de/data/202603/vvk_2026_3__150.png?v=1774541141"
-    },
-    {
         "date": "Sa, 26.09.2026",
         "time": "14:00",
         "event": "*TRIBE WANDERSAMSTAG*",
@@ -10219,6 +10203,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 26.09",
+        "time": "22:30",
+        "event": "TRANCELAND w SHOKI 287 (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/tranceland-w-shoki-287-26092026-2230",
+        "image_url": "https://www.club-sams.de/data/202603/vvk_2026_3__150.png?v=1774541141"
     },
     {
         "date": "Sat, 26.09.2026",
@@ -10484,14 +10476,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Sat, 03.10",
-        "time": "22:30",
-        "event": "DARKSIDE OF SAMS (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/darkside-of-sams-03102026-2230",
-        "image_url": "https://www.club-sams.de/data/202603/vvk_2026_150.png?v=1774540498"
-    },
-    {
         "date": "Sa, 03.10.2026",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -10522,6 +10506,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 03.10",
+        "time": "22:30",
+        "event": "DARKSIDE OF SAMS (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/darkside-of-sams-03102026-2230",
+        "image_url": "https://www.club-sams.de/data/202603/vvk_2026_150.png?v=1774540498"
     },
     {
         "date": "Sat, 03.10.2026",
@@ -10778,14 +10770,6 @@
         "link": "https://www.bielefeld.jetzt/node/1535050"
     },
     {
-        "date": "Sat, 10.10",
-        "time": "22:30",
-        "event": "TRANCELAND feat HUT B DAY w AFEM SYKO (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/tranceland-feat-hut-b-day-w-afem-syko-10102026-2230",
-        "image_url": "https://www.club-sams.de/data/202603/vvk_2026_2__150.png?v=1774540725"
-    },
-    {
         "date": "Sa, 10.10.2026",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -10816,6 +10800,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 10.10",
+        "time": "22:30",
+        "event": "TRANCELAND feat HUT B DAY w AFEM SYKO (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/tranceland-feat-hut-b-day-w-afem-syko-10102026-2230",
+        "image_url": "https://www.club-sams.de/data/202603/vvk_2026_2__150.png?v=1774540725"
     },
     {
         "date": "Sat, 10.10.2026",
@@ -12138,14 +12130,6 @@
         "link": "https://www.bielefeld.jetzt/node/1734251"
     },
     {
-        "date": "Sat, 14.11",
-        "time": "22:30",
-        "event": "SAMSARA #2 w OMIK (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/samsara-2-w-omik-14112026-2230",
-        "image_url": "https://www.club-sams.de/data/202603/vvk_2026_1__150.png?v=1774540387"
-    },
-    {
         "date": "Sa, 14.11.2026",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -12176,6 +12160,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 14.11",
+        "time": "22:30",
+        "event": "SAMSARA #2 w OMIK (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/samsara-2-w-omik-14112026-2230",
+        "image_url": "https://www.club-sams.de/data/202603/vvk_2026_1__150.png?v=1774540387"
     },
     {
         "date": "Sat, 14.11.2026",
