@@ -1,5 +1,13 @@
 [
     {
+        "date": "Di, 26.05.2026",
+        "time": "22:55",
+        "event": "Star Wars: The Mandalorian & Grogu (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Science-Fiction & Abenteuer & Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
         "date": "Tu, 26.05.2026",
         "time": "18:00",
         "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
@@ -14,14 +22,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Di, 26.05.2026",
-        "time": "22:55",
-        "event": "Star Wars: The Mandalorian & Grogu (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Science-Fiction & Abenteuer & Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Di, 26.05.2026",
@@ -97,16 +97,6 @@
     },
     {
         "date": "Tue, 26.05.2026",
-        "time": "12:00",
-        "event": "XPOSED Queer Film Festival Berlin 2026 (@Diverse Orte in Berlin)",
-        "category": "",
-        "description": "XPOSED feiert 20 Jahre queeres Kino abseits des Mainstreams und zeigt mit 74 neuen Filmen die Vielfalt queerer Geschichten, die Grenzen überschreiten. Neben Filmen erwarten dich auch Ausstellungen und Performances, die das Festival zu einem Raum für Austausch und radikale Perspektiven machen 🫂",
-        "link": "https://rausgegangen.de/en/events/xposed-queer-film-festival-berlin-2026-6/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eRMijqfNQlqwwuGI7UQs_xposed-2026-wide-hdlogos.jpg?width=1200&height=900&mode=crop",
-        "city": "Berlin"
-    },
-    {
-        "date": "Tue, 26.05.2026",
         "time": "18:30",
         "event": "Create & Yap – Get Your Project Done 💪 - Picknick 🧺 (@Düsseldorf, Volksgarten)",
         "category": "",
@@ -124,6 +114,16 @@
         "link": "https://rausgegangen.de/en/events/comedy-fur-freunde-profi-testbuhne-102/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/FIUMp5GMRLK9ORUMh9Uc_bildschirmfoto-2026-05-20-um-202348.png?width=1200&height=900&mode=crop",
         "city": "Düsseldorf"
+    },
+    {
+        "date": "Tue, 26.05.2026",
+        "time": "12:00",
+        "event": "XPOSED Queer Film Festival Berlin 2026 (@Diverse Orte in Berlin)",
+        "category": "",
+        "description": "XPOSED feiert 20 Jahre queeres Kino abseits des Mainstreams und zeigt mit 74 neuen Filmen die Vielfalt queerer Geschichten, die Grenzen überschreiten. Neben Filmen erwarten dich auch Ausstellungen und Performances, die das Festival zu einem Raum für Austausch und radikale Perspektiven machen 🫂",
+        "link": "https://rausgegangen.de/en/events/xposed-queer-film-festival-berlin-2026-6/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eRMijqfNQlqwwuGI7UQs_xposed-2026-wide-hdlogos.jpg?width=1200&height=900&mode=crop",
+        "city": "Berlin"
     },
     {
         "date": "Tue, 26.05.2026",
@@ -258,6 +258,36 @@
     {
         "date": "Tue, 26.05.2026",
         "time": "19:00",
+        "event": "Wohnzimmerslam (@Taranta Babu)",
+        "category": "",
+        "description": "Hier treffen cozy Vibes auf unterhaltsame Stimmen und spannende Inhalte 💫",
+        "link": "https://rausgegangen.de/en/events/wohnzimmerslam-41/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/l2yspwKQqSCXeV0G0Eso_img5866.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Tue, 26.05.2026",
+        "time": "19:30",
+        "event": "FZW Indie Night: Alcoholic Faith Mission (@FZW Dortmund)",
+        "category": "",
+        "description": "Alcoholic Faith Mission aus Kopenhagen stellen ihre neue Platte vor und bringen ihren melancholisch experimentellen Indie nach Dortmund zurück. Im kleinen Rahmen steht jede Nuance im Fokus und schafft einen besonderen Abend für alle Indie-Fans 🫶",
+        "link": "https://rausgegangen.de/en/events/fzw-indie-night-alcoholic-faith-mission-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/D00TGMWaTouw5qQmeyAQ_fzw-indie-night20260526.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Tue, 26.05.2026",
+        "time": "19:30",
+        "event": "Die Comedy Werkstatt Dortmund Weingrün (@Weingrün)",
+        "category": "",
+        "description": "Neue Bühne, neues Potential: Hier können Newcomer und Profis ordentlich an ihren Gags pfeilen... und natürlich auch mal failen. Either way, das kann ja lustig werden! 🎭",
+        "link": "https://rausgegangen.de/en/events/die-comedy-werkstatt-dortmund-weingrun-52/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/joicCvrTyumAKm1pXezw_img4282jpg.jpeg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Tue, 26.05.2026",
+        "time": "19:00",
         "event": "Pubquiz im Unithekle (@Unithekle)",
         "category": "",
         "description": "Beim Pubquiz in der Unithekle kannst du dein Wissen in vier abwechslungsreichen Runden auf die Probe stellen. Die sorgfältig ausgewählten Fragen fordern sowohl Allgemeinwissen als auch spezielle Themenbereiche heraus. Für die Sieger:innen gibt es kühle Getränke als Anerkennung, während die anderen die Spielrunde mitgestalten dürfen.",
@@ -377,6 +407,16 @@
     },
     {
         "date": "Tue, 26.05.2026",
+        "time": "20:00",
+        "event": "Lloyd Banks (@Gibson Club)",
+        "category": "",
+        "description": "Lloyd Banks mixt Hip-Hop mit R&B und bringt so Soundtracks wie „On Fire“ und „Karma“ auf die Bühnen. Der Rapper aus Baltimore trifft 2026 mitten ins Herz der Szene und liefert dir Tracks aus seinen Alben „Hunger for More“ und „Rotten Apple“ 🤩",
+        "link": "https://rausgegangen.de/en/events/lloyd-banks-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/nJMpKmFPQSUFjiw1aGKk_llyod-banks-tour-2026-quadratisch-frankfurt.png?width=1200&height=900&mode=crop",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Tue, 26.05.2026",
         "time": "18:00",
         "event": "Erich Kästner - Als ich ein kleiner Junge war (@LiteraturKeller)",
         "category": "",
@@ -397,46 +437,6 @@
     },
     {
         "date": "Tue, 26.05.2026",
-        "time": "20:00",
-        "event": "Lloyd Banks (@Gibson Club)",
-        "category": "",
-        "description": "Lloyd Banks mixt Hip-Hop mit R&B und bringt so Soundtracks wie „On Fire“ und „Karma“ auf die Bühnen. Der Rapper aus Baltimore trifft 2026 mitten ins Herz der Szene und liefert dir Tracks aus seinen Alben „Hunger for More“ und „Rotten Apple“ 🤩",
-        "link": "https://rausgegangen.de/en/events/lloyd-banks-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/nJMpKmFPQSUFjiw1aGKk_llyod-banks-tour-2026-quadratisch-frankfurt.png?width=1200&height=900&mode=crop",
-        "city": "Frankfurt"
-    },
-    {
-        "date": "Tue, 26.05.2026",
-        "time": "19:00",
-        "event": "Wohnzimmerslam (@Taranta Babu)",
-        "category": "",
-        "description": "Hier treffen cozy Vibes auf unterhaltsame Stimmen und spannende Inhalte 💫",
-        "link": "https://rausgegangen.de/en/events/wohnzimmerslam-41/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/l2yspwKQqSCXeV0G0Eso_img5866.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Tue, 26.05.2026",
-        "time": "19:30",
-        "event": "FZW Indie Night: Alcoholic Faith Mission (@FZW Dortmund)",
-        "category": "",
-        "description": "Alcoholic Faith Mission aus Kopenhagen stellen ihre neue Platte vor und bringen ihren melancholisch experimentellen Indie nach Dortmund zurück. Im kleinen Rahmen steht jede Nuance im Fokus und schafft einen besonderen Abend für alle Indie-Fans 🫶",
-        "link": "https://rausgegangen.de/en/events/fzw-indie-night-alcoholic-faith-mission-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/D00TGMWaTouw5qQmeyAQ_fzw-indie-night20260526.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Tue, 26.05.2026",
-        "time": "19:30",
-        "event": "Die Comedy Werkstatt Dortmund Weingrün (@Weingrün)",
-        "category": "",
-        "description": "Neue Bühne, neues Potential: Hier können Newcomer und Profis ordentlich an ihren Gags pfeilen... und natürlich auch mal failen. Either way, das kann ja lustig werden! 🎭",
-        "link": "https://rausgegangen.de/en/events/die-comedy-werkstatt-dortmund-weingrun-52/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/joicCvrTyumAKm1pXezw_img4282jpg.jpeg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Tue, 26.05.2026",
         "time": "19:00",
         "event": "José González • \"Against The Dying Of The Light“-Tour 2026 • Dresden 🤩 (@Beatpol)",
         "category": "",
@@ -444,6 +444,14 @@
         "link": "https://rausgegangen.de/en/events/jose-gonzalez-against-the-dying-of-the-light-tour-2026-dresd-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/xCQI7z8nTaaUqvcVFKuL_josegonzalez2025fotoellika-hweb04.jpg?width=1200&height=900&mode=crop",
         "city": "Dresden"
+    },
+    {
+        "date": "Mi, 27.05.2026",
+        "time": "22:55",
+        "event": "Star Wars: The Mandalorian & Grogu (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Science-Fiction & Abenteuer & Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "We, 27.05.2026",
@@ -484,14 +492,6 @@
         "category": "Ausgehen",
         "link": "https://www.instagram.com/diesdascomedy/",
         "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1149914903%2F458602689502%2F1%2Foriginal.jpg?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=9fe71dc7482ee7b9a2010ffe02860068"
-    },
-    {
-        "date": "Mi, 27.05.2026",
-        "time": "22:55",
-        "event": "Star Wars: The Mandalorian & Grogu (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Science-Fiction & Abenteuer & Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Mi, 27.05.2026",
@@ -591,32 +591,28 @@
         "city": "Detmold"
     },
     {
-        "date": "Wed, 27.05.2026",
-        "time": "18:25",
-        "event": "Dancehall Tanzfitness & Workout (@Traumtänzer - Tanzschule in Leipzig)",
-        "category": "",
-        "description": "Lerne einfache Dancehall Bewegungen kennen und trainiere gleichzeitig Deine Fitness.Unser beliebtes Tanz-Fitness-Konzept ist ein Workout, dass Spaß macht. Dynamisches, schweißtreibendes Training zu animierender Dancehall Musik. Das Workout kombiniert einfache Dancehall Tanzschritte und effektive Fitnessübungen und trainiert dadurch Kondition, Koordination und Muskelkraft. Steigerung Deiner Beweglichkeit & Fitness Verbesserung Koordination und Körperkontrolle Ganz-Körper-Workout Hoher Kalorienverbrauch Spaß beim Training & CommunityBuche jetzt eine Probestunde!",
-        "link": "https://rausgegangen.de/en/events/dancehall-tanzfitness-workout-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/iP1tbb8bSC2O0VazXEbG_dancehall-fitness-banner.png?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
-    },
-    {
-        "date": "Wed, 27.05.2026",
-        "time": "18:30",
-        "event": "BREATHWORK SAFE SPACE Flinta* only mit Sina (@OnlyYou Holistic Center)",
-        "category": "",
-        "description": "Ich bin Sina (sie/they), Meditations- & Breathwork Facilitator*in, und begleite deine Atemreise 💖❤️Was macht Breathwork für mich besonders? 💖• Die Gleichzeitigkeit und Gleichwertigkeit aller Emotionen auf deiner Atemreise ❤️ Alles darf da sein – Freude, Trauer, Wut, Ruhe oder das Gefühl, gerade nichts zu spüren. Dein Atem schafft Raum für alles, was sich zeigen möchte.• Der Atem als ultimative Rückkehr ❤️ Breathwork ist für mich ein Homecoming – eine Möglichkeit, wieder tiefer bei dir selbst anzukommen und in deinen eigenen Körper einzutauchen.• Verbindung zu dir – und zur Gruppe 💖 Neben der persönlichen Innenreise entsteht auch eine kraftvolle gemeinschaftliche Erfahrung von Release, Präsenz und gegenseitiger Unterstützung.Warum ein FLINTA* Safe Space? 💖Viele Menschen fühlen sich in Breathwork-Sessions nicht immer vollständig sicher oder gesehen – besonders in großen oder gemischten Gruppen. Deshalb gestalte ich diesen Raum bewusst als FLINTA*-Space in kleinen Gruppen. So entsteht ein geschützter Rahmen, in dem du dich sicher fühlen, loslassen und deine Erfahrung in deinem eigenen Tempo machen kannst.Meine Haltung ❤️ Möglichkeitsräume sicher erforschen und Wachstumsprozesse achtsam begleiten.Keine Vorkenntnisse notwendig.Ich freue mich auf dich! 💖❤️ Kontraindikationen: Bluthochdruck, schwere Herzerkrankungen, Schlaganfall Organerkrankungen im Abdomen, Pneumothorax Schwangerschaft, Beschwerden in den Wechseljahren, Hernien/Leisten/ Zwerchfell Epilepsie, Netzhauterkrankungen, Glaukom, Neigungen zu starkem Schwindel oder Ohnmacht Asthma, Bronchitis, Tuberkulose, Psychosen  Hosted by: OnlyYou Holistic Center",
-        "link": "https://rausgegangen.de/en/events/breathwork-safe-space-flinta-only-mit-sina-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ZFnLA42lR8yan8ajYYqG_6.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
         "date": "Th, 28.05.2026",
         "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Do, 28.05.2026",
+        "time": "22:55",
+        "event": "Star Wars: The Mandalorian & Grogu (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Science-Fiction & Abenteuer & Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
+        "date": "Th, 28.05.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 28.05.2026",
@@ -657,22 +653,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 28.05.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
-        "date": "Do, 28.05.2026",
-        "time": "22:55",
-        "event": "Star Wars: The Mandalorian & Grogu (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Science-Fiction & Abenteuer & Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Do, 28.05.2026",
@@ -751,6 +731,16 @@
         "date": "Do, 28.05",
         "category": "Kultur",
         "link": "https://theaterlabor.eu/events/buecher-bier-und-schokolade/"
+    },
+    {
+        "date": "Thu, 28.05.2026",
+        "time": "20:00",
+        "event": "Punchline Comedy | TRIBE Hotel Düsseldorf (@TRIBE Düsseldorf)",
+        "category": "",
+        "description": "Hier findest du eine bunte Comedy-Mischung aus Newcomern und bekannten Gesichtern, die in kurzen Live-Sets für ordentlich Gelächter sorgen. Mel Jamini führt dich durch den Abend voll Überraschungen und einer Portion Wahnsinn auf der Bühne 😎",
+        "link": "https://rausgegangen.de/en/events/punchline-comedy-tribe-hotel-dusseldorf-4/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Jeg8WKFTz2oZsemdtZU0_tribe2025.jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
     },
     {
         "date": "Thu, 28.05.2026",
@@ -944,16 +934,6 @@
     },
     {
         "date": "Thu, 28.05.2026",
-        "time": "20:00",
-        "event": "Punchline Comedy | TRIBE Hotel Düsseldorf (@TRIBE Düsseldorf)",
-        "category": "",
-        "description": "Hier findest du eine bunte Comedy-Mischung aus Newcomern und bekannten Gesichtern, die in kurzen Live-Sets für ordentlich Gelächter sorgen. Mel Jamini führt dich durch den Abend voll Überraschungen und einer Portion Wahnsinn auf der Bühne 😎",
-        "link": "https://rausgegangen.de/en/events/punchline-comedy-tribe-hotel-dusseldorf-4/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Jeg8WKFTz2oZsemdtZU0_tribe2025.jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Thu, 28.05.2026",
         "time": "18:15",
         "event": "Ein Glücksding - Nach Stimmen und Zeitzeugnissen von damals und heute (@Theater der Jungen Welt)",
         "category": "",
@@ -1020,16 +1000,6 @@
         "description": "Animal Flow® Outdoor – Functional Mobility & Movement @Sportpionierpark Köln Dienstags 18:00–19:00 Uhr Donnerstags 18:00–19:00 UhrAnimal Flow® by A2Flow Fitness Köln ist ein einzigartiges Ganzkörpertraining, inspiriert von kraftvollen und fließenden Tierbewegungen. Es verbindet Mobilität, Stabilität, Kraft und Ausdauer zu einem Workout, das deinen Körper ganzheitlich fordert und deine Bewegungsfreiheit erweitert.In unseren Sessions erlebst du deinen Körper neu – dynamisch, kreativ und voller Energie. Animal Flow® trainiert nicht nur Muskeln, sondern auch Koordination, Balance und Körperbewusstsein.Treffpunkt / StandortSportpionierpark Köln, Bonnerstr. 126Dienstag: Bei gutem Wetter Outdoor im Sportspionierpark Köln. Bei Regen Indoor im Caritas Zentrum, Zülpicher Str. 273B. Eingang hinter der CARUSO Focacceria Bar.Teilnahme: Buche deinen Platz ganz einfach über:Urban Sports Club Wellpass Privatbuchung 12 € (inkl. Gebühren)Komm vorbei, probier’s aus und fließe mit uns durch die Woche!",
         "link": "https://rausgegangen.de/en/events/animal-flow-outdoor-functional-mobility-movement-7/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RXl42FbPSVFlkGycDYfj_aff0f5ef-e349-4c7a-847c-14161d188e21.jpg?width=1200&height=900&mode=crop",
-        "city": "Köln"
-    },
-    {
-        "date": "Thu, 28.05.2026",
-        "time": "18:00",
-        "event": "KÖLNER KINO NÄCHTE 2026 (@Diverse Veranstaltungsorte in Köln)",
-        "category": "",
-        "description": "Bei den Kölner Kino Nächten 2026 erwartet dich ein vielfältiges Programm mit 50 Filmen an 17 Spielorten quer durch die Stadt. Ob Klassiker, Premieren oder Kurzfilme – mit einem Ticket kannst du alles mitnehmen und neue filmische Ecken entdecken 🥂",
-        "link": "https://rausgegangen.de/en/events/kolner-kino-nachte-2026-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/bvrrJDoxQDPeQ5In4VhA_design-ohne-titel-7.png?width=1200&height=900&mode=crop",
         "city": "Köln"
     },
     {
@@ -1351,12 +1321,12 @@
         "link": "https://www.bielefeld.jetzt/node/1753290"
     },
     {
-        "date": "Fri, 29.05",
-        "time": "22:00",
-        "event": "We Outside 16+ (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/we-outside-16-29052026-2200",
-        "image_url": "https://www.club-sams.de/data/202604/LOGO_ONLY_pr_setnation_Einladung_Quadrat__150_1.png?v=1777453613"
+        "date": "Fr, 29.05.2026",
+        "time": "22:55",
+        "event": "Star Wars: The Mandalorian & Grogu (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Science-Fiction & Abenteuer & Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Fr, 29.05.2026",
@@ -1391,6 +1361,14 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Fri, 29.05",
+        "time": "23:00",
+        "event": "Hörsaal33 - SWEET2K16 (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/hoersaal33-sweet2k16/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/04/Hoersaal33_1080x1350_Feed_Sweet2k.png"
+    },
+    {
         "date": "Fr, 29.05",
         "time": "23:00",
         "event": "SA • LOVE SATURDAYS x TEQUILA NIGHT (@cafe_europa_bi)",
@@ -1400,19 +1378,11 @@
     },
     {
         "date": "Fri, 29.05",
-        "time": "23:00",
-        "event": "Hörsaal33 - SWEET2K16 (@stereobielefeld)",
+        "time": "22:00",
+        "event": "We Outside 16+ (@sams_bielefeld)",
         "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/hoersaal33-sweet2k16/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/04/Hoersaal33_1080x1350_Feed_Sweet2k.png"
-    },
-    {
-        "date": "Fr, 29.05.2026",
-        "time": "22:55",
-        "event": "Star Wars: The Mandalorian & Grogu (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Science-Fiction & Abenteuer & Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+        "link": "https://www.club-sams.de/veranstaltung/we-outside-16-29052026-2200",
+        "image_url": "https://www.club-sams.de/data/202604/LOGO_ONLY_pr_setnation_Einladung_Quadrat__150_1.png?v=1777453613"
     },
     {
         "date": "Fr, 29.05.2026",
@@ -1475,6 +1445,76 @@
         "date": "Fr, 29.05",
         "category": "Kultur",
         "link": "https://theaterlabor.eu/events/theaterlabor-wie-erzaehlen-wir-das-jetzt/"
+    },
+    {
+        "date": "Fri, 29.05.2026",
+        "time": "16:00",
+        "event": "Das Weinfest 2026 - Spritzig, laut und wild! (@Stahlwerk & Treibgut)",
+        "category": "",
+        "description": "Beim Weinfest 2026 erwarten dich spritzige Tropfen und eine ausgelassene Stimmung, die Weinliebhaber:innen und Neulinge gleichermaßen begeistert. Das Event bringt unkomplizierten Genuss und lebhaften Austausch zusammen und zeigt, wie vielseitig Wein sein kann 🥂",
+        "link": "https://rausgegangen.de/en/events/das-weinfest-2026-spritzig-laut-und-wild-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GpNOv7d4SPiXoeXVXZnX_weinfestbanner2026.png?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Fri, 29.05.2026",
+        "time": "17:00",
+        "event": "Wildkräuter- Workshop im Wald (@Globetrotter Düsseldorf)",
+        "category": "",
+        "description": "Workshop mit Astrid WalkerIn diesem Workshop lernst Du während eines Waldspazierganges ausgesuchte Wildkräuter und Baumarten näher kennen. Du erfährst, welche Pflanzen essbar sind und wie Du ihre Blätter oder Früchte in der Wildkräuterküche verwenden kannst. Einige dieser Pflanzen und auch Pilze eignen sich für die Herstellung von Heilmitteln aus der Natur. Wir stellen eine Kräuterkleinigkeit zum Mit nach Hause nehmen her. Bei einem gemeinsamen Picknick mit dem Outdoorkocher brutzeln wir einen Wildkräuter- Snack. So kannst Du Dein neues Wissen direkt praktisch umsetzen und auch mit nach Hause nehmen.LeitungAstrid WalkerDipl.- Ing. LandespflegeZertifizierte WaldpädagoginTreffpunkt und Veranstaltungsort Spielplatz Müller ́s Wiese im Aaper Wald am Dachsbergweg in Düsseldorf Oberrath (https://maps.app.goo.gl/BxcmmURdhBQRsBBW9). Dort an den Fahrradständern auf der rechten Seite.Datum und Uhrzeit Freitag 29. Mai 2026, 17.00 bis 20.00 Uhr.HinweisBitte auf robuste, dem Wetter angepasste Kleidung achten und feste Schuhe anziehen. Die Wege sind gut zu begehen, teilweise gehen wir ohne Wege in den Wald. Eventuell eine Sitzunterlage und ein Getränk mitbringen. Hunde bitte zu Hause lassen. Zecken- und Mückenschutz ist wichtig. Im Wald gilt ein Rauchverbot.Du kannst circa sechs verschiedene Wildkräuter genauer kennen lernen, dazu zwei Baumgattungen und zwei Pilzarten.Wetter Die Veranstaltung findet auch bei leichtem Regen statt, bei einer Wetterwarnung des Deutschen Wetterdienst fällt die Veranstaltung aus. Dafür bei der Anmeldung bitte unbedingt eine Handynummer angeben!Globetrotter Club-Mitglieder erhalten alle Tickets zu vergünstigten Konditionen. Falls du also noch nicht dabei bist, melde dich am besten so schnell wie möglich ganz unverbindlich an.Hinweise zu Veranstaltungskarten:Sofern nicht anders vermerkt, finden die Vorträge in unserer Clubhütte statt. In diesem einmaligen Ambiente ist lediglich Platz für eine begrenzte Anzahl von Gästen, weswegen wir die Nutzung des Vorverkaufs dringend empfehlen. Sofern unsere Veranstaltungen ausverkauft sind, bieten wir keine Abendkasse mehr an.Bei Online-Tickets fallen keine Versandkosten an – diese werden zwar vorerst angezeigt, aber im Warenkorb wieder entfernt, solltest du keine weiteren Käufe tätigen.Achtung: Online Anmeldeschluss ist zwei Stunden vor Eventbeginn.",
+        "link": "https://rausgegangen.de/en/events/wildkrauter-workshop-im-wald-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/zv4jsa1v2s0y.png?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Fri, 29.05.2026",
+        "time": "18:00",
+        "event": "ARGIES (@Pitcher - Rock'n'Roll Headquarter Düsseldorf)",
+        "category": "",
+        "description": "Since their formation in 1984, Argies have stood out due to their libertarian poetry, the power of their music and the understanding and coherence of their political attitude. Even though their roots can be found in the British Punk from the seventies, nowadays their music witnesses influences from ska, reggae, dub and good part of rock’n’roll elements and Latin rhythms. Practicing a philosophy of \"do it yourself\" they have made a successful career while maintaining independence. The name \"Argies\" derives from the English pejorative term for \"Argentinean\" which was most popularly used by the British yellow press during the Falkland War in 1982. Far from being nationalists, their name connects the band, the members of which define themselves as internationalists, with debased minorities and marginalized people worldwide. By the mid nineties, Argies left their hometown Rosario and moved to Buenos Aires. Since then, playing more than 35 shows annually, they came to be known as one of the most frequently performing acts in town. Starting in 1999, the band has regularly played extended tours in America, Asia and Europe. The Band functions like a collective of committed musicians all of which form part of the project for undetermined periods, entering and leaving Argies with the same liberty that also characterizes the work in the band and the way in which its members study and teach in joint efforts across their differences. Over the years, the band’s particular method of making music has made Argies a truly independent cultural movement.",
+        "link": "https://rausgegangen.de/en/events/argies-7/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/UuFEjDUhSsrHlF3FJxx2_55746676611147333207769284144209306110339358n.jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Fri, 29.05.2026",
+        "time": "18:00",
+        "event": "Comedy Allstars Düsseldorf (@Comedy Club Düsseldorf)",
+        "category": "",
+        "description": "Comedy Allstars – Die neue Comedy Show im Comedy Club Düsseldorf Die Comedy Allstars bieten ein unvergessliches Comedy-Erlebnis im Comedy Club Düsseldorf! In dieser Show treten die besten Künstler der vergangenen Jahre auf, die das Publikum mit ihrem einzigartigen Humor begeistern. Erlebe eine Mischung aus Stand-up-Comedy, Improvisation und überraschenden Highlights – alles auf höchstem Niveau. Die Comedyflash Allstars garantieren einen Abend voller Lachen und Unterhaltung, bei dem kein Auge trocken bleibt. Hol dir deine Tickets und sei dabei, wenn die Comedy-Szene ihre besten Talente präsentiert!",
+        "link": "https://rausgegangen.de/en/events/comedy-allstars-dusseldorf-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/2hx5W2c8TUuq281iDsXc_103eee96-bef2-4607-a45c-55d037ade9b3.png?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Fri, 29.05.2026",
+        "time": "19:00",
+        "event": "Liverpool Club Nr. 4 (@Graf Eventlocation)",
+        "category": "",
+        "description": "Nach drei gelungenen Veranstaltungen kehren wir zurück ins „Graf 39“. Wir bleiben die erfrischende Alternative in Düsseldorf: Handverlesener Soul & Disco direkt von der Vinyl-Platte.Begleitet DJ Capt. Blake und Monsieur Discothèque auf einer Zeitreise durch die Jahrzehnte. Von den Wurzeln in den 60ern bis zu den Hits, die heute wieder viral gehen – wir feiern das Vinyl-Original. Verpasst nicht die nächste legendäre Partynacht!20 JAHRE SOULCRUISE! Zwei Jahrzehnte Liebe zur Musik, zu Soul und Disco und zu euch. Das bedeutet: Doppelte Energie und eine Stimmung, die alles bisherige in den Schatten stellt.Ein Name, der Geschichte schreibt: Der „Liverpool Club“ ist zurück! Feiert mit uns im „Graf 39“ die Rückkehr des legendären „Liverpool Club“, benannt nach dem Originalnamen der Location aus den Sechziger Jahren.",
+        "link": "https://rausgegangen.de/en/events/liverpool-club-nr-4-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7Z2Q0Y0CR6WQYLu39jCN_unbenannt-1-9.JPEG?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Fri, 29.05.2026",
+        "time": "19:00",
+        "event": "Ü30 Speed Friending (@Café Plätz)",
+        "category": "",
+        "description": "Für alle Mädels, die gerne neue Leute kennenlernen wollen, Freund:innen finden möchten oder einfach mal wieder aus ihrer Bubble kommen mögen – we got you!Wir kennen den Struggle selbst so gut! Man hat Lust, neue Mädels kennenzulernen, sich einfach mal zu anderen Themen auszutauschen oder was Neues auszuprobieren, aber hat selbst überhaupt keinen Plan, wo man die Girls denn überhaupt finden soll.Deshalb wollen wir mit DUS IST LIEBE ein bisschen mehr Liebe & Connection in unsere wunderschöne Stadt bringen. 🫰 Und wir haben euren Wunsch erhört: Ihr wollt ein Speed Friending für Mädels, die schon über 30 sind? Bekommt ihr! <3 (Obwohl die Speed Friendings grundsätzlich allen offen stehen! 💜) Bei diesem Event erwartet dich:💌 Ein richtig schöner Abend ganz viel Deeptalk & herzlichen Begegnungen💌 Mit unserem speziellen Konzept rotiert ihr den Abend über durch – bedeutet, ihr lernt viele verschiedene Frauen kennen, mit denen wir euch jede Runde neu verbinden. Am Ende des Abends habt ihr dann hoffentlich viele tolle Gespräche geführt und seid bei einigen Mädels vielleicht sogar richtig hooked, das Gespräch noch zu vertiefen. Deshalb ist es ausdrücklich erwünscht, dass ihr alleine kommt – eure Freund:innen sind aber natürlich auch herzlich eingeladen!💌 Außerdem sorgen wir für eine gemütliche Atmosphäre in unserem wunderschönen neuen Zuhause in Flingern. Im Ticketpreis inkludiert sind Wasser, Tee & kleine Knabbereien.💌 Du bist schüchtern? Keine Sorge, wir nehmen euch alle an die Hand & connecten euch vor Ort. Du musst somit niemanden proaktiv ansprechen und auch die Gespräche werden durch das wunderbare Gesprächskartenset von KLIK KLAK viel einfacher. Wir freuen uns mega, wenn du deine Komfortzone verlässt und dabei bist! 💗 Juhuuu, das wird ein ganz toller Abend! Bei Fragen meldet euch jederzeit gern bei uns. 📨 *TEILNAHME FÜR FRAUEN & FLINTA* <3",
+        "link": "https://rausgegangen.de/en/events/u30-speed-friending-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/qIDAJ1k2QOmaTgSwLsMT_dsc2642-kopie-1.jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Fri, 29.05.2026",
+        "time": "19:30",
+        "event": "Blueprint Comedy - Gin & Jokes (bei gutem Wetter OPEN AIR) (@Radisson Blu Media Harbour Hotel, Düsseldorf)",
+        "category": "",
+        "description": "Lachtränen, gute Drinks und feinstes Essen – bei Blueprint Comedy – Gin & Jokes erwartet dich ein Abend voller Genuss und guter Laune im Herzen des Medienhafens. Vier Comedians sorgen für beste Stimmung, während du dein Lieblingsgericht genießt. Perfekt für alle, die Comedy lieben und gerne mit einem Drink in der Hand lachen! 😜",
+        "link": "https://rausgegangen.de/en/events/blueprint-comedy-gin-jokes-dusseldorf-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vxstjahOTxlQlAY47bew_img5500.png?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
     },
     {
         "date": "Fri, 29.05.2026",
@@ -1575,76 +1615,6 @@
         "link": "https://rausgegangen.de/en/events/mytallica-tribute-band-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/DJq3QQo9Tuk2ERzlCX0w_mytallica-tribute-band-germany-pressefoto-2025-fire-scaled.jpg?width=1200&height=900&mode=crop",
         "city": "Berlin"
-    },
-    {
-        "date": "Fri, 29.05.2026",
-        "time": "16:00",
-        "event": "Das Weinfest 2026 - Spritzig, laut und wild! (@Stahlwerk & Treibgut)",
-        "category": "",
-        "description": "Beim Weinfest 2026 erwarten dich spritzige Tropfen und eine ausgelassene Stimmung, die Weinliebhaber:innen und Neulinge gleichermaßen begeistert. Das Event bringt unkomplizierten Genuss und lebhaften Austausch zusammen und zeigt, wie vielseitig Wein sein kann 🥂",
-        "link": "https://rausgegangen.de/en/events/das-weinfest-2026-spritzig-laut-und-wild-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/GpNOv7d4SPiXoeXVXZnX_weinfestbanner2026.png?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Fri, 29.05.2026",
-        "time": "17:00",
-        "event": "Wildkräuter- Workshop im Wald (@Globetrotter Düsseldorf)",
-        "category": "",
-        "description": "Workshop mit Astrid WalkerIn diesem Workshop lernst Du während eines Waldspazierganges ausgesuchte Wildkräuter und Baumarten näher kennen. Du erfährst, welche Pflanzen essbar sind und wie Du ihre Blätter oder Früchte in der Wildkräuterküche verwenden kannst. Einige dieser Pflanzen und auch Pilze eignen sich für die Herstellung von Heilmitteln aus der Natur. Wir stellen eine Kräuterkleinigkeit zum Mit nach Hause nehmen her. Bei einem gemeinsamen Picknick mit dem Outdoorkocher brutzeln wir einen Wildkräuter- Snack. So kannst Du Dein neues Wissen direkt praktisch umsetzen und auch mit nach Hause nehmen.LeitungAstrid WalkerDipl.- Ing. LandespflegeZertifizierte WaldpädagoginTreffpunkt und Veranstaltungsort Spielplatz Müller ́s Wiese im Aaper Wald am Dachsbergweg in Düsseldorf Oberrath (https://maps.app.goo.gl/BxcmmURdhBQRsBBW9). Dort an den Fahrradständern auf der rechten Seite.Datum und Uhrzeit Freitag 29. Mai 2026, 17.00 bis 20.00 Uhr.HinweisBitte auf robuste, dem Wetter angepasste Kleidung achten und feste Schuhe anziehen. Die Wege sind gut zu begehen, teilweise gehen wir ohne Wege in den Wald. Eventuell eine Sitzunterlage und ein Getränk mitbringen. Hunde bitte zu Hause lassen. Zecken- und Mückenschutz ist wichtig. Im Wald gilt ein Rauchverbot.Du kannst circa sechs verschiedene Wildkräuter genauer kennen lernen, dazu zwei Baumgattungen und zwei Pilzarten.Wetter Die Veranstaltung findet auch bei leichtem Regen statt, bei einer Wetterwarnung des Deutschen Wetterdienst fällt die Veranstaltung aus. Dafür bei der Anmeldung bitte unbedingt eine Handynummer angeben!Globetrotter Club-Mitglieder erhalten alle Tickets zu vergünstigten Konditionen. Falls du also noch nicht dabei bist, melde dich am besten so schnell wie möglich ganz unverbindlich an.Hinweise zu Veranstaltungskarten:Sofern nicht anders vermerkt, finden die Vorträge in unserer Clubhütte statt. In diesem einmaligen Ambiente ist lediglich Platz für eine begrenzte Anzahl von Gästen, weswegen wir die Nutzung des Vorverkaufs dringend empfehlen. Sofern unsere Veranstaltungen ausverkauft sind, bieten wir keine Abendkasse mehr an.Bei Online-Tickets fallen keine Versandkosten an – diese werden zwar vorerst angezeigt, aber im Warenkorb wieder entfernt, solltest du keine weiteren Käufe tätigen.Achtung: Online Anmeldeschluss ist zwei Stunden vor Eventbeginn.",
-        "link": "https://rausgegangen.de/en/events/wildkrauter-workshop-im-wald-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/zv4jsa1v2s0y.png?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Fri, 29.05.2026",
-        "time": "18:00",
-        "event": "ARGIES (@Pitcher - Rock'n'Roll Headquarter Düsseldorf)",
-        "category": "",
-        "description": "Since their formation in 1984, Argies have stood out due to their libertarian poetry, the power of their music and the understanding and coherence of their political attitude. Even though their roots can be found in the British Punk from the seventies, nowadays their music witnesses influences from ska, reggae, dub and good part of rock’n’roll elements and Latin rhythms. Practicing a philosophy of \"do it yourself\" they have made a successful career while maintaining independence. The name \"Argies\" derives from the English pejorative term for \"Argentinean\" which was most popularly used by the British yellow press during the Falkland War in 1982. Far from being nationalists, their name connects the band, the members of which define themselves as internationalists, with debased minorities and marginalized people worldwide. By the mid nineties, Argies left their hometown Rosario and moved to Buenos Aires. Since then, playing more than 35 shows annually, they came to be known as one of the most frequently performing acts in town. Starting in 1999, the band has regularly played extended tours in America, Asia and Europe. The Band functions like a collective of committed musicians all of which form part of the project for undetermined periods, entering and leaving Argies with the same liberty that also characterizes the work in the band and the way in which its members study and teach in joint efforts across their differences. Over the years, the band’s particular method of making music has made Argies a truly independent cultural movement.",
-        "link": "https://rausgegangen.de/en/events/argies-7/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/UuFEjDUhSsrHlF3FJxx2_55746676611147333207769284144209306110339358n.jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Fri, 29.05.2026",
-        "time": "18:00",
-        "event": "Comedy Allstars Düsseldorf (@Comedy Club Düsseldorf)",
-        "category": "",
-        "description": "Comedy Allstars – Die neue Comedy Show im Comedy Club Düsseldorf Die Comedy Allstars bieten ein unvergessliches Comedy-Erlebnis im Comedy Club Düsseldorf! In dieser Show treten die besten Künstler der vergangenen Jahre auf, die das Publikum mit ihrem einzigartigen Humor begeistern. Erlebe eine Mischung aus Stand-up-Comedy, Improvisation und überraschenden Highlights – alles auf höchstem Niveau. Die Comedyflash Allstars garantieren einen Abend voller Lachen und Unterhaltung, bei dem kein Auge trocken bleibt. Hol dir deine Tickets und sei dabei, wenn die Comedy-Szene ihre besten Talente präsentiert!",
-        "link": "https://rausgegangen.de/en/events/comedy-allstars-dusseldorf-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/2hx5W2c8TUuq281iDsXc_103eee96-bef2-4607-a45c-55d037ade9b3.png?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Fri, 29.05.2026",
-        "time": "19:00",
-        "event": "Liverpool Club Nr. 4 (@Graf Eventlocation)",
-        "category": "",
-        "description": "Nach drei gelungenen Veranstaltungen kehren wir zurück ins „Graf 39“. Wir bleiben die erfrischende Alternative in Düsseldorf: Handverlesener Soul & Disco direkt von der Vinyl-Platte.Begleitet DJ Capt. Blake und Monsieur Discothèque auf einer Zeitreise durch die Jahrzehnte. Von den Wurzeln in den 60ern bis zu den Hits, die heute wieder viral gehen – wir feiern das Vinyl-Original. Verpasst nicht die nächste legendäre Partynacht!20 JAHRE SOULCRUISE! Zwei Jahrzehnte Liebe zur Musik, zu Soul und Disco und zu euch. Das bedeutet: Doppelte Energie und eine Stimmung, die alles bisherige in den Schatten stellt.Ein Name, der Geschichte schreibt: Der „Liverpool Club“ ist zurück! Feiert mit uns im „Graf 39“ die Rückkehr des legendären „Liverpool Club“, benannt nach dem Originalnamen der Location aus den Sechziger Jahren.",
-        "link": "https://rausgegangen.de/en/events/liverpool-club-nr-4-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7Z2Q0Y0CR6WQYLu39jCN_unbenannt-1-9.JPEG?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Fri, 29.05.2026",
-        "time": "19:00",
-        "event": "Ü30 Speed Friending (@Café Plätz)",
-        "category": "",
-        "description": "Für alle Mädels, die gerne neue Leute kennenlernen wollen, Freund:innen finden möchten oder einfach mal wieder aus ihrer Bubble kommen mögen – we got you!Wir kennen den Struggle selbst so gut! Man hat Lust, neue Mädels kennenzulernen, sich einfach mal zu anderen Themen auszutauschen oder was Neues auszuprobieren, aber hat selbst überhaupt keinen Plan, wo man die Girls denn überhaupt finden soll.Deshalb wollen wir mit DUS IST LIEBE ein bisschen mehr Liebe & Connection in unsere wunderschöne Stadt bringen. 🫰 Und wir haben euren Wunsch erhört: Ihr wollt ein Speed Friending für Mädels, die schon über 30 sind? Bekommt ihr! <3 (Obwohl die Speed Friendings grundsätzlich allen offen stehen! 💜) Bei diesem Event erwartet dich:💌 Ein richtig schöner Abend ganz viel Deeptalk & herzlichen Begegnungen💌 Mit unserem speziellen Konzept rotiert ihr den Abend über durch – bedeutet, ihr lernt viele verschiedene Frauen kennen, mit denen wir euch jede Runde neu verbinden. Am Ende des Abends habt ihr dann hoffentlich viele tolle Gespräche geführt und seid bei einigen Mädels vielleicht sogar richtig hooked, das Gespräch noch zu vertiefen. Deshalb ist es ausdrücklich erwünscht, dass ihr alleine kommt – eure Freund:innen sind aber natürlich auch herzlich eingeladen!💌 Außerdem sorgen wir für eine gemütliche Atmosphäre in unserem wunderschönen neuen Zuhause in Flingern. Im Ticketpreis inkludiert sind Wasser, Tee & kleine Knabbereien.💌 Du bist schüchtern? Keine Sorge, wir nehmen euch alle an die Hand & connecten euch vor Ort. Du musst somit niemanden proaktiv ansprechen und auch die Gespräche werden durch das wunderbare Gesprächskartenset von KLIK KLAK viel einfacher. Wir freuen uns mega, wenn du deine Komfortzone verlässt und dabei bist! 💗 Juhuuu, das wird ein ganz toller Abend! Bei Fragen meldet euch jederzeit gern bei uns. 📨 *TEILNAHME FÜR FRAUEN & FLINTA* <3",
-        "link": "https://rausgegangen.de/en/events/u30-speed-friending-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/qIDAJ1k2QOmaTgSwLsMT_dsc2642-kopie-1.jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Fri, 29.05.2026",
-        "time": "19:30",
-        "event": "Blueprint Comedy - Gin & Jokes (bei gutem Wetter OPEN AIR) (@Radisson Blu Media Harbour Hotel, Düsseldorf)",
-        "category": "",
-        "description": "Lachtränen, gute Drinks und feinstes Essen – bei Blueprint Comedy – Gin & Jokes erwartet dich ein Abend voller Genuss und guter Laune im Herzen des Medienhafens. Vier Comedians sorgen für beste Stimmung, während du dein Lieblingsgericht genießt. Perfekt für alle, die Comedy lieben und gerne mit einem Drink in der Hand lachen! 😜",
-        "link": "https://rausgegangen.de/en/events/blueprint-comedy-gin-jokes-dusseldorf-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vxstjahOTxlQlAY47bew_img5500.png?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
     },
     {
         "date": "Fri, 29.05.2026",
@@ -1868,6 +1838,56 @@
     },
     {
         "date": "Fri, 29.05.2026",
+        "time": "20:00",
+        "event": "BOING! Comedy Club Köln (@Horizont Theater)",
+        "category": "",
+        "description": "BOING! Comedy Club Köln - das Original!von Manuel WolffEgal, wer Du bist, hier bist Du richtig!Jetzt wird's lustig: Der unserer Meinung nach echteste, ehrlichste, roheste, frechste, beste Stand Up Comedy Club des Universums hält jedes Mal neue Überraschungen bereit. Mehrere Comedians, von bekannten Profis bis hin zu ganz frischen Newcomer*innen - alle präsentieren ihr bestes Material in einer Comedy Show, die längst Kult geworden ist und sich zum Treffpunkt der Kölner Comedy Szene entwickelt hat.BOING! Comedy Club steht für die Motti \"Vielfalt leben\" und \"Liebe statt Hass\" und versucht die Comedy-Shows bunt und tolerant zu gestalten und gegen Diskriminierung einzutreten. Wir heißen alle willkommen, um gemeinsam einen schönen, lustigen Abend zu erleben.VERANSTALTUNGSORT ist das Horizont-Theater, Thürmchenswall 25, 50668 Köln, - ab 19 Uhr ist Einlass, Showbeginn 20 Uhr.Mehr Termine, Infos, etc. auf unsere Homepage: www.boingcomedy.deBOING! Comedy Club - Das OriginalErlebe den unglaublichen Mix aus gestandenen Profis und aufregenden Newcomern, oft kopiert, aber nie erreicht. Mit exzellenter Moderation und authentischem Stand-up-Comedy, wie sie sein sollte: ehrlich, pur und natürlich sehr lustig. Lass dir das nicht entgehen!",
+        "link": "https://rausgegangen.de/en/events/boing-comedy-club-koln-167/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/mxE0Pk9uShCIvLYstwgA_boing-2026-rausgegangen.png?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 29.05.2026",
+        "time": "20:00",
+        "event": "Isaiah plays Coltrane (@Stadtgarten Köln)",
+        "category": "",
+        "description": "20:00 I Konzert I 🎤 KonzertsaalDer aus der dynamischen Chicagoer Szene hervorgehende Multiinstrumentalist, Komponist, Kurator, Aktivist und Pädagoge Isaiah Collier hat sich insbesondere als Saxophonist einen Namen gemacht. Sei es mit seinen eigenen Projekten, als Teil von Angel Bat Dawid's Brotherhood oder an der Seite von Künstler*innen wie Chance The Rapper, Waddada Leo Smith III, Junius Paul und vielen anderen. Cosmic Transitions, Colliers drittes und jüngstes Album mit seiner Band The Chosen Few, erschien im Jahr 2021 und wurde von Publikum und Presse gleichermaßen gelobt. Die eindrucksvolle Suite wurde an Coltranes Geburtstag in Rudy Van Gelders legendärem Studio aufgenommen, wobei einige der analogen Geräte zum Einsatz kamen, die auch bei der Originalaufnahme von A Love Supreme verwendet wurden. Das Werk demonstriert nicht nur Colliers umfangreiche musikalische Bandbreite und Ausdrucksfähigkeit, sondern schafft es auch, die Tradition, in die es sich einreiht, zu ehren, und gleichzeitig entschieden zukunftsorientiert zu bleiben.// Isaiah Collier (tenor & soprano saxophone), Davis Whitfield (piano), Conway Campbell (double bass), Tim Regis (drums)",
+        "link": "https://rausgegangen.de/en/events/isaiah-plays-coltrane-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/f9en1BgURubQ3GMPsw3R_2026-05-29-isaiah-collier-ausar-ra-klein.jpg?width=1200&height=900&mode=crop",
+        "city": "Köln"
+    },
+    {
+        "date": "Fri, 29.05.2026",
+        "time": "20:00",
+        "event": "comedyflash (@FOX Comedy Club)",
+        "category": "",
+        "description": "Comedyflash bringt echte Stand Up Comedy amerikanischer Prägung zu dir, mit erfahrenen Profis und frischen Stimmen aus der deutschen Szene. Die Show ist bekannt aus TikTok und Instagram und bietet dir einen authentischen Mix, der dich gut unterhalten wird 🫂",
+        "link": "https://rausgegangen.de/en/events/comedyflash-516/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/x45HpA6SQRqoyK8omMJ6_14sm2acsr0q17pvpbujbflash.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Fri, 29.05.2026",
+        "time": "22:00",
+        "event": "GETADDICTED - INDIE, POP-PUNK & RAW GUITARS (@Oma Doris)",
+        "category": "",
+        "description": "Getaddicted bringt dir am 29. Mai eine Mischung aus Indie, Pop-Punk und rohen Gitarren, die keine Luft zum Atmen lassen. Head Arabsonradar und The Addicts liefern kompromisslose Energie, die dich bis zur letzten Minute auf Trab hält 🤠",
+        "link": "https://rausgegangen.de/en/events/getaddicted-indie-pop-punk-raw-guitars-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/qtOfi4iSAW7JK7yOyB5j_img20260508111654.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Fri, 29.05.2026",
+        "time": "22:00",
+        "event": "HUDCON • The Heated Rivalry Night • FZW Dortmund (@FZW Dortmund)",
+        "category": "",
+        "description": "Am 29. Mai erwartet dich eine Nacht, in der du die leidenschaftliche Welt von „Heated Rivalry“ mit queeren Pop-Songs und ikonischen Visuals erlebst. Die Party bringt die Crowd mit purer Fan-Energie und gemütlichen Cottage-Ambiente zusammen, heißer als jedes Championship-Game 🪩",
+        "link": "https://rausgegangen.de/en/events/hudcon-the-heated-rivalry-night-fzw-dortmund-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BHxKMVcsRcaYQw65r4dd_2026-05-29-hudcon-dortmund-banner.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Fri, 29.05.2026",
         "time": "19:00",
         "event": "MAGIC MAIDS (@Theater RAMPE)",
         "category": "",
@@ -2018,16 +2038,6 @@
     },
     {
         "date": "Fri, 29.05.2026",
-        "time": "23:00",
-        "event": "RETRO! - 80's & 90's (@Shagall Klub)",
-        "category": "",
-        "description": "DJ CEED serviert dir die ultimativen Hits der 80er und 90er und zaubert damit den Spirit von Neonfarben und Discokugeln zurück auf die Tanzfläche. Freu dich auf eine Nacht voller Klassiker, die Erinnerungen wecken und jede Menge Spaß bringen 🕺🏽",
-        "link": "https://rausgegangen.de/en/events/retro-80s-90s-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/XsgJtwdVTYCoA8HaXZJJ_postermywallgeneratedimage9df7d15c-1.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Fri, 29.05.2026",
         "time": "18:30",
         "event": "Comedy für Freunde - Profi-Testbühne (60 Min.) (@Comedy für Freunde Club Frankfurt)",
         "category": "",
@@ -2088,33 +2098,13 @@
     },
     {
         "date": "Fri, 29.05.2026",
-        "time": "20:00",
-        "event": "comedyflash (@FOX Comedy Club)",
+        "time": "23:00",
+        "event": "RETRO! - 80's & 90's (@Shagall Klub)",
         "category": "",
-        "description": "Comedyflash bringt echte Stand Up Comedy amerikanischer Prägung zu dir, mit erfahrenen Profis und frischen Stimmen aus der deutschen Szene. Die Show ist bekannt aus TikTok und Instagram und bietet dir einen authentischen Mix, der dich gut unterhalten wird 🫂",
-        "link": "https://rausgegangen.de/en/events/comedyflash-516/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/x45HpA6SQRqoyK8omMJ6_14sm2acsr0q17pvpbujbflash.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Fri, 29.05.2026",
-        "time": "22:00",
-        "event": "GETADDICTED - INDIE, POP-PUNK & RAW GUITARS (@Oma Doris)",
-        "category": "",
-        "description": "Getaddicted bringt dir am 29. Mai eine Mischung aus Indie, Pop-Punk und rohen Gitarren, die keine Luft zum Atmen lassen. Head Arabsonradar und The Addicts liefern kompromisslose Energie, die dich bis zur letzten Minute auf Trab hält 🤠",
-        "link": "https://rausgegangen.de/en/events/getaddicted-indie-pop-punk-raw-guitars-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/qtOfi4iSAW7JK7yOyB5j_img20260508111654.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Fri, 29.05.2026",
-        "time": "22:00",
-        "event": "HUDCON • The Heated Rivalry Night • FZW Dortmund (@FZW Dortmund)",
-        "category": "",
-        "description": "Am 29. Mai erwartet dich eine Nacht, in der du die leidenschaftliche Welt von „Heated Rivalry“ mit queeren Pop-Songs und ikonischen Visuals erlebst. Die Party bringt die Crowd mit purer Fan-Energie und gemütlichen Cottage-Ambiente zusammen, heißer als jedes Championship-Game 🪩",
-        "link": "https://rausgegangen.de/en/events/hudcon-the-heated-rivalry-night-fzw-dortmund-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BHxKMVcsRcaYQw65r4dd_2026-05-29-hudcon-dortmund-banner.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
+        "description": "DJ CEED serviert dir die ultimativen Hits der 80er und 90er und zaubert damit den Spirit von Neonfarben und Discokugeln zurück auf die Tanzfläche. Freu dich auf eine Nacht voller Klassiker, die Erinnerungen wecken und jede Menge Spaß bringen 🕺🏽",
+        "link": "https://rausgegangen.de/en/events/retro-80s-90s-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/XsgJtwdVTYCoA8HaXZJJ_postermywallgeneratedimage9df7d15c-1.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Fri, 29.05.2026",
@@ -2162,20 +2152,12 @@
         "link": "https://www.bielefeld.jetzt/node/1638140"
     },
     {
-        "date": "Sat, 30.05",
-        "time": "14:00",
-        "event": "HAPPY HIPPIE OPEN AIR (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/happy-hippie-open-air-30052026-1400",
-        "image_url": "https://www.club-sams.de/data/202605/HAPPY_HIPPIE_2026_Facebook-Video_150.png?v=1779227417"
-    },
-    {
-        "date": "Sat, 30.05",
-        "time": "22:30",
-        "event": "Darkside of Sams (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/darkside-of-sams-30052026-2230",
-        "image_url": "https://www.club-sams.de/data/202604/LOGO_ONLY_pr_setnation_Einladung_Quadrat__150_1.png?v=1777453613"
+        "date": "Sa, 30.05.2026",
+        "time": "22:55",
+        "event": "Star Wars: The Mandalorian & Grogu (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Science-Fiction & Abenteuer & Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Sa, 30.05.2026",
@@ -2218,6 +2200,14 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Sat, 30.05",
+        "time": "23:00",
+        "event": "STEREOLOVE (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/stereolove-5/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/04/Stereo_30_0526_Feed.jpg"
+    },
+    {
         "date": "Sa, 30.05",
         "time": "23:00",
         "event": "MI • LEINEWEBER OPENING • RAUM2: BLACKBOX ( SONDERVERANSTALTUNG) (@cafe_europa_bi)",
@@ -2227,19 +2217,19 @@
     },
     {
         "date": "Sat, 30.05",
-        "time": "23:00",
-        "event": "STEREOLOVE (@stereobielefeld)",
+        "time": "14:00",
+        "event": "HAPPY HIPPIE OPEN AIR (@sams_bielefeld)",
         "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/stereolove-5/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/04/Stereo_30_0526_Feed.jpg"
+        "link": "https://www.club-sams.de/veranstaltung/happy-hippie-open-air-30052026-1400",
+        "image_url": "https://www.club-sams.de/data/202605/HAPPY_HIPPIE_2026_Facebook-Video_150.png?v=1779227417"
     },
     {
-        "date": "Sa, 30.05.2026",
-        "time": "22:55",
-        "event": "Star Wars: The Mandalorian & Grogu (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Science-Fiction & Abenteuer & Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+        "date": "Sat, 30.05",
+        "time": "22:30",
+        "event": "Darkside of Sams (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/darkside-of-sams-30052026-2230",
+        "image_url": "https://www.club-sams.de/data/202604/LOGO_ONLY_pr_setnation_Einladung_Quadrat__150_1.png?v=1777453613"
     },
     {
         "date": "Sa, 30.05.2026",
@@ -2369,6 +2359,66 @@
         "link": "https://rausgegangen.de/en/events/comedy-early-show-eine-stunde-durchlachen-im-comedy-club-17/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lgcoSZImSsuMUaOpv42o_ticketing-bild-1.png?width=1200&height=900&mode=crop",
         "city": "Leipzig"
+    },
+    {
+        "date": "Sat, 30.05.2026",
+        "time": "19:00",
+        "event": "Bandabend \"A NOISY LITTLE DISASTER\" (@StuK │Leipziger Studentenkeller e.V.)",
+        "category": "",
+        "description": "Am 30.05. ist es endlich soweit, freut euch auf einen Abend voller fetziger Musik, gemacht um euch abrocken zu lassen. Unsere Freunde von JUAKALI, MELO KOMPLOTT & GOAT GENERATOR bringen euch die Musik des Abends.Für kühle Getränke und passendes Ambiente sind wir eure Stukkis zuständig!Und die passende Stimmung um den Abendnzu genießen und abzurocken? Na die bringt ihr mit! Wir freuen uns auf euch!Eure Stukkis 💙",
+        "link": "https://rausgegangen.de/en/events/bandabend-mit-juakali-melo-komplott-und-goat-generator-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/HfQLTdODR5K7Iso3Gslg_screenshot20260517140535samsung-notes.jpg?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
+    },
+    {
+        "date": "Sat, 30.05.2026",
+        "time": "17:00",
+        "event": "Was ihr wollt (@Naturbühne Hohensyburg)",
+        "category": "",
+        "description": "Verwechslungskomödie nach William ShakespeareNach einem Schiffbruch wird Viola an die Küste von Illyrien gespült. Um sich allein in der  fremden Welt zu schützen, verkleidet sie sich als junger Mann und nennt sich Cesario. In  dieser Rolle tritt sie in den Dienst des Herzogs Orsino, der hoffnungslos in die Gräfin Olivia  verliebt ist und Cesario als Liebesboten zu ihr schickt. Doch Olivias Herz schlägt bald nicht  mehr für Orsino, sondern für den vermeintlichen Jüngling Cesario. Viola gerät dadurch in  eine heikle Lage, denn sie selbst hat sich längst in Orsino verliebt. Währenddessen sorgen  Lady Toby, ihre Gefährtinnen und die ehrgeizige Malvolia mit einem ausgeheckten Streich  für zusätzliche Verwirrung. Als schließlich Violas totgeglaubter Zwillingsbruder Sebastian  auftaucht, geraten die ohnehin verworrenen Beziehungen endgültig außer Kontrolle –  begleitet von den spöttischen Kommentaren der Narren Firle und Fanz.",
+        "link": "https://rausgegangen.de/en/events/was-ihr-wollt-330/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/AaW6gxrWTGmFBydkLufo_l-ve-105-x-148-mm-33.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 30.05.2026",
+        "time": "19:00",
+        "event": "Experimental Toppings 2026 - Festival des Masterstudiengang Szenische Forschung (@Theater im Depot)",
+        "category": "",
+        "description": "Bereits zum vierten Mal erobern Studierende und Lehrende des Masterstudiengangs Szenische Forschung der Ruhr-Universität Bochum die Räumlichkeiten des Theaters im Depot. Das Festival Experimental Toppings bietet einen bunten Showcase an zeitgenössischen Neuproduktionen, aktuellen Forschungsständen und Wiederaufnahmen.Lasst euch auf experimentelle Formate ein, die sowohl gesellschaftliche als auch persönliche Fragestellungen und Themengebiete behandeln. Dabei erwarten euch installative, performative und filmische Arbeiten, die mal zum Interagieren, mal zum Zuschauen einladen. Es geht ums Verborgene, die Abwesenheit und die Suche nach Zugehörigkeit. Spielt mit uns Tischtennis, geht mit uns ins Verborgene und esst verbotene Köstlichkeiten. Lasst uns Gedanken teilen. Es geht ums Hirn, Herz und den Verstand in Echtzeit.Mit Arbeiten und Performances von und mit: Katharina Frölich, Lukas Jakob Huber, Kira Marie Jockers, Paul Umut Kahla, Anna E. Krasemann, Faezeh Mojahedtalab, Hani Mousavi, Flynn Ohland, Julian Ratay, Lisa Schäfer, Rosanna Veza Schardt, Luca Sommer, Johanna Sowka, nologo kollektivProgramm unter www.theaterimdepot.deTagestickets sind gültig für den Besuch aller Veranstatungen am entsprechenden Tag. (Tickets im Vorverkauf inkl. Systemgebühr.)",
+        "link": "https://rausgegangen.de/en/events/experimental-toppings-2026-festival-des-masterstudiengang-sz-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/nSLtCWVRSNaHPqrTlY8T_szfet25-78-kopiecut.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 30.05.2026",
+        "time": "20:00",
+        "event": "Linkin Park Party • Weinkeller Dortmund (@Weinkeller Dortmund)",
+        "category": "",
+        "description": "Von “In the End” über “Numb” bis “One Step Closer” – Linkin Park war der Soundtrack zu deinen härtesten Momenten, und in dieser Nacht feiern wir ihr Vermächtnis mit der vollen Hybrid Theory- und Meteora-Power! Feiert zu “Crawling”, “The Emptiness Machine” und “Bleed It Out” - let's burn it down! Linkin Park - all night.engl.From “In the End” to ‘Numb’ to “One Step Closer” – Linkin Park was the soundtrack to your toughest moments, and tonight we celebrate their legacy with the full power of Hybrid Theory and Meteora! Celebrate to “Crawling,” “The Emptiness Machine,” and “Bleed It Out” – let's burn it down! Linkin Park – all night.Sa. 30.05.26 // 20:00 // Weinkeller / DortmundJetzt Ticket besorgen und sicher dabei sein! 🎫--------------------------------------------Minimum age: 18Bitte seht in eurem eigenen Interesse davon ab, Tickets bei Drittanbieter zu kaufen.Veranstalter: Weinkeller",
+        "link": "https://rausgegangen.de/en/events/linkin-park-party-weinkeller-dortmund-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ASTx1iadRaGHccQdEduw_2026-05-30-lp-dortmund-header.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 30.05.2026",
+        "time": "20:00",
+        "event": "Lioba Albus - Ende Offen (@Theater Fletch Bizzel)",
+        "category": "",
+        "description": "Ende offen – schöner Schlussmachen  Wer nie Schluss macht, kann auch nicht neu beginnen. Wir alle haben in unserem Leben schon so einige Male Schluss gemacht. Mit dem Partner, mit dem Rauchen, mit der Freundin oder mit dem Nägelkauen. Und daher wissen wir: schönes Schlussmachen will gelernt sein. Wer könnte der Menschheit da hilfreicher zur Seite stehen, als Mia Mittelkötter, die uneingeschränkte Fachfrau für alles. Schließlich hat sie ihrem trägen Dauersesselbewohner, dem Ehemann Gustav, schon häufig angedroht ihn endgültig zu verlassen. Der aber hat sie immer nur angestrahlt und gesagt: „Au ja, ich komme mit!“ Ob Mias Publikum da genauso reagiert, wenn sie ankündigt, die Bühne für immer zu verlassen?  In ihrem Abschiedsprogramm beschäftigt sich die Dortmunder Kabarettistin mit dem Thema Aufhören. Zur Seite stehen ihr dabei wie immer, die Pommesfachverkäuferin Witta, der Promillphilsosoph Detlev und natürlich Mia Mittelkötter. In einer temporeichen Show bietet Albus Neues und Bewährtes und zeigt brandneue Nummern im Mix mit den besten Filetstückchen aus 35 Jahren Kabarett. Schließlich weiß sie: man soll aufhören, wenn’s am schönsten ist. Aber war es wirklich schon am schönsten?  Das erfährt nur, wer sich das letzte Kabarettprogramm von Lioba Albus selbst anschaut. Und natürlich gilt danach, der Letzte macht das Licht aus. Und das ist immer der/die TechnikerIn.",
+        "link": "https://rausgegangen.de/en/events/lioba-albus-ende-offen-6/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vWBrupcjQvi1M3QZ4jwu_Lioba%20Albus_Ende%20offen_Quelle%20Olli%20Haas%201.jpeg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 30.05.2026",
+        "time": "23:00",
+        "event": "Brit Pop & Indie Club (@Großmarktschänke)",
+        "category": "",
+        "description": "Im Britpop & Indie Club verbinden sich die größten Hymnen der 90er und 2000er mit lässigem Gitarrensound und clever gesetzten Partyhits. DJ Moerkinho und DJane onoffonoff bringen dich mit ihren Sets genau dorthin, wo die Nostalgie und die Tanzfläche zusammenkommen 🤩",
+        "link": "https://rausgegangen.de/en/events/brit-pop-indie-club-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/DMiYeGrvQT21FK84OF3e_indie-clubbanner-3.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Sat, 30.05.2026",
@@ -2502,56 +2552,6 @@
     },
     {
         "date": "Sat, 30.05.2026",
-        "time": "17:00",
-        "event": "Was ihr wollt (@Naturbühne Hohensyburg)",
-        "category": "",
-        "description": "Verwechslungskomödie nach William ShakespeareNach einem Schiffbruch wird Viola an die Küste von Illyrien gespült. Um sich allein in der  fremden Welt zu schützen, verkleidet sie sich als junger Mann und nennt sich Cesario. In  dieser Rolle tritt sie in den Dienst des Herzogs Orsino, der hoffnungslos in die Gräfin Olivia  verliebt ist und Cesario als Liebesboten zu ihr schickt. Doch Olivias Herz schlägt bald nicht  mehr für Orsino, sondern für den vermeintlichen Jüngling Cesario. Viola gerät dadurch in  eine heikle Lage, denn sie selbst hat sich längst in Orsino verliebt. Währenddessen sorgen  Lady Toby, ihre Gefährtinnen und die ehrgeizige Malvolia mit einem ausgeheckten Streich  für zusätzliche Verwirrung. Als schließlich Violas totgeglaubter Zwillingsbruder Sebastian  auftaucht, geraten die ohnehin verworrenen Beziehungen endgültig außer Kontrolle –  begleitet von den spöttischen Kommentaren der Narren Firle und Fanz.",
-        "link": "https://rausgegangen.de/en/events/was-ihr-wollt-330/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/AaW6gxrWTGmFBydkLufo_l-ve-105-x-148-mm-33.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 30.05.2026",
-        "time": "19:00",
-        "event": "Experimental Toppings 2026 - Festival des Masterstudiengang Szenische Forschung (@Theater im Depot)",
-        "category": "",
-        "description": "Bereits zum vierten Mal erobern Studierende und Lehrende des Masterstudiengangs Szenische Forschung der Ruhr-Universität Bochum die Räumlichkeiten des Theaters im Depot. Das Festival Experimental Toppings bietet einen bunten Showcase an zeitgenössischen Neuproduktionen, aktuellen Forschungsständen und Wiederaufnahmen.Lasst euch auf experimentelle Formate ein, die sowohl gesellschaftliche als auch persönliche Fragestellungen und Themengebiete behandeln. Dabei erwarten euch installative, performative und filmische Arbeiten, die mal zum Interagieren, mal zum Zuschauen einladen. Es geht ums Verborgene, die Abwesenheit und die Suche nach Zugehörigkeit. Spielt mit uns Tischtennis, geht mit uns ins Verborgene und esst verbotene Köstlichkeiten. Lasst uns Gedanken teilen. Es geht ums Hirn, Herz und den Verstand in Echtzeit.Mit Arbeiten und Performances von und mit: Katharina Frölich, Lukas Jakob Huber, Kira Marie Jockers, Paul Umut Kahla, Anna E. Krasemann, Faezeh Mojahedtalab, Hani Mousavi, Flynn Ohland, Julian Ratay, Lisa Schäfer, Rosanna Veza Schardt, Luca Sommer, Johanna Sowka, nologo kollektivProgramm unter www.theaterimdepot.deTagestickets sind gültig für den Besuch aller Veranstatungen am entsprechenden Tag. (Tickets im Vorverkauf inkl. Systemgebühr.)",
-        "link": "https://rausgegangen.de/en/events/experimental-toppings-2026-festival-des-masterstudiengang-sz-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/nSLtCWVRSNaHPqrTlY8T_szfet25-78-kopiecut.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 30.05.2026",
-        "time": "20:00",
-        "event": "Linkin Park Party • Weinkeller Dortmund (@Weinkeller Dortmund)",
-        "category": "",
-        "description": "Von “In the End” über “Numb” bis “One Step Closer” – Linkin Park war der Soundtrack zu deinen härtesten Momenten, und in dieser Nacht feiern wir ihr Vermächtnis mit der vollen Hybrid Theory- und Meteora-Power! Feiert zu “Crawling”, “The Emptiness Machine” und “Bleed It Out” - let's burn it down! Linkin Park - all night.engl.From “In the End” to ‘Numb’ to “One Step Closer” – Linkin Park was the soundtrack to your toughest moments, and tonight we celebrate their legacy with the full power of Hybrid Theory and Meteora! Celebrate to “Crawling,” “The Emptiness Machine,” and “Bleed It Out” – let's burn it down! Linkin Park – all night.Sa. 30.05.26 // 20:00 // Weinkeller / DortmundJetzt Ticket besorgen und sicher dabei sein! 🎫--------------------------------------------Minimum age: 18Bitte seht in eurem eigenen Interesse davon ab, Tickets bei Drittanbieter zu kaufen.Veranstalter: Weinkeller",
-        "link": "https://rausgegangen.de/en/events/linkin-park-party-weinkeller-dortmund-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ASTx1iadRaGHccQdEduw_2026-05-30-lp-dortmund-header.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 30.05.2026",
-        "time": "20:00",
-        "event": "Lioba Albus - Ende Offen (@Theater Fletch Bizzel)",
-        "category": "",
-        "description": "Ende offen – schöner Schlussmachen  Wer nie Schluss macht, kann auch nicht neu beginnen. Wir alle haben in unserem Leben schon so einige Male Schluss gemacht. Mit dem Partner, mit dem Rauchen, mit der Freundin oder mit dem Nägelkauen. Und daher wissen wir: schönes Schlussmachen will gelernt sein. Wer könnte der Menschheit da hilfreicher zur Seite stehen, als Mia Mittelkötter, die uneingeschränkte Fachfrau für alles. Schließlich hat sie ihrem trägen Dauersesselbewohner, dem Ehemann Gustav, schon häufig angedroht ihn endgültig zu verlassen. Der aber hat sie immer nur angestrahlt und gesagt: „Au ja, ich komme mit!“ Ob Mias Publikum da genauso reagiert, wenn sie ankündigt, die Bühne für immer zu verlassen?  In ihrem Abschiedsprogramm beschäftigt sich die Dortmunder Kabarettistin mit dem Thema Aufhören. Zur Seite stehen ihr dabei wie immer, die Pommesfachverkäuferin Witta, der Promillphilsosoph Detlev und natürlich Mia Mittelkötter. In einer temporeichen Show bietet Albus Neues und Bewährtes und zeigt brandneue Nummern im Mix mit den besten Filetstückchen aus 35 Jahren Kabarett. Schließlich weiß sie: man soll aufhören, wenn’s am schönsten ist. Aber war es wirklich schon am schönsten?  Das erfährt nur, wer sich das letzte Kabarettprogramm von Lioba Albus selbst anschaut. Und natürlich gilt danach, der Letzte macht das Licht aus. Und das ist immer der/die TechnikerIn.",
-        "link": "https://rausgegangen.de/en/events/lioba-albus-ende-offen-6/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vWBrupcjQvi1M3QZ4jwu_Lioba%20Albus_Ende%20offen_Quelle%20Olli%20Haas%201.jpeg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 30.05.2026",
-        "time": "23:00",
-        "event": "Brit Pop & Indie Club (@Großmarktschänke)",
-        "category": "",
-        "description": "Im Britpop & Indie Club verbinden sich die größten Hymnen der 90er und 2000er mit lässigem Gitarrensound und clever gesetzten Partyhits. DJ Moerkinho und DJane onoffonoff bringen dich mit ihren Sets genau dorthin, wo die Nostalgie und die Tanzfläche zusammenkommen 🤩",
-        "link": "https://rausgegangen.de/en/events/brit-pop-indie-club-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/DMiYeGrvQT21FK84OF3e_indie-clubbanner-3.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 30.05.2026",
         "time": "19:00",
         "event": "WINE &PAINT x FELIX ROOFTOP x Madame Croissant (@Felix Dresden am Zwinger)",
         "category": "",
@@ -2600,6 +2600,14 @@
         "link": "https://www.bielefeld.jetzt/node/1783908"
     },
     {
+        "date": "So, 31.05.2026",
+        "time": "22:55",
+        "event": "Star Wars: The Mandalorian & Grogu (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Science-Fiction & Abenteuer & Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
         "date": "Su, 31.05.2026",
         "time": "19:00",
         "event": "*TRIBE KENNENLERNABEND*",
@@ -2614,14 +2622,6 @@
         "category": "Sport",
         "link": "https://www.instagram.com/uprunningclub/?hl=de",
         "image_url": null
-    },
-    {
-        "date": "So, 31.05.2026",
-        "time": "22:55",
-        "event": "Star Wars: The Mandalorian & Grogu (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Science-Fiction & Abenteuer & Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "So, 31.05.2026",
@@ -2739,6 +2739,14 @@
     },
     {
         "date": "Mo, 01.06.2026",
+        "time": "22:55",
+        "event": "Star Wars: The Mandalorian & Grogu (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Science-Fiction & Abenteuer & Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
+        "date": "Mo, 01.06.2026",
         "time": "20:00",
         "event": "Pub Quiz (@irish_pub_bielefeld)",
         "category": "Ausgehen",
@@ -2752,14 +2760,6 @@
         "category": "Sport",
         "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         "image_url": "https://tse3.mm.bing.net/th/id/OIP.S2SyS4KZbgQ0_dDtL7HNZgAAAA?pid=Api&P=0&h=180"
-    },
-    {
-        "date": "Mo, 01.06.2026",
-        "time": "22:55",
-        "event": "Star Wars: The Mandalorian & Grogu (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Science-Fiction & Abenteuer & Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Mo, 01.06.2026",
@@ -3008,16 +3008,6 @@
     },
     {
         "date": "Tue, 02.06.2026",
-        "time": "19:00",
-        "event": "QUIZTRONAUTEN - Quiz im Viertel (@Fehrfeld)",
-        "category": "",
-        "description": "Schnapp dir deine Crew und testet euer Wissen auf eine ganz neue Art. Die Quiztronaut:innen verbinden spontane Stadterkundung mit kniffligen Fragen und digitaler Technik, die das Ganze schnell und entspannt macht. Wer Deutschlands cleverste Crew wird, entscheidet sich jetzt 🙃",
-        "link": "https://rausgegangen.de/en/events/quiztronauten-quiz-im-viertel-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/mbAP81yTGSF4jAVBxelm_rausgegangen-fomo-titel-21.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Tue, 02.06.2026",
         "time": "19:30",
         "event": "SHOWTIME! Deutscher Comedy Cocktail in der French Bento Bar (@French Bento Bar)",
         "category": "",
@@ -3025,6 +3015,16 @@
         "link": "https://rausgegangen.de/en/events/showtime-deutscher-comedy-cocktail-in-der-french-bento-bar-60/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/h3qleqNySdOhu6sRFMmY_french-bento-deutsch-2x1.png?width=1200&height=900&mode=crop",
         "city": "Frankfurt"
+    },
+    {
+        "date": "Tue, 02.06.2026",
+        "time": "19:00",
+        "event": "QUIZTRONAUTEN - Quiz im Viertel (@Fehrfeld)",
+        "category": "",
+        "description": "Schnapp dir deine Crew und testet euer Wissen auf eine ganz neue Art. Die Quiztronaut:innen verbinden spontane Stadterkundung mit kniffligen Fragen und digitaler Technik, die das Ganze schnell und entspannt macht. Wer Deutschlands cleverste Crew wird, entscheidet sich jetzt 🙃",
+        "link": "https://rausgegangen.de/en/events/quiztronauten-quiz-im-viertel-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/mbAP81yTGSF4jAVBxelm_rausgegangen-fomo-titel-21.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "We, 03.06.2026",
@@ -3075,20 +3075,20 @@
         "image_url": null
     },
     {
-        "date": "Mi, 03.06",
-        "time": "23:00",
-        "event": "DO• LEINEWEBER THIRSTDAY FEAT. SALVATORE MANCUSO (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/do-leineweber-thirstday-feat-salvatore-mancuso-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/04/20260604_Leineweber_Salvatore_4zu5.jpg"
-    },
-    {
         "date": "Wed, 03.06",
         "time": "23:00",
         "event": "NACHTARENA PARTY (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/nachtarena-party/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/05/Nachtarena-Grafik.jpeg"
+    },
+    {
+        "date": "Mi, 03.06",
+        "time": "23:00",
+        "event": "DO• LEINEWEBER THIRSTDAY FEAT. SALVATORE MANCUSO (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/do-leineweber-thirstday-feat-salvatore-mancuso-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/04/20260604_Leineweber_Salvatore_4zu5.jpg"
     },
     {
         "date": "Mi, 03.06.2026",
@@ -3205,6 +3205,26 @@
     },
     {
         "date": "Wed, 03.06.2026",
+        "time": "21:00",
+        "event": "MIAMI NIGHTS (@FZW Dortmund)",
+        "category": "",
+        "description": "MIAMI LANDET IN DORTMUND.Wir holen den unverschämten Glamour der 80er Jahre direkt ins Herz des Ruhrgebiets. MIAMI NIGHTS ist mehr als eine Party – es ist eine Flucht aus dem Alltag in eine Welt aus Neon, Seide und dem Rauschen der Palmen. An den Decks kuratiert für euch die Crème de la Crème der Szene:DJ SUPERMARKT (Too Slow To Disco) | Deep Edits, Yacht-Pop & High-End Disco. DISCO COLADA | Italo-Grooves, Sun-Drenched Disco & Dancefloor Heat.Gemeinsam erschaffen sie den Vibe, den diese Nacht verdient.Dresscode: Color, Glam & Summer. Bunt ist Trumpf. Zeigt uns eure Version von Miami Vice – je farbenfroher und eleganter, desto besser. Keine Socken, keine Regeln, nur Style.Einlass/Beginn: 21.00 UhrTickets: https://stagedates.com/events/miami-nights-fzw-20260603-H6frG ***ACHTUNG: VIP-Tickets streng limitiert! Early-Bird-Tickets nur bis 30.04.!***",
+        "link": "https://rausgegangen.de/en/events/miami-nights-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wuX1KzlRRir9LrkffG3S_miaminightsposterneu73.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Wed, 03.06.2026",
+        "time": "23:00",
+        "event": "¡Wepa! Bunny • Oma Doris • Dortmund (@Oma Doris)",
+        "category": "",
+        "description": "🇪🇸 • ¡Wepa! Bunny - Oma Doris - DortmundDortmund , prepárate: ¡esto es puro perreo! Cuando el bajo retumba en Oma Doris, sabes que es la hora de Bad Bunny: Es la hora de Bad Bunny. Una noche llena de calor, brillo y glamour, entre caderas empapadas de reggaeton y corazones impulsados por el trap.La noche es nuestra, y tú bailas libre en un mar de ritmos, sudor y neón. Todo vibra: de Tití Me Preguntó a Dakiti, de lo salvaje a lo suave, de lo queer a lo claro. Emotivo, excesivo, inolvidable - porque cuando Bad Bunny llama, Dortmund baila reggaetón.Si quieres estar allí seguro, ¡deberías hacerte con una entrada!Miércoles 03/06 // ¡Wepa! Bunny // Oma Doris // 23:00Suena a: Bad Bunny, J Balvin, Ozuna, Anuel AA, Rauw Alejandro, Feid, Myke Towers, Bryant Myers, Eladio Carrión, Lunay, Rosalía, C. Tangana, Tokischa, Don Toliver, Trueno, Villano Antillano....El organizador de esta fiesta es el Tanzcafe Oma Doris.---------------------------------------------------------------------------------Descargo de responsabilidad: Para que podamos celebrarlo con tranquilidad, se reserva el derecho de selección en la entrada. Aunque normalmente no haya problemas, la entrada no garantiza el acceso. En caso de no ser admitido por embriaguez o motivos similares, se le devolverá la entrada.Nosotros en InstagramEdad mínima: 18Por su propio interés, absténgase de comprar entradas a terceros proveedores.🇩🇪 • ¡Wepa! Bunny Party • Oma Doris• DortmundDortmund, mach dich bereit – das hier ist puro perreo! Wenn der Bass in der Oma Doris dröhnt, weißt du: Es ist Bad Bunny-Time. Eine Nacht voller Hitze, Glanz und Glitzer – zwischen reggaetongetränkten Hüften und trapgetriebenen Herzen.La noche es nuestra, und du tanzt dich frei in einem Meer aus Beats, Schweiß und Neon. Alles vibriert: von Tití Me Preguntó bis Dakiti, von wild bis weich, von queer bis klar. Emotional, exzessiv, unvergesslich – denn wenn Bad Bunny ruft, tanzt Dortmund reggaetón. Wer safe dabei sein will, sollte sich wirklich ein Ticket besorgen!Mi. 03.06. // ¡Wepa! Bunny // Oma Doris // 23:00Sounds like: Bad Bunny, J Balvin, Ozuna, Anuel AA, Rauw Alejandro, Feid, Myke Towers, Bryant Myers, Eladio Carrión, Lunay, Rosalía, C. Tangana, Tokischa, Don Toliver, Trueno, Villano Antillano....- ---------------------------------------------------------------------------------Disclaimer: Damit wir entspannt feiern können, behält sich der Club vor, am Einlass zu selektieren. Auch wenn es idR zu keinen Problemen kommt, gilt, dass das Ticket kein Garant für den Einlass ist. Solltest du wegen Trunkenheit oder ähnlichen Gründen nicht reinkommen, wird dir dein Ticket erstattet.Wir bei InstagramMinimum age: 18Bitte seht in eurem eigenen Interesse davon ab, Tickets bei Drittanbieter zu kaufen.Veranstalter dieser Party ist das Tanzcafe Oma Doris.",
+        "link": "https://rausgegangen.de/en/events/wepa-bunny-oma-doris-dortmund-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/mrAThC4HSoFcqi4eAO8Q_bb-neutral-banner.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Wed, 03.06.2026",
         "time": "19:00",
         "event": "T&T OPEN STAGE (@reBOOTS-Stuttgart)",
         "category": "",
@@ -3235,16 +3255,6 @@
     },
     {
         "date": "Wed, 03.06.2026",
-        "time": "20:00",
-        "event": "Craft Comedy Open Mic (@Helga)",
-        "category": "",
-        "description": "Hier testen 6 bis 8 Comedians ihr neuestes Material und du lachst mit statt über sie. Neues entdecken oder alte Hasen beobachten – jede Show ist anders, mal ein Treffer, mal ein Fehlschlag. Kommt vorbei und spürt, wie Stand-up in Bremen wächst 🫂",
-        "link": "https://rausgegangen.de/en/events/craft-comedy-open-mic-87/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/DOmBGZEOSFOmLQFRBzrn_open-mic-eventbild.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Wed, 03.06.2026",
         "time": "17:00",
         "event": "50 Jahre Batschapp - Das Große Sommerfest * Indoor*Outdoor*Open End (@Batschkapp)",
         "category": "",
@@ -3255,23 +3265,13 @@
     },
     {
         "date": "Wed, 03.06.2026",
-        "time": "21:00",
-        "event": "MIAMI NIGHTS (@FZW Dortmund)",
+        "time": "20:00",
+        "event": "Craft Comedy Open Mic (@Helga)",
         "category": "",
-        "description": "MIAMI LANDET IN DORTMUND.Wir holen den unverschämten Glamour der 80er Jahre direkt ins Herz des Ruhrgebiets. MIAMI NIGHTS ist mehr als eine Party – es ist eine Flucht aus dem Alltag in eine Welt aus Neon, Seide und dem Rauschen der Palmen. An den Decks kuratiert für euch die Crème de la Crème der Szene:DJ SUPERMARKT (Too Slow To Disco) | Deep Edits, Yacht-Pop & High-End Disco. DISCO COLADA | Italo-Grooves, Sun-Drenched Disco & Dancefloor Heat.Gemeinsam erschaffen sie den Vibe, den diese Nacht verdient.Dresscode: Color, Glam & Summer. Bunt ist Trumpf. Zeigt uns eure Version von Miami Vice – je farbenfroher und eleganter, desto besser. Keine Socken, keine Regeln, nur Style.Einlass/Beginn: 21.00 UhrTickets: https://stagedates.com/events/miami-nights-fzw-20260603-H6frG ***ACHTUNG: VIP-Tickets streng limitiert! Early-Bird-Tickets nur bis 30.04.!***",
-        "link": "https://rausgegangen.de/en/events/miami-nights-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wuX1KzlRRir9LrkffG3S_miaminightsposterneu73.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Wed, 03.06.2026",
-        "time": "23:00",
-        "event": "¡Wepa! Bunny • Oma Doris • Dortmund (@Oma Doris)",
-        "category": "",
-        "description": "🇪🇸 • ¡Wepa! Bunny - Oma Doris - DortmundDortmund , prepárate: ¡esto es puro perreo! Cuando el bajo retumba en Oma Doris, sabes que es la hora de Bad Bunny: Es la hora de Bad Bunny. Una noche llena de calor, brillo y glamour, entre caderas empapadas de reggaeton y corazones impulsados por el trap.La noche es nuestra, y tú bailas libre en un mar de ritmos, sudor y neón. Todo vibra: de Tití Me Preguntó a Dakiti, de lo salvaje a lo suave, de lo queer a lo claro. Emotivo, excesivo, inolvidable - porque cuando Bad Bunny llama, Dortmund baila reggaetón.Si quieres estar allí seguro, ¡deberías hacerte con una entrada!Miércoles 03/06 // ¡Wepa! Bunny // Oma Doris // 23:00Suena a: Bad Bunny, J Balvin, Ozuna, Anuel AA, Rauw Alejandro, Feid, Myke Towers, Bryant Myers, Eladio Carrión, Lunay, Rosalía, C. Tangana, Tokischa, Don Toliver, Trueno, Villano Antillano....El organizador de esta fiesta es el Tanzcafe Oma Doris.---------------------------------------------------------------------------------Descargo de responsabilidad: Para que podamos celebrarlo con tranquilidad, se reserva el derecho de selección en la entrada. Aunque normalmente no haya problemas, la entrada no garantiza el acceso. En caso de no ser admitido por embriaguez o motivos similares, se le devolverá la entrada.Nosotros en InstagramEdad mínima: 18Por su propio interés, absténgase de comprar entradas a terceros proveedores.🇩🇪 • ¡Wepa! Bunny Party • Oma Doris• DortmundDortmund, mach dich bereit – das hier ist puro perreo! Wenn der Bass in der Oma Doris dröhnt, weißt du: Es ist Bad Bunny-Time. Eine Nacht voller Hitze, Glanz und Glitzer – zwischen reggaetongetränkten Hüften und trapgetriebenen Herzen.La noche es nuestra, und du tanzt dich frei in einem Meer aus Beats, Schweiß und Neon. Alles vibriert: von Tití Me Preguntó bis Dakiti, von wild bis weich, von queer bis klar. Emotional, exzessiv, unvergesslich – denn wenn Bad Bunny ruft, tanzt Dortmund reggaetón. Wer safe dabei sein will, sollte sich wirklich ein Ticket besorgen!Mi. 03.06. // ¡Wepa! Bunny // Oma Doris // 23:00Sounds like: Bad Bunny, J Balvin, Ozuna, Anuel AA, Rauw Alejandro, Feid, Myke Towers, Bryant Myers, Eladio Carrión, Lunay, Rosalía, C. Tangana, Tokischa, Don Toliver, Trueno, Villano Antillano....- ---------------------------------------------------------------------------------Disclaimer: Damit wir entspannt feiern können, behält sich der Club vor, am Einlass zu selektieren. Auch wenn es idR zu keinen Problemen kommt, gilt, dass das Ticket kein Garant für den Einlass ist. Solltest du wegen Trunkenheit oder ähnlichen Gründen nicht reinkommen, wird dir dein Ticket erstattet.Wir bei InstagramMinimum age: 18Bitte seht in eurem eigenen Interesse davon ab, Tickets bei Drittanbieter zu kaufen.Veranstalter dieser Party ist das Tanzcafe Oma Doris.",
-        "link": "https://rausgegangen.de/en/events/wepa-bunny-oma-doris-dortmund-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/mrAThC4HSoFcqi4eAO8Q_bb-neutral-banner.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
+        "description": "Hier testen 6 bis 8 Comedians ihr neuestes Material und du lachst mit statt über sie. Neues entdecken oder alte Hasen beobachten – jede Show ist anders, mal ein Treffer, mal ein Fehlschlag. Kommt vorbei und spürt, wie Stand-up in Bremen wächst 🫂",
+        "link": "https://rausgegangen.de/en/events/craft-comedy-open-mic-87/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/DOmBGZEOSFOmLQFRBzrn_open-mic-eventbild.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Wed, 03.06.2026",
@@ -3526,6 +3526,14 @@
     },
     {
         "date": "Th, 04.06.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 04.06.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -3563,14 +3571,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 04.06.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Do, 04.06",
@@ -3964,6 +3964,16 @@
     },
     {
         "date": "Fri, 05.06.2026",
+        "time": "00:00",
+        "event": "WORLD CLUB DOME 206 (@Deutsche Bank Park)",
+        "category": "",
+        "description": "Drei Tage. Eine Stadt. Volle Energie. Und Du! Auf 13+ Stages & mit über 170 Artists verwandelt sich der Deutsche Bank Park vom 05.-07- Juni 2026 abermals in einen Abenteuerspielplatz der Clubmusik! Neben nationalen und internationalen Headliner:innen, darunter ALOK, BEBE REXHA, DJ SNAKE, HAFTBEFEHL, HOLY PRIEST, ROBIN SCHULZ, SSIO, STEVE ANGELLO & viele mehr, erwarten euch auf dem World Club Dome dieses Jahr eine lange Liste an Neuheiten und Hihlights, wie z.B.: 🤯 360-Grad-Mainstage mitten im Stadion 👟 einzigartige Sports & Lifestyle Area mit Stages, Sports, Nutrition & Brand Activations🔥 Unreal Stage mit feinstem Hardtechnouvm.",
+        "link": "https://rausgegangen.de/en/events/world-club-dome-206-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/y8zZ4a7jShxY1jNa6xjM_20250607-180655-03190davidseeger-bearbeitet.jpg?width=1200&height=900&mode=crop",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Fri, 05.06.2026",
         "time": "19:00",
         "event": "QUIZTRONAUTEN - Quiz in Walle (@Für Elise Kaffeebar)",
         "category": "",
@@ -3991,16 +4001,6 @@
         "link": "https://rausgegangen.de/en/events/mamagehttanzen-bremen-sommer-open-air-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/eW2keDlKSwOFTVhACnP7_20260605whitepearlbeachclubbremensommerspecial.jpg?width=1200&height=900&mode=crop",
         "city": "Bremen"
-    },
-    {
-        "date": "Fri, 05.06.2026",
-        "time": "00:00",
-        "event": "WORLD CLUB DOME 206 (@Deutsche Bank Park)",
-        "category": "",
-        "description": "Drei Tage. Eine Stadt. Volle Energie. Und Du! Auf 13+ Stages & mit über 170 Artists verwandelt sich der Deutsche Bank Park vom 05.-07- Juni 2026 abermals in einen Abenteuerspielplatz der Clubmusik! Neben nationalen und internationalen Headliner:innen, darunter ALOK, BEBE REXHA, DJ SNAKE, HAFTBEFEHL, HOLY PRIEST, ROBIN SCHULZ, SSIO, STEVE ANGELLO & viele mehr, erwarten euch auf dem World Club Dome dieses Jahr eine lange Liste an Neuheiten und Hihlights, wie z.B.: 🤯 360-Grad-Mainstage mitten im Stadion 👟 einzigartige Sports & Lifestyle Area mit Stages, Sports, Nutrition & Brand Activations🔥 Unreal Stage mit feinstem Hardtechnouvm.",
-        "link": "https://rausgegangen.de/en/events/world-club-dome-206-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/y8zZ4a7jShxY1jNa6xjM_20250607-180655-03190davidseeger-bearbeitet.jpg?width=1200&height=900&mode=crop",
-        "city": "Frankfurt"
     },
     {
         "date": "Fri, 05.06.2026",
@@ -4285,6 +4285,16 @@
     },
     {
         "date": "Sat, 06.06.2026",
+        "time": "23:00",
+        "event": "Nice Up! #146 (@Großmarktschänke)",
+        "category": "",
+        "description": "Greetings, liebe Leute! ❤️💛💚 Während der Sommer langsam anklopft, holen wir bei der NICE UP! am 06.06. schon mal die richtige Wärme auf den Dancefloor und bringen euch eine Nacht  voller Dancehall, Reggae, Afrobeats und Reggaeton.  Dieses Mal feiern wir ein ganz besonderes und langersehntes Wiedersehen: DJ Nassair, Mitgründer der Party und jemand, der von Anfang an weiß, wie NICE UP! klingt. Mit einem einzigartigen Mix aus Reggae, Dancehall, Afrobeats und HipHop gehört DJ NasAir seit Jahren zur urbanen Soundsystem-Szene im Ruhrgebiet. Der Dortmunder DJ überzeugt mit energiegeladenen Sets, authentischer Selection und einem sicheren Gespür für den perfekten Vibe zwischen Oldschool Classics und aktuellen Club-Tunes – internationale Caribbean Energy direkt auf den Dancefloor.Das Blockbuster Soundsystem steht seit Jahren für genau den Sound, der die Großmarktschänke zum Beben bringt – druckvolle Bässe, ehrliche Auswahl und ein Gefühl für den richtigen Moment. Zusammen entsteht ein Flow aus Energie, Leichtigkeit und purem Tanzgefühl. Also komm rum, schnapp dir deine Lieblingsmenschen und tanz mit uns in den Sommer rein.   Big Up! Love Up! Nice Up! ✌️   Eintritt bis 23:30 Uhr: € 6,00 - danach € 12,00Ermäßigter Eintritt: € 8,00 | Zutritt ab 18",
+        "link": "https://rausgegangen.de/en/events/nice-up-146-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8noXhG59Re6GdDwTI1yM_nice-upbanner-5.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 06.06.2026",
         "time": "18:00",
         "event": "Stuttgarts Beatbox-Battle (@Renitenztheater Stuttgart)",
         "category": "",
@@ -4342,16 +4352,6 @@
         "link": "https://rausgegangen.de/en/events/aperol-yoga-in-essen-5/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/rAPRna7pSIOgIvbqt4w5_aperol-yoga-2.png?width=1200&height=900&mode=crop",
         "city": "Essen"
-    },
-    {
-        "date": "Sat, 06.06.2026",
-        "time": "20:00",
-        "event": "Lena Kupke: Pause (@Kulturzentrum Schlachthof)",
-        "category": "",
-        "description": "Lena Kupke erzählt in „Pause“ von einer Rückkehr, die alles auf den Kopf stellt und dabei überraschend viel Humor zeigt. Ihr Roman lotet aus, wie man in schwierigen Zeiten Nähe neu entdeckt und sich selbst dabei wiederfindet. Hier erwartet dich eine Lesung mit viel Herz und Offenheit 🫶",
-        "link": "https://rausgegangen.de/en/events/lena-kupke-pause-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pyxZMWUtTZy1A7648zOg_lena-kupke-2-c-daniel-dittus.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
     },
     {
         "date": "Sat, 06.06.2026",
@@ -4435,13 +4435,13 @@
     },
     {
         "date": "Sat, 06.06.2026",
-        "time": "23:00",
-        "event": "Nice Up! #146 (@Großmarktschänke)",
+        "time": "20:00",
+        "event": "Lena Kupke: Pause (@Kulturzentrum Schlachthof)",
         "category": "",
-        "description": "Greetings, liebe Leute! ❤️💛💚 Während der Sommer langsam anklopft, holen wir bei der NICE UP! am 06.06. schon mal die richtige Wärme auf den Dancefloor und bringen euch eine Nacht  voller Dancehall, Reggae, Afrobeats und Reggaeton.  Dieses Mal feiern wir ein ganz besonderes und langersehntes Wiedersehen: DJ Nassair, Mitgründer der Party und jemand, der von Anfang an weiß, wie NICE UP! klingt. Mit einem einzigartigen Mix aus Reggae, Dancehall, Afrobeats und HipHop gehört DJ NasAir seit Jahren zur urbanen Soundsystem-Szene im Ruhrgebiet. Der Dortmunder DJ überzeugt mit energiegeladenen Sets, authentischer Selection und einem sicheren Gespür für den perfekten Vibe zwischen Oldschool Classics und aktuellen Club-Tunes – internationale Caribbean Energy direkt auf den Dancefloor.Das Blockbuster Soundsystem steht seit Jahren für genau den Sound, der die Großmarktschänke zum Beben bringt – druckvolle Bässe, ehrliche Auswahl und ein Gefühl für den richtigen Moment. Zusammen entsteht ein Flow aus Energie, Leichtigkeit und purem Tanzgefühl. Also komm rum, schnapp dir deine Lieblingsmenschen und tanz mit uns in den Sommer rein.   Big Up! Love Up! Nice Up! ✌️   Eintritt bis 23:30 Uhr: € 6,00 - danach € 12,00Ermäßigter Eintritt: € 8,00 | Zutritt ab 18",
-        "link": "https://rausgegangen.de/en/events/nice-up-146-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/8noXhG59Re6GdDwTI1yM_nice-upbanner-5.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
+        "description": "Lena Kupke erzählt in „Pause“ von einer Rückkehr, die alles auf den Kopf stellt und dabei überraschend viel Humor zeigt. Ihr Roman lotet aus, wie man in schwierigen Zeiten Nähe neu entdeckt und sich selbst dabei wiederfindet. Hier erwartet dich eine Lesung mit viel Herz und Offenheit 🫶",
+        "link": "https://rausgegangen.de/en/events/lena-kupke-pause-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pyxZMWUtTZy1A7648zOg_lena-kupke-2-c-daniel-dittus.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Sat, 06.06.2026",
@@ -4989,6 +4989,14 @@
     },
     {
         "date": "Th, 11.06.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 11.06.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -5026,14 +5034,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 11.06.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "event": "Stefan Mießeler // TRUE ROMANCE(@theaterlaborbielefeld)",
@@ -5125,6 +5125,26 @@
     },
     {
         "date": "Fri, 12.06.2026",
+        "time": "15:00",
+        "event": "DEIN ERNST? – IS‘ NICH‘ WAHR (@Theater im Depot)",
+        "category": "",
+        "description": "Ein Abend in allerfeinster Gesellschaft mit Gurkensandwich oder Butterbrot und allem was darauf, darunter oder dazwischen passt – ganz frei nach Oscar Wilde.Das neue Stück des Theater Normal Gibt ́s Schon nimmt sich in diesem Jahr die sogenannte “bessere Gesellschaft” vor – und zwar liebevoll, frech und garantiert nicht ganz ernst.Es geht um die Liebe. Und um die Gesellschaft. Also eigentlich um alles, was kompliziert ist. Wer liebt hier eigentlich wen? Und warum? Und ist das überhaupt eine gute Idee? Was macht die Liebe mit uns – und was stellen wir im Gegenzug mit ihr an? Und mal ehrlich: Warum gibt es in unserer ach so modernen Welt immer noch Menschen, die glauben sie dürften über andere urteilen? Oder um es mit Chaplin zu sagen: Für böse Dinge braucht man Macht – für alles andere reicht die Liebe.Komm mit auf eine unterhaltsame Spurensuche – mit Musik, Witz und Charme und dem ein oder anderen „Aha-Moment“. Versprochen: Du gehst nicht dümmer nach Hause. Vielleicht nur ein bisschen verliebter ins Leben.Theater Normal Gibt ́ s Schon ist die Theatergruppe von Besucher*innen der Kontaktstelle des Halte-Stelle e.V. in der Blücherstraße. Seit 2017 entstehen hier Stücke aus eigenen Texten, gemischt mit Klassikern der Theaterliteratur und einer guten Portion Musik – frisch, lebendig und immer ein bisschen anders als erwartet.",
+        "link": "https://rausgegangen.de/en/events/dein-ernst-is-nich-wahr-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EjUqHxQ1us9dsP3i33uQ_img2959bcut.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Fri, 12.06.2026",
+        "time": "23:00",
+        "event": "SUBSURFACE – Hardtechno im Stollen134 (@Stollen134 - Techno Club Dortmund)",
+        "category": "",
+        "description": "Beim SUBSURFACE treffen harte Techno-Klänge von Vaegent, N-Joy, Xina und Latunix auf pulsierende Rave-Energie. Die DJs bringen den Narben des Schranz und Industrial frische Impulse und liefern dir elektronische Nächte zum Dranbleiben 🕺🏽",
+        "link": "https://rausgegangen.de/en/events/subsurface-hardtechno-im-stollen134-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/txciTMAQ56YrX6eqoe1w_subs169neu3.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Fri, 12.06.2026",
         "time": "23:00",
         "event": "bratty • w/ charli xcx & other brat coded artists • stuttgart (@Schräglage)",
         "category": "",
@@ -5182,26 +5202,6 @@
         "link": "https://rausgegangen.de/en/events/tits-bits-3/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/P1zPRNkjRKbEXIMxOpwc_pressebildgrafik2.png?width=1200&height=900&mode=crop",
         "city": "Bremen"
-    },
-    {
-        "date": "Fri, 12.06.2026",
-        "time": "15:00",
-        "event": "DEIN ERNST? – IS‘ NICH‘ WAHR (@Theater im Depot)",
-        "category": "",
-        "description": "Ein Abend in allerfeinster Gesellschaft mit Gurkensandwich oder Butterbrot und allem was darauf, darunter oder dazwischen passt – ganz frei nach Oscar Wilde.Das neue Stück des Theater Normal Gibt ́s Schon nimmt sich in diesem Jahr die sogenannte “bessere Gesellschaft” vor – und zwar liebevoll, frech und garantiert nicht ganz ernst.Es geht um die Liebe. Und um die Gesellschaft. Also eigentlich um alles, was kompliziert ist. Wer liebt hier eigentlich wen? Und warum? Und ist das überhaupt eine gute Idee? Was macht die Liebe mit uns – und was stellen wir im Gegenzug mit ihr an? Und mal ehrlich: Warum gibt es in unserer ach so modernen Welt immer noch Menschen, die glauben sie dürften über andere urteilen? Oder um es mit Chaplin zu sagen: Für böse Dinge braucht man Macht – für alles andere reicht die Liebe.Komm mit auf eine unterhaltsame Spurensuche – mit Musik, Witz und Charme und dem ein oder anderen „Aha-Moment“. Versprochen: Du gehst nicht dümmer nach Hause. Vielleicht nur ein bisschen verliebter ins Leben.Theater Normal Gibt ́ s Schon ist die Theatergruppe von Besucher*innen der Kontaktstelle des Halte-Stelle e.V. in der Blücherstraße. Seit 2017 entstehen hier Stücke aus eigenen Texten, gemischt mit Klassikern der Theaterliteratur und einer guten Portion Musik – frisch, lebendig und immer ein bisschen anders als erwartet.",
-        "link": "https://rausgegangen.de/en/events/dein-ernst-is-nich-wahr-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EjUqHxQ1us9dsP3i33uQ_img2959bcut.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Fri, 12.06.2026",
-        "time": "23:00",
-        "event": "SUBSURFACE – Hardtechno im Stollen134 (@Stollen134 - Techno Club Dortmund)",
-        "category": "",
-        "description": "Beim SUBSURFACE treffen harte Techno-Klänge von Vaegent, N-Joy, Xina und Latunix auf pulsierende Rave-Energie. Die DJs bringen den Narben des Schranz und Industrial frische Impulse und liefern dir elektronische Nächte zum Dranbleiben 🕺🏽",
-        "link": "https://rausgegangen.de/en/events/subsurface-hardtechno-im-stollen134-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/txciTMAQ56YrX6eqoe1w_subs169neu3.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
     },
     {
         "date": "Fri, 12.06.2026",
@@ -5333,6 +5333,26 @@
     {
         "date": "Sat, 13.06.2026",
         "time": "23:00",
+        "event": "Groove is in the Heart (@Großmarktschänke)",
+        "category": "",
+        "description": "Aloha ihr Lieben, Am 13.06. holen wir mit Groove is in the Heart wieder genau diesen besonderen Vibe zurück. Diese Nächte, in denen man die Zeit vergisst, Lieblingssongs plötzlich wieder auftauchen und der Dancefloor sich anfühlt wie ein kleiner Kurzurlaub vom Alltag. Auch diesmal verschmelzen Welten, die für Tanz, Freiheit und pure Euphorie stehen.Es pulsiert die treibende Kraft von 90s House und Club Classics, euphorisch, warm und voller Groove. Darum herum funkelt und leuchtet der unverwechselbare 80s Sound: Pop, Disco, & Hip Hop, voller Farben, Emotionen und ikonischer Songs, die Erinnerungen wach küssen, Herzen öffnen und den Dancefloor in ein Meer aus Bewegung und Gefühl verwandeln. An den Decks: Carsten Helmich. Der Mann hinter dem Juicy Beats Festival verbindet warme House-Grooves mit glitzernden 80s Hymnen und zeitlosen Klassikern zu einem Flow, der einen komplett mitnimmt. Uplifting Beats treffen auf große Refrains, Disco-Vibes auf Club-Energie, immer mit Gespür für den richtigen Moment und genau der richtigen Portion Glamour  Put on your finest Dancin` Shoes & dance! 💃🕺🪩   Eintritt bis 23:30 Uhr: € 6,00 - danach € 12,00Ermäßigter Eintritt: € 8,00 | Zutritt ab 18",
+        "link": "https://rausgegangen.de/en/events/groove-is-in-the-heart-4/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/u0RiNDiZRRe4we0Gv5dn_groove-is-in-the-heart-banner.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 13.06.2026",
+        "time": "23:00",
+        "event": "Team 80s • 80s Pop / New Wave / NDW / Disco • Oma Doris Dortmund (@Oma Doris)",
+        "category": "",
+        "description": "Sounds like: Wham, Simple Minds, Joy Division, Kate Bush, Elton John, ABBA, Peter Schilling, Tears For Fears, Soft Cell, A-Ha, Kylie Minogue, The Clash, Journey, TOTO, Frankie Goes To Hollywood, The Cure, Depeche Mode, The Smiths, Iggy Pop, Kraftwerk, New Order, Duran Duran, Fleetwood Mac, Queen, the Human League, Kim Wilde, Genesis, Falco, Whitney Houston, Culture Club, The Police, David Bowie, Talk Talk, Billy Idol, Alphaville, Joachim Witt, Andreas Dorau, Donna Summer, Bonnie Tyler, Rick Astley, Kenny Loggins, Bruce Springsteen, Bronski Beat, Men At Work, Madonna, Blondie, Prince, OMD, Cindy Lauper, Womack & Womack &&&-------------------------------------------Team 80s is going wild & back in time...🕺🏻💃🏻🪩Noch wärmer, noch lauter, noch wilder! Versprochen!🔥Back in Time mit 80s Pop, New Wave, NDW, Disco und Classic Rock der 80er Jahre.🍾Von poppigen Lieblingssongs bis wavigen Synth-Tracks ist alles dabei, was die Arme nach oben und kühle Drinks nach unten treibt. 🥳Wer sicher drin sein will, holt sich das Ticket vorab! 🤩🎫--------------------------------------------Samstag 13.06.2026 // 23:00 // Oma Doris // DortmundWir bei SpotifyMinimum age: 18Bitte seht in eurem eigenen Interesse davon ab, Tickets bei Drittanbietern zu kaufen.Veranstalter: Tanzcafé Oma Doris",
+        "link": "https://rausgegangen.de/en/events/team-80s-80s-pop-new-wave-ndw-disco-oma-doris-dortmund-10/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3YQotXz1SzO4csw5qxJX_2025-10-t80s-banner-neutral.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 13.06.2026",
+        "time": "23:00",
         "event": "18 JAHRE LOVEPOP STUTTGART (@Romy S)",
         "category": "",
         "description": "18 Jahre gibt es die Stuttgarter Ausgabe der Lovepop nun bereits, das muss natürlich ordentlich gefeiert werden. Aktueller Pop steht beim Jubiläum im Mittelpunkt, aber auch Classics sind zu hören. Dazu reist erstmals DAHLIA DANGER  (Let's Go Queer - Wiesbaden | Club Bizarre - Frankfurt) https://www.instagram.com/dahlia.danger/aus Wiesbaden zur Lovepop an. Das Orgateam der Stuttgart Pride kredenzt den ersten 300 Gästen einen Welcomeshot, es gibt Sweeties zum Naschen und natürlich die obligatorische Deco.",
@@ -5369,26 +5389,6 @@
         "link": "https://rausgegangen.de/en/events/fiesta-del-barrio-summer-edition-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vKJ7SL3xS1mz1Q7D5ao2_fiestadelbarriobad-bunny.png?width=1200&height=900&mode=crop",
         "city": "Bremen"
-    },
-    {
-        "date": "Sat, 13.06.2026",
-        "time": "23:00",
-        "event": "Groove is in the Heart (@Großmarktschänke)",
-        "category": "",
-        "description": "Aloha ihr Lieben, Am 13.06. holen wir mit Groove is in the Heart wieder genau diesen besonderen Vibe zurück. Diese Nächte, in denen man die Zeit vergisst, Lieblingssongs plötzlich wieder auftauchen und der Dancefloor sich anfühlt wie ein kleiner Kurzurlaub vom Alltag. Auch diesmal verschmelzen Welten, die für Tanz, Freiheit und pure Euphorie stehen.Es pulsiert die treibende Kraft von 90s House und Club Classics, euphorisch, warm und voller Groove. Darum herum funkelt und leuchtet der unverwechselbare 80s Sound: Pop, Disco, & Hip Hop, voller Farben, Emotionen und ikonischer Songs, die Erinnerungen wach küssen, Herzen öffnen und den Dancefloor in ein Meer aus Bewegung und Gefühl verwandeln. An den Decks: Carsten Helmich. Der Mann hinter dem Juicy Beats Festival verbindet warme House-Grooves mit glitzernden 80s Hymnen und zeitlosen Klassikern zu einem Flow, der einen komplett mitnimmt. Uplifting Beats treffen auf große Refrains, Disco-Vibes auf Club-Energie, immer mit Gespür für den richtigen Moment und genau der richtigen Portion Glamour  Put on your finest Dancin` Shoes & dance! 💃🕺🪩   Eintritt bis 23:30 Uhr: € 6,00 - danach € 12,00Ermäßigter Eintritt: € 8,00 | Zutritt ab 18",
-        "link": "https://rausgegangen.de/en/events/groove-is-in-the-heart-4/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/u0RiNDiZRRe4we0Gv5dn_groove-is-in-the-heart-banner.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 13.06.2026",
-        "time": "23:00",
-        "event": "Team 80s • 80s Pop / New Wave / NDW / Disco • Oma Doris Dortmund (@Oma Doris)",
-        "category": "",
-        "description": "Sounds like: Wham, Simple Minds, Joy Division, Kate Bush, Elton John, ABBA, Peter Schilling, Tears For Fears, Soft Cell, A-Ha, Kylie Minogue, The Clash, Journey, TOTO, Frankie Goes To Hollywood, The Cure, Depeche Mode, The Smiths, Iggy Pop, Kraftwerk, New Order, Duran Duran, Fleetwood Mac, Queen, the Human League, Kim Wilde, Genesis, Falco, Whitney Houston, Culture Club, The Police, David Bowie, Talk Talk, Billy Idol, Alphaville, Joachim Witt, Andreas Dorau, Donna Summer, Bonnie Tyler, Rick Astley, Kenny Loggins, Bruce Springsteen, Bronski Beat, Men At Work, Madonna, Blondie, Prince, OMD, Cindy Lauper, Womack & Womack &&&-------------------------------------------Team 80s is going wild & back in time...🕺🏻💃🏻🪩Noch wärmer, noch lauter, noch wilder! Versprochen!🔥Back in Time mit 80s Pop, New Wave, NDW, Disco und Classic Rock der 80er Jahre.🍾Von poppigen Lieblingssongs bis wavigen Synth-Tracks ist alles dabei, was die Arme nach oben und kühle Drinks nach unten treibt. 🥳Wer sicher drin sein will, holt sich das Ticket vorab! 🤩🎫--------------------------------------------Samstag 13.06.2026 // 23:00 // Oma Doris // DortmundWir bei SpotifyMinimum age: 18Bitte seht in eurem eigenen Interesse davon ab, Tickets bei Drittanbietern zu kaufen.Veranstalter: Tanzcafé Oma Doris",
-        "link": "https://rausgegangen.de/en/events/team-80s-80s-pop-new-wave-ndw-disco-oma-doris-dortmund-10/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3YQotXz1SzO4csw5qxJX_2025-10-t80s-banner-neutral.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
     },
     {
         "date": "Sat, 13.06.2026",
@@ -5601,6 +5601,14 @@
     },
     {
         "date": "Th, 18.06.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 18.06.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -5640,18 +5648,20 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Th, 18.06.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
         "event": "Wege durch das Land // Aus der Reihe gelesen: Was tun: Reden?(@theaterlaborbielefeld)",
         "date": "Do, 18.06",
         "category": "Kultur",
         "link": "https://theaterlabor.eu/events/wege-durch-das-land-aus-der-reihe-gelesen-was-tun-reden/"
+    },
+    {
+        "date": "Thu, 18.06.2026",
+        "time": "20:00",
+        "event": "Comedy Light Dortmund (@BierCafé West)",
+        "category": "",
+        "description": "Bei Comedy Light bekommst du frische Witze von 6 bis 8 Nachwuchs-Comedians, die ihre neuesten Geschichten und Gags testen. Hier gibt’s eine bunte Mischung aus neuen Gesichtern und originellen Ideen, die dich für einen Abend ablenken und zum Lachen bringen 🤩",
+        "link": "https://rausgegangen.de/en/events/comedy-light-95/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vAfBlvSlSGG03yTkomVF_280225.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Thu, 18.06.2026",
@@ -5672,16 +5682,6 @@
         "link": "https://rausgegangen.de/en/events/queerfeministisches-stand-up-comedy-open-mic-22/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/y08nWZDjQtalO7vgyB4b_img7426.JPG?width=1200&height=900&mode=crop",
         "city": "Bremen"
-    },
-    {
-        "date": "Thu, 18.06.2026",
-        "time": "20:00",
-        "event": "Comedy Light Dortmund (@BierCafé West)",
-        "category": "",
-        "description": "Bei Comedy Light bekommst du frische Witze von 6 bis 8 Nachwuchs-Comedians, die ihre neuesten Geschichten und Gags testen. Hier gibt’s eine bunte Mischung aus neuen Gesichtern und originellen Ideen, die dich für einen Abend ablenken und zum Lachen bringen 🤩",
-        "link": "https://rausgegangen.de/en/events/comedy-light-95/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vAfBlvSlSGG03yTkomVF_280225.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
     },
     {
         "date": "Thu, 18.06.2026",
@@ -5865,6 +5865,26 @@
     },
     {
         "date": "Sat, 20.06.2026",
+        "time": "12:00",
+        "event": "DOKOM21 Tag der 2. Mannschaften (@Waldstadion ASC 09 Dortmund)",
+        "category": "",
+        "description": "8 Teams, ein Turnier – Spaß steht ganz klar vorneAb 12 Uhr geht’s los DJ Luke den ganzen Tag Kronen vom Fass, Wein, Aperol Foodcourt mit allem was du brauchstGespielt wird bis ca. 20 Uhr Danach Aftershow im Weingrün Mitte ab 22 UhrTagesticket 7 € vor Ort Tagesticket + Aftershow 10 € über StagedatesSchnapp dir deine Crew und komm rum Das wird laut, voll und richtig gut",
+        "link": "https://rausgegangen.de/en/events/dokom21-tag-der-2-mannschaften-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TCa7QCRCS8SvdxFgGcfg_1.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 20.06.2026",
+        "time": "23:00",
+        "event": "KILLING ME SOFTLY (@Großmarktschänke)",
+        "category": "",
+        "description": "Hey Beautiful Souls! 💕 Am 20. Juni lädt Killing Me Softly wieder zu einer Nacht voller RnB-Klassiker, Hip-Hop-Goldstücke und purem Nostalgiegefühl ein. Wenn der Bass unter die Haut geht, die ersten Songs Erinnerungen wecken und plötzlich alle mitsingen, dann weißt du genau, warum diese Nächte so besonders sind.An den Decks stehen DJ Marshall Artz – Dortmunder DJ-Ikone mit einem feinen Gespür für die richtigen Grooves – und Kid Busy, bekannt vom LePrestige & der Bootynight. Das Besondere: Kid Busy legt ausschließlich Vinyl auf und bringt damit echten Oldschool-Charme in die Nacht. Oldschool-Feeling inklusive.Diese Nacht ist wie ein musikalischer Mädelsabend auf der Tanzfläche: voller Lieblingssongs, Erinnerungen und purem Herzklopfen. Tanze mit uns durch die schönsten Tracks der 90er und 2000er – mit Leichtigkeit, mit Gefühl, mit Stil. Pack deine Girls ein, zieh dein schönstes Outfit an, oder die bequemsten Sneaker und feier mit uns bis die Sterne schlafen gehen. Let the music move you – wir freuen uns auf dich! Eintritt bis 23:30 Uhr: € 6,00 - danach € 12,00 Ermäßigter Eintritt: € 8,00 | Zutritt ab 18",
+        "link": "https://rausgegangen.de/en/events/killing-me-softly-40/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/l4Pn5IPBTl6KAnJbdZmG_killing-me-softly-banner-2.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 20.06.2026",
         "time": "19:00",
         "event": "Curtis Harding /// Tour 2026 (@Im Wizemann – Halle)",
         "category": "",
@@ -5912,26 +5932,6 @@
         "link": "https://rausgegangen.de/en/events/1live-horsaal-comedy-tour-2026-6/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/0ImboAqgQGqfBfw7Ra6Q_1lhsc26visual4k3840x2160px2.jpg?width=1200&height=900&mode=crop",
         "city": "Essen"
-    },
-    {
-        "date": "Sat, 20.06.2026",
-        "time": "12:00",
-        "event": "DOKOM21 Tag der 2. Mannschaften (@Waldstadion ASC 09 Dortmund)",
-        "category": "",
-        "description": "8 Teams, ein Turnier – Spaß steht ganz klar vorneAb 12 Uhr geht’s los DJ Luke den ganzen Tag Kronen vom Fass, Wein, Aperol Foodcourt mit allem was du brauchstGespielt wird bis ca. 20 Uhr Danach Aftershow im Weingrün Mitte ab 22 UhrTagesticket 7 € vor Ort Tagesticket + Aftershow 10 € über StagedatesSchnapp dir deine Crew und komm rum Das wird laut, voll und richtig gut",
-        "link": "https://rausgegangen.de/en/events/dokom21-tag-der-2-mannschaften-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/TCa7QCRCS8SvdxFgGcfg_1.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 20.06.2026",
-        "time": "23:00",
-        "event": "KILLING ME SOFTLY (@Großmarktschänke)",
-        "category": "",
-        "description": "Hey Beautiful Souls! 💕 Am 20. Juni lädt Killing Me Softly wieder zu einer Nacht voller RnB-Klassiker, Hip-Hop-Goldstücke und purem Nostalgiegefühl ein. Wenn der Bass unter die Haut geht, die ersten Songs Erinnerungen wecken und plötzlich alle mitsingen, dann weißt du genau, warum diese Nächte so besonders sind.An den Decks stehen DJ Marshall Artz – Dortmunder DJ-Ikone mit einem feinen Gespür für die richtigen Grooves – und Kid Busy, bekannt vom LePrestige & der Bootynight. Das Besondere: Kid Busy legt ausschließlich Vinyl auf und bringt damit echten Oldschool-Charme in die Nacht. Oldschool-Feeling inklusive.Diese Nacht ist wie ein musikalischer Mädelsabend auf der Tanzfläche: voller Lieblingssongs, Erinnerungen und purem Herzklopfen. Tanze mit uns durch die schönsten Tracks der 90er und 2000er – mit Leichtigkeit, mit Gefühl, mit Stil. Pack deine Girls ein, zieh dein schönstes Outfit an, oder die bequemsten Sneaker und feier mit uns bis die Sterne schlafen gehen. Let the music move you – wir freuen uns auf dich! Eintritt bis 23:30 Uhr: € 6,00 - danach € 12,00 Ermäßigter Eintritt: € 8,00 | Zutritt ab 18",
-        "link": "https://rausgegangen.de/en/events/killing-me-softly-40/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/l4Pn5IPBTl6KAnJbdZmG_killing-me-softly-banner-2.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
     },
     {
         "date": "Sat, 20.06.2026",
@@ -6088,16 +6088,6 @@
     },
     {
         "date": "Tue, 23.06.2026",
-        "time": "20:00",
-        "event": "Craft Comedy Open Mic (@Friends Bar)",
-        "category": "",
-        "description": "Beim Craft Comedy Open Mic probieren bis zu acht Künstler:innen ihre neuesten Texte auf der Bühne aus, was jeder Show ein unverwechselbares und spontanes Element verleiht. Ob Newcomer:innen oder erfahrene Stand-Up-Profis – hier wird gemeinsam gelacht, gefeiert und auch mal gescheitert. Du sitzt mitten im Entwicklungsprozess der Bremer Comedy-Szene.",
-        "link": "https://rausgegangen.de/en/events/craft-comedy-open-mic-68/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/r6DPTP7JQvqSNowtoEKT_craft-comedy-open-mic-profil-bild.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Tue, 23.06.2026",
         "time": "19:00",
         "event": "Static X (@FZW Dortmund)",
         "category": "",
@@ -6115,6 +6105,16 @@
         "link": "https://rausgegangen.de/en/events/wohnzimmerslam-jahresfinale-3/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/1GR912LQ46GXu6zBSlCh_img5869.png?width=1200&height=900&mode=crop",
         "city": "Dortmund"
+    },
+    {
+        "date": "Tue, 23.06.2026",
+        "time": "20:00",
+        "event": "Craft Comedy Open Mic (@Friends Bar)",
+        "category": "",
+        "description": "Beim Craft Comedy Open Mic probieren bis zu acht Künstler:innen ihre neuesten Texte auf der Bühne aus, was jeder Show ein unverwechselbares und spontanes Element verleiht. Ob Newcomer:innen oder erfahrene Stand-Up-Profis – hier wird gemeinsam gelacht, gefeiert und auch mal gescheitert. Du sitzt mitten im Entwicklungsprozess der Bremer Comedy-Szene.",
+        "link": "https://rausgegangen.de/en/events/craft-comedy-open-mic-68/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/r6DPTP7JQvqSNowtoEKT_craft-comedy-open-mic-profil-bild.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "We, 24.06.2026",
@@ -6192,6 +6192,14 @@
     },
     {
         "date": "Th, 25.06.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 25.06.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -6229,14 +6237,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 25.06.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "event": "Bücher, Bier und Schokolade(@theaterlaborbielefeld)",
@@ -6403,6 +6403,26 @@
     },
     {
         "date": "Sat, 27.06.2026",
+        "time": "23:00",
+        "event": "2000er + 2010er Party | FZW Dortmund (@FZW Dortmund)",
+        "category": "",
+        "description": "Die 2000er + 2010er Party 💃🕺 Zwei Jahrzehnte, ein Dancefloor, maximale Eskalation  . Wir drehen die Zeit zurück – direkt in die Ära von Low-Rise-Jeans, Neonfarben und absoluten Banger-Hits!  Freut Euch also auf Klassiker von Black Eyed Peas, Rihanna, Lady Gaga, Eminem, David Guetta, Amy Winehouse, Macklemore, Avicii, Beyonce, Jan Delay, Seeed, Pink, Katy Perry, Outkast, Die Ärzte, Green Day, Fettes Brot, Pussycat Dolls, Billy Talent, u.v.m. ...Wir durchqueren auf unserer Reise alle Genres. Es wird also ein wilder Ritt und jeder der Bock hat auf bekannte Hits zu tanzen und zu feiern kommt heute GARANTIERT auf seine Kosten!Also: Datum merken – Freunde schnappen – tanzen bis der Schweiß tropft!Mit DJ Stargate Ab 18 Jahren!",
+        "link": "https://rausgegangen.de/en/events/2000er-2010er-party-fzw-dortmund-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RjEIrHBmRFmjvjhoRCFe_th25105do200010erpartyinstagram1080x1080px251128v2-kopie.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 27.06.2026",
+        "time": "23:00",
+        "event": "ROCK IT! (@Großmarktschänke)",
+        "category": "",
+        "description": "Hey Ho – Let’s go! ⚡️ Die Nacht des Gitarrenfeuerwerks kommt am Samstag, den 27.06. zurück. Rock It! in der Großmarktschänke. Mit Sound, Refrains und Bass, der durch Mark und Bein geht. Erlebt auf zwei Floors die geballte Ladung Gitarrenmusik, von zeitlosen Klassikern bis zu neuen Brettern, die euch den Atem rauben werden.Rockkärr und Andy Robl drehen vorne die Klassiker auf: Rock Classics, Hard Rock, Indie & Punk Rock Songs die man nicht nur hört, sondern fühlt. Von Nirvana über Foo Fighters bis zu den Rolling Stones. Hinten übernimmt Hamsti Bamsti und schaltet die Lautstärke hoch: Heavy Metal, Nu Metal, Alternative & Core und Vollgas, von Metallica bis Korn, von Rise Against bis Iron Maiden. Zwei Floors, jede Menge Riffs und Refrains, die dich abholen.  Pack deine Leute ein, schnapp dir ’n Drink und lass die Gitarren sprechen!    Eintritt bis 23:30 Uhr: € 6,00 - danach € 12,00Ermäßigter Eintritt: € 8,00 | Zutritt ab 18",
+        "link": "https://rausgegangen.de/en/events/rock-it-53/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/QFYFXcMMQ7y8KjPTYRm7_rock-itbanner-3.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 27.06.2026",
         "time": "19:00",
         "event": "Ich fühl`s! Queere Comedy und Poetry (@Bei Ute brennt noch Licht)",
         "category": "",
@@ -6430,26 +6450,6 @@
         "link": "https://rausgegangen.de/en/events/king-kong-kicks-indie-pop-hypes-fade-munster-4/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/shaywoGPRS6q69cu6JGA_kkicks-banner-neutral.png?width=1200&height=900&mode=crop",
         "city": "Münster"
-    },
-    {
-        "date": "Sat, 27.06.2026",
-        "time": "23:00",
-        "event": "2000er + 2010er Party | FZW Dortmund (@FZW Dortmund)",
-        "category": "",
-        "description": "Die 2000er + 2010er Party 💃🕺 Zwei Jahrzehnte, ein Dancefloor, maximale Eskalation  . Wir drehen die Zeit zurück – direkt in die Ära von Low-Rise-Jeans, Neonfarben und absoluten Banger-Hits!  Freut Euch also auf Klassiker von Black Eyed Peas, Rihanna, Lady Gaga, Eminem, David Guetta, Amy Winehouse, Macklemore, Avicii, Beyonce, Jan Delay, Seeed, Pink, Katy Perry, Outkast, Die Ärzte, Green Day, Fettes Brot, Pussycat Dolls, Billy Talent, u.v.m. ...Wir durchqueren auf unserer Reise alle Genres. Es wird also ein wilder Ritt und jeder der Bock hat auf bekannte Hits zu tanzen und zu feiern kommt heute GARANTIERT auf seine Kosten!Also: Datum merken – Freunde schnappen – tanzen bis der Schweiß tropft!Mit DJ Stargate Ab 18 Jahren!",
-        "link": "https://rausgegangen.de/en/events/2000er-2010er-party-fzw-dortmund-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RjEIrHBmRFmjvjhoRCFe_th25105do200010erpartyinstagram1080x1080px251128v2-kopie.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 27.06.2026",
-        "time": "23:00",
-        "event": "ROCK IT! (@Großmarktschänke)",
-        "category": "",
-        "description": "Hey Ho – Let’s go! ⚡️ Die Nacht des Gitarrenfeuerwerks kommt am Samstag, den 27.06. zurück. Rock It! in der Großmarktschänke. Mit Sound, Refrains und Bass, der durch Mark und Bein geht. Erlebt auf zwei Floors die geballte Ladung Gitarrenmusik, von zeitlosen Klassikern bis zu neuen Brettern, die euch den Atem rauben werden.Rockkärr und Andy Robl drehen vorne die Klassiker auf: Rock Classics, Hard Rock, Indie & Punk Rock Songs die man nicht nur hört, sondern fühlt. Von Nirvana über Foo Fighters bis zu den Rolling Stones. Hinten übernimmt Hamsti Bamsti und schaltet die Lautstärke hoch: Heavy Metal, Nu Metal, Alternative & Core und Vollgas, von Metallica bis Korn, von Rise Against bis Iron Maiden. Zwei Floors, jede Menge Riffs und Refrains, die dich abholen.  Pack deine Leute ein, schnapp dir ’n Drink und lass die Gitarren sprechen!    Eintritt bis 23:30 Uhr: € 6,00 - danach € 12,00Ermäßigter Eintritt: € 8,00 | Zutritt ab 18",
-        "link": "https://rausgegangen.de/en/events/rock-it-53/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/QFYFXcMMQ7y8KjPTYRm7_rock-itbanner-3.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
     },
     {
         "date": "Sat, 27.06.2026",
@@ -6636,6 +6636,14 @@
     },
     {
         "date": "Th, 02.07.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 02.07.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -6673,14 +6681,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 02.07.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "event": "Theaterlabor // Weiße Wahlen(@theaterlaborbielefeld)",
@@ -6801,16 +6801,6 @@
     },
     {
         "date": "Sat, 04.07.2026",
-        "time": "20:00",
-        "event": "Radouan Mriziga / A7LA5 ›Magec / the Desert‹ (@PACT Zollverein)",
-        "category": "",
-        "description": "Im Rahmen von ›SHIFTING GROUNDS‹ In einer von menschlichem Ehrgeiz und Technologie geprägten Welt bleiben Berge, Wüste und Meer ungezähmte Räume. In ›Magec / the Desert‹ erkundet Radouan Mriziga weite, trockene Landschaften als Geografien der Weisheit und denkt die Beziehung zwischen Mensch und Natur neu. Wie gewohnt arbeitet der Choreograph kollaborativ und verwebt gemeinsam mit seinem Team Rhythmus, Text, Bewegung und Klang zu einer Polyphonie von Perspektiven. Von der Sahara über die Thar-Wüste bis zu den zentralasiatischen Steppen erscheinen Wüsten als Orte der Reflexion, an denen die Kleinheit des Menschen sichtbar wird und Mythen, Literatur und kulturelles Wissen Gestalt annehmen. Die Performance, die Teil der Trilogie ›Atlas / the Mountain‹, ›Magec / the Desert‹ und schließlich ›Awessu / the Sea‹ ist, versteht die Wüste nicht als Leere, sondern als Raum der Erkenntnis, der Demut statt Beherrschung fordert. Inspiriert von der Handwerkskunst, der Musik und den körperlichen Praktiken von Wüstenkulturen, untersucht sie die Rhythmen, Ökosysteme und Wissensformen der Wüste – verdichtet in Symbolen wie der Sonnenuhr. Wie die Wüste selbst entzieht sich ›Magec / the Desert‹ eindeutigen Lesarten und zeigt, wie die stille Weite dieser Landschaft eine eigene Vorstellung von Fülle hervorbringt.Weitere Informationen",
-        "link": "https://rausgegangen.de/en/events/radouan-mriziga-a7la5-magec-the-desert-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aLwsNINNQdWb7bbkiYEz_kfda25-magec-the-desert-radouanmrizigaloukavanroy-22-3.jpg?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Sat, 04.07.2026",
         "time": "18:00",
         "event": "Pop meets Musical – Das Sommerkonzert | Young Voices & musicollective (@Dortmund)",
         "category": "",
@@ -6818,6 +6808,16 @@
         "link": "https://rausgegangen.de/en/events/pop-meets-musical-das-sommerkonzert-young-voices-musicollect-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/tZWgFGriTXy1K7xBZwXJ_konzertflyeryoungvoices-x-musicollective.png?width=1200&height=900&mode=crop",
         "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 04.07.2026",
+        "time": "20:00",
+        "event": "Radouan Mriziga / A7LA5 ›Magec / the Desert‹ (@PACT Zollverein)",
+        "category": "",
+        "description": "Im Rahmen von ›SHIFTING GROUNDS‹ In einer von menschlichem Ehrgeiz und Technologie geprägten Welt bleiben Berge, Wüste und Meer ungezähmte Räume. In ›Magec / the Desert‹ erkundet Radouan Mriziga weite, trockene Landschaften als Geografien der Weisheit und denkt die Beziehung zwischen Mensch und Natur neu. Wie gewohnt arbeitet der Choreograph kollaborativ und verwebt gemeinsam mit seinem Team Rhythmus, Text, Bewegung und Klang zu einer Polyphonie von Perspektiven. Von der Sahara über die Thar-Wüste bis zu den zentralasiatischen Steppen erscheinen Wüsten als Orte der Reflexion, an denen die Kleinheit des Menschen sichtbar wird und Mythen, Literatur und kulturelles Wissen Gestalt annehmen. Die Performance, die Teil der Trilogie ›Atlas / the Mountain‹, ›Magec / the Desert‹ und schließlich ›Awessu / the Sea‹ ist, versteht die Wüste nicht als Leere, sondern als Raum der Erkenntnis, der Demut statt Beherrschung fordert. Inspiriert von der Handwerkskunst, der Musik und den körperlichen Praktiken von Wüstenkulturen, untersucht sie die Rhythmen, Ökosysteme und Wissensformen der Wüste – verdichtet in Symbolen wie der Sonnenuhr. Wie die Wüste selbst entzieht sich ›Magec / the Desert‹ eindeutigen Lesarten und zeigt, wie die stille Weite dieser Landschaft eine eigene Vorstellung von Fülle hervorbringt.Weitere Informationen",
+        "link": "https://rausgegangen.de/en/events/radouan-mriziga-a7la5-magec-the-desert-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aLwsNINNQdWb7bbkiYEz_kfda25-magec-the-desert-radouanmrizigaloukavanroy-22-3.jpg?width=1200&height=900&mode=crop",
+        "city": "Essen"
     },
     {
         "date": "Sat, 04.07.2026",
@@ -6834,8 +6834,8 @@
         "event": "Vocal³ (@Universität Bielefeld)",
         "category": "A Cappella Concert",
         "description": "A Cappella Concert",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/bild/2026/Vocal3_header_with_logos.png?itok=bXNVWCoy",
-        "link": "https://www.bielefeld.jetzt/node/1719928"
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/imported_events/bielefeld_veranstaltung_importer_uni_bielefeld/Poster_small.png?itok=nt5-b5pP",
+        "link": "https://www.bielefeld.jetzt/node/1748530"
     },
     {
         "date": "Sat, 04.07.2026",
@@ -6843,8 +6843,8 @@
         "event": "Vocal³ (@Universität Bielefeld)",
         "category": "A Cappella Concert",
         "description": "A Cappella Concert",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/imported_events/bielefeld_veranstaltung_importer_uni_bielefeld/Poster_small.png?itok=nt5-b5pP",
-        "link": "https://www.bielefeld.jetzt/node/1748530"
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/bild/2026/Vocal3_header_with_logos.png?itok=bXNVWCoy",
+        "link": "https://www.bielefeld.jetzt/node/1719928"
     },
     {
         "date": "Sat, 04.07.2026",
@@ -6980,6 +6980,14 @@
     },
     {
         "date": "Th, 09.07.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 09.07.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -7017,14 +7025,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 09.07.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Thu, 09.07.2026",
@@ -7286,6 +7286,14 @@
     },
     {
         "date": "Th, 16.07.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 16.07.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -7323,14 +7331,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 16.07.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 17.07.2026",
@@ -7401,6 +7401,16 @@
     {
         "date": "Sat, 18.07.2026",
         "time": "22:00",
+        "event": "Ohrwürmer Party Dortmund (@FZW Dortmund)",
+        "category": "",
+        "description": "Erlebe die Ohrwürmer Party, die drei Jahrzehnte Musikgeschichten auf eine Tanzfläche bringt. Von A-ha bis Eminem erwartet dich eine Nacht voller Hits, die Erinnerungen wecken und zum Mitsingen einladen 🪩",
+        "link": "https://rausgegangen.de/en/events/ohrwurmer-party-dortmund-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/axI5foPCToC3msPu77I3_basicohrwuermerpartyfacebook.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 18.07.2026",
+        "time": "22:00",
         "event": "Modern Love Münster - 80s New Wave, Synth & Pop mit eavo im Hot Club (@Hot Jazz Club, Münster)",
         "category": "",
         "description": "🎉 Modern Love steht für astreinen 80s Synth, New Wave, Pop und ein bisschen 80er-Indie – von den Smashhits bis zu echten Geheimtipps. Keine 08/15-80er-Party, sondern Übergänge, die sitzen, Versionen, die passen und ein Flow, der jeden Abend neu entsteht.😻 Ach so, mein Name ist eavo. Ich bin schon seit vielen Jahren in den schönsten Clubs in ganz Deutschland unterwegs.  Wenn ihr Ideen oder Fragen habt, sprecht mich gern an oder schickt mir ne Nachricht. Musikvorschläge sind willkommen, denn ich hab Spaß daran, eure Ideen – wenn’s passt – ins Set zu puzzlen.💃🏼 Wenn ihr mitmacht, wird's ne überragende Party, klebriger Fußboden und durchtanzte Schuhe inklusive.Kommt vorbei!Modern Love klingt wie: A Flock of Seagulls – a-ha – ABC – Alphaville – Die Ärzte – The B-52’s – The Bangles – Pat Benatar – Berlin – Blondie – B-Movie – Boytronic – Laura Branigan – Bronski Beat – David Bowie – Kate Bush – Cameo – Kim Carnes – Camouflage – Anne Clark – Phil Collins – The Communards – Culture Club – The Cure – Dead or Alive – Depeche Mode – Desireless – Duran Duran – Erasure – Eurythmics – Falco – Frankie Goes To Hollywood – Fehlfarben – Fine Young Cannibals – Fischer-Z – The Flirts – Freeez – Grauzone – Murray Head – Heaven 17 – Don Henley – Billy Idol – Howard Jones – The Housemartins – The Human League – Icehouse – Ideal – Indochine – INXS – The Jam – Japan –Joy Division – Kajagoogoo – Nik Kershaw – King – Cyndi Lauper – Lene Lovich – Level 42 – Les Rita Mitsouko – Madness – Madonna – Martha And The Muffins – Men At Work – Men Without Hats – Miami Sound Machine - Midnight Oil – New Model Army – New Order – Nichts – OMD – Ryan Paris – Pet Shop Boys – Pixies – The Police – Prince – The Primitives – The Proclaimers – Queen – R.E.M. – Rainbirds – Real Life – Rheingold – Michael Sembello – Simple Minds – Siouxsie And The Banshees – The Sisters Of Mercy – Soft Cell – Spandau Ballet – Talk Talk – Talking Heads – Tears for Fears – Toto – Trans X – Trio – Tina Turner – U2 – Ultravox – Violent Femmes – Visage – Wham! – Kim Wilde – Yazoo – Yello – Paul Young🌍 Mehr Infos inkl. Spotify-Listen auf www.eavo.de/modernlove/ 📷 www.instagram.com/__eavo__ 📘 www.facebook.com/neinmaschine🔹 AK 10 €🎟 Spare 20% beim Vorverkauf, indem du dich für meinen Newsletter anmeldest: www.eavo.de/NL! 🔹 VVK: Limitiertes Kontingent Earlybird-Tickets: 7€ zzgl. Gebühren bis 6 Tage vor dem Abend 🔹 Danach: 9€ zzgl. Gebühren bei rausgegangen.de.",
@@ -7427,16 +7437,6 @@
         "link": "https://rausgegangen.de/en/events/tanz-der-vampire-open-air-party-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/wIZoNQLURjubFei2zEdF_hp-sputnik-2607.jpg?width=1200&height=900&mode=crop",
         "city": "Münster"
-    },
-    {
-        "date": "Sat, 18.07.2026",
-        "time": "22:00",
-        "event": "Ohrwürmer Party Dortmund (@FZW Dortmund)",
-        "category": "",
-        "description": "Erlebe die Ohrwürmer Party, die drei Jahrzehnte Musikgeschichten auf eine Tanzfläche bringt. Von A-ha bis Eminem erwartet dich eine Nacht voller Hits, die Erinnerungen wecken und zum Mitsingen einladen 🪩",
-        "link": "https://rausgegangen.de/en/events/ohrwurmer-party-dortmund-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/axI5foPCToC3msPu77I3_basicohrwuermerpartyfacebook.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
     },
     {
         "date": "Su, 19.07.2026",
@@ -7580,6 +7580,14 @@
     },
     {
         "date": "Th, 23.07.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 23.07.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -7617,14 +7625,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 23.07.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 24.07.2026",
@@ -7836,6 +7836,14 @@
     },
     {
         "date": "Th, 30.07.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 30.07.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -7873,14 +7881,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 30.07.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 31.07.2026",
@@ -7947,6 +7947,13 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Sat, 02.08",
+        "event": "Arminia vs. Fortuna Düsseldorf (@arminiaofficial)",
+        "category": "Sport",
+        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
+        "image_url": null
+    },
+    {
         "date": "Su, 02.08.2026",
         "time": "19:00",
         "event": "*TRIBE KENNENLERNABEND*",
@@ -7960,13 +7967,6 @@
         "event": "Lauftreff @uprunningclub (@Venue Coffee)",
         "category": "Sport",
         "link": "https://www.instagram.com/uprunningclub/?hl=de",
-        "image_url": null
-    },
-    {
-        "date": "Sat, 02.08",
-        "event": "Arminia vs. Fortuna Düsseldorf (@arminiaofficial)",
-        "category": "Sport",
-        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
         "image_url": null
     },
     {
@@ -8086,6 +8086,14 @@
     },
     {
         "date": "Th, 06.08.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 06.08.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -8123,14 +8131,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 06.08.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 07.08.2026",
@@ -8366,6 +8366,14 @@
     },
     {
         "date": "Th, 13.08.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 13.08.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -8403,14 +8411,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 13.08.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 14.08.2026",
@@ -8454,6 +8454,13 @@
         "link": "https://www.bielefeld.jetzt/node/1633172"
     },
     {
+        "date": "Fri, 15.08",
+        "event": "Arminia vs. Bremen (@arminiaofficial)",
+        "category": "Sport",
+        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
+        "image_url": null
+    },
+    {
         "date": "Sa, 15.08.2026",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -8484,13 +8491,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Fri, 15.08",
-        "event": "Arminia vs. Bremen (@arminiaofficial)",
-        "category": "Sport",
-        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
-        "image_url": null
     },
     {
         "date": "Sat, 15.08.2026",
@@ -8620,6 +8620,14 @@
     },
     {
         "date": "Th, 20.08.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 20.08.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -8657,14 +8665,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 20.08.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Thu, 20.08.2026",
@@ -8795,6 +8795,13 @@
         "link": "https://www.bielefeld.jetzt/node/1382002"
     },
     {
+        "date": "Sun, 24.08",
+        "event": "Arminia vs. Dresden (@arminiaofficial)",
+        "category": "Sport",
+        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
+        "image_url": null
+    },
+    {
         "date": "Mo, 24.08.2026",
         "time": "20:00",
         "event": "Pub Quiz (@irish_pub_bielefeld)",
@@ -8809,13 +8816,6 @@
         "category": "Sport",
         "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         "image_url": "https://tse3.mm.bing.net/th/id/OIP.S2SyS4KZbgQ0_dDtL7HNZgAAAA?pid=Api&P=0&h=180"
-    },
-    {
-        "date": "Sun, 24.08",
-        "event": "Arminia vs. Dresden (@arminiaofficial)",
-        "category": "Sport",
-        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
-        "image_url": null
     },
     {
         "date": "Tu, 25.08.2026",
@@ -8900,6 +8900,14 @@
     },
     {
         "date": "Th, 27.08.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 27.08.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -8937,14 +8945,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 27.08.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 28.08.2026",
@@ -9181,6 +9181,14 @@
     },
     {
         "date": "Th, 03.09.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 03.09.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -9218,14 +9226,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 03.09.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 04.09.2026",
@@ -9471,6 +9471,14 @@
     },
     {
         "date": "Th, 10.09.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 10.09.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -9508,14 +9516,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 10.09.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Thu, 10.09.2026",
@@ -9560,6 +9560,13 @@
         "image_url": null
     },
     {
+        "date": "Fri, 12.09",
+        "event": "Arminia vs. Magdeburg (@arminiaofficial)",
+        "category": "Sport",
+        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
+        "image_url": null
+    },
+    {
         "date": "Sa, 12.09.2026",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -9590,13 +9597,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Fri, 12.09",
-        "event": "Arminia vs. Magdeburg (@arminiaofficial)",
-        "category": "Sport",
-        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
-        "image_url": null
     },
     {
         "date": "Sat, 12.09.2026",
@@ -9740,6 +9740,14 @@
     },
     {
         "date": "Th, 17.09.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 17.09.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -9777,14 +9785,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 17.09.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 17.09",
@@ -9842,6 +9842,13 @@
         "city": "Essen"
     },
     {
+        "date": "Fri, 19.09",
+        "event": "Arminia vs. Greuther Fürth (@arminiaofficial)",
+        "category": "Sport",
+        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
+        "image_url": null
+    },
+    {
         "date": "Sa, 19.09.2026",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -9872,13 +9879,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Fri, 19.09",
-        "event": "Arminia vs. Greuther Fürth (@arminiaofficial)",
-        "category": "Sport",
-        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
-        "image_url": null
     },
     {
         "date": "Sat, 19.09.2026",
@@ -10015,6 +10015,14 @@
     },
     {
         "date": "Th, 24.09.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 24.09.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -10052,14 +10060,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 24.09.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Thu, 24.09.2026",
@@ -10120,14 +10120,6 @@
         "city": "Münster"
     },
     {
-        "date": "Sat, 26.09",
-        "time": "22:30",
-        "event": "TRANCELAND w SHOKI 287 (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/tranceland-w-shoki-287-26092026-2230",
-        "image_url": "https://www.club-sams.de/data/202603/vvk_2026_3__150.png?v=1774541141"
-    },
-    {
         "date": "Sa, 26.09.2026",
         "time": "14:00",
         "event": "*TRIBE WANDERSAMSTAG*",
@@ -10166,6 +10158,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 26.09",
+        "time": "22:30",
+        "event": "TRANCELAND w SHOKI 287 (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/tranceland-w-shoki-287-26092026-2230",
+        "image_url": "https://www.club-sams.de/data/202603/vvk_2026_3__150.png?v=1774541141"
     },
     {
         "date": "Sat, 26.09.2026",
@@ -10332,6 +10332,14 @@
     },
     {
         "date": "Th, 01.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 01.10.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -10369,14 +10377,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 01.10.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Thu, 01.10.2026",
@@ -10441,14 +10441,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Sat, 03.10",
-        "time": "22:30",
-        "event": "DARKSIDE OF SAMS (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/darkside-of-sams-03102026-2230",
-        "image_url": "https://www.club-sams.de/data/202603/vvk_2026_150.png?v=1774540498"
-    },
-    {
         "date": "Sa, 03.10.2026",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -10481,6 +10473,14 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Sat, 03.10",
+        "time": "22:30",
+        "event": "DARKSIDE OF SAMS (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/darkside-of-sams-03102026-2230",
+        "image_url": "https://www.club-sams.de/data/202603/vvk_2026_150.png?v=1774540498"
+    },
+    {
         "date": "Sat, 03.10.2026",
         "time": "10:00",
         "event": "Apfeltag auf Hof Ramsbrock (@Hof Ramsbrock)",
@@ -10506,6 +10506,13 @@
         "image_url": null
     },
     {
+        "date": "Sun, 05.10",
+        "event": "Arminia vs. Schalke (@arminiaofficial)",
+        "category": "Sport",
+        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
+        "image_url": null
+    },
+    {
         "date": "Mo, 05.10.2026",
         "time": "20:00",
         "event": "Pub Quiz (@irish_pub_bielefeld)",
@@ -10520,13 +10527,6 @@
         "category": "Sport",
         "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         "image_url": "https://tse3.mm.bing.net/th/id/OIP.S2SyS4KZbgQ0_dDtL7HNZgAAAA?pid=Api&P=0&h=180"
-    },
-    {
-        "date": "Sun, 05.10",
-        "event": "Arminia vs. Schalke (@arminiaofficial)",
-        "category": "Sport",
-        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
-        "image_url": null
     },
     {
         "date": "Tu, 06.10.2026",
@@ -10608,6 +10608,14 @@
     },
     {
         "date": "Th, 08.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 08.10.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -10645,14 +10653,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 08.10.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 08.10",
@@ -10711,19 +10711,19 @@
         "date": "Fri, 09.10.2026",
         "time": null,
         "event": "Festival Dome 2026 (@Stadthalle Bielefeld)",
-        "category": "Drei Tage. Drei Genres. Ein Festival",
-        "description": "Hardrock Freitag, 09.10.2026, 19:00 Uhr  Tickets",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/bild/2025/FestivalDome_Pressebild_8.png?itok=g_WIR0Va",
-        "link": "https://www.bielefeld.jetzt/node/1424024"
+        "category": "Headliner UK-Star Avaion und weitere hochkarätige DJs wie Luca-Dante Spadafora, Ely Oaks, Niklas Dee...",
+        "description": "Tel. 0521 55774555 (Erreichbar von Mo-Do 9-15 Uhr | Fr 9-13 Uhr) Fax 0521 55774510 info@bielefeld-marketing.de https://www.bielefeld-marketing.de",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/festival-dome-2026-tickets_474797_3794210_222x222_0.jpg?itok=yWY8vCGa",
+        "link": "https://www.bielefeld.jetzt/node/1504315"
     },
     {
         "date": "Fri, 09.10.2026",
         "time": null,
         "event": "Festival Dome 2026 (@Stadthalle Bielefeld)",
-        "category": "Headliner UK-Star Avaion und weitere hochkarätige DJs wie Luca-Dante Spadafora, Ely Oaks, Niklas Dee...",
-        "description": "Tel. 0521 55774555 (Erreichbar von Mo-Do 9-15 Uhr | Fr 9-13 Uhr) Fax 0521 55774510 info@bielefeld-marketing.de https://www.bielefeld-marketing.de",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/festival-dome-2026-tickets_474797_3794210_222x222_0.jpg?itok=yWY8vCGa",
-        "link": "https://www.bielefeld.jetzt/node/1504315"
+        "category": "Drei Tage. Drei Genres. Ein Festival",
+        "description": "Hardrock Freitag, 09.10.2026, 19:00 Uhr  Tickets",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/bild/2025/FestivalDome_Pressebild_8.png?itok=g_WIR0Va",
+        "link": "https://www.bielefeld.jetzt/node/1424024"
     },
     {
         "date": "Fri, 09.10.2026",
@@ -10733,14 +10733,6 @@
         "description": "Tel. 0521 55774555 (Erreichbar von Mo-Do 9-15 Uhr | Fr 9-13 Uhr) Fax 0521 55774510 info@bielefeld-marketing.de https://www.bielefeld-marketing.de",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/stahlzeit-aurich-tickets_363471_3080911_222x222.jpg?itok=OvFj_EYb",
         "link": "https://www.bielefeld.jetzt/node/1535050"
-    },
-    {
-        "date": "Sat, 10.10",
-        "time": "22:30",
-        "event": "TRANCELAND feat HUT B DAY w AFEM SYKO (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/tranceland-feat-hut-b-day-w-afem-syko-10102026-2230",
-        "image_url": "https://www.club-sams.de/data/202603/vvk_2026_2__150.png?v=1774540725"
     },
     {
         "date": "Sa, 10.10.2026",
@@ -10773,6 +10765,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 10.10",
+        "time": "22:30",
+        "event": "TRANCELAND feat HUT B DAY w AFEM SYKO (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/tranceland-feat-hut-b-day-w-afem-syko-10102026-2230",
+        "image_url": "https://www.club-sams.de/data/202603/vvk_2026_2__150.png?v=1774540725"
     },
     {
         "date": "Sat, 10.10.2026",
@@ -10907,6 +10907,14 @@
     },
     {
         "date": "Th, 15.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 15.10.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -10944,14 +10952,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 15.10.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 15.10",
@@ -11179,6 +11179,14 @@
     },
     {
         "date": "Th, 22.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 22.10.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -11216,14 +11224,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 22.10.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Thu, 22.10.2026",
@@ -11327,6 +11327,13 @@
         "link": "https://www.bielefeld.jetzt/node/1677857"
     },
     {
+        "date": "Sat, 25.10",
+        "event": "Arminia vs. Elversberg (@arminiaofficial)",
+        "category": "Sport",
+        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
+        "image_url": null
+    },
+    {
         "date": "Su, 25.10.2026",
         "time": "19:00",
         "event": "*TRIBE KENNENLERNABEND*",
@@ -11340,13 +11347,6 @@
         "event": "Lauftreff @uprunningclub (@Venue Coffee)",
         "category": "Sport",
         "link": "https://www.instagram.com/uprunningclub/?hl=de",
-        "image_url": null
-    },
-    {
-        "date": "Sat, 25.10",
-        "event": "Arminia vs. Elversberg (@arminiaofficial)",
-        "category": "Sport",
-        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
         "image_url": null
     },
     {
@@ -11459,6 +11459,14 @@
     },
     {
         "date": "Th, 29.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 29.10.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -11496,14 +11504,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 29.10.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Thu, 29.10.2026",
@@ -11741,6 +11741,14 @@
     },
     {
         "date": "Th, 05.11.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 05.11.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -11778,14 +11786,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 05.11.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 05.11",
@@ -11868,6 +11868,13 @@
         "link": "https://www.bielefeld.jetzt/node/1394280"
     },
     {
+        "date": "Sat, 08.11",
+        "event": "Arminia vs. Karlsruher SC (@arminiaofficial)",
+        "category": "Sport",
+        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
+        "image_url": null
+    },
+    {
         "date": "Su, 08.11.2026",
         "time": "19:00",
         "event": "*TRIBE KENNENLERNABEND*",
@@ -11881,13 +11888,6 @@
         "event": "Lauftreff @uprunningclub (@Venue Coffee)",
         "category": "Sport",
         "link": "https://www.instagram.com/uprunningclub/?hl=de",
-        "image_url": null
-    },
-    {
-        "date": "Sat, 08.11",
-        "event": "Arminia vs. Karlsruher SC (@arminiaofficial)",
-        "category": "Sport",
-        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
         "image_url": null
     },
     {
@@ -11998,6 +11998,14 @@
     },
     {
         "date": "Th, 12.11.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 12.11.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -12035,14 +12043,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 12.11.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Thu, 12.11.2026",
@@ -12095,14 +12095,6 @@
         "link": "https://www.bielefeld.jetzt/node/1734251"
     },
     {
-        "date": "Sat, 14.11",
-        "time": "22:30",
-        "event": "SAMSARA #2 w OMIK (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/samsara-2-w-omik-14112026-2230",
-        "image_url": "https://www.club-sams.de/data/202603/vvk_2026_1__150.png?v=1774540387"
-    },
-    {
         "date": "Sa, 14.11.2026",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -12133,6 +12125,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 14.11",
+        "time": "22:30",
+        "event": "SAMSARA #2 w OMIK (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/samsara-2-w-omik-14112026-2230",
+        "image_url": "https://www.club-sams.de/data/202603/vvk_2026_1__150.png?v=1774540387"
     },
     {
         "date": "Sat, 14.11.2026",
@@ -12260,6 +12260,14 @@
     },
     {
         "date": "Th, 19.11.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 19.11.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -12297,14 +12305,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 19.11.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Thu, 19.11.2026",
@@ -12508,6 +12508,14 @@
     },
     {
         "date": "Th, 26.11.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 26.11.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -12545,14 +12553,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 26.11.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Thu, 26.11.2026",
@@ -12680,6 +12680,13 @@
         "link": "https://www.bielefeld.jetzt/node/1673237"
     },
     {
+        "date": "Sun, 30.11",
+        "event": "Arminia vs. Münster (@arminiaofficial)",
+        "category": "Sport",
+        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
+        "image_url": null
+    },
+    {
         "date": "Mo, 30.11.2026",
         "time": "20:00",
         "event": "Pub Quiz (@irish_pub_bielefeld)",
@@ -12694,13 +12701,6 @@
         "category": "Sport",
         "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         "image_url": "https://tse3.mm.bing.net/th/id/OIP.S2SyS4KZbgQ0_dDtL7HNZgAAAA?pid=Api&P=0&h=180"
-    },
-    {
-        "date": "Sun, 30.11",
-        "event": "Arminia vs. Münster (@arminiaofficial)",
-        "category": "Sport",
-        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
-        "image_url": null
     },
     {
         "date": "Tu, 01.12.2026",
@@ -12776,6 +12776,14 @@
     },
     {
         "date": "Th, 03.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 03.12.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -12813,14 +12821,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 03.12.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 03.12",
@@ -13026,6 +13026,14 @@
     },
     {
         "date": "Th, 10.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 10.12.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -13063,14 +13071,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 10.12.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 11.12.2026",
@@ -13155,6 +13155,13 @@
         "link": "https://www.bielefeld.jetzt/node/1464077"
     },
     {
+        "date": "Sat, 13.12",
+        "event": "Arminia vs. Kaiserslautern (@arminiaofficial)",
+        "category": "Sport",
+        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
+        "image_url": null
+    },
+    {
         "date": "Su, 13.12.2026",
         "time": "19:00",
         "event": "*TRIBE KENNENLERNABEND*",
@@ -13168,13 +13175,6 @@
         "event": "Lauftreff @uprunningclub (@Venue Coffee)",
         "category": "Sport",
         "link": "https://www.instagram.com/uprunningclub/?hl=de",
-        "image_url": null
-    },
-    {
-        "date": "Sat, 13.12",
-        "event": "Arminia vs. Kaiserslautern (@arminiaofficial)",
-        "category": "Sport",
-        "link": "https://www.arminia.de/profis/saison/arminia-spiele",
         "image_url": null
     },
     {
@@ -13269,6 +13269,14 @@
     },
     {
         "date": "Th, 17.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 17.12.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -13306,14 +13314,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 17.12.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 17.12",
@@ -13500,6 +13500,14 @@
     },
     {
         "date": "Th, 24.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 24.12.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -13537,14 +13545,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 24.12.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 25.12.2026",
@@ -13726,6 +13726,14 @@
     },
     {
         "date": "Th, 31.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 31.12.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -13763,14 +13771,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 31.12.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fri, 12.02.2027",
