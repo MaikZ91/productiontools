@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+{% set active = 'dashboard' %}
+{% block title %}Dashboard – Rückverfolgbarkeit{% endblock %}
+{% block content %}
+<div class="card">
+  <h1>Dashboard</h1>
+  <div class="subtitle">Alle erfassten Geräte und Komponenten aus der Datenbank.</div>
+
+  <div style="display:flex;gap:16px;margin-bottom:20px;flex-wrap:wrap">
+    <div style="flex:1;min-width:150px;background:#f0f8fc;border:1px solid var(--mb-border);border-radius:8px;padding:14px">
+      <div style="font-size:1.6rem;font-weight:700;color:var(--mb-blue)">{{ stats.devices }}</div>
+      <div style="font-size:.8rem;color:#5f7180">Geräte</div>
+    </div>
+    <div style="flex:1;min-width:150px;background:#f0f8fc;border:1px solid var(--mb-border);border-radius:8px;padding:14px">
+      <div style="font-size:1.6rem;font-weight:700;color:var(--mb-blue)">{{ stats.components }}</div>
+      <div style="font-size:.8rem;color:#5f7180">Komponenten</div>
+    </div>
+    <div style="flex:1;min-width:150px;background:#f0f8fc;border:1px solid var(--mb-border);border-radius:8px;padding:14px">
+      <div style="font-size:1.6rem;font-weight:700;color:var(--mb-blue)">{{ stats.types }}</div>
+      <div style="font-size:.8rem;color:#5f7180">Baugruppen-Typen</div>
+    </div>
+  </div>
+
+  <form method="get" style="display:flex;gap:10px;max-width:480px;margin-bottom:20px">
+    <input name="q" value="{{ search }}" placeholder="Suche nach SN, Komponente, Baugruppe …">
+    <button class="btn" type="submit">Suchen</button>
+  </form>
+
+  {% if not devices %}
+    <div class="subtitle">Keine Datensätze gefunden.</div>
+  {% endif %}
+
+  {% for d in devices %}
+  <details class="card" style="padding:14px 18px" {{ 'open' if loop.first }}>
+    <summary style="cursor:pointer;display:flex;gap:18px;align-items:center;list-style:none">
+      <strong style="color:var(--mb-blue)">{{ d.device_type }}</strong>
+      <span>SN: {{ d.serial_number }}</span>
+      <span style="color:#5f7180;font-size:.85rem">erfasst {{ d.created_at }}</span>
+      <span style="color:#5f7180;font-size:.85rem;margin-left:auto">{{ d.components|length }} Komponenten</span>
+    </summary>
+    <div class="table-wrap" style="margin-top:12px">
+      <table>
+        <thead><tr><th>Komponente</th><th>SAP-Nr.</th><th>Rev.</th><th>Order</th><th>SN</th><th>Datum</th></tr></thead>
+        <tbody>
+          {% for c in d.components %}
+          <tr>
+            <td style="font-weight:600">{{ c.name }}</td>
+            <td>{{ c.sap_nr }}</td><td>{{ c.rev }}</td>
+            <td>{{ c.order_nr }}</td><td>{{ c.sn }}</td><td>{{ c.comp_date }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </details>
+  {% endfor %}
+</div>
+{% endblock %}

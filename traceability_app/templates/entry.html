@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{% set active = 'entry' %}
+{% block title %}Dateneingabe – Rückverfolgbarkeit{% endblock %}
+{% block content %}
+<div class="card">
+  <h1>Dateneingabe – Rückverfolgbarkeit</h1>
+  <div class="subtitle">Baugruppe wählen, Seriennummer und Komponenten erfassen – beim Speichern werden die Daten in die Datenbank geschrieben.</div>
+
+  <form method="get" action="{{ url_for('entry') }}" style="max-width:320px;margin-bottom:18px">
+    <label for="device_type">Baugruppe</label>
+    <select id="device_type" name="device_type" onchange="this.form.submit()">
+      {% for t in device_types %}
+        <option value="{{ t }}" {{ 'selected' if t == device_type }}>{{ t }}</option>
+      {% endfor %}
+    </select>
+  </form>
+
+  <form method="post" action="{{ url_for('entry') }}">
+    <input type="hidden" name="device_type" value="{{ device_type }}">
+    <div style="max-width:320px;margin-bottom:18px">
+      <label for="serial_number">Seriennummer ({{ device_type }})</label>
+      <input id="serial_number" name="serial_number" required placeholder="z. B. 1200582920258">
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th style="width:24%">Komponente</th><th>SAP-Nr.</th><th style="width:8%">Rev.</th><th>Order</th><th>SN</th><th>Datum</th></tr>
+        </thead>
+        <tbody>
+          {% for comp in components %}
+          <tr>
+            <td><input name="comp_name" value="{{ comp }}" readonly style="border:0;background:transparent;font-weight:600"></td>
+            <td><input name="comp_sap" placeholder="120-058-293"></td>
+            <td><input name="comp_rev" placeholder="4A"></td>
+            <td><input name="comp_order" placeholder="1013363"></td>
+            <td><input name="comp_sn" placeholder="1200582930088"></td>
+            <td><input name="comp_date" type="date"></td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    <div style="margin-top:20px;display:flex;gap:12px">
+      <button class="btn" type="submit">In Datenbank speichern</button>
+      <a class="btn secondary" href="{{ url_for('dashboard') }}" style="text-decoration:none;display:inline-block;padding:10px 22px">Zum Dashboard</a>
+    </div>
+  </form>
+</div>
+{% endblock %}
