@@ -40,14 +40,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Sa, 22.08.2026",
-        "time": "12:30",
-        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
-    },
-    {
         "date": "Sat, 22.08",
         "time": "23:00",
         "event": "BLOCK - moods (@stereobielefeld)",
@@ -62,6 +54,14 @@
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/stereolove/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/07/Stereo_22_0826_Feed.jpg"
+    },
+    {
+        "date": "Sa, 22.08.2026",
+        "time": "12:30",
+        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Sa, 22.08.2026",
@@ -173,43 +173,133 @@
     },
     {
         "date": "Sat, 22.08.2026",
+        "time": "07:30",
+        "event": "Villa Welcome Club's \"Where Next?\" - 2nd Edition (@Leipzig Hauptbahnhof)",
+        "category": "",
+        "description": "Bei \"Where Next?\" geht’s mit leichter bis mittelschwerer Wanderung und geheimem Ziel auf Entdeckungstour – Sandsteinfelsen und grandiose Aussichten inklusive. Ideal, wenn du Natur und ein bisschen Mysterium magst und neugierig bist, wo es diesmal hingeht 🥾",
+        "link": "https://rausgegangen.de/en/events/villa-welcome-clubs-where-next-2nd-edition-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vbJbSz5ZS3mbQFRUFAfF_2wherenext-hiking.png?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
+    },
+    {
+        "date": "Sat, 22.08.2026",
         "time": "11:00",
-        "event": "CSD Bremen 2026 – Pride Night Showtruck (@Altenwall)",
+        "event": "Schönauer Parkfest (@Schönauer Park)",
         "category": "",
-        "description": "Die Pride Night rollt mit einem riesigen Showtruck und bringt Festivalstimmung mitten in die Stadt. Mit zwei DJs, Drags und ordentlich Nebel wird’s laut, bunt und richtig frei – genau das, was Bremen zum Feiern braucht 🪩",
-        "link": "https://rausgegangen.de/en/events/csd-bremen-2026-pride-night-showtruck-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/M4FoiqteQhitQWnC6IdP_whatsapp-image-2026-06-16-at-165013.jpeg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
+        "description": "Im Schönauer Parkfest erwartet dich ein Wochenende voller Aktionen für die ganze Familie, von Mitmachangeboten bis zu Bühnenacts mit Kultband Rockhaus und De Randfichten. Vielfalt trifft hier auf Gemeinschaft und Unterhaltung für alle Altersgruppen 👯‍♀️",
+        "link": "https://rausgegangen.de/en/events/schonauer-parkfest-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3K3VE1QTjqFE1R02t3KP_parkfest.jpg?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
     },
     {
         "date": "Sat, 22.08.2026",
         "time": "12:00",
-        "event": "GAYKISS XXL TRUCK - CSD BREMEN 2026 (@Bremen City)",
+        "event": "SPEKTRAL OPEN AIR (@Westhafen Leipzig)",
         "category": "",
-        "description": "Zum 10-jährigen Jubiläum bringt der Gaykiss XXL Truck beim Bremen CSD eine geballte Ladung Pride-Feeling, Drinks und DJ Ceed am Start. Die mobile Party auf Rädern verspricht unvergessliche Momente voller Musik und Freiheit für alle ab 18 Jahren 🎉",
-        "link": "https://rausgegangen.de/en/events/gaykiss-xxl-truck-csd-bremen-2026-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/16yLZ1RWRMK6uSCsIPFs_chatgpt-image-29-mai-2026-142142.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
+        "description": "Beim SPEKTRAL OPEN AIR erwarten dich 17 Acts auf 4 Floors, die von Elektronik bis Techno ein breites Spektrum abdecken. Familienfreundlich mit eigenem Kinderspace kannst du hier locker von mittags bis morgens feiern und dich überraschen lassen von lokalen und internationalen Künstler:innen 🎟️",
+        "link": "https://rausgegangen.de/en/events/spektral-open-air-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/mbEnGgBuRQcZFzE7akhv_facebook-banner.png?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
+    },
+    {
+        "date": "Sat, 22.08.2026",
+        "time": "14:00",
+        "event": "Westflügel-Sommerfest (@Westflügel Leipzig)",
+        "category": "",
+        "description": "Beim Westflügel-Sommerfest verwandelt sich ein winziger Theaterkasten in eine fantastische Bühne, die dir ganz nah Geschichten flüstert. Inspiriert von einer Kunst aus Lateinamerika erlebst du Miniaturwelten, die viel mehr erzählen, als ihre Größe verrät 🌈",
+        "link": "https://rausgegangen.de/en/events/westflugel-sommerfest-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/PL4gzcQG6s32XY7ljcqg_-20-1-202616437wwwwestfluegelde.jpeg?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
+    },
+    {
+        "date": "Sat, 22.08.2026",
+        "time": "14:00",
+        "event": "Ruïna (Daily Rave) (@Kirchenruine Wachau)",
+        "category": "",
+        "description": "Zwischen den Mauern einer alten Kirchenruine verschmelzen House, Melodic Techno und Trance zu einem sommerlichen Tagesrave in besonderer Atmosphäre. Neben DJs erwartet dich eine spannende Violin-Performance, die das offene Gelände klanglich bereichert 🕺",
+        "link": "https://rausgegangen.de/en/events/ruina2026/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Enxc1q7bR1yhjaYF63Hq_bannerrausgegangen.png?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
+    },
+    {
+        "date": "Sat, 22.08.2026",
+        "time": "16:00",
+        "event": "ENDLESS SUMMER STREETFESTIVAL ☀️ (@Club Velvet Leipzig)",
+        "category": "",
+        "description": "Die Kohlenstraße wird zum Hotspot für alle, die Sonne, elektronische Klänge und entspanntes Streetfood mögen. Hier trifft knackiger Sommerflair auf vielseitige Beats und ein Miteinander für jede Generation. Ein Tag zum Durchatmen und Genuss unter freiem Himmel 🕺",
+        "link": "https://rausgegangen.de/en/events/endless-summer-streetfestival-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aKvwM8wT2Klf6MRaLmRQ_kontusf1920x1005f01.jpg?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
+    },
+    {
+        "date": "Sat, 22.08.2026",
+        "time": "17:00",
+        "event": "Electric Weekender 2026 (@Conne Island)",
+        "category": "",
+        "description": "Der Electric Weekender mixt elektronische Klänge von Ambient bis Techno mit Live-Acts und DJ-Sets, dazu gibt es entspannte Dinner- und Brunch-Momente. Das Programm verspricht ein vielfältiges Wochenende voller überraschender Sounds und liebevoller Details für alle, die elektronische Musik abseits des Mainstreams schätzen 👯‍♀️",
+        "link": "https://rausgegangen.de/en/events/electric-weekender-2026-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/QGkxvTO0SfyaNTLTti6N_202608electricweekenderrausgegangen09.png?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
+    },
+    {
+        "date": "Sat, 22.08.2026",
+        "time": "18:00",
+        "event": "ENDLESS SUMMER (@Karl-Heine-Straße)",
+        "category": "",
+        "description": "RITMATÉCA lädt dich ein, zwischen mellow Afro House und Latin-Beats sanft in den Abend zu gleiten. Kein lauter Club, sondern ein Raum für gute Drinks, entspannte Gespräche und ein Miteinander, das wirklich verbindet 🤍🪩✨🥰",
+        "link": "https://rausgegangen.de/en/events/endless-summer-10/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/SbmdoHnARyiNt2gMW4bb_8ba0b29f-376c-4c51-bc72-d8d12036debd.jpeg?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
+    },
+    {
+        "date": "Sat, 22.08.2026",
+        "time": "20:00",
+        "event": "Wii Sports Turnier (@Garage Ost Leipzig)",
+        "category": "",
+        "description": "Beim Wii Sports Turnier geht’s zu zweit in den freundschaftlichen Wettkampf, bei dem nicht nur gezockt, sondern auch mit viel Performance und Witz präsentiert wird. Freu dich auf spannende Matches, die von einer Drag Queen moderiert werden, und coole Preise für die besten Teams 🕺",
+        "link": "https://rausgegangen.de/en/events/wii-sports-turnier-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6MTXSXrREWnVJfPzkEGU_chatgpt-image-24-juli-2026-152228.png?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
+    },
+    {
+        "date": "Sat, 22.08.2026",
+        "time": "23:59",
+        "event": "trashntrance x Jurassic Heart (@elipamanoke)",
+        "category": "",
+        "description": "trashntrance und Jurassic Heart verbinden trance, bounce und hardgroove zu einer Nacht, die garantiert in Bewegung bringt. Zwei Floors mit starken Acts wie Raphus und stinksüss laden dich ein, tief in rhythmische Klänge einzutauchen und den Beat zu spüren 🕺",
+        "link": "https://rausgegangen.de/en/events/trashntrance-x-jurassic-heart-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lmjc2GeJSFybqyF37rM7_trashntrance-x-jurassic-heart-7-1008x567px.png?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
     },
     {
         "date": "Sat, 22.08.2026",
         "time": "12:00",
-        "event": "Sameday but different (@Freizeitklinik)",
+        "event": "Schallplattenflohmarkt (@scheune Vorplatz)",
         "category": "",
-        "description": "Am Samstag kannst du ganz nach Lust und Laune zwischen entspanntem Relaxen und spannender Challenge wählen – oder beides kombinieren. Ob cooler Beat zum Start in den Tag oder gemütliches Durchatmen, hier geht alles klar 👀",
-        "link": "https://rausgegangen.de/en/events/sameday-but-different-8/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/uYrZL2GbSOKizraAiuBp_sameday-but-different.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
+        "description": "Zwischen Bäumen im Hof erwartet dich eine bunte Schallplattenauswahl, die von DJ-Sets begleitet wird. Runde den Flohmarktstreifzug mit Vinylschätzen und feinen Deals ab und bring deine eigenen Platten gern mit in die Runde 🕺",
+        "link": "https://rausgegangen.de/en/events/schallplattenflohmarkt-9/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/iRxzm8VTQVOME1wsNewH_spfm-21200-x-628-px.jpg?width=1200&height=900&mode=crop",
+        "city": "Dresden"
     },
     {
         "date": "Sat, 22.08.2026",
-        "time": "21:00",
-        "event": "DIE GROẞE CSD BREMEN AFTERSHOWPARTY 2026 – NIGHT OF THE PRIDE | GAYKISS XXL (@Shagall Klub)",
+        "time": "14:00",
+        "event": "Sommerparty Kletterarena Dresden (@Kletterarena Dresden)",
         "category": "",
-        "description": "Nach der Parade geht’s in Bremen bei der CSD Aftershowparty richtig rund: Auf verschiedenen Floors mixt das Line-up queerfeine Sounds von Gayhouse bis Techno. Entspann dich im Open-Air Chillout oder tanz im aufblasbaren Blow Up Club unter freiem Himmel 🎟️👯‍♀️",
-        "link": "https://rausgegangen.de/en/events/csd-bremen-aftershowparty-by-gaykiss-clubbing-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/SD2VEsIbRiKA7Ec3LmnJ_chatgpt-image-14-juli-2026-145648.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
+        "description": "Beim Sommerfest in der Kletterarena Dresden kannst du neue Boulder im Freien ausprobieren, beim Wettkampf dein Klettertalent zeigen und dabei gegrillte Leckereien genießen. Abends lockt die Cocktailbar und wer Lust hat, gibt beim Beachvolleyball nochmal alles 🕺",
+        "link": "https://rausgegangen.de/en/events/sommerparty-kletterarena-dresden-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7VpWVeVSdeh7UKimrYfQ_sommerfest-2026.png?width=1200&height=900&mode=crop",
+        "city": "Dresden"
+    },
+    {
+        "date": "Sat, 22.08.2026",
+        "time": "22:00",
+        "event": "Teenage Dream (@GrooveStation)",
+        "category": "",
+        "description": "Erinnere dich an die Tage, als VIVA die Charts regierte und Stars wie Katy Perry und Stromae unsere Jugend prägten. Hier gibt's den ultimativen Pop-Throwback mit allem von Disco-Glitzer bis zu den beliebtesten 2010er-Hymnen 💃",
+        "link": "https://rausgegangen.de/en/events/teenage-dream-106/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/3tqcqiq09xau.jpg?width=1200&height=900&mode=crop",
+        "city": "Dresden"
     },
     {
         "date": "Sat, 22.08.2026",
@@ -280,6 +370,166 @@
         "link": "https://rausgegangen.de/en/events/tsirk-dobranotch-ein-klezmer-zirkus-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Fdlo6YT2SUOdf7OLOwsn_tsirk-dobranotchcshendl-copitman.jpg?width=1200&height=900&mode=crop",
         "city": "Frankfurt"
+    },
+    {
+        "date": "Sat, 22.08.2026",
+        "time": "11:00",
+        "event": "CSD Bremen 2026 – Pride Night Showtruck (@Altenwall)",
+        "category": "",
+        "description": "Die Pride Night rollt mit einem riesigen Showtruck und bringt Festivalstimmung mitten in die Stadt. Mit zwei DJs, Drags und ordentlich Nebel wird’s laut, bunt und richtig frei – genau das, was Bremen zum Feiern braucht 🪩",
+        "link": "https://rausgegangen.de/en/events/csd-bremen-2026-pride-night-showtruck-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/M4FoiqteQhitQWnC6IdP_whatsapp-image-2026-06-16-at-165013.jpeg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Sat, 22.08.2026",
+        "time": "12:00",
+        "event": "GAYKISS XXL TRUCK - CSD BREMEN 2026 (@Bremen City)",
+        "category": "",
+        "description": "Zum 10-jährigen Jubiläum bringt der Gaykiss XXL Truck beim Bremen CSD eine geballte Ladung Pride-Feeling, Drinks und DJ Ceed am Start. Die mobile Party auf Rädern verspricht unvergessliche Momente voller Musik und Freiheit für alle ab 18 Jahren 🎉",
+        "link": "https://rausgegangen.de/en/events/gaykiss-xxl-truck-csd-bremen-2026-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/16yLZ1RWRMK6uSCsIPFs_chatgpt-image-29-mai-2026-142142.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Sat, 22.08.2026",
+        "time": "12:00",
+        "event": "Sameday but different (@Freizeitklinik)",
+        "category": "",
+        "description": "Am Samstag kannst du ganz nach Lust und Laune zwischen entspanntem Relaxen und spannender Challenge wählen – oder beides kombinieren. Ob cooler Beat zum Start in den Tag oder gemütliches Durchatmen, hier geht alles klar 👀",
+        "link": "https://rausgegangen.de/en/events/sameday-but-different-8/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/uYrZL2GbSOKizraAiuBp_sameday-but-different.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Sat, 22.08.2026",
+        "time": "21:00",
+        "event": "DIE GROẞE CSD BREMEN AFTERSHOWPARTY 2026 – NIGHT OF THE PRIDE | GAYKISS XXL (@Shagall Klub)",
+        "category": "",
+        "description": "Nach der Parade geht’s in Bremen bei der CSD Aftershowparty richtig rund: Auf verschiedenen Floors mixt das Line-up queerfeine Sounds von Gayhouse bis Techno. Entspann dich im Open-Air Chillout oder tanz im aufblasbaren Blow Up Club unter freiem Himmel 🎟️👯‍♀️",
+        "link": "https://rausgegangen.de/en/events/csd-bremen-aftershowparty-by-gaykiss-clubbing-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/SD2VEsIbRiKA7Ec3LmnJ_chatgpt-image-14-juli-2026-145648.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Sat, 22.08.2026",
+        "time": "10:00",
+        "event": "Blumenstrauß binden | 📍 Wochenmarkt Münster (@Münster)",
+        "category": "",
+        "description": "Auf dem Wochenmarkt suchst du deine Blumen selbst aus, bevor du beim Spaziergang entlang der Aa in entspannter Runde lernst, wie Florist:innen ihren Strauß gestalten. Mit Tipps zu Schnitt und Haltbarkeit zauberst du deinen eigenen bunten Blumenstrauß für zuhause 🧚‍♀️",
+        "link": "https://rausgegangen.de/en/events/blumenstrau-binden-wochenmarkt-munster-7/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/x9Yu3R1yTsqgbttvyIGd_img6775.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Sat, 22.08.2026",
+        "time": "14:00",
+        "event": "Desire Day & Night w/ Mischluft, Bad Boombox, Aerea (Live) (@Dockland)",
+        "category": "",
+        "description": "Nach dem Festival-Feeling geht es jetzt in die Verlängerung mit Mischluft, Bad Boombox und dem elektronischen Live-Set von Aerea. Zwei Open-Air-Bühnen bieten tagsüber und nachts unterschiedliche Sounds, die dich noch einmal richtig durchpusten 😌",
+        "link": "https://rausgegangen.de/en/events/desire-day-night-w-mischluft-bad-boombox-benwal-aerea-live-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/2ZT4y6ynQf2QdJjn0n4s_bannertio.png?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Sat, 22.08.2026",
+        "time": "22:00",
+        "event": "Desire Day & Night w/ Mischluft, Bad Boombox, Aerea (Live) (@Fusion Club)",
+        "category": "",
+        "description": "Nach dem Festival-Feeling geht es jetzt in die Verlängerung mit Mischluft, Bad Boombox und dem elektronischen Live-Set von Aerea. Zwei Open-Air-Bühnen bieten tagsüber und nachts unterschiedliche Sounds, die dich noch einmal richtig durchpusten 😌",
+        "link": "https://rausgegangen.de/en/events/desire-day-night-w-mischluft-bad-boombox-benwal-aerea-live-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/2ZT4y6ynQf2QdJjn0n4s_bannertio.png?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Sat, 22.08.2026",
+        "time": "14:00",
+        "event": "Bunt oder Blau Festival 2026 (@Filmnächte im Hafengarten Dortmund)",
+        "category": "",
+        "description": "Das Bunt oder Blau Festival feiert fünf Jahre voller Genre-Mix aus Funk, Indie, Jazz, Rock, Soul und Techno und zieht erstmals auf das spannende Knauf-Areal. Freu dich auf eine Atmosphäre, die gute Laune und musikalische Vielfalt verbindet. Early Birds sind jetzt am Start 🪩",
+        "link": "https://rausgegangen.de/en/events/bunt-oder-blau-festival-2026-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/IIuUQ2oYTyGuNcBfy3Ag_bobfestival2026rausgegangen.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 22.08.2026",
+        "time": "15:00",
+        "event": "FASTER w/ DJ Rush, Chris Liebing, Felix Kröcher, a.m. (@JunkYard Dortmund)",
+        "category": "",
+        "description": "Drei Techno-Ikonen, die über 30 Jahre die Szene geprägt haben, treffen bei FASTER aufeinander und bringen mit Vinyl-Sets und Power echten Klassiker-Spirit zurück. Hier erlebst du puren Underground und Beats, die direkt aus der Clubgeschichte sprechen 🕺",
+        "link": "https://rausgegangen.de/en/events/faster-w-dj-rush-chris-liebing-felix-krocher-am-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/NuATSQHRTqVjKueapcTA_holder-1080-2.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 22.08.2026",
+        "time": "19:00",
+        "event": "Der Teufel trägt Prada 2 (@PSD Bank Sommerkino)",
+        "category": "",
+        "description": "Fast 20 Jahre nach dem Kultfilm trifft die Originalbesetzung von Der Teufel trägt Prada wieder auf neue Charaktere, die frischen Wind in New Yorks Modewelt bringen. Freu dich auf eine Mischung aus Nostalgie und modernen Geschichten unter freiem Himmel 👀",
+        "link": "https://rausgegangen.de/en/events/der-teufel-tragt-prada-2-820/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/nMHftNlnTHGYgkmJGezx_kinozeitraum-juli-2026-23-august-2026-4.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 22.08.2026",
+        "time": "22:00",
+        "event": "Dortmund XXL - 5 Partys in einer Nacht (@FZW Dortmund)",
+        "category": "",
+        "description": "Jede Stunde gibt’s ’ne neue Ära zum Tanzen von den 70ern bis zu den aktuellen Hits. Stell dich auf Klassiker von ABBA bis Drake ein und erleb die Musikgeschichte, wie sie lebendig wird. Hier findest du ’nen 5-fachen Soundtrip durch die Jahrzehnte 🕺",
+        "link": "https://rausgegangen.de/en/events/dortmund-xxl-5-partys-in-einer-nacht-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/MiislDwgSl2NUExJMwfx_basicfzwxxlpartyticketshop.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Sat, 22.08.2026",
+        "time": "12:00",
+        "event": "Offener Gartentag auf der Bonnekamphöhe (@Naturgarten Bonnekamphöhe)",
+        "category": "",
+        "description": "Jeden Samstag lädt die Bonnekamphöhe dazu ein, grüne Natur mit kreativen Angeboten zu entdecken, vom entspannenden Yoga bis zum bunten Kunstworkshop zusammen mit dem Museum Folkwang. Die Mischung aus frischen Pflanzen, leckeren Snacks und ruhigen Ecken macht es zu einem Ort, an dem du einfach mal richtig durchatmen kannst 😌",
+        "link": "https://rausgegangen.de/en/events/offener-gartentag-auf-der-bonnekamphohe-14/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BgBaCtuuSvu53wx70T7x_offener-gartentag.jpg?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Sat, 22.08.2026",
+        "time": "14:00",
+        "event": "2 Jahres Special After6ix X Heimliche Liebe (@Heimliche Liebe)",
+        "category": "",
+        "description": "Zwei Jahre AFTER6IX – hier findest du knackigen House und elektronische Musik, die unsere Community zusammengebracht hat. Fünf DJs sorgen den Tag über für entspannte Beats und die perfekte Sommerlaune, um gemeinsam den Moment zu feiern 🌞",
+        "link": "https://rausgegangen.de/en/events/2-jahres-special-after6ix-x-heimliche-liebe-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5ekVG2aIQj25gUJIOuSg_dc6f8aa1-1c10-491b-acff-f61d8b6c4a2b.jpeg?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Sat, 22.08.2026",
+        "time": "14:00",
+        "event": "Bunt oder Blau Festival 2026 (@Filmnächte im Hafengarten Dortmund)",
+        "category": "",
+        "description": "Das Bunt oder Blau Festival feiert fünf Jahre voller Genre-Mix aus Funk, Indie, Jazz, Rock, Soul und Techno und zieht erstmals auf das spannende Knauf-Areal. Freu dich auf eine Atmosphäre, die gute Laune und musikalische Vielfalt verbindet. Early Birds sind jetzt am Start 🪩",
+        "link": "https://rausgegangen.de/en/events/bunt-oder-blau-festival-2026-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/IIuUQ2oYTyGuNcBfy3Ag_bobfestival2026rausgegangen.png?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Sat, 22.08.2026",
+        "time": "18:00",
+        "event": "BA! BA! BAD BUNNY 🐰 OPEN AIR 🔥 (@Musikpalette Essen)",
+        "category": "",
+        "description": "Hier gibt’s den perfekten Mix aus Latin, Afro und globalen Sounds, der den Spirit von Bad Bunny spürbar macht. Freu dich auf fette Anthems und coole Remixes, die bis in die Nacht feierfreudig bleiben 🕺",
+        "link": "https://rausgegangen.de/en/events/ba-ba-bad-bunny-open-air-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/CU24FkBGRUevjImkQ8UZ_bababad-bunny-klein.PNG?width=1200&height=900&mode=crop",
+        "city": "Essen"
+    },
+    {
+        "date": "Sat, 22.08.2026",
+        "time": "21:30",
+        "event": "Aftershow (@DIVINE Bar)",
+        "category": "",
+        "description": "Nach der Show geht’s erst richtig los: Mit Queens, Kings und Drinks erwartet dich eine queer-freundliche Party, bei der DJ, Karaoke und LipSync ganz davon abhängen, wie du den Dancefloor rockst 🕺",
+        "link": "https://rausgegangen.de/en/events/aftershow-62/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Ytqfjo2OQDWqaopBkkdo_img0105.jpeg?width=1200&height=900&mode=crop",
+        "city": "Essen"
     },
     {
         "date": "Sat, 22.08.2026",
@@ -423,163 +673,63 @@
     },
     {
         "date": "Sat, 22.08.2026",
-        "time": "07:30",
-        "event": "Villa Welcome Club's \"Where Next?\" - 2nd Edition (@Leipzig Hauptbahnhof)",
+        "time": "14:00",
+        "event": "Rock gegen Rechts Düsseldorf 2026 (@Ballonwiese im Volksgarten)",
         "category": "",
-        "description": "Bei \"Where Next?\" geht’s mit leichter bis mittelschwerer Wanderung und geheimem Ziel auf Entdeckungstour – Sandsteinfelsen und grandiose Aussichten inklusive. Ideal, wenn du Natur und ein bisschen Mysterium magst und neugierig bist, wo es diesmal hingeht 🥾",
-        "link": "https://rausgegangen.de/en/events/villa-welcome-clubs-where-next-2nd-edition-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/vbJbSz5ZS3mbQFRUFAfF_2wherenext-hiking.png?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
-    },
-    {
-        "date": "Sat, 22.08.2026",
-        "time": "11:00",
-        "event": "Schönauer Parkfest (@Schönauer Park)",
-        "category": "",
-        "description": "Im Schönauer Parkfest erwartet dich ein Wochenende voller Aktionen für die ganze Familie, von Mitmachangeboten bis zu Bühnenacts mit Kultband Rockhaus und De Randfichten. Vielfalt trifft hier auf Gemeinschaft und Unterhaltung für alle Altersgruppen 👯‍♀️",
-        "link": "https://rausgegangen.de/en/events/schonauer-parkfest-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3K3VE1QTjqFE1R02t3KP_parkfest.jpg?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
-    },
-    {
-        "date": "Sat, 22.08.2026",
-        "time": "12:00",
-        "event": "SPEKTRAL OPEN AIR (@Westhafen Leipzig)",
-        "category": "",
-        "description": "Beim SPEKTRAL OPEN AIR erwarten dich 17 Acts auf 4 Floors, die von Elektronik bis Techno ein breites Spektrum abdecken. Familienfreundlich mit eigenem Kinderspace kannst du hier locker von mittags bis morgens feiern und dich überraschen lassen von lokalen und internationalen Künstler:innen 🎟️",
-        "link": "https://rausgegangen.de/en/events/spektral-open-air-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/mbEnGgBuRQcZFzE7akhv_facebook-banner.png?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
+        "description": "Am 22. August steht in Düsseldorf wieder Musik ganz klar gegen rechte Hetze im Vordergrund: Rock gegen Rechts verbindet Punk und Hip Hop mit politischem Bekenntnis und bringt kulturellen Widerstand raus aufs offene Feld – ein Nachmittag voller Akustik und Haltung wartet auf dich 🤝",
+        "link": "https://rausgegangen.de/en/events/rock-gegen-rechts-dusseldorf-2026-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/QBN4N5lERsGbOFlYK0JN_03-ballonwiesergrbenjaminlohr.jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
     },
     {
         "date": "Sat, 22.08.2026",
         "time": "14:00",
-        "event": "Westflügel-Sommerfest (@Westflügel Leipzig)",
+        "event": "Kombucha Workshop mit Aslı Hatipoğlu (@Malkastenpark)",
         "category": "",
-        "description": "Beim Westflügel-Sommerfest verwandelt sich ein winziger Theaterkasten in eine fantastische Bühne, die dir ganz nah Geschichten flüstert. Inspiriert von einer Kunst aus Lateinamerika erlebst du Miniaturwelten, die viel mehr erzählen, als ihre Größe verrät 🌈",
-        "link": "https://rausgegangen.de/en/events/westflugel-sommerfest-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/PL4gzcQG6s32XY7ljcqg_-20-1-202616437wwwwestfluegelde.jpeg?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
+        "description": "Bei Aslı Hatipoğlu lernst du in ihrem Kombucha Workshop, wie du das spritzige fermentierte Getränk selbst ansetzt. Der Kurs auf Englisch zeigt dir Schritt für Schritt den Prozess – perfekt, wenn du Lust hast, kreativ und nachhaltig aktiv zu werden 🧖🏼‍♀️",
+        "link": "https://rausgegangen.de/en/events/kombucha-workshop-mit-asl-hatipoglu-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/sjIseDr9Sk6IpP20G5xD_20260523-163323.jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
     },
     {
         "date": "Sat, 22.08.2026",
-        "time": "14:00",
-        "event": "Ruïna (Daily Rave) (@Kirchenruine Wachau)",
+        "time": "19:30",
+        "event": "Blueprint Comedy - Gin & Jokes (Best of Show) (@Radisson Blu Media Harbour Hotel, Düsseldorf)",
         "category": "",
-        "description": "Zwischen den Mauern einer alten Kirchenruine verschmelzen House, Melodic Techno und Trance zu einem sommerlichen Tagesrave in besonderer Atmosphäre. Neben DJs erwartet dich eine spannende Violin-Performance, die das offene Gelände klanglich bereichert 🕺",
-        "link": "https://rausgegangen.de/en/events/ruina2026/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Enxc1q7bR1yhjaYF63Hq_bannerrausgegangen.png?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
-    },
-    {
-        "date": "Sat, 22.08.2026",
-        "time": "16:00",
-        "event": "ENDLESS SUMMER STREETFESTIVAL ☀️ (@Club Velvet Leipzig)",
-        "category": "",
-        "description": "Die Kohlenstraße wird zum Hotspot für alle, die Sonne, elektronische Klänge und entspanntes Streetfood mögen. Hier trifft knackiger Sommerflair auf vielseitige Beats und ein Miteinander für jede Generation. Ein Tag zum Durchatmen und Genuss unter freiem Himmel 🕺",
-        "link": "https://rausgegangen.de/en/events/endless-summer-streetfestival-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/aKvwM8wT2Klf6MRaLmRQ_kontusf1920x1005f01.jpg?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
-    },
-    {
-        "date": "Sat, 22.08.2026",
-        "time": "17:00",
-        "event": "Electric Weekender 2026 (@Conne Island)",
-        "category": "",
-        "description": "Der Electric Weekender mixt elektronische Klänge von Ambient bis Techno mit Live-Acts und DJ-Sets, dazu gibt es entspannte Dinner- und Brunch-Momente. Das Programm verspricht ein vielfältiges Wochenende voller überraschender Sounds und liebevoller Details für alle, die elektronische Musik abseits des Mainstreams schätzen 👯‍♀️",
-        "link": "https://rausgegangen.de/en/events/electric-weekender-2026-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/QGkxvTO0SfyaNTLTti6N_202608electricweekenderrausgegangen09.png?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
-    },
-    {
-        "date": "Sat, 22.08.2026",
-        "time": "18:00",
-        "event": "ENDLESS SUMMER (@Karl-Heine-Straße)",
-        "category": "",
-        "description": "RITMATÉCA lädt dich ein, zwischen mellow Afro House und Latin-Beats sanft in den Abend zu gleiten. Kein lauter Club, sondern ein Raum für gute Drinks, entspannte Gespräche und ein Miteinander, das wirklich verbindet 🤍🪩✨🥰",
-        "link": "https://rausgegangen.de/en/events/endless-summer-10/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/SbmdoHnARyiNt2gMW4bb_8ba0b29f-376c-4c51-bc72-d8d12036debd.jpeg?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
+        "description": "Lachtränen, gute Drinks und feinstes Essen – bei Blueprint Comedy – Gin & Jokes erwartet dich ein Abend voller Genuss und guter Laune im Herzen des Medienhafens. Vier Comedians sorgen für beste Stimmung, während du dein Lieblingsgericht genießt. Perfekt für alle, die Comedy lieben und gerne mit einem Drink in der Hand lachen! 😜",
+        "link": "https://rausgegangen.de/en/events/blueprint-comedy-gin-jokes-bei-gutem-wetter-open-air-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ZOBNDanBSgiA5aPE3h1s_gin-jokes-banner.png?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
     },
     {
         "date": "Sat, 22.08.2026",
         "time": "20:00",
-        "event": "Wii Sports Turnier (@Garage Ost Leipzig)",
+        "event": "DÜSSELDORF - MAMMA MIA I ABBA - KONZERT TOUR I THE EIGHT (@THE EIGHT)",
         "category": "",
-        "description": "Beim Wii Sports Turnier geht’s zu zweit in den freundschaftlichen Wettkampf, bei dem nicht nur gezockt, sondern auch mit viel Performance und Witz präsentiert wird. Freu dich auf spannende Matches, die von einer Drag Queen moderiert werden, und coole Preise für die besten Teams 🕺",
-        "link": "https://rausgegangen.de/en/events/wii-sports-turnier-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6MTXSXrREWnVJfPzkEGU_chatgpt-image-24-juli-2026-152228.png?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
+        "description": "Bei der GIMME GIMME PARTY erwarten dich alle ABBA-Klassiker, von „Dancing Queen“ bis „Waterloo“ live am DJ-Pult zum Mitsingen und Tanzen. Die inoffizielle Fanparty bringt 70er-Jahre-Feeling und Spaß für alle, die Lust auf echte Kultmomente haben 👯‍♀️",
+        "link": "https://rausgegangen.de/en/events/dusseldorf-mamma-mia-i-abba-konzert-tour-i-the-eight-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RCM7DM3uTE2wd1mS33E1_img2625-1-2.PNG?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
     },
     {
         "date": "Sat, 22.08.2026",
-        "time": "23:59",
-        "event": "trashntrance x Jurassic Heart (@elipamanoke)",
+        "time": "20:00",
+        "event": "THUNDER BAE – live & AYLIN CELIK (Support) (@Schleuse Zwei)",
         "category": "",
-        "description": "trashntrance und Jurassic Heart verbinden trance, bounce und hardgroove zu einer Nacht, die garantiert in Bewegung bringt. Zwei Floors mit starken Acts wie Raphus und stinksüss laden dich ein, tief in rhythmische Klänge einzutauchen und den Beat zu spüren 🕺",
-        "link": "https://rausgegangen.de/en/events/trashntrance-x-jurassic-heart-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lmjc2GeJSFybqyF37rM7_trashntrance-x-jurassic-heart-7-1008x567px.png?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
-    },
-    {
-        "date": "Sat, 22.08.2026",
-        "time": "12:00",
-        "event": "Schallplattenflohmarkt (@scheune Vorplatz)",
-        "category": "",
-        "description": "Zwischen Bäumen im Hof erwartet dich eine bunte Schallplattenauswahl, die von DJ-Sets begleitet wird. Runde den Flohmarktstreifzug mit Vinylschätzen und feinen Deals ab und bring deine eigenen Platten gern mit in die Runde 🕺",
-        "link": "https://rausgegangen.de/en/events/schallplattenflohmarkt-9/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/iRxzm8VTQVOME1wsNewH_spfm-21200-x-628-px.jpg?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Sat, 22.08.2026",
-        "time": "14:00",
-        "event": "Sommerparty Kletterarena Dresden (@Kletterarena Dresden)",
-        "category": "",
-        "description": "Beim Sommerfest in der Kletterarena Dresden kannst du neue Boulder im Freien ausprobieren, beim Wettkampf dein Klettertalent zeigen und dabei gegrillte Leckereien genießen. Abends lockt die Cocktailbar und wer Lust hat, gibt beim Beachvolleyball nochmal alles 🕺",
-        "link": "https://rausgegangen.de/en/events/sommerparty-kletterarena-dresden-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/7VpWVeVSdeh7UKimrYfQ_sommerfest-2026.png?width=1200&height=900&mode=crop",
-        "city": "Dresden"
+        "description": "Thunder Bae mixt auf ihrem Debüt „A WOMAN“ Elektronik, Indie-Rock und Trap zu einem Sound, der sich futuristisch und nahbar anfühlt. Ihre Songs tragen eine düstere, feminine Aura und erzählen ehrlich von Identität ohne Klischees zu bedienen – ein Abend für alle, die Pop gern vielschichtig mögen 🎟️",
+        "link": "https://rausgegangen.de/en/events/thunder-bae-live-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4qyDeTxlTuCLGdCWEGjN_2.jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
     },
     {
         "date": "Sat, 22.08.2026",
         "time": "22:00",
-        "event": "Teenage Dream (@GrooveStation)",
+        "event": "Destination Disco (@Bar Lola)",
         "category": "",
-        "description": "Erinnere dich an die Tage, als VIVA die Charts regierte und Stars wie Katy Perry und Stromae unsere Jugend prägten. Hier gibt's den ultimativen Pop-Throwback mit allem von Disco-Glitzer bis zu den beliebtesten 2010er-Hymnen 💃",
-        "link": "https://rausgegangen.de/en/events/teenage-dream-106/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/3tqcqiq09xau.jpg?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Sat, 22.08.2026",
-        "time": "10:00",
-        "event": "Blumenstrauß binden | 📍 Wochenmarkt Münster (@Münster)",
-        "category": "",
-        "description": "Auf dem Wochenmarkt suchst du deine Blumen selbst aus, bevor du beim Spaziergang entlang der Aa in entspannter Runde lernst, wie Florist:innen ihren Strauß gestalten. Mit Tipps zu Schnitt und Haltbarkeit zauberst du deinen eigenen bunten Blumenstrauß für zuhause 🧚‍♀️",
-        "link": "https://rausgegangen.de/en/events/blumenstrau-binden-wochenmarkt-munster-7/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/x9Yu3R1yTsqgbttvyIGd_img6775.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Sat, 22.08.2026",
-        "time": "14:00",
-        "event": "Desire Day & Night w/ Mischluft, Bad Boombox, Aerea (Live) (@Dockland)",
-        "category": "",
-        "description": "Nach dem Festival-Feeling geht es jetzt in die Verlängerung mit Mischluft, Bad Boombox und dem elektronischen Live-Set von Aerea. Zwei Open-Air-Bühnen bieten tagsüber und nachts unterschiedliche Sounds, die dich noch einmal richtig durchpusten 😌",
-        "link": "https://rausgegangen.de/en/events/desire-day-night-w-mischluft-bad-boombox-benwal-aerea-live-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/2ZT4y6ynQf2QdJjn0n4s_bannertio.png?width=1200&height=900&mode=crop",
-        "city": "Münster"
-    },
-    {
-        "date": "Sat, 22.08.2026",
-        "time": "22:00",
-        "event": "Desire Day & Night w/ Mischluft, Bad Boombox, Aerea (Live) (@Fusion Club)",
-        "category": "",
-        "description": "Nach dem Festival-Feeling geht es jetzt in die Verlängerung mit Mischluft, Bad Boombox und dem elektronischen Live-Set von Aerea. Zwei Open-Air-Bühnen bieten tagsüber und nachts unterschiedliche Sounds, die dich noch einmal richtig durchpusten 😌",
-        "link": "https://rausgegangen.de/en/events/desire-day-night-w-mischluft-bad-boombox-benwal-aerea-live-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/2ZT4y6ynQf2QdJjn0n4s_bannertio.png?width=1200&height=900&mode=crop",
-        "city": "Münster"
+        "description": "Die Nacht bringt dich zurück in die Disco-Ära, vermischt mit aktuellen Clubsounds, die zum Tanzen einladen. Ab 18 Uhr starten Cocktails und entspannte Beats, ab 22 Uhr übernimmt die Disco-Kugel und setzt die Bühne für eine tanzbare Zeit voller Freiheit und Vielfalt 🪩",
+        "link": "https://rausgegangen.de/en/events/destination-disco-55/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/sUEtWGKTuSbAUrONl2Zg_rausgegangen-dd.jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
     },
     {
         "date": "Sat, 22.08.2026",
@@ -670,96 +820,6 @@
         "link": "https://rausgegangen.de/en/events/jedermensch-x-phonovision-1/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/CziYRYxRMumujxSgAMYg_jedermenschxphonovisionra.jpg?width=1200&height=900&mode=crop",
         "city": "Köln"
-    },
-    {
-        "date": "Sat, 22.08.2026",
-        "time": "12:00",
-        "event": "Offener Gartentag auf der Bonnekamphöhe (@Naturgarten Bonnekamphöhe)",
-        "category": "",
-        "description": "Jeden Samstag lädt die Bonnekamphöhe dazu ein, grüne Natur mit kreativen Angeboten zu entdecken, vom entspannenden Yoga bis zum bunten Kunstworkshop zusammen mit dem Museum Folkwang. Die Mischung aus frischen Pflanzen, leckeren Snacks und ruhigen Ecken macht es zu einem Ort, an dem du einfach mal richtig durchatmen kannst 😌",
-        "link": "https://rausgegangen.de/en/events/offener-gartentag-auf-der-bonnekamphohe-14/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BgBaCtuuSvu53wx70T7x_offener-gartentag.jpg?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Sat, 22.08.2026",
-        "time": "14:00",
-        "event": "2 Jahres Special After6ix X Heimliche Liebe (@Heimliche Liebe)",
-        "category": "",
-        "description": "Zwei Jahre AFTER6IX – hier findest du knackigen House und elektronische Musik, die unsere Community zusammengebracht hat. Fünf DJs sorgen den Tag über für entspannte Beats und die perfekte Sommerlaune, um gemeinsam den Moment zu feiern 🌞",
-        "link": "https://rausgegangen.de/en/events/2-jahres-special-after6ix-x-heimliche-liebe-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5ekVG2aIQj25gUJIOuSg_dc6f8aa1-1c10-491b-acff-f61d8b6c4a2b.jpeg?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Sat, 22.08.2026",
-        "time": "14:00",
-        "event": "Bunt oder Blau Festival 2026 (@Filmnächte im Hafengarten Dortmund)",
-        "category": "",
-        "description": "Das Bunt oder Blau Festival feiert fünf Jahre voller Genre-Mix aus Funk, Indie, Jazz, Rock, Soul und Techno und zieht erstmals auf das spannende Knauf-Areal. Freu dich auf eine Atmosphäre, die gute Laune und musikalische Vielfalt verbindet. Early Birds sind jetzt am Start 🪩",
-        "link": "https://rausgegangen.de/en/events/bunt-oder-blau-festival-2026-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/IIuUQ2oYTyGuNcBfy3Ag_bobfestival2026rausgegangen.png?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Sat, 22.08.2026",
-        "time": "18:00",
-        "event": "BA! BA! BAD BUNNY 🐰 OPEN AIR 🔥 (@Musikpalette Essen)",
-        "category": "",
-        "description": "Hier gibt’s den perfekten Mix aus Latin, Afro und globalen Sounds, der den Spirit von Bad Bunny spürbar macht. Freu dich auf fette Anthems und coole Remixes, die bis in die Nacht feierfreudig bleiben 🕺",
-        "link": "https://rausgegangen.de/en/events/ba-ba-bad-bunny-open-air-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/CU24FkBGRUevjImkQ8UZ_bababad-bunny-klein.PNG?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Sat, 22.08.2026",
-        "time": "21:30",
-        "event": "Aftershow (@DIVINE Bar)",
-        "category": "",
-        "description": "Nach der Show geht’s erst richtig los: Mit Queens, Kings und Drinks erwartet dich eine queer-freundliche Party, bei der DJ, Karaoke und LipSync ganz davon abhängen, wie du den Dancefloor rockst 🕺",
-        "link": "https://rausgegangen.de/en/events/aftershow-62/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Ytqfjo2OQDWqaopBkkdo_img0105.jpeg?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Sat, 22.08.2026",
-        "time": "14:00",
-        "event": "Bunt oder Blau Festival 2026 (@Filmnächte im Hafengarten Dortmund)",
-        "category": "",
-        "description": "Das Bunt oder Blau Festival feiert fünf Jahre voller Genre-Mix aus Funk, Indie, Jazz, Rock, Soul und Techno und zieht erstmals auf das spannende Knauf-Areal. Freu dich auf eine Atmosphäre, die gute Laune und musikalische Vielfalt verbindet. Early Birds sind jetzt am Start 🪩",
-        "link": "https://rausgegangen.de/en/events/bunt-oder-blau-festival-2026-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/IIuUQ2oYTyGuNcBfy3Ag_bobfestival2026rausgegangen.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 22.08.2026",
-        "time": "15:00",
-        "event": "FASTER w/ DJ Rush, Chris Liebing, Felix Kröcher, a.m. (@JunkYard Dortmund)",
-        "category": "",
-        "description": "Drei Techno-Ikonen, die über 30 Jahre die Szene geprägt haben, treffen bei FASTER aufeinander und bringen mit Vinyl-Sets und Power echten Klassiker-Spirit zurück. Hier erlebst du puren Underground und Beats, die direkt aus der Clubgeschichte sprechen 🕺",
-        "link": "https://rausgegangen.de/en/events/faster-w-dj-rush-chris-liebing-felix-krocher-am-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/NuATSQHRTqVjKueapcTA_holder-1080-2.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 22.08.2026",
-        "time": "19:00",
-        "event": "Der Teufel trägt Prada 2 (@PSD Bank Sommerkino)",
-        "category": "",
-        "description": "Fast 20 Jahre nach dem Kultfilm trifft die Originalbesetzung von Der Teufel trägt Prada wieder auf neue Charaktere, die frischen Wind in New Yorks Modewelt bringen. Freu dich auf eine Mischung aus Nostalgie und modernen Geschichten unter freiem Himmel 👀",
-        "link": "https://rausgegangen.de/en/events/der-teufel-tragt-prada-2-820/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/nMHftNlnTHGYgkmJGezx_kinozeitraum-juli-2026-23-august-2026-4.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Sat, 22.08.2026",
-        "time": "22:00",
-        "event": "Dortmund XXL - 5 Partys in einer Nacht (@FZW Dortmund)",
-        "category": "",
-        "description": "Jede Stunde gibt’s ’ne neue Ära zum Tanzen von den 70ern bis zu den aktuellen Hits. Stell dich auf Klassiker von ABBA bis Drake ein und erleb die Musikgeschichte, wie sie lebendig wird. Hier findest du ’nen 5-fachen Soundtrip durch die Jahrzehnte 🕺",
-        "link": "https://rausgegangen.de/en/events/dortmund-xxl-5-partys-in-einer-nacht-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/MiislDwgSl2NUExJMwfx_basicfzwxxlpartyticketshop.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
     },
     {
         "date": "Sat, 22.08.2026",
@@ -870,66 +930,6 @@
         "link": "https://rausgegangen.de/en/events/pretty-loud-volume-2-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/65OMjgxTuXooiAX8NoAg_img3279.jpeg?width=1200&height=900&mode=crop",
         "city": "Hamburg"
-    },
-    {
-        "date": "Sat, 22.08.2026",
-        "time": "14:00",
-        "event": "Rock gegen Rechts Düsseldorf 2026 (@Ballonwiese im Volksgarten)",
-        "category": "",
-        "description": "Am 22. August steht in Düsseldorf wieder Musik ganz klar gegen rechte Hetze im Vordergrund: Rock gegen Rechts verbindet Punk und Hip Hop mit politischem Bekenntnis und bringt kulturellen Widerstand raus aufs offene Feld – ein Nachmittag voller Akustik und Haltung wartet auf dich 🤝",
-        "link": "https://rausgegangen.de/en/events/rock-gegen-rechts-dusseldorf-2026-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/QBN4N5lERsGbOFlYK0JN_03-ballonwiesergrbenjaminlohr.jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Sat, 22.08.2026",
-        "time": "14:00",
-        "event": "Kombucha Workshop mit Aslı Hatipoğlu (@Malkastenpark)",
-        "category": "",
-        "description": "Bei Aslı Hatipoğlu lernst du in ihrem Kombucha Workshop, wie du das spritzige fermentierte Getränk selbst ansetzt. Der Kurs auf Englisch zeigt dir Schritt für Schritt den Prozess – perfekt, wenn du Lust hast, kreativ und nachhaltig aktiv zu werden 🧖🏼‍♀️",
-        "link": "https://rausgegangen.de/en/events/kombucha-workshop-mit-asl-hatipoglu-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/sjIseDr9Sk6IpP20G5xD_20260523-163323.jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Sat, 22.08.2026",
-        "time": "19:30",
-        "event": "Blueprint Comedy - Gin & Jokes (Best of Show) (@Radisson Blu Media Harbour Hotel, Düsseldorf)",
-        "category": "",
-        "description": "Lachtränen, gute Drinks und feinstes Essen – bei Blueprint Comedy – Gin & Jokes erwartet dich ein Abend voller Genuss und guter Laune im Herzen des Medienhafens. Vier Comedians sorgen für beste Stimmung, während du dein Lieblingsgericht genießt. Perfekt für alle, die Comedy lieben und gerne mit einem Drink in der Hand lachen! 😜",
-        "link": "https://rausgegangen.de/en/events/blueprint-comedy-gin-jokes-bei-gutem-wetter-open-air-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ZOBNDanBSgiA5aPE3h1s_gin-jokes-banner.png?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Sat, 22.08.2026",
-        "time": "20:00",
-        "event": "DÜSSELDORF - MAMMA MIA I ABBA - KONZERT TOUR I THE EIGHT (@THE EIGHT)",
-        "category": "",
-        "description": "Bei der GIMME GIMME PARTY erwarten dich alle ABBA-Klassiker, von „Dancing Queen“ bis „Waterloo“ live am DJ-Pult zum Mitsingen und Tanzen. Die inoffizielle Fanparty bringt 70er-Jahre-Feeling und Spaß für alle, die Lust auf echte Kultmomente haben 👯‍♀️",
-        "link": "https://rausgegangen.de/en/events/dusseldorf-mamma-mia-i-abba-konzert-tour-i-the-eight-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RCM7DM3uTE2wd1mS33E1_img2625-1-2.PNG?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Sat, 22.08.2026",
-        "time": "20:00",
-        "event": "THUNDER BAE – live & AYLIN CELIK (Support) (@Schleuse Zwei)",
-        "category": "",
-        "description": "Thunder Bae mixt auf ihrem Debüt „A WOMAN“ Elektronik, Indie-Rock und Trap zu einem Sound, der sich futuristisch und nahbar anfühlt. Ihre Songs tragen eine düstere, feminine Aura und erzählen ehrlich von Identität ohne Klischees zu bedienen – ein Abend für alle, die Pop gern vielschichtig mögen 🎟️",
-        "link": "https://rausgegangen.de/en/events/thunder-bae-live-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/4qyDeTxlTuCLGdCWEGjN_2.jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Sat, 22.08.2026",
-        "time": "22:00",
-        "event": "Destination Disco (@Bar Lola)",
-        "category": "",
-        "description": "Die Nacht bringt dich zurück in die Disco-Ära, vermischt mit aktuellen Clubsounds, die zum Tanzen einladen. Ab 18 Uhr starten Cocktails und entspannte Beats, ab 22 Uhr übernimmt die Disco-Kugel und setzt die Bühne für eine tanzbare Zeit voller Freiheit und Vielfalt 🪩",
-        "link": "https://rausgegangen.de/en/events/destination-disco-55/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/sUEtWGKTuSbAUrONl2Zg_rausgegangen-dd.jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
     },
     {
         "date": "Sat, 22.08.2026",
@@ -1114,6 +1114,16 @@
     },
     {
         "date": "Mon, 24.08.2026",
+        "time": "17:00",
+        "event": "Twerk Fitness & Workout (@Traumtänzer - Tanzschule in Leipzig)",
+        "category": "",
+        "description": "Einfach fit  mit Tanz & Spaß! Unsere beliebten Tanzfitnesskonzept bringen dich auf Hochtouren, sind ein super Ganz-Körper-Workout und machen einfach Gute-Laune! Probiere es jetzt aus– Twerk Booty Fit –Twerke und Jiggle Dich fit  Bei unserem Dance Workout – Twerk Booty Fit – trainierst Du Deinen ganzen Körper mit Bewegungen wie den Booty Shake, Wine, Jiggle zu Dancehall, Soca und Afro-Musik.Zwischendurch sorgen gezielte Fitness-Intervalle für Bauch, Beine, Po und Arme für mehr Kraft im Alltag und eine definierte Muskulatur.Es macht Spaß und Du trainierst gleichzeitig effektiv Deinen ganzen Körper. Steigerung Deiner Beweglichkeit & Fitness Verbesserung Koordination und Körperkontrolle Ganz-Körper-Workout Hoher Kalorienverbrauch Spaß beim Training & CommunityWir tanzen im Traumtänzer - Windmühlenstr. 24 statt. Der Zugang ist über die Gebäuderückseite durch die  Riemannstraße 12/14, 04107 Leipzig. Bitte beachte, dass das Tanzstudio nur mit sauberen Wechselschuhen betreten werden darf bzw. tanzt Du in Socken oder barfuß. Ins Studio darf nur Wasser mitgebracht werden.",
+        "link": "https://rausgegangen.de/en/events/twerk-fitness-workout-13/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EeiehVkHTgGxGdkm2msm_twerk-booty-fit-banner.png?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
+    },
+    {
+        "date": "Mon, 24.08.2026",
         "time": "19:00",
         "event": "ARTISTS MEET UP (@DNA. HOUSE)",
         "category": "",
@@ -1171,16 +1181,6 @@
         "link": "https://rausgegangen.de/en/events/der-mad-monkey-montag-166/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/A5DryJRzRbm04PqzPaDi_mmmontag01prasentation.png?width=1200&height=900&mode=crop",
         "city": "Berlin"
-    },
-    {
-        "date": "Mon, 24.08.2026",
-        "time": "17:00",
-        "event": "Twerk Fitness & Workout (@Traumtänzer - Tanzschule in Leipzig)",
-        "category": "",
-        "description": "Einfach fit  mit Tanz & Spaß! Unsere beliebten Tanzfitnesskonzept bringen dich auf Hochtouren, sind ein super Ganz-Körper-Workout und machen einfach Gute-Laune! Probiere es jetzt aus– Twerk Booty Fit –Twerke und Jiggle Dich fit  Bei unserem Dance Workout – Twerk Booty Fit – trainierst Du Deinen ganzen Körper mit Bewegungen wie den Booty Shake, Wine, Jiggle zu Dancehall, Soca und Afro-Musik.Zwischendurch sorgen gezielte Fitness-Intervalle für Bauch, Beine, Po und Arme für mehr Kraft im Alltag und eine definierte Muskulatur.Es macht Spaß und Du trainierst gleichzeitig effektiv Deinen ganzen Körper. Steigerung Deiner Beweglichkeit & Fitness Verbesserung Koordination und Körperkontrolle Ganz-Körper-Workout Hoher Kalorienverbrauch Spaß beim Training & CommunityWir tanzen im Traumtänzer - Windmühlenstr. 24 statt. Der Zugang ist über die Gebäuderückseite durch die  Riemannstraße 12/14, 04107 Leipzig. Bitte beachte, dass das Tanzstudio nur mit sauberen Wechselschuhen betreten werden darf bzw. tanzt Du in Socken oder barfuß. Ins Studio darf nur Wasser mitgebracht werden.",
-        "link": "https://rausgegangen.de/en/events/twerk-fitness-workout-13/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EeiehVkHTgGxGdkm2msm_twerk-booty-fit-banner.png?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
     },
     {
         "date": "Mon, 24.08.2026",
@@ -1364,6 +1364,36 @@
     },
     {
         "date": "Tue, 25.08.2026",
+        "time": "18:30",
+        "event": "Karibik Afterwork im Stadthafen Leipzig (@DOCK 20)",
+        "category": "",
+        "description": "KARIBIK AFTERWORK ist die wöchentliche Tanz-Veranstaltung im Stadthafen Leipzig!Tanze Salsa, Bachata & Kizomba jeden Dienstag im neuen Leipziger Stadthafen!18:30 Uhr gibt es einen kostenlosen Anfänger-Schnupperkurs und danach Party mit Live-DJ!Jeder ist Willkommen!ACHTUNG: Am 25.08. gibt es ausnahmsweise ein reines OUTDOOR-SPECIAL direkt am Hafenbecken beim Aperol-Stand!",
+        "link": "https://rausgegangen.de/en/events/karibik-afterwork-im-stadthafen-leipzig-ausnahmsweise-mal-mo-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Kl6Yu9KwTziGV37zSR8i_img7787.PNG?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
+    },
+    {
+        "date": "Tue, 25.08.2026",
+        "time": "19:00",
+        "event": "Sommertheater Improfieber - Das Improtheater (@Feinkost)",
+        "category": "",
+        "description": "Improfieber - Das Improtheater Machen Sie sich bereit für einen Abend voller unerwarteter Wendungen, skurriler Charaktere und unglaublicher Lachanfälle! Wenn Sie das Improfieber packt, werden Ihre Sinne gekitzelt und Ihre Gehirnzellen strapaziert.Das Theater im Herzen präsentiert Ihnen eine einzigartige Mischung aus StandUp Comedy, Kabarett sowie dem Theater und zeigt Figuren, die Sie zum Staunen bringen und einen humorvollen, aber auch ernsten Blick in die Tiefe ihrer Seelen gewähren. Von einem Herausgeber, der das nächste große Talent sucht, bis hin zum Teufel, der auch mal auf ein Schwätzchen vorbeischaut - bei uns ist alles möglich! Aber Vorsicht, Sie könnten vor Lachen weinen, wenn es nicht so verblüffend komisch wäre!Stellen Sie sich vor, wie Sie ein Psychologe mit unkonventionellen Beratungsmethoden gleichzeitig zum Schmunzeln und Nachdenken bringt... Oder wie ein unerwarteter Twist Ihre Erwartungen auf den Kopf stellt und Sie vor Überraschung sprachlos macht.Lassen Sie sich vom Improfieber anstecken und lassen Sie das alte Jahr mit einer Achterbahnfahrt der Emotionen und des Humors ausklingen!Sichern Sie sich Ihre Tickets für dieses besondere Erlebnis und erleben Sie mit uns eine Impro-Show, die Sie so schnell nicht vergessen werden.Wir empfehlen den Besuch der Show ab 14 Jahren",
+        "link": "https://rausgegangen.de/en/events/improfieber-das-improtheater-23/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/58CIp1rdSduXLaeJsj8F_improfieber-quer.png?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
+    },
+    {
+        "date": "Tue, 25.08.2026",
+        "time": "20:00",
+        "event": "STAND-UP COMEDY OPEN MIC / im Phat Cat Comedy Club Leipzig (@Phat Cat Comedy Club Leipzig)",
+        "category": "",
+        "description": "Willkommen beim Phat Cat Comedy Club!      Erfahrene Comedians oder Newcomer, alle sind auf unserer Bühne willkommen und bringen ihr neuestes Material zum testen mit.     Was dich erwartet:   \t6-8 Comedians \tEntspannte Atmosphäre \tKlassischer Comedy Club  \tLeckere Drinks       Beim Open Mic ist alles möglich: Vom ersten Auftritt bis zum Profi ist hier alles dabei. Daher entscheidet das Publikum am Ende, wie hoch der Spenden-Eintritt ist.      Unser Comedy Club befindet sich im Lipsia-Haus im Barfußgäßchen. Ihr erreicht uns über die Große Fleischergasse.  Der Einlass startet um 19:30 Uhr und wird bis 19:50 Uhr gewährt.     ! Die Reservierung ist nicht verpflichtend. Sie garantiert euch einen Sitzplatz und hilft uns die laufenden Kosten mitzutragen.   Die Reservierung ist bis Showbeginn gültig. Wer spontan vorbei schauen möchte, ist auch gerne gesehen. Womöglich sind dann aber schon alle Plätze belegt.",
+        "link": "https://rausgegangen.de/en/events/stand-up-comedy-open-mic-im-phat-cat-comedy-club-leipzig-50/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/uqFDdsefSxyg9CNE6Bgn_comedy-leipzig-karl-rothner-phat-cat-comedy-club-standup-comedy-events.jpg?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
+    },
+    {
+        "date": "Tue, 25.08.2026",
         "time": "19:30",
         "event": "SHOWTIME! English Comedy Cocktail at French Bento Bar (@French Bento Bar)",
         "category": "",
@@ -1381,6 +1411,36 @@
         "link": "https://rausgegangen.de/en/events/comedy-keller-frankfurt-deutsche-stand-up-comedy-6/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lAZilloURuCosBJdadFn_handkuss-community2x1generic.png?width=1200&height=900&mode=crop",
         "city": "Frankfurt"
+    },
+    {
+        "date": "Tue, 25.08.2026",
+        "time": "18:00",
+        "event": "Poledance Schnupperstunde in Dortmund (@Tanzstudio VI-Dance Dortmund)",
+        "category": "",
+        "description": "Du hast Lust auf was Neues und willst deinen Körper mal anders spüren? In der Poledance Schnupperstunde lernst du erste Tricks und Drehungen, ganz ohne Vorkenntnisse. Kraft, Beweglichkeit und vor allem Spaß stehen hier im Fokus 😌",
+        "link": "https://rausgegangen.de/en/events/poledance-schnupperstunde-in-dortmund-9/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/cyxTKP8WSmStSy8Yt6lF_vi-danceessen-082-2.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Tue, 25.08.2026",
+        "time": "19:00",
+        "event": "Wohnzimmerslam (@Taranta Babu)",
+        "category": "",
+        "description": "Hier treffen cozy Vibes auf unterhaltsame Stimmen und spannende Inhalte 💫",
+        "link": "https://rausgegangen.de/en/events/wohnzimmerslam-42/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/l2yspwKQqSCXeV0G0Eso_img5866.png?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
+    },
+    {
+        "date": "Tue, 25.08.2026",
+        "time": "21:00",
+        "event": "One Battle After Another (@Filmnächte im Hafengarten Dortmund)",
+        "category": "",
+        "description": "In „One Battle After Another“ kämpft ein abgehalfterter Revolutionär nicht nur gegen seine Dämonen, sondern auch um seine verschwundene Tochter. Der Film zeigt, wie Vergangenheit und Gegenwart untrennbar verbunden sind und lässt dich nahe an persönliche Abgründe heranrücken 🎟️",
+        "link": "https://rausgegangen.de/en/events/one-battle-after-another-1175/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BdGH5FJRRymJmD5CJDUA_zpewfnqon8qg1szmmhmagyobtdw.jpg?width=1200&height=900&mode=crop",
+        "city": "Dortmund"
     },
     {
         "date": "Tue, 25.08.2026",
@@ -1424,33 +1484,13 @@
     },
     {
         "date": "Tue, 25.08.2026",
-        "time": "18:30",
-        "event": "Karibik Afterwork im Stadthafen Leipzig (@DOCK 20)",
+        "time": "19:30",
+        "event": "HARRY POTTER FAN QUIZ - MAGIER-SPECIAL - Open-Air (@VierLinden Open-Air)",
         "category": "",
-        "description": "KARIBIK AFTERWORK ist die wöchentliche Tanz-Veranstaltung im Stadthafen Leipzig!Tanze Salsa, Bachata & Kizomba jeden Dienstag im neuen Leipziger Stadthafen!18:30 Uhr gibt es einen kostenlosen Anfänger-Schnupperkurs und danach Party mit Live-DJ!Jeder ist Willkommen!ACHTUNG: Am 25.08. gibt es ausnahmsweise ein reines OUTDOOR-SPECIAL direkt am Hafenbecken beim Aperol-Stand!",
-        "link": "https://rausgegangen.de/en/events/karibik-afterwork-im-stadthafen-leipzig-ausnahmsweise-mal-mo-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Kl6Yu9KwTziGV37zSR8i_img7787.PNG?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
-    },
-    {
-        "date": "Tue, 25.08.2026",
-        "time": "19:00",
-        "event": "Sommertheater Improfieber - Das Improtheater (@Feinkost)",
-        "category": "",
-        "description": "Improfieber - Das Improtheater Machen Sie sich bereit für einen Abend voller unerwarteter Wendungen, skurriler Charaktere und unglaublicher Lachanfälle! Wenn Sie das Improfieber packt, werden Ihre Sinne gekitzelt und Ihre Gehirnzellen strapaziert.Das Theater im Herzen präsentiert Ihnen eine einzigartige Mischung aus StandUp Comedy, Kabarett sowie dem Theater und zeigt Figuren, die Sie zum Staunen bringen und einen humorvollen, aber auch ernsten Blick in die Tiefe ihrer Seelen gewähren. Von einem Herausgeber, der das nächste große Talent sucht, bis hin zum Teufel, der auch mal auf ein Schwätzchen vorbeischaut - bei uns ist alles möglich! Aber Vorsicht, Sie könnten vor Lachen weinen, wenn es nicht so verblüffend komisch wäre!Stellen Sie sich vor, wie Sie ein Psychologe mit unkonventionellen Beratungsmethoden gleichzeitig zum Schmunzeln und Nachdenken bringt... Oder wie ein unerwarteter Twist Ihre Erwartungen auf den Kopf stellt und Sie vor Überraschung sprachlos macht.Lassen Sie sich vom Improfieber anstecken und lassen Sie das alte Jahr mit einer Achterbahnfahrt der Emotionen und des Humors ausklingen!Sichern Sie sich Ihre Tickets für dieses besondere Erlebnis und erleben Sie mit uns eine Impro-Show, die Sie so schnell nicht vergessen werden.Wir empfehlen den Besuch der Show ab 14 Jahren",
-        "link": "https://rausgegangen.de/en/events/improfieber-das-improtheater-23/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/58CIp1rdSduXLaeJsj8F_improfieber-quer.png?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
-    },
-    {
-        "date": "Tue, 25.08.2026",
-        "time": "20:00",
-        "event": "STAND-UP COMEDY OPEN MIC / im Phat Cat Comedy Club Leipzig (@Phat Cat Comedy Club Leipzig)",
-        "category": "",
-        "description": "Willkommen beim Phat Cat Comedy Club!      Erfahrene Comedians oder Newcomer, alle sind auf unserer Bühne willkommen und bringen ihr neuestes Material zum testen mit.     Was dich erwartet:   \t6-8 Comedians \tEntspannte Atmosphäre \tKlassischer Comedy Club  \tLeckere Drinks       Beim Open Mic ist alles möglich: Vom ersten Auftritt bis zum Profi ist hier alles dabei. Daher entscheidet das Publikum am Ende, wie hoch der Spenden-Eintritt ist.      Unser Comedy Club befindet sich im Lipsia-Haus im Barfußgäßchen. Ihr erreicht uns über die Große Fleischergasse.  Der Einlass startet um 19:30 Uhr und wird bis 19:50 Uhr gewährt.     ! Die Reservierung ist nicht verpflichtend. Sie garantiert euch einen Sitzplatz und hilft uns die laufenden Kosten mitzutragen.   Die Reservierung ist bis Showbeginn gültig. Wer spontan vorbei schauen möchte, ist auch gerne gesehen. Womöglich sind dann aber schon alle Plätze belegt.",
-        "link": "https://rausgegangen.de/en/events/stand-up-comedy-open-mic-im-phat-cat-comedy-club-leipzig-50/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/uqFDdsefSxyg9CNE6Bgn_comedy-leipzig-karl-rothner-phat-cat-comedy-club-standup-comedy-events.jpg?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
+        "description": "GoldMucke & Tim Perkovic präsentieren das HARRY POTTER FAN QUIZ - Magier Special Open-Air das zwölfte Mal im VierLinden Open-Air!An alle QUIZ-FANS da draußen: am Dienstag, den 25.08. gibt es ein FAN-QUIZ für HARRY POTTER FANS der Superlative! Diesmal kommt ein MAGIER zu uns, kein Joke! Es wird zwischen den Pausen gezaubert - ein echter Vollprofi wird vor Ort sein.Seid ihr bereit für eine Reise zurück nach Hogwarts? 🏰⚡ Taucht mit uns ein in die magische Welt von Harry, Hermine und Ron – und beweist, dass ihr wahre Zauberer des Wissens seid!Euch erwarten spannende und knifflige Fragen aus allen sieben Bänden und acht Filmen: Von den Häusern Gryffindor, Slytherin, Hufflepuff und Ravenclaw 🦁🐍🦡🦅 über Zaubersprüche und magische Geschöpfe bis hin zu geheimen Details, die selbst Dumbledore ins Grübeln bringen würden.👥Teamgröße: 2 bis 6 Teilnehmer - bildet eure eigene Hausgemeinschaft! 🏆Preise: Für Platz 1 bis 3 warten zauberhafte Gewinne.📅Datum: Dienstag, 25.08.2026 ⏰Einlass: 18:30 Uhr | Beginn: 19:30 Uhr 📍Ort: VierLinden Open-Air💰Teilnahmegebühr: – 16 € + VVK-Gebühren im Vorverkauf – 19 € an der Abendkasse (wenn noch Verfügbar)⚡️Die Nachfrage ist bereits riesig – also schnappt euch schnell eure Tickets online, bevor sie in Rauch aufgehen!Kommt vorbei, wenn sich der Zoopavillon in die Große Halle von Hogwarts verwandelt und erlebt einen unvergesslichen Abend voller Magie, Spaß und Gemeinschaft. Ob Gryffindor, Ravenclaw, Hufflepuff oder Slytherin – zeigt uns, in welchem Haus die cleversten Köpfe stecken! 🪄Die geplanten QUIZ und Unterhaltungsabende mit TIM PERKOVIC:MAI - Di. 19.05.26 DISNEY FAN QUIZ - Max Brown Hotel Düsseldorf - Mi. 20.05.26 DAS ALLGEMEINE KNEIPEN QUIZ - Zoopavillon Düsseldorf - Do. 28.05.26 GoldComedy - Max Brown Hotel Düsseldorf - Sa. 30.05.26 FOUR ROOMS - 4 Räume, 4 Künstler & 4 individuelle Erlebnisse - Max Brown Hotel Düsseldorf - So. 31.05.26 DAS ALLGEMEINE KNEIPEN QUIZ - Zoopavillon DüsseldorfJUNI - Di. 02.06.26 TAYLOR SWIFT FAN QUIZ - Max Brown Hotel Düsseldorf - Di. 09.06.26 TRASH-TV QUIZ NIGHT - Für echte Reality-Fans! - Päff Bar - KÖLN - Mi. 10.06.26 TRASH-TV QUIZ NIGHT - Für echte Reality-Fans! - Zoopavillon Düsseldorf - Di. 16.06.26 HARRY POTTER FAN QUIZ - VierLinden Open-Air DüsseldorfJULI - Di. 21.07.26 MUSIK Quiz - VierLinden Open-Air Düsseldorf - So. 26.07.26 GoldComedy - VierLinden Open-Air Düsseldorf - Di. 28.07.26 80er-Jahre Quiz - VierLinden Open-Air DüsseldorfAUGUST - Di. 11.08.26 DIE DREI ??? FAN QUIZ - VierLinden Open-Air Düsseldorf - Mo. 17.08.26 90er-JAHRE QUIZ - OPEN-AIR - BUMANN & SOHN Köln - Di. 18.08.26 90er-JAHRE QUIZ - VierLinden Open-Air Düsseldorf - Di. 25.08.26 HARRY POTTER FAN QUIZ - MAGIER SPECIAL - VierLinden Open-Air DüsseldorfSEPTEMBER - Di. 08.09.26 2000er-Jahre Quiz - VierLinden Open-Air Düsseldorf - Mi. 09.09.26 2010er-JAHRE QUIZ – Max Brown Hotel Düsseldorf - Sa. 12.09.26 FOUR ROOMS - 4 Räume, 4 Künstler & 4 individuelle Erlebnisse - b'mine Hotel Düsseldorf - Di. 22.09.26 DAS ALLGEMEINE KNEIPEN QUIZ - Zoopavillon DüsseldorfOKTOBER - Do. 01.10.26 BACKSTREET BOYS FAN QUIZ - Zoopavillon Düsseldorf - Mi. 07.10.26 HERR DER RINGE FAN QUIZ - Zoopavillon Düsseldorf - Di. 13.10.26 STAR WARS FAN QUIZ – Max Brown Hotel Düsseldorf - Di. 20.10.26 DAS ULTIMATIVE DÜSSELDORF QUIZ – Zoopavillon Düsseldorf - Di. 27.10.26 KAULITZ UNIVERSE FAN QUIZ - Max Brown Hotel DüsseldorfNOVEMBER - Di. 10.11.26 HOW I MET YOU MOTER FAN QUIZ – Max Brown Hotel Düsseldorf - Di. 17.11.26 80er-JAHRE QUIZ - Zoopavillon Düsseldorf - Do. 19.11.26 GoldComedy - Max Brown Hotel DüsseldorfDEZEMBER - Mi. 02.12.26 DAS ALLGEMEINE KNEIPEN QUIZ - Zoopavillon Düsseldorf - Mi. 09.12.26 WEIHNACHTSQUIZ - Zoopavillon Düsseldorf - Di. 15.12.26 WEIHNACHTSQUIZ - PÄFF BAR Köln - Mi. 16.12.26 WEIHNACHTSQUIZ – Max Brown Hotel Düsseldorf",
+        "link": "https://rausgegangen.de/en/events/harry-potter-fan-quiz-magier-special-open-air-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/gav3PmiSqCMImqfW5o2j_20260825-harry-potter-fan-quiz-magier-special-vierlinden-open-air-banner-2.jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
     },
     {
         "date": "Tue, 25.08.2026",
@@ -1575,36 +1615,6 @@
     {
         "date": "Tue, 25.08.2026",
         "time": "18:00",
-        "event": "Poledance Schnupperstunde in Dortmund (@Tanzstudio VI-Dance Dortmund)",
-        "category": "",
-        "description": "Du hast Lust auf was Neues und willst deinen Körper mal anders spüren? In der Poledance Schnupperstunde lernst du erste Tricks und Drehungen, ganz ohne Vorkenntnisse. Kraft, Beweglichkeit und vor allem Spaß stehen hier im Fokus 😌",
-        "link": "https://rausgegangen.de/en/events/poledance-schnupperstunde-in-dortmund-9/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/cyxTKP8WSmStSy8Yt6lF_vi-danceessen-082-2.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Tue, 25.08.2026",
-        "time": "19:00",
-        "event": "Wohnzimmerslam (@Taranta Babu)",
-        "category": "",
-        "description": "Hier treffen cozy Vibes auf unterhaltsame Stimmen und spannende Inhalte 💫",
-        "link": "https://rausgegangen.de/en/events/wohnzimmerslam-42/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/l2yspwKQqSCXeV0G0Eso_img5866.png?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Tue, 25.08.2026",
-        "time": "21:00",
-        "event": "One Battle After Another (@Filmnächte im Hafengarten Dortmund)",
-        "category": "",
-        "description": "In „One Battle After Another“ kämpft ein abgehalfterter Revolutionär nicht nur gegen seine Dämonen, sondern auch um seine verschwundene Tochter. Der Film zeigt, wie Vergangenheit und Gegenwart untrennbar verbunden sind und lässt dich nahe an persönliche Abgründe heranrücken 🎟️",
-        "link": "https://rausgegangen.de/en/events/one-battle-after-another-1175/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BdGH5FJRRymJmD5CJDUA_zpewfnqon8qg1szmmhmagyobtdw.jpg?width=1200&height=900&mode=crop",
-        "city": "Dortmund"
-    },
-    {
-        "date": "Tue, 25.08.2026",
-        "time": "18:00",
         "event": "Afterwork Atelier (@KULTUR&GUT)",
         "category": "",
         "description": "Bei So ne Art Night bekommst Du nicht nur Materialien für eigene Kunst, sondern auch Raum für neue Ideen und Austausch. Egal ob Malerei oder Basteln, hier kannst Du entspannt die Kreativität fließen lassen und Deine Werke mit nach Hause nehmen 🧑🏻‍🎨",
@@ -1641,16 +1651,6 @@
         "link": "https://rausgegangen.de/en/events/young-rebel-set-support-low-key-orchestra-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/WAogxQYRXmCQUD144njB_young-rebel-set-by-matthew-henderson-newburg.jpg?width=1200&height=900&mode=crop",
         "city": "Hamburg"
-    },
-    {
-        "date": "Tue, 25.08.2026",
-        "time": "19:30",
-        "event": "HARRY POTTER FAN QUIZ - MAGIER-SPECIAL - Open-Air (@VierLinden Open-Air)",
-        "category": "",
-        "description": "GoldMucke & Tim Perkovic präsentieren das HARRY POTTER FAN QUIZ - Magier Special Open-Air das zwölfte Mal im VierLinden Open-Air!An alle QUIZ-FANS da draußen: am Dienstag, den 25.08. gibt es ein FAN-QUIZ für HARRY POTTER FANS der Superlative! Diesmal kommt ein MAGIER zu uns, kein Joke! Es wird zwischen den Pausen gezaubert - ein echter Vollprofi wird vor Ort sein.Seid ihr bereit für eine Reise zurück nach Hogwarts? 🏰⚡ Taucht mit uns ein in die magische Welt von Harry, Hermine und Ron – und beweist, dass ihr wahre Zauberer des Wissens seid!Euch erwarten spannende und knifflige Fragen aus allen sieben Bänden und acht Filmen: Von den Häusern Gryffindor, Slytherin, Hufflepuff und Ravenclaw 🦁🐍🦡🦅 über Zaubersprüche und magische Geschöpfe bis hin zu geheimen Details, die selbst Dumbledore ins Grübeln bringen würden.👥Teamgröße: 2 bis 6 Teilnehmer - bildet eure eigene Hausgemeinschaft! 🏆Preise: Für Platz 1 bis 3 warten zauberhafte Gewinne.📅Datum: Dienstag, 25.08.2026 ⏰Einlass: 18:30 Uhr | Beginn: 19:30 Uhr 📍Ort: VierLinden Open-Air💰Teilnahmegebühr: – 16 € + VVK-Gebühren im Vorverkauf – 19 € an der Abendkasse (wenn noch Verfügbar)⚡️Die Nachfrage ist bereits riesig – also schnappt euch schnell eure Tickets online, bevor sie in Rauch aufgehen!Kommt vorbei, wenn sich der Zoopavillon in die Große Halle von Hogwarts verwandelt und erlebt einen unvergesslichen Abend voller Magie, Spaß und Gemeinschaft. Ob Gryffindor, Ravenclaw, Hufflepuff oder Slytherin – zeigt uns, in welchem Haus die cleversten Köpfe stecken! 🪄Die geplanten QUIZ und Unterhaltungsabende mit TIM PERKOVIC:MAI - Di. 19.05.26 DISNEY FAN QUIZ - Max Brown Hotel Düsseldorf - Mi. 20.05.26 DAS ALLGEMEINE KNEIPEN QUIZ - Zoopavillon Düsseldorf - Do. 28.05.26 GoldComedy - Max Brown Hotel Düsseldorf - Sa. 30.05.26 FOUR ROOMS - 4 Räume, 4 Künstler & 4 individuelle Erlebnisse - Max Brown Hotel Düsseldorf - So. 31.05.26 DAS ALLGEMEINE KNEIPEN QUIZ - Zoopavillon DüsseldorfJUNI - Di. 02.06.26 TAYLOR SWIFT FAN QUIZ - Max Brown Hotel Düsseldorf - Di. 09.06.26 TRASH-TV QUIZ NIGHT - Für echte Reality-Fans! - Päff Bar - KÖLN - Mi. 10.06.26 TRASH-TV QUIZ NIGHT - Für echte Reality-Fans! - Zoopavillon Düsseldorf - Di. 16.06.26 HARRY POTTER FAN QUIZ - VierLinden Open-Air DüsseldorfJULI - Di. 21.07.26 MUSIK Quiz - VierLinden Open-Air Düsseldorf - So. 26.07.26 GoldComedy - VierLinden Open-Air Düsseldorf - Di. 28.07.26 80er-Jahre Quiz - VierLinden Open-Air DüsseldorfAUGUST - Di. 11.08.26 DIE DREI ??? FAN QUIZ - VierLinden Open-Air Düsseldorf - Mo. 17.08.26 90er-JAHRE QUIZ - OPEN-AIR - BUMANN & SOHN Köln - Di. 18.08.26 90er-JAHRE QUIZ - VierLinden Open-Air Düsseldorf - Di. 25.08.26 HARRY POTTER FAN QUIZ - MAGIER SPECIAL - VierLinden Open-Air DüsseldorfSEPTEMBER - Di. 08.09.26 2000er-Jahre Quiz - VierLinden Open-Air Düsseldorf - Mi. 09.09.26 2010er-JAHRE QUIZ – Max Brown Hotel Düsseldorf - Sa. 12.09.26 FOUR ROOMS - 4 Räume, 4 Künstler & 4 individuelle Erlebnisse - b'mine Hotel Düsseldorf - Di. 22.09.26 DAS ALLGEMEINE KNEIPEN QUIZ - Zoopavillon DüsseldorfOKTOBER - Do. 01.10.26 BACKSTREET BOYS FAN QUIZ - Zoopavillon Düsseldorf - Mi. 07.10.26 HERR DER RINGE FAN QUIZ - Zoopavillon Düsseldorf - Di. 13.10.26 STAR WARS FAN QUIZ – Max Brown Hotel Düsseldorf - Di. 20.10.26 DAS ULTIMATIVE DÜSSELDORF QUIZ – Zoopavillon Düsseldorf - Di. 27.10.26 KAULITZ UNIVERSE FAN QUIZ - Max Brown Hotel DüsseldorfNOVEMBER - Di. 10.11.26 HOW I MET YOU MOTER FAN QUIZ – Max Brown Hotel Düsseldorf - Di. 17.11.26 80er-JAHRE QUIZ - Zoopavillon Düsseldorf - Do. 19.11.26 GoldComedy - Max Brown Hotel DüsseldorfDEZEMBER - Mi. 02.12.26 DAS ALLGEMEINE KNEIPEN QUIZ - Zoopavillon Düsseldorf - Mi. 09.12.26 WEIHNACHTSQUIZ - Zoopavillon Düsseldorf - Di. 15.12.26 WEIHNACHTSQUIZ - PÄFF BAR Köln - Mi. 16.12.26 WEIHNACHTSQUIZ – Max Brown Hotel Düsseldorf",
-        "link": "https://rausgegangen.de/en/events/harry-potter-fan-quiz-magier-special-open-air-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/gav3PmiSqCMImqfW5o2j_20260825-harry-potter-fan-quiz-magier-special-vierlinden-open-air-banner-2.jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
     },
     {
         "date": "Tue, 25.08.2026",
@@ -1794,6 +1794,56 @@
     },
     {
         "date": "Wed, 26.08.2026",
+        "time": "18:15",
+        "event": "Dancehall Tanzfitness & Workout (@Traumtänzer - Tanzschule in Leipzig)",
+        "category": "",
+        "description": "Lerne einfache Dancehall Bewegungen kennen und trainiere gleichzeitig Deine Fitness.Unser beliebtes Tanz-Fitness-Konzept ist ein Workout, dass Spaß macht. Dynamisches, schweißtreibendes Training zu animierender Dancehall Musik. Das Workout kombiniert einfache Dancehall Tanzschritte und effektive Fitnessübungen und trainiert dadurch Kondition, Koordination und Muskelkraft. Steigerung Deiner Beweglichkeit & Fitness Verbesserung Koordination und Körperkontrolle Ganz-Körper-Workout Hoher Kalorienverbrauch Spaß beim Training & CommunityBuche jetzt eine Probestunde! Wir tanzen im Traumtänzer - Windmühlenstr. 24 statt. Der Zugang ist über die Gebäuderückseite durch die  Riemannstraße 12/14, 04107 Leipzig. Bitte beachte, dass das Tanzstudio nur mit sauberen Wechselschuhen betreten werden darf bzw. tanzt Du in Socken oder barfuß. Ins Studio darf nur Wasser mitgebracht werden.",
+        "link": "https://rausgegangen.de/en/events/dancehall-tanzfitness-workout-14/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/iP1tbb8bSC2O0VazXEbG_dancehall-fitness-banner.png?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
+    },
+    {
+        "date": "Wed, 26.08.2026",
+        "time": "19:00",
+        "event": "Sommertheater Die wahre Geschichte Hamlets (@Feinkost-Sommertheater)",
+        "category": "",
+        "description": "Die wahre Geschichte Hamlets“Die Zeit ist aus den Fugen.”Wer kennt ihn nicht – Hamlet, den berühmten dänischen Königssohn, der seinen vom Onkel umgebrachten Vater zu rächen verpflichtet ist... Und sich nicht traut. Die Tragödie von Shakespeare endet mit acht Toten und dem berühmten \"Der Rest ist Schweigen\". Aber was, wenn nicht alles so war, wie wir glauben?Horatio, Hamlets treuer Freund und der einzige Überlebende, tritt aus dem Schatten und erzählt uns seine Version der Geschichte. Ein Versuch der alles verändern soll: Kein Blutbad, kein Krieg – stattdessen eine Vision von Frieden, eine friedliche Revolution, die Hamlet anführen sollte. Doch was, wenn alte Machtgefüge und Revolution aufeinanderprallen? Wenn persönliche Bindungen mit der Politik kollidieren?Diese fesselnde Solo-Inszenierung bricht die bekannten Elemente des Hamlet-Stücks auf und nimmt uns mit auf eine bewegende Reise voller Intrigen, Träume und Liebe – zwischen Freundschaft, List und dem ewigen Konflikt zwischen Frieden und Gewalt. Horatio greift die zeitlose Frage nach Wahrheit und Macht auf und zeigt uns, wie diese auch heute noch immer auf uns wirken.Er lässt uns lachen, staunen und innehalten – und bringt uns zugleich der Frage näher, die damals wie heute brennt: Was tun, wenn alles auf dem Spiel steht?Spiel: David Leubner ,Text und Regie: Bernd Guhr",
+        "link": "https://rausgegangen.de/en/events/die-wahre-geschichte-hamlets-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/REyebimuRIGXpcS9cZgJ_facebook-event-banner-9.png?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
+    },
+    {
+        "date": "Wed, 26.08.2026",
+        "time": "19:30",
+        "event": "Dancehall Beginners Tanzkurs (@Traumtänzer - Tanzschule in Leipzig)",
+        "category": "",
+        "description": "Erlerne den Streetdances aus Jamaika und erhalte Einblick in diese einmalige Tanzkultur. Dieser Kurs bieten Dir eine Einführung in das Dancehall Tanzen. Im Unterricht erlernst Du die Technik und Grundlagen des Dancehall Tanzens sowie eine Basis an wichtigen Dancehall Schritten.Die Teilnahme ist ab 13 Jahre geeignet.Melde dich jetzt an!Dieser Kurs ist für Einsteiger*innen ideal.Veranstaltungsort: Traumtänzer – Windmühlenstr. 24 statt. Der Zugang ist über die Gebäuderückseite durch die Riemannstraße 12/14, 04107 Leipzig.",
+        "link": "https://rausgegangen.de/en/events/dancehall-beginners-tanzkurs-12/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/gTnuErT9S8i1FhzBtYP5_dancehall.png?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
+    },
+    {
+        "date": "Wed, 26.08.2026",
+        "time": "20:00",
+        "event": "COMEDY MITTWOCH IM PHAT CAT COMEDY CLUB (@koko café-bar)",
+        "category": "",
+        "description": "COMEDY MITTWOCH  Mittwochs zur Prime-Time stehen die besten Newcomer-Comedians der Region auf der Bühne - Mit frischen Ideen und brandneuen Jokes!🔥 Ihr bekommt also die volle Comedy Erfahrung: Lokale Newcomer & etablierte Profi-Comedians; Alles an einem Abend!In der Pause versorgt euch unsere gut ausgestattete Bar mit euren Lieblingsgetränken 🥂🍹Sichert euch jetzt euer Ticket für den neuen Comedy Mittwoch in Leipzig!",
+        "link": "https://rausgegangen.de/en/events/flinta-comedy-mittwoch-im-phat-cat-comedy-club-17/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/v32bOCzARLOlB2xqkOLF_ticketing-bild.jpg?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
+    },
+    {
+        "date": "Wed, 26.08.2026",
+        "time": "19:30",
+        "event": "Black Beat Comedy & Cocktails (Deutsch) (@Black Beat Cocktailbar)",
+        "category": "",
+        "description": "Black Beat Comedy, wo außergewöhnliche Drinks der Black Beat Cocktail Bar auf noch außergewöhnliche Jokes der Frankfurter Comedy-Szene treffen. Bereit für eine Bar-Erfahrung, die du so schnell nicht vergessen wirst? Dann schnapp dir ein Glas und los geht’s!Komm für die Joke, genieß die Drinks und bleib danach gerne noch für die Beats!Willkommen in der B.B.C. – hier ist jede Nacht ein Hit! Checkt ein paar Clips ab und folgt uns auf Instagram: @The.Comedy.CommunityCheckt das Ambiente unter @BlackBeatCocktailbar Jeden Samstag findet im Francis unser deutscher Showcase (aka Mix-Show) statt: KÖNIGSKLASSE! 👑Hier präsentieren vier erfahrene Comedians + Moderator aus der Comedy Community ihr absolut bestes Material.Ihr könnte alle unsere Events (Deutsch & Englisch) auf unserer Website finden: thecomedycommunity.de",
+        "link": "https://rausgegangen.de/en/events/black-beat-comedy-cocktails-deutsch-27/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lnTW8fmaTIu19urkS0mZ_bbc-deutsch-2x1.png?width=1200&height=900&mode=crop",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Wed, 26.08.2026",
         "time": "20:00",
         "event": "KISHI BASHI // Sonderlust“ 10th Anniversary Tour //  Bremen // Kulturzentrum Lagerhaus (@Lagerhaus)",
         "category": "",
@@ -1805,12 +1855,22 @@
     {
         "date": "Wed, 26.08.2026",
         "time": "19:30",
-        "event": "Black Beat Comedy & Cocktails (Deutsch) (@Black Beat Cocktailbar)",
+        "event": "Comedy Light Münster (@SpecOps network)",
         "category": "",
-        "description": "Black Beat Comedy, wo außergewöhnliche Drinks der Black Beat Cocktail Bar auf noch außergewöhnliche Jokes der Frankfurter Comedy-Szene treffen. Bereit für eine Bar-Erfahrung, die du so schnell nicht vergessen wirst? Dann schnapp dir ein Glas und los geht’s!Komm für die Joke, genieß die Drinks und bleib danach gerne noch für die Beats!Willkommen in der B.B.C. – hier ist jede Nacht ein Hit! Checkt ein paar Clips ab und folgt uns auf Instagram: @The.Comedy.CommunityCheckt das Ambiente unter @BlackBeatCocktailbar Jeden Samstag findet im Francis unser deutscher Showcase (aka Mix-Show) statt: KÖNIGSKLASSE! 👑Hier präsentieren vier erfahrene Comedians + Moderator aus der Comedy Community ihr absolut bestes Material.Ihr könnte alle unsere Events (Deutsch & Englisch) auf unserer Website finden: thecomedycommunity.de",
-        "link": "https://rausgegangen.de/en/events/black-beat-comedy-cocktails-deutsch-27/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/lnTW8fmaTIu19urkS0mZ_bbc-deutsch-2x1.png?width=1200&height=900&mode=crop",
-        "city": "Frankfurt"
+        "description": "Bei Comedy Light in Münster zeigen 6 bis 8 Newcomer:innen beim Open Mic ihre frischesten Witze und ganz eigenen Geschichten. Das ist der Moment, neue Gesichter der Szene live zu erleben und einen humorvollen Abend zu genießen, der dir den Kopf frei macht 🤩",
+        "link": "https://rausgegangen.de/en/events/comedy-light-munster-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BjxIFVZQRHKArYQB9Tmn_comedy-light-137.jpg?width=1200&height=900&mode=crop",
+        "city": "Münster"
+    },
+    {
+        "date": "Wed, 26.08.2026",
+        "time": "19:30",
+        "event": "Blueprint - Comedy & Cocktails | Essen (@FACES Bar)",
+        "category": "",
+        "description": "Düsseldorf liebt es, Essen kriegt’s jetzt auch: Blueprint Comedy & Cocktails in einer freshen Bar!  Das bedeutet also nicht nur gute Gags, sondern auch gute Drinks. Klingt also nach nem guten Abend, oder? 😏",
+        "link": "https://rausgegangen.de/en/events/blueprint-comedy-cocktails-essen-17/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pzRPXLTR3KODxtydUvGE_gin-jokes-banner.png?width=1200&height=900&mode=crop",
+        "city": "Essen"
     },
     {
         "date": "Wed, 26.08.2026",
@@ -1874,53 +1934,13 @@
     },
     {
         "date": "Wed, 26.08.2026",
-        "time": "18:15",
-        "event": "Dancehall Tanzfitness & Workout (@Traumtänzer - Tanzschule in Leipzig)",
-        "category": "",
-        "description": "Lerne einfache Dancehall Bewegungen kennen und trainiere gleichzeitig Deine Fitness.Unser beliebtes Tanz-Fitness-Konzept ist ein Workout, dass Spaß macht. Dynamisches, schweißtreibendes Training zu animierender Dancehall Musik. Das Workout kombiniert einfache Dancehall Tanzschritte und effektive Fitnessübungen und trainiert dadurch Kondition, Koordination und Muskelkraft. Steigerung Deiner Beweglichkeit & Fitness Verbesserung Koordination und Körperkontrolle Ganz-Körper-Workout Hoher Kalorienverbrauch Spaß beim Training & CommunityBuche jetzt eine Probestunde! Wir tanzen im Traumtänzer - Windmühlenstr. 24 statt. Der Zugang ist über die Gebäuderückseite durch die  Riemannstraße 12/14, 04107 Leipzig. Bitte beachte, dass das Tanzstudio nur mit sauberen Wechselschuhen betreten werden darf bzw. tanzt Du in Socken oder barfuß. Ins Studio darf nur Wasser mitgebracht werden.",
-        "link": "https://rausgegangen.de/en/events/dancehall-tanzfitness-workout-14/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/iP1tbb8bSC2O0VazXEbG_dancehall-fitness-banner.png?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
-    },
-    {
-        "date": "Wed, 26.08.2026",
-        "time": "19:00",
-        "event": "Sommertheater Die wahre Geschichte Hamlets (@Feinkost-Sommertheater)",
-        "category": "",
-        "description": "Die wahre Geschichte Hamlets“Die Zeit ist aus den Fugen.”Wer kennt ihn nicht – Hamlet, den berühmten dänischen Königssohn, der seinen vom Onkel umgebrachten Vater zu rächen verpflichtet ist... Und sich nicht traut. Die Tragödie von Shakespeare endet mit acht Toten und dem berühmten \"Der Rest ist Schweigen\". Aber was, wenn nicht alles so war, wie wir glauben?Horatio, Hamlets treuer Freund und der einzige Überlebende, tritt aus dem Schatten und erzählt uns seine Version der Geschichte. Ein Versuch der alles verändern soll: Kein Blutbad, kein Krieg – stattdessen eine Vision von Frieden, eine friedliche Revolution, die Hamlet anführen sollte. Doch was, wenn alte Machtgefüge und Revolution aufeinanderprallen? Wenn persönliche Bindungen mit der Politik kollidieren?Diese fesselnde Solo-Inszenierung bricht die bekannten Elemente des Hamlet-Stücks auf und nimmt uns mit auf eine bewegende Reise voller Intrigen, Träume und Liebe – zwischen Freundschaft, List und dem ewigen Konflikt zwischen Frieden und Gewalt. Horatio greift die zeitlose Frage nach Wahrheit und Macht auf und zeigt uns, wie diese auch heute noch immer auf uns wirken.Er lässt uns lachen, staunen und innehalten – und bringt uns zugleich der Frage näher, die damals wie heute brennt: Was tun, wenn alles auf dem Spiel steht?Spiel: David Leubner ,Text und Regie: Bernd Guhr",
-        "link": "https://rausgegangen.de/en/events/die-wahre-geschichte-hamlets-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/REyebimuRIGXpcS9cZgJ_facebook-event-banner-9.png?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
-    },
-    {
-        "date": "Wed, 26.08.2026",
-        "time": "19:30",
-        "event": "Dancehall Beginners Tanzkurs (@Traumtänzer - Tanzschule in Leipzig)",
-        "category": "",
-        "description": "Erlerne den Streetdances aus Jamaika und erhalte Einblick in diese einmalige Tanzkultur. Dieser Kurs bieten Dir eine Einführung in das Dancehall Tanzen. Im Unterricht erlernst Du die Technik und Grundlagen des Dancehall Tanzens sowie eine Basis an wichtigen Dancehall Schritten.Die Teilnahme ist ab 13 Jahre geeignet.Melde dich jetzt an!Dieser Kurs ist für Einsteiger*innen ideal.Veranstaltungsort: Traumtänzer – Windmühlenstr. 24 statt. Der Zugang ist über die Gebäuderückseite durch die Riemannstraße 12/14, 04107 Leipzig.",
-        "link": "https://rausgegangen.de/en/events/dancehall-beginners-tanzkurs-12/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/gTnuErT9S8i1FhzBtYP5_dancehall.png?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
-    },
-    {
-        "date": "Wed, 26.08.2026",
         "time": "20:00",
-        "event": "COMEDY MITTWOCH IM PHAT CAT COMEDY CLUB (@koko café-bar)",
+        "event": "Kunst Gegen Bares Düsseldorf - Sommeredition (@VierLinden Open-Air)",
         "category": "",
-        "description": "COMEDY MITTWOCH  Mittwochs zur Prime-Time stehen die besten Newcomer-Comedians der Region auf der Bühne - Mit frischen Ideen und brandneuen Jokes!🔥 Ihr bekommt also die volle Comedy Erfahrung: Lokale Newcomer & etablierte Profi-Comedians; Alles an einem Abend!In der Pause versorgt euch unsere gut ausgestattete Bar mit euren Lieblingsgetränken 🥂🍹Sichert euch jetzt euer Ticket für den neuen Comedy Mittwoch in Leipzig!",
-        "link": "https://rausgegangen.de/en/events/flinta-comedy-mittwoch-im-phat-cat-comedy-club-17/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/v32bOCzARLOlB2xqkOLF_ticketing-bild.jpg?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
-    },
-    {
-        "date": "Wed, 26.08.2026",
-        "time": "19:30",
-        "event": "Comedy Light Münster (@SpecOps network)",
-        "category": "",
-        "description": "Bei Comedy Light in Münster zeigen 6 bis 8 Newcomer:innen beim Open Mic ihre frischesten Witze und ganz eigenen Geschichten. Das ist der Moment, neue Gesichter der Szene live zu erleben und einen humorvollen Abend zu genießen, der dir den Kopf frei macht 🤩",
-        "link": "https://rausgegangen.de/en/events/comedy-light-munster-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/BjxIFVZQRHKArYQB9Tmn_comedy-light-137.jpg?width=1200&height=900&mode=crop",
-        "city": "Münster"
+        "description": "„Kunst Gegen Bares“ zeigt dir den Mix aus Comedy, Poetry und Pop bei einer offenen Bühne, bei der alle mitmischen. Hier entscheidet das Publikum direkt per Sparschwein, wer den Abend prägt und zum Kapitalistenschwein gekürt wird 🫂",
+        "link": "https://rausgegangen.de/en/events/kunst-gegen-bares-dusseldorf-sommeredition-8/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/kJFh8gQ8TYyMP5crtMNQ_kgb-sommer.jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
     },
     {
         "date": "Wed, 26.08.2026",
@@ -1941,16 +1961,6 @@
         "link": "https://rausgegangen.de/en/events/trbe-nght-ianawa-prayer-konzert-ecstatic-dance-dj-bombye-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/2FlG9svTQUwmhIFOPP1P_260826tribenight.png?width=1200&height=900&mode=crop",
         "city": "Köln"
-    },
-    {
-        "date": "Wed, 26.08.2026",
-        "time": "19:30",
-        "event": "Blueprint - Comedy & Cocktails | Essen (@FACES Bar)",
-        "category": "",
-        "description": "Düsseldorf liebt es, Essen kriegt’s jetzt auch: Blueprint Comedy & Cocktails in einer freshen Bar!  Das bedeutet also nicht nur gute Gags, sondern auch gute Drinks. Klingt also nach nem guten Abend, oder? 😏",
-        "link": "https://rausgegangen.de/en/events/blueprint-comedy-cocktails-essen-17/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pzRPXLTR3KODxtydUvGE_gin-jokes-banner.png?width=1200&height=900&mode=crop",
-        "city": "Essen"
     },
     {
         "date": "Wed, 26.08.2026",
@@ -2001,16 +2011,6 @@
         "link": "https://rausgegangen.de/en/events/zaz-20/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/0dwhnzbv9o2w.jpg?width=1200&height=900&mode=crop",
         "city": "Hamburg"
-    },
-    {
-        "date": "Wed, 26.08.2026",
-        "time": "20:00",
-        "event": "Kunst Gegen Bares Düsseldorf - Sommeredition (@VierLinden Open-Air)",
-        "category": "",
-        "description": "„Kunst Gegen Bares“ zeigt dir den Mix aus Comedy, Poetry und Pop bei einer offenen Bühne, bei der alle mitmischen. Hier entscheidet das Publikum direkt per Sparschwein, wer den Abend prägt und zum Kapitalistenschwein gekürt wird 🫂",
-        "link": "https://rausgegangen.de/en/events/kunst-gegen-bares-dusseldorf-sommeredition-8/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/kJFh8gQ8TYyMP5crtMNQ_kgb-sommer.jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
     },
     {
         "date": "Th, 27.08.2026",
@@ -2159,6 +2159,16 @@
     },
     {
         "date": "Thu, 27.08.2026",
+        "time": "19:30",
+        "event": "CURSE - Sommer Edition (@VierLinden Open-Air)",
+        "category": "",
+        "description": "Nach sechs Jahren meldet sich Curse mit neuem Album zurück und zeigt, wie Rap mit Haltung und Tiefe funktioniert. Seine unverkennbare Stimme bleibt dabei das Herzstück, das dich durch persönliche Geschichten und Beats trägt. Freu dich auf einen Abend voller ehrlicher Lines und starken Momenten 👀",
+        "link": "https://rausgegangen.de/en/events/curse-sommer-edition-3/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/VFVP46AgSmqIBR279V8O_gm2sm2505289.jpg?width=1200&height=900&mode=crop",
+        "city": "Düsseldorf"
+    },
+    {
+        "date": "Thu, 27.08.2026",
         "time": "18:30",
         "event": "Aperitivo Amburgo 27.08. x Chefs Warehouse (@Chefs Warehouse Hamburg)",
         "category": "",
@@ -2219,16 +2229,6 @@
     },
     {
         "date": "Thu, 27.08.2026",
-        "time": "19:30",
-        "event": "CURSE - Sommer Edition (@VierLinden Open-Air)",
-        "category": "",
-        "description": "Nach sechs Jahren meldet sich Curse mit neuem Album zurück und zeigt, wie Rap mit Haltung und Tiefe funktioniert. Seine unverkennbare Stimme bleibt dabei das Herzstück, das dich durch persönliche Geschichten und Beats trägt. Freu dich auf einen Abend voller ehrlicher Lines und starken Momenten 👀",
-        "link": "https://rausgegangen.de/en/events/curse-sommer-edition-3/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/VFVP46AgSmqIBR279V8O_gm2sm2505289.jpg?width=1200&height=900&mode=crop",
-        "city": "Düsseldorf"
-    },
-    {
-        "date": "Thu, 27.08.2026",
         "time": "18:30",
         "event": "Karibische Klänge aus Costa Rica (@Klosterplatz)",
         "category": "Musik auf dem Klosterplatz",
@@ -2277,20 +2277,20 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Fr, 28.08.2026",
-        "time": "12:30",
-        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
-    },
-    {
         "date": "Fri, 28.08",
         "time": "23:00",
         "event": "AZUBI CELEBRATION (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/azubi-celebration/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-13.06.13.jpeg"
+    },
+    {
+        "date": "Fr, 28.08.2026",
+        "time": "12:30",
+        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Fr, 28.08.2026",
@@ -2387,46 +2387,6 @@
         "link": "https://rausgegangen.de/en/events/herz-seele-w-daniel-neuland-sirikit-timbre-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3vbzkk6VRuGTEQzHIPuR_facebookherzseele28082026-kopie.jpg?width=1200&height=900&mode=crop",
         "city": "Stuttgart"
-    },
-    {
-        "date": "Fri, 28.08.2026",
-        "time": "23:00",
-        "event": "Ü30 - 90's & 00's Party (@Shagall Klub)",
-        "category": "",
-        "description": "🔥 Ü30 DISCO – 90’s & 00’s PARTY 🔥 🕺💃 Ab 23 Uhr drehen wir die Zeit zurück und feiern zu den größten Hits der 90er & 2000er!🎧 DJ CEED liefert euch den ultimativen Mix aus Pop, Dance & legendären Partyklassikern – von den Backstreet Boys bis Lady Gaga 🎶✨✨ Wichtig: Auch wenn es eine Ü30 Disco ist – diese Musik feiern heute ALLE! 🔥 Ob du mit den 90ern & 2000ern aufgewachsen bist oder sie gerade neu für dich entdeckst: 👉 Jüngere Fans dieser Jahrzehnte sind bei uns herzlich willkommen! 💃🕺💖🍹 SPECIALS 🍹 ✅ Eintritt nur 5€ von 23:00 – 00 Uhr 🥃 Free Welcome Shot zur Begrüßung👯‍♀️ Schnapp dir deine Crew und erlebe eine Nacht voller Nostalgie, guter Laune & echter Party-Vibes im Shagall Klub 🔥✨📍 Ort: Shagall Klub 📅 Freitag 28.8 ⏰ ab 23 Uhr 🎧 DJ: CEEDEINTRITT ab 00 Uhr - 10€💎 VIP 💎 Werde Teil der exklusiven Shagall VIP-WhatsApp-Gruppe und sichere dir Vorteile, Aktionen & Gästelistenplätze!👉 Jetzt beitreten: 📲 https://chat.whatsapp.com/IOvB03NjB7z4ZbAmTZ9osD🔥 Don’t miss it – das wird legendär! 🔥🎉#bremen #bremenhbf #discomeile #bremenerleben #bre",
-        "link": "https://rausgegangen.de/en/events/u30-90s-00s-party-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3lENHDTiT3OgJuCqvRUK_chatgpt-image-25-juni-2026-150330.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Fri, 28.08.2026",
-        "time": "20:15",
-        "event": "Comedy für Freunde - Premium Stand-Up (@Comedy für Freunde Club Frankfurt)",
-        "category": "",
-        "description": "Lust auf 90 Minuten Comedy pur? 🎤 Erlebe die besten Comedians aus Frankfurt und ganz Deutschland bei „Comedy für Freunde“ – eine Show voller Lacher mit Profi-Comedians und aufstrebenden Talenten! Bleib nach der Show im Club, genieß coole Drinks und starte perfekt ins Wochenende! 🍹",
-        "link": "https://rausgegangen.de/en/events/comedy-fur-freunde-premium-stand-up-23/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5cb5HsvSVOg5Mf2Xlj9A_bildschirmfoto-2026-01-28-um-105346.png?width=1200&height=900&mode=crop",
-        "city": "Frankfurt"
-    },
-    {
-        "date": "Fri, 28.08.2026",
-        "time": "20:30",
-        "event": "COMEDY KITCHEN! | Deutsches Comedy Open Mic im Francis FFM (@Restaurant Francis)",
-        "category": "",
-        "description": "Willkommen zu unserem deutschen Comedy Open Mic im Francis, für das wir ihr Restaurant übernehmen und Jokes statt Essen servieren!Wie das Francis unsere Stadt bereichert, setzen wir uns für die nachhaltige Entwicklung der Frankfurter Stand-Up Comedians ein.Unsere Open Mics sind die fruchtbaren Böden, auf denen lokale Talente wachsen und gedeihen können – frei von künstlichen Geschmacksverstärkern und Zensur, aber voller ehrlicher Pointen.In der Mainzer Landstrasse 27, im Holiday Inn Frankfurt - Alte Oper, trifft köstliche Gastronomie auf grüne Zukunft. Im Anschluss an das Open Mic findet unser deutscher Showcase (aka Mix-Show) statt: GOLDSTANDARD! 👑Hier präsentieren vier erfahrene Comedians + Moderator aus der Comedy Community ihr absolut bestes Material.Checkt unsere Event-Page aus, wenn ihr interessiert seid!Die Comedians im Showcase findet Ihr eine Woche vor der Show auf unserem Instagram-Account: @The.Comedy.CommunityDiese wie alle anderen Shows findet Ihr auch auf unserer Website www.thecomedycommunity.de",
-        "link": "https://rausgegangen.de/en/events/comedy-kitchen-deutsches-comedy-open-mic-im-francis-ffm-19/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/E6JUrEPiQIqxnlITGp7x_francis-om-deutsch-2x1.png?width=1200&height=900&mode=crop",
-        "city": "Frankfurt"
-    },
-    {
-        "date": "Fri, 28.08.2026",
-        "time": "22:00",
-        "event": "PASAPORTE LATINO (@Fortuna Irgendwo)",
-        "category": "",
-        "description": "Freitag 28.08.202622.00-04.00 UHR / VVK: € 12 / AK € 20PASAPORTE LATINOLINE UP: KILIAN | NANDU | LECAPASAPORTE LATINO – Latin hits | Reggaetón | Latin Urban Frankfurt, ¿estás listo? Am 28.08 landet etwas in der Stadt, dass es so noch nie gegeben hat. PASAPORTE ist mehr als eine Party – es ist eine Reise durch Lateinamerika. In einer einzigen Nacht vereinen wir Musik, Kulturen und Energien zu einem einzigartigen Erlebnis. Das Besondere bei PASAPORTE? Cada DJ representa su país. Unser internationales DJ-Line-up bringt nicht nur das Beste aus Reggaeton auf den Dancefloor, sondern präsentiert auch sein Heimatland mit Klassikern, Hymnen und authentischen Sounds. 🎧 LINE-UP 🇨🇱 KILIAN – Chile 🇵🇪 NANDU – Perú 🇦🇷 LECA – Argentina✨ SPECIALS 🎶 Lo mejor del Reggaeton, Latin Hits & authentische Sounds aus Lateinamerika 🎊 Thematische Dekoration 🎁 Giveaways & Überraschungen 🚨 Komm im Trikot deines Landes oder bring deine Flagge mit und erhalte am Eingang ein kleines Geschenk!¿Listo para abordar?",
-        "link": "https://rausgegangen.de/en/events/pasaporte-latino-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Jq7RGn75S7yequsfhUZ3_flyer-pasaporte-19201080.png?width=1200&height=900&mode=crop",
-        "city": "Frankfurt"
     },
     {
         "date": "Fri, 28.08.2026",
@@ -2560,6 +2520,46 @@
     },
     {
         "date": "Fri, 28.08.2026",
+        "time": "20:15",
+        "event": "Comedy für Freunde - Premium Stand-Up (@Comedy für Freunde Club Frankfurt)",
+        "category": "",
+        "description": "Lust auf 90 Minuten Comedy pur? 🎤 Erlebe die besten Comedians aus Frankfurt und ganz Deutschland bei „Comedy für Freunde“ – eine Show voller Lacher mit Profi-Comedians und aufstrebenden Talenten! Bleib nach der Show im Club, genieß coole Drinks und starte perfekt ins Wochenende! 🍹",
+        "link": "https://rausgegangen.de/en/events/comedy-fur-freunde-premium-stand-up-23/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/5cb5HsvSVOg5Mf2Xlj9A_bildschirmfoto-2026-01-28-um-105346.png?width=1200&height=900&mode=crop",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Fri, 28.08.2026",
+        "time": "20:30",
+        "event": "COMEDY KITCHEN! | Deutsches Comedy Open Mic im Francis FFM (@Restaurant Francis)",
+        "category": "",
+        "description": "Willkommen zu unserem deutschen Comedy Open Mic im Francis, für das wir ihr Restaurant übernehmen und Jokes statt Essen servieren!Wie das Francis unsere Stadt bereichert, setzen wir uns für die nachhaltige Entwicklung der Frankfurter Stand-Up Comedians ein.Unsere Open Mics sind die fruchtbaren Böden, auf denen lokale Talente wachsen und gedeihen können – frei von künstlichen Geschmacksverstärkern und Zensur, aber voller ehrlicher Pointen.In der Mainzer Landstrasse 27, im Holiday Inn Frankfurt - Alte Oper, trifft köstliche Gastronomie auf grüne Zukunft. Im Anschluss an das Open Mic findet unser deutscher Showcase (aka Mix-Show) statt: GOLDSTANDARD! 👑Hier präsentieren vier erfahrene Comedians + Moderator aus der Comedy Community ihr absolut bestes Material.Checkt unsere Event-Page aus, wenn ihr interessiert seid!Die Comedians im Showcase findet Ihr eine Woche vor der Show auf unserem Instagram-Account: @The.Comedy.CommunityDiese wie alle anderen Shows findet Ihr auch auf unserer Website www.thecomedycommunity.de",
+        "link": "https://rausgegangen.de/en/events/comedy-kitchen-deutsches-comedy-open-mic-im-francis-ffm-19/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/E6JUrEPiQIqxnlITGp7x_francis-om-deutsch-2x1.png?width=1200&height=900&mode=crop",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Fri, 28.08.2026",
+        "time": "22:00",
+        "event": "PASAPORTE LATINO (@Fortuna Irgendwo)",
+        "category": "",
+        "description": "Freitag 28.08.202622.00-04.00 UHR / VVK: € 12 / AK € 20PASAPORTE LATINOLINE UP: KILIAN | NANDU | LECAPASAPORTE LATINO – Latin hits | Reggaetón | Latin Urban Frankfurt, ¿estás listo? Am 28.08 landet etwas in der Stadt, dass es so noch nie gegeben hat. PASAPORTE ist mehr als eine Party – es ist eine Reise durch Lateinamerika. In einer einzigen Nacht vereinen wir Musik, Kulturen und Energien zu einem einzigartigen Erlebnis. Das Besondere bei PASAPORTE? Cada DJ representa su país. Unser internationales DJ-Line-up bringt nicht nur das Beste aus Reggaeton auf den Dancefloor, sondern präsentiert auch sein Heimatland mit Klassikern, Hymnen und authentischen Sounds. 🎧 LINE-UP 🇨🇱 KILIAN – Chile 🇵🇪 NANDU – Perú 🇦🇷 LECA – Argentina✨ SPECIALS 🎶 Lo mejor del Reggaeton, Latin Hits & authentische Sounds aus Lateinamerika 🎊 Thematische Dekoration 🎁 Giveaways & Überraschungen 🚨 Komm im Trikot deines Landes oder bring deine Flagge mit und erhalte am Eingang ein kleines Geschenk!¿Listo para abordar?",
+        "link": "https://rausgegangen.de/en/events/pasaporte-latino-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Jq7RGn75S7yequsfhUZ3_flyer-pasaporte-19201080.png?width=1200&height=900&mode=crop",
+        "city": "Frankfurt"
+    },
+    {
+        "date": "Fri, 28.08.2026",
+        "time": "23:00",
+        "event": "Ü30 - 90's & 00's Party (@Shagall Klub)",
+        "category": "",
+        "description": "🔥 Ü30 DISCO – 90’s & 00’s PARTY 🔥 🕺💃 Ab 23 Uhr drehen wir die Zeit zurück und feiern zu den größten Hits der 90er & 2000er!🎧 DJ CEED liefert euch den ultimativen Mix aus Pop, Dance & legendären Partyklassikern – von den Backstreet Boys bis Lady Gaga 🎶✨✨ Wichtig: Auch wenn es eine Ü30 Disco ist – diese Musik feiern heute ALLE! 🔥 Ob du mit den 90ern & 2000ern aufgewachsen bist oder sie gerade neu für dich entdeckst: 👉 Jüngere Fans dieser Jahrzehnte sind bei uns herzlich willkommen! 💃🕺💖🍹 SPECIALS 🍹 ✅ Eintritt nur 5€ von 23:00 – 00 Uhr 🥃 Free Welcome Shot zur Begrüßung👯‍♀️ Schnapp dir deine Crew und erlebe eine Nacht voller Nostalgie, guter Laune & echter Party-Vibes im Shagall Klub 🔥✨📍 Ort: Shagall Klub 📅 Freitag 28.8 ⏰ ab 23 Uhr 🎧 DJ: CEEDEINTRITT ab 00 Uhr - 10€💎 VIP 💎 Werde Teil der exklusiven Shagall VIP-WhatsApp-Gruppe und sichere dir Vorteile, Aktionen & Gästelistenplätze!👉 Jetzt beitreten: 📲 https://chat.whatsapp.com/IOvB03NjB7z4ZbAmTZ9osD🔥 Don’t miss it – das wird legendär! 🔥🎉#bremen #bremenhbf #discomeile #bremenerleben #bre",
+        "link": "https://rausgegangen.de/en/events/u30-90s-00s-party-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/3lENHDTiT3OgJuCqvRUK_chatgpt-image-25-juni-2026-150330.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
+    },
+    {
+        "date": "Fri, 28.08.2026",
         "time": "10:00",
         "event": "Gameshow Arena Essen: Werdet Stars eurer eigenen TV Show (@Gameshow Arena Essen)",
         "category": "",
@@ -2580,16 +2580,6 @@
     },
     {
         "date": "Fri, 28.08.2026",
-        "time": "18:30",
-        "event": "Comedy Club Hamburg - Die Stand-up Comedy Show (@Comedy Club Hamburg)",
-        "category": "",
-        "description": "Im Comedy Club Hamburg triffst du bekannte Gesichter aus Social Media und frische Stimmen der Stand-up Szene auf authentische Art und in entspannter Bar-Atmosphäre. Rund 90 Minuten lang zeigt sich hier amerikanischer Stand-up ganz nah am Publikum und mit richtig guter Laune 😊",
-        "link": "https://rausgegangen.de/en/events/comedy-club-hamburg-die-stand-up-comedy-show-8/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pgZeOVeRVCgbfrPoK7jF_hoersaal-rausgegangen.png?width=1200&height=900&mode=crop",
-        "city": "Hamburg"
-    },
-    {
-        "date": "Fri, 28.08.2026",
         "time": "18:00",
         "event": "Escape Game Night (@Beerpongbar Düsseldorf)",
         "category": "",
@@ -2607,6 +2597,16 @@
         "link": "https://rausgegangen.de/en/events/raw-soul-w-frag-maddin-amerei-patraik-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/EGXUrqazRdOqnkJTlnuN_foto-081125-22-10-23.jpg?width=1200&height=900&mode=crop",
         "city": "Düsseldorf"
+    },
+    {
+        "date": "Fri, 28.08.2026",
+        "time": "18:30",
+        "event": "Comedy Club Hamburg - Die Stand-up Comedy Show (@Comedy Club Hamburg)",
+        "category": "",
+        "description": "Im Comedy Club Hamburg triffst du bekannte Gesichter aus Social Media und frische Stimmen der Stand-up Szene auf authentische Art und in entspannter Bar-Atmosphäre. Rund 90 Minuten lang zeigt sich hier amerikanischer Stand-up ganz nah am Publikum und mit richtig guter Laune 😊",
+        "link": "https://rausgegangen.de/en/events/comedy-club-hamburg-die-stand-up-comedy-show-8/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pgZeOVeRVCgbfrPoK7jF_hoersaal-rausgegangen.png?width=1200&height=900&mode=crop",
+        "city": "Hamburg"
     },
     {
         "date": "Fri, 28.08.2026",
@@ -2754,13 +2754,33 @@
     },
     {
         "date": "Sat, 29.08.2026",
-        "time": "18:00",
-        "event": "Tropical Fiesta- Open Air im PARK (@Sommerdeich 1)",
+        "time": "00:00",
+        "event": "It's a Groovy Thing Festival #4 (@Conne Island)",
         "category": "",
-        "description": "🔥 OPEN AIR im PARK - draußen feiern bis in die Morgenstunden! 🔥Die erste Edition war einfach legendär!  Heiße Stimmung, volle Tanzfläche und eine unvergessliche Nacht.Deshalb legen wir zum Abschluss des Sommers noch einen drauf: Am 29.08. geht die Party in die zweite Edition!Freut euch auf noch mehr Tropical Vibes, beste Latino-Musik und eine Sommernacht, die ihr nicht verpassen solltet. 🌴Seid dabei – wir sehen uns am 29.08! 🔥Wer dabei ist, erlebt Geschichte!Eine location- 2 Areas- (indoor & Outdoor) Tanzen unter freiem Himmel bis in die Nacht – bei sommerlichen Temperaturen, guter Musik und einzigartiger Atmosphäre. Erlebt die beste Stimmung Bremens mit einem Team, das seit über 10 Jahren für unvergessliche Events im Norden Deutschlands bekannt ist – von Jaya Überseesctadt Afterwork, Oldenburg, Hannover und HamburgFreut euch auf Latin- & Karibik-Vibes, internationale DJs, Tropical Drinks und eine Open-Air-Nacht, die ihr nicht verpassen dürft!29. August –#OpenAirBremen #LatinParty #CaribbeanVibes #SommerInBremen #OpenAirImPark #BremenEvents #TanzenUnterSternen----------- SPECIALS -------- 🔥 Latin Show 🔥 Animation 🔥 Top International DJs 🔥 Leckere Tropical Drinks 🍹 🔥 Beste Vibes aus BremenFreut euch auf Latin- & Karibik-Feeling pur! 🌴----------- TICKETS --------🎟️ Early Bird, Early Entry 10 €🎟️  VVK: 15 €🎟️  AK: 20 €Wann: 29.08.2026 ab 18:00-05:00 UhrWo:  Sommerdeich 1 a, 28201 Bremen------------------------🔥 ¡OPEN AIR EN EL PARQUE – Fiesta al aire libre hasta el amanecer! 🔥¡La primera edición fue simplemente legendaria! 🔥 Un ambiente espectacular, pista de baile llena y una noche inolvidable.Por eso, para despedir el verano por todo lo alto, ¡volvemos con una segunda edición el 29 de agosto!Prepárate para disfrutar de aún más vibras tropicales, la mejor música latina y una noche de verano que no te puedes perder. 🌴¡Nos vemos el 29 de agosto! 🔥¡Quien esté presente, será parte de la historia!📍 Un solo lugar – 2 áreas (Indoor & Outdoor)💃 Baila al aire libre hasta la madrugada, con temperaturas de verano, buena música y un ambiente único.Vive la mejor fiesta de Bremen con un equipo que lleva más de 10 años organizando eventos inolvidables en el norte de Alemania: desde Jaya Überseestadt Afterwork hasta fiestas en Oldenburg, Hannover y Hamburgo.----------- ESPECIALES -------- 🔥 Show latino🔥 Animación🔥 DJs internacionales de primer nivel🔥 Deliciosos tropical drinks 🍹🔥 El mejor ambiente de Bremen¡Prepárate para vivir el auténtico sabor latino y caribeño! 🌴━━━━━━━━━━━━🎟️ ENTRADAS🎟️ Early Bird / Early Entry: 10 €🎟️ Preventa: 15 €🎟️ Taquilla: 20 €📅 Cuándo: 29.08.2026 | 18:00 – 05:00 h📍 Dónde: Sommerdeich 1a, 28201 Bremen",
-        "link": "https://rausgegangen.de/en/events/tropical-fiesta-open-air-im-park-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/zxhafc4tzdi9?width=1200&height=900&mode=crop",
-        "city": "Bremen"
+        "description": "It’s A Groovy Thing Festival #4📅 Sa. 29/08/26 📍 @conneislandAuch bei der inzwischen 4. Ausgabe von IT’S A GROOVY THING geht es wieder um mehr als einfach nur Musik: Es geht um ein Feeling.🎧 20 lokale DJs nehmen Euch 13 Stunden lang mit auf eine Reise durch die verschiedenen Spielarten organischer Clubmusik – gespielt von Vinyl.Freut Euch auf Styles wie Funk, Soul, Latin, Boogie, Disco, Rhythm & Blues, Hip Hop, Jazz und vieles mehr.🔊 Vinyl Only. ✨ Good Vibes Only. 🕺 Groove Only.Party on!☀️ 15–22 Uhr – Outdoor (Freisitz Conne Island)🌙 22–04 Uhr – Indoor (Konzertsaal Conne Island)🎟️ Für In- und Outdoor gibt es jeweils ein Einzelticket und für Party-TigerInnen natürlich auch ein Kombi-Ticket. Familien willkommen – freier Eintritt für Kinder bis 15 Jahre.Wir freuen uns, mit Euch zusammen unter freiem Himmel zu tanzen, auf ein buntes Publikum, verschiedene Settings, kühle Getränke, gutes Essen und jede Menge hipshaking Grooves.Line Up : ☀ OUTDOOR — HOF15:00 ▸ CHOU FLÖR ↳ organic/electronic grooves15:50 ▸ DUKTUS ↳ Disco, Boogie, Funk, Soul · @duktus_one16:30 ▸ JOHN REED ↳ Funk · Golden Rules, Soho Radio London · @reedflavor17:10 ▸ PEANUT VENDOR ↳ Northern Soul · Soul Magic / SoulSurgery17:50 ▸ DR SHING A LING ↳ Dancefloor Jazz, Latin, Funk · le-groove.de · @legroove.de18:30 ▸ DEEJEENA ↳ Rhythm & Blues, Soul, Popcorn · @deejeena_deejane19:10 ▸ DA WIESEL ↳ Soul, Funk · MostWantedSoundsystem · @da.wiesel19:50 ▸ PAUL KLEMENT ↳ Soul, Boogaloo20:30 ▸ SOUNDSYSTEM OSTSTRASSE ↳ Brazil · @soundsystemoststrasse21:10 ▸ DEECEE ↳ 60s Soul & 70s Funk⚙ Umbaupause ~15 min ⚙ 🌙 INDOOR — CLUB22:00 ▸ MR OLSEN ↳ Funk, Soul, Tropical · Polyester Club · @dj__olsen22:40 ▸ FRESH GREEN ↳ funky HipHop · Fresh Buzyness · @__fresh_green__23:20 ▸ PEPE ↳ Tropical, Boogie · Born To Shine Rec. · @pepe_of_borntoshinerec00:00 ▸ PETE ROGERS ↳ All Styles · Dynamite Soul · @dj.pete.rogers00:40 ▸ BUZY A ↳ funky HipHop · Fresh Buzyness · @djbuzya01:20 ▸ BOTTROP BOY ↳ funky Boogie · ConneBeatz02:00 ▸ KOZMOZ ↳ Brazil, Disco, Boogie · Soho Radio London, BoogieDownLindenau · @kosmoz_boogiedownlindenau02:40 ▸ YAYA WIGGLE ↳ Rhythm & Blues, Soul, Popcorn · Back... Shack... Track03:20 ▸ SEÑOR KIEZ ↳ Rhythm & Blues, Boogaloo, Southern Funk · Polyester Club · @djsenorkiez 🙌 Kommt vorbei!🎨 Artwork by: Duktus One🤝 Präsentiert von: IG Funk & Soul Leipzig🔗 Weitere Infos & Newsletter → igfunkundsoul.de",
+        "link": "https://rausgegangen.de/en/events/its-a-groovy-thing-festival-4-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Dhk81mIESkCInZJAvEMQ_facebook-header-min.jpg?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
+    },
+    {
+        "date": "Sat, 29.08.2026",
+        "time": "18:00",
+        "event": "Searching For Home - 10th Birthday Festival (@Moritzbastei)",
+        "category": "",
+        "description": "10 Jahre Searching for Home – das muss gefeiert werden! Das Bandkollektiv aus Leipzig schmeißt anlässlich dieses Jubiläums sein erstes eigenes Festival in der Moritzbastei. Nach mittlerweile drei Veröffentlichungen, mehr als 170 gemeinsamen Konzerten und mehreren Auszeichnungen (1. Sparda Jazz Award, 1. Jazzfruit, 5. Burghausen Jazz Award) bringen Searching for Home eine mitreißende Jubiläumsshow aus neuen Songs und neu bearbeiteten Classics auf die Bühne. Ob von der Beziehung zu sich selbst, vom Hyperfokus auf eine Person oder vom Auseinanderleben – das Bandkollektiv erzählt von mit pushendem Vorwärtsdrang und unfassbar ansteckendem Optimismus. Angeführt durch die vielseitige Stimme von Sängerin Ida bringen pulsierende Grooves, fette Bläsersetze, treibende Bässe und Gitarren sowie ausgefeilte Synthesizer-Sounds immer wieder neue Facetten in das energetische Liveprogramm. Hochkarätige Support-Acts, Special Guests und eine ausgiebige Afterparty komplettieren das Ein-Tagesfestival.Ein Muss für alle Searching-for-Home- und Livemusikfans!!!",
+        "link": "https://rausgegangen.de/en/events/searching-for-home-10th-birthday-festival-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/B8vdRBlTsmpQq7YEaMdZ_searchingforhome.png?width=1200&height=900&mode=crop",
+        "city": "Leipzig"
+    },
+    {
+        "date": "Sat, 29.08.2026",
+        "time": "22:00",
+        "event": "Fluides Feiern w/ DCT & Friends (@GrooveStation)",
+        "category": "",
+        "description": "Bei Fluides Feiern erwartet dich Drum and Bass rundum – live, mit 360 Grad Sound und Visuals, die dich mitten ins Geschehen holen. DCT und Crew laden ein, gemeinsam eine Nacht voller Energie und cooler Vibes zu genießen 🕺",
+        "link": "https://rausgegangen.de/en/events/fluides-feiern-w-dct-friends-5/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/T3KQ4j7XShOZY6UMlN58_dct08-2026t4g.png?width=1200&height=900&mode=crop",
+        "city": "Dresden"
     },
     {
         "date": "Sat, 29.08.2026",
@@ -2814,33 +2834,13 @@
     },
     {
         "date": "Sat, 29.08.2026",
-        "time": "00:00",
-        "event": "It's a Groovy Thing Festival #4 (@Conne Island)",
-        "category": "",
-        "description": "It’s A Groovy Thing Festival #4📅 Sa. 29/08/26 📍 @conneislandAuch bei der inzwischen 4. Ausgabe von IT’S A GROOVY THING geht es wieder um mehr als einfach nur Musik: Es geht um ein Feeling.🎧 20 lokale DJs nehmen Euch 13 Stunden lang mit auf eine Reise durch die verschiedenen Spielarten organischer Clubmusik – gespielt von Vinyl.Freut Euch auf Styles wie Funk, Soul, Latin, Boogie, Disco, Rhythm & Blues, Hip Hop, Jazz und vieles mehr.🔊 Vinyl Only. ✨ Good Vibes Only. 🕺 Groove Only.Party on!☀️ 15–22 Uhr – Outdoor (Freisitz Conne Island)🌙 22–04 Uhr – Indoor (Konzertsaal Conne Island)🎟️ Für In- und Outdoor gibt es jeweils ein Einzelticket und für Party-TigerInnen natürlich auch ein Kombi-Ticket. Familien willkommen – freier Eintritt für Kinder bis 15 Jahre.Wir freuen uns, mit Euch zusammen unter freiem Himmel zu tanzen, auf ein buntes Publikum, verschiedene Settings, kühle Getränke, gutes Essen und jede Menge hipshaking Grooves.Line Up : ☀ OUTDOOR — HOF15:00 ▸ CHOU FLÖR ↳ organic/electronic grooves15:50 ▸ DUKTUS ↳ Disco, Boogie, Funk, Soul · @duktus_one16:30 ▸ JOHN REED ↳ Funk · Golden Rules, Soho Radio London · @reedflavor17:10 ▸ PEANUT VENDOR ↳ Northern Soul · Soul Magic / SoulSurgery17:50 ▸ DR SHING A LING ↳ Dancefloor Jazz, Latin, Funk · le-groove.de · @legroove.de18:30 ▸ DEEJEENA ↳ Rhythm & Blues, Soul, Popcorn · @deejeena_deejane19:10 ▸ DA WIESEL ↳ Soul, Funk · MostWantedSoundsystem · @da.wiesel19:50 ▸ PAUL KLEMENT ↳ Soul, Boogaloo20:30 ▸ SOUNDSYSTEM OSTSTRASSE ↳ Brazil · @soundsystemoststrasse21:10 ▸ DEECEE ↳ 60s Soul & 70s Funk⚙ Umbaupause ~15 min ⚙ 🌙 INDOOR — CLUB22:00 ▸ MR OLSEN ↳ Funk, Soul, Tropical · Polyester Club · @dj__olsen22:40 ▸ FRESH GREEN ↳ funky HipHop · Fresh Buzyness · @__fresh_green__23:20 ▸ PEPE ↳ Tropical, Boogie · Born To Shine Rec. · @pepe_of_borntoshinerec00:00 ▸ PETE ROGERS ↳ All Styles · Dynamite Soul · @dj.pete.rogers00:40 ▸ BUZY A ↳ funky HipHop · Fresh Buzyness · @djbuzya01:20 ▸ BOTTROP BOY ↳ funky Boogie · ConneBeatz02:00 ▸ KOZMOZ ↳ Brazil, Disco, Boogie · Soho Radio London, BoogieDownLindenau · @kosmoz_boogiedownlindenau02:40 ▸ YAYA WIGGLE ↳ Rhythm & Blues, Soul, Popcorn · Back... Shack... Track03:20 ▸ SEÑOR KIEZ ↳ Rhythm & Blues, Boogaloo, Southern Funk · Polyester Club · @djsenorkiez 🙌 Kommt vorbei!🎨 Artwork by: Duktus One🤝 Präsentiert von: IG Funk & Soul Leipzig🔗 Weitere Infos & Newsletter → igfunkundsoul.de",
-        "link": "https://rausgegangen.de/en/events/its-a-groovy-thing-festival-4-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Dhk81mIESkCInZJAvEMQ_facebook-header-min.jpg?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
-    },
-    {
-        "date": "Sat, 29.08.2026",
         "time": "18:00",
-        "event": "Searching For Home - 10th Birthday Festival (@Moritzbastei)",
+        "event": "Tropical Fiesta- Open Air im PARK (@Sommerdeich 1)",
         "category": "",
-        "description": "10 Jahre Searching for Home – das muss gefeiert werden! Das Bandkollektiv aus Leipzig schmeißt anlässlich dieses Jubiläums sein erstes eigenes Festival in der Moritzbastei. Nach mittlerweile drei Veröffentlichungen, mehr als 170 gemeinsamen Konzerten und mehreren Auszeichnungen (1. Sparda Jazz Award, 1. Jazzfruit, 5. Burghausen Jazz Award) bringen Searching for Home eine mitreißende Jubiläumsshow aus neuen Songs und neu bearbeiteten Classics auf die Bühne. Ob von der Beziehung zu sich selbst, vom Hyperfokus auf eine Person oder vom Auseinanderleben – das Bandkollektiv erzählt von mit pushendem Vorwärtsdrang und unfassbar ansteckendem Optimismus. Angeführt durch die vielseitige Stimme von Sängerin Ida bringen pulsierende Grooves, fette Bläsersetze, treibende Bässe und Gitarren sowie ausgefeilte Synthesizer-Sounds immer wieder neue Facetten in das energetische Liveprogramm. Hochkarätige Support-Acts, Special Guests und eine ausgiebige Afterparty komplettieren das Ein-Tagesfestival.Ein Muss für alle Searching-for-Home- und Livemusikfans!!!",
-        "link": "https://rausgegangen.de/en/events/searching-for-home-10th-birthday-festival-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/B8vdRBlTsmpQq7YEaMdZ_searchingforhome.png?width=1200&height=900&mode=crop",
-        "city": "Leipzig"
-    },
-    {
-        "date": "Sat, 29.08.2026",
-        "time": "22:00",
-        "event": "Fluides Feiern w/ DCT & Friends (@GrooveStation)",
-        "category": "",
-        "description": "Bei Fluides Feiern erwartet dich Drum and Bass rundum – live, mit 360 Grad Sound und Visuals, die dich mitten ins Geschehen holen. DCT und Crew laden ein, gemeinsam eine Nacht voller Energie und cooler Vibes zu genießen 🕺",
-        "link": "https://rausgegangen.de/en/events/fluides-feiern-w-dct-friends-5/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/T3KQ4j7XShOZY6UMlN58_dct08-2026t4g.png?width=1200&height=900&mode=crop",
-        "city": "Dresden"
+        "description": "🔥 OPEN AIR im PARK - draußen feiern bis in die Morgenstunden! 🔥Die erste Edition war einfach legendär!  Heiße Stimmung, volle Tanzfläche und eine unvergessliche Nacht.Deshalb legen wir zum Abschluss des Sommers noch einen drauf: Am 29.08. geht die Party in die zweite Edition!Freut euch auf noch mehr Tropical Vibes, beste Latino-Musik und eine Sommernacht, die ihr nicht verpassen solltet. 🌴Seid dabei – wir sehen uns am 29.08! 🔥Wer dabei ist, erlebt Geschichte!Eine location- 2 Areas- (indoor & Outdoor) Tanzen unter freiem Himmel bis in die Nacht – bei sommerlichen Temperaturen, guter Musik und einzigartiger Atmosphäre. Erlebt die beste Stimmung Bremens mit einem Team, das seit über 10 Jahren für unvergessliche Events im Norden Deutschlands bekannt ist – von Jaya Überseesctadt Afterwork, Oldenburg, Hannover und HamburgFreut euch auf Latin- & Karibik-Vibes, internationale DJs, Tropical Drinks und eine Open-Air-Nacht, die ihr nicht verpassen dürft!29. August –#OpenAirBremen #LatinParty #CaribbeanVibes #SommerInBremen #OpenAirImPark #BremenEvents #TanzenUnterSternen----------- SPECIALS -------- 🔥 Latin Show 🔥 Animation 🔥 Top International DJs 🔥 Leckere Tropical Drinks 🍹 🔥 Beste Vibes aus BremenFreut euch auf Latin- & Karibik-Feeling pur! 🌴----------- TICKETS --------🎟️ Early Bird, Early Entry 10 €🎟️  VVK: 15 €🎟️  AK: 20 €Wann: 29.08.2026 ab 18:00-05:00 UhrWo:  Sommerdeich 1 a, 28201 Bremen------------------------🔥 ¡OPEN AIR EN EL PARQUE – Fiesta al aire libre hasta el amanecer! 🔥¡La primera edición fue simplemente legendaria! 🔥 Un ambiente espectacular, pista de baile llena y una noche inolvidable.Por eso, para despedir el verano por todo lo alto, ¡volvemos con una segunda edición el 29 de agosto!Prepárate para disfrutar de aún más vibras tropicales, la mejor música latina y una noche de verano que no te puedes perder. 🌴¡Nos vemos el 29 de agosto! 🔥¡Quien esté presente, será parte de la historia!📍 Un solo lugar – 2 áreas (Indoor & Outdoor)💃 Baila al aire libre hasta la madrugada, con temperaturas de verano, buena música y un ambiente único.Vive la mejor fiesta de Bremen con un equipo que lleva más de 10 años organizando eventos inolvidables en el norte de Alemania: desde Jaya Überseestadt Afterwork hasta fiestas en Oldenburg, Hannover y Hamburgo.----------- ESPECIALES -------- 🔥 Show latino🔥 Animación🔥 DJs internacionales de primer nivel🔥 Deliciosos tropical drinks 🍹🔥 El mejor ambiente de Bremen¡Prepárate para vivir el auténtico sabor latino y caribeño! 🌴━━━━━━━━━━━━🎟️ ENTRADAS🎟️ Early Bird / Early Entry: 10 €🎟️ Preventa: 15 €🎟️ Taquilla: 20 €📅 Cuándo: 29.08.2026 | 18:00 – 05:00 h📍 Dónde: Sommerdeich 1a, 28201 Bremen",
+        "link": "https://rausgegangen.de/en/events/tropical-fiesta-open-air-im-park-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/zxhafc4tzdi9?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Sat, 29.08.2026",
@@ -3182,16 +3182,6 @@
     },
     {
         "date": "Tue, 01.09.2026",
-        "time": "19:00",
-        "event": "QUIZTRONAUTEN - Quiz im Viertel (@Fehrfeld)",
-        "category": "",
-        "description": "Schnapp dir deine Crew und testet euer Wissen auf eine ganz neue Art. Die Quiztronaut:innen verbinden spontane Stadterkundung mit kniffligen Fragen und digitaler Technik, die das Ganze schnell und entspannt macht. Wer Deutschlands cleverste Crew wird, entscheidet sich jetzt 🙃",
-        "link": "https://rausgegangen.de/en/events/quiztronauten-quiz-im-viertel-8/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/mbAP81yTGSF4jAVBxelm_rausgegangen-fomo-titel-21.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Tue, 01.09.2026",
         "time": "19:30",
         "event": "SHOWTIME! Deutscher Comedy Cocktail in der French Bento Bar (@French Bento Bar)",
         "category": "",
@@ -3209,6 +3199,16 @@
         "link": "https://rausgegangen.de/en/events/comedy2go-25/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/ohPWj4DORKK9BoW008Jg_comedy2goflyerfinal.png?width=1200&height=900&mode=crop",
         "city": "Frankfurt"
+    },
+    {
+        "date": "Tue, 01.09.2026",
+        "time": "19:00",
+        "event": "QUIZTRONAUTEN - Quiz im Viertel (@Fehrfeld)",
+        "category": "",
+        "description": "Schnapp dir deine Crew und testet euer Wissen auf eine ganz neue Art. Die Quiztronaut:innen verbinden spontane Stadterkundung mit kniffligen Fragen und digitaler Technik, die das Ganze schnell und entspannt macht. Wer Deutschlands cleverste Crew wird, entscheidet sich jetzt 🙃",
+        "link": "https://rausgegangen.de/en/events/quiztronauten-quiz-im-viertel-8/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/mbAP81yTGSF4jAVBxelm_rausgegangen-fomo-titel-21.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Tue, 01.09.2026",
@@ -3464,16 +3464,6 @@
     },
     {
         "date": "Wed, 02.09.2026",
-        "time": "20:00",
-        "event": "Craft Comedy Open Mic (@Helga)",
-        "category": "",
-        "description": "Dir ist deutsche Comedy zu abgedroschen? Du willst lieber mit, und nicht über jemanden lachen? Dann sind unsere Open Mics der richtige Ort für dich! Fünfmal im Monat geben sich 6 bis 8 Comedians zwei Stunden lang auf unserer Bühne die Blöße und testen ihr neuestes Material.  Ob Newcomer*in oder Vollzeit-Stand-Up, für sie alle sind Open Mics der Ort, um ihr Handwerk zu erlernen und zu verbessern. Das macht jede Show einzigartig und unberechenbar, es wird gelacht und gefeiert aber auch mal ordentlich gescheitert.   Preisinformationen: Wir möchten allen Menschen den Zugang zu unseren Veranstaltungen ermöglichen, denn wir sind der Meinung, Comedy sollte sich jeder leisten können. Daher bekommt ihr bei uns an der Abendkasse die Option, den Preis zu zahlen, den ihr euch leisten könnt, ohne dass Fragen gestellt werden oder Nachweise erbracht werden müssten. Im Vorverkauf können wir den Ticketpreis leider nicht ganz frei wählbar gestalten, denn von diesem Geld möchten Fahrtgeld für unsere Künstler*innen zahlen, die Stand-Up Szene in Bremen und umzu verbessern, größere und aufwendigere Shows gestalten und am wichtigsten den Solidaritästpreis an der Abendkasse aufrecht erhalten. Wer ein Ticket im Vorverkauf erwirbt kann sich allerdings sicher sein einen Sitzplatz zu bekommen. An derAbendkasse können die Tickets auch ausverkauft sein oder alle Sitzplätze belegt, früh kommen lohnt sich daher. Fotos: Auf dieser Veranstaltung werden Foto- und Videoaufnahmen erstellt. Diese werden für unsere Öffentlichkeitsarbeit (u.a. auf den sozialen Medien) genutzt. Bei Rückfragen meldet euch bitte persönlich oder per Mail unter kontakt@craft-comedy.de bei uns.",
-        "link": "https://rausgegangen.de/en/events/craft-comedy-open-mic-94/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/DOmBGZEOSFOmLQFRBzrn_open-mic-eventbild.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Wed, 02.09.2026",
         "time": "18:00",
         "event": "ALBRECHT WEINBERG - ES IST IMMER IN MEINEM KOPF // Kinotour in Frankfurt & Filmgespräch (@Cinéma)",
         "category": "",
@@ -3491,6 +3481,16 @@
         "link": "https://rausgegangen.de/en/events/caffeinated-comedy-english-comedy-community-open-mic-at-paul-24/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/RDzalJ6fSISXacM5m9wl_paul-tim-open-mic-2x1.png?width=1200&height=900&mode=crop",
         "city": "Frankfurt"
+    },
+    {
+        "date": "Wed, 02.09.2026",
+        "time": "20:00",
+        "event": "Craft Comedy Open Mic (@Helga)",
+        "category": "",
+        "description": "Dir ist deutsche Comedy zu abgedroschen? Du willst lieber mit, und nicht über jemanden lachen? Dann sind unsere Open Mics der richtige Ort für dich! Fünfmal im Monat geben sich 6 bis 8 Comedians zwei Stunden lang auf unserer Bühne die Blöße und testen ihr neuestes Material.  Ob Newcomer*in oder Vollzeit-Stand-Up, für sie alle sind Open Mics der Ort, um ihr Handwerk zu erlernen und zu verbessern. Das macht jede Show einzigartig und unberechenbar, es wird gelacht und gefeiert aber auch mal ordentlich gescheitert.   Preisinformationen: Wir möchten allen Menschen den Zugang zu unseren Veranstaltungen ermöglichen, denn wir sind der Meinung, Comedy sollte sich jeder leisten können. Daher bekommt ihr bei uns an der Abendkasse die Option, den Preis zu zahlen, den ihr euch leisten könnt, ohne dass Fragen gestellt werden oder Nachweise erbracht werden müssten. Im Vorverkauf können wir den Ticketpreis leider nicht ganz frei wählbar gestalten, denn von diesem Geld möchten Fahrtgeld für unsere Künstler*innen zahlen, die Stand-Up Szene in Bremen und umzu verbessern, größere und aufwendigere Shows gestalten und am wichtigsten den Solidaritästpreis an der Abendkasse aufrecht erhalten. Wer ein Ticket im Vorverkauf erwirbt kann sich allerdings sicher sein einen Sitzplatz zu bekommen. An derAbendkasse können die Tickets auch ausverkauft sein oder alle Sitzplätze belegt, früh kommen lohnt sich daher. Fotos: Auf dieser Veranstaltung werden Foto- und Videoaufnahmen erstellt. Diese werden für unsere Öffentlichkeitsarbeit (u.a. auf den sozialen Medien) genutzt. Bei Rückfragen meldet euch bitte persönlich oder per Mail unter kontakt@craft-comedy.de bei uns.",
+        "link": "https://rausgegangen.de/en/events/craft-comedy-open-mic-94/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/DOmBGZEOSFOmLQFRBzrn_open-mic-eventbild.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Wed, 02.09.2026",
@@ -3767,16 +3767,6 @@
     },
     {
         "date": "Thu, 03.09.2026",
-        "time": "19:00",
-        "event": "Thomas D & The KBCS // Neocortex Tour 2026 // Bremen (@Modernes)",
-        "category": "",
-        "description": "THOMAS D & THE KBCS 03.09.26 BREMEN - ModernesEinlass: 19:00 Uhr Beginn: 20:00 Uhr   Nach einer erfolgreichen Tour zum Colabo-Album MEGA D mit Flo Mega, melden sich Thomas D & The KBCS mit brandneuer Musik zurück und gehen 2026 wieder gemeinsam auf Tour.„Aus dem Studio direkt auf die Bühne. Ich kann nur so viel sagen: Wir werden eine neue Platte im Gepäck haben“, verrät Thomas D voller Vorfreude. „Die ersten Konzerte nach langer Pause sind immer etwas ganz Besonderes. Ich freue mich, mein Solo-Publikum mit etwas Neuem zu überraschen.“ Thomas D & The KBCS verbindet eine besondere musikalische Partnerschaft, die seit 2018 mit der Veröffentlichung des Albums „The M.A.R.S. Sessions“ stetig gewachsen ist. Mit den Alben „M.A.R.S. Sessions II“ und dem Live-Album „Little Big Beat Studio Sessions“, beide 2024 erschienen, haben sie nicht nur ihre künstlerische Vision weiter verfeinert, sondern auch eindrucksvoll unter Beweis gestellt, wie vielseitig und emotional ihre Musik sein kann. Fotocredit: Mumpi Künster  Vorverkaufsinformationen: Tickets sind ab sofort auf eventim.de, sowie an allen bekannten VVK-Stellen und unter der Hotline 01806 – 57 00 70 (0,20€/Anruf inkl. MwSt. aus allen dt. Netzen) erhältlich.",
-        "link": "https://rausgegangen.de/en/events/thomas-d-the-kbcs-neocortex-tour-2026-bremen-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/kq6xqFGoTPql6GCZM6R1_mumpikunster-7359.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Thu, 03.09.2026",
         "time": "20:00",
         "event": "Jazeek (@Freilichtbühne Junge Garde)",
         "category": "",
@@ -3784,6 +3774,16 @@
         "link": "https://rausgegangen.de/en/events/jazeek-15/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/w8jx1tvrgp41.jpg?width=1200&height=900&mode=crop",
         "city": "Dresden"
+    },
+    {
+        "date": "Thu, 03.09.2026",
+        "time": "19:00",
+        "event": "Thomas D & The KBCS // Neocortex Tour 2026 // Bremen (@Modernes)",
+        "category": "",
+        "description": "THOMAS D & THE KBCS 03.09.26 BREMEN - ModernesEinlass: 19:00 Uhr Beginn: 20:00 Uhr   Nach einer erfolgreichen Tour zum Colabo-Album MEGA D mit Flo Mega, melden sich Thomas D & The KBCS mit brandneuer Musik zurück und gehen 2026 wieder gemeinsam auf Tour.„Aus dem Studio direkt auf die Bühne. Ich kann nur so viel sagen: Wir werden eine neue Platte im Gepäck haben“, verrät Thomas D voller Vorfreude. „Die ersten Konzerte nach langer Pause sind immer etwas ganz Besonderes. Ich freue mich, mein Solo-Publikum mit etwas Neuem zu überraschen.“ Thomas D & The KBCS verbindet eine besondere musikalische Partnerschaft, die seit 2018 mit der Veröffentlichung des Albums „The M.A.R.S. Sessions“ stetig gewachsen ist. Mit den Alben „M.A.R.S. Sessions II“ und dem Live-Album „Little Big Beat Studio Sessions“, beide 2024 erschienen, haben sie nicht nur ihre künstlerische Vision weiter verfeinert, sondern auch eindrucksvoll unter Beweis gestellt, wie vielseitig und emotional ihre Musik sein kann. Fotocredit: Mumpi Künster  Vorverkaufsinformationen: Tickets sind ab sofort auf eventim.de, sowie an allen bekannten VVK-Stellen und unter der Hotline 01806 – 57 00 70 (0,20€/Anruf inkl. MwSt. aus allen dt. Netzen) erhältlich.",
+        "link": "https://rausgegangen.de/en/events/thomas-d-the-kbcs-neocortex-tour-2026-bremen-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/kq6xqFGoTPql6GCZM6R1_mumpikunster-7359.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Thu, 03.09.2026",
@@ -3995,16 +3995,6 @@
     },
     {
         "date": "Fri, 04.09.2026",
-        "time": "20:00",
-        "event": "Lena Kupke: Pause (@Kulturzentrum Schlachthof)",
-        "category": "",
-        "description": "Lena Kupke erzählt in „Pause“ von einer Rückkehr, die alles auf den Kopf stellt und dabei überraschend viel Humor zeigt. Ihr Roman lotet aus, wie man in schwierigen Zeiten Nähe neu entdeckt und sich selbst dabei wiederfindet. Hier erwartet dich eine Lesung mit viel Herz und Offenheit 🫶",
-        "link": "https://rausgegangen.de/en/events/lena-kupke-pause-1/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pyxZMWUtTZy1A7648zOg_lena-kupke-2-c-daniel-dittus.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Fri, 04.09.2026",
         "time": "19:00",
         "event": "The Gardener And The Tree - Sole Tour - Batschkapp Sommergarten (@Batschkapp Frankfurt)",
         "category": "",
@@ -4042,6 +4032,16 @@
         "link": "https://rausgegangen.de/en/events/hiphoprnb-sommerfest-i-frankfurt-1/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Y8pEictYQjCBv2a9q7cj_fifacebook-260904.jpg?width=1200&height=900&mode=crop",
         "city": "Frankfurt"
+    },
+    {
+        "date": "Fri, 04.09.2026",
+        "time": "20:00",
+        "event": "Lena Kupke: Pause (@Kulturzentrum Schlachthof)",
+        "category": "",
+        "description": "Lena Kupke erzählt in „Pause“ von einer Rückkehr, die alles auf den Kopf stellt und dabei überraschend viel Humor zeigt. Ihr Roman lotet aus, wie man in schwierigen Zeiten Nähe neu entdeckt und sich selbst dabei wiederfindet. Hier erwartet dich eine Lesung mit viel Herz und Offenheit 🫶",
+        "link": "https://rausgegangen.de/en/events/lena-kupke-pause-1/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/pyxZMWUtTZy1A7648zOg_lena-kupke-2-c-daniel-dittus.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Fri, 04.09.2026",
@@ -4217,13 +4217,23 @@
     },
     {
         "date": "Sat, 05.09.2026",
-        "time": "15:00",
-        "event": "Horn to be Wild Festival 2026 (@Rhododendronpark)",
+        "time": "20:00",
+        "event": "Max Prosa & Meret Becker (@Filmtheater Schauburg - Dresden)",
         "category": "",
-        "description": "Das Horn to be Wild Festival feiert 12 Jahre Musik im gemütlichen Rhododendron Park mit frischen Indie Pop-Talenten aus Bremen und Umgebung. Neben coolen Newcomer-Bands gibt’s eine Kletterwand, Foodtrucks und eine entspannte Atmosphäre zum Picknicken oder Tanzen 🕺",
-        "link": "https://rausgegangen.de/en/events/horn-to-be-wild-festival-2026-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/IZ0Sz2c8Rju4I1oLKa2z_htbw22leafladungmitesthergraf2.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
+        "description": "Meret Becker und Max Prosa verbinden minimalistische Klangwelten und erzählerische Tiefe. Die beiden schaffen mit leisen Tönen und poetischen Texten Momente, die ganz bei dir ankommen und lange nachwirken können 🫶",
+        "link": "https://rausgegangen.de/en/events/max-prosa-meret-becker-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/2yCIehmdS82OTMSjyH6M_maxmeretinsta4.jpg?width=1200&height=900&mode=crop",
+        "city": "Dresden"
+    },
+    {
+        "date": "Sat, 05.09.2026",
+        "time": "22:00",
+        "event": "hypnosis (@Groove Station)",
+        "category": "",
+        "description": "Wenn du auf intensiven, treibenden Techno stehst, ist diese Nacht genau dein Ding. Resaresa, ACTANT, E2NMN und friggi B2B Elektra sorgen für eine immersive Klangreise, die dich nonstop in Bewegung hält 🕺",
+        "link": "https://rausgegangen.de/en/events/hypnosis-9/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/NTnjHReWSEKMSlpMrbKX_hypnosis-709-2026hero.jpg?width=1200&height=900&mode=crop",
+        "city": "Dresden"
     },
     {
         "date": "Sat, 05.09.2026",
@@ -4267,23 +4277,13 @@
     },
     {
         "date": "Sat, 05.09.2026",
-        "time": "20:00",
-        "event": "Max Prosa & Meret Becker (@Filmtheater Schauburg - Dresden)",
+        "time": "15:00",
+        "event": "Horn to be Wild Festival 2026 (@Rhododendronpark)",
         "category": "",
-        "description": "Meret Becker und Max Prosa verbinden minimalistische Klangwelten und erzählerische Tiefe. Die beiden schaffen mit leisen Tönen und poetischen Texten Momente, die ganz bei dir ankommen und lange nachwirken können 🫶",
-        "link": "https://rausgegangen.de/en/events/max-prosa-meret-becker-0/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/2yCIehmdS82OTMSjyH6M_maxmeretinsta4.jpg?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Sat, 05.09.2026",
-        "time": "22:00",
-        "event": "hypnosis (@Groove Station)",
-        "category": "",
-        "description": "Wenn du auf intensiven, treibenden Techno stehst, ist diese Nacht genau dein Ding. Resaresa, ACTANT, E2NMN und friggi B2B Elektra sorgen für eine immersive Klangreise, die dich nonstop in Bewegung hält 🕺",
-        "link": "https://rausgegangen.de/en/events/hypnosis-9/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/NTnjHReWSEKMSlpMrbKX_hypnosis-709-2026hero.jpg?width=1200&height=900&mode=crop",
-        "city": "Dresden"
+        "description": "Das Horn to be Wild Festival feiert 12 Jahre Musik im gemütlichen Rhododendron Park mit frischen Indie Pop-Talenten aus Bremen und Umgebung. Neben coolen Newcomer-Bands gibt’s eine Kletterwand, Foodtrucks und eine entspannte Atmosphäre zum Picknicken oder Tanzen 🕺",
+        "link": "https://rausgegangen.de/en/events/horn-to-be-wild-festival-2026-0/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/IZ0Sz2c8Rju4I1oLKa2z_htbw22leafladungmitesthergraf2.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Sat, 05.09.2026",
@@ -6235,16 +6235,6 @@
     {
         "date": "Fri, 11.09.2026",
         "time": "20:00",
-        "event": "Craft Comedy Club (@Butschern Bar am Sielwall)",
-        "category": "",
-        "description": "Der Craft Comedy Club präsentiert euch einige der besten Nachwuchs Comedians aus Hamburg, Bremen und Niedersachsen. Im Gegensatz zu unseren Open Mics treten die Comedians nur mit getestetem und erprobtem Material auf. Bei den Open Mics von Craft Comedy treten mehrmals im Monat Nachwuchs Comedians aus ganz Deutschland auf. Die besten von ihnen wollen euch nun längere und erprobte Sets in ihrer Finalfassung präsentieren. Sie bringen neue und innovative Stand-up Comedy mit, mit der sie schon jeden Monat hunderte Menschen unterhalten.  Es werden vier unterschiedliche Comedians auftreten. Von denen bringt jede*r ihre*seine ganz eigenen Storys und verrückten Beobachtungen mit. Von Geschichten aus dem Büroalltag bis zu den Gedanken eines Eichhörnchens ist alles dabei. Hier findet Comedy auf Augenhöhe statt, denn die Comedians nehmen sich selbst nicht zu ernst und sind oft genug die Leidtragenden ihrer eigenen Storys. Bei Craft Comedy ist es uns wichtig, die deutsche Stand-up Landschaft zu verändern und allen Menschen eine Bühne zu bieten. Außerdem wollen wir, dass so viele Menschen wie möglich unsere Shows genießen können, weshalb es uns wichtig ist, nicht für einen Lacher nach unten zu treten, sondern ehrliche und gute Comedy auf die Bühne zu bringen. Bei unseren Veranstaltungen werden Foto und Viedeoaufnahmen gemacht. Diese nutzen wir zu Werbezwecken unteranderem auf unseren Social-Media Kanälen. Bei Fragen oder Wiederspruch kontakt ihr uns gerne.",
-        "link": "https://rausgegangen.de/en/events/craft-comedy-club-12/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zO0XqQYSVagXar4c1uwn_craft-comedy-club-profil-bild.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Fri, 11.09.2026",
-        "time": "20:00",
         "event": "Stand Up Comedy Show OPEN AIR (@Citybeach Dresden)",
         "category": "",
         "description": "Auf der Dachterrasse am Citybeach erwarten dich neun verschiedene Stand-up Comedy Shows mit frischen Newcomer:innen und bekannten Gesichtern aus dem deutschsprachigen Raum. Dazu gibt’s Drinks und den Blick auf die Elbe, was das Ganze zu einer entspannten Sommerpause macht 😌",
@@ -6271,6 +6261,16 @@
         "link": "https://rausgegangen.de/en/events/smile-gisela-1109-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Yi2YCrgpTbGBt2OoWIOw_smile-fb-layout.jpg?width=1200&height=900&mode=crop",
         "city": "Dresden"
+    },
+    {
+        "date": "Fri, 11.09.2026",
+        "time": "20:00",
+        "event": "Craft Comedy Club (@Butschern Bar am Sielwall)",
+        "category": "",
+        "description": "Der Craft Comedy Club präsentiert euch einige der besten Nachwuchs Comedians aus Hamburg, Bremen und Niedersachsen. Im Gegensatz zu unseren Open Mics treten die Comedians nur mit getestetem und erprobtem Material auf. Bei den Open Mics von Craft Comedy treten mehrmals im Monat Nachwuchs Comedians aus ganz Deutschland auf. Die besten von ihnen wollen euch nun längere und erprobte Sets in ihrer Finalfassung präsentieren. Sie bringen neue und innovative Stand-up Comedy mit, mit der sie schon jeden Monat hunderte Menschen unterhalten.  Es werden vier unterschiedliche Comedians auftreten. Von denen bringt jede*r ihre*seine ganz eigenen Storys und verrückten Beobachtungen mit. Von Geschichten aus dem Büroalltag bis zu den Gedanken eines Eichhörnchens ist alles dabei. Hier findet Comedy auf Augenhöhe statt, denn die Comedians nehmen sich selbst nicht zu ernst und sind oft genug die Leidtragenden ihrer eigenen Storys. Bei Craft Comedy ist es uns wichtig, die deutsche Stand-up Landschaft zu verändern und allen Menschen eine Bühne zu bieten. Außerdem wollen wir, dass so viele Menschen wie möglich unsere Shows genießen können, weshalb es uns wichtig ist, nicht für einen Lacher nach unten zu treten, sondern ehrliche und gute Comedy auf die Bühne zu bringen. Bei unseren Veranstaltungen werden Foto und Viedeoaufnahmen gemacht. Diese nutzen wir zu Werbezwecken unteranderem auf unseren Social-Media Kanälen. Bei Fragen oder Wiederspruch kontakt ihr uns gerne.",
+        "link": "https://rausgegangen.de/en/events/craft-comedy-club-12/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zO0XqQYSVagXar4c1uwn_craft-comedy-club-profil-bild.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Fri, 11.09.2026",
@@ -6467,6 +6467,16 @@
     },
     {
         "date": "Sat, 12.09.2026",
+        "time": "22:00",
+        "event": "Alternative Block Party (@GrooveStation)",
+        "category": "",
+        "description": "Die Alternative Block Party verbindet Punk-Wurzeln mit tanzbaren Hits und überraschenden Momenten, die aus über zehn Jahren Bühnen- und DJ-Erfahrung entstehen. Hier treffen Emo, Alternative Rock und Pop Punk auf eine Playlist, die alle zum Mitsingen bringt und erst bei Oasis ausklingt 🕺",
+        "link": "https://rausgegangen.de/en/events/alternative-block-party-12/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/6lrxo62qdtqq.jpg?width=1200&height=900&mode=crop",
+        "city": "Dresden"
+    },
+    {
+        "date": "Sat, 12.09.2026",
         "time": "19:00",
         "event": "QUIZTRONAUTEN - Quiz in Findorff (@Veganes Küchen Kollektiv)",
         "category": "",
@@ -6484,16 +6494,6 @@
         "link": "https://rausgegangen.de/en/events/schnack-stand-up-comedy-in-bremen-5/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/6yeuLDcQyyeSJvUtz6Ig_rgg-slide-169.png?width=1200&height=900&mode=crop",
         "city": "Bremen"
-    },
-    {
-        "date": "Sat, 12.09.2026",
-        "time": "22:00",
-        "event": "Alternative Block Party (@GrooveStation)",
-        "category": "",
-        "description": "Die Alternative Block Party verbindet Punk-Wurzeln mit tanzbaren Hits und überraschenden Momenten, die aus über zehn Jahren Bühnen- und DJ-Erfahrung entstehen. Hier treffen Emo, Alternative Rock und Pop Punk auf eine Playlist, die alle zum Mitsingen bringt und erst bei Oasis ausklingt 🕺",
-        "link": "https://rausgegangen.de/en/events/alternative-block-party-12/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/6lrxo62qdtqq.jpg?width=1200&height=900&mode=crop",
-        "city": "Dresden"
     },
     {
         "date": "Sat, 12.09.2026",
@@ -7695,22 +7695,22 @@
     {
         "date": "Fri, 18.09.2026",
         "time": "20:00",
-        "event": "PARTY ABBA MIT-SING KONZERT (@Musikpalette Essen)",
-        "category": "",
-        "description": "🔥 DIE ABBA PARTY KOMMT – BIST DU BEREIT?! 🔥Tauche ein in die wildeste 70er-Nacht deines Lebens – wenn die legendäre Musik von ABBA deine Stadt übernimmt! 💃🕺✨ Das erwartet dich:Mitreißende Live-Acts (oft direkt vor Ort!)Die größten ABBA-Hits zum Mitsingen & AusrastenGlitzer, Vibes & pure Disco-EnergieInteraktive Show-Elemente – DU bist Teil der Party!🚨 Und dann passiert es... Der Moment, auf den alle warten: „Dancing Queen“ droppt – und die ganze Crowd explodiert. Gänsehaut garantiert.💥 Egal ob Hardcore-Fan oder einfach Bock auf eine kranke Partynacht: Das wird NICHT einfach ein Event – das wird ein Erlebnis.👉 Tickets gehen schnell weg – sichere dir jetzt deinen Spot, bevor alles ausverkauft ist!",
-        "link": "https://rausgegangen.de/en/events/mamma-mia-party-abba-mit-sing-konzert-6/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jJ1n7HXSTeoAHH60tKc3_b8222289-2210-42af-b713-96eb0decd7ba.png?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Fri, 18.09.2026",
-        "time": "20:00",
         "event": "Crucchi Gang (@JunkYard Dortmund)",
         "category": "",
         "description": "Benvenuti in Italia, Amore e Musica – Musik, die unsere große Liebe zu Italien feiert und nach Sommer, Disco, Eis und, ja!, Europa klingt. Geboren wurde die Idee in Berlin, irgendwann nach dem Besuch eines Bob-Dylan-Konzerts, beim gemeinsamen Biertrinken von Charlotte Goltermann, Sven Regener und Francesco Wilking: Deutschsprachige Musiker und Musikerinnen singen ihre eigenen Songs auf Italienisch und daraus wird eine Platte! Und hier ist sie nun. Willkommen bei der „Crucchi Gang“!",
         "link": "https://rausgegangen.de/en/events/crucchi-gang-9/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/uzqrybhh9ufz.jpg?width=1200&height=900&mode=crop",
         "city": "Dortmund"
+    },
+    {
+        "date": "Fri, 18.09.2026",
+        "time": "20:00",
+        "event": "PARTY ABBA MIT-SING KONZERT (@Musikpalette Essen)",
+        "category": "",
+        "description": "🔥 DIE ABBA PARTY KOMMT – BIST DU BEREIT?! 🔥Tauche ein in die wildeste 70er-Nacht deines Lebens – wenn die legendäre Musik von ABBA deine Stadt übernimmt! 💃🕺✨ Das erwartet dich:Mitreißende Live-Acts (oft direkt vor Ort!)Die größten ABBA-Hits zum Mitsingen & AusrastenGlitzer, Vibes & pure Disco-EnergieInteraktive Show-Elemente – DU bist Teil der Party!🚨 Und dann passiert es... Der Moment, auf den alle warten: „Dancing Queen“ droppt – und die ganze Crowd explodiert. Gänsehaut garantiert.💥 Egal ob Hardcore-Fan oder einfach Bock auf eine kranke Partynacht: Das wird NICHT einfach ein Event – das wird ein Erlebnis.👉 Tickets gehen schnell weg – sichere dir jetzt deinen Spot, bevor alles ausverkauft ist!",
+        "link": "https://rausgegangen.de/en/events/mamma-mia-party-abba-mit-sing-konzert-6/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jJ1n7HXSTeoAHH60tKc3_b8222289-2210-42af-b713-96eb0decd7ba.png?width=1200&height=900&mode=crop",
+        "city": "Essen"
     },
     {
         "date": "Fri, 18.09.2026",
@@ -7799,16 +7799,6 @@
     },
     {
         "date": "Sat, 19.09.2026",
-        "time": "19:00",
-        "event": "QUIZTRONAUTEN - Quiz in der Neustadt (@bali`ku)",
-        "category": "",
-        "description": "Schnapp dir deine Crew und erkundet Bremen auf eine ganz neue Art, während ihr bei Quiztronauten spannende Fragen und clevere Rätsel direkt auf dem Smartphone löst. Das digitale Format verbindet Stadtwissen mit Spaß und bietet sogar Chancen auf coole Preise 🫂",
-        "link": "https://rausgegangen.de/en/events/quiztronauten-quiz-in-der-neustadt-7/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/0iY5AyMtROGP3kClSRaD_rausgegangen-fomo-titel-21.png?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Sat, 19.09.2026",
         "time": "22:00",
         "event": "I Bet You Look Good On The Dancefloor w/ !Mauf (@GrooveStation)",
         "category": "",
@@ -7826,6 +7816,16 @@
         "link": "https://rausgegangen.de/en/events/nostalgia-mega-90er-rave-dresden-1909-0/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/jHBVpr8oSi2uOc34kxNC_fb-layout-nostalgia.jpg?width=1200&height=900&mode=crop",
         "city": "Dresden"
+    },
+    {
+        "date": "Sat, 19.09.2026",
+        "time": "19:00",
+        "event": "QUIZTRONAUTEN - Quiz in der Neustadt (@bali`ku)",
+        "category": "",
+        "description": "Schnapp dir deine Crew und erkundet Bremen auf eine ganz neue Art, während ihr bei Quiztronauten spannende Fragen und clevere Rätsel direkt auf dem Smartphone löst. Das digitale Format verbindet Stadtwissen mit Spaß und bietet sogar Chancen auf coole Preise 🫂",
+        "link": "https://rausgegangen.de/en/events/quiztronauten-quiz-in-der-neustadt-7/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/0iY5AyMtROGP3kClSRaD_rausgegangen-fomo-titel-21.png?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Sat, 19.09.2026",
@@ -8027,16 +8027,6 @@
     },
     {
         "date": "Tue, 22.09.2026",
-        "time": "19:30",
-        "event": "7STAGES COMEDY OPEN MIC (@Nesifa Café & Bar)",
-        "category": "",
-        "description": "Frische Gags, lockere Stimmung und ein Headliner obendrauf – hier wird Stand-Up zum Wohlfühlabend! 🎤😄",
-        "link": "https://rausgegangen.de/en/events/7stages-comedy-open-mic-61/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/t0kQ9GErR0S5v2PyrfmL_rausgegangen-flyer-5.jpg?width=1200&height=900&mode=crop",
-        "city": "Essen"
-    },
-    {
-        "date": "Tue, 22.09.2026",
         "time": "19:00",
         "event": "jolle – „ballons halten tour 2026“ (@FZW Dortmund)",
         "category": "",
@@ -8054,6 +8044,16 @@
         "link": "https://rausgegangen.de/en/events/jolle-ballons-halten-tour-2026-4/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/K6eYVkJtTiW0wKC2p6XI_260209jollebalance031188.jpg?width=1200&height=900&mode=crop",
         "city": "Dortmund"
+    },
+    {
+        "date": "Tue, 22.09.2026",
+        "time": "19:30",
+        "event": "7STAGES COMEDY OPEN MIC (@Nesifa Café & Bar)",
+        "category": "",
+        "description": "Frische Gags, lockere Stimmung und ein Headliner obendrauf – hier wird Stand-Up zum Wohlfühlabend! 🎤😄",
+        "link": "https://rausgegangen.de/en/events/7stages-comedy-open-mic-61/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/t0kQ9GErR0S5v2PyrfmL_rausgegangen-flyer-5.jpg?width=1200&height=900&mode=crop",
+        "city": "Essen"
     },
     {
         "date": "Tue, 22.09.2026",
@@ -8242,6 +8242,26 @@
     },
     {
         "date": "Fri, 25.09.2026",
+        "time": "22:00",
+        "event": "Teenage Dream (@GrooveStation)",
+        "category": "",
+        "description": "Erinnerst du dich noch an die Zeit, als VIVA nonstop die Hits unserer Jugend spielte? Von Katy Perry bis Rihanna gibt’s hier die Pop-Hymnen der 2010er, die dich auf eine nostalgische Reise voller Glitzer und guter Laune mitnehmen 🕺",
+        "link": "https://rausgegangen.de/en/events/teenage-dream-107/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/1j0c9wccdhoq.jpg?width=1200&height=900&mode=crop",
+        "city": "Dresden"
+    },
+    {
+        "date": "Fri, 25.09.2026",
+        "time": "23:00",
+        "event": "Wilde Herzen • Die Indie Pop Party mit deutschen Texten • Paula Dresden (@Club Paula)",
+        "category": "",
+        "description": "Wilde Herzen mixt deutsche Indie Pop Hits von Krautrock bis Lena Meyer-Landrut zu einer Playlist, die du mit deiner besten Person lauthals abfeiern kannst. Freu dich auf Tracks, die vertraut klingen und doch jedes Mal neu zünden 👯‍♀️",
+        "link": "https://rausgegangen.de/en/events/wilde-herzen-die-indie-pop-party-mit-deutschen-texten-paula--6/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Ijy3ebdSTYyqEo6SjVOt_wh-banner-neutral-ohne-fruhling.png?width=1200&height=900&mode=crop",
+        "city": "Dresden"
+    },
+    {
+        "date": "Fri, 25.09.2026",
         "time": "12:00",
         "event": "GrillGut Bremen (@MESSE BREMEN)",
         "category": "",
@@ -8279,26 +8299,6 @@
         "link": "https://rausgegangen.de/en/events/craft-comedy-club-13/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/zO0XqQYSVagXar4c1uwn_craft-comedy-club-profil-bild.png?width=1200&height=900&mode=crop",
         "city": "Bremen"
-    },
-    {
-        "date": "Fri, 25.09.2026",
-        "time": "22:00",
-        "event": "Teenage Dream (@GrooveStation)",
-        "category": "",
-        "description": "Erinnerst du dich noch an die Zeit, als VIVA nonstop die Hits unserer Jugend spielte? Von Katy Perry bis Rihanna gibt’s hier die Pop-Hymnen der 2010er, die dich auf eine nostalgische Reise voller Glitzer und guter Laune mitnehmen 🕺",
-        "link": "https://rausgegangen.de/en/events/teenage-dream-107/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//rausgegangen.s3.amazonaws.com/1j0c9wccdhoq.jpg?width=1200&height=900&mode=crop",
-        "city": "Dresden"
-    },
-    {
-        "date": "Fri, 25.09.2026",
-        "time": "23:00",
-        "event": "Wilde Herzen • Die Indie Pop Party mit deutschen Texten • Paula Dresden (@Club Paula)",
-        "category": "",
-        "description": "Wilde Herzen mixt deutsche Indie Pop Hits von Krautrock bis Lena Meyer-Landrut zu einer Playlist, die du mit deiner besten Person lauthals abfeiern kannst. Freu dich auf Tracks, die vertraut klingen und doch jedes Mal neu zünden 👯‍♀️",
-        "link": "https://rausgegangen.de/en/events/wilde-herzen-die-indie-pop-party-mit-deutschen-texten-paula--6/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Ijy3ebdSTYyqEo6SjVOt_wh-banner-neutral-ohne-fruhling.png?width=1200&height=900&mode=crop",
-        "city": "Dresden"
     },
     {
         "date": "Fri, 25.09.2026",
@@ -8512,16 +8512,6 @@
     },
     {
         "date": "Sat, 26.09.2026",
-        "time": "10:00",
-        "event": "TrauZeit Bremen (@MESSE BREMEN)",
-        "category": "",
-        "description": "TrauZeit Bremen – Eure Hochzeitsmesse mit HerzOb romantisch, modern oder ganz individuell – bei der TrauZeit Bremen findet ihr alles, was euer Herz höherschlagen lässt. Lasst euch inspirieren von stilvollen Ideen, entdeckt die neuesten Hochzeitstrends und trefft Expert:innen, die euch mit Leidenschaft und Kreativität bei der Planung eures großen Tages unterstützen. Vom perfekten Kleid über einzigartige Deko bis hin zur Traumlocation: Hier beginnt eure persönliche Liebesgeschichte.Kommt vorbei und macht eure Trau(m)zeit zur schönsten Zeit!",
-        "link": "https://rausgegangen.de/en/events/trauzeit-bremen-2/",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/uDpFWd9xRMKxrgu2g0F9_tz26led-wand12184x1344px-01.jpg?width=1200&height=900&mode=crop",
-        "city": "Bremen"
-    },
-    {
-        "date": "Sat, 26.09.2026",
         "time": "22:00",
         "event": "Indie Kisses (@GrooveStation)",
         "category": "",
@@ -8539,6 +8529,16 @@
         "link": "https://rausgegangen.de/en/events/u30-party-dresden-5/",
         "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/WZM82tqxRjihwRyznIoV_260505-u30-dresden-2609-teaser.jpg?width=1200&height=900&mode=crop",
         "city": "Dresden"
+    },
+    {
+        "date": "Sat, 26.09.2026",
+        "time": "10:00",
+        "event": "TrauZeit Bremen (@MESSE BREMEN)",
+        "category": "",
+        "description": "TrauZeit Bremen – Eure Hochzeitsmesse mit HerzOb romantisch, modern oder ganz individuell – bei der TrauZeit Bremen findet ihr alles, was euer Herz höherschlagen lässt. Lasst euch inspirieren von stilvollen Ideen, entdeckt die neuesten Hochzeitstrends und trefft Expert:innen, die euch mit Leidenschaft und Kreativität bei der Planung eures großen Tages unterstützen. Vom perfekten Kleid über einzigartige Deko bis hin zur Traumlocation: Hier beginnt eure persönliche Liebesgeschichte.Kommt vorbei und macht eure Trau(m)zeit zur schönsten Zeit!",
+        "link": "https://rausgegangen.de/en/events/trauzeit-bremen-2/",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/uDpFWd9xRMKxrgu2g0F9_tz26led-wand12184x1344px-01.jpg?width=1200&height=900&mode=crop",
+        "city": "Bremen"
     },
     {
         "date": "Sat, 26.09.2026",
