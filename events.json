@@ -438,20 +438,20 @@
         "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1149914903%2F458602689502%2F1%2Foriginal.jpg?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=9fe71dc7482ee7b9a2010ffe02860068"
     },
     {
-        "date": "Mi, 09.09.2026",
-        "time": "17:00",
-        "event": "Die Odyssee (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Abenteuer & Fantasy",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
-    },
-    {
         "date": "Mi, 09.09",
         "time": "23:00",
         "event": "FR• FRIDAYS FINEST (@cafe_europa_bi)",
         "category": "Party",
         "link": "https://cafeeuropa.de/event/fr-fridays-finest-10/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/07/20260911_FridaysFinest_4zu5.jpg"
+    },
+    {
+        "date": "Mi, 09.09.2026",
+        "time": "17:00",
+        "event": "Die Odyssee (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Abenteuer & Fantasy",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Mi, 09.09.2026",
@@ -736,6 +736,14 @@
     },
     {
         "date": "Th, 10.09.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 10.09.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -781,14 +789,6 @@
         "category": "Kino",
         "genre": "Abenteuer & Fantasy",
         "link": "https://kino.cylex.de/cinemaxx-5994747/"
-    },
-    {
-        "date": "Th, 10.09.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Do, 10.09.2026",
@@ -1070,12 +1070,12 @@
         "image_url": null
     },
     {
-        "date": "Fr, 11.09.2026",
-        "time": "17:00",
-        "event": "Die Odyssee (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Abenteuer & Fantasy",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+        "date": "Fr, 11.09",
+        "time": "23:00",
+        "event": "SA • BACK TO THE ROOTS pres. LEFTSIDE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-back-to-the-roots-pres-leftside/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/08/20260912_BTTR_4zu5.jpg"
     },
     {
         "date": "Fri, 11.09",
@@ -1084,6 +1084,14 @@
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/morecore-party-bielefeld-auf-3-floors/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/07/WhatsApp-Image-2026-08-02-at-09.10.20.jpeg"
+    },
+    {
+        "date": "Fr, 11.09.2026",
+        "time": "17:00",
+        "event": "Die Odyssee (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Abenteuer & Fantasy",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Fr, 11.09.2026",
@@ -1236,14 +1244,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Sa, 12.09.2026",
-        "time": "17:00",
-        "event": "Die Odyssee (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Abenteuer & Fantasy",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
-    },
-    {
         "date": "Sa, 12.09",
         "time": "23:00",
         "event": "MI • WEDNESDATE (@cafe_europa_bi)",
@@ -1266,6 +1266,14 @@
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/block-afro-yard/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/08/Stereo_12_0926_Feed2.jpg"
+    },
+    {
+        "date": "Sa, 12.09.2026",
+        "time": "17:00",
+        "event": "Die Odyssee (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Abenteuer & Fantasy",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Sa, 12.09.2026",
@@ -1346,6 +1354,13 @@
         "event": "SENSUS-PARTY (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/sensus-party-3/",
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
+    },
+    {
+        "date": "Sa, 12.09",
+        "time": "",
+        "event": "Italo Disco (@nr.z.p)",
+        "link": "https://nrzp.de/event/italo-disco-3",
+        "image_url": "https://nrzp.de/wp-content/uploads/2026/06/italo_final.jpg"
     },
     {
         "date": "Sat, 12.09.2026",
@@ -1436,13 +1451,6 @@
         "description": "Dirty Blues Rock",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/webform/termine_melden/21344/devils.jpg?itok=OoM7daiz",
         "link": "https://www.bielefeld.jetzt/node/1983533"
-    },
-    {
-        "date": "Sa, 12.09",
-        "time": "",
-        "event": "Italo Disco (@nr.z.p)",
-        "link": "https://nrzp.de/event/italo-disco-3",
-        "image_url": "https://nrzp.de/wp-content/uploads/2026/06/italo_final.jpg"
     },
     {
         "date": "Su, 13.09.2026",
@@ -2468,6 +2476,13 @@
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
+        "date": "Mi, 16.09",
+        "time": "",
+        "event": "Krakeln (@nr.z.p)",
+        "link": "https://nrzp.de/event/krakeln-30",
+        "image_url": "https://nrzp.de/wp-content/uploads/2024/10/Banner-Instagram-Post.zip-2.png"
+    },
+    {
         "date": "Wed, 16.09.2026",
         "time": "19:00",
         "event": "***Ausgebucht*** Hannes Wader: Trotz alledem - Heimat in Dornberg gestern und heute (@Stadtteilbibliothek Dornberg)",
@@ -2477,19 +2492,20 @@
         "link": "https://www.bielefeld.jetzt/node/1908855"
     },
     {
-        "date": "Mi, 16.09",
-        "time": "",
-        "event": "Krakeln (@nr.z.p)",
-        "link": "https://nrzp.de/event/krakeln-30",
-        "image_url": "https://nrzp.de/wp-content/uploads/2024/10/Banner-Instagram-Post.zip-2.png"
-    },
-    {
         "date": "Th, 17.09.2026",
         "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 17.09.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 17.09.2026",
@@ -2530,14 +2546,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 17.09.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Do, 17.09.2026",
@@ -2736,6 +2744,13 @@
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
+        "date": "Do, 17.09",
+        "time": "23:00",
+        "event": "Ping Pong (@nr.z.p)",
+        "link": "https://nrzp.de/event/ping-pong-9",
+        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/1.jpg"
+    },
+    {
         "date": "Thu, 17.09.2026",
         "time": "20:00",
         "event": "Cara Rose (@Lokschuppen)",
@@ -2743,13 +2758,6 @@
         "description": "Tel. 0521 55774555 (Erreichbar von Mo-Do 9-15 Uhr | Fr 9-13 Uhr) Fax 0521 55774510 info@bielefeld-marketing.de https://www.bielefeld-marketing.de",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/cara-rose-tickets-2026.jpg?itok=iPQV5Cme",
         "link": "https://www.bielefeld.jetzt/node/1659195"
-    },
-    {
-        "date": "Do, 17.09",
-        "time": "",
-        "event": "Ping Pong (@nr.z.p)",
-        "link": "https://nrzp.de/event/ping-pong-9",
-        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/1.jpg"
     },
     {
         "date": "Fr, 18.09.2026",
@@ -2820,6 +2828,13 @@
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
+        "date": "Fr, 18.09",
+        "time": "19:00",
+        "event": "Gib mir alles (@nr.z.p)",
+        "link": "https://nrzp.de/event/gib-mir-alles",
+        "image_url": "https://nrzp.de/wp-content/uploads/2026/08/IMG_7084.png"
+    },
+    {
         "date": "Fri, 18.09.2026",
         "time": "18:00",
         "event": "Kultur unter der Platane (@Stadtteilbibliothek Brackwede)",
@@ -2845,13 +2860,6 @@
         "description": "Blues Rock aus dem Schwarzwald",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/webform/termine_melden/21243/blue-deal-1_1024q.jpg?itok=OTW-29k7",
         "link": "https://www.bielefeld.jetzt/node/1963963"
-    },
-    {
-        "date": "Fr, 18.09",
-        "time": "",
-        "event": "Gib mir alles (@nr.z.p)",
-        "link": "https://nrzp.de/event/gib-mir-alles",
-        "image_url": "https://nrzp.de/wp-content/uploads/2026/08/IMG_7084.png"
     },
     {
         "date": "Sa, 19.09.2026",
@@ -2979,7 +2987,7 @@
     },
     {
         "date": "Sat, 19.09.2026",
-        "time": "17:00",
+        "time": null,
         "event": "Wein, Käse, Literatur und Musik (@Theaterhaus Feilenstraße)",
         "category": "Eine Lesung voller Geschmack",
         "description": "Eine Lesung voller Geschmack",
@@ -3370,7 +3378,7 @@
         "time": "",
         "event": "Tanztreff (@nr.z.p)",
         "link": "https://nrzp.de/event/tanztreff-14",
-        "image_url": ""
+        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/Logo_small-150x150.png"
     },
     {
         "date": "Th, 24.09.2026",
@@ -3379,6 +3387,14 @@
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 24.09.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 24.09.2026",
@@ -3419,14 +3435,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 24.09.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "event": "Vor Ort: Kreativer Spaziergang auf dem Sennefriedhof (@volkshochschule.bielefeld)",
@@ -3500,7 +3508,7 @@
     },
     {
         "date": "Do, 24.09",
-        "time": "",
+        "time": "23:00",
         "event": "Ping Pong (@nr.z.p)",
         "link": "https://nrzp.de/event/ping-pong-10",
         "image_url": "https://nrzp.de/wp-content/uploads/2023/02/1.jpg"
@@ -3682,6 +3690,13 @@
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
+        "date": "Sa, 26.09",
+        "time": "",
+        "event": "Pop off (@nr.z.p)",
+        "link": "https://nrzp.de/event/pop-off",
+        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/Logo_small-150x150.png"
+    },
+    {
         "date": "Sat, 26.09.2026",
         "time": "14:00",
         "event": "EinTags!Chor - ONE DAY CHOIR (@Historisches Museum Bielefeld)",
@@ -3725,13 +3740,6 @@
         "description": "Soulful Garage Punk",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/webform/termine_melden/21346/asss-bandfoto-4.jpg?itok=-O0WUQuy",
         "link": "https://www.bielefeld.jetzt/node/1983537"
-    },
-    {
-        "date": "Sa, 26.09",
-        "time": "",
-        "event": "Pop off (@nr.z.p)",
-        "link": "https://nrzp.de/event/pop-off",
-        "image_url": ""
     },
     {
         "date": "Su, 27.09.2026",
@@ -3818,6 +3826,13 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Di, 29.09",
+        "time": "",
+        "event": "AFAR (@nr.z.p)",
+        "link": "https://nrzp.de/event/afar",
+        "image_url": "https://nrzp.de/wp-content/uploads/2026/06/AFAR-1-scaled.jpg"
+    },
+    {
         "date": "Tue, 29.09.2026",
         "time": "20:00",
         "event": "Giant Rooks - IF HEAVEN EXISTS, THIS MIGHT BE IT TOUR 2026 (@Lokschuppen)",
@@ -3825,13 +3840,6 @@
         "description": "Tel. 0521 55774555 (Erreichbar von Mo-Do 9-15 Uhr | Fr 9-13 Uhr) Fax 0521 55774510 info@bielefeld-marketing.de https://www.bielefeld-marketing.de",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/giant-rooks-tickets-2025.jpg?itok=E2F0uh88",
         "link": "https://www.bielefeld.jetzt/node/1400550"
-    },
-    {
-        "date": "Di, 29.09",
-        "time": "",
-        "event": "AFAR (@nr.z.p)",
-        "link": "https://nrzp.de/event/afar",
-        "image_url": "https://nrzp.de/wp-content/uploads/2026/06/AFAR-1-scaled.jpg"
     },
     {
         "date": "We, 30.09.2026",
@@ -3888,6 +3896,14 @@
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
+        "date": "Th, 01.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
         "date": "Thu, 01.10",
         "time": "22:00",
         "event": "Ersti Party (@sams_bielefeld)",
@@ -3936,12 +3952,11 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Th, 01.10.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+        "date": "Do, 01.10",
+        "time": "23:00",
+        "event": "Ping Pong (@nr.z.p)",
+        "link": "https://nrzp.de/event/ping-pong-11",
+        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/1.jpg"
     },
     {
         "date": "Thu, 01.10.2026",
@@ -3969,13 +3984,6 @@
         "description": "Tel. 0521 55774555 (Erreichbar von Mo-Do 9-15 Uhr | Fr 9-13 Uhr) Fax 0521 55774510 info@bielefeld-marketing.de https://www.bielefeld-marketing.de",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/beatrice-egli-tickets-2025_0.jpg?itok=bqogJIHh",
         "link": "https://www.bielefeld.jetzt/node/2015800"
-    },
-    {
-        "date": "Do, 01.10",
-        "time": "",
-        "event": "Ping Pong (@nr.z.p)",
-        "link": "https://nrzp.de/event/ping-pong-11",
-        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/1.jpg"
     },
     {
         "date": "Fri, 02.10",
@@ -4072,6 +4080,13 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/07/20261007_ErstiParty_4zu5.jpg"
     },
     {
+        "date": "Sa, 03.10",
+        "time": "",
+        "event": "Sektempfang (@nr.z.p)",
+        "link": "https://nrzp.de/event/sektempfang-8",
+        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/Logo_small-150x150.png"
+    },
+    {
         "date": "Sat, 03.10.2026",
         "time": "10:00",
         "event": "Apfeltag auf Hof Ramsbrock (@Hof Ramsbrock)",
@@ -4124,13 +4139,6 @@
         "description": "Psych-Rock-Explosion aus Lissabon: El Saguaro bringen den rohen Sound der 70er-Jahre zurück auf europäische Bühnen",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/webform/termine_melden/21745/saguaro_band_online.png?itok=Pr-cfa40",
         "link": "https://www.bielefeld.jetzt/node/2034714"
-    },
-    {
-        "date": "Sa, 03.10",
-        "time": "",
-        "event": "Sektempfang (@nr.z.p)",
-        "link": "https://nrzp.de/event/sektempfang-8",
-        "image_url": ""
     },
     {
         "date": "Su, 04.10.2026",
@@ -4283,6 +4291,14 @@
     },
     {
         "date": "Th, 08.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 08.10.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -4320,14 +4336,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 08.10.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 08.10",
@@ -4473,6 +4481,13 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Sa, 10.10",
+        "time": "",
+        "event": "Intermusica (@nr.z.p)",
+        "link": "https://nrzp.de/event/intermusica-11",
+        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/Logo_small-150x150.png"
+    },
+    {
         "date": "Sat, 10.10.2026",
         "time": null,
         "event": "Wildman (NL)  - Nachholtermin (@Bielefelder Jazzclub e.V.)",
@@ -4489,13 +4504,6 @@
         "description": "Tel. 0521 55774555 (Erreichbar von Mo-Do 9-15 Uhr | Fr 9-13 Uhr) Fax 0521 55774510 info@bielefeld-marketing.de https://www.bielefeld-marketing.de",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/die-schmonzetten-tickets_599093_4560398_222x222.jpg?itok=PP0D509s",
         "link": "https://www.bielefeld.jetzt/node/2004131"
-    },
-    {
-        "date": "Sa, 10.10",
-        "time": "",
-        "event": "Intermusica (@nr.z.p)",
-        "link": "https://nrzp.de/event/intermusica-11",
-        "image_url": ""
     },
     {
         "date": "Su, 11.10.2026",
@@ -4638,6 +4646,14 @@
     },
     {
         "date": "Th, 15.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 15.10.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -4677,18 +4693,17 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Th, 15.10.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
         "date": "Th, 15.10",
         "event": "Abdul Kader Chahin (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/abdul-kader-chahin-2/",
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
+    },
+    {
+        "date": "Do, 15.10",
+        "time": "23:00",
+        "event": "Ping Pong (@nr.z.p)",
+        "link": "https://nrzp.de/event/ping-pong-12",
+        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/1.jpg"
     },
     {
         "date": "Thu, 15.10.2026",
@@ -4698,13 +4713,6 @@
         "description": "Gitarrenkonzert",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/webform/termine_melden/21394/schippi3.jpeg?itok=p8OzXqw3",
         "link": "https://www.bielefeld.jetzt/node/1988056"
-    },
-    {
-        "date": "Do, 15.10",
-        "time": "",
-        "event": "Ping Pong (@nr.z.p)",
-        "link": "https://nrzp.de/event/ping-pong-12",
-        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/1.jpg"
     },
     {
         "date": "Fri, 16.10",
@@ -4972,6 +4980,13 @@
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
+        "date": "Mi, 21.10",
+        "time": "",
+        "event": "Krakeln (@nr.z.p)",
+        "link": "https://nrzp.de/event/krakeln-31",
+        "image_url": "https://nrzp.de/wp-content/uploads/2024/10/Banner-Instagram-Post.zip-2.png"
+    },
+    {
         "date": "Wed, 21.10.2026",
         "time": "20:00",
         "event": "Nights on Broadway - A Tribute to the Bee Gees performed by Night Fever (@Stadthalle Bielefeld)",
@@ -4981,19 +4996,20 @@
         "link": "https://www.bielefeld.jetzt/node/732684"
     },
     {
-        "date": "Mi, 21.10",
-        "time": "",
-        "event": "Krakeln (@nr.z.p)",
-        "link": "https://nrzp.de/event/krakeln-31",
-        "image_url": "https://nrzp.de/wp-content/uploads/2024/10/Banner-Instagram-Post.zip-2.png"
-    },
-    {
         "date": "Th, 22.10.2026",
         "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 22.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 22.10.2026",
@@ -5036,12 +5052,11 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Th, 22.10.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+        "date": "Do, 22.10",
+        "time": "23:00",
+        "event": "Ping Pong (@nr.z.p)",
+        "link": "https://nrzp.de/event/ping-pong-13",
+        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/1.jpg"
     },
     {
         "date": "Thu, 22.10.2026",
@@ -5060,13 +5075,6 @@
         "description": "Tel. 0521 55774555 (Erreichbar von Mo-Do 9-15 Uhr | Fr 9-13 Uhr) Fax 0521 55774510 info@bielefeld-marketing.de https://www.bielefeld-marketing.de",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/kaerbholz----...--tour-2026-tickets_423612_3467270_222x222.jpg?itok=FDpg_aq2",
         "link": "https://www.bielefeld.jetzt/node/1220057"
-    },
-    {
-        "date": "Do, 22.10",
-        "time": "",
-        "event": "Ping Pong (@nr.z.p)",
-        "link": "https://nrzp.de/event/ping-pong-13",
-        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/1.jpg"
     },
     {
         "date": "Fr, 23.10.2026",
@@ -5310,7 +5318,7 @@
         "time": "",
         "event": "Tanztreff (@nr.z.p)",
         "link": "https://nrzp.de/event/tanztreff-15",
-        "image_url": ""
+        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/Logo_small-150x150.png"
     },
     {
         "date": "Th, 29.10.2026",
@@ -5319,6 +5327,14 @@
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 29.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 29.10.2026",
@@ -5361,16 +5377,8 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Th, 29.10.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
         "date": "Do, 29.10",
-        "time": "",
+        "time": "23:00",
         "event": "Ping Pong (@nr.z.p)",
         "link": "https://nrzp.de/event/ping-pong-14",
         "image_url": "https://nrzp.de/wp-content/uploads/2023/02/1.jpg"
@@ -5498,6 +5506,13 @@
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/08/Stereo_31_1026_Feed.jpg"
     },
     {
+        "date": "Sa, 31.10",
+        "time": "",
+        "event": "Alternative Paradise (@nr.z.p)",
+        "link": "https://nrzp.de/event/alternative-paradise",
+        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/Logo_small-150x150.png"
+    },
+    {
         "date": "Sat, 31.10.2026",
         "time": "20:00",
         "event": "Remode - The Music of Depeche Mode (@Lokschuppen)",
@@ -5514,13 +5529,6 @@
         "description": "PLACEBO & artverwandtes aus Indie & Rock",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/webform/termine_melden/21407/img_7857.jpeg?itok=8XzpnIyn",
         "link": "https://www.bielefeld.jetzt/node/1990290"
-    },
-    {
-        "date": "Sa, 31.10",
-        "time": "",
-        "event": "Alternative Paradise (@nr.z.p)",
-        "link": "https://nrzp.de/event/alternative-paradise",
-        "image_url": ""
     },
     {
         "date": "Su, 01.11.2026",
@@ -5659,6 +5667,14 @@
     },
     {
         "date": "Th, 05.11.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 05.11.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -5698,18 +5714,17 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Th, 05.11.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
         "date": "Th, 05.11",
         "event": "Bruchbude (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/bruchbude-2/",
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
+    },
+    {
+        "date": "Do, 05.11",
+        "time": "23:00",
+        "event": "Ping Pong (@nr.z.p)",
+        "link": "https://nrzp.de/event/ping-pong-15",
+        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/1.jpg"
     },
     {
         "date": "Thu, 05.11.2026",
@@ -5719,13 +5734,6 @@
         "description": "Tel. 0521 55774555 (Erreichbar von Mo-Do 9-15 Uhr | Fr 9-13 Uhr) Fax 0521 55774510 info@bielefeld-marketing.de https://www.bielefeld-marketing.de",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/mirage---visions-of-fleetwood-mac-tickets_373577_3147628_222x222.jpg?itok=M6EyrZgA",
         "link": "https://www.bielefeld.jetzt/node/1372920"
-    },
-    {
-        "date": "Do, 05.11",
-        "time": "",
-        "event": "Ping Pong (@nr.z.p)",
-        "link": "https://nrzp.de/event/ping-pong-15",
-        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/1.jpg"
     },
     {
         "date": "Fr, 06.11.2026",
@@ -5793,6 +5801,13 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Sa, 07.11",
+        "time": "",
+        "event": "Basslab (@nr.z.p)",
+        "link": "https://nrzp.de/event/basslab-3",
+        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/Logo_small-150x150.png"
+    },
+    {
         "date": "Sat, 07.11.2026",
         "time": "19:00",
         "event": "TANKERKÖNIG - Wader, Mey & Co (@Gemeinschaftshaus Senne)",
@@ -5818,13 +5833,6 @@
         "description": "Die Live-Game-Show rund um Fakes, Mythen und Vorurteile",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/bild/2026/95_Fake-Show.jpg?itok=a-05eNWK",
         "link": "https://www.bielefeld.jetzt/node/1843585"
-    },
-    {
-        "date": "Sa, 07.11",
-        "time": "",
-        "event": "Basslab (@nr.z.p)",
-        "link": "https://nrzp.de/event/basslab-3",
-        "image_url": ""
     },
     {
         "date": "Su, 08.11.2026",
@@ -5959,6 +5967,14 @@
     },
     {
         "date": "Th, 12.11.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 12.11.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -5996,14 +6012,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 12.11.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Thu, 12.11.2026",
@@ -6228,6 +6236,13 @@
         "image_url": null
     },
     {
+        "date": "Mi, 18.11",
+        "time": "",
+        "event": "Krakeln (@nr.z.p)",
+        "link": "https://nrzp.de/event/krakeln-32",
+        "image_url": "https://nrzp.de/wp-content/uploads/2024/10/Banner-Instagram-Post.zip-2.png"
+    },
+    {
         "date": "Wed, 18.11.2026",
         "time": "20:00",
         "event": "The Irish Folk Festival 2026 - Gold dust in your pocket Tour (@Lokschuppen)",
@@ -6237,19 +6252,20 @@
         "link": "https://www.bielefeld.jetzt/node/1803231"
     },
     {
-        "date": "Mi, 18.11",
-        "time": "",
-        "event": "Krakeln (@nr.z.p)",
-        "link": "https://nrzp.de/event/krakeln-32",
-        "image_url": "https://nrzp.de/wp-content/uploads/2024/10/Banner-Instagram-Post.zip-2.png"
-    },
-    {
         "date": "Th, 19.11.2026",
         "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 19.11.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 19.11.2026",
@@ -6292,12 +6308,11 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Th, 19.11.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+        "date": "Do, 19.11",
+        "time": "23:00",
+        "event": "Ping Pong (@nr.z.p)",
+        "link": "https://nrzp.de/event/ping-pong-16",
+        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/1.jpg"
     },
     {
         "date": "Thu, 19.11.2026",
@@ -6316,13 +6331,6 @@
         "description": "Lars Eidinger gilt als einer der bedeutendsten Schauspieler seiner Generation. Am 19.11.2026 kommt er mit Bertolt Brechts Hauspostille in die Rudolf-Oetker-Halle nach Bielefeld. Kongenial begleitet von dem Musiker und Komponisten Hans Jörn Brandenburg am Klavier, Cembalo und Harmonium singt und liest Lars Eidinger aus Brechts Gedichtsammlung. Eidinger und Brandenburg nehmen einen tiefen Atemzug vom wilden Brecht und bringen dessen Lyrik und „Wasserleichenpoesie“ als schillerndes Gesamtkunstwerk auf die Bühne. Sie weiden sich an der schaurigen Schönheit des Morbiden, die schon Vorbild für Ikonen der Popkultur wie David Bowie, Iggy Pop oder Nick Cave war.",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_theater_bielefeld/Lars_Eidinger_by_Spyros_Rennt.jpg?itok=XSPcWbUK",
         "link": "https://www.bielefeld.jetzt/node/2039353"
-    },
-    {
-        "date": "Do, 19.11",
-        "time": "",
-        "event": "Ping Pong (@nr.z.p)",
-        "link": "https://nrzp.de/event/ping-pong-16",
-        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/1.jpg"
     },
     {
         "date": "Fr, 20.11.2026",
@@ -6521,7 +6529,7 @@
         "time": "",
         "event": "Tanztreff (@nr.z.p)",
         "link": "https://nrzp.de/event/tanztreff-16",
-        "image_url": ""
+        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/Logo_small-150x150.png"
     },
     {
         "date": "Th, 26.11.2026",
@@ -6530,6 +6538,14 @@
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 26.11.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 26.11.2026",
@@ -6572,20 +6588,19 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Th, 26.11.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
         "date": "Thu, 26.11",
         "time": "19:00",
         "event": "DOMINIK HARTZ – verstr!ckt Tour 2026 (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/dominik-hartz-verstrckt-tour-2026/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/07/dominik-hartz.png"
+    },
+    {
+        "date": "Do, 26.11",
+        "time": "23:00",
+        "event": "Ping Pong (@nr.z.p)",
+        "link": "https://nrzp.de/event/ping-pong-17",
+        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/1.jpg"
     },
     {
         "date": "Thu, 26.11.2026",
@@ -6595,13 +6610,6 @@
         "description": "Tel. 0521 55774555 (Erreichbar von Mo-Do 9-15 Uhr | Fr 9-13 Uhr) Fax 0521 55774510 info@bielefeld-marketing.de https://www.bielefeld-marketing.de",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/dominik-hartz-tickets-2026.jpg?itok=5vz63ugC",
         "link": "https://www.bielefeld.jetzt/node/1649731"
-    },
-    {
-        "date": "Do, 26.11",
-        "time": "",
-        "event": "Ping Pong (@nr.z.p)",
-        "link": "https://nrzp.de/event/ping-pong-17",
-        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/1.jpg"
     },
     {
         "date": "Fr, 27.11.2026",
@@ -6841,6 +6849,14 @@
     },
     {
         "date": "Th, 03.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 03.12.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -6880,14 +6896,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Th, 03.12.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
         "date": "Th, 03.12",
         "event": "Monet 192ausverkauft! (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/monet-192/",
@@ -6895,7 +6903,7 @@
     },
     {
         "date": "Do, 03.12",
-        "time": "",
+        "time": "23:00",
         "event": "Ping Pong (@nr.z.p)",
         "link": "https://nrzp.de/event/ping-pong-18",
         "image_url": "https://nrzp.de/wp-content/uploads/2023/02/1.jpg"
@@ -6925,6 +6933,13 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Fr, 04.12",
+        "time": "20:00",
+        "event": "Streichelt (@nr.z.p)",
+        "link": "https://nrzp.de/event/streichelt",
+        "image_url": "https://nrzp.de/wp-content/uploads/2026/08/Streichelt_Tour_Bielefeld.png"
+    },
+    {
         "date": "Fri, 04.12.2026",
         "time": "17:00",
         "event": "Offenes Adventssingen mit Helmut Schibilsky (@Museum Osthusschule)",
@@ -6941,13 +6956,6 @@
         "description": "Programm",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_theater_bielefeld/ROH_Gro%25C3%259Fer_Saal___Christian_R._Schulz2_20.jpg?itok=opym35iV",
         "link": "https://www.bielefeld.jetzt/node/2039359"
-    },
-    {
-        "date": "Fr, 04.12",
-        "time": "",
-        "event": "Streichelt (@nr.z.p)",
-        "link": "https://nrzp.de/event/streichelt",
-        "image_url": "https://nrzp.de/wp-content/uploads/2026/08/Streichelt_Tour_Bielefeld.png"
     },
     {
         "date": "Sa, 05.12.2026",
@@ -6988,6 +6996,13 @@
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
+        "date": "Sa, 05.12",
+        "time": "",
+        "event": "Project Techno (@nr.z.p)",
+        "link": "https://nrzp.de/event/project-techno-4",
+        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/Logo_small-150x150.png"
+    },
+    {
         "date": "Sat, 05.12.2026",
         "time": null,
         "event": "Ina Müller und Band - Die 6.0 Tour (@Stadthalle Bielefeld)",
@@ -6995,13 +7010,6 @@
         "description": "Tel. 0521 55774555 (Erreichbar von Mo-Do 9-15 Uhr | Fr 9-13 Uhr) Fax 0521 55774510 info@bielefeld-marketing.de https://www.bielefeld-marketing.de",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/ina-mueller-die-6-0-tour-tickets-2025.jpg?itok=eI_rA87k",
         "link": "https://www.bielefeld.jetzt/node/1144784"
-    },
-    {
-        "date": "Sa, 05.12",
-        "time": "",
-        "event": "Project Techno (@nr.z.p)",
-        "link": "https://nrzp.de/event/project-techno-4",
-        "image_url": ""
     },
     {
         "date": "Su, 06.12.2026",
@@ -7145,6 +7153,14 @@
     },
     {
         "date": "Th, 10.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 10.12.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -7182,14 +7198,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 10.12.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 11.12.2026",
@@ -7274,6 +7282,13 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Sa, 12.12",
+        "time": "",
+        "event": "Intermuscia (@nr.z.p)",
+        "link": "https://nrzp.de/event/intermuscia",
+        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/Logo_small-150x150.png"
+    },
+    {
         "date": "Sat, 12.12.2026",
         "time": "17:00",
         "event": "DIKKA - Boah ist das krass - Tour 2026 (@Stadthalle Bielefeld)",
@@ -7290,13 +7305,6 @@
         "description": "Tel. 0521 55774555 (Erreichbar von Mo-Do 9-15 Uhr | Fr 9-13 Uhr) Fax 0521 55774510 info@bielefeld-marketing.de https://www.bielefeld-marketing.de",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/phil-seeboth-trio-tickets_599105_4560518_222x222.jpg?itok=AZSfjtj7",
         "link": "https://www.bielefeld.jetzt/node/2004288"
-    },
-    {
-        "date": "Sa, 12.12",
-        "time": "",
-        "event": "Intermuscia (@nr.z.p)",
-        "link": "https://nrzp.de/event/intermuscia",
-        "image_url": ""
     },
     {
         "date": "Su, 13.12.2026",
@@ -7397,6 +7405,13 @@
         "image_url": null
     },
     {
+        "date": "Mi, 16.12",
+        "time": "",
+        "event": "Krakeln (@nr.z.p)",
+        "link": "https://nrzp.de/event/krakeln-33",
+        "image_url": "https://nrzp.de/wp-content/uploads/2024/10/Banner-Instagram-Post.zip-2.png"
+    },
+    {
         "date": "Wed, 16.12.2026",
         "time": "20:00",
         "event": "Prime Orchestra - Rock Sympho Show (@Lokschuppen)",
@@ -7406,19 +7421,20 @@
         "link": "https://www.bielefeld.jetzt/node/1645044"
     },
     {
-        "date": "Mi, 16.12",
-        "time": "",
-        "event": "Krakeln (@nr.z.p)",
-        "link": "https://nrzp.de/event/krakeln-33",
-        "image_url": "https://nrzp.de/wp-content/uploads/2024/10/Banner-Instagram-Post.zip-2.png"
-    },
-    {
         "date": "Th, 17.12.2026",
         "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 17.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 17.12.2026",
@@ -7461,14 +7477,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Th, 17.12.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
         "date": "Th, 17.12",
         "event": "Picturebooks (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/picturebooks/",
@@ -7482,7 +7490,7 @@
     },
     {
         "date": "Do, 17.12",
-        "time": "",
+        "time": "23:00",
         "event": "Ping Pong (@nr.z.p)",
         "link": "https://nrzp.de/event/ping-pong-19",
         "image_url": "https://nrzp.de/wp-content/uploads/2023/02/1.jpg"
@@ -7667,7 +7675,7 @@
         "time": "",
         "event": "Tanztreff (@nr.z.p)",
         "link": "https://nrzp.de/event/tanztreff-17",
-        "image_url": ""
+        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/Logo_small-150x150.png"
     },
     {
         "date": "Th, 24.12.2026",
@@ -7676,6 +7684,14 @@
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 24.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 24.12.2026",
@@ -7716,14 +7732,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 24.12.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 25.12.2026",
@@ -7770,7 +7778,7 @@
         "time": "",
         "event": "Fun Club (@nr.z.p)",
         "link": "https://nrzp.de/event/fun-club",
-        "image_url": ""
+        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/Logo_small-150x150.png"
     },
     {
         "date": "Sa, 26.12.2026",
@@ -7953,6 +7961,14 @@
     },
     {
         "date": "Th, 31.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 31.12.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -7990,14 +8006,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 31.12.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 31.12",
