@@ -49,14 +49,6 @@
     },
     {
         "date": "Mi, 09.09.2026",
-        "time": "19:15",
-        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
-    },
-    {
-        "date": "Mi, 09.09.2026",
         "time": "16:00",
         "event": "Yoga(@hochschulsport_bielefeld)",
         "category": "Sport",
@@ -377,20 +369,20 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Th, 10.09.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
         "date": "Do, 10.09.2026",
         "time": "19:15",
         "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
         "category": "Kino",
         "genre": "Action",
         "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
+        "date": "Th, 10.09.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Do, 10.09.2026",
@@ -658,20 +650,20 @@
         "image_url": "https://www.club-sams.de/data/202608/WhatsApp_Image_2026-08-25_at_15_42_49_150.jpeg?v=1787665498"
     },
     {
-        "date": "Fr, 11.09",
-        "time": "23:00",
-        "event": "SA • BACK TO THE ROOTS pres. LEFTSIDE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-back-to-the-roots-pres-leftside/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/08/20260912_BTTR_4zu5.jpg"
-    },
-    {
         "date": "Fr, 11.09.2026",
         "time": "19:15",
         "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
         "category": "Kino",
         "genre": "Action",
         "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
+        "date": "Fr, 11.09",
+        "time": "23:00",
+        "event": "SA • BACK TO THE ROOTS pres. LEFTSIDE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-back-to-the-roots-pres-leftside/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/08/20260912_BTTR_4zu5.jpg"
     },
     {
         "date": "Fri, 11.09",
@@ -832,20 +824,20 @@
         "image_url": "https://www.club-sams.de/data/202608/sams_seizre_150.png?v=1787647975"
     },
     {
-        "date": "Sa, 12.09",
-        "time": "23:00",
-        "event": "MI • WEDNESDATE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wednesdate-20/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/07/20260916_Wednesdate_4zu5.png"
-    },
-    {
         "date": "Sa, 12.09.2026",
         "time": "19:15",
         "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
         "category": "Kino",
         "genre": "Action",
         "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
+        "date": "Sa, 12.09",
+        "time": "23:00",
+        "event": "MI • WEDNESDATE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wednesdate-20/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/07/20260916_Wednesdate_4zu5.png"
     },
     {
         "date": "Sat, 12.09",
@@ -2522,6 +2514,15 @@
     },
     {
         "date": "Sat, 19.09.2026",
+        "time": null,
+        "event": "Heinz Flottmanns Comedy-Stadtrundfahrt (@Bielefeld-Mitte)",
+        "category": "Fakten, Träume & Visionen - Die StadtTour",
+        "description": "Fakten, Träume & Visionen - Die StadtTour",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/webform/termine_melden/19160/dsc_3345-4.1.3.jpg?itok=Tzyz2gsP",
+        "link": "https://www.bielefeld.jetzt/node/1580456"
+    },
+    {
+        "date": "Sat, 19.09.2026",
         "time": "13:30",
         "event": "Unterm Ossi (@Bielefeld-Mitte)",
         "category": "Kulturfestival",
@@ -4086,6 +4087,13 @@
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
     {
+        "date": "Fr, 09.10",
+        "time": "",
+        "event": "GHOST DUBS (@nr.z.p)",
+        "link": "https://nrzp.de/event/ghost-dubs",
+        "image_url": "https://nrzp.de/wp-content/uploads/2026/09/IMG_7367.png"
+    },
+    {
         "date": "Fri, 09.10.2026",
         "time": "19:00",
         "event": "Hardrock (@Stadthalle Bielefeld)",
@@ -4268,6 +4276,13 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Di, 13.10",
+        "time": "19:00",
+        "event": "Helene Barop (@nr.z.p)",
+        "link": "https://nrzp.de/event/helene-barop",
+        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/Logo_small-150x150.png"
     },
     {
         "date": "We, 14.10.2026",
@@ -5237,6 +5252,15 @@
     },
     {
         "date": "Sun, 01.11.2026",
+        "time": "17:00",
+        "event": "Ernst Lubitsch: Forbidden Paradise – Metropolis Orchester Berlin (@Rudolf-Oetker-Halle)",
+        "category": "In einem fiktiven Balkanland herrscht die Zarin Katharina nicht nur über ihren leicht als Russland...",
+        "description": "In einem fiktiven Balkanland herrscht die Zarin Katharina nicht nur über ihren leicht als Russland zu enttarnenden Staat, sondern auch über ein Heer von Liebhabern. Als eine Meuterei droht, wird auch ihr aktueller Galan Alexei zur Bedrohung. Doch statt mit der Waffe regelt man das Problem eher diskret – mit dem Scheckbuch.",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_theater_bielefeld/lubitsch.png?itok=dGVsOP-T",
+        "link": "https://www.bielefeld.jetzt/node/2050228"
+    },
+    {
+        "date": "Sun, 01.11.2026",
         "time": "20:00",
         "event": "Danger Dan - Keine Angst Tour 2026 (@Stadthalle Bielefeld)",
         "category": "Manchmal gibt es Dinge, die größer werden als ursprünglich geplant. Nicht wegen einer perfekten...",
@@ -5538,6 +5562,15 @@
         "category": "Sport",
         "link": "https://www.instagram.com/uprunningclub/?hl=de",
         "image_url": null
+    },
+    {
+        "date": "Sun, 08.11.2026",
+        "time": "15:00",
+        "event": "Kino für Kurze – Küspert & Kollegen (@Rudolf-Oetker-Halle)",
+        "category": "Ein Scotland Yard-Detektiv mit seinem (animierten) Käfer als Assistenten in einer...",
+        "description": "Ein Scotland Yard-Detektiv mit seinem (animierten) Käfer als Assistenten in einer Streichholzschachtel wird nach New York geschickt. In ihrer Investigativ-Recherche entdecken sie das „flauschige Phantom“ und seine verwirrenden Verwandlungen.",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_theater_bielefeld/kino-fuer-kurze-2026.png?itok=zpUKQ7gT",
+        "link": "https://www.bielefeld.jetzt/node/2050230"
     },
     {
         "date": "Sun, 08.11.2026",
@@ -6269,20 +6302,20 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Th, 26.11.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
         "date": "Thu, 26.11",
         "time": "19:00",
         "event": "DOMINIK HARTZ – verstr!ckt Tour 2026 (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/dominik-hartz-verstrckt-tour-2026/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/07/dominik-hartz.png"
+    },
+    {
+        "date": "Th, 26.11.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Do, 26.11",
@@ -6342,7 +6375,7 @@
     },
     {
         "date": "Fri, 27.11.2026",
-        "time": "20:00",
+        "time": null,
         "event": "Jubiläumskonzert mit Omer Klein & the Poetics und NE-K (@Rudolf-Oetker-Halle)",
         "category": "Omer Kleins neues Sextett „The Poetics“ ist ein mitreißendes Musikensemble, das die vielfältigen...",
         "description": "Omer Kleins neues Sextett „The Poetics“ ist ein mitreißendes Musikensemble, das die vielfältigen kreativen Facetten dieses faszinierenden Pianisten und Komponisten erkundet. Eine Gruppe furchtloser, meisterhafter Musiker vereint sich zu einer farbenfrohen Mischung aus verschiedenen Tasteninstrumenten, Bass, Schlagzeug und Blasinstrumenten. Kleins neues Kompositionsbuch für „The Poetics“ ist voller seiner charakteristischen mitreißenden Grooves, einprägsamer Melodien und gewagter Harmonien, gepaart mit einem neuen Gespür für Arrangement und Orchestrierung. Kleins Liebe zu den Musikwelten Brasiliens und Afrikas kommt im Universum von „Poetics“ besonders deutlich zum Ausdruck. Besetzung: Omer Klein – Klavier, Fender Rhodes Tineke Postma – Sopran- und Altsaxophon Omri Abramov – Tenorsaxophon, Flöte Haggai Cohen Milo – Kontrabass, E-Bass Silvan Strauss – Schlagzeug",
