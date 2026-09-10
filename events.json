@@ -2,18 +2,26 @@
     {
         "date": "Th, 10.09.2026",
         "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 10.09.2026",
+        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
-        "date": "Th, 10.09.2026",
-        "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
-        "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+        "date": "Do, 10.09.2026",
+        "time": "19:15",
+        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Th, 10.09.2026",
@@ -54,14 +62,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Do, 10.09.2026",
-        "time": "19:15",
-        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Do, 10.09.2026",
@@ -289,6 +289,22 @@
         "link": "https://www.vhs-bielefeld.de/programm/kurs/Tuerkisch-A1-4-Semester/2624865K8#inhalt"
     },
     {
+        "date": "Fri, 11.09",
+        "time": "23:00",
+        "event": "Womans Mind (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/womans-mind-11092026-2300",
+        "image_url": "https://www.club-sams.de/data/202608/WhatsApp_Image_2026-08-25_at_15_42_49_150.jpeg?v=1787665498"
+    },
+    {
+        "date": "Fr, 11.09.2026",
+        "time": "19:15",
+        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
         "date": "Fr, 11.09.2026",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro FRIDAY (@hinterzimmer.club)",
@@ -319,22 +335,6 @@
         "category": "Kreativität",
         "link": "https://kunsthalle-bielefeld.de/programm/veranstaltungen/#10209",
         "image_url": null
-    },
-    {
-        "date": "Fri, 11.09",
-        "time": "23:00",
-        "event": "Womans Mind (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/womans-mind-11092026-2300",
-        "image_url": "https://www.club-sams.de/data/202608/WhatsApp_Image_2026-08-25_at_15_42_49_150.jpeg?v=1787665498"
-    },
-    {
-        "date": "Fr, 11.09.2026",
-        "time": "19:15",
-        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Fri, 11.09",
@@ -455,6 +455,22 @@
         "link": "https://www.bielefeld.jetzt/node/1963961"
     },
     {
+        "date": "Sat, 12.09",
+        "time": "23:00",
+        "event": "𝟭𝟮|𝟬𝟵 - 𝗕𝗟𝗢𝗢𝗗 𝗠𝗢𝗢𝗡🩸🌑 (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/-12092026-2300",
+        "image_url": "https://www.club-sams.de/data/202608/sams_seizre_150.png?v=1787647975"
+    },
+    {
+        "date": "Sa, 12.09.2026",
+        "time": "19:15",
+        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
         "date": "Sa, 12.09.2026",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -485,22 +501,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sat, 12.09",
-        "time": "23:00",
-        "event": "𝟭𝟮|𝟬𝟵 - 𝗕𝗟𝗢𝗢𝗗 𝗠𝗢𝗢𝗡🩸🌑 (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/-12092026-2300",
-        "image_url": "https://www.club-sams.de/data/202608/sams_seizre_150.png?v=1787647975"
-    },
-    {
-        "date": "Sa, 12.09.2026",
-        "time": "19:15",
-        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Sat, 12.09",
@@ -704,6 +704,14 @@
         "link": "https://www.bielefeld.jetzt/node/1983533"
     },
     {
+        "date": "So, 13.09.2026",
+        "time": "19:15",
+        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
         "date": "Su, 13.09.2026",
         "time": "19:00",
         "event": "*TRIBE KENNENLERNABEND*",
@@ -718,14 +726,6 @@
         "category": "Sport",
         "link": "https://www.instagram.com/uprunningclub/?hl=de",
         "image_url": null
-    },
-    {
-        "date": "So, 13.09.2026",
-        "time": "19:15",
-        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "So, 13.09.2026",
@@ -787,6 +787,14 @@
     },
     {
         "date": "Mo, 14.09.2026",
+        "time": "19:15",
+        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
+        "date": "Mo, 14.09.2026",
         "time": "20:00",
         "event": "Pub Quiz (@irish_pub_bielefeld)",
         "category": "Ausgehen",
@@ -800,14 +808,6 @@
         "category": "Sport",
         "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         "image_url": "https://tse3.mm.bing.net/th/id/OIP.S2SyS4KZbgQ0_dDtL7HNZgAAAA?pid=Api&P=0&h=180"
-    },
-    {
-        "date": "Mo, 14.09.2026",
-        "time": "19:15",
-        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Mo, 14.09.2026",
@@ -1058,6 +1058,14 @@
         "link": "https://www.bielefeld.jetzt/node/1956505"
     },
     {
+        "date": "Di, 15.09.2026",
+        "time": "19:15",
+        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
         "date": "Tu, 15.09.2026",
         "time": "18:00",
         "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
@@ -1072,14 +1080,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Di, 15.09.2026",
-        "time": "19:15",
-        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Di, 15.09.2026",
@@ -1481,6 +1481,14 @@
         "link": "https://www.vhs-bielefeld.de/programm/kurs/Einzelcoaching-fuer-PC-oder-Smartphone/2625613K8#inhalt"
     },
     {
+        "date": "Mi, 16.09.2026",
+        "time": "19:15",
+        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
         "date": "We, 16.09.2026",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -1511,14 +1519,6 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
-    },
-    {
-        "date": "Mi, 16.09.2026",
-        "time": "19:15",
-        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Mi, 16.09",
@@ -1679,18 +1679,18 @@
     {
         "date": "Th, 17.09.2026",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
-        "date": "Th, 17.09.2026",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 17.09.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 17.09.2026",
@@ -2211,15 +2211,6 @@
     },
     {
         "date": "Sat, 19.09.2026",
-        "time": null,
-        "event": "Heinz Flottmanns Comedy-Stadtrundfahrt (@Bielefeld-Mitte)",
-        "category": "Fakten, Träume & Visionen - Die StadtTour",
-        "description": "Fakten, Träume & Visionen - Die StadtTour",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/webform/termine_melden/19160/dsc_3345-4.1.3.jpg?itok=Tzyz2gsP",
-        "link": "https://www.bielefeld.jetzt/node/1580456"
-    },
-    {
-        "date": "Sat, 19.09.2026",
         "time": "13:30",
         "event": "Unterm Ossi (@Bielefeld-Mitte)",
         "category": "Kulturfestival",
@@ -2627,18 +2618,18 @@
     {
         "date": "Th, 24.09.2026",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
-        "date": "Th, 24.09.2026",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 24.09.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 24.09.2026",
@@ -2905,6 +2896,14 @@
         "link": "https://www.bielefeld.jetzt/node/1918840"
     },
     {
+        "date": "Sat, 26.09",
+        "time": "22:30",
+        "event": "TRANCELAND w SHOKI 287 (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/tranceland-w-shoki-287-26092026-2230",
+        "image_url": "https://www.club-sams.de/data/202608/SHOKI_287_Facebook-Video__150.jpg?v=1787742388"
+    },
+    {
         "date": "Sa, 26.09.2026",
         "time": "14:00",
         "event": "*TRIBE WANDERSAMSTAG*",
@@ -2943,14 +2942,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sat, 26.09",
-        "time": "22:30",
-        "event": "TRANCELAND w SHOKI 287 (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/tranceland-w-shoki-287-26092026-2230",
-        "image_url": "https://www.club-sams.de/data/202608/SHOKI_287_Facebook-Video__150.jpg?v=1787742388"
     },
     {
         "date": "Sat, 26.09",
@@ -3274,18 +3265,26 @@
     {
         "date": "Th, 01.10.2026",
         "time": "20:00",
+        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "category": "Party",
+        "link": "https://www.facebook.com/search/top?q=platzhirsch",
+        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 01.10.2026",
+        "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
-        "date": "Th, 01.10.2026",
-        "time": "20:00",
-        "event": "Afterwork Party (@platzhirschbielefeld)",
+        "date": "Thu, 01.10",
+        "time": "22:00",
+        "event": "Ersti Party (@sams_bielefeld)",
         "category": "Party",
-        "link": "https://www.facebook.com/search/top?q=platzhirsch",
-        "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+        "link": "https://www.club-sams.de/veranstaltung/ersti-party-01102026-2200",
+        "image_url": "https://www.club-sams.de/data/202608/Bielefeld_02_10_4-5_150.jpg?v=1787843402"
     },
     {
         "date": "Th, 01.10.2026",
@@ -3328,14 +3327,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Thu, 01.10",
-        "time": "22:00",
-        "event": "Ersti Party (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/ersti-party-01102026-2200",
-        "image_url": "https://www.club-sams.de/data/202608/Bielefeld_02_10_4-5_150.jpg?v=1787843402"
-    },
-    {
         "date": "Do, 01.10",
         "time": "23:00",
         "event": "Ping Pong (@nr.z.p)",
@@ -3370,6 +3361,14 @@
         "link": "https://www.bielefeld.jetzt/node/2015800"
     },
     {
+        "date": "Fri, 02.10",
+        "time": "23:00",
+        "event": "Groove to Bounce (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/groove-to-bounce-02102026-2300",
+        "image_url": "https://www.club-sams.de/data/202609/GtB_2_10_Quadratisches_Kissen__150.jpg?v=1788515858"
+    },
+    {
         "date": "Fr, 02.10.2026",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro FRIDAY (@hinterzimmer.club)",
@@ -3394,14 +3393,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Fri, 02.10",
-        "time": "23:00",
-        "event": "Groove to Bounce (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/groove-to-bounce-02102026-2300",
-        "image_url": "https://www.club-sams.de/data/202609/GtB_2_10_Quadratisches_Kissen__150.jpg?v=1788515858"
-    },
-    {
         "date": "Fr, 02.10",
         "time": "23:00",
         "event": "SA • LOVE SATURDAYS (@cafe_europa_bi)",
@@ -3414,6 +3405,14 @@
         "event": "Dynablaster (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/dynablaster-11/",
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
+    },
+    {
+        "date": "Sat, 03.10",
+        "time": "22:30",
+        "event": "DARKSIDE OF SAMS (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/darkside-of-sams-03102026-2230",
+        "image_url": "https://www.club-sams.de/data/202607/vvk_2026_150_1.jpg?v=1784793062"
     },
     {
         "date": "Sa, 03.10.2026",
@@ -3446,14 +3445,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sat, 03.10",
-        "time": "22:30",
-        "event": "DARKSIDE OF SAMS (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/darkside-of-sams-03102026-2230",
-        "image_url": "https://www.club-sams.de/data/202607/vvk_2026_150_1.jpg?v=1784793062"
     },
     {
         "date": "Sa, 03.10",
@@ -3668,18 +3659,18 @@
     {
         "date": "Th, 08.10.2026",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
-        "date": "Th, 08.10.2026",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 08.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 08.10.2026",
@@ -3832,6 +3823,14 @@
         "link": "https://www.bielefeld.jetzt/node/1535050"
     },
     {
+        "date": "Sat, 10.10",
+        "time": "22:30",
+        "event": "TRANCELAND feat HUT B DAY w AFEM SYKO (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/tranceland-feat-hut-b-day-w-afem-syko-10102026-2230",
+        "image_url": "https://www.club-sams.de/data/202603/vvk_2026_2__150.png?v=1774540725"
+    },
+    {
         "date": "Sa, 10.10.2026",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -3862,14 +3861,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sat, 10.10",
-        "time": "22:30",
-        "event": "TRANCELAND feat HUT B DAY w AFEM SYKO (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/tranceland-feat-hut-b-day-w-afem-syko-10102026-2230",
-        "image_url": "https://www.club-sams.de/data/202603/vvk_2026_2__150.png?v=1774540725"
     },
     {
         "date": "Sa, 10.10",
@@ -4054,18 +4045,18 @@
     {
         "date": "Th, 15.10.2026",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
-        "date": "Th, 15.10.2026",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 15.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 15.10.2026",
@@ -4130,6 +4121,14 @@
         "link": "https://www.bielefeld.jetzt/node/1988056"
     },
     {
+        "date": "Fri, 16.10",
+        "time": "23:00",
+        "event": "GRAUZONE (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/grauzone-16102026-2300",
+        "image_url": "https://www.club-sams.de/data/202609/Grauzone_lf_sser_16_10_Website_Quadratisches_Kissen__150.jpg?v=1788356800"
+    },
+    {
         "date": "Fr, 16.10.2026",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro FRIDAY (@hinterzimmer.club)",
@@ -4152,14 +4151,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Fri, 16.10",
-        "time": "23:00",
-        "event": "GRAUZONE (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/grauzone-16102026-2300",
-        "image_url": "https://www.club-sams.de/data/202609/Grauzone_lf_sser_16_10_Website_Quadratisches_Kissen__150.jpg?v=1788356800"
     },
     {
         "date": "Fri, 16.10.2026",
@@ -4413,18 +4404,18 @@
     {
         "date": "Th, 22.10.2026",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
-        "date": "Th, 22.10.2026",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 22.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 22.10.2026",
@@ -4738,18 +4729,18 @@
     {
         "date": "Th, 29.10.2026",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
-        "date": "Th, 29.10.2026",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 29.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 29.10.2026",
@@ -5084,18 +5075,18 @@
     {
         "date": "Th, 05.11.2026",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
-        "date": "Th, 05.11.2026",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 05.11.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 05.11.2026",
@@ -5384,18 +5375,18 @@
     {
         "date": "Th, 12.11.2026",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
-        "date": "Th, 12.11.2026",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 12.11.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 12.11.2026",
@@ -5669,18 +5660,18 @@
     {
         "date": "Th, 19.11.2026",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
-        "date": "Th, 19.11.2026",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 19.11.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 19.11.2026",
@@ -5949,18 +5940,18 @@
     {
         "date": "Th, 26.11.2026",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
-        "date": "Th, 26.11.2026",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 26.11.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 26.11.2026",
@@ -6257,18 +6248,18 @@
     {
         "date": "Th, 03.12.2026",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
-        "date": "Th, 03.12.2026",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 03.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 03.12.2026",
@@ -6544,27 +6535,19 @@
         "date": "Wed, 09.12.2026",
         "time": "20:00",
         "event": "Sondaschule - \"Wir bleiben Wach Tour\" 2026 (@Lokschuppen)",
-        "category": "Ausverkaufte Headliner-Shows, drei Top-Ten-Alben in Folge und Dauergast bei allen namhaften...",
-        "description": "Ausverkaufte Headliner-Shows, drei Top-Ten-Alben in Folge und Dauergast bei allen namhaften Festivals. Gefeiert für weltoffene Texte und gelebten Multikulturalismus, wie er im Pott seit Jahrzehnten zelebriert wird. Einladungen von Szenegrößen, wie The Offspring, Broilers, Flogging Molly, Bad Religion oder Die Toten Hosen um als Special Guests gemeinsame Konzerte zu spielen – die sechs Ruhrpottler der \"SONDASCHULE\" befinden sich in der heißesten Phase ihrer Geschichte.",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/bild/2026/25-SONDASCHULE-DSC08936-72dpi-1-C-floehlich.jpg?itok=BBwWKlC3",
-        "link": "https://www.bielefeld.jetzt/node/1712786"
-    },
-    {
-        "date": "Wed, 09.12.2026",
-        "time": "20:00",
-        "event": "Sondaschule - \"Wir bleiben Wach Tour\" 2026 (@Lokschuppen)",
         "category": "",
         "description": "Tel. 0521 55774555 (Erreichbar von Mo-Do 9-15 Uhr | Fr 9-13 Uhr) Fax 0521 55774510 info@bielefeld-marketing.de https://www.bielefeld-marketing.de",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/sondaschule-tickets-2026.jpg?itok=1KN40QbQ",
         "link": "https://www.bielefeld.jetzt/node/1731775"
     },
     {
-        "date": "Th, 10.12.2026",
+        "date": "Wed, 09.12.2026",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+        "event": "Sondaschule - \"Wir bleiben Wach Tour\" 2026 (@Lokschuppen)",
+        "category": "Ausverkaufte Headliner-Shows, drei Top-Ten-Alben in Folge und Dauergast bei allen namhaften...",
+        "description": "Ausverkaufte Headliner-Shows, drei Top-Ten-Alben in Folge und Dauergast bei allen namhaften Festivals. Gefeiert für weltoffene Texte und gelebten Multikulturalismus, wie er im Pott seit Jahrzehnten zelebriert wird. Einladungen von Szenegrößen, wie The Offspring, Broilers, Flogging Molly, Bad Religion oder Die Toten Hosen um als Special Guests gemeinsame Konzerte zu spielen – die sechs Ruhrpottler der \"SONDASCHULE\" befinden sich in der heißesten Phase ihrer Geschichte.",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/bild/2026/25-SONDASCHULE-DSC08936-72dpi-1-C-floehlich.jpg?itok=BBwWKlC3",
+        "link": "https://www.bielefeld.jetzt/node/1712786"
     },
     {
         "date": "Th, 10.12.2026",
@@ -6573,6 +6556,14 @@
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 10.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 10.12.2026",
@@ -6838,18 +6829,18 @@
     {
         "date": "Th, 17.12.2026",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
-        "date": "Th, 17.12.2026",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 17.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 17.12.2026",
@@ -7104,18 +7095,18 @@
     {
         "date": "Th, 24.12.2026",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
-        "date": "Th, 24.12.2026",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 24.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 24.12.2026",
@@ -7378,18 +7369,18 @@
     {
         "date": "Th, 31.12.2026",
         "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
-        "date": "Th, 31.12.2026",
-        "time": "20:00",
         "event": "Afterwork Party (@platzhirschbielefeld)",
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 31.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 31.12.2026",
