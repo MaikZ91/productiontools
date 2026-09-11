@@ -40,20 +40,20 @@
         "image_url": null
     },
     {
-        "date": "Fr, 11.09.2026",
-        "time": "19:15",
-        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
-    },
-    {
         "date": "Fri, 11.09",
         "time": "23:00",
         "event": "MoreCore Party Bielefeld - auf 3 Floors (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/morecore-party-bielefeld-auf-3-floors/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/07/WhatsApp-Image-2026-08-02-at-09.10.20.jpeg"
+    },
+    {
+        "date": "Fr, 11.09.2026",
+        "time": "19:15",
+        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Fr, 11.09.2026",
@@ -215,22 +215,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Sa, 12.09",
-        "time": "23:00",
-        "event": "MI • WEDNESDATE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wednesdate-20/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/07/20260916_Wednesdate_4zu5.png"
-    },
-    {
-        "date": "Sa, 12.09.2026",
-        "time": "19:15",
-        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
-    },
-    {
         "date": "Sat, 12.09",
         "time": "23:00",
         "event": "SATURDANCE (@stereobielefeld)",
@@ -245,6 +229,22 @@
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/block-afro-yard/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/08/Stereo_12_0926_Feed2.jpg"
+    },
+    {
+        "date": "Sa, 12.09.2026",
+        "time": "19:15",
+        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
+        "date": "Sa, 12.09",
+        "time": "23:00",
+        "event": "MI • WEDNESDATE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wednesdate-20/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/07/20260916_Wednesdate_4zu5.png"
     },
     {
         "date": "Sa, 12.09.2026",
@@ -1233,20 +1233,20 @@
         "image_url": null
     },
     {
-        "date": "Mi, 16.09",
-        "time": "23:00",
-        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-back-to-2000-15/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/07/20260918_Backto2000_4zu5.jpg"
-    },
-    {
         "date": "Mi, 16.09.2026",
         "time": "19:15",
         "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
         "category": "Kino",
         "genre": "Action",
         "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
+        "date": "Mi, 16.09",
+        "time": "23:00",
+        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-back-to-2000-15/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/07/20260918_Backto2000_4zu5.jpg"
     },
     {
         "date": "Mi, 16.09.2026",
@@ -1690,6 +1690,14 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Fri, 18.09",
+        "time": "23:00",
+        "event": "⚡ VOLTAGE ROOM | STEREO, BIELEFELD ⚡ (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/%e2%9a%a1-voltage-room-stereo-bielefeld-%e2%9a%a1/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/07/FEED.jpg"
+    },
+    {
         "date": "Fr, 18.09",
         "time": "23:00",
         "event": "SA • LOVE SATURDAYS x TEQUILA NIGHT (@cafe_europa_bi)",
@@ -1704,14 +1712,6 @@
         "category": "Party",
         "link": "https://cafeeuropa.de/event/mi-bergfest-28/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/07/20260923_Bergfest_4zu5.jpg"
-    },
-    {
-        "date": "Fri, 18.09",
-        "time": "23:00",
-        "event": "⚡ VOLTAGE ROOM | STEREO, BIELEFELD ⚡ (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/%e2%9a%a1-voltage-room-stereo-bielefeld-%e2%9a%a1/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/07/FEED.jpg"
     },
     {
         "date": "Fr, 18.09.2026",
@@ -2691,14 +2691,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Sa, 26.09",
-        "time": "23:00",
-        "event": "MI • WET WEDNESDAY (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wet-wednesday-11/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/07/20260930_WetWednesday_4zu5.jpg"
-    },
-    {
         "date": "Sat, 26.09",
         "time": "23:00",
         "event": "STEREO FREUNDESKREIS PARTY (@stereobielefeld)",
@@ -2713,6 +2705,14 @@
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/block-in-da-block-2/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/08/Stereo_26_0926_Feed3.jpg"
+    },
+    {
+        "date": "Sa, 26.09",
+        "time": "23:00",
+        "event": "MI • WET WEDNESDAY (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wet-wednesday-11/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/07/20260930_WetWednesday_4zu5.jpg"
     },
     {
         "event": "Grundkurs Häkeln\r\nWorkshop für Anfängerinnen und Anfänger Wann: Sa. , 26.09.26, 10.00 Uhr Wo: Raum 306, 3. OG Süd Nr.: 2622602T8 (@volkshochschule.bielefeld)",
@@ -3025,20 +3025,20 @@
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
-        "date": "Th, 01.10.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
         "date": "Thu, 01.10",
         "time": "22:00",
         "event": "Ersti Party (@sams_bielefeld)",
         "category": "Party",
         "link": "https://www.club-sams.de/veranstaltung/ersti-party-01102026-2200",
         "image_url": "https://www.club-sams.de/data/202608/Bielefeld_02_10_4-5_150.jpg?v=1787843402"
+    },
+    {
+        "date": "Th, 01.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 01.10.2026",
@@ -3781,20 +3781,20 @@
         "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1149914903%2F458602689502%2F1%2Foriginal.jpg?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=9fe71dc7482ee7b9a2010ffe02860068"
     },
     {
-        "date": "Mi, 14.10",
-        "time": "23:00",
-        "event": "FR• FRIDAYS FINEST (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-fridays-finest-11/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/08/20261016_FridaysFinest_4zu5.jpg"
-    },
-    {
         "date": "Wed, 14.10",
         "time": "23:00",
         "event": "Semesterstart - Party (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/semesterstart-party/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/03/Stereo_14_1026_Feed.jpg"
+    },
+    {
+        "date": "Mi, 14.10",
+        "time": "23:00",
+        "event": "FR• FRIDAYS FINEST (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-fridays-finest-11/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/08/20261016_FridaysFinest_4zu5.jpg"
     },
     {
         "date": "Th, 15.10.2026",
