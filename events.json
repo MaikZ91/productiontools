@@ -16,14 +16,6 @@
         "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
-        "date": "Do, 10.09.2026",
-        "time": "19:15",
-        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
-    },
-    {
         "date": "Th, 10.09.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
@@ -62,6 +54,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Do, 10.09",
+        "time": "23:00",
+        "event": "FR• FRIDAYS FINEST (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-fridays-finest-10/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/07/20260911_FridaysFinest_4zu5.jpg"
     },
     {
         "date": "Do, 10.09.2026",
@@ -289,22 +289,6 @@
         "link": "https://www.vhs-bielefeld.de/programm/kurs/Tuerkisch-A1-4-Semester/2624865K8#inhalt"
     },
     {
-        "date": "Fri, 11.09",
-        "time": "23:00",
-        "event": "Womans Mind (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/womans-mind-11092026-2300",
-        "image_url": "https://www.club-sams.de/data/202608/WhatsApp_Image_2026-08-25_at_15_42_49_150.jpeg?v=1787665498"
-    },
-    {
-        "date": "Fr, 11.09.2026",
-        "time": "19:15",
-        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
-    },
-    {
         "date": "Fr, 11.09.2026",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro FRIDAY (@hinterzimmer.club)",
@@ -335,6 +319,22 @@
         "category": "Kreativität",
         "link": "https://kunsthalle-bielefeld.de/programm/veranstaltungen/#10209",
         "image_url": null
+    },
+    {
+        "date": "Fri, 11.09",
+        "time": "23:00",
+        "event": "Womans Mind (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/womans-mind-11092026-2300",
+        "image_url": "https://www.club-sams.de/data/202608/WhatsApp_Image_2026-08-25_at_15_42_49_150.jpeg?v=1787665498"
+    },
+    {
+        "date": "Fr, 11.09.2026",
+        "time": "19:15",
+        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Fri, 11.09",
@@ -455,20 +455,13 @@
         "link": "https://www.bielefeld.jetzt/node/1963961"
     },
     {
-        "date": "Sat, 12.09",
-        "time": "23:00",
-        "event": "𝟭𝟮|𝟬𝟵 - 𝗕𝗟𝗢𝗢𝗗 𝗠𝗢𝗢𝗡🩸🌑 (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/-12092026-2300",
-        "image_url": "https://www.club-sams.de/data/202608/sams_seizre_150.png?v=1787647975"
-    },
-    {
-        "date": "Sa, 12.09.2026",
-        "time": "19:15",
-        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+        "date": "Fri, 11.09.2026",
+        "time": null,
+        "event": "Durch die Nacht (@Cantine)",
+        "category": "Songs for whatever",
+        "description": "Songs for whatever",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/webform/termine_melden/20271/img_6727.png?itok=yle3hwdP",
+        "link": "https://www.bielefeld.jetzt/node/1776849"
     },
     {
         "date": "Sa, 12.09.2026",
@@ -505,6 +498,30 @@
     {
         "date": "Sat, 12.09",
         "time": "23:00",
+        "event": "𝟭𝟮|𝟬𝟵 - 𝗕𝗟𝗢𝗢𝗗 𝗠𝗢𝗢𝗡🩸🌑 (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/-12092026-2300",
+        "image_url": "https://www.club-sams.de/data/202608/sams_seizre_150.png?v=1787647975"
+    },
+    {
+        "date": "Sa, 12.09",
+        "time": "23:00",
+        "event": "MI • WEDNESDATE (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wednesdate-20/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/07/20260916_Wednesdate_4zu5.png"
+    },
+    {
+        "date": "Sa, 12.09.2026",
+        "time": "19:15",
+        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
+        "date": "Sat, 12.09",
+        "time": "23:00",
         "event": "SATURDANCE (@stereobielefeld)",
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/saturdance/",
@@ -517,14 +534,6 @@
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/block-afro-yard/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/08/Stereo_12_0926_Feed2.jpg"
-    },
-    {
-        "date": "Sa, 12.09",
-        "time": "23:00",
-        "event": "MI • WEDNESDATE (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wednesdate-20/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/07/20260916_Wednesdate_4zu5.png"
     },
     {
         "date": "Sa, 12.09.2026",
@@ -704,14 +713,6 @@
         "link": "https://www.bielefeld.jetzt/node/1983533"
     },
     {
-        "date": "So, 13.09.2026",
-        "time": "19:15",
-        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
-    },
-    {
         "date": "Su, 13.09.2026",
         "time": "19:00",
         "event": "*TRIBE KENNENLERNABEND*",
@@ -726,6 +727,14 @@
         "category": "Sport",
         "link": "https://www.instagram.com/uprunningclub/?hl=de",
         "image_url": null
+    },
+    {
+        "date": "So, 13.09.2026",
+        "time": "19:15",
+        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "So, 13.09.2026",
@@ -787,14 +796,6 @@
     },
     {
         "date": "Mo, 14.09.2026",
-        "time": "19:15",
-        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
-    },
-    {
-        "date": "Mo, 14.09.2026",
         "time": "20:00",
         "event": "Pub Quiz (@irish_pub_bielefeld)",
         "category": "Ausgehen",
@@ -808,6 +809,14 @@
         "category": "Sport",
         "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         "image_url": "https://tse3.mm.bing.net/th/id/OIP.S2SyS4KZbgQ0_dDtL7HNZgAAAA?pid=Api&P=0&h=180"
+    },
+    {
+        "date": "Mo, 14.09.2026",
+        "time": "19:15",
+        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Mo, 14.09.2026",
@@ -1058,14 +1067,6 @@
         "link": "https://www.bielefeld.jetzt/node/1956505"
     },
     {
-        "date": "Di, 15.09.2026",
-        "time": "19:15",
-        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
-    },
-    {
         "date": "Tu, 15.09.2026",
         "time": "18:00",
         "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
@@ -1080,6 +1081,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Di, 15.09.2026",
+        "time": "19:15",
+        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Di, 15.09.2026",
@@ -1481,14 +1490,6 @@
         "link": "https://www.vhs-bielefeld.de/programm/kurs/Einzelcoaching-fuer-PC-oder-Smartphone/2625613K8#inhalt"
     },
     {
-        "date": "Mi, 16.09.2026",
-        "time": "19:15",
-        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
-    },
-    {
         "date": "We, 16.09.2026",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -1527,6 +1528,14 @@
         "category": "Party",
         "link": "https://cafeeuropa.de/event/fr-back-to-2000-15/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/07/20260918_Backto2000_4zu5.jpg"
+    },
+    {
+        "date": "Mi, 16.09.2026",
+        "time": "19:15",
+        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Mi, 16.09.2026",
@@ -1962,14 +1971,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Fri, 18.09",
-        "time": "23:00",
-        "event": "⚡ VOLTAGE ROOM | STEREO, BIELEFELD ⚡ (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/%e2%9a%a1-voltage-room-stereo-bielefeld-%e2%9a%a1/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/07/FEED.jpg"
-    },
-    {
         "date": "Fr, 18.09",
         "time": "23:00",
         "event": "SA • LOVE SATURDAYS x TEQUILA NIGHT (@cafe_europa_bi)",
@@ -1984,6 +1985,14 @@
         "category": "Party",
         "link": "https://cafeeuropa.de/event/mi-bergfest-28/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/07/20260923_Bergfest_4zu5.jpg"
+    },
+    {
+        "date": "Fri, 18.09",
+        "time": "23:00",
+        "event": "⚡ VOLTAGE ROOM | STEREO, BIELEFELD ⚡ (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/%e2%9a%a1-voltage-room-stereo-bielefeld-%e2%9a%a1/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/07/FEED.jpg"
     },
     {
         "date": "Fr, 18.09.2026",
@@ -2211,6 +2220,15 @@
     },
     {
         "date": "Sat, 19.09.2026",
+        "time": null,
+        "event": "Heinz Flottmanns Comedy-Stadtrundfahrt (@Bielefeld-Mitte)",
+        "category": "Fakten, Träume & Visionen - Die StadtTour",
+        "description": "Fakten, Träume & Visionen - Die StadtTour",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/webform/termine_melden/19160/dsc_3345-4.1.3.jpg?itok=Tzyz2gsP",
+        "link": "https://www.bielefeld.jetzt/node/1580456"
+    },
+    {
+        "date": "Sat, 19.09.2026",
         "time": "13:30",
         "event": "Unterm Ossi (@Bielefeld-Mitte)",
         "category": "Kulturfestival",
@@ -2307,6 +2325,15 @@
         "time": "15:00",
         "category": "Bildung",
         "link": "https://www.vhs-bielefeld.de/programm/kurs/Digitale-Stadtrallye-fuer-die-ganze-Familie/2627713E8#inhalt"
+    },
+    {
+        "date": "Sun, 20.09.2026",
+        "time": "11:00",
+        "event": "Zurück zu den Wurzeln – Ein kabarettistischer Spaziergang über den Johannisfriedhof (@Johannisfriedhof)",
+        "category": "Eine Annäherung an Leben und Tod mit Heinz Flottmann",
+        "description": "Eine Annäherung an Leben und Tod mit Heinz Flottmann",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/webform/termine_melden/19351/hf-j-friedhof-foto-a-koehn-blau.jpg?itok=V3-mqyFc",
+        "link": "https://www.bielefeld.jetzt/node/1605133"
     },
     {
         "date": "Sun, 20.09.2026",
@@ -2896,14 +2923,6 @@
         "link": "https://www.bielefeld.jetzt/node/1918840"
     },
     {
-        "date": "Sat, 26.09",
-        "time": "22:30",
-        "event": "TRANCELAND w SHOKI 287 (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/tranceland-w-shoki-287-26092026-2230",
-        "image_url": "https://www.club-sams.de/data/202608/SHOKI_287_Facebook-Video__150.jpg?v=1787742388"
-    },
-    {
         "date": "Sa, 26.09.2026",
         "time": "14:00",
         "event": "*TRIBE WANDERSAMSTAG*",
@@ -2945,6 +2964,22 @@
     },
     {
         "date": "Sat, 26.09",
+        "time": "22:30",
+        "event": "TRANCELAND w SHOKI 287 (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/tranceland-w-shoki-287-26092026-2230",
+        "image_url": "https://www.club-sams.de/data/202608/SHOKI_287_Facebook-Video__150.jpg?v=1787742388"
+    },
+    {
+        "date": "Sa, 26.09",
+        "time": "23:00",
+        "event": "MI • WET WEDNESDAY (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wet-wednesday-11/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/07/20260930_WetWednesday_4zu5.jpg"
+    },
+    {
+        "date": "Sat, 26.09",
         "time": "23:00",
         "event": "STEREO FREUNDESKREIS PARTY (@stereobielefeld)",
         "category": "Party",
@@ -2958,14 +2993,6 @@
         "category": "Party",
         "link": "https://stereo-bielefeld.de/events/block-in-da-block-2/",
         "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/08/Stereo_26_0926_Feed3.jpg"
-    },
-    {
-        "date": "Sa, 26.09",
-        "time": "23:00",
-        "event": "MI • WET WEDNESDAY (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wet-wednesday-11/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/07/20260930_WetWednesday_4zu5.jpg"
     },
     {
         "event": "Grundkurs Häkeln\r\nWorkshop für Anfängerinnen und Anfänger Wann: Sa. , 26.09.26, 10.00 Uhr Wo: Raum 306, 3. OG Süd Nr.: 2622602T8 (@volkshochschule.bielefeld)",
@@ -3279,14 +3306,6 @@
         "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
-        "date": "Thu, 01.10",
-        "time": "22:00",
-        "event": "Ersti Party (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/ersti-party-01102026-2200",
-        "image_url": "https://www.club-sams.de/data/202608/Bielefeld_02_10_4-5_150.jpg?v=1787843402"
-    },
-    {
         "date": "Th, 01.10.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
@@ -3327,6 +3346,14 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Thu, 01.10",
+        "time": "22:00",
+        "event": "Ersti Party (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/ersti-party-01102026-2200",
+        "image_url": "https://www.club-sams.de/data/202608/Bielefeld_02_10_4-5_150.jpg?v=1787843402"
+    },
+    {
         "date": "Do, 01.10",
         "time": "23:00",
         "event": "Ping Pong (@nr.z.p)",
@@ -3361,14 +3388,6 @@
         "link": "https://www.bielefeld.jetzt/node/2015800"
     },
     {
-        "date": "Fri, 02.10",
-        "time": "23:00",
-        "event": "Groove to Bounce (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/groove-to-bounce-02102026-2300",
-        "image_url": "https://www.club-sams.de/data/202609/GtB_2_10_Quadratisches_Kissen__150.jpg?v=1788515858"
-    },
-    {
         "date": "Fr, 02.10.2026",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro FRIDAY (@hinterzimmer.club)",
@@ -3393,6 +3412,14 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Fri, 02.10",
+        "time": "23:00",
+        "event": "Groove to Bounce (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/groove-to-bounce-02102026-2300",
+        "image_url": "https://www.club-sams.de/data/202609/GtB_2_10_Quadratisches_Kissen__150.jpg?v=1788515858"
+    },
+    {
         "date": "Fr, 02.10",
         "time": "23:00",
         "event": "SA • LOVE SATURDAYS (@cafe_europa_bi)",
@@ -3405,14 +3432,6 @@
         "event": "Dynablaster (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/dynablaster-11/",
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
-    },
-    {
-        "date": "Sat, 03.10",
-        "time": "22:30",
-        "event": "DARKSIDE OF SAMS (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/darkside-of-sams-03102026-2230",
-        "image_url": "https://www.club-sams.de/data/202607/vvk_2026_150_1.jpg?v=1784793062"
     },
     {
         "date": "Sa, 03.10.2026",
@@ -3445,6 +3464,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 03.10",
+        "time": "22:30",
+        "event": "DARKSIDE OF SAMS (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/darkside-of-sams-03102026-2230",
+        "image_url": "https://www.club-sams.de/data/202607/vvk_2026_150_1.jpg?v=1784793062"
     },
     {
         "date": "Sa, 03.10",
@@ -3823,14 +3850,6 @@
         "link": "https://www.bielefeld.jetzt/node/1535050"
     },
     {
-        "date": "Sat, 10.10",
-        "time": "22:30",
-        "event": "TRANCELAND feat HUT B DAY w AFEM SYKO (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/tranceland-feat-hut-b-day-w-afem-syko-10102026-2230",
-        "image_url": "https://www.club-sams.de/data/202603/vvk_2026_2__150.png?v=1774540725"
-    },
-    {
         "date": "Sa, 10.10.2026",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
@@ -3861,6 +3880,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Sat, 10.10",
+        "time": "22:30",
+        "event": "TRANCELAND feat HUT B DAY w AFEM SYKO (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/tranceland-feat-hut-b-day-w-afem-syko-10102026-2230",
+        "image_url": "https://www.club-sams.de/data/202603/vvk_2026_2__150.png?v=1774540725"
     },
     {
         "date": "Sa, 10.10",
@@ -4027,20 +4054,20 @@
         "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1149914903%2F458602689502%2F1%2Foriginal.jpg?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=9fe71dc7482ee7b9a2010ffe02860068"
     },
     {
-        "date": "Wed, 14.10",
-        "time": "23:00",
-        "event": "Semesterstart - Party (@stereobielefeld)",
-        "category": "Party",
-        "link": "https://stereo-bielefeld.de/events/semesterstart-party/",
-        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/03/Stereo_14_1026_Feed.jpg"
-    },
-    {
         "date": "Mi, 14.10",
         "time": "23:00",
         "event": "FR• FRIDAYS FINEST (@cafe_europa_bi)",
         "category": "Party",
         "link": "https://cafeeuropa.de/event/fr-fridays-finest-11/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/08/20261016_FridaysFinest_4zu5.jpg"
+    },
+    {
+        "date": "Wed, 14.10",
+        "time": "23:00",
+        "event": "Semesterstart - Party (@stereobielefeld)",
+        "category": "Party",
+        "link": "https://stereo-bielefeld.de/events/semesterstart-party/",
+        "image_url": "https://stereo-bielefeld.de/wp-content/uploads/2026/03/Stereo_14_1026_Feed.jpg"
     },
     {
         "date": "Th, 15.10.2026",
@@ -4121,14 +4148,6 @@
         "link": "https://www.bielefeld.jetzt/node/1988056"
     },
     {
-        "date": "Fri, 16.10",
-        "time": "23:00",
-        "event": "GRAUZONE (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/grauzone-16102026-2300",
-        "image_url": "https://www.club-sams.de/data/202609/Grauzone_lf_sser_16_10_Website_Quadratisches_Kissen__150.jpg?v=1788356800"
-    },
-    {
         "date": "Fr, 16.10.2026",
         "time": "23:00",
         "event": "LIV/Hinterzimmer Afro FRIDAY (@hinterzimmer.club)",
@@ -4151,6 +4170,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fri, 16.10",
+        "time": "23:00",
+        "event": "GRAUZONE (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/grauzone-16102026-2300",
+        "image_url": "https://www.club-sams.de/data/202609/Grauzone_lf_sser_16_10_Website_Quadratisches_Kissen__150.jpg?v=1788356800"
     },
     {
         "date": "Fri, 16.10.2026",
