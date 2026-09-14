@@ -1,6 +1,14 @@
 [
     {
         "date": "Mo, 14.09.2026",
+        "time": "17:30",
+        "event": "Die Odyssee (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Abenteuer & Fantasy",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
+        "date": "Mo, 14.09.2026",
         "time": "20:00",
         "event": "Pub Quiz (@irish_pub_bielefeld)",
         "category": "Ausgehen",
@@ -14,14 +22,6 @@
         "category": "Sport",
         "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         "image_url": "https://tse3.mm.bing.net/th/id/OIP.S2SyS4KZbgQ0_dDtL7HNZgAAAA?pid=Api&P=0&h=180"
-    },
-    {
-        "date": "Mo, 14.09.2026",
-        "time": "17:30",
-        "event": "Die Odyssee (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Abenteuer & Fantasy",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Mo, 14.09.2026",
@@ -88,6 +88,181 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "event": "Frauen entdecken ihre Stadt (@volkshochschule.bielefeld)",
+        "date": "Mo, 14.09.2026",
+        "time": "09:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Frauen-entdecken-ihre-Stadt/2621346K8F#inhalt"
+    },
+    {
+        "event": "Deutsche Gebärdensprache – Stufe 1 (@volkshochschule.bielefeld)",
+        "date": "Mo, 14.09.2026",
+        "time": "15:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Deutsche-Gebaerdensprache-Stufe-1/2621951K8B#inhalt"
+    },
+    {
+        "event": "Deutsche Gebärdensprache – Stufe 2 (@volkshochschule.bielefeld)",
+        "date": "Mo, 14.09.2026",
+        "time": "17:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Deutsche-Gebaerdensprache-Stufe-2/2621955K8B#inhalt"
+    },
+    {
+        "event": "Fit und gesund durch Tanzen (@volkshochschule.bielefeld)",
+        "date": "Mo, 14.09.2026",
+        "time": "10:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Fit-und-gesund-durch-Tanzen/2622435K8S#inhalt"
+    },
+    {
+        "event": "Ran ans Strickgarn\r\nStricken für Anfänger*innen und Fortgeschrittene Wann: ab Mo. , 14.09.26, 18.15 Uhr Wo: Raum 302, 3. OG Süd Nr.: 2622605K8 (@volkshochschule.bielefeld)",
+        "date": "Mo, 14.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Stricken-Ran-ans-Strickgarn/2622605K8#inhalt"
+    },
+    {
+        "event": "Patchwork: offene Werkstatt – ohne und mit Vorkenntnissen (@volkshochschule.bielefeld)",
+        "date": "Mo, 14.09.2026",
+        "time": "09:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Patchwork-offene-Werkstatt-ohne-und-mit-Vorkenntnissen/2622680K3#inhalt"
+    },
+    {
+        "event": "Hatha-Yoga \r\nMittelstufe für Kenner*innen Wann: ab Mo. , 14.09.26, 19.15 Uhr Wo: Raum 255, 2. OG Nord Nr.: 2623704K8 (@volkshochschule.bielefeld)",
+        "date": "Mo, 14.09.2026",
+        "time": "19:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Hatha-Yoga/2623704K8#inhalt"
+    },
+    {
+        "event": "Arabisch A1, 2. Semester (@volkshochschule.bielefeld)",
+        "date": "Mo, 14.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Arabisch-A1-2-Semester/2624009K8#inhalt"
+    },
+    {
+        "event": "Englisch am Vormittag A1, 3. Semester\r\nauch für ältere Erwachsene Wann: ab Mo. , 14.09.26, 11.30 Uhr Wo: Raum E05, Erdgeschoss Süd Nr.: 2624057K8 (@volkshochschule.bielefeld)",
+        "date": "Mo, 14.09.2026",
+        "time": "11:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Englisch-am-Vormittag-A1-3-Semester/2624057K8#inhalt"
+    },
+    {
+        "event": "Englisch am Vormittag B1, 1. Semester\r\nauch für ältere Erwachsene Wann: ab Mo. , 14.09.26, 10.15 Uhr Wo: Raum 261, 2. OG Nord Nr.: 2624069K8 (@volkshochschule.bielefeld)",
+        "date": "Mo, 14.09.2026",
+        "time": "10:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Englisch-am-Vormittag-B1-1-Semester/2624069K8#inhalt"
+    },
+    {
+        "event": "Englisch am Vormittag B1, 3. Semester\r\nauch für ältere Erwachsene Wann: ab Mo. , 14.09.26, 9.45 Uhr Wo: Raum E05, Erdgeschoss Süd Nr.: 2624071K8 (@volkshochschule.bielefeld)",
+        "date": "Mo, 14.09.2026",
+        "time": "09:45",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Englisch-am-Vormittag-B1-3-Semester/2624071K8#inhalt"
+    },
+    {
+        "event": "Englisch B1, 4. Semester (@volkshochschule.bielefeld)",
+        "date": "Mo, 14.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Englisch-B1-4-Semester/2624078K8#inhalt"
+    },
+    {
+        "event": "Französisch am Vormittag A1, 2. Semester\r\nauch für ältere Erwachsene Wann: ab Mo. , 14.09.26, 10.45 Uhr Wo: Raum 259, 2. OG Nord Nr.: 2624408K8 (@volkshochschule.bielefeld)",
+        "date": "Mo, 14.09.2026",
+        "time": "10:45",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Franzoesisch-am-Vormittag-A1-2-Semester/2624408K8#inhalt"
+    },
+    {
+        "event": "Französisch A2, 4. Semester (@volkshochschule.bielefeld)",
+        "date": "Mo, 14.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Franzoesisch-A2-4-Semester/2624424K8#inhalt"
+    },
+    {
+        "event": "Französisch am Vormittag B1, 1. Semester\r\nauch für ältere Erwachsene Wann: ab Mo. , 14.09.26, 10.45 Uhr Wo: Raum 253, 2. OG Nord Nr.: 2624428K8 (@volkshochschule.bielefeld)",
+        "date": "Mo, 14.09.2026",
+        "time": "10:45",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Franzoesisch-am-Vormittag-B1-1-Semester/2624428K8#inhalt"
+    },
+    {
+        "event": "Japanisch B1, 3. Semester (@volkshochschule.bielefeld)",
+        "date": "Mo, 14.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Japanisch-B1-3-Semester/2624610K8#inhalt"
+    },
+    {
+        "event": "Koreanisch A1, 3. Semester (@volkshochschule.bielefeld)",
+        "date": "Mo, 14.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Koreanisch-A1-3-Semester/2624616K8#inhalt"
+    },
+    {
+        "event": "Koreanisch A1, 4. Semester (@volkshochschule.bielefeld)",
+        "date": "Mo, 14.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Koreanisch-A1-4-Semester/2624617K8#inhalt"
+    },
+    {
+        "event": "Kurdisch A2  (Kurmancî) (@volkshochschule.bielefeld)",
+        "date": "Mo, 14.09.2026",
+        "time": "18:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Kurdisch-A2-Kurmanc/2624621K8#inhalt"
+    },
+    {
+        "event": "online: Polnisch A2: Auffrischung und einfache Konversation (@volkshochschule.bielefeld)",
+        "date": "Mo, 14.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/online-Polnisch-A2-Auffrischung-und-einfache-Konversation/2624657K8#inhalt"
+    },
+    {
+        "event": "Spanisch A1, 4. Semester (@volkshochschule.bielefeld)",
+        "date": "Mo, 14.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Spanisch-A1-4-Semester/2624743K8#inhalt"
+    },
+    {
+        "event": "Spanisch A2, 1. Semester (@volkshochschule.bielefeld)",
+        "date": "Mo, 14.09.2026",
+        "time": "09:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Spanisch-A2-1-Semester/2624752K8#inhalt"
+    },
+    {
+        "event": "Spanisch A2 ohne Eile (@volkshochschule.bielefeld)",
+        "date": "Mo, 14.09.2026",
+        "time": "11:45",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Spanisch-A2-ohne-Eile/2624782K8#inhalt"
+    },
+    {
+        "event": "Spanisch A2 ohne Eile\r\nfür Teilnehmende ab Ende Niveau A2 / Anfang Niveau B1 Wann: ab Mo. , 14.09.26, 18.00 Uhr Wo: ehem. Amtsgebäude Brackwede; Raum 5 Nr.: 2624783K1 (@volkshochschule.bielefeld)",
+        "date": "Mo, 14.09.2026",
+        "time": "18:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Spanisch-A2-ohne-Eile/2624783K1#inhalt"
+    },
+    {
+        "event": "Spanisch B1: Einfache Konversation am Vormittag (@volkshochschule.bielefeld)",
+        "date": "Mo, 14.09.2026",
+        "time": "10:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Spanisch-B1-Einfache-Konversation-am-Vormittag/2624806K8#inhalt"
+    },
+    {
         "date": "Mon, 14.09.2026",
         "time": "15:00",
         "event": "Orgelspaziergang durch Bielefeld-Mitte-Ost (@Helmholtz-Gymnasium)",
@@ -95,6 +270,14 @@
         "description": "Helmholtz-Gymnasium – Jakobuskirche – Liebfrauenkirche",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/bild/2025/csm_Logo_Orgelsommer_2025_16_9_7ac52d2055.jpg?itok=QNIyS8nC",
         "link": "https://www.bielefeld.jetzt/node/1956505"
+    },
+    {
+        "date": "Di, 15.09.2026",
+        "time": "17:30",
+        "event": "Die Odyssee (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Abenteuer & Fantasy",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Tu, 15.09.2026",
@@ -111,14 +294,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Di, 15.09.2026",
-        "time": "17:30",
-        "event": "Die Odyssee (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Abenteuer & Fantasy",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Di, 15.09.2026",
@@ -177,6 +352,357 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "event": "Frauen entdecken ihre Stadt (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "10:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Frauen-entdecken-ihre-Stadt/2621347K8F#inhalt"
+    },
+    {
+        "event": "Frauen entdecken ihre Stadt (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "10:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Frauen-entdecken-ihre-Stadt/2621370K8F#inhalt"
+    },
+    {
+        "event": "Schraubernachmittag\r\nin Kooperation mit dem Verein „Fahrräder bewegen Bielefeld (FBB) e. V.“ Wann: ab Di. , 15.09.26, 16.00 Uhr Wo: Nr.: 2621429X6 (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "16:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Schraubernachmittag/2621429X6#inhalt"
+    },
+    {
+        "event": "Das Betreuungsrecht – Einführung in die Aufgaben und Pflichten einer ehrenamtlichen rechtlichen Betreuung (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Betreuungsrecht/2621700E6#inhalt"
+    },
+    {
+        "event": "Vorsorgevollmacht und Patientenverfügung (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Vorsorgevollmacht-und-Patientenverfuegung/2621707E8#inhalt"
+    },
+    {
+        "event": "Leichter schreiben: Text-Training für die Arbeitswelt (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "15:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Leichter-schreiben-Text-Training-fuer-die-Arbeitswelt/2621850K8L#inhalt"
+    },
+    {
+        "event": "Einfach erklärt: Die digitale Welt (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "16:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Einfach-erklaert-Die-digitale-Welt/2621853K8L#inhalt"
+    },
+    {
+        "event": "Deutsche Gebärdensprache – Stufe 1 (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "15:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Deutsche-Gebaerdensprache-Stufe-1/2621953K8B#inhalt"
+    },
+    {
+        "event": "Deutsche Gebärdensprache – Stufe 2 (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "17:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Deutsche-Gebaerdensprache-Stufe-2/2621956K8B#inhalt"
+    },
+    {
+        "event": "Literaturgespräche am Nachmittag\r\nin Kooperation mit dem Begegnungszentrum Bültmannshof Wann: ab Di. , 15.09.26, 15.00 Uhr Wo: Begegnungszentrum Bültmannshof, TGA Groß Nr.: 2622109K8 (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "15:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Literaturgespraeche-am-Nachmittag/2622109K8#inhalt"
+    },
+    {
+        "event": "Gut bei Stimme I\r\nGesang für Laiensänger*innen und 'Badewannen-Carusos' Wann: ab Di. , 15.09.26, 20.00 Uhr Wo: Martin-Niemöller-Gesamtschule; Raum 065 (Musikbere Nr.: 2622344K8 (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "20:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Gut-bei-Stimme-I/2622344K8#inhalt"
+    },
+    {
+        "event": "Gut bei Stimme II\r\nGesang für erfahrene Laiensängerinnen und Laiensänger Wann: ab Di. , 15.09.26, 18.15 Uhr Wo: Martin-Niemöller-Gesamtschule; Raum 065 (Musikbere Nr.: 2622345K8 (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Gut-bei-Stimme-II/2622345K8#inhalt"
+    },
+    {
+        "event": "Nähen (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "18:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Naehen-Einstiegskurs/2622623K8#inhalt"
+    },
+    {
+        "event": "online: Antientzündliche Ernährung (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "19:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/online-Vortrag-Antientzuendliche-Ernaehrung/2623041E8#inhalt"
+    },
+    {
+        "event": "Japanisches Sushi selbst rollen (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "18:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Japanisches-Sushi-selbst-rollen/2623354T1#inhalt"
+    },
+    {
+        "event": "Bewegung und Körpererfahrung für Übergewichtige\r\nKleine Gruppe – große Wirkung Wann: ab Di. , 15.09.26, 10.00 Uhr Wo: Raum 255, 2. OG Nord Nr.: 2623404K8 (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "10:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Bewegung-und-Koerpererfahrung-fuer-UEbergewichtige/2623404K8#inhalt"
+    },
+    {
+        "event": "Ausgleichsgymnastik\r\nKurs für Frauen Wann: ab Di. , 15.09.26, 17.45 Uhr Wo: Turnhalle Auf dem Tie 1 Nr.: 2623416K6F (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "17:45",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Ausgleichsgymnastik/2623416K6F#inhalt"
+    },
+    {
+        "event": "Bodyforming für Frauen (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "19:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Bodyforming-fuer-Frauen/2623536K6F#inhalt"
+    },
+    {
+        "event": "Fit am Morgen (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "08:45",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Fit-am-Morgen/2623580K4#inhalt"
+    },
+    {
+        "event": "Hatha-Yoga\r\nfür Einstieg und Mittelstufe Wann: ab Di. , 15.09.26, 17.15 Uhr Wo: Hallenbad Heepen; Gymnastikraum Nr.: 2623731K2 (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "17:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Hatha-Yoga/2623731K2#inhalt"
+    },
+    {
+        "event": "Hatha-Yoga\r\nfür Einstieg und Mittelstufe Wann: ab Di. , 15.09.26, 16.30 Uhr Wo: Sennestadthaus; Raum 104 Nr.: 2623753K3 (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "16:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Hatha-Yoga/2623753K3#inhalt"
+    },
+    {
+        "event": "Hatha-Yoga\r\nfür Einstieg und Mittelstufe Wann: ab Di. , 15.09.26, 18.30 Uhr Wo: Sennestadthaus; Raum 104 Nr.: 2623754K3 (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "18:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Hatha-Yoga/2623754K3#inhalt"
+    },
+    {
+        "event": "Englisch am Nachmittag A2, 3. Semester\r\n\r\nauch für ältere Erwachsene Wann: ab Di. , 15.09.26, 16.00 Uhr Wo: Friedrich Wilhelm Murnau-GES, Haus 2, Raum 1.2 Nr.: 2624064K7 (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "16:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Englisch-am-Nachmittag-A2-3-Semester/2624064K7#inhalt"
+    },
+    {
+        "event": "Englisch am Vormittag A2, 4. Semester\r\nauch für ältere Erwachsene Wann: ab Di. , 15.09.26, 9.00 Uhr Wo: ehem. Amtsgebäude Brackwede; Raum 5 Nr.: 2624067K1 (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "09:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Englisch-am-Vormittag-A2-4-Semester/2624067K1#inhalt"
+    },
+    {
+        "event": "Englisch-Auffrischung A2, 2. Semester (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "17:50",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Englisch-Auffrischung-A2-2-Semester/2624102AK8#inhalt"
+    },
+    {
+        "event": "Englisch-Auffrischung A2, 3. Semester (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Englisch-Auffrischung-A2-3-Semester/2624102K8#inhalt"
+    },
+    {
+        "event": "Englisch B1 am Vormittag: Easy Conversation \r\nauch für ältere Erwachsene Wann: ab Di. , 15.09.26, 10.45 Uhr Wo: Raum E11, Erdgeschoss Süd Nr.: 2624252K8 (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "10:45",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Englisch-B1-am-Vormittag-Easy-Conversation/2624252K8#inhalt"
+    },
+    {
+        "event": "Englisch B1+ am Nachmittag: Conversation \r\nauch für ältere Erwachsene Wann: ab Di. , 15.09.26, 15.00 Uhr Wo: Raum E05, Erdgeschoss Süd Nr.: 2624270K8 (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "15:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Englisch-B1-am-Nachmittag-Conversation/2624270K8#inhalt"
+    },
+    {
+        "event": "Englisch B2 am Vormittag: Conversation Skills\r\nauch für ältere Erwachsene Wann: ab Di. , 15.09.26, 11.00 Uhr Wo: Raum E05, Erdgeschoss Süd Nr.: 2624286K8 (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "11:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Englisch-B2-am-Vormittag-Conversation-Skills/2624286K8#inhalt"
+    },
+    {
+        "event": "Englisch B2 am Vormittag: Conversation Skills\r\nauch für ältere Erwachsene Wann: ab Di. , 15.09.26, 9.00 Uhr Wo: Raum E11, Erdgeschoss Süd Nr.: 2624287K8 (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "09:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Englisch-B2-am-Vormittag-Conversation-Skills/2624287K8#inhalt"
+    },
+    {
+        "event": "Englisch B2 am Vormittag: Conversation Skills\r\nauch für ältere Erwachsene Wann: ab Di. , 15.09.26, 9.15 Uhr Wo: Raum E05, Erdgeschoss Süd Nr.: 2624288K8 (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "09:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Englisch-B2-am-Vormittag-Conversation-Skills/2624288K8#inhalt"
+    },
+    {
+        "event": "Englisch B2 am Vormittag: Conversation Skills\r\nauch für ältere Erwachsene Wann: ab Di. , 15.09.26, 10.45 Uhr Wo: ehem. Amtsgebäude Brackwede; Raum 5 Nr.: 2624290K1 (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "10:45",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Englisch-B2-am-Vormittag-Conversation-Skills/2624290K1#inhalt"
+    },
+    {
+        "event": "Englisch B2: Conversation Skills (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Englisch-B2-Conversation-Skills/2624295K8#inhalt"
+    },
+    {
+        "event": "Englisch B2+/C1 am Mittag: Conversation Skills\r\nauch für ältere Erwachsene Wann: ab Di. , 15.09.26, 13.15 Uhr Wo: Raum E05, Erdgeschoss Süd Nr.: 2624296K8 (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "13:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Englisch-B2C1-am-Mittag-Conversation-Skills/2624296K8#inhalt"
+    },
+    {
+        "event": "Französisch A2, 2. Semester (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Franzoesisch-A2-2-Semester/2624421K8#inhalt"
+    },
+    {
+        "event": "Französisch am Vormittag B1, 4. Semester\r\nauch für ältere Erwachsene Wann: ab Di. , 15.09.26, 10.30 Uhr Wo: Raum 259, 2. OG Nord Nr.: 2624440K8 (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "10:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Franzoesisch-am-Vormittag-B1-4-Semester/2624440K8#inhalt"
+    },
+    {
+        "event": "Französisch B1, 4. Semester (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Franzoesisch-B1-4-Semester/2624441K8#inhalt"
+    },
+    {
+        "event": "Französisch B1: Conversation facile et exercices de grammaire (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "18:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Franzoesisch-B1-Conversation-facile-et-exercices-de-grammaire/2624486K1#inhalt"
+    },
+    {
+        "event": "Hebräisch A1, 3. Semester (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Hebraeisch-A1-3-Semester/2624495K8#inhalt"
+    },
+    {
+        "event": "Hebräisch A1, 4. Semester (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "20:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Hebraeisch-A1-4-Semester/2624496K8#inhalt"
+    },
+    {
+        "event": "Italienisch A1, 1. Semester (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "20:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Italienisch-A1-1-Semester/2624510K8#inhalt"
+    },
+    {
+        "event": "Japanisch am Nachmittag A2, 1. Semester (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "16:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Japanisch-am-Nachmittag-A2-1-Semester/2624607K8#inhalt"
+    },
+    {
+        "event": "Japanisch B1: Einfache Konversation (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Japanisch-B1-Einfache-Konversation/2624611K8#inhalt"
+    },
+    {
+        "event": "Neugriechisch A1, 1. Semester (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Neugriechisch-A1-1-Semester/2624624K8#inhalt"
+    },
+    {
+        "event": "Niederländisch B2: Conversatiecursus (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Niederlaendisch-B2-Conversatiecursus/2624646K8#inhalt"
+    },
+    {
+        "event": "Norwegisch B1: Auffrischung und Vertiefung (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Norwegisch-B1-Auffrischung-und-Vertiefung/2624649K8#inhalt"
+    },
+    {
+        "event": "Russisch A1, 2. Semester (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Russisch-A1-2-Semester/2624674K8#inhalt"
+    },
+    {
+        "event": "Türkisch B1: Einfache Konversation (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "20:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Tuerkisch-B1-Einfache-Konversation/2624881K8#inhalt"
+    },
+    {
+        "event": "Einzelcoaching für PC oder Smartphone (@volkshochschule.bielefeld)",
+        "date": "Di, 15.09.2026",
+        "time": "15:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Einzelcoaching-fuer-PC-oder-Smartphone/2625613K8#inhalt"
+    },
+    {
+        "date": "Mi, 16.09.2026",
+        "time": "17:30",
+        "event": "Die Odyssee (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Abenteuer & Fantasy",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
         "date": "We, 16.09.2026",
         "time": "21:00",
         "event": "Karaoke (@irish_pub_bielefeld)",
@@ -207,14 +733,6 @@
         "category": "Sport",
         "link": "https://www.instagram.com/teilzeitlaeuferbi/",
         "image_url": null
-    },
-    {
-        "date": "Mi, 16.09.2026",
-        "time": "17:30",
-        "event": "Die Odyssee (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Abenteuer & Fantasy",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Mi, 16.09.2026",
@@ -273,6 +791,69 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "event": "Frauen entdecken ihre Stadt (@volkshochschule.bielefeld)",
+        "date": "Mi, 16.09.2026",
+        "time": "15:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Frauen-entdecken-ihre-Stadt/2621364K8F#inhalt"
+    },
+    {
+        "event": "Frauen machen Stippvisiten in Stadt und Gesellschaft (@volkshochschule.bielefeld)",
+        "date": "Mi, 16.09.2026",
+        "time": "18:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Frauen-machen-Stippvisiten-in-Stadt-und-Gesellschaft/2621371K8F#inhalt"
+    },
+    {
+        "event": "Männer, Technik und Kultur\r\nExkursionen für Männer Wann: ab Mi. , 16.09.26, 15.00 Uhr Wo: Nr.: 2621399K8 (@volkshochschule.bielefeld)",
+        "date": "Mi, 16.09.2026",
+        "time": "15:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Maenner-Technik-und-Kultur/2621399K8#inhalt"
+    },
+    {
+        "event": "Siebdruck für Einsteigerinnen und Einsteiger (@volkshochschule.bielefeld)",
+        "date": "Mi, 16.09.2026",
+        "time": "18:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Siebdruck-fuer-Einsteigerinnen-und-Einsteiger/2622560T8#inhalt"
+    },
+    {
+        "event": "Französisch A2, 1. Semester (@volkshochschule.bielefeld)",
+        "date": "Mi, 16.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Franzoesisch-A2-1-Semester/2624419K8#inhalt"
+    },
+    {
+        "event": "Französisch B1: Conversation facile et exercices de grammaire (@volkshochschule.bielefeld)",
+        "date": "Mi, 16.09.2026",
+        "time": "17:45",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Franzoesisch-B1-Conversation-facile-et-exercices-de-grammaire/2624481K8#inhalt"
+    },
+    {
+        "event": "Niederländisch B2, 3. Semester (@volkshochschule.bielefeld)",
+        "date": "Mi, 16.09.2026",
+        "time": "17:45",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Niederlaendisch-B2-3-Semester/2624642K8#inhalt"
+    },
+    {
+        "event": "Niederländisch B1: Conversatiecursus (@volkshochschule.bielefeld)",
+        "date": "Mi, 16.09.2026",
+        "time": "19:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Niederlaendisch-B1-Conversatiecursus/2624643K8#inhalt"
+    },
+    {
+        "event": "Spanisch A2, 2. Semester (@volkshochschule.bielefeld)",
+        "date": "Mi, 16.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Spanisch-A2-2-Semester/2624760K8#inhalt"
+    },
+    {
         "date": "We, 16.09",
         "event": "Sampagne (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/sampagne/",
@@ -301,6 +882,22 @@
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 17.09.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Do, 17.09.2026",
+        "time": "17:30",
+        "event": "Die Odyssee (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Abenteuer & Fantasy",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Th, 17.09.2026",
@@ -341,22 +938,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 17.09.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
-        "date": "Do, 17.09.2026",
-        "time": "17:30",
-        "event": "Die Odyssee (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Abenteuer & Fantasy",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Do, 17.09.2026",
@@ -423,6 +1004,125 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "event": "Frauen entdecken ihre Stadt (@volkshochschule.bielefeld)",
+        "date": "Do, 17.09.2026",
+        "time": "10:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Frauen-entdecken-ihre-Stadt/2621349K1F#inhalt"
+    },
+    {
+        "event": "Frauen entdecken ihre Stadt (@volkshochschule.bielefeld)",
+        "date": "Do, 17.09.2026",
+        "time": "15:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Frauen-entdecken-ihre-Stadt/2621369K8F#inhalt"
+    },
+    {
+        "event": "Nähen (@volkshochschule.bielefeld)",
+        "date": "Do, 17.09.2026",
+        "time": "18:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Naehen-Einstiegskurs/2622624K8#inhalt"
+    },
+    {
+        "event": "Persische Küche – Zauber des Orients\r\nNeue Rezepte Wann: Do. , 17.09.26, 18.00 Uhr Wo: Marktschule; Lehrküche Nr.: 2623310T1 (@volkshochschule.bielefeld)",
+        "date": "Do, 17.09.2026",
+        "time": "18:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Persische-Kueche-Zauber-des-Orients/2623310T1#inhalt"
+    },
+    {
+        "event": "Hatha-Yoga\r\nfür Einstieg und Mittelstufe Wann: ab Do. , 17.09.26, 18.00 Uhr Wo: Hallenbad Heepen; Gymnastikraum Nr.: 2623724K2 (@volkshochschule.bielefeld)",
+        "date": "Do, 17.09.2026",
+        "time": "18:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Hatha-Yoga/2623724K2#inhalt"
+    },
+    {
+        "event": "Hatha-Yoga\r\nfür Einstieg und Mittelstufe Wann: ab Do. , 17.09.26, 18.00 Uhr Wo: Carola Stettler Krankengymnastik-Praxis Nr.: 2623727K2 (@volkshochschule.bielefeld)",
+        "date": "Do, 17.09.2026",
+        "time": "18:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Hatha-Yoga/2623727K2#inhalt"
+    },
+    {
+        "event": "Slow Yoga: Ruhe und Entschleunigung (@volkshochschule.bielefeld)",
+        "date": "Do, 17.09.2026",
+        "time": "10:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Slow-Yoga-Ruhe-und-Entschleunigung/2623831K8#inhalt"
+    },
+    {
+        "event": "Yoga für den Rücken (@volkshochschule.bielefeld)",
+        "date": "Do, 17.09.2026",
+        "time": "09:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Yoga-fuer-den-Ruecken/2623849K5F#inhalt"
+    },
+    {
+        "event": "Englisch A1, 1. Semester (@volkshochschule.bielefeld)",
+        "date": "Do, 17.09.2026",
+        "time": "16:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Englisch-A1-1-Semester/2624049K8#inhalt"
+    },
+    {
+        "event": "Englisch A2, 1. Semester (@volkshochschule.bielefeld)",
+        "date": "Do, 17.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Englisch-A2-1-Semester/2624062K8#inhalt"
+    },
+    {
+        "event": "Englisch-Auffrischung A2, 3. Semester (@volkshochschule.bielefeld)",
+        "date": "Do, 17.09.2026",
+        "time": "16:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Englisch-Auffrischung-A2-3-Semester/2624103K4#inhalt"
+    },
+    {
+        "event": "Let’s start talking! – Konversation für Einsteiger*innen am Nachmittag\r\nauch für ältere Erwachsene Wann: ab Do. , 17.09.26, 14.45 Uhr Wo: Raum 261, 2. OG Nord Nr.: 2624249K8 (@volkshochschule.bielefeld)",
+        "date": "Do, 17.09.2026",
+        "time": "14:45",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Lets-start-talking-Konversation-fuer-Einsteigerinnen-am-Nachmittag/2624249K8#inhalt"
+    },
+    {
+        "event": "Französisch A1, 1. Semester (@volkshochschule.bielefeld)",
+        "date": "Do, 17.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Franzoesisch-A1-1-Semester/2624405K8#inhalt"
+    },
+    {
+        "event": "Französisch A1, 1. Semester (@volkshochschule.bielefeld)",
+        "date": "Do, 17.09.2026",
+        "time": "20:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Franzoesisch-A1-1-Semester/2624407K8#inhalt"
+    },
+    {
+        "event": "Französisch B1: Conversation facile et exercices de grammaire (@volkshochschule.bielefeld)",
+        "date": "Do, 17.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Franzoesisch-B1-Conversation-facile-et-exercices-de-grammaire/2624483K8#inhalt"
+    },
+    {
+        "event": "Plattdeutsch lernen \r\nEin Kurs für Einsteiger*innen und Fortgeschrittene Wann: ab Do. , 17.09.26, 18.15 Uhr Wo: Raum 257, 2. OG Nord Nr.: 2624647K8 (@volkshochschule.bielefeld)",
+        "date": "Do, 17.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Plattdeutsch-lernen/2624647K8#inhalt"
+    },
+    {
+        "event": "Spanisch A2, 2. Semester (@volkshochschule.bielefeld)",
+        "date": "Do, 17.09.2026",
+        "time": "10:45",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Spanisch-A2-2-Semester/2624764K8#inhalt"
+    },
+    {
         "date": "Th, 17.09",
         "event": "Gabriel Kellyfällt aus! (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/gabriel-kelly-2/",
@@ -451,6 +1151,14 @@
         "category": "Party",
         "link": "https://www.club-sams.de/veranstaltung/we-outside-season-5-18092026-2200",
         "image_url": "https://www.club-sams.de/data/202609/we_outside_150.jpeg?v=1789402100"
+    },
+    {
+        "date": "Fr, 18.09.2026",
+        "time": "17:30",
+        "event": "Die Odyssee (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Abenteuer & Fantasy",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Fr, 18.09.2026",
@@ -502,14 +1210,6 @@
     },
     {
         "date": "Fr, 18.09.2026",
-        "time": "17:30",
-        "event": "Die Odyssee (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Abenteuer & Fantasy",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
-    },
-    {
-        "date": "Fr, 18.09.2026",
         "time": "12:00",
         "event": "Padel Tennis(@hochschulsport_bielefeld)",
         "category": "Sport",
@@ -555,6 +1255,20 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_39814",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "event": "Nachhaltiger leben – einfach gemacht\r\nWorkshop-Reihe in Kooperation mit dem Hof Ramsbrock Wann: ab Fr. , 18.09.26, 17.00 Uhr Wo: Hof Ramsbrock Nr.: 2621403E4 (@volkshochschule.bielefeld)",
+        "date": "Fr, 18.09.2026",
+        "time": "17:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Nachhaltiger-leben-einfach-gemacht/2621403E4#inhalt"
+    },
+    {
+        "event": "Kom maar binnen! \r\nfür Teilnehmende mit geringen Vorkenntnissen Wann: ab Fr. , 18.09.26, 11.30 Uhr Wo: Bürgerzentrum Amt Dornberg, Kursraum Nr.: 2624636K8 (@volkshochschule.bielefeld)",
+        "date": "Fr, 18.09.2026",
+        "time": "11:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Kom-maar-binnen/2624636K8#inhalt"
     },
     {
         "date": "Fr, 18.09",
@@ -606,6 +1320,14 @@
     },
     {
         "date": "Sa, 19.09.2026",
+        "time": "17:30",
+        "event": "Die Odyssee (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Abenteuer & Fantasy",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
+        "date": "Sa, 19.09.2026",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
         "category": "Sport",
@@ -654,14 +1376,6 @@
     },
     {
         "date": "Sa, 19.09.2026",
-        "time": "17:30",
-        "event": "Die Odyssee (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Abenteuer & Fantasy",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
-    },
-    {
-        "date": "Sa, 19.09.2026",
         "time": "08:00",
         "event": "Wandern(@hochschulsport_bielefeld)",
         "category": "Sport",
@@ -691,6 +1405,41 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_43626",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "event": "Qualifizierungsreihe für Integrationsräte\r\n„Chancengerechtigkeit und Integration vor Ort. Die Politik in unserer Stadt mitgestalten“ Wann: ab Sa. , 19.09.26, 10.00 Uhr Wo: Murnau-Saal, 3.OG Mitte Nr.: 2611670T8 (@volkshochschule.bielefeld)",
+        "date": "Sa, 19.09.2026",
+        "time": "10:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Qualifizierungsreihe-fuer-Integrationsraete/2611670T8#inhalt"
+    },
+    {
+        "event": "Vogelkundlicher Rundgang durch die Johannesbachaue (@volkshochschule.bielefeld)",
+        "date": "Sa, 19.09.2026",
+        "time": "09:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Vogelkundlicher-Rundgang-durch-die-Johannesbachaue/2621463X2#inhalt"
+    },
+    {
+        "event": "The Rolling Stones: \"Black and Blue – Tatoo You\" ! (@volkshochschule.bielefeld)",
+        "date": "Sa, 19.09.2026",
+        "time": "19:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/The-Rolling-Stones-Black-and-Blue-Tatoo-You/2622003E8#inhalt"
+    },
+    {
+        "event": "Schnupperkurs – Golf für Einsteiger*innen\r\nin Kooperation mit dem Golfclub Ravensberger Land e. V. Wann: Sa. , 19.09.26, 10.00 Uhr Wo: Nr.: 2623680T6 (@volkshochschule.bielefeld)",
+        "date": "Sa, 19.09.2026",
+        "time": "10:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Schnupperkurs-Golf-fuer-Einsteigerinnen/2623680T6#inhalt"
+    },
+    {
+        "event": "Die Kraft in dir: Regeneration von Körper und Psyche in der neuen Realität\r\nJede Sprache zählt: Kursangebot in ukrainischer Sprache für Frauen Wann: ab Sa. , 19.09.26, 10.00 Uhr Wo: Raum 240, 2. OG Mitte Nr.: 2627233K8P (@volkshochschule.bielefeld)",
+        "date": "Sa, 19.09.2026",
+        "time": "10:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Die-Kraft-in-dir-Regeneration-von-Koerper-und-Psyche-in-der-neuen-Realitaet/2627233K8P#inhalt"
     },
     {
         "date": "Sat, 19.09.2026",
@@ -756,6 +1505,14 @@
         "link": "https://www.bielefeld.jetzt/node/1431888"
     },
     {
+        "date": "So, 20.09.2026",
+        "time": "17:30",
+        "event": "Die Odyssee (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Abenteuer & Fantasy",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
         "date": "Su, 20.09.2026",
         "time": "19:00",
         "event": "*TRIBE KENNENLERNABEND*",
@@ -781,19 +1538,32 @@
     },
     {
         "date": "So, 20.09.2026",
-        "time": "17:30",
-        "event": "Die Odyssee (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Abenteuer & Fantasy",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
-    },
-    {
-        "date": "So, 20.09.2026",
         "time": "11:00",
         "event": "Laufen(@hochschulsport_bielefeld)",
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38924",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "event": "Ausstellung \"Das jüdische Viertel. 29.09.\" – Werkzyklus von Vira Vaysberg (@volkshochschule.bielefeld)",
+        "date": "So, 20.09.2026",
+        "time": "10:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Ausstellung-Das-juedische-Viertel-2909-Werkzyklus-von-Vira-Vaysberg/2621304A8#inhalt"
+    },
+    {
+        "event": "Ausstellungseröffnung \"Das jüdische Viertel. 29.09.\" (@volkshochschule.bielefeld)",
+        "date": "So, 20.09.2026",
+        "time": "11:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Ausstellungseroeffnung-Das-juedische-Viertel-2909/2621305E8#inhalt"
+    },
+    {
+        "event": "Digitale Stadtrallye für die ganze Familie\r\nMit dem Leineweber durch die Bielefelder Stadtgeschichte Wann: So. , 20.09.26, 15.00 Uhr Wo: Leineweberbrunnen, Altstädter Kirchplatz Nr.: 2627713E8 (@volkshochschule.bielefeld)",
+        "date": "So, 20.09.2026",
+        "time": "15:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Digitale-Stadtrallye-fuer-die-ganze-Familie/2627713E8#inhalt"
     },
     {
         "date": "Sun, 20.09.2026",
@@ -921,6 +1691,41 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "event": "Politik im Blick\r\nMit Dr. Ricardo Kaufer Wann: ab Mo. , 21.09.26, 18.15 Uhr Wo: Raum 240, 2. OG Mitte Nr.: 2621038E8 (@volkshochschule.bielefeld)",
+        "date": "Mo, 21.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Politik-im-Blick/2621038E8#inhalt"
+    },
+    {
+        "event": "Kreatives Schreiben (@volkshochschule.bielefeld)",
+        "date": "Mo, 21.09.2026",
+        "time": "18:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Kreatives-Schreiben/2622144K8#inhalt"
+    },
+    {
+        "event": "Hatha-Yoga\r\nfür Einstieg und Mittelstufe Wann: ab Mo. , 21.09.26, 10.00 Uhr Wo: Sennestadthaus; Raum 104 Nr.: 2623750K3 (@volkshochschule.bielefeld)",
+        "date": "Mo, 21.09.2026",
+        "time": "10:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Hatha-Yoga/2623750K3#inhalt"
+    },
+    {
+        "event": "Niederländisch A1, 1. Semester (@volkshochschule.bielefeld)",
+        "date": "Mo, 21.09.2026",
+        "time": "16:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Niederlaendisch-A1-1-Semester/2624632K8#inhalt"
+    },
+    {
+        "event": "Orientierungskurs (@volkshochschule.bielefeld)",
+        "date": "Mo, 21.09.2026",
+        "time": "09:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Orientierungskurs/2626575K8#inhalt"
+    },
+    {
         "date": "Tu, 22.09.2026",
         "time": "18:00",
         "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
@@ -991,6 +1796,48 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_38938",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "event": "Türkischer Rechtsextremismus in Deutschland (@volkshochschule.bielefeld)",
+        "date": "Di, 22.09.2026",
+        "time": "19:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Tuerkischer-Rechtsextremismus-in-Deutschland/2621015E8#inhalt"
+    },
+    {
+        "event": "Grundfragen der Philosophie\r\nEinstieg und Diskussion Wann: ab Di. , 22.09.26, 17.00 Uhr Wo: VHS Senne; Seminarraum Nr.: 2621150K4 (@volkshochschule.bielefeld)",
+        "date": "Di, 22.09.2026",
+        "time": "17:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Grundfragen-der-Philosophie/2621150K4#inhalt"
+    },
+    {
+        "event": "Frauen entdecken ihre Stadt (@volkshochschule.bielefeld)",
+        "date": "Di, 22.09.2026",
+        "time": "10:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Frauen-entdecken-ihre-Stadt/2621360K8F#inhalt"
+    },
+    {
+        "event": "Online-Workshop: Weniger Zucker – mehr Power (@volkshochschule.bielefeld)",
+        "date": "Di, 22.09.2026",
+        "time": "19:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Online-Workshop-Weniger-Zucker-mehr-Power/2623172E8#inhalt"
+    },
+    {
+        "event": "Japanisches Sushi selbst rollen (@volkshochschule.bielefeld)",
+        "date": "Di, 22.09.2026",
+        "time": "17:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Japanisches-Sushi-selbst-rollen/2623359T2#inhalt"
+    },
+    {
+        "event": "Einzelcoaching für PC oder Smartphone (@volkshochschule.bielefeld)",
+        "date": "Di, 22.09.2026",
+        "time": "15:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Einzelcoaching-fuer-PC-oder-Smartphone/2625615K8#inhalt"
     },
     {
         "date": "Tue, 22.09.2026",
@@ -1106,6 +1953,83 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "event": "Wechseljahre (@volkshochschule.bielefeld)",
+        "date": "Mi, 23.09.2026",
+        "time": "18:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Wechseljahre/2621310E8#inhalt"
+    },
+    {
+        "event": "Find Your Voice: Women’s Reading Circle (@volkshochschule.bielefeld)",
+        "date": "Mi, 23.09.2026",
+        "time": "10:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Find-Your-Voice-Womens-Reading-Circle/2622108K8P#inhalt"
+    },
+    {
+        "event": "Libanesische Küche (@volkshochschule.bielefeld)",
+        "date": "Mi, 23.09.2026",
+        "time": "18:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Libanesische-Kueche/2623331T6#inhalt"
+    },
+    {
+        "event": "Fitter mit Hund\r\naktiv dank vier Pfoten Wann: ab Mi. , 23.09.26, 18.00 Uhr Wo: Nr.: 2623688K4 (@volkshochschule.bielefeld)",
+        "date": "Mi, 23.09.2026",
+        "time": "18:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Fitter-mit-Hund/2623688K4#inhalt"
+    },
+    {
+        "event": "Faszien-Yoga zur Stressreduktion und Regeneration\r\nKurs für Frauen Wann: ab Mi. , 23.09.26, 9.30 Uhr Wo: Raum 255, 2. OG Nord Nr.: 2623801K8F (@volkshochschule.bielefeld)",
+        "date": "Mi, 23.09.2026",
+        "time": "09:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Faszien-Yoga-zur-Stressreduktion-und-Regeneration/2623801K8F#inhalt"
+    },
+    {
+        "event": "Sanftes Yoga für ältere Menschen (@volkshochschule.bielefeld)",
+        "date": "Mi, 23.09.2026",
+        "time": "10:45",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Sanftes-Yoga-fuer-aeltere-Menschen/2623802K8#inhalt"
+    },
+    {
+        "event": "Bewegung – Entspannung – Ruhe mit Qigong (@volkshochschule.bielefeld)",
+        "date": "Mi, 23.09.2026",
+        "time": "17:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Bewegung-Entspannung-Ruhe-mit-Qigong/2623970K8#inhalt"
+    },
+    {
+        "event": "Tai Chi Chuan\r\n24 Form Yang-Stil Wann: ab Mi. , 23.09.26, 18.30 Uhr Wo: Raum E10, Erdgeschoss Süd Nr.: 2623983K8 (@volkshochschule.bielefeld)",
+        "date": "Mi, 23.09.2026",
+        "time": "18:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Tai-Chi-Chuan-24-Form-Yang-Stil/2623983K8#inhalt"
+    },
+    {
+        "event": "Spanisch A1, 1. Semester (@volkshochschule.bielefeld)",
+        "date": "Mi, 23.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Spanisch-A1-1-Semester/2624713K8#inhalt"
+    },
+    {
+        "event": "Zukunft planen, Wunschjob finden\r\nPräsenz-Vortrag Life/Work Planning Wann: Mi. , 23.09.26, 18.00 Uhr Wo: Raum 257, 2. OG Nord Nr.: 2625405K8 (@volkshochschule.bielefeld)",
+        "date": "Mi, 23.09.2026",
+        "time": "18:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Zukunft-planen-Wunschjob-finden-Vortrag-LifeWork-Planning/2625405K8#inhalt"
+    },
+    {
+        "event": "Digital? Machen wir gemeinsam!\r\nSprechstunde für digitale Alltagsfragen Wann: ab Mi. , 23.09.26, 16.00 Uhr Wo: Kleiner Saal, Erdgeschoß Süd Nr.: 2625600K8 (@volkshochschule.bielefeld)",
+        "date": "Mi, 23.09.2026",
+        "time": "16:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Digital-Machen-wir-gemeinsam-Sprechstunde-fuer-digitale-Alltagsfragen/2625600K8#inhalt"
+    },
+    {
         "date": "Mi, 23.09",
         "time": "",
         "event": "Tanztreff (@nr.z.p)",
@@ -1119,6 +2043,14 @@
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 24.09.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 24.09.2026",
@@ -1161,12 +2093,74 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Th, 24.09.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+        "event": "Vor Ort: Kreativer Spaziergang auf dem Sennefriedhof (@volkshochschule.bielefeld)",
+        "date": "Do, 24.09.2026",
+        "time": "16:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Vor-Ort-Kreativer-Spaziergang-auf-dem-Sennefriedhof/2622146K4#inhalt"
+    },
+    {
+        "event": "Tipps zum erholsamen Schlaf (@volkshochschule.bielefeld)",
+        "date": "Do, 24.09.2026",
+        "time": "18:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Tipps-zum-erholsamen-Schlaf/2623020E8#inhalt"
+    },
+    {
+        "event": "Embodiment: Die Kraft der Körper-Psyche-Verbindung nutzen (@volkshochschule.bielefeld)",
+        "date": "Do, 24.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Embodiment-Die-Kraft-der-Koerper-Psyche-Verbindung-nutzen/2623122T8#inhalt"
+    },
+    {
+        "event": "Das Geheimnis der Fermentation (@volkshochschule.bielefeld)",
+        "date": "Do, 24.09.2026",
+        "time": "18:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Das-Geheimnis-der-Fermentation/2623222T6#inhalt"
+    },
+    {
+        "event": "Italienische Küche: Gnocchi (@volkshochschule.bielefeld)",
+        "date": "Do, 24.09.2026",
+        "time": "18:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Italienische-Kueche-Gnocchi/2623269T8#inhalt"
+    },
+    {
+        "event": "Italienisch A1, 1. Semester (@volkshochschule.bielefeld)",
+        "date": "Do, 24.09.2026",
+        "time": "09:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Italienisch-A1-1-Semester/2624512K8#inhalt"
+    },
+    {
+        "event": "Italienisch A1, 1. Semester (@volkshochschule.bielefeld)",
+        "date": "Do, 24.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Italienisch-A1-1-Semester/2624515K8#inhalt"
+    },
+    {
+        "event": "Italienisch Konversation B1 – Sprechen, verstehen, vertiefen\r\nfür Teilnehmende ab ca. Mitte Niveau B1 Wann: ab Do. , 24.09.26, 16.30 Uhr Wo: Raum E05, Erdgeschoss Süd Nr.: 2624597K8 (@volkshochschule.bielefeld)",
+        "date": "Do, 24.09.2026",
+        "time": "16:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Italienisch-Konversation-B1-Sprechen-verstehen-vertiefen/2624597K8#inhalt"
+    },
+    {
+        "event": "Sprachcafé Spanisch: Café de idiomas\r\nVariantes del español Wann: ab Do. , 24.09.26, 17.00 Uhr Wo: Nr.: 2624701K8 (@volkshochschule.bielefeld)",
+        "date": "Do, 24.09.2026",
+        "time": "17:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Sprachcaf-Spanisch-Caf-de-idiomas/2624701K8#inhalt"
+    },
+    {
+        "event": "Deutsch Anfängerstufe 4 / Aufbaukurs 1 (@volkshochschule.bielefeld)",
+        "date": "Do, 24.09.2026",
+        "time": "09:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Deutsch-Anfaengerstufe-4-Aufbaukurs-1/2626543K8#inhalt"
     },
     {
         "date": "Do, 24.09",
@@ -1214,6 +2208,62 @@
         "category": "Party",
         "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-cocktail-night-12/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/07/20260926_Cocktailparty_4zu5.jpg"
+    },
+    {
+        "event": "Handlettering und Schmuckkalligrafie (@volkshochschule.bielefeld)",
+        "date": "Fr, 25.09.2026",
+        "time": "17:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Handlettering-und-Schmuckkalligrafie/2622503T6#inhalt"
+    },
+    {
+        "event": "Bild für Bild: Kneten, bewegen, fotografieren (@volkshochschule.bielefeld)",
+        "date": "Fr, 25.09.2026",
+        "time": "16:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Bild-fuer-Bild-Kneten-bewegen-fotografieren/2622926W8#inhalt"
+    },
+    {
+        "event": "Was bringt Meditation? Das sagt die Wissenschaft (@volkshochschule.bielefeld)",
+        "date": "Fr, 25.09.2026",
+        "time": "18:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Was-bringt-Meditation-Das-sagt-die-Wissenschaft/2623025E8#inhalt"
+    },
+    {
+        "event": "Workshop: Myofasziale Ketten: Zum Zusammenhang zwischen Körper und Gesicht\r\nWie Körperhaltung und Faszien das Gesicht beeinflussen – mit Körperanalyse Wann: Fr. , 25.09.26, 15.00 Uhr Wo: Murnau-Saal, 3.OG Mitte Nr.: 2623060E8F (@volkshochschule.bielefeld)",
+        "date": "Fr, 25.09.2026",
+        "time": "15:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Workshop-Myofasziale-Ketten/2623060E8F#inhalt"
+    },
+    {
+        "event": "Koreanische Küche mit Wildkräutern (@volkshochschule.bielefeld)",
+        "date": "Fr, 25.09.2026",
+        "time": "17:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Koreanische-Kueche-mit-Wildkraeutern/2623380T6#inhalt"
+    },
+    {
+        "event": "Yoga für Rücken, Nacken und Gelenke (@volkshochschule.bielefeld)",
+        "date": "Fr, 25.09.2026",
+        "time": "09:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Yoga-fuer-Ruecken-Nacken-und-Gelenke/2623847K8#inhalt"
+    },
+    {
+        "event": "Yoga für Beweglichkeit, Dehnung und Entspannung (@volkshochschule.bielefeld)",
+        "date": "Fr, 25.09.2026",
+        "time": "10:45",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Yoga-fuer-Beweglichkeit-Dehnung-und-Entspannung/2623851K8#inhalt"
+    },
+    {
+        "event": "MS Office Auffrischung (@volkshochschule.bielefeld)",
+        "date": "Fr, 25.09.2026",
+        "time": "16:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/MS-Office-Auffrischung/2625530K8#inhalt"
     },
     {
         "date": "Fr, 25.09",
@@ -1339,6 +2389,69 @@
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/07/20260930_WetWednesday_4zu5.jpg"
     },
     {
+        "event": "Grundkurs Häkeln\r\nWorkshop für Anfängerinnen und Anfänger Wann: Sa. , 26.09.26, 10.00 Uhr Wo: Raum 306, 3. OG Süd Nr.: 2622602T8 (@volkshochschule.bielefeld)",
+        "date": "Sa, 26.09.2026",
+        "time": "10:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Grundkurs-Haekeln/2622602T8#inhalt"
+    },
+    {
+        "event": "Hilfe beim Antragsverfahren für einen Pflegegrad (@volkshochschule.bielefeld)",
+        "date": "Sa, 26.09.2026",
+        "time": "10:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Hilfe-beim-Antragsverfahren-fuer-einen-Pflegegrad/2623045T8#inhalt"
+    },
+    {
+        "event": "Raus aus der inneren Unruhe (@volkshochschule.bielefeld)",
+        "date": "Sa, 26.09.2026",
+        "time": "10:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Raus-aus-der-inneren-Unruhe/2623121T8#inhalt"
+    },
+    {
+        "event": "Türkische Küche – vegetarisch und vegan (@volkshochschule.bielefeld)",
+        "date": "Sa, 26.09.2026",
+        "time": "10:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Tuerkische-Kueche-vegetarisch-und-vegan/2623283T1#inhalt"
+    },
+    {
+        "event": "Workshop: Meditation für Einsteiger*innen (@volkshochschule.bielefeld)",
+        "date": "Sa, 26.09.2026",
+        "time": "10:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Workshop-Meditation-fuer-Einsteigerinnen/2623954T8#inhalt"
+    },
+    {
+        "event": "Ubuntu Linux \r\nInstallationsworkshop Wann: Sa. , 26.09.26, 10.00 Uhr Wo: Raum 250, 2. OG Nord Nr.: 2625804K8 (@volkshochschule.bielefeld)",
+        "date": "Sa, 26.09.2026",
+        "time": "10:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Ubuntu-Linux-Installationsworkshop/2625804K8#inhalt"
+    },
+    {
+        "event": "KI im Berufsalltag\r\nEffizienter arbeiten mit ChatGPT und anderen KI-Tools Wann: Sa. , 26.09.26, 9.00 Uhr Wo: Raum 262, 2. OG Nord Nr.: 2627702K8 (@volkshochschule.bielefeld)",
+        "date": "Sa, 26.09.2026",
+        "time": "09:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/KI-im-Berufsalltag/2627702K8#inhalt"
+    },
+    {
+        "event": "Recht und Ethik der Künstlichen Intelligenz\r\nEin Überblick Wann: Sa. , 26.09.26, 10.00 Uhr Wo: Raum 260, 2. OG Nord Nr.: 2627710K8 (@volkshochschule.bielefeld)",
+        "date": "Sa, 26.09.2026",
+        "time": "10:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Recht-und-Ethik-der-Kuenstlichen-Intelligenz/2627710K8#inhalt"
+    },
+    {
+        "event": "Die Welt der Computerspiele\r\nGaming in Theorie und Praxis Wann: Sa. , 26.09.26, 10.00 Uhr Wo: Raum 257, 2. OG Nord Nr.: 2627714K8 (@volkshochschule.bielefeld)",
+        "date": "Sa, 26.09.2026",
+        "time": "10:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Die-Welt-der-Computerspiele/2627714K8#inhalt"
+    },
+    {
         "date": "Sa, 26.09",
         "event": "Drum meets Bass (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/drum-meets-bass-3/",
@@ -1413,6 +2526,13 @@
         "image_url": null
     },
     {
+        "event": "\"Berlin goes Schtetl\" - Musik unserer Herzen (@volkshochschule.bielefeld)",
+        "date": "So, 27.09.2026",
+        "time": "17:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Berlin-goes-Schtetl-Musik-unserer-Herzen/2621306E8#inhalt"
+    },
+    {
         "date": "Sun, 27.09.2026",
         "time": "16:00",
         "event": "Flötenkonzert mit Flötissimo (@Ernst-Barlach-Haus)",
@@ -1456,6 +2576,55 @@
         "image_url": "https://tse3.mm.bing.net/th/id/OIP.S2SyS4KZbgQ0_dDtL7HNZgAAAA?pid=Api&P=0&h=180"
     },
     {
+        "event": "Feldwege zum Coming-out (@volkshochschule.bielefeld)",
+        "date": "Mo, 28.09.2026",
+        "time": "10:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Ausstellung-Feldwege-zum-Coming-out/2621307A8#inhalt"
+    },
+    {
+        "event": "Nähen – mit Vorkenntnissen (@volkshochschule.bielefeld)",
+        "date": "Mo, 28.09.2026",
+        "time": "18:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Naehen-mit-Vorkenntnissen/2622638K2#inhalt"
+    },
+    {
+        "event": "Human Forever – Perspektiven für einen würdevollen Umgang mit Menschen mit Demenz\r\nFilmveranstaltung in Kooperation mit dem Regionalbüro Alter, Pflege und Demenz OWL Wann: Mo. , 28.09.26, 17.30 Uhr Wo: Historischer Saal, 3.OG Nord Nr.: 2623006E8 (@volkshochschule.bielefeld)",
+        "date": "Mo, 28.09.2026",
+        "time": "17:30",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Human-Forever-Perspektiven-fuer-einen-wuerdevollen-Umgang-mit-Menschen-mit-Demenz/2623006E8#inhalt"
+    },
+    {
+        "event": "Spanisch A1, 1. Semester in langsamem Tempo (@volkshochschule.bielefeld)",
+        "date": "Mo, 28.09.2026",
+        "time": "11:45",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Spanisch-A1-1-Semester-in-langsamem-Tempo/2624712K8#inhalt"
+    },
+    {
+        "event": "Spanisch A1, 1. Semester (@volkshochschule.bielefeld)",
+        "date": "Mo, 28.09.2026",
+        "time": "18:15",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Spanisch-A1-1-Semester/2624714K8#inhalt"
+    },
+    {
+        "event": "Gewaltfreie Kommunikation im Berufs- und Alltagskontext\r\nBildungsurlaub Wann: ab Mo. , 28.09.26, 9.00 Uhr Wo: Raum 257, 2. OG Nord Nr.: 2625118B8 (@volkshochschule.bielefeld)",
+        "date": "Mo, 28.09.2026",
+        "time": "09:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Gewaltfreie-Kommunikation-im-Berufs--und-Alltagskontext-Bildungsurlaub/2625118B8#inhalt"
+    },
+    {
+        "event": "Digitale Selbstverteidigung\r\nWie wir unsere Daten und unsere Privatsphäre schützen Wann: Mo. , 28.09.26, 18.00 Uhr Wo: Nr.: 2627770E4 (@volkshochschule.bielefeld)",
+        "date": "Mo, 28.09.2026",
+        "time": "18:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Digitale-Selbstverteidigung/2627770E4#inhalt"
+    },
+    {
         "date": "Mon, 28.09.2026",
         "time": "20:00",
         "event": "Joel Brandenstein - Emotionen II Tour (@Lokschuppen)",
@@ -1479,6 +2648,13 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "event": "Jobisai – japanische Prep Meals einfach und vielseitig selbst zubereiten (@volkshochschule.bielefeld)",
+        "date": "Di, 29.09.2026",
+        "time": "17:00",
+        "category": "Bildung",
+        "link": "https://www.vhs-bielefeld.de/programm/kurs/Jobisai-japanische-Prep-Meals-einfach-und-vielseitig-selbst-zubereite/2623371T2#inhalt"
     },
     {
         "date": "Di, 29.09",
@@ -1560,6 +2736,14 @@
     },
     {
         "date": "Th, 01.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 01.10.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -1597,14 +2781,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 01.10.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Do, 01.10",
@@ -1946,6 +3122,14 @@
     },
     {
         "date": "Th, 08.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 08.10.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -1983,14 +3167,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 08.10.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 08.10",
@@ -2273,7 +3449,7 @@
         "time": "19:00",
         "event": "Helene Barop (@nr.z.p)",
         "link": "https://nrzp.de/event/helene-barop",
-        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/Logo_small-150x150.png"
+        "image_url": "https://nrzp.de/wp-content/uploads/2026/09/IMG_7368-scaled.png"
     },
     {
         "date": "We, 14.10.2026",
@@ -2341,6 +3517,14 @@
     },
     {
         "date": "Th, 15.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 15.10.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -2378,14 +3562,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 15.10.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 15.10",
@@ -2531,6 +3707,13 @@
         "category": "Party",
         "link": "https://cafeeuropa.de/event/mi-wet-wednesday-12/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/08/20261021_WetWednesday_4zu5.jpg"
+    },
+    {
+        "date": "Sa, 17.10",
+        "time": "18:00",
+        "event": "Özge İnan (@nr.z.p)",
+        "link": "https://nrzp.de/event/oezge-inan-die-dichterin",
+        "image_url": "https://nrzp.de/wp-content/uploads/2026/09/Kopie-von-Nr.z.P.-Instagram-Plakatvorlage-3.png"
     },
     {
         "date": "Sat, 17.10.2026",
@@ -2706,6 +3889,14 @@
     },
     {
         "date": "Th, 22.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 22.10.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -2743,14 +3934,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 22.10.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Do, 22.10",
@@ -3031,6 +4214,14 @@
     },
     {
         "date": "Th, 29.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 29.10.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -3068,14 +4259,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 29.10.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Do, 29.10",
@@ -3377,6 +4560,14 @@
     },
     {
         "date": "Th, 05.11.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 05.11.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -3414,14 +4605,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 05.11.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 05.11",
@@ -3686,6 +4869,14 @@
     },
     {
         "date": "Th, 12.11.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 12.11.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -3723,14 +4914,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 12.11.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Thu, 12.11.2026",
@@ -3980,6 +5163,14 @@
     },
     {
         "date": "Th, 19.11.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 19.11.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -4017,14 +5208,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 19.11.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Do, 19.11",
@@ -4248,7 +5431,7 @@
         "time": "",
         "event": "Tanztreff (@nr.z.p)",
         "link": "https://nrzp.de/event/tanztreff-16",
-        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/Logo_small-150x150.png"
+        "image_url": ""
     },
     {
         "date": "Th, 26.11.2026",
@@ -4257,6 +5440,14 @@
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 26.11.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 26.11.2026",
@@ -4297,14 +5488,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 26.11.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Thu, 26.11",
@@ -4568,6 +5751,14 @@
     },
     {
         "date": "Th, 03.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 03.12.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -4605,14 +5796,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 03.12.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 03.12",
@@ -4872,6 +6055,14 @@
     },
     {
         "date": "Th, 10.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 10.12.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -4909,14 +6100,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 10.12.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 11.12.2026",
@@ -5149,6 +6332,14 @@
     },
     {
         "date": "Th, 17.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 17.12.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -5186,14 +6377,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 17.12.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 17.12",
@@ -5415,6 +6598,14 @@
     },
     {
         "date": "Th, 24.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 24.12.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -5452,14 +6643,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 24.12.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 25.12.2026",
@@ -5689,6 +6872,14 @@
     },
     {
         "date": "Th, 31.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 31.12.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -5726,14 +6917,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 31.12.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 31.12",
