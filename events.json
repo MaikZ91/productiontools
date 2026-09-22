@@ -171,20 +171,20 @@
         "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1149914903%2F458602689502%2F1%2Foriginal.jpg?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=9fe71dc7482ee7b9a2010ffe02860068"
     },
     {
-        "date": "Mi, 23.09",
-        "time": "23:00",
-        "event": "FR• BLFD – RESIDENTS TAKE OVER (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-blfd-residents-take-over/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/08/20260925_BLFD_4zu5.jpg"
-    },
-    {
         "date": "Mi, 23.09.2026",
         "time": "17:00",
         "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
         "category": "Kino",
         "genre": "Action",
         "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
+        "date": "Mi, 23.09",
+        "time": "23:00",
+        "event": "FR• BLFD – RESIDENTS TAKE OVER (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-blfd-residents-take-over/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/08/20260925_BLFD_4zu5.jpg"
     },
     {
         "date": "Mi, 23.09.2026",
@@ -529,20 +529,20 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Fr, 25.09",
-        "time": "23:00",
-        "event": "SA • LOVE SATURDAYS x COCKTAIL NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-cocktail-night-12/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/07/20260926_Cocktailparty_4zu5.jpg"
-    },
-    {
         "date": "Fr, 25.09.2026",
         "time": "17:00",
         "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
         "category": "Kino",
         "genre": "Action",
         "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
+        "date": "Fr, 25.09",
+        "time": "23:00",
+        "event": "SA • LOVE SATURDAYS x COCKTAIL NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-cocktail-night-12/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/07/20260926_Cocktailparty_4zu5.jpg"
     },
     {
         "date": "Fr, 25.09.2026",
@@ -708,6 +708,14 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Sa, 26.09.2026",
+        "time": "17:00",
+        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Action",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
         "date": "Sat, 26.09",
         "time": "23:00",
         "event": "STEREO FREUNDESKREIS PARTY (@stereobielefeld)",
@@ -730,14 +738,6 @@
         "category": "Party",
         "link": "https://cafeeuropa.de/event/mi-wet-wednesday-11/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/07/20260930_WetWednesday_4zu5.jpg"
-    },
-    {
-        "date": "Sa, 26.09.2026",
-        "time": "17:00",
-        "event": "Spider-Man: Brand New Day (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Action",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Sa, 26.09.2026",
@@ -1352,20 +1352,20 @@
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
-        "date": "Th, 01.10.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
         "date": "Thu, 01.10",
         "time": "22:00",
         "event": "Ersti Party (@sams_bielefeld)",
         "category": "Party",
         "link": "https://www.club-sams.de/veranstaltung/ersti-party-01102026-2200",
         "image_url": "https://www.club-sams.de/data/202608/Bielefeld_02_10_4-5_150.jpg?v=1787843402"
+    },
+    {
+        "date": "Th, 01.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 01.10.2026",
