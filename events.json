@@ -17,6 +17,14 @@
     },
     {
         "date": "Th, 22.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 22.10.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -54,14 +62,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 22.10.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Do, 22.10.2026",
@@ -201,14 +201,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Fr, 23.10",
-        "time": "23:00",
-        "event": "SA • LOVE SATURDAYS x COCKTAIL NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-cocktail-night-13/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/08/20261024_Cocktailparty_4zu5.jpg"
-    },
-    {
         "date": "Fr, 23.10.2026",
         "time": "19:30",
         "event": "Der perfekte Urlaub (@cinemaxx_bielefeld)",
@@ -263,6 +255,14 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_44689",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 23.10",
+        "time": "23:00",
+        "event": "SA • LOVE SATURDAYS x COCKTAIL NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-cocktail-night-13/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/08/20261024_Cocktailparty_4zu5.jpg"
     },
     {
         "date": "Fr, 23.10",
@@ -347,14 +347,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Sa, 24.10",
-        "time": "23:00",
-        "event": "MI • HALLOWEEN WEEK OPENING (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-halloween-week-opening-x-bier-bachelor-2/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/08/20261028_Halloween_Opening_4zu5.jpg"
-    },
-    {
         "date": "Sa, 24.10.2026",
         "time": "19:30",
         "event": "Der perfekte Urlaub (@cinemaxx_bielefeld)",
@@ -377,6 +369,14 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_44776",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 24.10",
+        "time": "23:00",
+        "event": "MI • HALLOWEEN WEEK OPENING (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-halloween-week-opening-x-bier-bachelor-2/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/08/20261028_Halloween_Opening_4zu5.jpg"
     },
     {
         "date": "Sa, 24.10",
@@ -702,14 +702,6 @@
         "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1149914903%2F458602689502%2F1%2Foriginal.jpg?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=9fe71dc7482ee7b9a2010ffe02860068"
     },
     {
-        "date": "Mi, 28.10",
-        "time": "23:00",
-        "event": "FR • HALLOWEEN FRIDAY – SONDERVERANSTALTUNG (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-halloween-friday/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261030_Halloween_Friday_4zu5-1.jpg"
-    },
-    {
         "date": "Mi, 28.10.2026",
         "time": "19:30",
         "event": "Der perfekte Urlaub (@cinemaxx_bielefeld)",
@@ -783,10 +775,18 @@
     },
     {
         "date": "Mi, 28.10",
+        "time": "23:00",
+        "event": "FR • HALLOWEEN FRIDAY – SONDERVERANSTALTUNG (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-halloween-friday/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261030_Halloween_Friday_4zu5-1.jpg"
+    },
+    {
+        "date": "Mi, 28.10",
         "time": "",
         "event": "Tanztreff (@nr.z.p)",
         "link": "https://nrzp.de/event/tanztreff-15",
-        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/Logo_small-150x150.png"
+        "image_url": "https://nrzp.de/wp-content/uploads/2026/06/2-1.png"
     },
     {
         "date": "Wed, 28.10.2026",
@@ -804,6 +804,14 @@
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 29.10.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 29.10.2026",
@@ -844,14 +852,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 29.10.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Do, 29.10.2026",
@@ -965,14 +965,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Fr, 30.10",
-        "time": "22:00",
-        "event": "SA • HALLOWEEN x LENKWERK- CAFE EUROPA ON TOUR (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-halloweenxlenkwerk/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/08/20261031_Halloween_Lenkwerk_4zu5.jpg"
-    },
-    {
         "date": "Fr, 30.10.2026",
         "time": "10:00",
         "event": "Padel Tennis(@hochschulsport_bielefeld)",
@@ -1019,6 +1011,14 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_44689",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 30.10",
+        "time": "22:00",
+        "event": "SA • HALLOWEEN x LENKWERK- CAFE EUROPA ON TOUR (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-halloweenxlenkwerk/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/08/20261031_Halloween_Lenkwerk_4zu5.jpg"
     },
     {
         "date": "Fr, 30.10",
@@ -1120,14 +1120,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Sa, 31.10",
-        "time": "23:00",
-        "event": "MI • BERGFEST (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-bergfest-29/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261104_Bergfest_4zu5_NEU.jpg"
-    },
-    {
         "date": "Sa, 31.10.2026",
         "time": "08:45",
         "event": "Wandern(@hochschulsport_bielefeld)",
@@ -1145,6 +1137,14 @@
     },
     {
         "date": "Sa, 31.10",
+        "time": "23:00",
+        "event": "MI • BERGFEST (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-bergfest-29/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261104_Bergfest_4zu5_NEU.jpg"
+    },
+    {
+        "date": "Sa, 31.10",
         "time": "",
         "event": "Alternative Paradise (@nr.z.p)",
         "link": "https://nrzp.de/event/alternative-paradise",
@@ -1152,7 +1152,7 @@
     },
     {
         "date": "Sa, 31.10",
-        "event": "La Noche del Reggaeton- Halloween Edtition (@forum_bielefeld)",
+        "event": "La Noche del Reggaeton- Halloween Edition (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/la-noche-del-reggaeton/",
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
     },
@@ -1422,6 +1422,14 @@
     },
     {
         "date": "Th, 05.11.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 05.11.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -1459,14 +1467,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 05.11.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Do, 05.11",
@@ -1810,10 +1810,10 @@
     {
         "date": "Mi, 11.11",
         "time": "23:00",
-        "event": "SA • LOVE SATURDAYS (@cafe_europa_bi)",
+        "event": "FR• BLFD – pres. SYDI GONZALES (@cafe_europa_bi)",
         "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-love-saturdays-12/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261114_LoveSaturdays_4zu5_NEU.jpg"
+        "link": "https://cafeeuropa.de/event/fr-blfd-pres-sydi-gonzales/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/10/20261113_BLFD_4zu5.jpg"
     },
     {
         "date": "Wed, 11.11.2026",
@@ -1831,6 +1831,14 @@
         "category": "Party",
         "link": "https://www.facebook.com/search/top?q=platzhirsch",
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
+    },
+    {
+        "date": "Th, 12.11.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 12.11.2026",
@@ -1873,14 +1881,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Th, 12.11.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
         "date": "Thu, 12.11.2026",
         "time": "20:00",
         "event": "Tim Vantol - I’m Coming Home The Intimate Solo Tour 2026 (@Heimat+Hafen Bielefeld)",
@@ -1920,6 +1920,14 @@
         "category": "Kreativität",
         "link": "https://kunsthalle-bielefeld.de/programm/veranstaltungen/#10209",
         "image_url": null
+    },
+    {
+        "date": "Fr, 13.11",
+        "time": "23:00",
+        "event": "SA • LOVE SATURDAYS (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-love-saturdays-12/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261114_LoveSaturdays_4zu5_NEU.jpg"
     },
     {
         "date": "Fr, 13.11",
@@ -2186,6 +2194,14 @@
     },
     {
         "date": "Th, 19.11.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 19.11.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -2223,14 +2239,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 19.11.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Do, 19.11",
@@ -2576,6 +2584,14 @@
     },
     {
         "date": "Th, 26.11.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 26.11.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -2613,14 +2629,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 26.11.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Do, 26.11",
@@ -2928,6 +2936,14 @@
     },
     {
         "date": "Th, 03.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 03.12.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -2965,14 +2981,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 03.12.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Do, 03.12",
@@ -3298,6 +3306,14 @@
     },
     {
         "date": "Th, 10.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 10.12.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -3335,14 +3351,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 10.12.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Fr, 11.12.2026",
@@ -3650,6 +3658,14 @@
     },
     {
         "date": "Th, 17.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 17.12.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -3687,14 +3703,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 17.12.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Do, 17.12",
@@ -3759,6 +3767,15 @@
         "event": "GreenleafKant (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/greenleaf/",
         "image_url": "https://forum-bielefeld.com/wp-content/themes/forumbielefeld/assets/img/forum-logo.png"
+    },
+    {
+        "date": "Fri, 18.12.2026",
+        "time": "19:00",
+        "event": "Eine Nacht vor Weihnachten (@Tor 6 Theaterhaus Bielefeld)",
+        "category": "Theater (Tanzstück)",
+        "description": "Theater (Tanzstück)",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/webform/termine_melden/22440/img_20261021_214636_492.jpg?itok=akjFFZuG",
+        "link": "https://www.bielefeld.jetzt/node/2153939"
     },
     {
         "date": "Fri, 18.12.2026",
@@ -3985,6 +4002,14 @@
     },
     {
         "date": "Th, 24.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 24.12.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -4024,14 +4049,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Th, 24.12.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
         "date": "Fr, 25.12.2026",
         "time": "19:00",
         "event": "*TRIBE CREATIVE CIRCLES*",
@@ -4062,6 +4079,14 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 25.12",
+        "time": "23:00",
+        "event": "DO • CAFE SILVESTERPARTY (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/do-cafe-silvesterparty/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/plugins/events-calendar-pro/src/resources/images/tribe-event-placeholder-image.svg"
     },
     {
         "date": "Fr, 25.12",
@@ -4269,6 +4294,14 @@
     },
     {
         "date": "Th, 31.12.2026",
+        "time": "20:00",
+        "event": "Salsa Party (@movie_liveclub)",
+        "category": "Party",
+        "link": "https://www.movie-bielefeld.de/",
+        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Th, 31.12.2026",
         "time": "18:00",
         "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
         "category": "Sport",
@@ -4306,14 +4339,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Th, 31.12.2026",
-        "time": "20:00",
-        "event": "Salsa Party (@movie_liveclub)",
-        "category": "Party",
-        "link": "https://www.movie-bielefeld.de/",
-        "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
     },
     {
         "date": "Th, 31.12",
