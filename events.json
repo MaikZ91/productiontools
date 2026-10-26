@@ -234,20 +234,20 @@
         "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1149914903%2F458602689502%2F1%2Foriginal.jpg?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=9fe71dc7482ee7b9a2010ffe02860068"
     },
     {
-        "date": "Mi, 28.10.2026",
-        "time": "17:15",
-        "event": "Der perfekte Urlaub (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Komödie",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
-    },
-    {
         "date": "Mi, 28.10",
         "time": "23:00",
         "event": "FR • HALLOWEEN FRIDAY – SONDERVERANSTALTUNG (@cafe_europa_bi)",
         "category": "Party",
         "link": "https://cafeeuropa.de/event/fr-halloween-friday/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261030_Halloween_Friday_4zu5-1.jpg"
+    },
+    {
+        "date": "Mi, 28.10.2026",
+        "time": "17:15",
+        "event": "Der perfekte Urlaub (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Komödie",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Mi, 28.10.2026",
@@ -505,20 +505,20 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Fr, 30.10.2026",
-        "time": "17:15",
-        "event": "Der perfekte Urlaub (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Komödie",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
-    },
-    {
         "date": "Fr, 30.10",
         "time": "22:00",
         "event": "SA • HALLOWEEN x LENKWERK- CAFE EUROPA ON TOUR (@cafe_europa_bi)",
         "category": "Party",
         "link": "https://cafeeuropa.de/event/sa-halloweenxlenkwerk/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/08/20261031_Halloween_Lenkwerk_4zu5.jpg"
+    },
+    {
+        "date": "Fr, 30.10.2026",
+        "time": "17:15",
+        "event": "Der perfekte Urlaub (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Komödie",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Fr, 30.10.2026",
@@ -668,20 +668,20 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Sa, 31.10.2026",
-        "time": "17:15",
-        "event": "Der perfekte Urlaub (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Komödie",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
-    },
-    {
         "date": "Sa, 31.10",
         "time": "23:00",
         "event": "MI • BERGFEST (@cafe_europa_bi)",
         "category": "Party",
         "link": "https://cafeeuropa.de/event/mi-bergfest-29/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261104_Bergfest_4zu5_NEU.jpg"
+    },
+    {
+        "date": "Sa, 31.10.2026",
+        "time": "17:15",
+        "event": "Der perfekte Urlaub (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Komödie",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
         "date": "Sa, 31.10.2026",
@@ -714,12 +714,12 @@
     },
     {
         "date": "Sat, 31.10.2026",
-        "time": "16:00",
-        "event": "Dia de los Muertos (@Internationales Begegnungszentrum  - IBZ)",
+        "time": "14:30",
+        "event": "Dia de los Muertos (@Freizeitzentrum Baumheide)",
         "category": "Traditionelles mexikanisches Kulturfest",
         "description": "Traditionelles mexikanisches Kulturfest",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/webform/termine_melden/22255/a19aa19e-0089-4b9c-8ff9-65d47797e9d8.jpeg?itok=MzEenXz0",
-        "link": "https://www.bielefeld.jetzt/node/2116845"
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/webform/termine_melden/22496/img_5199.jpeg?itok=0hGZHXI2",
+        "link": "https://www.bielefeld.jetzt/node/2165379"
     },
     {
         "date": "Sat, 31.10.2026",
@@ -2589,6 +2589,15 @@
         "link": "https://www.bielefeld.jetzt/node/1726934"
     },
     {
+        "date": "Sat, 28.11.2026",
+        "time": "21:00",
+        "event": "Arcane Allies (D) + Kraut Support (D) in der Extra Blues Bar (@Extra Blues Bar)",
+        "category": "Record Release Show",
+        "description": "Record Release Show",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/webform/termine_melden/22501/arcaneallies_beatown.jpg?itok=ZzzEdSRr",
+        "link": "https://www.bielefeld.jetzt/node/2165389"
+    },
+    {
         "date": "Su, 29.11.2026",
         "time": "19:00",
         "event": "*TRIBE KENNENLERNABEND*",
@@ -2989,6 +2998,15 @@
         "description": "Stimmungsvolles von Küste und mehr.",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/webform/termine_melden/22443/plakat-eventim-advent.jpg?itok=4eSRBqm1",
         "link": "https://www.bielefeld.jetzt/node/2156821"
+    },
+    {
+        "date": "Sun, 06.12.2026",
+        "time": "18:00",
+        "event": "Benjamin Britten - Saint Nicolas Cantata (@St. Bartholomäuskirche Senne (kath.))",
+        "category": "Studiochor Bielefeld, Kinderchor JunOS des Theaters Bielefeld",
+        "description": "Studiochor Bielefeld, Kinderchor JunOS des Theaters Bielefeld",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/webform/termine_melden/22474/flyer-frontseite.jpg?itok=PmjKhZfZ",
+        "link": "https://www.bielefeld.jetzt/node/2162528"
     },
     {
         "date": "Sun, 06.12.2026",
