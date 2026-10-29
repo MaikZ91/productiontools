@@ -57,14 +57,6 @@
     },
     {
         "date": "Do, 29.10.2026",
-        "time": "10:15",
-        "event": "Der perfekte Urlaub (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Komödie",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
-    },
-    {
-        "date": "Do, 29.10.2026",
         "time": "11:30",
         "event": "Tennis(@hochschulsport_bielefeld)",
         "category": "Sport",
@@ -134,6 +126,14 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_44825",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Do, 29.10",
+        "time": "23:00",
+        "event": "FR • HALLOWEEN FRIDAY – SONDERVERANSTALTUNG (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-halloween-friday/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261030_Halloween_Friday_4zu5-1.jpg"
     },
     {
         "date": "Do, 29.10",
@@ -338,22 +338,6 @@
         "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
-        "date": "Sa, 31.10",
-        "time": "22:00",
-        "event": "SA • HALLOWEEN x LENKWERK- CAFE EUROPA ON TOUR (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-halloweenxlenkwerk/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/08/20261031_Halloween_Lenkwerk_4zu5.jpg"
-    },
-    {
-        "date": "Sa, 31.10",
-        "time": "23:00",
-        "event": "MI • BERGFEST (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-bergfest-29/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261104_Bergfest_4zu5_NEU.jpg"
-    },
-    {
         "date": "Sa, 31.10.2026",
         "time": "08:45",
         "event": "Wandern(@hochschulsport_bielefeld)",
@@ -368,6 +352,22 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_44776",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 31.10",
+        "time": "22:00",
+        "event": "SA • HALLOWEEN x LENKWERK- CAFE EUROPA ON TOUR (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-halloweenxlenkwerk/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/08/20261031_Halloween_Lenkwerk_4zu5.jpg"
+    },
+    {
+        "date": "Sa, 31.10",
+        "time": "23:00",
+        "event": "MI • BERGFEST (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-bergfest-29/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261104_Bergfest_4zu5_NEU.jpg"
     },
     {
         "date": "Sa, 31.10",
@@ -768,14 +768,6 @@
         "link": "https://kino.cylex.de/cinemaxx-5994747/"
     },
     {
-        "date": "Mi, 04.11",
-        "time": "23:00",
-        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-back-to-2000-16/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261106_Backto2000_4zu5.jpg"
-    },
-    {
         "date": "Mi, 04.11.2026",
         "time": "16:00",
         "event": "Yoga(@hochschulsport_bielefeld)",
@@ -838,6 +830,14 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_44681",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Mi, 04.11",
+        "time": "23:00",
+        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-back-to-2000-16/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261106_Backto2000_4zu5.jpg"
     },
     {
         "date": "Mi, 04.11",
@@ -1062,22 +1062,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Fr, 06.11",
-        "time": "23:00",
-        "event": "SA • LOVE SATURDAYS x TEQUILA NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-tequila-night-10/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261107_TequilaNight_4zu5.jpg"
-    },
-    {
-        "date": "Fr, 06.11",
-        "time": "23:00",
-        "event": "MI • WYLD WEDNESDAY (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wyld-wednesday-25/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261111_WyldWednesday_4zu5_NEU.jpg"
-    },
-    {
         "date": "Fr, 06.11.2026",
         "time": "10:00",
         "event": "Padel Tennis(@hochschulsport_bielefeld)",
@@ -1124,6 +1108,22 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_44689",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 06.11",
+        "time": "23:00",
+        "event": "SA • LOVE SATURDAYS x TEQUILA NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-tequila-night-10/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261107_TequilaNight_4zu5.jpg"
+    },
+    {
+        "date": "Fr, 06.11",
+        "time": "23:00",
+        "event": "MI • WYLD WEDNESDAY (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wyld-wednesday-25/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261111_WyldWednesday_4zu5_NEU.jpg"
     },
     {
         "date": "Fr, 06.11",
