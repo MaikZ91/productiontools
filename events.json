@@ -1,38 +1,6 @@
 [
     {
         "date": "Fr, 30.10.2026",
-        "time": "19:00",
-        "event": "*TRIBE CREATIVE CIRCLES*",
-        "category": "Kreativität",
-        "link": "https://www.instagram.com/reel/DBwDGB9IL3_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": null
-    },
-    {
-        "date": "Fr, 30.10.2026",
-        "time": "23:00",
-        "event": "LIV/Hinterzimmer Afro FRIDAY (@hinterzimmer.club)",
-        "category": "Party",
-        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
-        "image_url": "https://liv-bielefeld.de/wp-content/uploads/2019/02/BG-Max-Raebel-Hinterzimmer_03.jpg"
-    },
-    {
-        "date": "Fr, 30.10.2026",
-        "time": "23:00",
-        "event": "CUTIE DANCE FRIDAY (@cutiebielefeld)",
-        "category": "Party",
-        "link": "https://www.instagram.com/cutiebielefeld/?hl=de",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Fw8RSOQNOBg4twdohZ5g_fidel-fernando-249dzaujtqq-unsplash.jpg?width=1200&height=900&mode=crop"
-    },
-    {
-        "date": "Fr, 30.10.2026",
-        "time": "07:00",
-        "event": "Wochenmarkt (@Alter Markt, Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Fr, 30.10.2026",
         "time": "22:40",
         "event": "Der perfekte Urlaub (@cinemaxx_bielefeld)",
         "category": "Kino",
@@ -86,6 +54,38 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_44689",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 30.10.2026",
+        "time": "19:00",
+        "event": "*TRIBE CREATIVE CIRCLES*",
+        "category": "Kreativität",
+        "link": "https://www.instagram.com/reel/DBwDGB9IL3_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": null
+    },
+    {
+        "date": "Fr, 30.10.2026",
+        "time": "23:00",
+        "event": "LIV/Hinterzimmer Afro FRIDAY (@hinterzimmer.club)",
+        "category": "Party",
+        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
+        "image_url": "https://liv-bielefeld.de/wp-content/uploads/2019/02/BG-Max-Raebel-Hinterzimmer_03.jpg"
+    },
+    {
+        "date": "Fr, 30.10.2026",
+        "time": "23:00",
+        "event": "CUTIE DANCE FRIDAY (@cutiebielefeld)",
+        "category": "Party",
+        "link": "https://www.instagram.com/cutiebielefeld/?hl=de",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Fw8RSOQNOBg4twdohZ5g_fidel-fernando-249dzaujtqq-unsplash.jpg?width=1200&height=900&mode=crop"
+    },
+    {
+        "date": "Fr, 30.10.2026",
+        "time": "07:00",
+        "event": "Wochenmarkt (@Alter Markt, Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Fr, 30.10",
@@ -148,6 +148,30 @@
     },
     {
         "date": "Sa, 31.10.2026",
+        "time": "22:40",
+        "event": "Der perfekte Urlaub (@cinemaxx_bielefeld)",
+        "category": "Kino",
+        "genre": "Komödie",
+        "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
+        "date": "Sa, 31.10.2026",
+        "time": "08:45",
+        "event": "Wandern(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_45002",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 31.10.2026",
+        "time": "11:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_44776",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 31.10.2026",
         "time": "14:00",
         "event": "*TRIBE WANDERSAMSTAG*",
         "category": "Sport",
@@ -187,14 +211,6 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
-        "date": "Sa, 31.10.2026",
-        "time": "22:40",
-        "event": "Der perfekte Urlaub (@cinemaxx_bielefeld)",
-        "category": "Kino",
-        "genre": "Komödie",
-        "link": "https://kino.cylex.de/cinemaxx-5994747/"
-    },
-    {
         "date": "Sa, 31.10",
         "time": "22:00",
         "event": "SA • HALLOWEEN x LENKWERK- CAFE EUROPA ON TOUR (@cafe_europa_bi)",
@@ -209,22 +225,6 @@
         "category": "Party",
         "link": "https://cafeeuropa.de/event/mi-bergfest-29/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261104_Bergfest_4zu5_NEU.jpg"
-    },
-    {
-        "date": "Sa, 31.10.2026",
-        "time": "08:45",
-        "event": "Wandern(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_45002",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 31.10.2026",
-        "time": "11:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_44776",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Sa, 31.10",
@@ -294,22 +294,6 @@
         "link": "https://www.bielefeld.jetzt/node/1990290"
     },
     {
-        "date": "Su, 01.11.2026",
-        "time": "19:00",
-        "event": "*TRIBE KENNENLERNABEND*",
-        "category": "Ausgehen",
-        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": "https://tse4.mm.bing.net/th/id/OIP.htPgRNUrO64Waz18vYeGCwHaE8?pid=Api&P=0&h=180"
-    },
-    {
-        "date": "Su, 01.11.2026",
-        "time": "09:00",
-        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/uprunningclub/?hl=de",
-        "image_url": null
-    },
-    {
         "date": "So, 01.11.2026",
         "time": "22:40",
         "event": "Der perfekte Urlaub (@cinemaxx_bielefeld)",
@@ -324,6 +308,22 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_44787",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Su, 01.11.2026",
+        "time": "19:00",
+        "event": "*TRIBE KENNENLERNABEND*",
+        "category": "Ausgehen",
+        "link": "https://www.instagram.com/p/CnjcdapLOe7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": "https://tse4.mm.bing.net/th/id/OIP.htPgRNUrO64Waz18vYeGCwHaE8?pid=Api&P=0&h=180"
+    },
+    {
+        "date": "Su, 01.11.2026",
+        "time": "09:00",
+        "event": "Lauftreff @uprunningclub (@Venue Coffee)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/uprunningclub/?hl=de",
+        "image_url": null
     },
     {
         "date": "So, 01.11",
@@ -349,22 +349,6 @@
         "description": "Das ist Bielefeld",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/bild/2026/Danger-Dan-GFXR5147_Jaro_Sanmann_Suffner-1.jpg?itok=QYveWdlj",
         "link": "https://www.bielefeld.jetzt/node/1843529"
-    },
-    {
-        "date": "Mo, 02.11.2026",
-        "time": "20:00",
-        "event": "Pub Quiz (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "Mo, 02.11.2026",
-        "time": "18:00",
-        "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": "https://tse3.mm.bing.net/th/id/OIP.S2SyS4KZbgQ0_dDtL7HNZgAAAA?pid=Api&P=0&h=180"
     },
     {
         "date": "Mo, 02.11.2026",
@@ -455,20 +439,20 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
-        "date": "Tu, 03.11.2026",
-        "time": "18:00",
-        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": "https://tse4.mm.bing.net/th/id/OIP.VTOApn7FxTY9KgXPQ-C0YgHaEK?pid=Api&P=0&h=180"
+        "date": "Mo, 02.11.2026",
+        "time": "20:00",
+        "event": "Pub Quiz (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
     },
     {
-        "date": "Tu, 03.11.2026",
-        "time": "07:00",
-        "event": "Wochenmarkt(@Alter Markt)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+        "date": "Mo, 02.11.2026",
+        "time": "18:00",
+        "event": "*TRIBE POWERWORKOUT (@GELLERSHAGEN PARK TEICH)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": "https://tse3.mm.bing.net/th/id/OIP.S2SyS4KZbgQ0_dDtL7HNZgAAAA?pid=Api&P=0&h=180"
     },
     {
         "date": "Di, 03.11.2026",
@@ -527,6 +511,22 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "date": "Tu, 03.11.2026",
+        "time": "18:00",
+        "event": "*TRIBE TUESDAY RUN(@gellershagenpark_teich)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": "https://tse4.mm.bing.net/th/id/OIP.VTOApn7FxTY9KgXPQ-C0YgHaEK?pid=Api&P=0&h=180"
+    },
+    {
+        "date": "Tu, 03.11.2026",
+        "time": "07:00",
+        "event": "Wochenmarkt(@Alter Markt)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
         "date": "Tu, 03.11",
         "event": "She Past AwayVioflesh (@forum_bielefeld)",
         "link": "https://forum-bielefeld.com/she-past-away-4/",
@@ -577,60 +577,12 @@
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
-        "date": "We, 04.11.2026",
-        "time": "17:00",
-        "event": "Art Night (@loom_bielefeld)",
-        "category": "Kreativität",
-        "link": "https://www.loom-bielefeld.de/events/mini-artnight-e49416/",
-        "image_url": null
-    },
-    {
-        "date": "We, 04.11.2026",
-        "time": "21:00",
-        "event": "Karaoke (@irish_pub_bielefeld)",
-        "category": "Ausgehen",
-        "link": "https://www.irishpub-bielefeld.de/",
-        "image_url": null
-    },
-    {
-        "date": "We, 04.11.2026",
-        "time": "18:00",
-        "event": "*TRIBE BOULDERN (@Kletterhalle Senne)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": "https://tse1.mm.bing.net/th/id/OIP.D7cGrd3eVbKKmPzuTGy3bAHaE7?pid=Api&P=0&h=180"
-    },
-    {
-        "date": "We, 04.11.2026",
-        "time": "07:00",
-        "event": "Wochenmarkt(@Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "We, 04.11.2026",
-        "time": "20:00",
-        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
-        "image_url": null
-    },
-    {
         "date": "Mi, 04.11.2026",
         "time": "22:40",
         "event": "Der perfekte Urlaub (@cinemaxx_bielefeld)",
         "category": "Kino",
         "genre": "Komödie",
         "link": "https://kino.cylex.de/cinemaxx-5994747/"
-    },
-    {
-        "date": "Mi, 04.11",
-        "time": "23:00",
-        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-back-to-2000-16/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261106_Backto2000_4zu5.jpg"
     },
     {
         "date": "Mi, 04.11.2026",
@@ -697,6 +649,54 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "date": "We, 04.11.2026",
+        "time": "17:00",
+        "event": "Art Night (@loom_bielefeld)",
+        "category": "Kreativität",
+        "link": "https://www.loom-bielefeld.de/events/mini-artnight-e49416/",
+        "image_url": null
+    },
+    {
+        "date": "We, 04.11.2026",
+        "time": "21:00",
+        "event": "Karaoke (@irish_pub_bielefeld)",
+        "category": "Ausgehen",
+        "link": "https://www.irishpub-bielefeld.de/",
+        "image_url": null
+    },
+    {
+        "date": "We, 04.11.2026",
+        "time": "18:00",
+        "event": "*TRIBE BOULDERN (@Kletterhalle Senne)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": "https://tse1.mm.bing.net/th/id/OIP.D7cGrd3eVbKKmPzuTGy3bAHaE7?pid=Api&P=0&h=180"
+    },
+    {
+        "date": "We, 04.11.2026",
+        "time": "07:00",
+        "event": "Wochenmarkt(@Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "We, 04.11.2026",
+        "time": "20:00",
+        "event": "Lauftreff @teilzeitläufer (@Rathaus)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/teilzeitlaeuferbi/",
+        "image_url": null
+    },
+    {
+        "date": "Mi, 04.11",
+        "time": "23:00",
+        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-back-to-2000-16/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261106_Backto2000_4zu5.jpg"
+    },
+    {
         "date": "Mi, 04.11",
         "time": "",
         "event": "FLINTA* Ping Pong (@nr.z.p)",
@@ -751,46 +751,6 @@
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
-    },
-    {
-        "date": "Th, 05.11.2026",
-        "time": "18:00",
-        "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
-        "category": "Sport",
-        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "image_url": "https://tse4.mm.bing.net/th/id/OIP.z4_tOpHu9LDKhBvwMmtfaAHaDF?pid=Api&P=0&h=180"
-    },
-    {
-        "date": "Th, 05.11.2026",
-        "time": "19:00",
-        "event": "Lauftreff @apero_runners (@Luttercafe)",
-        "category": "Sport",
-        "link": "https://www.instagram.com/apero_runners/?hl=de",
-        "image_url": "https://scontent-dus1-1.cdninstagram.com/v/t51.2885-19/438862626_403374899131107_8121470992097519210_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDM3LmMyIn0&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QHUcQrauDzCYoMIDEPYrSYe85kBc7OrgBVsELXVLgFHqjVKxfWchabFl5yxG5JeRPI&_nc_ohc=xXJD1wXmVekQ7kNvwGrwK6s&_nc_gid=LdvieMPHIMzmntbW1-1odQ&edm=APoiHPcBAAAA&ccb=7-5&oh=00_AfjuW9iBlNTXK85tzmUvZC-i4pResgtv0LA4Fb_XVznVzg&oe=691B7A59&_nc_sid=22de04"
-    },
-    {
-        "date": "Th, 05.11.2026",
-        "time": "18:00",
-        "event": "Afterwork (@harmsmarkt)",
-        "category": "Ausgehen",
-        "link": "https://harms-markt.de/allgemein/after-work/",
-        "image_url": null
-    },
-    {
-        "date": "Th, 05.11.2026",
-        "time": "21:00",
-        "event": "PingPong(@nr.z.p)",
-        "category": "Ausgehen",
-        "link": "https://nrzp.de/programm/",
-        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/dein_abschnittstext.jpg"
-    },
-    {
-        "date": "Th, 05.11.2026",
-        "time": "07:00",
-        "event": "Wochenmarkt (@Brackwede)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
         "date": "Do, 05.11.2026",
@@ -873,6 +833,46 @@
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
+        "date": "Th, 05.11.2026",
+        "time": "18:00",
+        "event": "*TRIBE FUSSBALL (@Obersee Fussballplatz)*",
+        "category": "Sport",
+        "link": "https://www.instagram.com/p/C__Hi7qoFmn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "image_url": "https://tse4.mm.bing.net/th/id/OIP.z4_tOpHu9LDKhBvwMmtfaAHaDF?pid=Api&P=0&h=180"
+    },
+    {
+        "date": "Th, 05.11.2026",
+        "time": "19:00",
+        "event": "Lauftreff @apero_runners (@Luttercafe)",
+        "category": "Sport",
+        "link": "https://www.instagram.com/apero_runners/?hl=de",
+        "image_url": "https://scontent-dus1-1.cdninstagram.com/v/t51.2885-19/438862626_403374899131107_8121470992097519210_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDM3LmMyIn0&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QHUcQrauDzCYoMIDEPYrSYe85kBc7OrgBVsELXVLgFHqjVKxfWchabFl5yxG5JeRPI&_nc_ohc=xXJD1wXmVekQ7kNvwGrwK6s&_nc_gid=LdvieMPHIMzmntbW1-1odQ&edm=APoiHPcBAAAA&ccb=7-5&oh=00_AfjuW9iBlNTXK85tzmUvZC-i4pResgtv0LA4Fb_XVznVzg&oe=691B7A59&_nc_sid=22de04"
+    },
+    {
+        "date": "Th, 05.11.2026",
+        "time": "18:00",
+        "event": "Afterwork (@harmsmarkt)",
+        "category": "Ausgehen",
+        "link": "https://harms-markt.de/allgemein/after-work/",
+        "image_url": null
+    },
+    {
+        "date": "Th, 05.11.2026",
+        "time": "21:00",
+        "event": "PingPong(@nr.z.p)",
+        "category": "Ausgehen",
+        "link": "https://nrzp.de/programm/",
+        "image_url": "https://nrzp.de/wp-content/uploads/2023/02/dein_abschnittstext.jpg"
+    },
+    {
+        "date": "Th, 05.11.2026",
+        "time": "07:00",
+        "event": "Wochenmarkt (@Brackwede)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
         "date": "Do, 05.11",
         "time": "23:00",
         "event": "Ping Pong (@nr.z.p)",
@@ -901,46 +901,6 @@
         "category": "Party",
         "link": "https://www.club-sams.de/veranstaltung/875-tune-in-06112026-2300",
         "image_url": "https://www.club-sams.de/data/202610/Klaudia_150.jpg?v=1790849870"
-    },
-    {
-        "date": "Fr, 06.11.2026",
-        "time": "23:00",
-        "event": "LIV/Hinterzimmer Afro FRIDAY (@hinterzimmer.club)",
-        "category": "Party",
-        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
-        "image_url": "https://liv-bielefeld.de/wp-content/uploads/2019/02/BG-Max-Raebel-Hinterzimmer_03.jpg"
-    },
-    {
-        "date": "Fr, 06.11.2026",
-        "time": "23:00",
-        "event": "CUTIE DANCE FRIDAY (@cutiebielefeld)",
-        "category": "Party",
-        "link": "https://www.instagram.com/cutiebielefeld/?hl=de",
-        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Fw8RSOQNOBg4twdohZ5g_fidel-fernando-249dzaujtqq-unsplash.jpg?width=1200&height=900&mode=crop"
-    },
-    {
-        "date": "Fr, 06.11.2026",
-        "time": "07:00",
-        "event": "Wochenmarkt (@Alter Markt, Siegfriedplatz)",
-        "category": "Ausgehen",
-        "link": "https://www.bielefeld.jetzt/wochenmarkt",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Fr, 06.11",
-        "time": "23:00",
-        "event": "SA • LOVE SATURDAYS x TEQUILA NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-tequila-night-10/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261107_TequilaNight_4zu5.jpg"
-    },
-    {
-        "date": "Fr, 06.11",
-        "time": "23:00",
-        "event": "MI • WYLD WEDNESDAY (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wyld-wednesday-25/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261111_WyldWednesday_4zu5_NEU.jpg"
     },
     {
         "date": "Fr, 06.11.2026",
@@ -989,6 +949,46 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_44689",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Fr, 06.11.2026",
+        "time": "23:00",
+        "event": "LIV/Hinterzimmer Afro FRIDAY (@hinterzimmer.club)",
+        "category": "Party",
+        "link": "https://www.instagram.com/liv.bielefeld/?hl=de",
+        "image_url": "https://liv-bielefeld.de/wp-content/uploads/2019/02/BG-Max-Raebel-Hinterzimmer_03.jpg"
+    },
+    {
+        "date": "Fr, 06.11.2026",
+        "time": "23:00",
+        "event": "CUTIE DANCE FRIDAY (@cutiebielefeld)",
+        "category": "Party",
+        "link": "https://www.instagram.com/cutiebielefeld/?hl=de",
+        "image_url": "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/Fw8RSOQNOBg4twdohZ5g_fidel-fernando-249dzaujtqq-unsplash.jpg?width=1200&height=900&mode=crop"
+    },
+    {
+        "date": "Fr, 06.11.2026",
+        "time": "07:00",
+        "event": "Wochenmarkt (@Alter Markt, Siegfriedplatz)",
+        "category": "Ausgehen",
+        "link": "https://www.bielefeld.jetzt/wochenmarkt",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
+    },
+    {
+        "date": "Fr, 06.11",
+        "time": "23:00",
+        "event": "SA • LOVE SATURDAYS x TEQUILA NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-tequila-night-10/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261107_TequilaNight_4zu5.jpg"
+    },
+    {
+        "date": "Fr, 06.11",
+        "time": "23:00",
+        "event": "MI • WYLD WEDNESDAY (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wyld-wednesday-25/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261111_WyldWednesday_4zu5_NEU.jpg"
     },
     {
         "date": "Fr, 06.11",
@@ -1079,6 +1079,22 @@
     },
     {
         "date": "Sa, 07.11.2026",
+        "time": "08:45",
+        "event": "Wandern(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_45002",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 07.11.2026",
+        "time": "11:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_44776",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 07.11.2026",
         "time": "09:00",
         "event": "Lauftreff @oberseeparkrun (@Obersee)",
         "category": "Sport",
@@ -1108,22 +1124,6 @@
         "category": "Ausgehen",
         "link": "https://www.bielefeld.jetzt/wochenmarkt",
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
-    },
-    {
-        "date": "Sa, 07.11.2026",
-        "time": "08:45",
-        "event": "Wandern(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_45002",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 07.11.2026",
-        "time": "11:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_44776",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Sa, 07.11",
@@ -1159,6 +1159,14 @@
         "link": "https://www.bielefeld.jetzt/node/1394280"
     },
     {
+        "date": "So, 08.11.2026",
+        "time": "11:00",
+        "event": "Laufen(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_44787",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
         "date": "Su, 08.11.2026",
         "time": "19:00",
         "event": "*TRIBE KENNENLERNABEND*",
@@ -1173,14 +1181,6 @@
         "category": "Sport",
         "link": "https://www.instagram.com/uprunningclub/?hl=de",
         "image_url": null
-    },
-    {
-        "date": "So, 08.11.2026",
-        "time": "11:00",
-        "event": "Laufen(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_44787",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "So, 08.11",
