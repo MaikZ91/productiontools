@@ -33,7 +33,7 @@
     },
     {
         "date": "Fr, 30.10.2026",
-        "time": "10:15",
+        "time": "22:40",
         "event": "Der perfekte Urlaub (@cinemaxx_bielefeld)",
         "category": "Kino",
         "genre": "Komödie",
@@ -188,27 +188,11 @@
     },
     {
         "date": "Sa, 31.10.2026",
-        "time": "10:15",
+        "time": "22:40",
         "event": "Der perfekte Urlaub (@cinemaxx_bielefeld)",
         "category": "Kino",
         "genre": "Komödie",
         "link": "https://kino.cylex.de/cinemaxx-5994747/"
-    },
-    {
-        "date": "Sa, 31.10.2026",
-        "time": "08:45",
-        "event": "Wandern(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_45002",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Sa, 31.10.2026",
-        "time": "11:30",
-        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
-        "category": "Sport",
-        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_44776",
-        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Sa, 31.10",
@@ -225,6 +209,22 @@
         "category": "Party",
         "link": "https://cafeeuropa.de/event/mi-bergfest-29/#tribe-tickets__tickets-form",
         "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261104_Bergfest_4zu5_NEU.jpg"
+    },
+    {
+        "date": "Sa, 31.10.2026",
+        "time": "08:45",
+        "event": "Wandern(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_45002",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
+    },
+    {
+        "date": "Sa, 31.10.2026",
+        "time": "11:30",
+        "event": "Fitnesstraining(@hochschulsport_bielefeld)",
+        "category": "Sport",
+        "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_44776",
+        "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
     },
     {
         "date": "Sa, 31.10",
@@ -311,7 +311,7 @@
     },
     {
         "date": "So, 01.11.2026",
-        "time": "10:15",
+        "time": "22:40",
         "event": "Der perfekte Urlaub (@cinemaxx_bielefeld)",
         "category": "Kino",
         "genre": "Komödie",
@@ -368,7 +368,7 @@
     },
     {
         "date": "Mo, 02.11.2026",
-        "time": "10:15",
+        "time": "22:40",
         "event": "Der perfekte Urlaub (@cinemaxx_bielefeld)",
         "category": "Kino",
         "genre": "Komödie",
@@ -472,7 +472,7 @@
     },
     {
         "date": "Di, 03.11.2026",
-        "time": "10:15",
+        "time": "22:40",
         "event": "Der perfekte Urlaub (@cinemaxx_bielefeld)",
         "category": "Kino",
         "genre": "Komödie",
@@ -618,11 +618,19 @@
     },
     {
         "date": "Mi, 04.11.2026",
-        "time": "10:15",
+        "time": "22:40",
         "event": "Der perfekte Urlaub (@cinemaxx_bielefeld)",
         "category": "Kino",
         "genre": "Komödie",
         "link": "https://kino.cylex.de/cinemaxx-5994747/"
+    },
+    {
+        "date": "Mi, 04.11",
+        "time": "23:00",
+        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/fr-back-to-2000-16/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261106_Backto2000_4zu5.jpg"
     },
     {
         "date": "Mi, 04.11.2026",
@@ -687,14 +695,6 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_44681",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Mi, 04.11",
-        "time": "23:00",
-        "event": "FR• BACK TO 2000 (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/fr-back-to-2000-16/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261106_Backto2000_4zu5.jpg"
     },
     {
         "date": "Mi, 04.11",
@@ -794,7 +794,7 @@
     },
     {
         "date": "Do, 05.11.2026",
-        "time": "10:15",
+        "time": "22:40",
         "event": "Der perfekte Urlaub (@cinemaxx_bielefeld)",
         "category": "Kino",
         "genre": "Komödie",
@@ -927,6 +927,22 @@
         "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/large/public/bild/2025/Altstadtmarkt-9.jpg?itok=Ixkx10CN"
     },
     {
+        "date": "Fr, 06.11",
+        "time": "23:00",
+        "event": "SA • LOVE SATURDAYS x TEQUILA NIGHT (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-tequila-night-10/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261107_TequilaNight_4zu5.jpg"
+    },
+    {
+        "date": "Fr, 06.11",
+        "time": "23:00",
+        "event": "MI • WYLD WEDNESDAY (@cafe_europa_bi)",
+        "category": "Party",
+        "link": "https://cafeeuropa.de/event/mi-wyld-wednesday-25/#tribe-tickets__tickets-form",
+        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261111_WyldWednesday_4zu5_NEU.jpg"
+    },
+    {
         "date": "Fr, 06.11.2026",
         "time": "10:00",
         "event": "Padel Tennis(@hochschulsport_bielefeld)",
@@ -973,22 +989,6 @@
         "category": "Sport",
         "link": "https://hsp.sport.uni-bielefeld.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_44689",
         "image_url": "https://www.uni-bielefeld.de/__uuid/e4523e8b-a93a-4b4d-97ff-66c808ae7e0e/10-09-2008_Sport_Universitat_Bielefeld_(1044).jpg"
-    },
-    {
-        "date": "Fr, 06.11",
-        "time": "23:00",
-        "event": "SA • LOVE SATURDAYS x TEQUILA NIGHT (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/sa-love-saturdays-x-tequila-night-10/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261107_TequilaNight_4zu5.jpg"
-    },
-    {
-        "date": "Fr, 06.11",
-        "time": "23:00",
-        "event": "MI • WYLD WEDNESDAY (@cafe_europa_bi)",
-        "category": "Party",
-        "link": "https://cafeeuropa.de/event/mi-wyld-wednesday-25/#tribe-tickets__tickets-form",
-        "image_url": "https://cafeeuropa.de/wp-content/uploads/2026/09/20261111_WyldWednesday_4zu5_NEU.jpg"
     },
     {
         "date": "Fr, 06.11",
@@ -2924,19 +2924,19 @@
         "date": "Wed, 09.12.2026",
         "time": "20:00",
         "event": "Sondaschule - \"Wir bleiben Wach Tour\" 2026 (@Lokschuppen)",
-        "category": "",
+        "category": "Ausverkaufte Headliner-Shows, drei Top-Ten-Alben in Folge und Dauergast bei allen namhaften...",
         "description": "Das ist Bielefeld",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/sondaschule-tickets-2026.jpg?itok=1KN40QbQ",
-        "link": "https://www.bielefeld.jetzt/node/1731775"
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/bild/2026/25-SONDASCHULE-DSC08936-72dpi-1-C-floehlich.jpg?itok=BBwWKlC3",
+        "link": "https://www.bielefeld.jetzt/node/1712786"
     },
     {
         "date": "Wed, 09.12.2026",
         "time": "20:00",
         "event": "Sondaschule - \"Wir bleiben Wach Tour\" 2026 (@Lokschuppen)",
-        "category": "Ausverkaufte Headliner-Shows, drei Top-Ten-Alben in Folge und Dauergast bei allen namhaften...",
+        "category": "",
         "description": "Das ist Bielefeld",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/bild/2026/25-SONDASCHULE-DSC08936-72dpi-1-C-floehlich.jpg?itok=BBwWKlC3",
-        "link": "https://www.bielefeld.jetzt/node/1712786"
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/imported_events/bielefeld_veranstaltung_importer_eventim/sondaschule-tickets-2026.jpg?itok=1KN40QbQ",
+        "link": "https://www.bielefeld.jetzt/node/1731775"
     },
     {
         "date": "Th, 10.12.2026",
