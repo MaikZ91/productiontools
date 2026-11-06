@@ -149,15 +149,6 @@
     {
         "date": "Fri, 06.11.2026",
         "time": "20:00",
-        "event": "Das Katzentreffen in der akw (@auto-kultur-werkstatt (akw))",
-        "category": "Der Tierschutztreff im Quartier",
-        "description": "Das ist Bielefeld",
-        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/webform/termine_melden/21994/img_20160925_153036.jpg?itok=hx47oonw",
-        "link": "https://www.bielefeld.jetzt/node/2071862"
-    },
-    {
-        "date": "Fri, 06.11.2026",
-        "time": "20:00",
         "event": "Low Budget - A Tribute to The Kinks (@Movie)",
         "category": "We are not like anybody else",
         "description": "Das ist Bielefeld",
@@ -3633,6 +3624,15 @@
     },
     {
         "date": "Sun, 27.12.2026",
+        "time": "16:00",
+        "event": "Weihnachtkonzert (@Ernst-Barlach-Haus)",
+        "category": "SCHIPPLICK UND TEGELER",
+        "description": "Das ist Bielefeld",
+        "image_url": "https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/webform/termine_melden/22653/nicole_schipplick_klaus_tegeler_fluegel_2.version.jpg?itok=ZDvPpS2w",
+        "link": "https://www.bielefeld.jetzt/node/2192861"
+    },
+    {
+        "date": "Sun, 27.12.2026",
         "time": "17:00",
         "event": "extrem Tanzbar im Spiegelzelt (@Ravensberger Park)",
         "category": "Die Party nach X-Mas!",
@@ -3754,20 +3754,20 @@
         "image_url": "https://www.bielefeld-app.de/media/processed/80EB0D40-D9E5-4CA5-91AD-21A7EBC961D6_1.jpeg"
     },
     {
-        "date": "Thu, 31.12",
-        "time": "22:30",
-        "event": "SILVESTER RAVE with KIM AHLF & POWERLAURA (@sams_bielefeld)",
-        "category": "Party",
-        "link": "https://www.club-sams.de/veranstaltung/silvester-rave-with-kim-ahlf-powerlaura-31122026-2230",
-        "image_url": "https://www.club-sams.de/data/202611/Silvester_rave_Logo__150.jpg?v=1793811638"
-    },
-    {
         "date": "Th, 31.12.2026",
         "time": "20:00",
         "event": "Salsa Party (@movie_liveclub)",
         "category": "Party",
         "link": "https://www.movie-bielefeld.de/",
         "image_url": "https://www.tampham.co/content/images/size/w1460/2023/03/DSC06014.JPEG"
+    },
+    {
+        "date": "Thu, 31.12",
+        "time": "22:30",
+        "event": "SILVESTER RAVE with KIM AHLF & POWERLAURA (@sams_bielefeld)",
+        "category": "Party",
+        "link": "https://www.club-sams.de/veranstaltung/silvester-rave-with-kim-ahlf-powerlaura-31122026-2230",
+        "image_url": "https://www.club-sams.de/data/202611/Silvester_rave_Logo__150.jpg?v=1793811638"
     },
     {
         "date": "Th, 31.12.2026",
